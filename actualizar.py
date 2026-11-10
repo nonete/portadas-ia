@@ -85,6 +85,12 @@ def leer_json(archivo: Path, por_defecto):
     return por_defecto
 
 
+def leer_secreto(nombre: str) -> str:
+    """Lee un Secret y le quita espacios, saltos de línea y comillas sobrantes,
+    que se cuelan con facilidad al copiar y pegar."""
+    return os.environ[nombre].strip().strip("\"'").strip()
+
+
 def turno_actual(ahora: datetime) -> int | None:
     """Devuelve la última hora de actualización ya cumplida hoy (8, 11, 14...).
 
@@ -280,8 +286,7 @@ def noticias_a_texto(noticias: list[dict]) -> str:
 
 def analizar(portadas: dict[str, list[dict]], nombre_modelo: str) -> tuple[dict, dict]:
     """Devuelve (análisis general, {periódico: análisis})."""
-    # .strip() quita espacios o saltos de línea que se cuelan al pegar la clave.
-    clave = os.environ["OPENAI_API_KEY"].strip()
+    clave = leer_secreto("OPENAI_API_KEY")
     modelo = ChatOpenAI(api_key=clave, model=nombre_modelo)
 
     # Una "cadena" de LangChain: prompt -> modelo -> resultado.
@@ -361,7 +366,7 @@ def main() -> None:
         print(f"La actualización de las {turno}:00 ya está hecha.")
         return
 
-    nombre_modelo = os.environ["OPENAI_MODEL"].strip()
+    nombre_modelo = leer_secreto("OPENAI_MODEL")
 
     print("Leyendo portadas…")
     portadas = leer_portadas()
