@@ -1,38 +1,38 @@
 {
   "fecha": "2026-11-10",
   "turno": 20,
-  "generado": "10/11/2026 21:52",
-  "modelo": "gpt-4o-mini",
+  "generado": "10/11/2026 22:07",
+  "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "Los temas más repetidos incluyen la entrevista de David Broncano a Santiago Abascal, con críticas y reflexiones sobre la cobertura mediática. Además, se destacan las reacciones políticas ante la visita de Abascal a ‘La revuelta’ y el dolor por el accidente ferroviario en Urda. Destaca también la cuestión de la política de inmigración del PP, que no aparece en otros diarios.",
-    "crispacion": 75,
-    "motivo_crispacion": "El día presenta un alto nivel de crispación debido a la controversia en torno a la entrevista de David Broncano a Santiago Abascal, que ha generado reacciones en cadena entre diferentes partidos políticos y medios. La crítica a la elección del público por parte de Vox y la disparidad de opiniones sobre la representación política alimentan un ambiente de tensión. A esto se suma la indignación por la ausencia de Pedro Sánchez en el funeral por las víctimas del accidente de tren, que ha sido motivo de controversia y acusaciones en varios medios."
+    "temas": "Se repiten el funeral por las víctimas del accidente ferroviario de Urda, la polémica por la entrevista de Abascal en ‘La revuelta’ y el programa electoral del PP. También aparecen la huelga por la vivienda y los salarios y la explosión en Oviedo. Solo OKdiario destaca los problemas de seguridad relacionados con las claves de eMudhra.",
+    "crispacion": 72,
+    "motivo_crispacion": "La entrevista de Abascal en ‘La revuelta’ provoca críticas desde la izquierda y debate sobre el papel de RTVE y la elección del público. El funeral de Urda combina el duelo con exigencias de responsabilidades y críticas, a veces insultantes, a la ausencia de Sánchez. La huelga por la vivienda y los salarios y el piquete ante una inmobiliaria reflejan tensión social. Las medidas de seguridad ferroviaria, las noticias meteorológicas y algunas piezas culturales aportan contenidos menos confrontativos."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Hoy, la clase trabajadora de nuestro país enfrenta un ataque sistemático y despiadado desde las instituciones que deberían defendernos. La reciente polémica en torno a la entrevista de David Broncano con Santiago Abascal refleja cómo los medios de comunicación han caído en una trampa de falsa pluralidad. Permitir que un líder de extrema derecha elija su público y suavice su discurso en prime time es un acto de complicidad que silencia la voz de la clase obrera y nuestros derechos fundamentales. \n\nMientras tanto, la propuesta del PP de desmantelar el ingreso mínimo vital es otra señal alarmante de cómo el gran capital busca relegarnos a una vida de precariedad y desesperanza. No podemos permitir que la propiedad colectiva y los servicios públicos sean sacrificados en favor de unos pocos. La lucha sigue siendo nuestra: defender los derechos de la clase trabajadora y exigir un futuro donde la justicia social sea la norma, no la excepción."
+      "texto": "Veo en la huelga general una respuesta necesaria a una realidad de clase: los salarios y la vivienda no son problemas separados cuando una parte creciente de lo que ganamos acaba en el alquiler. Frente al poder de los grandes propietarios, defiendo la organización sindical, la regulación de los precios y la ampliación de la vivienda pública y colectiva. Una casa debe ser un derecho, no una máquina de extraer rentas.\n\nTambién pienso en las víctimas de Urda y en sus familias. Exigir que se esclarezcan las causas y se asuman responsabilidades es inseparable de defender un ferrocarril público seguro, con recursos y participación de sus trabajadores. Las nuevas inspecciones son una medida, pero la seguridad no puede depender de la lógica del beneficio. Los servicios esenciales deben responder a la sociedad, no al gran capital."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "Hoy, las noticias están impregnadas de la rutina del sistema: entrevistas manipuladoras y promesas de políticos que sólo buscan afianzar su poder. La situación de la política española, con figuras como Abascal, representa la inercia de un Estado que prioriza el espectáculo sobre la sinceridad y el diálogo real. David Broncano, al lamentar su encuentro con un representante de la ultraderecha, evidencia una lucha interna que muchos enfrentamos: ¿cómo lidiar con la legitimación de figuras que promueven discursos de odio?\n\nEl luto en Toledo por las víctimas del accidente ferroviario muestra la tragedia que enfrenta la gente común, mientras el Gobierno promete “refuerzos” que apenas raspan la superficie de lo que realmente se necesita. La solución no está en aumentar la burocracia estatal, sino en promover la autogestión, el apoyo mutuo y la construcción de estructuras horizontales que prioricen las necesidades colectivas de nuestra comunidad. La verdadera justicia comienza cuando, en lugar de representantes, somos nosotros mismos quienes hacemos escuchar nuestra voz."
+      "texto": "La huelga por la vivienda, los salarios y el coste de la vida me parece una oportunidad para recordar que los derechos no nacen de la generosidad del poder. Se conquistan cuando quienes sostienen la sociedad se organizan. No confío en que los partidos, ni siquiera cuando respaldan una protesta, renuncien por ello a administrar nuestra dependencia. Prefiero sindicatos y redes vecinales capaces de decidir desde abajo, sin entregar su autonomía a ningún gobierno.\n\nTambién miro la tragedia de Urda con dolor y con una exigencia: esclarecer las causas y asumir responsabilidades. Más inspecciones y la posibilidad de que los maquinistas paren ante riesgos son medidas importantes, pero la seguridad no debería depender solo de órdenes de arriba. Quienes trabajan en el ferrocarril y quienes lo utilizan deben tener voz y capacidad real de decisión. La libertad colectiva también se construye cuidándonos."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "Hoy, el espectáculo mediático de la política española se ha visto eclipsado por la tendencia a sacrificar la libre expresión en favor de la corrección política. La entrevista de David Broncano a Santiago Abascal, en la cual el presentador se muestra arrepentido, es un claro ejemplo de cómo nuestros espacios públicos se han dejado llevar por la presión de lo que es aceptable o no en la narrativa dominante. En lugar de alentar un debate auténtico y plural, se opta por filtros que limitan la diversidad de perspectivas.\n\nEs esencial recordar que la libertad de expresión debe abarcar todas las voces, especialmente aquellas que no se ajustan a la corriente mayoritaria. La responsabilidad personal incluye escuchar y discernir, no silenciar por miedo a la crítica. Para fomentar un verdadero estado de bienestar, necesitamos permitir que el libre mercado de ideas fluya sin obstáculos, así como un gobierno limitado que permita a los individuos prosperar sin las cadenas del intervencionismo estatal. Solo así podremos avanzar hacia una sociedad más libre y próspera."
+      "texto": "Veo en la huelga por la vivienda y los salarios una preocupación legítima, pero discrepo de quienes buscan la solución en un Estado cada vez más intervencionista. Defiendo el derecho a parar y también el de trabajar. Para aliviar el coste de la vivienda, prefiero facilitar la construcción, proteger la propiedad y eliminar trabas que desincentivan la oferta. Los impuestos bajos dejan más recursos en manos de quienes los ganan y emprenden.\n\nEl programa del PP promete rebajas fiscales, pero mantener sin cambios significativos las pensiones plantea una pregunta: ¿cómo sostenerlas sin cargar la factura sobre las generaciones futuras? Un Estado limitado debe gastar con responsabilidad, no limitarse a prometer menos impuestos. Y tras la tragedia de Urda, tiene una obligación esencial: esclarecer las causas, exigir responsabilidades y garantizar una supervisión ferroviaria eficaz."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "El reciente escándalo alrededor de la entrevista de David Broncano a Santiago Abascal es un claro reflejo de la manipulación que las élites mediáticas han ejercido sobre la política española. Lamentablemente, Broncano ha terminado lamentando su forma de abordar la conversación, lo que pone de manifiesto la presión que siente un presentador de televisión que no se atreve a dar voz a un líder que representa a una parte significativa de la sociedad. La pluralidad informativa no se logra silenciando ni menospreciando las ideas de quienes no pertenecen a la “correcta” izquierda.\n\nAdemás, la respuesta del Gobierno frente a la inseguridad y la inmigración es inaceptable. La reciente tragedia de Oviedo y la falta de acción decidida ante la crisis en nuestras fronteras muestran que nuestras instituciones están más preocupadas por el discurso progresista que por la seguridad de los ciudadanos. El futuro de nuestra nación depende de que se priorice la soberanía y los intereses de los españoles por encima de las agendas globalistas."
+      "texto": "El funeral de Urda me recuerda que una nación es algo más que una administración: es una comunidad que honra a sus muertos y exige justicia para las familias. Celebro el refuerzo de la seguridad ferroviaria, pero no basta con anunciar medidas; hay que esclarecer las causas y asumir responsabilidades.\n\nTambién creo que España debe recuperar el control de su política migratoria. Las ayudas limitadas deben atender primero a quienes tienen arraigo, y las fronteras deben estar sujetas a reglas estrictas que nosotros decidamos. La solidaridad necesita orden y obligaciones, no promesas imposibles. Del programa del PP espero compromisos verificables, no solo gestos electorales.\n\nEn la televisión pública quiero entrevistas exigentes para todos, no una pluralidad condicionada por el escándalo que dicten las élites políticas y mediáticas. Una democracia fuerte escucha ideas distintas y las somete al juicio de los ciudadanos."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Los acontecimientos de hoy ponen de manifiesto la complicada interacción entre la política y los medios de comunicación, así como las demandas sociales por justicia y transparencia. La entrevista de David Broncano a Abascal ha generado controversia, evidenciando la necesidad de ser críticos al proporcionar plataformas a voces extremas. La pluralidad informativa es esencial, pero debe equilibrarse con la responsabilidad de promover un debate saludable y fundamentado, sin caer en la trampa de la desinformación.\n\nAsimismo, lamento que en el funeral de las víctimas del tren de Urda, la atención se desvíe hacia la ausencia de líderes, en lugar de centrarse en el duelo y la exigencia de responsabilidades. Las instituciones deben estar a la altura de las circunstancias, garantizando justicia y reparación. En un clima de polarización, necesitamos recordar la importancia del diálogo y las reformas graduales que beneficien a toda la sociedad, no solo a unos pocos."
+      "texto": "Hoy pienso en las víctimas de Urda y en sus familias. El refuerzo de las inspecciones ferroviarias es una decisión necesaria, pero no sustituye el esclarecimiento de las causas ni la exigencia de responsabilidades. Defender las instituciones significa pedirles que rindan cuentas, no protegerlas de las preguntas incómodas.\n\nTambién escucho las razones de quienes secundan la huelga por la vivienda y los salarios. Una economía de mercado solo merece confianza si ofrece oportunidades reales y una red de protección suficiente. Por eso me preocupa que una renta de activación pueda dejar sin apoyo a personas vulnerables: incentivar el empleo es legítimo, pero las garantías importan. Prefiero reformas negociadas y evaluables a promesas que enfrenten trabajo y protección social. Y en la televisión pública, pluralidad no debería significar renunciar al contraste ni entregar a un partido el control del público."
     }
   ],
   "periodicos": [
@@ -41,9 +41,9 @@
       "web": "https://elpais.com",
       "noticias": [
         {
-          "titulo": "David Broncano entona el ‘mea culpa’ por su entrevista con Abascal: “Estoy triste, me arrepiento de muchas cosas”",
-          "entradilla": "El presentador de ‘La revuelta’ ha comentado ante varios periodistas su entrevista al líder de Vox. “Muchas veces Abascal estaba hablando y yo estaba pensando por dentro: ‘Tío, eres tonto, la he cagado”",
-          "enlace": "https://elpais.com/television/2026-11-10/david-broncano-entona-el-mea-culpa-por-su-entrevista-con-abascal-estoy-triste-me-arrepiento-de-muchas-cosas.html"
+          "titulo": "Broncano rectifica y vuelve al humor en ‘La revuelta’: “Soy la persona que más ha decepcionado a la izquierda después de Gabriel Rufián”",
+          "entradilla": "El presentador comienza la emisión de este martes con una explicación a la polémica entrevista con Santiago Abascal y reconoce a EL PAÍS que nunca ha recibido presiones por parte de RTVE",
+          "enlace": "https://elpais.com/television/2026-11-10/broncano-rectifica-y-vuelve-al-humor-en-la-revuelta-soy-la-persona-que-mas-ha-decepcionado-a-la-izquierda-despues-de-gabriel-rufian.html"
         },
         {
           "titulo": "Así se gestó la visita de Abascal a ‘La revuelta’: “RTVE envió invitaciones a más programas; Vox solo aceptó ir a Broncano tras conocer los datos de audiencia de Pedro Sánchez”",
@@ -102,10 +102,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- David Broncano se muestra arrepentido por su entrevista con Abascal y critica su actuación. \n- Se detalla cómo Vox eligió a Broncano para su entrevista, buscando maximizar su imagen pública. \n- Los detalles omitidos de las respuestas de Abascal durante la entrevista generan controversia. \n- Se debate la catástrofe del periodismo político representada por esta entrevista. \n- Un arzobispo pide justicia por las víctimas del accidente ferroviario en el funeral de Toledo.",
-        "populismo": 75,
-        "motivo_populismo": "Los titulares incluyen lenguaje alarmista y emocional con frases como 'catástrofe y muerte del periodismo político' y destacan un enfrentamiento implícito entre la credibilidad periodística y las elites políticas.",
-        "sesgo": "Hay un enfoque crítico hacia la figura de Abascal y el tratamiento mediático que ha recibido, lo que sugiere una inclinación a cuestionar la pluralidad informativa en su contexto político."
+        "resumen": "- La entrevista de Abascal en ‘La revuelta’ centra varias noticias sobre su preparación, edición y repercusión.\n- La portada cuestiona afirmaciones del candidato sobre feminismo e incluye una crítica a la entrevista.\n- El funeral por las víctimas del accidente de tren coincide con el anuncio de nuevas medidas de seguridad ferroviaria.\n- Una explosión en Oviedo causa la muerte de un policía y deja a otro gravemente herido.\n- El programa electoral del PP aborda ayudas, presupuestos, educación, fiscalidad y derechos sociales.",
+        "populismo": 28,
+        "motivo_populismo": "Expresiones como «catástrofe y muerte del periodismo político» y «El dolor no cabía» aportan dramatismo, aunque predominan titulares descriptivos y no se aprecia una apelación al pueblo contra las élites.",
+        "sesgo": "La portada dedica una atención destacada y crítica a la entrevista de Abascal, incluida una pieza de opinión. Sobre el PP, selecciona propuestas potencialmente controvertidas junto con sus compromisos económicos y electorales."
       }
     },
     {
@@ -174,10 +174,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- Feijóo propone una nueva renta de activación sin refugiarse en herencias.  \n- Sira Rego exige a TikTok que cese actividades por contenido dañino.  \n- La abogada en el 'Caso cloacas' del PSOE renuncia a su defensa.  \n- Se produce un choque político por las palabras de Abascal.  \n- Más de 100 policías buscan al fugitivo 'Ruso' en Oviedo.  \n- Solemne despedida a las víctimas del accidente de Urda, critican la ausencia del presidente.  \n- La Fiscalía presenta denuncia por filtración de conversaciones de controladores de Urda.",
-        "populismo": 60,
-        "motivo_populismo": "La cobertura incluye lenguaje emocional y acusaciones de corrupción, así como descalificaciones hacia figuras políticas, lo que genera un tono de enfrentamiento entre 'ellos' (las élites) y 'el pueblo'.",
-        "sesgo": "Se observa un sesgo en la manera de presentar las noticias políticas y sociales, enfatizando el conflicto y las críticas hacia figuras de la élite política, así como un enfoque sensacionalista en algunas historias, especialmente en temas de seguridad y responsabilidades gubernamentales."
+        "resumen": "- Feijóo propone sustituir el ingreso mínimo vital por una renta de activación; la campaña también protagoniza noticias sobre Abascal y el voto en Teruel.\n- Sira Rego pide detener la actividad de TikTok en España y la abogada de Koldo García renuncia a su defensa.\n- Urda centra la despedida a las víctimas, las críticas por la ausencia de Sánchez y una denuncia de la Fiscalía por la difusión de conversaciones de controladores.\n- La portada aborda la búsqueda del fugitivo de Oviedo y la situación de la familia del fundador de Blocus.\n- También incluye el desafío de un congresista republicano a Trump y un libro de Anna Caballé sobre la droga y el sida.",
+        "populismo": 45,
+        "motivo_populismo": "Expresiones como «cazar al Ruso» y «ese apaño», junto con la cita «tiene mucho miedo al pueblo», aportan dramatización y confrontación a una portada que también contiene titulares informativos.",
+        "sesgo": "Se aprecia un enfoque crítico hacia el Gobierno y sectores de la izquierda, especialmente en la cobertura de Urda y en la descripción del voto en Teruel. La propuesta del PP se presenta principalmente en sus propios términos."
       }
     },
     {
@@ -185,14 +185,9 @@
       "web": "https://www.abc.es",
       "noticias": [
         {
-          "titulo": "El funeral por las víctimas exige «que se esclarezcan las causas y se asuman responsabilidades»",
-          "entradilla": "Bajo las imponentes naves góticas de la Catedral Primada de Toledo, una sobrecogedora fe envuelve a los cerca de 150 familiares de las víctimas y supervivientes del trágico accidente ferroviario, asentados en los bancos centrales con el rostro de luto y la mirada clavada en el altar mayor. Son las s",
-          "enlace": "https://www.abc.es/espana/funeral-victimas-urda-exige-esclarezcan-causas-asuman-20261110195633-nt.html"
-        },
-        {
-          "titulo": "«Broncano y Abascal: la izquierda pidiendo las sales»",
-          "entradilla": "",
-          "enlace": "https://www.abc.es/espana/broncano-abascal-izquierda-pidiendo-sales-20261110210547-nt.html"
+          "titulo": "Feijóo convierte la política de inmigración en la gran novedad de su programa electoral",
+          "entradilla": "Lo advirtió el propio Alberto Núñez Feijóo. Lo que presenta el PP para las elecciones generales del 29 de noviembre no es un programa electoral convencional. Es, en primer lugar, una enmienda a la totalidad de los ocho años de Gobierno de Pedro Sánchez. Tanto en contenido –medidas concretas y leyes ",
+          "enlace": "https://www.abc.es/espana/feijoo-convierte-politica-inmigracion-gran-novedad-programa-20261110201649-nt.html"
         },
         {
           "titulo": "España llora en la catedral",
@@ -200,9 +195,24 @@
           "enlace": "https://www.abc.es/espana/espana-llora-catedral-20261110210030-nt.html"
         },
         {
-          "titulo": "Feijóo convierte la política de inmigración en la gran novedad de su programa electoral",
-          "entradilla": "Lo advirtió el propio Alberto Núñez Feijóo. Lo que presenta el PP para las elecciones generales del 29 de noviembre no es un programa electoral convencional. Es, en primer lugar, una enmienda a la totalidad de los ocho años de Gobierno de Pedro Sánchez. Tanto en contenido –medidas concretas y leyes ",
-          "enlace": "https://www.abc.es/espana/feijoo-convierte-politica-inmigracion-gran-novedad-programa-20261110201649-nt.html"
+          "titulo": "Detienen de nuevo al padre de Meghan Markle por quitarse el brazalete electrónico",
+          "entradilla": "Thomas Markle, padre de Meghan, Duquesa de Sussex, ha sido detenido en Florida por supuestamente quitarse el dispositivo electrónico de localización que llevaba en el tobillo, según informaron funcionarios del departamento de justicia en Los Ángeles.Nuestra redacción está trabajando para ampliar la ",
+          "enlace": "https://www.abc.es/gente/detienen-nuevo-padre-meghan-markle-quitarse-brazalete-20261110215053-nt.html"
+        },
+        {
+          "titulo": "El funeral por las víctimas exige «que se esclarezcan las causas y se asuman responsabilidades»",
+          "entradilla": "Bajo las imponentes naves góticas de la Catedral Primada de Toledo, una sobrecogedora fe envuelve a los cerca de 150 familiares de las víctimas y supervivientes del trágico accidente ferroviario, asentados en los bancos centrales con el rostro de luto y la mirada clavada en el altar mayor. Son las s",
+          "enlace": "https://www.abc.es/espana/funeral-victimas-urda-exige-esclarezcan-causas-asuman-20261110195633-nt.html"
+        },
+        {
+          "titulo": "Broncano admite que se arrepiente «de muchas cosas»: «La he cagado»",
+          "entradilla": "Apenas unas horas después de la esperada entrevista al líder de Vox, Santiago Abascal , en 'La Revuelta', el presentador David Broncano ha reconocido este martes que se arrepiente de no haber usado más la comedia durante la entrevista y de haber permitido a la formación política elegir al público qu",
+          "enlace": "https://www.abc.es/play/television/noticias/broncano-admite-arrepiente-entrevista-abascal-cagado-20261110194253-nt.html"
+        },
+        {
+          "titulo": "«Broncano y Abascal: la izquierda pidiendo las sales»",
+          "entradilla": "",
+          "enlace": "https://www.abc.es/espana/broncano-abascal-izquierda-pidiendo-sales-20261110210547-nt.html"
         },
         {
           "titulo": "El Sindicato de Inquilinas monta un piquete dentro de la sede de Alquiler Seguro en Madrid",
@@ -220,11 +230,6 @@
           "enlace": "https://www.abc.es/espana/pais-vasco/bildu-doblaria-escanos-pnv-29n-perderia-grupo-20261110023010-nt.html"
         },
         {
-          "titulo": "Broncano admite que se arrepiente «de muchas cosas» de la entrevista a Abascal: «La he cagado»",
-          "entradilla": "Apenas unas horas después de la esperada entrevista al líder de Vox, Santiago Abascal , en 'La Revuelta', el presentador David Broncano ha reconocido este martes que se arrepiente de no haber usado más la comedia durante la entrevista y de haber permitido a la formación política elegir al público qu",
-          "enlace": "https://www.abc.es/play/television/noticias/broncano-admite-arrepiente-entrevista-abascal-cagado-20261110194253-nt.html"
-        },
-        {
           "titulo": "Ucrania y Rusia, lejos del acuerdo en el comienzo de las conversaciones de paz en Abu Dabi",
           "entradilla": "Nueve meses después de la última cumbre trilateral, Rusia y Ucrania negocian en Abu Dabi con la mediación de Estados Unidos en un nuevo intento para acabar con una guerra que vive su quinto año y deja miles de muertos. Los equipos ruso, ucraniano y estadounidense trabajaron durante cuatro horas el p",
           "enlace": "https://www.abc.es/internacional/primera-jornada-conversaciones-paz-abu-dabi-salda-20261110201737-nt.html"
@@ -238,18 +243,13 @@
           "titulo": "Café con canela: cómo hacerlo y sus beneficios",
           "entradilla": "",
           "enlace": "https://www.abc.es/recetasderechupete/cafe-con-canela-que-beneficios-tiene-cuales-no-estan-demostrados-y-como-prepararlo/180414/"
-        },
-        {
-          "titulo": "Tortilla de patatas y setas: fácil y jugosa",
-          "entradilla": "",
-          "enlace": "https://www.abc.es/gastronomia/falsa-rechupete-20240712032340-nt.html"
         }
       ],
       "analisis": {
-        "resumen": "- El funeral en la Catedral Primada de Toledo recuerda a las víctimas del accidente ferroviario.\n- Se exige esclarecer las causas del accidente y asumir responsabilidades.\n- Nahuel Rodríguez señala que la izquierda pide 'sales' en respuesta a Broncano y Abascal.\n- La borrasca Bruna provoca lluvias intensas en Ávila y se activa la alerta por viento.\n- La Audiencia Nacional revoca la semilibertad de la exjefa de ETA Soledad Iparraguirre 'Anboto'.",
-        "populismo": 55,
-        "motivo_populismo": "Se advierte un tono emocional y sensacionalista en el tratamiento de las víctimas del accidente y la situación política en general, con descalificaciones hacia ciertos grupos.",
-        "sesgo": "La selección de las noticias y su redacción apuntan hacia una atención notable en los conflictos políticos y sociales, así como en la respuesta emocional ante tragedias, lo que sugiere un enfoque activista."
+        "resumen": "- Feijóo destaca la inmigración en su programa electoral.\n- El funeral por las víctimas del accidente de Urda centra dos titulares.\n- Se aborda la entrevista de Abascal con Broncano y sus reacciones.\n- La portada trata sobre EH Bildu, la semilibertad de «Anboto» y un piquete de inquilinos.\n- También incluye noticias sobre las borrascas, Ucrania, Thomas Markle y el café con canela.",
+        "populismo": 35,
+        "motivo_populismo": "Predominan los titulares informativos, aunque «España llora» apela a la emoción y «la izquierda pidiendo las sales» introduce una descalificación burlona.",
+        "sesgo": "Se aprecia un enfoque emocional en la cobertura del funeral y una mirada crítica o burlona hacia la izquierda en el titular sobre Broncano y Abascal. La selección también da presencia a la política electoral y judicial."
       }
     },
     {
@@ -257,71 +257,71 @@
       "web": "https://www.publico.es",
       "noticias": [
         {
-          "titulo": "Quirón y su matriz alemana cobraron 91 millones en adjudicaciones a dedo de los hospitales públicos madrileños",
+          "titulo": "Siete personas que secundan la huelga general cuentan a 'Público' qué les ha llevado a parar este 11N",
           "entradilla": "",
-          "enlace": "https://www.publico.es/politica/quiron-matriz-alemana-cobraron-91-millones-adjudicaciones-dedo-hospitales-publicos-madrilenos.html"
+          "enlace": "https://www.publico.es/sociedad/siete-personas-secundan-huelga-general-cuentan-publico-llevado-parar-11n.html"
         },
         {
-          "titulo": "Feijóo presenta el programa electoral del PP acusando a Sánchez de ser el presidente del \"gobierno de las orgías\"",
+          "titulo": "José Babiano Mora: \"Los ataques al derecho de huelga son una mezcla de herencia franquista y de neoliberalismo\"",
           "entradilla": "",
-          "enlace": "https://www.publico.es/politica/feijoo-presenta-programa-electoral-pp-acusando-sanchez-presidente-gobierno-orgias.html"
+          "enlace": "https://www.publico.es/economia/jose-babiano-mora-ataques-derecho-huelga-son-mezcla-herencia-franquista-neoliberalismo.html"
         },
         {
-          "titulo": "Sánchez: \"Mientras nosotros hemos expulsado la corrupción, el PP la ha comprado\"",
+          "titulo": "El derecho a huelga, ¿en peligro?",
           "entradilla": "",
-          "enlace": "https://www.publico.es/politica/sanchez-hemos-expulsado-corrupcion-pp-comprado.html"
+          "enlace": "https://www.publico.es/opinion/columnas/derecho-huelga-peligro.html"
         },
         {
-          "titulo": "El Sindicato de Inquilinas de Madrid realiza un piquete en la sede central de Alquiler Seguro a pocas horas del comienzo de la huelga general",
+          "titulo": "La vivienda, los salarios y el coste de la vida empujan a España a una huelga general",
           "entradilla": "",
-          "enlace": "https://www.publico.es/economia/vivienda/sindicato-inquilinas-madrid-realiza-piquete-sede-central-alquiler-seguro-pocas-horas-comienzo-huelga-general.html"
+          "enlace": "https://www.publico.es/economia/vivienda-salarios-coste-vida-razones-llevan-espana-huelga-general.html"
         },
         {
-          "titulo": "Ahora Broncano es periodista y Abascal no insulta",
+          "titulo": "El Gobierno despeja su agenda y respalda una huelga inédita: \"No es contra nadie sino a favor de derechos\"",
           "entradilla": "",
-          "enlace": "https://www.publico.es/opinion/columnas/ahora-broncano-periodista-abascal-insulta.html"
+          "enlace": "https://www.publico.es/politica/gobierno/gobierno-despeja-agenda-respalda-huelga-inedita-nadie-favor-derechos.html"
         },
         {
-          "titulo": "Quince razones y pico para tener verdadero miedo a Vox",
+          "titulo": "El alquiler como fábrica de pobreza: ¿Cómo hemos llegado hasta aquí?",
           "entradilla": "",
-          "enlace": "https://www.publico.es/opinion/quince-razones-pico-tener-verdadero-miedo-vox.html"
+          "enlace": "https://www.publico.es/economia/vivienda/alquiler-fabrica-pobreza-hemos-llegado-aqui.html"
         },
         {
-          "titulo": "El Gobierno apoya a Broncano tras la entrevista de Abascal en 'La Revuelta': \"No hay mayor insulto que amenazar a un presentador\"",
+          "titulo": "Unai Sordo (UGT): \"Si la huelga general condiciona la campaña electoral, pues ni tan mal\"",
           "entradilla": "",
-          "enlace": "https://www.publico.es/politica/gobierno-apoya-broncano-entrevista-abascal-revuelta-hay-mayor-insulto-amenazar-presentador.html"
+          "enlace": "https://www.publico.es/economia/unai-sordo-huelga-general-condiciona-campana-electoral-pues-mal.html"
         },
         {
-          "titulo": "Abascal se pasea por 'La Revuelta' con su discurso ultra ante un público entregado que eligió él mismo",
+          "titulo": "Pepe Álvarez (CCOO): \"No hay convenio que resista el aumento del coste de la vivienda\"",
           "entradilla": "",
-          "enlace": "https://www.publico.es/politica/partidos/broncano-admite-equipo-abascal-encargo-gestion-publico.html"
+          "enlace": "https://www.publico.es/economia/pepe-alvarez-hay-convenio-resista-aumento-coste-vivienda.html"
         },
         {
-          "titulo": "Las redes dictan sentencia sobre la entrevista de Broncano a Abascal: \"La sensación es la de estar viendo un accidente en directo\"",
+          "titulo": "Miguel Fadrique (CGT): \"No se puede solucionar el problema de la vivienda sin solucionar el problema de los salarios\"",
           "entradilla": "",
-          "enlace": "https://www.publico.es/tremending/redes-dictan-sentencia-sobre-entrevista-broncano-abascal-sensacion-estar-viendo-accidente-directo.html"
+          "enlace": "https://www.publico.es/economia/miguel-fadrique-puede-solucionar-problema-vivienda-solucionar-problema-salarios.html"
         },
         {
-          "titulo": "La reflexión viral de Silvia Intxaurrondo tras la entrevista de Broncano a Abascal: “¿Debe tener cabida la extrema derecha en la televisión pública?”",
+          "titulo": "Guía de la huelga general: servicios mínimos en colegios, transporte y salarios",
           "entradilla": "",
-          "enlace": "https://www.publico.es/tremending/reflexion-viral-silvia-intxaurrondo-entrevista-broncano-abascal-debe-tener-cabida-extrema-derecha-television-publica.html"
+          "enlace": "https://www.publico.es/sociedad/guia-huelga-general-11-noviembre-servicios-minimos-colegios-transporte-salarios.html"
         },
         {
-          "titulo": "\"Entre mi mujer y yo te podríamos pagar un programa\": estas son las respuestas de Abascal a las preguntas clásicas que 'La Revuelta' no emitió",
+          "titulo": "Estas son las convocatorias de manifestación en toda España",
           "entradilla": "",
-          "enlace": "https://www.publico.es/politica/mujer-te-podriamos-pagar-programa-son-respuestas-abascal-pregunta-clasicas-revuelta-emitio.html"
+          "enlace": "https://www.publico.es/sociedad/manifestaciones-huelga-general-11n-son-convocatorias-toda-espaana.html"
         },
         {
-          "titulo": "La visita de Abascal a 'La Revuelta' arroja su programa más visto de la historia y la duda de si será pan para hoy y hambre para mañana",
+          "titulo": "Cómo funciona la web de los sindicatos para organizar y seguir la huelga",
           "entradilla": "",
-          "enlace": "https://www.publico.es/mira/visita-abascal-revuelta-arroja-programa-visto-historia-duda.html"
+          "enlace": "https://www.publico.es/sociedad/web-sindicatos-organizar-seguir-huelga-general-11-noviembre.html"
         }
       ],
       "analisis": {
-        "resumen": "- Acusaciones de corrupción en la gestión hospitalaria de Madrid por parte de Quirón.  \n- Feijóo del PP critica a Sánchez usando lenguaje despectivo.  \n- Sánchez responde acusando al PP de corrupción.  \n- El Sindicato de Inquilinas de Madrid organiza un piquete.  \n- Reacciones controversiales sobre la aparición de Abascal en un programa de televisión.",
-        "populismo": 85,
-        "motivo_populismo": "Predominan ataques personales y lenguaje emocional como \"gobierno de las orgías\", además de simplificaciones sobre temas complejos como la corrupción y la representación mediática de Abascal.",
-        "sesgo": "La portada muestra un fuerte enfrentamiento entre las figuras políticas destacadas, reflejando una polarización en el discurso político actual, con un enfoque en acusaciones y reacciones emocionales."
+        "resumen": "- La portada se centra en la huelga general del 11N y recoge testimonios de quienes la secundan.\n- La vivienda, los salarios y el coste de la vida aparecen como motivos de la protesta.\n- Se aborda el derecho de huelga y el respaldo del Gobierno a la convocatoria.\n- Representantes sindicales relacionan la huelga con la vivienda, los salarios y la campaña electoral.\n- Varias noticias ofrecen información práctica sobre servicios mínimos, manifestaciones y seguimiento de la huelga.",
+        "populismo": 30,
+        "motivo_populismo": "Expresiones como «fábrica de pobreza» y «ataques al derecho de huelga» aportan carga emocional, aunque buena parte de los titulares es informativa.",
+        "sesgo": "La selección y la redacción muestran un enfoque favorable a la huelga, centrado en sus motivos y en las voces que la respaldan. No se incluyen en la lista posturas contrarias a la convocatoria."
       }
     },
     {
@@ -329,8 +329,23 @@
       "web": "https://okdiario.com",
       "noticias": [
         {
+          "titulo": "La clave secreta era el número 4: Cloudflare detecta 22.000 intentos de conexión con las claves débiles de eMudhra, aún aceptadas en grandes redes",
+          "entradilla": "Cloudflare ha medido el alcance de las claves débiles de eMudhra, una autoridad de certificación india cuya clave privada más simple equivalía al número 4. La empresa registró unos 22.000 intentos de conexión con ellas en una semana. En las grandes redes, más de la mitad de sus sondeos aún acepta la",
+          "enlace": "https://okdiario.com/techy/claves-debiles-emudhra-cloudflare-22000-intentos-20737124"
+        },
+        {
+          "titulo": "Fran Sol reconoce que «un jugador en activo muy famoso» ha donado 10.000 euros a la familia de Jesús de Miguel",
+          "entradilla": "Fran Sol inició una campaña solidaria con el objetivo de recaudar fondos para la familia de Jesús de Miguel, en la que se ha superado la barrera de los 100.000 euros y destaca el anonimato de uno de sus grandes donantes. El delantero del Hércules ha desvelado que «un futbolista muy famoso» está detr",
+          "enlace": "https://okdiario.com/deportes/fran-sol-reconoce-que-jugador-activo-muy-famoso-donado-10-000-euros-familia-jesus-miguel-20746390"
+        },
+        {
+          "titulo": "Feijóo honra a las víctimas de Urda en el funeral de Toledo mientras Sánchez se va a grabar un podcast: «Todo mi cariño»",
+          "entradilla": "El líder del Partido Popular, Alberto Núñez Feijóo, ha asistido al funeral por los 69 fallecidos en el accidente ferroviario de Urda celebrado este martes en Toledo, al que ha acudido con varios barones del partido. Feijóo ha expresado su «tristeza» y su cariño a los familiares y amigos de las vícti",
+          "enlace": "https://okdiario.com/espana/feijoo-honra-victimas-urda-funeral-toledo-mientras-sanchez-va-grabar-podcast-todo-carino-20747463"
+        },
+        {
           "titulo": "Inda: «Sólo un ser diabólico como Pedro Sánchez da plantón al funeral y se va a grabar un podcast»",
-          "entradilla": "El director de OKDIARIO, Eduardo Inda, ha cargado contra Pedro Sánchez por su ausencia en la misa funeral por las víctimas del accidente ferroviario de Urda, y por haber preferido, según ha dicho, grabar un podcast. “Estas son las categorías de menor a mayor de la maldad”, ha afirmado en su vídeo, a",
+          "entradilla": "El director de OKDIARIO, Eduardo Inda, ha cargado contra Pedro Sánchez por su ausencia en la misa funeral por las víctimas del accidente ferroviario de Urda, y por haber preferido, según ha dicho, grabar un podcast. «Estas son las categorías de menor a mayor de la maldad», ha afirmado en su vídeo, a",
           "enlace": "https://okdiario.com/opinion/inda-solo-ser-diabolico-como-pedro-sanchez-da-planton-funeral-va-grabar-podcast-20747410"
         },
         {
@@ -372,28 +387,13 @@
           "titulo": "Harrison Ford, actor a sus 84 años: «Lo único que le diría a la gente es que se aferre a lo que es individual en ellos»",
           "entradilla": "El legendario actor estadounidense Harrison Ford, conocido mundialmente por sus papeles del capitán Han Solo e Indiana Jones, ha vuelto a inspirar a millones de personas con una frase enfocada en la vida y en la creatividad. Ford aseguró que «lo único que le diría a la gente es que se aferre a lo qu",
           "enlace": "https://okdiario.com/curiosidades/harrison-ford-actor-sus-84-anos-lo-unico-que-diria-gente-que-aferre-lo-que-individual-ellos-18968850"
-        },
-        {
-          "titulo": "Acaba de llegar a Netflix y ya está en el Top 1: el thriller español con Luis Zahera y Karra Elejalde que engancha desde el primer momento",
-          "entradilla": "Después de Torrente presidente y 53 domingos, parecía que Netflix no podía sorprendernos con otro fenómeno viral del cine español. Pero hace escasos días, el thriller Colisión ha impactado –nunca mejor dicho– en los suscriptores de la «gran N roja», bajo un reclamo por la unanimidad de la prensa esp",
-          "enlace": "https://okdiario.com/cool/television/acaba-llegar-netflix-ya-esta-top-1-thriller-espanol-luis-zahera-karra-elejalde-que-engancha-desde-primer-momento-20743806"
-        },
-        {
-          "titulo": "Cuatro motores, 8 minutos y 19 segundos y anclado al suelo: la NASA encendió su cohete SLS en la prueba más potente de Stennis en 40 años",
-          "entradilla": "El 18 de marzo de 2021, la etapa central del cohete SLS encendió sus cuatro motores RS-25 durante 8 minutos y 19 segundos. Lo hizo anclada al banco de pruebas B-2 del Centro Espacial Stennis de la NASA, en Misisipi. Según la nota de la agencia, alcanzó más de 1,6 millones de libras de empuje … Conti",
-          "enlace": "https://okdiario.com/techy/cohete-sls-prueba-motores-rs25-stennis-green-run-20737109"
-        },
-        {
-          "titulo": "Los cinco errores que España sigue cometiendo al interpretar Estados Unidos",
-          "entradilla": "Los que llevamos muchos años viviendo en Estados Unidos nos sentimos una mezcla de frustración y sorpresa cuando escuchamos cómo se explica en España el funcionamiento político, económico y social de este país. No pretendo decir que Estados Unidos sea perfecto. Ni mucho menos. Tiene problemas import",
-          "enlace": "https://okdiario.com/opinion/cinco-errores-que-espana-sigue-cometiendo-interpretar-estados-unidos-20746624"
         }
       ],
       "analisis": {
-        "resumen": "- Eduardo Inda critica enérgicamente a Pedro Sánchez por no asistir a un funeral y, en cambio, grabar un podcast.  \n- Hay una reflexión del cantante Raphael sobre la necesidad de avanzar en sociedad.  \n- Un anuncio sobre una oferta de MediaMarkt para una bicicleta eléctrica.  \n- Se menciona la situación de personas que rebuscan comida en la basura mientras Sánchez graba su podcast.  \n- Información sobre un cambio normativo en la UE que afecta a la documentación personal a partir de 2027.",
-        "populismo": 85,
-        "motivo_populismo": "Utiliza un lenguaje emocional y de descalificación hacia Pedro Sánchez, presentándolo como 'diabólico' y enfrenta situaciones de miseria social con su ausencia.",
-        "sesgo": "Se aprecia un enfoque crítico y negativo hacia Pedro Sánchez, resaltando sus acciones en contraste con la situación de vulnerabilidad de otros ciudadanos."
+        "resumen": "- Varios titulares contrastan el funeral por las víctimas de Urda con la grabación de un podcast de Pedro Sánchez; uno recoge una dura descalificación de Eduardo Inda.\n- Cloudflare detecta 22.000 intentos de conexión con claves débiles de la autoridad de certificación eMudhra.\n- La campaña para la familia de Jesús de Miguel supera los 100.000 euros, con una donación anónima de un futbolista.\n- La portada aborda el uso del DNI y el permiso de conducir en el móvil y una oferta de bicicleta eléctrica.\n- Otros temas incluyen la gestión de lobos y osos en Alaska y reflexiones atribuidas a figuras culturales.",
+        "populismo": 72,
+        "motivo_populismo": "Destacan la descalificación «ser diabólico», el contraste emocional entre el funeral y el podcast y la expresión «La España de Sánchez» junto a personas que buscan comida en la basura.",
+        "sesgo": "La selección y redacción de varias noticias muestran un enfoque crítico con Pedro Sánchez, al contraponer sus actos con el funeral y la situación de personas vulnerables. El resto de la portada combina tecnología, consumo y contenidos culturales."
       }
     }
   ]
