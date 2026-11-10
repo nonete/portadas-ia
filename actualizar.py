@@ -220,8 +220,9 @@ class AnalisisGeneral(BaseModel):
         description="Nivel de crispación del día, de 0 (calma) a 100 (máxima tensión).",
     )
     motivo_crispacion: str = Field(
-        description="Una frase (máximo 30 palabras) que resuma por qué el día tiene "
-        "ese nivel de crispación, citando los asuntos concretos."
+        description="Resumen de 3 o 4 frases (entre 60 y 90 palabras) que explique "
+        "por qué el día tiene ese nivel de crispación: qué asuntos concretos generan "
+        "tensión, entre quiénes, y qué noticias más tranquilas la compensan, si las hay."
     )
 
 
