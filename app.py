@@ -9,6 +9,7 @@ Los colores generales (fondo claro, color principal…) están en
 .streamlit/config.toml. El resto del diseño está en el bloque ESTILOS.
 """
 
+import base64
 import json
 from datetime import datetime, timedelta
 from html import escape
@@ -19,6 +20,10 @@ import streamlit as st
 
 HORAS = [8, 11, 14, 17, 20]     # las mismas que en actualizar.py
 CARPETA = Path(__file__).parent / "datos"
+
+# Crispito, la mascota. Sus GIF se crean con crear_crispito.py.
+CARPETA_CRISPITO = Path(__file__).parent / "crispito"
+ESTADOS_CRISPITO = ["Zen", "Tranquilo", "Mosqueado", "Molesto", "Enfadado", "¡A punto de estallar!"]
 
 # Un color para distinguir cada periódico (es solo decorativo).
 COLORES = {
@@ -72,6 +77,13 @@ ESTILOS = """
     margin-left: auto; color: #ffffff; border-radius: 999px;
     padding: 4px 14px; font-size: .82rem; font-weight: 700;
 }
+
+/* Crispito junto a la nota */
+.crispito { display: flex; align-items: center; gap: 14px; margin-bottom: 12px; }
+.crispito img { width: 128px; height: 128px; flex: none; }
+.crispito .dato { margin-bottom: 4px; }
+.crispito .nombre { color: #334155; font-size: 1rem; line-height: 1.35; }
+.crispito .estado { color: #94a3b8; font-size: .8rem; margin-top: 2px; }
 
 /* Barras de 0 a 100 */
 .barra { background: #e9edf3; border-radius: 999px; height: 12px; overflow: hidden; }
@@ -171,6 +183,13 @@ def html(codigo: str) -> None:
     st.markdown(codigo, unsafe_allow_html=True)
 
 
+@st.cache_data
+def imagen_incrustada(nombre: str) -> str:
+    """Convierte un GIF de la carpeta crispito/ en texto para meterlo en el HTML."""
+    contenido = (CARPETA_CRISPITO / nombre).read_bytes()
+    return "data:image/gif;base64," + base64.b64encode(contenido).decode()
+
+
 def a_numero(valor) -> int:
     """Asegura que una nota es un entero entre 0 y 100."""
     return max(0, min(100, int(valor)))
@@ -216,19 +235,36 @@ if ultimo is None:
 general = ultimo["general"]
 crispacion = a_numero(general["crispacion"])
 
+# Crispito tiene 6 estados (0 a 5). Repartimos la nota de 0 a 100 entre ellos:
+# 0-16 → 0, 17-33 → 1, 34-49 → 2, 50-66 → 3, 67-83 → 4, 84-100 → 5.
+estado = min(5, crispacion * 6 // 100)
+
 html(
     '<div class="tarjeta">'
     '<div class="etiqueta">Crispación ahora</div>'
+    '<div class="crispito">'
+    f'<img src="{imagen_incrustada(f"crispito_{estado}.gif")}" '
+    f'alt="Crispito: {ESTADOS_CRISPITO[estado]}">'
+    '<div class="lado">'
     '<div class="dato">'
     f'<span class="numero" style="color:{color_nivel(crispacion)}">{crispacion}</span>'
     '<span class="sobre">/ 100</span>'
-    f'<span class="nivel" style="background:{color_nivel(crispacion)}">'
-    f"{texto_nivel(crispacion)}</span>"
     "</div>"
+    f'<div class="nombre">Crispito está: <b style="color:{color_nivel(crispacion)}">'
+    f"{ESTADOS_CRISPITO[estado]}</b></div>"
+    f'<div class="estado">Estado {estado} de 5</div>'
+    "</div></div>"
     f"{barra(crispacion)}"
     f'<p style="margin-top:14px">{escape(general["motivo_crispacion"])}</p>'
     "</div>"
 )
+
+with st.expander("Conoce a Crispito y sus 6 estados"):
+    st.image(str(CARPETA_CRISPITO / "estados.png"))
+    st.caption(
+        "De izquierda a derecha y de arriba abajo: "
+        + " · ".join(f"{n} – {nombre}" for n, nombre in enumerate(ESTADOS_CRISPITO))
+    )
 
 # --- Resumen general ---------------------------------------------------
 
