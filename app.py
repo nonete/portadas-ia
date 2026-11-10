@@ -20,6 +20,7 @@ from bs4 import BeautifulSoup
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
+from pydantic import BaseModel, Field
 
 # ----------------------------------------------------------------------
 # CONFIGURACIÓN
@@ -146,20 +147,48 @@ def leer_portadas() -> dict[str, list[dict]]:
 # PASO 2 · RESUMIR CON LANGCHAIN + CHATGPT
 # ----------------------------------------------------------------------
 
+class Analisis(BaseModel):
+    """Lo que le pedimos a ChatGPT para cada portada, con forma fija."""
+
+    resumen: str = Field(
+        description="Resumen de la portada en 4 o 5 viñetas cortas en Markdown, "
+        "empezando por los temas más destacados."
+    )
+    populismo: int = Field(
+        ge=0,
+        le=100,
+        description="Nivel de populismo de los titulares, de 0 (nada) a 100 (máximo).",
+    )
+    motivo_populismo: str = Field(
+        description="Una frase que justifique la nota citando rasgos concretos de los titulares."
+    )
+    sesgo: str = Field(
+        description="Una o dos frases sobre el sesgo o enfoque que muestra la selección "
+        "y redacción de las noticias. Si no se aprecia, dilo."
+    )
+
+
 PROMPT_PERIODICO = ChatPromptTemplate.from_messages(
     [
         (
             "system",
-            "Eres un periodista que resume portadas de prensa española. "
-            "Escribes en español, de forma neutral y sin opinar. "
-            "Usa solo la información que se te da: no inventes datos.",
+            "Eres un analista de medios que estudia portadas de prensa española. "
+            "Escribes en español, de forma neutral y sin opinar de política. "
+            "Usa solo la información que se te da: no inventes datos.\n\n"
+            "Para medir el populismo fíjate únicamente en el texto: lenguaje "
+            "emocional o alarmista, sensacionalismo, enfrentamiento 'nosotros "
+            "contra ellos', apelaciones al pueblo frente a las élites, "
+            "simplificación de temas complejos y descalificaciones. "
+            "0 es un tono totalmente informativo y sobrio; 100 es el máximo. "
+            "Aplica el mismo criterio a cualquier portada, sin tener en cuenta "
+            "de qué medio pueda ser.",
         ),
         (
             "human",
-            "Estas son las noticias de portada de {periodico} ahora mismo:\n\n"
+            "Estas son las noticias de portada de un periódico ahora mismo:\n\n"
             "{noticias}\n\n"
-            "Escribe un resumen de la portada en 4 o 5 viñetas cortas en Markdown, "
-            "empezando por los temas más destacados.",
+            "Resume la portada, valora su nivel de populismo de 0 a 100 y "
+            "describe el sesgo que se aprecia.",
         ),
     ]
 )
@@ -195,27 +224,31 @@ def noticias_a_texto(noticias: list[dict]) -> str:
 
 
 @st.cache_data(ttl=SEGUNDOS_CACHE, show_spinner=False)
-def resumir(portadas: dict[str, list[dict]]) -> tuple[str, dict[str, str]]:
-    """Devuelve (resumen general, {periódico: resumen}). Se guarda 30 minutos."""
+def resumir(portadas: dict[str, list[dict]]) -> tuple[str, dict[str, dict]]:
+    """Devuelve (resumen general, {periódico: análisis}). Se guarda 30 minutos."""
     modelo = ChatOpenAI(
         api_key=st.secrets["OPENAI_API_KEY"],
         model=st.secrets["OPENAI_MODEL"],
     )
 
-    # Una "cadena" de LangChain: prompt -> modelo -> texto.
-    cadena_periodico = PROMPT_PERIODICO | modelo | StrOutputParser()
+    # Una "cadena" de LangChain: prompt -> modelo -> resultado.
+    # with_structured_output obliga a ChatGPT a responder con la forma de Analisis
+    # (resumen, populismo, motivo y sesgo) en lugar de con texto libre.
+    cadena_periodico = PROMPT_PERIODICO | modelo.with_structured_output(Analisis)
     cadena_general = PROMPT_GENERAL | modelo | StrOutputParser()
 
     con_noticias = {n: p for n, p in portadas.items() if p}
 
     # .batch lanza las cinco peticiones a la vez en lugar de una detrás de otra.
-    textos = cadena_periodico.batch(
-        [
-            {"periodico": nombre, "noticias": noticias_a_texto(noticias)}
-            for nombre, noticias in con_noticias.items()
-        ]
+    # A propósito no le decimos el nombre del periódico, para que valore solo
+    # lo que lee y no la fama del medio.
+    analisis = cadena_periodico.batch(
+        [{"noticias": noticias_a_texto(noticias)} for noticias in con_noticias.values()]
     )
-    resumenes = dict(zip(con_noticias.keys(), textos))
+    resumenes = {
+        nombre: resultado.model_dump()
+        for nombre, resultado in zip(con_noticias.keys(), analisis)
+    }
 
     todo = "\n\n".join(
         f"## {nombre}\n{noticias_a_texto(noticias)}"
@@ -286,7 +319,8 @@ for nombre, datos in PERIODICOS.items():
         st.markdown(f"[Abrir {nombre}]({datos['web']})")
         continue
 
-    st.markdown(resumenes[nombre])
+    analisis = resumenes[nombre]
+    st.markdown(analisis["resumen"])
     with st.expander(f"Ver los {len(noticias)} titulares originales"):
         for noticia in noticias:
             if noticia["enlace"]:
@@ -294,8 +328,16 @@ for nombre, datos in PERIODICOS.items():
             else:
                 st.markdown(f"- {noticia['titulo']}")
 
+    # Barra de populismo: st.progress acepta un número de 0 a 100.
+    populismo = max(0, min(100, int(analisis["populismo"])))
+    st.markdown(f"**Nivel de populismo: {populismo} / 100**")
+    st.progress(populismo)
+    st.caption(analisis["motivo_populismo"])
+    st.markdown(f"**Sesgo:** {analisis['sesgo']}")
+
 st.divider()
 st.caption(
-    "Los resúmenes los genera una IA a partir de los titulares y pueden contener "
-    "errores. Pulsa en cada titular para leer la noticia completa en su periódico."
+    "Los resúmenes, el nivel de populismo y el sesgo son una estimación de una IA "
+    "a partir de los titulares de este momento: pueden contener errores y no son "
+    "una medición objetiva. Pulsa en cada titular para leer la noticia completa en su periódico."
 )
