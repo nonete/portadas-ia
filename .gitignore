@@ -1,0 +1,6 @@
+# Las claves nunca se suben a GitHub
+.streamlit/secrets.toml
+
+__pycache__/
+*.pyc
+.venv/
