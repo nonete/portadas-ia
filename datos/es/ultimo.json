@@ -1,38 +1,39 @@
 {
+  "pais": "España",
   "fecha": "2026-11-10",
   "turno": 20,
-  "generado": "10/11/2026 22:07",
+  "generado": "10/11/2026 22:52",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "Se repiten el funeral por las víctimas del accidente ferroviario de Urda, la polémica por la entrevista de Abascal en ‘La revuelta’ y el programa electoral del PP. También aparecen la huelga por la vivienda y los salarios y la explosión en Oviedo. Solo OKdiario destaca los problemas de seguridad relacionados con las claves de eMudhra.",
-    "crispacion": 72,
-    "motivo_crispacion": "La entrevista de Abascal en ‘La revuelta’ provoca críticas desde la izquierda y debate sobre el papel de RTVE y la elección del público. El funeral de Urda combina el duelo con exigencias de responsabilidades y críticas, a veces insultantes, a la ausencia de Sánchez. La huelga por la vivienda y los salarios y el piquete ante una inmobiliaria reflejan tensión social. Las medidas de seguridad ferroviaria, las noticias meteorológicas y algunas piezas culturales aportan contenidos menos confrontativos."
+    "temas": "El funeral por las víctimas del accidente de Urda, las peticiones de responsabilidades y la ausencia de Pedro Sánchez aparecen en varias portadas. También se repiten la polémica por la entrevista de Abascal en ‘La revuelta’, el programa electoral del PP y la huelga general. Solo El Mundo destaca la petición de Sira Rego para que TikTok suspenda su actividad en España.",
+    "crispacion": 75,
+    "motivo_crispacion": "La entrevista de Abascal en ‘La revuelta’ provoca críticas y un choque político, especialmente por la elección del público. El funeral de Urda combina el duelo y las demandas de responsabilidades con reproches e insultos por la ausencia de Sánchez. La huelga general y la protesta de inquilinos reflejan tensión social en torno a la vivienda y los salarios, en plena campaña electoral. Compensan parcialmente este clima las informaciones prácticas sobre la huelga, las noticias culturales y las iniciativas solidarias."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Veo en la huelga general una respuesta necesaria a una realidad de clase: los salarios y la vivienda no son problemas separados cuando una parte creciente de lo que ganamos acaba en el alquiler. Frente al poder de los grandes propietarios, defiendo la organización sindical, la regulación de los precios y la ampliación de la vivienda pública y colectiva. Una casa debe ser un derecho, no una máquina de extraer rentas.\n\nTambién pienso en las víctimas de Urda y en sus familias. Exigir que se esclarezcan las causas y se asuman responsabilidades es inseparable de defender un ferrocarril público seguro, con recursos y participación de sus trabajadores. Las nuevas inspecciones son una medida, pero la seguridad no puede depender de la lógica del beneficio. Los servicios esenciales deben responder a la sociedad, no al gran capital."
+      "texto": "Mañana se convoca una huelga general atravesada por una realidad de clase: salarios que no alcanzan y alquileres que convierten la vivienda en una fuente de rentas para quienes poseen, a costa de quienes trabajan. Yo la apoyo porque esos problemas no se resuelven confiando en la buena voluntad del mercado. Necesitamos vivienda pública y colectiva, derechos sindicales fuertes y salarios que permitan vivir.\n\nTambién miro a Urda con dolor y con una exigencia: esclarecer las causas y asumir responsabilidades. Las nuevas medidas de seguridad ferroviaria son necesarias, pero la seguridad exige recursos públicos, control democrático y escuchar a quienes trabajan en el ferrocarril. Un servicio público no debe organizarse alrededor de la rentabilidad del capital, sino del derecho de todos a viajar seguros. La lucha de clases también consiste en decidir qué vidas y qué necesidades cuentan."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "La huelga por la vivienda, los salarios y el coste de la vida me parece una oportunidad para recordar que los derechos no nacen de la generosidad del poder. Se conquistan cuando quienes sostienen la sociedad se organizan. No confío en que los partidos, ni siquiera cuando respaldan una protesta, renuncien por ello a administrar nuestra dependencia. Prefiero sindicatos y redes vecinales capaces de decidir desde abajo, sin entregar su autonomía a ningún gobierno.\n\nTambién miro la tragedia de Urda con dolor y con una exigencia: esclarecer las causas y asumir responsabilidades. Más inspecciones y la posibilidad de que los maquinistas paren ante riesgos son medidas importantes, pero la seguridad no debería depender solo de órdenes de arriba. Quienes trabajan en el ferrocarril y quienes lo utilizan deben tener voz y capacidad real de decisión. La libertad colectiva también se construye cuidándonos."
+      "texto": "Veo en la huelga por la vivienda, los salarios y el coste de la vida una oportunidad para recordar que nuestros derechos no nacen de la generosidad del Estado ni de las promesas de los partidos. Se conquistan y se sostienen cuando quienes trabajamos y alquilamos nos organizamos. El piquete del Sindicato de Inquilinas apunta a esa fuerza colectiva; me gustaría verla crecer en asambleas autónomas y redes de apoyo mutuo, sin entregar su dirección a jerarquías ni supeditarla a una campaña electoral.\n\nEl funeral por las víctimas de Urda exige algo más que solemnidad: esclarecer las causas y asumir responsabilidades. Las nuevas medidas ferroviarias merecen vigilancia, pero yo no confiaría la seguridad únicamente a decisiones desde arriba. Quienes trabajan en el ferrocarril y quienes lo utilizan deben tener voz efectiva. Sin libertad individual y control colectivo, la autoridad pide confianza donde debería rendir cuentas."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "Veo en la huelga por la vivienda y los salarios una preocupación legítima, pero discrepo de quienes buscan la solución en un Estado cada vez más intervencionista. Defiendo el derecho a parar y también el de trabajar. Para aliviar el coste de la vivienda, prefiero facilitar la construcción, proteger la propiedad y eliminar trabas que desincentivan la oferta. Los impuestos bajos dejan más recursos en manos de quienes los ganan y emprenden.\n\nEl programa del PP promete rebajas fiscales, pero mantener sin cambios significativos las pensiones plantea una pregunta: ¿cómo sostenerlas sin cargar la factura sobre las generaciones futuras? Un Estado limitado debe gastar con responsabilidad, no limitarse a prometer menos impuestos. Y tras la tragedia de Urda, tiene una obligación esencial: esclarecer las causas, exigir responsabilidades y garantizar una supervisión ferroviaria eficaz."
+      "texto": "La huelga pone sobre la mesa problemas reales de vivienda y salarios. Yo defiendo el derecho a secundarla y también el de quien decide trabajar. Pero no creo que las consignas sustituyan a las reformas: para que el alquiler sea más asequible necesitamos más oferta, menos obstáculos a la construcción y seguridad para propietarios e inquilinos. Una economía abierta, con impuestos más bajos y menos trabas, deja más espacio a la inversión y al empleo.\n\nEl programa del PP promete rebajas fiscales y propone vincular ayudas a la aceptación de empleo. Me parecen objetivos razonables si se concretan con rigor: trabajar debe compensar, sin abandonar a quienes no pueden hacerlo. Pero bajar impuestos exige también limitar el gasto y explicar cómo se financiarán los compromisos públicos. La libertad económica y la responsabilidad personal necesitan un Estado más limitado, no promesas sin coste."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "El funeral de Urda me recuerda que una nación es algo más que una administración: es una comunidad que honra a sus muertos y exige justicia para las familias. Celebro el refuerzo de la seguridad ferroviaria, pero no basta con anunciar medidas; hay que esclarecer las causas y asumir responsabilidades.\n\nTambién creo que España debe recuperar el control de su política migratoria. Las ayudas limitadas deben atender primero a quienes tienen arraigo, y las fronteras deben estar sujetas a reglas estrictas que nosotros decidamos. La solidaridad necesita orden y obligaciones, no promesas imposibles. Del programa del PP espero compromisos verificables, no solo gestos electorales.\n\nEn la televisión pública quiero entrevistas exigentes para todos, no una pluralidad condicionada por el escándalo que dicten las élites políticas y mediáticas. Una democracia fuerte escucha ideas distintas y las somete al juicio de los ciudadanos."
+      "texto": "El funeral de Urda me recuerda que una nación no es una oficina administrativa, sino una comunidad de memoria y deberes. Acompañar a las víctimas exige esclarecer las causas, asumir responsabilidades y garantizar la seguridad ferroviaria. La ausencia del presidente en Toledo fue una decisión equivocada: ante una tragedia así, la presencia institucional importa.\n\nTambién espero algo más que promesas del programa del PP. España necesita recuperar el control efectivo de la inmigración y dar prioridad al arraigo en las ayudas, con criterios claros y conforme a la ley. No basta con hablar de soberanía si se renuncia a decidir quién entra y bajo qué condiciones. Y en la televisión pública defiendo que todas las opciones políticas puedan expresarse, pero también que respondan a preguntas exigentes. La pluralidad no debe depender de que las élites mediáticas aprueben las ideas del invitado."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Hoy pienso en las víctimas de Urda y en sus familias. El refuerzo de las inspecciones ferroviarias es una decisión necesaria, pero no sustituye el esclarecimiento de las causas ni la exigencia de responsabilidades. Defender las instituciones significa pedirles que rindan cuentas, no protegerlas de las preguntas incómodas.\n\nTambién escucho las razones de quienes secundan la huelga por la vivienda y los salarios. Una economía de mercado solo merece confianza si ofrece oportunidades reales y una red de protección suficiente. Por eso me preocupa que una renta de activación pueda dejar sin apoyo a personas vulnerables: incentivar el empleo es legítimo, pero las garantías importan. Prefiero reformas negociadas y evaluables a promesas que enfrenten trabajo y protección social. Y en la televisión pública, pluralidad no debería significar renunciar al contraste ni entregar a un partido el control del público."
+      "texto": "El duelo por las víctimas de Urda exige algo más que gestos: esclarecer las causas, determinar responsabilidades y reparar a las familias. Celebro el refuerzo de la seguridad ferroviaria, pero quiero que sus resultados se evalúen con rigor. La confianza en las instituciones se recupera con transparencia y medidas comprobables.\n\nLa huelga general pone sobre la mesa una preocupación legítima: vivienda y salarios. Defiendo el derecho a parar y también el de trabajar. Para aliviar el alquiler necesitamos acuerdos que aumenten la oferta, protejan a quienes más lo necesitan y den seguridad a quienes invierten. No bastan las consignas. Y ante la propuesta de sustituir el ingreso mínimo vital, creo razonable incentivar el empleo, siempre que las condiciones sean justas y nadie quede desprotegido por no poder aceptar un trabajo."
     }
   ],
   "periodicos": [
@@ -102,10 +103,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- La entrevista de Abascal en ‘La revuelta’ centra varias noticias sobre su preparación, edición y repercusión.\n- La portada cuestiona afirmaciones del candidato sobre feminismo e incluye una crítica a la entrevista.\n- El funeral por las víctimas del accidente de tren coincide con el anuncio de nuevas medidas de seguridad ferroviaria.\n- Una explosión en Oviedo causa la muerte de un policía y deja a otro gravemente herido.\n- El programa electoral del PP aborda ayudas, presupuestos, educación, fiscalidad y derechos sociales.",
-        "populismo": 28,
-        "motivo_populismo": "Expresiones como «catástrofe y muerte del periodismo político» y «El dolor no cabía» aportan dramatismo, aunque predominan titulares descriptivos y no se aprecia una apelación al pueblo contra las élites.",
-        "sesgo": "La portada dedica una atención destacada y crítica a la entrevista de Abascal, incluida una pieza de opinión. Sobre el PP, selecciona propuestas potencialmente controvertidas junto con sus compromisos económicos y electorales."
+        "resumen": "- La portada dedica varias noticias a la entrevista de Broncano a Abascal, su preparación, las respuestas no emitidas y la polémica posterior.\n- El arzobispo de Toledo pide responsabilidades y justicia en el funeral por las 69 víctimas del accidente ferroviario de Urda.\n- El Gobierno aprueba medidas de seguridad ferroviaria y realiza cambios en Transportes.\n- Una explosión en Oviedo causa la muerte de un policía y heridas graves a otro; continúa la búsqueda del presunto responsable.\n- El programa del PP incluye propuestas sobre presupuestos, impuestos, vivienda, educación y derechos sociales.",
+        "populismo": 30,
+        "motivo_populismo": "Predominan los titulares informativos, aunque expresiones como «catástrofe y muerte del periodismo político» y «el dolor no cabía en la catedral» recurren a un lenguaje emocional y enfático.",
+        "sesgo": "La selección y la redacción muestran un enfoque crítico hacia la entrevista de Abascal, con cuestionamientos de sus afirmaciones y del tratamiento que recibió. La cobertura del programa del PP destaca especialmente propuestas controvertidas en materia social y de derechos, junto con otras medidas económicas."
       }
     },
     {
@@ -121,11 +122,6 @@
           "titulo": "Sira Rego pide a TikTok que pare su actividad en España y, si no lo hace, insta a Protección de Datos a bloquearla: \"Vamos a ir con todo, esto tiene que terminar\"",
           "entradilla": "Acusa a la red social de \"premiar la generación de ecosistemas que comparten y reproducen\" contenidos pedófilos Leer",
           "enlace": "https://www.elmundo.es/espana/2026/11/10/6af33f12fc6c8332648b4593.html"
-        },
-        {
-          "titulo": "La abogada Leticia de la Hoz, imputada en el 'Caso cloacas' del PSOE, renuncia a continuar defendiendo a Koldo García",
-          "entradilla": "\"Por razones profesionales, cuyo contenido queda amparado por el secreto, renuncio a continuar ejerciendo la defensa de Koldo García en esta causa\", señala Leticia de la Hoz Leer",
-          "enlace": "https://www.elmundo.es/espana/2026/11/10/6af32af121efa002098b4587.html"
         },
         {
           "titulo": "\"Amenazar sonriendo no es hacer humor\": el paso de Abascal por 'La Revuelta' abre un choque político a las puertas de la campaña",
@@ -171,19 +167,34 @@
           "titulo": "Droga, enfermedad y memoria familiar, la biografía más difícil de la maestra de la biografía: \"Morir de sida en los 90 era morir como un apestado\"",
           "entradilla": "Anna Caballé explora en El soñador de refugios. La cara B de los ochenta (Galaxia Gutenberg) los estragos de la droga en la década de los 80 a través de la figura de su hermano, adicto a la heroína y víctima del sida: \"La Transición tuvo una cara B\" Leer",
           "enlace": "https://www.elmundo.es/la-lectura/2026/11/10/6ae48774e4d4d871118b45ba.html"
+        },
+        {
+          "titulo": "Ordenan evacuar Piedralaves (Ávila), con 2.200 vecinos, por riesgo de rebosamiento de la presa de Horcajo por las lluvias de la borrasca Bruna",
+          "entradilla": "La borrasca Bruna, situada al noroeste de España, deja este martes un episodio de lluvias intensas y fuertes vientos que mantiene en aviso a ocho comunidades, con especial incidencia en Castilla y León y Extremadura Leer",
+          "enlace": "https://www.elmundo.es/espana/2026/11/10/6af2c4acfc6c83526d8b457f.html"
         }
       ],
       "analisis": {
-        "resumen": "- Feijóo propone sustituir el ingreso mínimo vital por una renta de activación; la campaña también protagoniza noticias sobre Abascal y el voto en Teruel.\n- Sira Rego pide detener la actividad de TikTok en España y la abogada de Koldo García renuncia a su defensa.\n- Urda centra la despedida a las víctimas, las críticas por la ausencia de Sánchez y una denuncia de la Fiscalía por la difusión de conversaciones de controladores.\n- La portada aborda la búsqueda del fugitivo de Oviedo y la situación de la familia del fundador de Blocus.\n- También incluye el desafío de un congresista republicano a Trump y un libro de Anna Caballé sobre la droga y el sida.",
-        "populismo": 45,
-        "motivo_populismo": "Expresiones como «cazar al Ruso» y «ese apaño», junto con la cita «tiene mucho miedo al pueblo», aportan dramatización y confrontación a una portada que también contiene titulares informativos.",
-        "sesgo": "Se aprecia un enfoque crítico hacia el Gobierno y sectores de la izquierda, especialmente en la cobertura de Urda y en la descripción del voto en Teruel. La propuesta del PP se presenta principalmente en sus propios términos."
+        "resumen": "- Feijóo propone sustituir el ingreso mínimo vital por una renta condicionada a la aceptación de empleo.\n- Sira Rego pide paralizar TikTok en España y la visita de Abascal a ‘La Revuelta’ provoca un choque político.\n- Toledo despide a las víctimas de Urda entre críticas a la ausencia de Sánchez; la Fiscalía denuncia la difusión de conversaciones de controladores.\n- La policía busca al sospechoso de matar a un agente en Oviedo y se ordena evacuar Piedralaves por riesgo de rebosamiento de una presa.\n- La portada también aborda el voto de la izquierda en Teruel, un desafío republicano a Trump y una biografía sobre droga y sida en los años ochenta.",
+        "populismo": 48,
+        "motivo_populismo": "Conviven titulares informativos con expresiones emocionalmente intensas como «cazar al ‘Ruso’», la cita «miedo al pueblo» y la calificación de «apaño» para una decisión electoral.",
+        "sesgo": "La selección y la redacción muestran un enfoque crítico hacia el Gobierno de Sánchez y algunas opciones de izquierda, especialmente al destacar su ausencia en el funeral y describir como «apaño» la estrategia electoral en Teruel. La apelación al pueblo procede de una cita recogida en la portada."
       }
     },
     {
       "nombre": "ABC",
       "web": "https://www.abc.es",
       "noticias": [
+        {
+          "titulo": "Detienen de nuevo al padre de Meghan Markle por quitarse el brazalete electrónico",
+          "entradilla": "Meghan Markle no ve la luz al final del túnel tras la detención de su padre, Thomas, hace unos días por un presunto delito de posesión de pornografía infantil. El padre de la Duquesa de Sussex ha vuelto a ser arrestado este martes en Florida por supuestamente quitarse el dispositivo electrónico de l",
+          "enlace": "https://www.abc.es/gente/detienen-nuevo-padre-meghan-markle-quitarse-brazalete-20261110215053-nt.html"
+        },
+        {
+          "titulo": "El Sindicato de Inquilinas monta un piquete dentro de la sede de Alquiler Seguro en Madrid",
+          "entradilla": "El Sindicato de Inquilinas ha organizado este martes un piquete dentro de la sede central de la agencia inmobiliaria Alquiler Seguro «para denunciar sus prácticas mafiosas» en la víspera de la huelga general del 11 de noviembre. La Policía ha acudido al lugar, en la madrileña avenida de América, par",
+          "enlace": "https://www.abc.es/espana/madrid/sindicato-inquilinas-monta-piquete-dentro-sede-alquiler-20261110204234-nt.html"
+        },
         {
           "titulo": "Feijóo convierte la política de inmigración en la gran novedad de su programa electoral",
           "entradilla": "Lo advirtió el propio Alberto Núñez Feijóo. Lo que presenta el PP para las elecciones generales del 29 de noviembre no es un programa electoral convencional. Es, en primer lugar, una enmienda a la totalidad de los ocho años de Gobierno de Pedro Sánchez. Tanto en contenido –medidas concretas y leyes ",
@@ -193,11 +204,6 @@
           "titulo": "España llora en la catedral",
           "entradilla": "En Toledo, la Catedral que impulsó Fernando III, el Santo, estaba a rebosar con los familiares de las sesenta y nueve víctimas del accidente de tren de Urda. Ochocientos años después, Sus Majestades los Reyes han presidido las exequias de nuestros paisanos, entre el dolor y la rabia de saber que cua",
           "enlace": "https://www.abc.es/espana/espana-llora-catedral-20261110210030-nt.html"
-        },
-        {
-          "titulo": "Detienen de nuevo al padre de Meghan Markle por quitarse el brazalete electrónico",
-          "entradilla": "Thomas Markle, padre de Meghan, Duquesa de Sussex, ha sido detenido en Florida por supuestamente quitarse el dispositivo electrónico de localización que llevaba en el tobillo, según informaron funcionarios del departamento de justicia en Los Ángeles.Nuestra redacción está trabajando para ampliar la ",
-          "enlace": "https://www.abc.es/gente/detienen-nuevo-padre-meghan-markle-quitarse-brazalete-20261110215053-nt.html"
         },
         {
           "titulo": "El funeral por las víctimas exige «que se esclarezcan las causas y se asuman responsabilidades»",
@@ -213,11 +219,6 @@
           "titulo": "«Broncano y Abascal: la izquierda pidiendo las sales»",
           "entradilla": "",
           "enlace": "https://www.abc.es/espana/broncano-abascal-izquierda-pidiendo-sales-20261110210547-nt.html"
-        },
-        {
-          "titulo": "El Sindicato de Inquilinas monta un piquete dentro de la sede de Alquiler Seguro en Madrid",
-          "entradilla": "El Sindicato de Inquilinas ha organizado este martes un piquete dentro de la sede central de la agencia inmobiliaria Alquiler Seguro «para denunciar sus prácticas mafiosas» en la víspera de la huelga general del 11 de noviembre. La Policía ha acudido al lugar, en la madrileña avenida de América, par",
-          "enlace": "https://www.abc.es/espana/madrid/sindicato-inquilinas-monta-piquete-dentro-sede-alquiler-20261110204234-nt.html"
         },
         {
           "titulo": "La borrasca Bruna deja más de 200 litros en un día en el Puerto del Pico y Charles activa la alerta por viento en Castilla y León",
@@ -246,10 +247,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- Feijóo destaca la inmigración en su programa electoral.\n- El funeral por las víctimas del accidente de Urda centra dos titulares.\n- Se aborda la entrevista de Abascal con Broncano y sus reacciones.\n- La portada trata sobre EH Bildu, la semilibertad de «Anboto» y un piquete de inquilinos.\n- También incluye noticias sobre las borrascas, Ucrania, Thomas Markle y el café con canela.",
-        "populismo": 35,
-        "motivo_populismo": "Predominan los titulares informativos, aunque «España llora» apela a la emoción y «la izquierda pidiendo las sales» introduce una descalificación burlona.",
-        "sesgo": "Se aprecia un enfoque emocional en la cobertura del funeral y una mirada crítica o burlona hacia la izquierda en el titular sobre Broncano y Abascal. La selección también da presencia a la política electoral y judicial."
+        "resumen": "- Funeral en Toledo por las víctimas del accidente de tren de Urda y petición de esclarecer sus causas.\n- Feijóo destaca la inmigración en su programa electoral; una noticia sitúa a EH Bildu como futura fuerza más votada en el País Vasco.\n- El Sindicato de Inquilinas organiza un piquete en una inmobiliaria de Madrid.\n- Broncano expresa su arrepentimiento por aspectos de su entrevista a Abascal.\n- La portada también aborda las conversaciones de paz entre Ucrania y Rusia, las borrascas y otras noticias judiciales y de sociedad.",
+        "populismo": 32,
+        "motivo_populismo": "Predominan titulares informativos, aunque expresiones como «España llora» y «la izquierda pidiendo las sales» introducen dramatización y burla política.",
+        "sesgo": "La selección concede amplio espacio a la política y al funeral, con un enfoque emotivo en la tragedia. La referencia a «la izquierda pidiendo las sales» muestra un tono crítico y burlón hacia ese sector político."
       }
     },
     {
@@ -318,16 +319,41 @@
         }
       ],
       "analisis": {
-        "resumen": "- La portada se centra en la huelga general del 11N y recoge testimonios de quienes la secundan.\n- La vivienda, los salarios y el coste de la vida aparecen como motivos de la protesta.\n- Se aborda el derecho de huelga y el respaldo del Gobierno a la convocatoria.\n- Representantes sindicales relacionan la huelga con la vivienda, los salarios y la campaña electoral.\n- Varias noticias ofrecen información práctica sobre servicios mínimos, manifestaciones y seguimiento de la huelga.",
-        "populismo": 30,
-        "motivo_populismo": "Expresiones como «fábrica de pobreza» y «ataques al derecho de huelga» aportan carga emocional, aunque buena parte de los titulares es informativa.",
-        "sesgo": "La selección y la redacción muestran un enfoque favorable a la huelga, centrado en sus motivos y en las voces que la respaldan. No se incluyen en la lista posturas contrarias a la convocatoria."
+        "resumen": "- La portada se centra en la huelga general del 11N y en los testimonios de quienes la secundan.\n- La vivienda, los salarios y el coste de la vida aparecen como motivos de la convocatoria.\n- Se aborda el derecho de huelga y se recoge el respaldo del Gobierno.\n- Varios dirigentes sindicales hablan de vivienda, salarios y campaña electoral.\n- Se ofrecen guías sobre servicios mínimos, manifestaciones y organización de la huelga.",
+        "populismo": 35,
+        "motivo_populismo": "Expresiones como «fábrica de pobreza» y «ataques al derecho de huelga» emplean un lenguaje cargado, aunque varios titulares son descriptivos y prácticos.",
+        "sesgo": "La selección muestra un enfoque favorable a la huelga y centrado en los argumentos de sus participantes y sindicatos. No se recogen en los titulares perspectivas contrarias a la convocatoria."
       }
     },
     {
       "nombre": "OKdiario",
       "web": "https://okdiario.com",
       "noticias": [
+        {
+          "titulo": "Hito colosal en la agricultura española: los huesos de aceituna pueden regenerar los olivos y eliminar fertilizantes",
+          "entradilla": "Cada campaña del olivar deja tras de sí un residuo masivo que durante años fue visto como un problema ambiental: el alperujo. Pero en una época donde los agricultores no paran de buscar nuevos fertilizantes naturales, podrían darle una segunda vida en las campañas de la aceituna. Durante años el alp",
+          "enlace": "https://okdiario.com/economia/consumo/hito-colosal-agricultura-espanola-huesos-aceituna-pueden-regenerar-olivos-eliminar-fertilizantes-15816004"
+        },
+        {
+          "titulo": "El Sindicato de Inquilinas se adelanta a la huelga y toma por la fuerza una sede de la inmobiliaria Alquiler Seguro en Madrid",
+          "entradilla": "El Sindicato de Inquilinas de Madrid se ha adelantado a la huelga general convocada por las organizaciones sociales y sindicales para este miércoles, tomando por la fuerza una sede de Madrid de la inmobiliaria Alquiler Seguro durante la noche de este martes. Durante la protesta, los radicales han as",
+          "enlace": "https://okdiario.com/espana/sindicato-inquilinas-adelanta-huelga-toma-fuerza-sede-inmobiliaria-alquiler-seguro-madrid-20747529"
+        },
+        {
+          "titulo": "La Audiencia Nacional revoca otra vez la semilibertad a la ex jefa de ETA ‘Anboto’ otorgada por Gobierno vasco",
+          "entradilla": "El juzgado de Vigilancia Penitenciaria de la Audiencia Nacional (AN) ha revocado el régimen de semilibertad concedido a la ex jefa de ETA Soledad Iparraguirre, alias Anboto, así como los terceros grados otorgados a los ex dirigentes de la banda terrorista Juan Antonio Olarra Guridi y Arkaitz Aguirre",
+          "enlace": "https://okdiario.com/espana/audiencia-nacional-revoca-otra-vez-semilibertad-ex-jefa-eta-anboto-otorgada-gobierno-vasco-20747600"
+        },
+        {
+          "titulo": "Los toledanos sobre la ausencia de Sánchez en el funeral de Urda: «Es un farsante y tiene miedo a venir»",
+          "entradilla": "La indignación ciudadana ha estallado en Toledo durante la solemne misa funeral en memoria de las víctimas de la tragedia ferroviaria de Urda. Mientras los toledanos y familiares lloraban a sus seres queridos, el presidente del Gobierno, Pedro Sánchez, decidía ausentarse. Su excusa oficial fue el ca",
+          "enlace": "https://okdiario.com/espana/toledanos-sobre-ausencia-sanchez-funeral-urda-farsante-tiene-miedo-venir-20747380"
+        },
+        {
+          "titulo": "Confirmado por el BOE: si no puedes ir a trabajar porque los piquetes te lo impidan se prohíbe que tu empresa te quite el sueldo y te avala el artículo 30 del Estatuto de los Trabajadores",
+          "entradilla": "La huelga general convocada para este miércoles 11 de noviembre plantea numerosas dudas entre los trabajadores, especialmente entre quienes no tienen intención de secundarla y temen encontrarse con piquetes que les impidan acceder a sus puestos. Sin embargo, la legislación española contempla mecanis",
+          "enlace": "https://okdiario.com/economia/confirmado-boe-si-no-puedes-ir-trabajar-porque-piquetes-te-lo-impidan-prohibe-que-tu-empresa-te-quite-sueldo-te-avala-articulo-30-del-estatuto-trabajadores-20747541"
+        },
         {
           "titulo": "La clave secreta era el número 4: Cloudflare detecta 22.000 intentos de conexión con las claves débiles de eMudhra, aún aceptadas en grandes redes",
           "entradilla": "Cloudflare ha medido el alcance de las claves débiles de eMudhra, una autoridad de certificación india cuya clave privada más simple equivalía al número 4. La empresa registró unos 22.000 intentos de conexión con ellas en una semana. En las grandes redes, más de la mitad de sus sondeos aún acepta la",
@@ -340,7 +366,7 @@
         },
         {
           "titulo": "Feijóo honra a las víctimas de Urda en el funeral de Toledo mientras Sánchez se va a grabar un podcast: «Todo mi cariño»",
-          "entradilla": "El líder del Partido Popular, Alberto Núñez Feijóo, ha asistido al funeral por los 69 fallecidos en el accidente ferroviario de Urda celebrado este martes en Toledo, al que ha acudido con varios barones del partido. Feijóo ha expresado su «tristeza» y su cariño a los familiares y amigos de las vícti",
+          "entradilla": "El líder del Partido Popular, Alberto Núñez Feijóo, ha asistido al funeral de Estado por los 69 fallecidos en el accidente ferroviario de Urda celebrado este martes en Toledo, al que ha acudido con varios barones del partido. Feijóo ha expresado posteriormente su «tristeza» y su cariño a los familia",
           "enlace": "https://okdiario.com/espana/feijoo-honra-victimas-urda-funeral-toledo-mientras-sanchez-va-grabar-podcast-todo-carino-20747463"
         },
         {
@@ -362,38 +388,13 @@
           "titulo": "La España de Sánchez: varias personas rebuscan comida en la basura mientras él entra a grabar un podcast",
           "entradilla": "El presidente del Gobierno, Pedro Sánchez, ha llegado este martes por la tarde a una calle de Manresa (Barcelona) para grabar el podcast de Jordi Wild, The Wild Project. Una grabación que se producía a la misma hora que se celebraba en la catedral de Toledo el funeral por las 69 víctimas mortales y ",
           "enlace": "https://okdiario.com/espana/espana-sanchez-varias-personas-rebuscan-comida-basura-mientras-graba-podcast-20747194"
-        },
-        {
-          "titulo": "La reflexión de ‘El Principito’ sobre la felicidad que sigue inspirando: «Todas las personas mayores fueron al principio niños»",
-          "entradilla": "La frase «Todas las personas mayores fueron al principio niños (aunque pocas de ellas lo recuerdan)» es una de las más célebres de «El Principito» y cobra una gran relevancia en el contexto actual. En pleno siglo XXI, la hiperconectividad y la sobreestimulación han provocado que, sin darnos cuenta, ",
-          "enlace": "https://okdiario.com/curiosidades/reflexion-principito-sobre-felicidad-que-sigue-inspirando-todas-personas-mayores-fueron-principio-ninos-16720534"
-        },
-        {
-          "titulo": "La UE confirma el cambio de norma a partir de 2027: los españoles deberán llevar el DNI y permiso de conducir en el móvil",
-          "entradilla": "Salir de casa sin cartera puede ser todavía un problema ya dejarnos el DNI o el carnet de conducir en casa puede hacer que tengamos que volver sí o sí a por ellos. Sin embargo la costumbre de llevar cartera está empezando a quedarse atrás poco a poco y más si tenemos en cuenta que … Continuar leyend",
-          "enlace": "https://okdiario.com/curiosidades/ue-confirma-cambio-norma-partir-2027-espanoles-deberan-llevar-dni-permiso-conducir-movil-16735695"
-        },
-        {
-          "titulo": "La reflexión de Confucio sobre la fugacidad del tiempo: «La vejez es algo bueno, te apartan del escenario pero luego te dan un lugar en primera fila como espectador»",
-          "entradilla": "Confucio (Qufu, Lu, 28 de septiembre de 551 a. C. ‑ Estado Lu, 11 de abril de 479 a. C.) es uno de los grandes pensadores de la historia y cuyas frases siguen sonando como un aprendizaje para la vida. Este filósofo chino es el padre del llamado confucianismo, movimiento que comenzó después de la … C",
-          "enlace": "https://okdiario.com/curiosidades/reflexion-confucio-sobre-fugacidad-del-tiempo-vejez-algo-bueno-te-apartan-del-escenario-pero-luego-te-dan-lugar-primera-fila-como-espectador-16818825"
-        },
-        {
-          "titulo": "Suena cruel pero la ciencia lo confirma: en Alaska cazan lobos y osos para proteger el equilibrio del ecosistema",
-          "entradilla": "El estado de Alaska ha puesto en marcha un programa para reducir la población de osos y lobos con un objetivo claro: recuperar las manadas de caribúes, cuya caída preocupa tanto a las autoridades como a las comunidades que dependen de este animal. La medida, respaldada por organismos estatales y eje",
-          "enlace": "https://okdiario.com/naturaleza/suena-cruel-pero-ciencia-lo-confirma-alaska-cazan-lobos-osos-proteger-equilibrio-del-ecosistema-16348910"
-        },
-        {
-          "titulo": "Harrison Ford, actor a sus 84 años: «Lo único que le diría a la gente es que se aferre a lo que es individual en ellos»",
-          "entradilla": "El legendario actor estadounidense Harrison Ford, conocido mundialmente por sus papeles del capitán Han Solo e Indiana Jones, ha vuelto a inspirar a millones de personas con una frase enfocada en la vida y en la creatividad. Ford aseguró que «lo único que le diría a la gente es que se aferre a lo qu",
-          "enlace": "https://okdiario.com/curiosidades/harrison-ford-actor-sus-84-anos-lo-unico-que-diria-gente-que-aferre-lo-que-individual-ellos-18968850"
         }
       ],
       "analisis": {
-        "resumen": "- Varios titulares contrastan el funeral por las víctimas de Urda con la grabación de un podcast de Pedro Sánchez; uno recoge una dura descalificación de Eduardo Inda.\n- Cloudflare detecta 22.000 intentos de conexión con claves débiles de la autoridad de certificación eMudhra.\n- La campaña para la familia de Jesús de Miguel supera los 100.000 euros, con una donación anónima de un futbolista.\n- La portada aborda el uso del DNI y el permiso de conducir en el móvil y una oferta de bicicleta eléctrica.\n- Otros temas incluyen la gestión de lobos y osos en Alaska y reflexiones atribuidas a figuras culturales.",
-        "populismo": 72,
-        "motivo_populismo": "Destacan la descalificación «ser diabólico», el contraste emocional entre el funeral y el podcast y la expresión «La España de Sánchez» junto a personas que buscan comida en la basura.",
-        "sesgo": "La selección y redacción de varias noticias muestran un enfoque crítico con Pedro Sánchez, al contraponer sus actos con el funeral y la situación de personas vulnerables. El resto de la portada combina tecnología, consumo y contenidos culturales."
+        "resumen": "- Varias noticias critican la ausencia de Sánchez en el funeral de las víctimas de Urda y destacan la asistencia de Feijóo.\n- Un sindicato de inquilinas ocupa una sede inmobiliaria; otra noticia aborda los derechos laborales ante los piquetes de la huelga.\n- La Audiencia Nacional revoca la semilibertad de la exdirigente de ETA Anboto y los terceros grados de otros dos exdirigentes.\n- Se destacan un posible uso agrícola del alperujo y los riesgos de unas claves digitales débiles.\n- También aparecen noticias sobre solidaridad en el fútbol, Raphael y una oferta de bicicleta eléctrica.",
+        "populismo": 78,
+        "motivo_populismo": "Destacan la descalificación «ser diabólico», el contraste entre personas buscando comida y Sánchez grabando un podcast, y expresiones sensacionalistas como «hito colosal» o «tira la casa por la ventana».",
+        "sesgo": "La selección y redacción muestran un enfoque marcadamente crítico con Pedro Sánchez, al acumular titulares sobre su ausencia en el funeral y contrastarla con la asistencia de Feijóo. La ocupación de la sede inmobiliaria se presenta en términos confrontativos, con expresiones como «por la fuerza» y «radicales»."
       }
     }
   ]
