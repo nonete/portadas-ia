@@ -227,8 +227,9 @@ if ultimo:
 html(
     '<div class="cabecera">'
     "<h1>📰 Portadas IA</h1>"
-    "<p>Las portadas de El País, El Mundo, ABC, Público y OKdiario, resumidas y "
-    "analizadas con LangChain y ChatGPT.</p>"
+    "<p>El día en cinco portadas: El País, El Mundo, ABC, Público y OKdiario. "
+    "ChatGPT las resume, mide su populismo y su sesgo, toma el pulso a la "
+    "crispación con Crispito y te cuenta cómo lo ven cinco ideologías.</p>"
     f"{chips}</div>"
 )
 
@@ -274,6 +275,52 @@ with st.expander("Conoce a Crispito y sus 6 estados"):
         "De izquierda a derecha y de arriba abajo: "
         + " · ".join(f"{n} – {nombre}" for n, nombre in enumerate(ESTADOS_CRISPITO))
     )
+
+# --- ¿Quién quieres que te dé la opinión? -------------------------------
+
+st.subheader("¿Quién quieres que te dé la opinión?")
+
+opiniones = ultimo.get("opiniones", [])
+
+if opiniones:
+    st.image(str(CARPETA_CARICATURAS / "todos.png"))
+
+    # st.radio devuelve la opción elegida. Con index=None no hay ninguna marcada
+    # al entrar. format_func decide el texto que se ve en cada opción.
+    elegida = st.radio(
+        "Elige un personaje",
+        opiniones,
+        index=None,
+        format_func=lambda opinion: opinion["nombre"],
+        horizontal=True,
+        label_visibility="collapsed",
+    )
+
+    if elegida is None:
+        st.caption("Elige un personaje para leer qué opina de las noticias de hoy.")
+    else:
+        parrafos = "".join(
+            f'<p class="parrafo">{escape(parrafo)}</p>'
+            for parrafo in elegida["texto"].split("\n")
+            if parrafo.strip()
+        )
+        html(
+            '<div class="tarjeta">'
+            '<div class="opinion">'
+            f'<img src="{imagen_incrustada("caricaturas/" + elegida["id"] + ".png")}" alt="">'
+            f'<div><div class="quien">{escape(elegida["nombre"])} opina</div>'
+            '<div class="aviso">Personaje inventado · texto escrito por ChatGPT</div></div>'
+            "</div>"
+            f"{parrafos}"
+            "</div>"
+        )
+    st.caption(
+        "Son opiniones simuladas por una IA para mostrar cómo vería el día cada "
+        "corriente de pensamiento. No son de ninguna persona real ni reflejan la "
+        "opinión de esta web."
+    )
+else:
+    st.write("Las opiniones estarán disponibles en la próxima actualización.")
 
 # --- Resumen general ---------------------------------------------------
 
@@ -356,52 +403,6 @@ if historial:
     )
 else:
     st.write("Aún no hay ningún día registrado.")
-
-# --- ¿Quién quieres que te dé la opinión? -------------------------------
-
-st.subheader("¿Quién quieres que te dé la opinión?")
-
-opiniones = ultimo.get("opiniones", [])
-
-if opiniones:
-    st.image(str(CARPETA_CARICATURAS / "todos.png"))
-
-    # st.radio devuelve la opción elegida. Con index=None no hay ninguna marcada
-    # al entrar. format_func decide el texto que se ve en cada opción.
-    elegida = st.radio(
-        "Elige un personaje",
-        opiniones,
-        index=None,
-        format_func=lambda opinion: opinion["nombre"],
-        horizontal=True,
-        label_visibility="collapsed",
-    )
-
-    if elegida is None:
-        st.caption("Elige un personaje para leer qué opina de las noticias de hoy.")
-    else:
-        parrafos = "".join(
-            f'<p class="parrafo">{escape(parrafo)}</p>'
-            for parrafo in elegida["texto"].split("\n")
-            if parrafo.strip()
-        )
-        html(
-            '<div class="tarjeta">'
-            '<div class="opinion">'
-            f'<img src="{imagen_incrustada("caricaturas/" + elegida["id"] + ".png")}" alt="">'
-            f'<div><div class="quien">{escape(elegida["nombre"])} opina</div>'
-            '<div class="aviso">Personaje inventado · texto escrito por ChatGPT</div></div>'
-            "</div>"
-            f"{parrafos}"
-            "</div>"
-        )
-    st.caption(
-        "Son opiniones simuladas por una IA para mostrar cómo vería el día cada "
-        "corriente de pensamiento. No son de ninguna persona real ni reflejan la "
-        "opinión de esta web."
-    )
-else:
-    st.write("Las opiniones estarán disponibles en la próxima actualización.")
 
 html(
     '<div class="pie">Los resúmenes, el populismo, el sesgo y la crispación son una '

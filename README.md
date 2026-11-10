@@ -1,6 +1,14 @@
 # 📰 Portadas IA
 
-Web hecha con **Streamlit** que resume las portadas de **El País, El Mundo, ABC, Público y OKdiario** con **ChatGPT** a través de **LangChain**, puntúa su nivel de populismo y lleva un registro diario de la crispación.
+Web hecha con **Streamlit**, **LangChain** y **ChatGPT** que sigue el día en cinco portadas: **El País, El Mundo, ABC, Público y OKdiario**.
+
+Qué muestra:
+
+- **Crispación ahora**: nota de 0 a 100 con Crispito, la mascota, en uno de sus 6 estados.
+- **¿Quién quieres que te dé la opinión?**: el día visto por un comunista, un anarquista, un liberal, uno de extrema derecha y una demócrata de centro (personajes inventados, texto de ChatGPT).
+- **Lo más repetido hoy**: los temas que comparten las portadas.
+- **Periódico a periódico**: resumen, nivel de populismo (0-100) y sesgo de cada uno.
+- **Crispación día a día**: una tabla con un registro por día.
 
 ## Cómo funciona
 
@@ -10,6 +18,7 @@ Hay dos piezas:
 |---|---|---|
 | `actualizar.py` | Lee las portadas, las analiza con ChatGPT y guarda el resultado en `datos/` | GitHub Actions, a las 8:00, 11:00, 14:00, 17:00 y 20:00 (hora de Madrid) |
 | `app.py` | Enseña lo que hay en `datos/` | Streamlit Community Cloud |
+| `crear_crispito.py` y `crear_caricaturas.py` | Dibujan la mascota y las caricaturas (carpetas `crispito/` y `caricaturas/`) | Tú, solo si quieres cambiar los dibujos |
 
 En `datos/` se guardan dos archivos:
 
