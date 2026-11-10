@@ -3,7 +3,7 @@
 Web hecha con **Streamlit**, **LangChain** y **ChatGPT** que sigue el día en cinco portadas por país. Arriba hay un selector:
 
 - **España**: El País, El Mundo, ABC, Público y OKdiario.
-- **Francia**: Le Monde, Le Figaro, Libération, Le Parisien y Les Echos.
+- **Francia**: Le Monde, Le Figaro, Libération, Le Parisien y Ouest-France.
 
 Todo se muestra en español, también el análisis de la prensa francesa.
 

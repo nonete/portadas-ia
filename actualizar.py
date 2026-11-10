@@ -79,9 +79,9 @@ PERIODICOS_FR = {
         "web": "https://www.leparisien.fr",
         "rss": ["https://feeds.leparisien.fr/leparisien/rss"],
     },
-    "Les Echos": {
-        "web": "https://www.lesechos.fr",
-        "rss": ["https://services.lesechos.fr/rss/les-echos-une.xml"],
+    "Ouest-France": {
+        "web": "https://www.ouest-france.fr",
+        "rss": ["https://www.ouest-france.fr/rss/une", "https://www.ouest-france.fr/rss-en-continu.xml"],
     },
 }
 
