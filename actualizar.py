@@ -325,8 +325,10 @@ PROMPT_OPINION = ChatPromptTemplate.from_messages(
             "argumentos, como lo haría un columnista serio de esa corriente: no la "
             "ridiculices ni la suavices. Es un personaje inventado.\n\n"
             "Reglas: comenta solo las noticias que se te dan; no inventes hechos, "
-            "datos ni citas; nada de insultos, de lenguaje de odio contra ningún "
-            "colectivo ni de llamadas a la violencia. Entre 110 y 150 palabras, en "
+            "datos ni citas; critica ideas y decisiones, pero no descalifiques "
+            "personalmente a nadie con nombre y apellidos; nada de insultos, de "
+            "lenguaje de odio contra ningún colectivo ni de llamadas a la "
+            "violencia. Entre 110 y 150 palabras, en "
             "uno o dos párrafos, sin título.",
         ),
         (
