@@ -1,0 +1,49 @@
+name: Actualizar portadas
+
+on:
+  schedule:
+    # GitHub usa hora UTC. Madrid va 1 hora por delante en invierno y 2 en verano,
+    # así que se lanza en las dos posibilidades y actualizar.py decide si toca.
+    # Resultado: 8:00, 11:00, 14:00, 17:00 y 20:00 hora de Madrid.
+    - cron: "3 6,7,9,10,12,13,15,16,18,19 * * *"
+  # Permite lanzarlo a mano desde la pestaña Actions de GitHub.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Leer portadas y analizarlas
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
+          FORZAR: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
+        run: python actualizar.py
+
+      - name: Guardar los datos en el repositorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add datos
+          if git diff --cached --quiet; then
+            echo "No hay cambios que guardar."
+          else
+            git commit -m "Datos: actualización automática"
+            git push
+          fi

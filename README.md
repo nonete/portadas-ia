@@ -1,35 +1,40 @@
 # 📰 Portadas IA
 
-Web hecha con **Streamlit** que, al entrar, lee las portadas de **El País, El Mundo, ABC, Público y OKdiario** y las resume con **ChatGPT** a través de **LangChain**.
+Web hecha con **Streamlit** que resume las portadas de **El País, El Mundo, ABC, Público y OKdiario** con **ChatGPT** a través de **LangChain**, puntúa su nivel de populismo y lleva un registro diario de la crispación.
 
 ## Cómo funciona
 
-1. **Leer**: descarga los titulares de portada de cada periódico por RSS (si un RSS falla, los saca de la portada web).
-2. **Resumir**: una cadena de LangChain (`prompt | modelo | texto`) pide a ChatGPT un resumen de cada portada y otro con los temas que más se repiten.
-3. **Mostrar**: Streamlit pinta los resúmenes y, debajo de cada uno, los titulares originales con su enlace.
+Hay dos piezas:
 
-El resultado se guarda 30 minutos, así que no se gasta dinero de OpenAI en cada visita. El botón **Actualizar ahora** fuerza una lectura nueva.
+| Archivo | Qué hace | Quién lo ejecuta |
+|---|---|---|
+| `actualizar.py` | Lee las portadas, las analiza con ChatGPT y guarda el resultado en `datos/` | GitHub Actions, a las 8:00, 11:00, 14:00, 17:00 y 20:00 (hora de Madrid) |
+| `app.py` | Enseña lo que hay en `datos/` | Streamlit Community Cloud |
 
-## Secrets necesarios
+En `datos/` se guardan dos archivos:
 
-En Streamlit Community Cloud → tu app → **Settings → Secrets**:
+- `ultimo.json`: la última actualización (lo que se ve en la web).
+- `historial.json`: un registro por día con el nivel de crispación. Cada día se añade uno.
 
-```toml
-OPENAI_API_KEY = "sk-..."
-OPENAI_MODEL = "gpt-4o-mini"
-```
+La web no llama a OpenAI: solo lee esos archivos. Así el gasto es fijo (cinco actualizaciones al día) y el historial no se pierde.
+
+## Secrets necesarios (en GitHub)
+
+En el repositorio → **Settings → Secrets and variables → Actions → New repository secret**, crea estos dos:
+
+| Nombre | Valor |
+|---|---|
+| `OPENAI_API_KEY` | tu clave de OpenAI (`sk-...`) |
+| `OPENAI_MODEL` | el modelo, por ejemplo `gpt-4o-mini` |
+
+Streamlit ya no necesita ningún Secret.
+
+## Lanzar una actualización a mano
+
+En el repositorio → pestaña **Actions** → **Actualizar portadas** → **Run workflow**.
 
 ## Publicarla en Streamlit Community Cloud
 
 1. Entra en https://share.streamlit.io y pulsa **Create app**.
 2. Elige este repositorio, rama `main` y archivo `app.py`.
-3. En **Advanced settings → Secrets** pega las dos líneas de arriba con tu clave y tu modelo.
-4. Pulsa **Deploy**.
-
-## Probarla en tu ordenador
-
-```bash
-pip install -r requirements.txt
-# crea .streamlit/secrets.toml con las dos líneas de arriba
-streamlit run app.py
-```
+3. Pulsa **Deploy**.
