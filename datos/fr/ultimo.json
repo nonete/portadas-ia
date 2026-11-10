@@ -1,0 +1,335 @@
+{
+  "pais": "Francia",
+  "fecha": "2026-11-10",
+  "turno": 20,
+  "generado": "10/11/2026 22:50",
+  "modelo": "gpt-6.1-terra",
+  "general": {
+    "temas": "La candidatura presidencial de Éric Zemmour aparece en los cuatro periódicos. También se repiten el debate sobre CNews, la guerra en Ucrania y las negociaciones con Rusia, el juicio por las violencias contra Michel Zecler, la movilización estudiantil y la COP31. Solo Le Parisien destaca la investigación sobre el ciberataque a las cámaras frigoríficas del Establecimiento Francés de Sangre.",
+    "crispacion": 68,
+    "motivo_crispacion": "La tensión es elevada por los bloqueos universitarios y el enfrentamiento entre sus participantes y los presidentes de las universidades, así como por la agresión a una representante electa durante una mediación. La petición de cierre de CNews y el trato a sus periodistas generan desacuerdos entre organizaciones, diputados y gobierno. El juicio por las violencias policiales contra Michel Zecler y la guerra en Ucrania añaden asuntos conflictivos. Los contenidos culturales y deportivos de Le Parisien ofrecen un contrapunto más ligero."
+  },
+  "opiniones": [
+    {
+      "id": "comunista",
+      "nombre": "Un comunista",
+      "texto": "Veo en las noticias de hoy un retrato nítido de la lucha de clases. Mientras el impuesto medio sobre la renta del 0,1 % más rico cayó un 9 % en 2025, miles de estudiantes y jóvenes se movilizan y un multimillonario toma el control de Fnac Darty. La riqueza concentrada compra poder; quienes trabajan y estudian deben organizarse para disputárselo.\n\nYo defiendo una fiscalidad que grave de verdad las grandes fortunas y financie servicios públicos universales, empezando por una educación accesible y de calidad. También defiendo la propiedad colectiva y el control democrático de sectores estratégicos: no basta con pedir responsabilidad social a quienes acumulan capital. Y ante el avance electoral de la extrema derecha, reivindico la solidaridad entre trabajadores, sin distinción de origen, frente a los proyectos que buscan dividirlos."
+    },
+    {
+      "id": "anarquista",
+      "nombre": "Un anarquista",
+      "texto": "Veo en la movilización estudiantil algo más importante que un pulso entre bloqueos y autoridades universitarias: la posibilidad de decidir en común cómo se organiza la vida académica. Defiendo las asambleas abiertas, capaces de escuchar también a quienes discrepan y de asumir colectivamente las consecuencias de sus decisiones. La libertad no se delega sin más en presidentes ni partidos.\n\nTambién me inquieta que el impuesto medio de los más ricos haya caído mientras el conjunto de su recaudación crecía. El poder económico encuentra formas de protegerse; por eso no me basta con pedir un Estado más justo. Quiero comunidades y lugares de trabajo autogestionados, donde la riqueza y las decisiones no se concentren arriba. Y ante la llegada de migrantes a Canarias, prefiero el apoyo mutuo a la lógica de las fronteras: la libertad es colectiva o queda reservada a unos pocos."
+    },
+    {
+      "id": "liberal",
+      "nombre": "Un liberal",
+      "texto": "La caída del impuesto medio sobre la renta del 0,1 % más acomodado no me parece un argumento para subir impuestos, sino para simplificarlos. Si quienes tienen más recursos pueden gestionar mejor lo que declaran, necesitamos menos excepciones y reglas claras para todos. Prefiero tipos bajos y una base amplia a un sistema que premia la capacidad de navegar privilegios fiscales.\n\nTambién celebro que se haya archivado la petición de cerrar CNews. No hace falta compartir la línea de una cadena para defender su derecho a existir: en una sociedad libre, las ideas se combaten con argumentos, no clausurando medios. Y en las universidades, la libertad de manifestarse merece respeto, pero no debería convertirse en una licencia para impedir que otros estudien. La libertad exige responsabilidad y límites al poder, también al de quienes protestan."
+    },
+    {
+      "id": "extrema_derecha",
+      "nombre": "Uno de extrema derecha",
+      "texto": "Veo en la llegada de miles de migrantes a Canarias una advertencia que Francia y Europa no deberían ignorar. La solidaridad no puede sustituir a una política de fronteras: controlar las entradas, ejecutar las decisiones de retorno y cooperar con los países de origen son condiciones para que una nación conserve la capacidad de decidir su futuro. Quienes presentan todo límite como una falta moral eluden la responsabilidad de gobernar.\n\nTambién me inquieta que la seguridad europea se discuta con los europeos en segundo plano. Nuestra soberanía exige una defensa capaz y una diplomacia que no delegue sus intereses. Y en casa, rechazo tanto los bloqueos universitarios que impiden estudiar como las iniciativas para cerrar un canal de televisión: una democracia sólida protege el orden y el pluralismo, incluso cuando las opiniones difundidas incomodan a las élites."
+    },
+    {
+      "id": "centro",
+      "nombre": "Una demócrata de centro",
+      "texto": "Veo en las tensiones universitarias una prueba para la democracia cotidiana. El derecho a manifestarse merece respeto, pero también lo merece el derecho a estudiar: prolongar los bloqueos no sustituye al diálogo entre estudiantes y responsables de las universidades. Del mismo modo, rechazo cerrar un medio por su línea editorial. La libertad de prensa protege también las voces que incomodan, aunque nadie esté obligado a conceder entrevistas.\n\nMe preocupa, además, que el impuesto medio sobre la renta del 0,1 % más rico haya caído un 9 % en 2025. Una economía de mercado necesita inversión e iniciativa privada, pero también reglas fiscales que inspiren confianza. Prefiero corregir gradualmente las posibilidades de reducir la factura fiscal a prometer soluciones de choque: financiar la protección social con equidad es una condición de su legitimidad."
+    }
+  ],
+  "periodicos": [
+    {
+      "nombre": "Le Monde",
+      "web": "https://www.lemonde.fr",
+      "noticias": [
+        {
+          "titulo": "Mobilisation étudiante : la tension monte d’un cran entre bloqueurs et présidents d’université",
+          "entradilla": "Plusieurs milliers d’étudiants et de lycéens ont manifesté, mardi 10 novembre, alors que la mobilisation ne faiblit pas dans les universités. Les présidents d’établissement appellent à stopper les blocages et dénoncent l’« irresponsabilité de certains occupants ».",
+          "enlace": "https://www.lemonde.fr/campus/article/2026/11/10/mobilisation-etudiante-la-tension-monte-d-un-cran-entre-bloqueurs-et-presidents-d-universite_6808900_4401467.html"
+        },
+        {
+          "titulo": "Eric Zemmour confirme sa candidature à l’élection présidentielle",
+          "entradilla": "Le polémiste d’extrême droite a répété, mardi 10 novembre, sur le plateau du « 20 heures » de TF1, qu’il concourrait une deuxième fois à l’Elysée, au grand dam de ceux qui lui préfèrent sa compagne, Sarah Knafo.",
+          "enlace": "https://www.lemonde.fr/politique/article/2026/11/10/eric-zemmour-confirme-sa-candidature-a-l-election-presidentielle_6808904_823448.html"
+        },
+        {
+          "titulo": "Israël : devant la Knesset, Gadi Eisenkot promet des réformes législatives rapides avant même la formation du gouvernement",
+          "entradilla": "Même si un nouveau gouvernement n’a pas encore été formé, l’Assemblée peut déjà adopter des lois, dont l’instauration d’une commission d’enquête, dotée de pouvoirs d’investigation, sur le 7 octobre 2023, et la responsabilité personnelle de Benyamin Nétanyahou.",
+          "enlace": "https://www.lemonde.fr/international/article/2026/11/10/israel-devant-la-knesset-gadi-eisenkot-promet-des-reformes-legislatives-rapides-avant-meme-la-formation-du-gouvernement_6808907_3210.html"
+        },
+        {
+          "titulo": "Les très riches Français ont fait baisser leur impôt sur le revenu en 2025",
+          "entradilla": "Les recettes de l’impôt sur le revenu ont progressé de 1 % en 2025. Mais pour les 0,1 % de Français les plus aisés, qui peuvent plus facilement piloter leurs ressources et les montants déclarés, l’impôt moyen a au contraire reculé de 9 %, selon une étude de Bercy.",
+          "enlace": "https://www.lemonde.fr/politique/article/2026/11/10/les-tres-riches-francais-ont-fait-baisser-leur-impot-sur-le-revenu-en-2025_6808873_823448.html"
+        },
+        {
+          "titulo": "COP31 : pourquoi l’électrification est au cœur des discussions de la conférence sur le climat",
+          "entradilla": "La Turquie et l’Australie, qui partagent la présidence de la conférence mondiale qui a démarré lundi à Antalya, veulent rallier le plus grand nombre derrière un engagement afin que l’électricité représente 35 % de la demande mondiale d’énergie en 2035.",
+          "enlace": "https://www.lemonde.fr/planete/article/2026/11/10/cop31-pourquoi-l-electrification-est-au-c-ur-des-discussions-de-la-conference-sur-le-climat_6808886_3244.html"
+        },
+        {
+          "titulo": "Ce que l’on sait de l’affaire Michel Zecler",
+          "entradilla": "Cette affaire de violences policières, devenue emblématique, est jugée depuis le lundi 9 novembre devant la cour criminelle de Paris. Trois policiers comparaissent pour des violences infligées au producteur de musique en 2020.",
+          "enlace": "https://www.lemonde.fr/videos/video/2026/11/10/ce-que-l-on-sait-de-l-affaire-michel-zecler_6808867_1669088.html"
+        },
+        {
+          "titulo": "EN DIRECT, guerre en Ukraine : un militaire américain, soupçonné d’espionnage au profit de la Russie, arrêté au Royaume-Uni",
+          "entradilla": "Cet homme de 41 ans a été interpellé, mardi, par la police antiterroriste britannique. Par ailleurs, des négociations entre la Russie et l’Ukraine se tiennent mardi et mercredi aux Emirats arabes unis, dans le cadre d’une médiation américaine.",
+          "enlace": "https://www.lemonde.fr/international/live/2026/11/10/en-direct-guerre-en-ukraine-un-militaire-americain-soupconne-d-espionnage-au-profit-de-la-russie-arrete-au-royaume-uni_6808609_3210.html"
+        },
+        {
+          "titulo": "Le milliardaire tchèque Daniel Kretinsky remporte son OPA sur Fnac Darty",
+          "entradilla": "A l’issue de l’offre publique d’achat lancée le 26 janvier, Daniel Kretinsky, à travers sa société EP Group, devient l’actionnaire de contrôle du distributeur français de produits culturels, électroménagers et électroniques avec 69,3 % du capital.",
+          "enlace": "https://www.lemonde.fr/economie/article/2026/11/10/le-milliardaire-tcheque-daniel-kretinsky-remporte-son-opa-sur-fnac-darty_6808902_3234.html"
+        },
+        {
+          "titulo": "Michel Houellebecq mis en examen pour ses propos sur les musulmans lors d’un entretien dans la revue « Front populaire » en 2022",
+          "entradilla": "L’écrivain, par la voix de ses avocats, conteste le délit pénal de « complicité de provocation à la discrimination, à la haine ou à la violence à l’égard d’un groupe de personnes à raison de leur origine » qui lui est reproché. Il dit « déplorer la judiciarisation croissante des débats intellectuels",
+          "enlace": "https://www.lemonde.fr/societe/article/2026/11/10/michel-houellebecq-mis-en-examen-pour-ses-propos-sur-les-musulmans-lors-d-un-entretien-dans-la-revue-front-populaire-en-2022_6808858_3224.html"
+        },
+        {
+          "titulo": "CNews : les organisations lycéennes et la CGT font front contre la chaîne ; Catherine Pégard, la ministre de la culture, appelle à ne pas « trier les journalistes »",
+          "entradilla": "Alors que la CGT et les organisations lycéennes refusent de répondre aux questions de la presse en présence des journalistes de la chaîne, le gouvernement, la droite et l’extrême droite appellent à respecter la liberté de la presse.",
+          "enlace": "https://www.lemonde.fr/actualite-medias/article/2026/11/10/cnews-les-organisations-lyceennes-et-la-cgt-font-front-contre-la-chaine-catherine-pegard-la-ministre-de-la-culture-appelle-a-ne-pas-trier-les-journalistes_6808855_3236.html"
+        },
+        {
+          "titulo": "Plusieurs milliers de migrants africains arrivent aux Canaries, « l’état d’urgence » décrété sur l’une des îles espagnoles",
+          "entradilla": "L’archipel a vu affluer près de 6 000 personnes au cours des dix premiers jours du mois de novembre, pour l’essentiel sur l’île d’El Hierro, qui compte 12 000 habitants. Cet afflux s’explique en partie par la fermeture d’autres voies migratoires.",
+          "enlace": "https://www.lemonde.fr/afrique/article/2026/11/10/plusieurs-milliers-de-migrants-africains-arrivent-aux-canaries-l-etat-d-urgence-decrete-sur-l-une-des-iles-espagnoles_6808888_3212.html"
+        },
+        {
+          "titulo": "Gaza : sept personnes, dont un adolescent, tuées par des bombardements et des tirs israéliens, selon les services de secours palestiniens",
+          "entradilla": "Un « raid », deux bombardements et des tirs israéliens ont tué sept personnes, mardi, dans différents endroits du territoire, alors que le cessez-le-feu entre l’Etat hébreu et le Hamas est toujours en vigueur.",
+          "enlace": "https://www.lemonde.fr/international/article/2026/11/10/gaza-sept-personnes-dont-un-adolescent-tuees-par-des-bombardements-et-des-tirs-israeliens-selon-les-services-de-secours-palestiniens_6808897_3210.html"
+        }
+      ],
+      "analisis": {
+        "resumen": "- Crece la tensión por los bloqueos universitarios; Zemmour confirma su candidatura presidencial.\n- En Israel se anuncian reformas legislativas; en Gaza, bombardeos y disparos israelíes causan siete muertes, según los servicios de rescate palestinos.\n- Los franceses más ricos redujeron su impuesto medio sobre la renta en 2025; Kretinsky toma el control de Fnac Darty.\n- La COP31 aborda la electrificación; llegan miles de migrantes africanos a Canarias.\n- Se juzga el caso de violencia policial contra Michel Zecler y se investigan judicialmente declaraciones de Houellebecq; continúa la polémica sobre CNews.",
+        "populismo": 15,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «la tensión sube un grado» y «hacen frente contra la cadena» dramatizan los conflictos.",
+        "sesgo": "La selección presta atención a conflictos sociales, desigualdad fiscal y actuaciones policiales, junto con asuntos políticos e internacionales. No se aprecia una orientación política inequívoca en el conjunto."
+      }
+    },
+    {
+      "nombre": "Le Figaro",
+      "web": "https://www.lefigaro.fr",
+      "noticias": [
+        {
+          "titulo": "« Ils lâchent des chiens pour qu’ils vous mordent » : le récit effroyable d’Arslan Annaiev, soldat ukrainien, ancien prisonnier en Russie",
+          "entradilla": "TÉMOIGNAGE - Engagé dans la 115e brigade territoriale, le soldat a été fait prisonnier en mai 2023 près de Svatove. Il a été libéré en juillet 2025. Pour Le Figaro, l’homme de 34 ans raconte les horreurs qu’il a vécues pendant deux ans.",
+          "enlace": "https://www.lefigaro.fr/international/ils-lachent-des-chiens-pour-qu-ils-vous-mordent-le-recit-effroyable-d-arslan-annaiev-soldat-ukrainien-ancien-prisonnier-en-russie-20261110"
+        },
+        {
+          "titulo": "À Abu Dhabi, les États-Unis s’entendent avec la Russie pour discuter de la sécurité européenne",
+          "entradilla": "RÉCIT - À l’issue d’une première journée de négociations entre la Russie et l’Ukraine, sous l’égide américaine, le président ukrainien, Volodymyr Zelensky, a jugé les discussions substantielles. Les Européens doivent quant à eux se contenter d’un second rôle.",
+          "enlace": "https://www.lefigaro.fr/international/a-abu-dhabi-les-etats-unis-s-entendent-avec-la-russie-pour-discuter-de-la-securite-europeenne-20261110"
+        },
+        {
+          "titulo": "Face à la Russie, les sanctions européennes montrent encore leurs limites",
+          "entradilla": "DÉCRYPTAGE - Avant un nouveau débat au Parlement ce jeudi, un rapport de la Cour des comptes européenne met en lumière les failles du dispositif visant à affaiblir Moscou.",
+          "enlace": "https://www.lefigaro.fr/international/face-a-la-russie-les-sanctions-europeennes-montrent-encore-leurs-limites-20261110"
+        },
+        {
+          "titulo": "À Moscou, le chef de la diplomatie péruvienne inquiet quant au sort de 500 concitoyens partis au combat pour la Russie",
+          "entradilla": "Un rapport d’Amnesty International publié en septembre affirme que la Russie a recruté par la ruse des milliers de personnes originaires de pays tels que le Brésil, la Colombie, Cuba, le Sri Lanka et l’Afrique du Sud.",
+          "enlace": "https://www.lefigaro.fr/international/a-moscou-le-chef-de-la-diplomatie-peruvienne-inquiet-quant-au-sort-de-500-concitoyens-partis-au-combat-pour-la-russie-20261110"
+        },
+        {
+          "titulo": "«Demander la fermeture d’une chaîne est plus qu’inquiétant dans une démocratie» : la pétition anti-CNews soutenue par LFI fait l’unanimité contre elle dans le PAF",
+          "entradilla": "RÉCIT - Les députés ont classé le texte soutenu par LFI, qui réclamait la fermeture de la chaîne. Une initiative « lunaire », selon un dirigeant de France Télévisions.",
+          "enlace": "https://www.lefigaro.fr/medias/demander-la-fermeture-d-une-chaine-est-plus-qu-inquietant-dans-une-democratie-la-petition-anti-cnews-soutenue-par-lfi-fait-l-unanimite-contre-elle-dans-le-paf-20261110"
+        },
+        {
+          "titulo": "À l’Assemblée, dans un climat tendu, la pétition visant à supprimer CNews écartée par les députés",
+          "entradilla": "Ce mardi après-midi, à l’issue d’un scrutin serré, les parlementaires de la commission des affaires culturelles de l’Assemblée ont décidé de «classer» la pétition visant à supprimer la chaîne d’information de l’audiovisuel français. Ils plaident en revanche pour un débat plus général sur la liberté ",
+          "enlace": "https://www.lefigaro.fr/elections/presidentielles/a-l-assemblee-dans-un-climat-tendu-la-petition-visant-a-supprimer-cnews-ecartee-par-les-deputes-20261110"
+        },
+        {
+          "titulo": "«Si je peux détendre l’ambiance» : en plein débat sur l’avenir de CNews, le discours familier du président de la commission surprend",
+          "entradilla": "VIDÉO - Les députés étaient appelés ce mardi à décider des suites à donner à la pétition demandant la fermeture de CNews. Au cours de cet examen, le président de la commission des Affaires culturelles a eu une tournure de phrase spontanée qui a fait rire ses collègues.",
+          "enlace": "https://www.lefigaro.fr/politique/si-je-peux-detendre-l-ambiance-en-plein-debat-sur-l-avenir-de-cnews-le-discours-familier-du-president-de-la-commission-surprend-20261110"
+        },
+        {
+          "titulo": "Présidentielle : Retailleau propose de fixer la primaire aux 31 janvier et 7 février 2027, «le temps d’en définir les modalités et de faire campagne»",
+          "entradilla": "INFO LE FIGARO - Le candidat LR à l’Élysée a adressé mardi un courrier à Gabriel Attal, Édouard Philippe et David Lisnard pour accélérer la tenue d’une primaire et offrir «une alternative claire à tous ces électeurs déboussolés» face au match annoncé entre LFI et le RN.",
+          "enlace": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-retailleau-propose-de-fixer-la-primaire-aux-31-janvier-et-7-fevrier-le-temps-d-en-definir-les-modalites-et-de-faire-campagne-20261110"
+        },
+        {
+          "titulo": "Éric Zemmour se lance dans une seconde campagne présidentielle",
+          "entradilla": "Cherchant à dissiper les doutes, le président de Reconquête a officialisé ce mardi soir sa candidature sur TF1.",
+          "enlace": "https://www.lefigaro.fr/elections/presidentielles/candidats/eric-zemmour-se-lance-dans-une-seconde-campagne-presidentielle-20261110"
+        },
+        {
+          "titulo": "EN DIRECT - Présidentielle 2027 : Éric Zemmour officialise sa candidature",
+          "entradilla": "En 2022, le candidat Reconquête avait récolté 7,07% des voix.",
+          "enlace": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-teddy-riner-candidature-emmanuel-macron-election-sondage-melenchon-20261110"
+        },
+        {
+          "titulo": "Présidentielle : Franceinfo organise un grand oral sur les services publics avec huit candidats",
+          "entradilla": "Jeudi, Gabriel Attal, Raphaël Glucksmann, Édouard Philippe, Jean-Luc Mélenchon, Fabien Roussel, Marine Tondelier, Bruno Retailleau et Éric Zemmour seront interrogés par des binômes de journalistes.",
+          "enlace": "https://tvmag.lefigaro.fr/programme-tv/actu-tele/presidentielle-franceinfo-organise-un-grand-oral-sur-les-services-publics-avec-huit-candidats-20261110"
+        },
+        {
+          "titulo": "Présidentielle 2027 : le RN a obtenu un préaccord de plus 10 millions d’euros de la part de deux banques européennes",
+          "entradilla": "Le parti à la flamme, en difficulté à chaque scrutin suprême pour obtenir un prêt, a obtenu un préaccord de 10,6 millions d’euros.",
+          "enlace": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-le-rn-a-obtenu-un-preaccord-de-plus-10-millions-d-euros-de-la-part-de-deux-banques-europeennes-20261110"
+        }
+      ],
+      "analisis": {
+        "resumen": "- Un ex prisionero ucraniano relata los abusos que sufrió durante dos años en Rusia.\n- Estados Unidos y Rusia acuerdan abordar la seguridad europea; también se destacan los límites de las sanciones europeas y el reclutamiento de extranjeros por Rusia.\n- La Asamblea francesa archiva una petición para cerrar CNews, en medio de un debate tenso y de críticas a la iniciativa.\n- Retailleau propone fechas para una primaria presidencial y Éric Zemmour oficializa su candidatura.\n- Franceinfo prepara un debate sobre servicios públicos con ocho candidatos y el RN obtiene un preacuerdo de financiación bancaria.",
+        "populismo": 30,
+        "motivo_populismo": "Expresiones como «relato espantoso», «horrores» o la petición «lunar» intensifican el tono, aunque predominan titulares informativos y no aparece una oposición sistemática entre el pueblo y las élites.",
+        "sesgo": "La selección destaca las actuaciones de Rusia de forma crítica y presenta a Europa en un papel secundario. Sobre CNews, da protagonismo a las críticas contra la petición de cierre sin recoger argumentos de sus partidarios."
+      }
+    },
+    {
+      "nombre": "Libération",
+      "web": "https://www.liberation.fr",
+      "noticias": [
+        {
+          "titulo": "Monsieur Mélenchon, depuis l’Ukraine, j’ai écouté vos mots avec attention…",
+          "entradilla": "En s’appuyant sur des propos de Volodymyr Zelensky pour justifier sa vision sur le Donbass, samedi 7 novembre, au Bourget, le leader de LFI se trompe et fait écho aux positions du Kremlin.",
+          "enlace": "https://www.liberation.fr/politique/elections/monsieur-melenchon-depuis-lukraine-jai-ecoute-vos-mots-avec-attention-20261110_P4WNSFKNXNDP5JUYHXCQSHWGQQ/"
+        },
+        {
+          "titulo": "Présidentielle 2027 : Eric Zemmour «bien candidat» pour la deuxième fois",
+          "entradilla": "Après ses 7 % obtenus en 2022, le patron de Reconquête a confirmé ce mardi 10 novembre au «20 heures» de TF1 qu’il retente bien sa chance dans une élection où il se place parmi l’extrême droite la plus radicale qui soit en France.",
+          "enlace": "https://www.liberation.fr/politique/elections/presidentielle-2027-eric-zemmour-bien-candidat-pour-la-deuxieme-fois-20261110_XPLKJUN3CZEUBK5R6SQAA42ONY/"
+        },
+        {
+          "titulo": "Procès de l’agression de Michel Zecler : «Ils sont rentrés et ils se sont déchaînés, ils m’ont lynché»",
+          "entradilla": "Le producteur de musique s’est exprimé longuement, mardi 10 novembre, au deuxième jour du procès des trois policiers accusés de «violences volontaires» et «faux en écriture publique».",
+          "enlace": "https://www.liberation.fr/societe/police-justice/proces-de-lagression-de-michel-zecler-ils-sont-rentres-et-ils-se-sont-dechaines-ils-mont-lynche-20261110_N56FKXO7YZA2TCMAP5EL57SKZ4/"
+        },
+        {
+          "titulo": "Au procès de la «petite inconnue de l’A10», l’expert psy, «l’enfant bouc émissaire» et «la nuit de quarante ans»",
+          "entradilla": "Parmi les psychiatres entendus ce mardi 10 novembre, Daniel Zagury a éclairé d’un nouveau jour la personnalité d’Halima El Bakhti, jugée pour «actes de tortures et de barbarie ayant entraîné la mort sans intention de la donner». La clé d’analyse réside, selon lui, dans les maltraitances que l’accusé",
+          "enlace": "https://www.liberation.fr/societe/police-justice/au-proces-de-la-petite-inconnue-de-la10-lexpert-psy-lenfant-bouc-emissaire-et-la-nuit-de-quarante-ans-20261110_7I75G7SB4JGKNPDTBIYOLRYW2M/"
+        },
+        {
+          "titulo": "Bouteille d’essence, plainte pour tentative de meurtre, trois lycéens arrêtés… Ce que l’on sait de l’agression d’une élue en Seine-et-Marne",
+          "entradilla": "Une conseillère régionale et adjointe au maire de Chelles, où s’est déroulé l’incident, a été la cible ce mardi 10 novembre d’un projectile alors qu’elle tentait une médiation pour que les cours reprennent au lycée Gaston-Bachelard.",
+          "enlace": "https://www.liberation.fr/societe/education/seine-et-marne-un-lyceen-jette-une-bouteille-dessence-sur-une-elue-20261110_IHUQLS4IFBFZHMUL3UOKOY2L5I/"
+        },
+        {
+          "titulo": "500 jours de détention de Christophe Gleizes : «Nous n’oublions pas notre confrère»",
+          "entradilla": "Plus de quarante sociétés de journalistes apportent leur soutien au reporter, emprisonné en Algérie depuis 500 jours.",
+          "enlace": "https://www.liberation.fr/idees-et-debats/tribunes/500-jours-de-detention-de-christophe-gleizes-nous-noublions-pas-notre-confrere-20261110_A4HTBJQMMNHJNLQNKEZLLSFLQM/"
+        },
+        {
+          "titulo": "Pétition pour supprimer CNews de l’audiovisuel français classée sans suite : il n’y aura pas de débat à l’Assemblée",
+          "entradilla": "Le texte qui demande à fermer la chaîne de Vincent Bolloré a été examiné ce mardi en commission des affaires culturelles. Parmi les trois précédentes pétitions à avoir atteint les 500 000 signatures, une seule avait pu être débattue dans l’hémicycle.",
+          "enlace": "https://www.liberation.fr/economie/medias/debattue-a-lassemblee-ou-classee-sans-suite-le-sort-de-la-petition-pour-supprimer-cnews-decide-ce-mardi-20261110_XE5MJOFYSJGMNLXQ73XJRPNBTU/"
+        },
+        {
+          "titulo": "Au procès du triple narchomicide à Aix, les avocats des parties civiles dénoncent un crime de «trahison»",
+          "entradilla": "A l’issue de l’interrogatoire du cinquième et dernier accusé, les avocats des parties civiles ont déploré, dans leurs plaidoiries, les dénégations répétées de l’ensemble du box, privant les familles d’une vérité qu’elles attendent depuis six ans.",
+          "enlace": "https://www.liberation.fr/societe/police-justice/au-proces-du-triple-narchomicide-a-aix-les-avocats-des-parties-civiles-denoncent-un-crime-de-trahison-20261110_6CV4I3EMBVEYPADLMA4TZFMPGY/"
+        },
+        {
+          "titulo": "Affaire «Houris» : Kamel Daoud condamné à cinq ans de prison en Algérie",
+          "entradilla": "Accusé par une ancienne patiente de son épouse, psychiatre, d’avoir pillé son histoire pour le livre qui lui a valu le prix Goncourt en 2024, le romancier était poursuivi notamment pour «divulgation du secret professionnel», «soustraction d’un dossier médical» et «atteinte à la vie privée».",
+          "enlace": "https://www.liberation.fr/culture/livres/affaire-houris-kamel-daoud-condamne-a-cinq-ans-de-prison-en-algerie-20261110_WHP7GSOUIFBA3HZSPETRUUQITI/"
+        },
+        {
+          "titulo": "COP climat hébergées par des Etats pétrogaziers : de Dubaï à la Turquie, le grand festival du rire (jaune) des années 2020",
+          "entradilla": "Le président turc Recep Tayyip Erdogan, qui accueille depuis lundi 9 novembre la COP31, se félicite de la découverte de gisements pétroliers en Turquie. Dans la droite lignée d’une triste farce qui décrédibilise les conférences onusiennes année après année.",
+          "enlace": "https://www.liberation.fr/environnement/climat/cop-climat-hebergees-par-des-etats-petrogaziers-de-dubai-a-la-turquie-le-grand-festival-du-rire-jaune-des-annees-2020-20261110_KA6MSXC5ZJEOXLSM4H6AJVVN4E/"
+        },
+        {
+          "titulo": "Reprise des négociations entre la Russie et l’Ukraine : à Abou Dhabi, des positions inchangées et de maigres espoirs",
+          "entradilla": "Ce 10 novembre, Kyiv et Moscou sont revenus à la table des pourparlers sous médiation américaine, pour deux jours, avec l’objectif de progresser vers un règlement du conflit. Mais sans grandes perspectives de solutions.",
+          "enlace": "https://www.liberation.fr/international/europe/reprise-des-negociations-entre-la-russie-et-lukraine-a-abou-dhabi-des-positions-inchangees-et-de-maigres-espoirs-20261110_KTPJSLUGVBC73DSUKY52VZ2HMM/"
+        },
+        {
+          "titulo": "L’Anses saisie pour établir les effets des gaz lacrymogènes sur la santé et l’environnement",
+          "entradilla": "Ce mardi 10 novembre, l’association de consommateurs CLCV, membre du conseil d’administration de l’agence, lui a demandé de faire la lumière sur les risques sanitaires et environnementaux de ces produits utilisés massivement par les forces de l’ordre.",
+          "enlace": "https://www.liberation.fr/societe/sante/lanses-saisie-pour-etablir-les-effets-des-gaz-lacrymogenes-sur-la-sante-et-lenvironnement-20261110_FY6WB37HPZEZBB57FHPS24F2LE/"
+        }
+      ],
+      "analisis": {
+        "resumen": "- Una tribuna critica la postura de Mélenchon sobre el Donbás; Zemmour confirma su candidatura presidencial para 2027.\n- Varios juicios ocupan la portada: el de los policías acusados de agredir a Michel Zecler, el de la «pequeña desconocida de la A10» y el de un triple asesinato vinculado al narcotráfico.\n- Tres estudiantes han sido detenidos tras la agresión a una concejala en Seine-et-Marne.\n- Periodistas respaldan a Christophe Gleizes, detenido en Argelia, donde el escritor Kamel Daoud ha sido condenado a cinco años de prisión.\n- La portada también aborda la petición contra CNews, las negociaciones entre Rusia y Ucrania, las COP celebradas en países petroleros y los posibles efectos de los gases lacrimógenos.",
+        "populismo": 28,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «gran festival de la risa amarga» y citas como «me lincharon» aportan carga emocional; no se aprecia una apelación clara del pueblo contra las élites.",
+        "sesgo": "La selección y redacción muestran un enfoque crítico hacia Mélenchon, Zemmour y la celebración de cumbres climáticas en Estados petroleros. También prestan atención a la actuación policial, la libertad de prensa y las consecuencias ambientales."
+      }
+    },
+    {
+      "nombre": "Le Parisien",
+      "web": "https://www.leparisien.fr",
+      "noticias": [
+        {
+          "titulo": "Entre film d’horreur et récit familial pour Noël, que vaut le « Scrooge » avec Johnny Depp ?",
+          "entradilla": "",
+          "enlace": "https://www.leparisien.fr/culture-loisirs/cinema/entre-film-dhorreur-et-recit-familial-pour-noel-que-vaut-le-scrooge-avec-johnny-depp-10-11-2026-GXPHGW53NFEJBJPMFF2LVAQYHM.php"
+        },
+        {
+          "titulo": "« La plus grande aventure dans laquelle l’humanité s’est lancée » : la Nasa lance un appel aux candidats pour devenir astronaute sur la Lune",
+          "entradilla": "",
+          "enlace": "https://www.leparisien.fr/sciences/la-plus-grande-aventure-dans-laquelle-lhumanite-sest-lancee-la-nasa-lance-un-appel-aux-candidats-pour-devenir-astronaute-sur-la-lune-10-11-2026-WOUF6RZCZVEAZMNCC5ATG6U4RE.php"
+        },
+        {
+          "titulo": "Une enquête ouverte après la cyberattaque des chambres froides de l’Établissement français du sang : pas de lien avec l’Iran à ce stade",
+          "entradilla": "",
+          "enlace": "https://www.leparisien.fr/international/une-enquete-ouverte-apres-la-cyberattaque-des-chambres-froides-de-letablissement-francais-du-sang-pas-de-lien-avec-liran-a-ce-stade-10-11-2026-ITT6GUSS4VCQ3HUNUPGXSWHVCQ.php"
+        },
+        {
+          "titulo": "« C’est la première fois que mon boss va me payer pour que je lui botte le cul » : Cédric Doumbè et Jake Paul font monter la tension avant leur combat",
+          "entradilla": "",
+          "enlace": "https://www.leparisien.fr/sports/cest-la-premiere-fois-que-mon-boss-va-me-payer-pour-que-je-lui-botte-le-cul-cedric-doumbe-et-jake-paul-font-monter-la-tension-avant-leur-combat-10-11-2026-G64SUXZMXBADNFJZOPB7GBMX64.php"
+        },
+        {
+          "titulo": "« Vous vous prenez pour qui ? » : après une séquence tendue avec Alexis Corbière, Louise Montangon quitte le plateau de BFMTV",
+          "entradilla": "",
+          "enlace": "https://www.leparisien.fr/culture-loisirs/tv/vous-vous-prenez-pour-qui-apres-une-sequence-tendue-avec-alexis-corbiere-louise-montangon-quitte-le-plateau-de-bfmtv-10-11-2026-ULTV2EHSGVBKBA7TNUKFP2T6NI.php"
+        },
+        {
+          "titulo": "Ariana Grande fait son retour après plusieurs mois loin des projecteurs",
+          "entradilla": "",
+          "enlace": "https://www.leparisien.fr/culture-loisirs/musique/ariana-grande-fait-son-retour-apres-plusieurs-mois-loin-des-projecteurs-10-11-2026-TID25JMJDVFAZMV2W2X66JARGI.php"
+        },
+        {
+          "titulo": "« Un problème généralisé » : à Paris, des agents de déchetteries jugés pour avoir laissé décharger illégalement des gravats contre des pots-de-vin",
+          "entradilla": "",
+          "enlace": "https://www.leparisien.fr/paris-75/un-probleme-generalise-a-paris-des-agents-de-dechetteries-juges-pour-avoir-laisse-decharger-illegalement-des-gravats-contre-des-pots-de-vin-10-11-2026-KBHIQZRHHBC2HIONTIDAEHWLKA.php"
+        },
+        {
+          "titulo": "Cyberattaque contre des frigos : l’Iran rejette « les accusations infondées » de la France",
+          "entradilla": "",
+          "enlace": "https://www.leparisien.fr/international/cyberattaque-contre-des-frigos-liran-rejette-les-accusations-infondees-de-la-france-10-11-2026-5OAPAZSPF5HKZFQKDSFESLYOSI.php"
+        },
+        {
+          "titulo": "« Il peut perturber le match ! » : de la gauche à la droite en passant par le centre, qui doit craindre la candidature de Teddy Riner ?",
+          "entradilla": "",
+          "enlace": "https://www.leparisien.fr/elections/presidentielle/il-peut-perturber-le-match-de-la-gauche-a-la-droite-en-passant-par-le-centre-qui-doit-craindre-la-candidature-de-teddy-riner-10-11-2026-J4RP455NEVFZDHJFJCIHP3UK2U.php"
+        },
+        {
+          "titulo": "Undiz installe son café de Noël éphémère en plein cœur de Paris et promet des boissons chaudes et des cookies gratuits",
+          "entradilla": "",
+          "enlace": "https://www.leparisien.fr/paris-75/undiz-installe-son-cafe-de-noel-ephemere-en-plein-coeur-de-paris-et-promet-des-boissons-chaudes-et-des-cookies-gratuits-10-11-2026-G36ROUFKZVF3FKGHJIQ75M6HYI.php"
+        },
+        {
+          "titulo": "« Conserver une France française » : Éric Zemmour de nouveau candidat à la présidentielle",
+          "entradilla": "",
+          "enlace": "https://www.leparisien.fr/politique/conserver-une-france-francaise-eric-zemmour-de-nouveau-candidat-a-la-presidentielle-10-11-2026-SOXHKHRZXVCUHMFIQWJE5CRC2I.php"
+        },
+        {
+          "titulo": "« Le choix de partir de Paris à Marseille est en partie à cause de Vahid » : Fabrice Fiorèse revient sur son départ à l’OM",
+          "entradilla": "",
+          "enlace": "https://www.leparisien.fr/sports/football/le-choix-de-partir-de-paris-a-marseille-est-en-partie-a-cause-de-vahid-fabrice-fiorese-revient-sur-son-depart-a-lom-10-11-2026-LUX5UDPTBVFRTK5GO3TAAR6EUY.php"
+        }
+      ],
+      "analisis": {
+        "resumen": "- Se investiga el ciberataque a las cámaras frigoríficas del servicio francés de sangre; Irán rechaza las acusaciones y, por ahora, no se ha establecido un vínculo.\n- Éric Zemmour vuelve a presentarse a la presidencia y se analiza a quién podría afectar la candidatura de Teddy Riner.\n- Una discusión entre Alexis Corbière y Louise Montangon termina con la salida de esta del plató de BFMTV.\n- La NASA busca candidatos a astronautas para la Luna; en París, se juzga a trabajadores de puntos de recogida de residuos por presuntos sobornos.\n- La portada incluye cine navideño, el regreso de Ariana Grande, una cafetería efímera y noticias sobre los combates de Doumbè y Jake Paul y el pasado futbolístico de Fabrice Fiorèse.",
+        "populismo": 30,
+        "motivo_populismo": "Predominan titulares informativos, pero algunas citas enfatizan la confrontación, como «¿Usted quién se cree que es?», y la frase «conservar una Francia francesa» apela a una identidad excluyente.",
+        "sesgo": "La selección combina actualidad política y sucesos con entretenimiento, deporte y consumo, y da espacio a declaraciones que resaltan la tensión. No se aprecia una orientación política clara en el conjunto de los titulares."
+      }
+    },
+    {
+      "nombre": "Les Echos",
+      "web": "https://www.lesechos.fr",
+      "noticias": [],
+      "analisis": null
+    }
+  ]
+}
