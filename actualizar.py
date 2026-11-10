@@ -280,7 +280,9 @@ def noticias_a_texto(noticias: list[dict]) -> str:
 
 def analizar(portadas: dict[str, list[dict]], nombre_modelo: str) -> tuple[dict, dict]:
     """Devuelve (análisis general, {periódico: análisis})."""
-    modelo = ChatOpenAI(api_key=os.environ["OPENAI_API_KEY"], model=nombre_modelo)
+    # .strip() quita espacios o saltos de línea que se cuelan al pegar la clave.
+    clave = os.environ["OPENAI_API_KEY"].strip()
+    modelo = ChatOpenAI(api_key=clave, model=nombre_modelo)
 
     # Una "cadena" de LangChain: prompt -> modelo -> resultado.
     # with_structured_output obliga a ChatGPT a responder con una forma fija
@@ -359,7 +361,7 @@ def main() -> None:
         print(f"La actualización de las {turno}:00 ya está hecha.")
         return
 
-    nombre_modelo = os.environ["OPENAI_MODEL"]
+    nombre_modelo = os.environ["OPENAI_MODEL"].strip()
 
     print("Leyendo portadas…")
     portadas = leer_portadas()
