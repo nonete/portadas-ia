@@ -9,9 +9,11 @@ Pasos que sigue:
   2. Pedir a ChatGPT, con LangChain, el resumen, el populismo y el sesgo de
      cada portada, el nivel de crispación del conjunto y la opinión de
      cinco personajes de distintas ideologías.
-  3. Guardar todo en la carpeta datos/:
+  3. Guardar todo en datos/<país>/ (datos/es, datos/fr…):
        - ultimo.json     → lo que enseña la web
        - historial.json  → un registro por día con la crispación
+
+Los pasos se repiten para cada país de la lista PAISES.
 """
 
 import json
@@ -35,7 +37,7 @@ from pydantic import BaseModel, Field
 
 # Cada periódico tiene: su web, y una lista de direcciones RSS de portada.
 # Si la primera dirección falla, se prueba la siguiente.
-PERIODICOS = {
+PERIODICOS_ES = {
     "El País": {
         "web": "https://elpais.com",
         "rss": ["https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"],
@@ -56,6 +58,39 @@ PERIODICOS = {
         "web": "https://okdiario.com",
         "rss": ["https://okdiario.com/feed"],
     },
+}
+
+PERIODICOS_FR = {
+    "Le Monde": {
+        "web": "https://www.lemonde.fr",
+        "rss": ["https://www.lemonde.fr/rss/une.xml"],
+    },
+    "Le Figaro": {
+        "web": "https://www.lefigaro.fr",
+        "rss": ["https://www.lefigaro.fr/rss/figaro_actualites.xml"],
+    },
+    "Libération": {
+        "web": "https://www.liberation.fr",
+        "rss": [
+            "https://www.liberation.fr/arc/outboundfeeds/rss-all/collection/accueil-une/?outputType=xml"
+        ],
+    },
+    "Le Parisien": {
+        "web": "https://www.leparisien.fr",
+        "rss": ["https://feeds.leparisien.fr/leparisien/rss"],
+    },
+    "Les Echos": {
+        "web": "https://www.lesechos.fr",
+        "rss": ["https://services.lesechos.fr/rss/les-echos-une.xml"],
+    },
+}
+
+# Los países de la web. La clave ("es", "fr") es también el nombre de su carpeta
+# dentro de datos/. Para añadir un país basta con añadir una entrada aquí
+# (y otra en PAISES de app.py para que salga en el selector).
+PAISES = {
+    "es": {"nombre": "España", "periodicos": PERIODICOS_ES},
+    "fr": {"nombre": "Francia", "periodicos": PERIODICOS_FR},
 }
 
 # Los cinco personajes de "¿Quién quieres que te dé la opinión?".
@@ -102,8 +137,16 @@ MAX_TITULARES = 12              # noticias de cada portada que se envían a Chat
 MADRID = ZoneInfo("Europe/Madrid")
 
 CARPETA = Path(__file__).parent / "datos"
-ARCHIVO_ULTIMO = CARPETA / "ultimo.json"
-ARCHIVO_HISTORIAL = CARPETA / "historial.json"
+
+
+def archivo_ultimo(codigo: str) -> Path:
+    """datos/es/ultimo.json, datos/fr/ultimo.json…"""
+    return CARPETA / codigo / "ultimo.json"
+
+
+def archivo_historial(codigo: str) -> Path:
+    return CARPETA / codigo / "historial.json"
+
 
 # Algunos periódicos rechazan peticiones que no parecen venir de un navegador.
 CABECERAS = {
@@ -198,10 +241,10 @@ def leer_web(url: str) -> list[dict]:
     return noticias
 
 
-def leer_portadas() -> dict[str, list[dict]]:
-    """Lee la portada de todos los periódicos."""
+def leer_portadas(periodicos: dict) -> dict[str, list[dict]]:
+    """Lee la portada de todos los periódicos de un país."""
     portadas = {}
-    for nombre, datos in PERIODICOS.items():
+    for nombre, datos in periodicos.items():
         noticias = []
         for url in datos["rss"]:
             try:
@@ -271,8 +314,9 @@ PROMPT_PERIODICO = ChatPromptTemplate.from_messages(
     [
         (
             "system",
-            "Eres un analista de medios que estudia portadas de prensa española. "
-            "Escribes en español, de forma neutral y sin opinar de política. "
+            "Eres un analista de medios que estudia portadas de prensa de {pais}. "
+            "Escribes siempre en español, aunque los titulares estén en otro idioma, "
+            "de forma neutral y sin opinar de política. "
             "Usa solo la información que se te da: no inventes datos.\n\n"
             "Para medir el populismo fíjate únicamente en el texto: lenguaje "
             "emocional o alarmista, sensacionalismo, enfrentamiento 'nosotros "
@@ -296,8 +340,9 @@ PROMPT_GENERAL = ChatPromptTemplate.from_messages(
     [
         (
             "system",
-            "Eres un analista de medios que compara portadas de prensa española. "
-            "Escribes en español, de forma neutral y sin opinar de política. "
+            "Eres un analista de medios que compara portadas de prensa de {pais}. "
+            "Escribes siempre en español, aunque los titulares estén en otro idioma, "
+            "de forma neutral y sin opinar de política. "
             "Usa solo la información que se te da: no inventes datos.\n\n"
             "Para medir la crispación fíjate en cuánta tensión y enfrentamiento "
             "político y social reflejan las noticias en conjunto: choques entre "
@@ -307,7 +352,7 @@ PROMPT_GENERAL = ChatPromptTemplate.from_messages(
         ),
         (
             "human",
-            "Estas son las portadas de varios periódicos:\n\n{noticias}\n\n"
+            "Estas son las portadas de varios periódicos de {pais}:\n\n{noticias}\n\n"
             "Di qué temas se repiten más y valora de 0 a 100 el nivel de "
             "crispación del día.",
         ),
@@ -333,7 +378,8 @@ PROMPT_OPINION = ChatPromptTemplate.from_messages(
         ),
         (
             "human",
-            "Estas son las noticias de portada de hoy en varios periódicos:\n\n"
+            "Estas son las noticias de portada de hoy en varios periódicos de {pais}. "
+            "Pueden estar en otro idioma, pero tú escribes siempre en español:\n\n"
             "{noticias}\n\n¿Qué opinas del día?",
         ),
     ]
@@ -351,7 +397,9 @@ def noticias_a_texto(noticias: list[dict]) -> str:
     return "\n".join(lineas)
 
 
-def analizar(portadas: dict[str, list[dict]], nombre_modelo: str) -> tuple[dict, dict, list]:
+def analizar(
+    portadas: dict[str, list[dict]], nombre_modelo: str, pais: str
+) -> tuple[dict, dict, list]:
     """Devuelve (análisis general, {periódico: análisis}, opiniones)."""
     clave = leer_secreto("OPENAI_API_KEY")
     modelo = ChatOpenAI(api_key=clave, model=nombre_modelo)
@@ -368,7 +416,10 @@ def analizar(portadas: dict[str, list[dict]], nombre_modelo: str) -> tuple[dict,
     # A propósito no le decimos el nombre del periódico, para que valore solo
     # lo que lee y no la fama del medio.
     resultados = cadena_periodico.batch(
-        [{"noticias": noticias_a_texto(noticias)} for noticias in con_noticias.values()]
+        [
+            {"pais": pais, "noticias": noticias_a_texto(noticias)}
+            for noticias in con_noticias.values()
+        ]
     )
     por_periodico = {
         nombre: resultado.model_dump()
@@ -379,12 +430,15 @@ def analizar(portadas: dict[str, list[dict]], nombre_modelo: str) -> tuple[dict,
         f"## {nombre}\n{noticias_a_texto(noticias)}"
         for nombre, noticias in con_noticias.items()
     )
-    general = cadena_general.invoke({"noticias": todo}).model_dump()
+    general = cadena_general.invoke({"pais": pais, "noticias": todo}).model_dump()
 
     # La opinión de cada personaje: el mismo prompt, cambiando solo el perfil.
     cadena_opinion = PROMPT_OPINION | modelo | StrOutputParser()
     textos = cadena_opinion.batch(
-        [{"perfil": opinador["perfil"], "noticias": todo} for opinador in OPINADORES]
+        [
+            {"perfil": opinador["perfil"], "pais": pais, "noticias": todo}
+            for opinador in OPINADORES
+        ]
     )
     opiniones = [
         {"id": opinador["id"], "nombre": opinador["nombre"], "texto": texto.strip()}
@@ -398,19 +452,19 @@ def analizar(portadas: dict[str, list[dict]], nombre_modelo: str) -> tuple[dict,
 # ----------------------------------------------------------------------
 
 def guardar_json(archivo: Path, datos) -> None:
-    archivo.parent.mkdir(exist_ok=True)
+    archivo.parent.mkdir(parents=True, exist_ok=True)
     archivo.write_text(
         json.dumps(datos, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
 
 
-def apuntar_en_historial(fecha: str, turno: int, general: dict) -> None:
-    """Añade (o actualiza) el registro de hoy en historial.json.
+def apuntar_en_historial(codigo: str, fecha: str, turno: int, general: dict) -> None:
+    """Añade (o actualiza) el registro de hoy en el historial de un país.
 
     Hay un registro por día. Dentro guardamos la nota de cada actualización
     y la crispación del día es la media de todas ellas.
     """
-    historial = leer_json(ARCHIVO_HISTORIAL, [])
+    historial = leer_json(archivo_historial(codigo), [])
     registro = next((r for r in historial if r["fecha"] == fecha), None)
     if registro is None:
         registro = {"fecha": fecha, "valores": {}}
@@ -422,40 +476,34 @@ def apuntar_en_historial(fecha: str, turno: int, general: dict) -> None:
     registro["comentario"] = general["motivo_crispacion"]
 
     historial.sort(key=lambda r: r["fecha"])
-    guardar_json(ARCHIVO_HISTORIAL, historial)
+    guardar_json(archivo_historial(codigo), historial)
 
 
-def main() -> None:
-    ahora = datetime.now(MADRID)
+def actualizar_pais(codigo: str, ahora: datetime, turno: int, forzar: bool) -> None:
+    """Lee, analiza y guarda las portadas de un país."""
+    pais = PAISES[codigo]
     fecha = ahora.strftime("%Y-%m-%d")
-    turno = turno_actual(ahora)
-    forzar = os.environ.get("FORZAR") == "1"   # ejecución manual desde GitHub
 
-    if forzar and turno is None:
-        turno = HORAS[0]
-    if turno is None:
-        print("Todavía no son las 8:00 en Madrid: no toca actualizar.")
-        return
-
-    ultimo = leer_json(ARCHIVO_ULTIMO, {})
+    ultimo = leer_json(archivo_ultimo(codigo), {})
     ya_hecho = ultimo.get("fecha") == fecha and ultimo.get("turno") == turno
     if ya_hecho and not forzar:
-        print(f"La actualización de las {turno}:00 ya está hecha.")
+        print(f"{pais['nombre']}: la actualización de las {turno}:00 ya está hecha.")
         return
 
     nombre_modelo = leer_secreto("OPENAI_MODEL")
 
-    print("Leyendo portadas…")
-    portadas = leer_portadas()
+    print(f"{pais['nombre']}: leyendo portadas…")
+    portadas = leer_portadas(pais["periodicos"])
     if not any(portadas.values()):
-        sys.exit("No se ha podido leer ninguna portada: no se guarda nada.")
+        raise RuntimeError("no se ha podido leer ninguna portada: no se guarda nada")
 
-    print(f"Analizando con {nombre_modelo}…")
-    general, por_periodico, opiniones = analizar(portadas, nombre_modelo)
+    print(f"{pais['nombre']}: analizando con {nombre_modelo}…")
+    general, por_periodico, opiniones = analizar(portadas, nombre_modelo, pais["nombre"])
 
     guardar_json(
-        ARCHIVO_ULTIMO,
+        archivo_ultimo(codigo),
         {
+            "pais": pais["nombre"],
             "fecha": fecha,
             "turno": turno,
             "generado": ahora.strftime("%d/%m/%Y %H:%M"),
@@ -469,12 +517,36 @@ def main() -> None:
                     "noticias": portadas[nombre],
                     "analisis": por_periodico.get(nombre),
                 }
-                for nombre, datos in PERIODICOS.items()
+                for nombre, datos in pais["periodicos"].items()
             ],
         },
     )
-    apuntar_en_historial(fecha, turno, general)
-    print(f"Guardado. Crispación: {general['crispacion']} / 100")
+    apuntar_en_historial(codigo, fecha, turno, general)
+    print(f"{pais['nombre']}: guardado. Crispación: {general['crispacion']} / 100")
+
+
+def main() -> None:
+    ahora = datetime.now(MADRID)
+    turno = turno_actual(ahora)
+    forzar = os.environ.get("FORZAR") == "1"   # ejecución manual desde GitHub
+
+    if forzar and turno is None:
+        turno = HORAS[0]
+    if turno is None:
+        print("Todavía no son las 8:00 en Madrid: no toca actualizar.")
+        return
+
+    # Cada país va por separado: si uno falla, los demás se guardan igual.
+    fallos = []
+    for codigo in PAISES:
+        try:
+            actualizar_pais(codigo, ahora, turno, forzar)
+        except Exception as error:
+            print(f"{PAISES[codigo]['nombre']}: ERROR: {error}")
+            fallos.append(PAISES[codigo]["nombre"])
+
+    if fallos:
+        sys.exit("Ha fallado la actualización de: " + ", ".join(fallos))
 
 
 if __name__ == "__main__":

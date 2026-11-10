@@ -1,6 +1,11 @@
 # 📰 Portadas IA
 
-Web hecha con **Streamlit**, **LangChain** y **ChatGPT** que sigue el día en cinco portadas: **El País, El Mundo, ABC, Público y OKdiario**.
+Web hecha con **Streamlit**, **LangChain** y **ChatGPT** que sigue el día en cinco portadas por país. Arriba hay un selector:
+
+- **España**: El País, El Mundo, ABC, Público y OKdiario.
+- **Francia**: Le Monde, Le Figaro, Libération, Le Parisien y Les Echos.
+
+Todo se muestra en español, también el análisis de la prensa francesa.
 
 Qué muestra:
 
@@ -16,16 +21,16 @@ Hay dos piezas:
 
 | Archivo | Qué hace | Quién lo ejecuta |
 |---|---|---|
-| `actualizar.py` | Lee las portadas, las analiza con ChatGPT y guarda el resultado en `datos/` | GitHub Actions, a las 8:00, 11:00, 14:00, 17:00 y 20:00 (hora de Madrid) |
-| `app.py` | Enseña lo que hay en `datos/` | Streamlit Community Cloud |
+| `actualizar.py` | Lee las portadas, las analiza con ChatGPT y guarda el resultado en `datos/<país>/` | GitHub Actions, a las 8:00, 11:00, 14:00, 17:00 y 20:00 (hora de Madrid) |
+| `app.py` | Enseña lo que hay en `datos/<país>/`, según el selector | Streamlit Community Cloud |
 | `crear_crispito.py` y `crear_caricaturas.py` | Dibujan la mascota y las caricaturas (carpetas `crispito/` y `caricaturas/`) | Tú, solo si quieres cambiar los dibujos |
 
-En `datos/` se guardan dos archivos:
+En `datos/` hay una carpeta por país (`datos/es`, `datos/fr`) con dos archivos:
 
 - `ultimo.json`: la última actualización (lo que se ve en la web).
 - `historial.json`: un registro por día con el nivel de crispación. Cada día se añade uno.
 
-La web no llama a OpenAI: solo lee esos archivos. Así el gasto es fijo (cinco actualizaciones al día) y el historial no se pierde.
+La web no llama a OpenAI: solo lee esos archivos. Así el gasto es fijo (cinco actualizaciones al día por país) y el historial no se pierde.
 
 ## Secrets necesarios (en GitHub)
 

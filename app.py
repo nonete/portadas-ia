@@ -3,7 +3,8 @@ Portadas IA · la web
 --------------------
 Esta página solo ENSEÑA los datos. No llama a los periódicos ni a ChatGPT:
 de eso se encarga actualizar.py, que GitHub ejecuta a las 8:00, 11:00,
-14:00, 17:00 y 20:00 y deja el resultado en la carpeta datos/.
+14:00, 17:00 y 20:00 y deja el resultado en datos/<país>/ (datos/es, datos/fr…).
+El selector de arriba decide de qué carpeta se lee.
 
 Los colores generales (fondo claro, color principal…) están en
 .streamlit/config.toml. El resto del diseño está en el bloque ESTILOS.
@@ -26,15 +27,12 @@ CARPETA_CRISPITO = Path(__file__).parent / "crispito"
 CARPETA_CARICATURAS = Path(__file__).parent / "caricaturas"
 ESTADOS_CRISPITO = ["Zen", "Tranquilo", "Mosqueado", "Molesto", "Enfadado", "¡A punto de estallar!"]
 
-# Un color para distinguir cada periódico (es solo decorativo).
-COLORES = {
-    "El País": "#2563eb",
-    "El Mundo": "#0d9488",
-    "ABC": "#d97706",
-    "Público": "#c026d3",
-    "OKdiario": "#4f46e5",
-}
-COLOR_POR_DEFECTO = "#475569"
+# Los países del selector. La clave es el nombre de su carpeta en datos/
+# y tiene que coincidir con PAISES de actualizar.py.
+PAISES = {"es": "🇪🇸 España", "fr": "🇫🇷 Francia"}
+
+# Un color para distinguir cada periódico, por orden (es solo decorativo).
+COLORES = ["#2563eb", "#0d9488", "#d97706", "#c026d3", "#4f46e5"]
 
 # ----------------------------------------------------------------------
 # ESTILOS (CSS)
@@ -142,9 +140,9 @@ h3 { color: #0f172a; }
 # FUNCIONES DE AYUDA
 # ----------------------------------------------------------------------
 
-def leer_json(nombre: str, por_defecto):
-    """Lee un archivo de la carpeta datos/; si no existe devuelve el valor por defecto."""
-    archivo = CARPETA / nombre
+def leer_json(pais: str, nombre: str, por_defecto):
+    """Lee un archivo de datos/<país>/; si no existe devuelve el valor por defecto."""
+    archivo = CARPETA / pais / nombre
     if archivo.exists():
         return json.loads(archivo.read_text(encoding="utf-8"))
     return por_defecto
@@ -211,11 +209,33 @@ def a_numero(valor) -> int:
 st.set_page_config(page_title="Portadas IA", page_icon="📰", layout="centered")
 html(ESTILOS)
 
-ultimo = leer_json("ultimo.json", None)
-historial = leer_json("historial.json", [])
+# --- Selector de país --------------------------------------------------
+
+# El país elegido se guarda también en la dirección (…/?pais=fr), así se puede
+# compartir un enlace que abra directamente un país.
+pais_inicial = st.query_params.get("pais", "es")
+if pais_inicial not in PAISES:
+    pais_inicial = "es"
+
+pais = st.radio(
+    "País",
+    list(PAISES),
+    index=list(PAISES).index(pais_inicial),
+    format_func=lambda codigo: PAISES[codigo],
+    horizontal=True,
+)
+st.query_params["pais"] = pais
+nombre_pais = PAISES[pais].split(" ", 1)[1]          # "España", sin la bandera
+
+# Todo lo que viene después sale de la carpeta de ese país.
+ultimo = leer_json(pais, "ultimo.json", None)
+historial = leer_json(pais, "historial.json", [])
 
 chips = ""
+portadas_de = f"de {nombre_pais}"
 if ultimo:
+    nombres = [periodico["nombre"] for periodico in ultimo["periodicos"]]
+    portadas_de = f"de {nombre_pais}: " + ", ".join(nombres[:-1]) + f" y {nombres[-1]}"
     chips = (
         '<div class="chips">'
         f'<span class="chip">🕒 Actualizado el {escape(ultimo["generado"])}</span>'
@@ -227,7 +247,7 @@ if ultimo:
 html(
     '<div class="cabecera">'
     "<h1>📰 Portadas IA</h1>"
-    "<p>El día en cinco portadas: El País, El Mundo, ABC, Público y OKdiario. "
+    f"<p>El día en cinco portadas {escape(portadas_de)}. "
     "ChatGPT las resume, mide su populismo y su sesgo, toma el pulso a la "
     "crispación con Crispito y te cuenta cómo lo ven cinco ideologías.</p>"
     f"{chips}</div>"
@@ -235,7 +255,7 @@ html(
 
 if ultimo is None:
     st.info(
-        "Todavía no hay datos. La primera actualización automática será "
+        f"Todavía no hay datos de {nombre_pais}. La primera actualización automática será "
         f"{proxima_actualizacion()}."
     )
     st.stop()
@@ -294,6 +314,7 @@ if opiniones:
         format_func=lambda opinion: opinion["nombre"],
         horizontal=True,
         label_visibility="collapsed",
+        key=f"opinion_{pais}",      # una elección distinta por país
     )
 
     if elegida is None:
@@ -335,9 +356,9 @@ html(
 
 st.subheader("Periódico a periódico")
 
-for periodico in ultimo["periodicos"]:
+for posicion, periodico in enumerate(ultimo["periodicos"]):
     nombre = periodico["nombre"]
-    color = COLORES.get(nombre, COLOR_POR_DEFECTO)
+    color = COLORES[posicion % len(COLORES)]
     noticias = periodico["noticias"]
     analisis = periodico["analisis"]
 
