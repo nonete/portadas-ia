@@ -1,12 +1,12 @@
 {
   "fecha": "2026-11-10",
   "turno": 20,
-  "generado": "10/11/2026 21:19",
+  "generado": "10/11/2026 21:36",
   "modelo": "gpt-4o-mini",
   "general": {
-    "temas": "Las portadas de los periódicos reflejan una fuerte tensión política en torno a la entrevista de David Broncano a Santiago Abascal y la oposición entre partidos. Además, hay un enfoque en la tragedia del accidente ferroviario en Urda. Un tema destacado que solo aparece en Público es la denuncia del Sindicato de Inquilinas.",
+    "temas": "Las portadas reflejan una gran atención a la política con temas como el programa electoral del PP, la controvertida entrevista a Abascal en 'La Revuelta' y el trágico accidente ferroviario en Urda. La polarización se manifiesta sobre todo en la crítica a Vox y el debate sobre la influencia de la extrema derecha en la televisión pública. Un tema que destaca por su singularidad es el piquete del Sindicato de Inquilinas. ",
     "crispacion": 80,
-    "motivo_crispacion": "Las reacciones polarizadas sobre la entrevista de Broncano a Abascal generan un intenso debate político y enfrentamientos entre partidos."
+    "motivo_crispacion": "Hoy se muestra un alto nivel de crispación debido a la controversia generada por la entrevista de David Broncano a Santiago Abascal, que ha suscitado críticas de diversos sectores políticos y sociales. También se destaca el dolor y la indignación por el accidente de Urda, donde se exige justicia. Además, la aprobación de medidas por parte del PP y la estrategia de Vox para los próximos comicios crean un clima de enfrentamiento político significativo."
   },
   "periodicos": [
     {
@@ -44,6 +44,11 @@
           "enlace": "https://elpais.com/espana/2026-11-10/el-arzobispo-de-toledo-pide-en-el-funeral-de-las-victimas-del-tren-de-urda-que-se-asuman-responsabilidades-y-se-repare-en-justicia.html"
         },
         {
+          "titulo": "El dolor no cabía en la catedral de Toledo",
+          "entradilla": "También la Iglesia pide respuestas para las víctimas del accidente ferroviario",
+          "enlace": "https://elpais.com/espana/2026-11-10/el-dolor-no-cabia-en-la-catedral-de-toledo.html"
+        },
+        {
           "titulo": "El Gobierno aprueba el refuerzo en la seguridad ferroviaria: más inspecciones de trenes y los maquinistas podrán parar si advierten riesgos",
           "entradilla": "El vicepresidente Cuerpo cesa a la jefa de gabinete de Puente en Transportes y nombra como su enlace en el ministerio a Jorge Fabra, quien fue responsable del Plan de Recuperación",
           "enlace": "https://elpais.com/espana/2026-11-10/el-gobierno-lanza-el-refuerzo-en-la-seguridad-ferroviaria-mas-inspecciones-y-los-maquinistas-podran-parar-si-advierten-riesgos.html"
@@ -67,18 +72,13 @@
           "titulo": "El PP promete endurecer los requisitos para pasar de curso y tumbar la ‘ley trans’",
           "entradilla": "El programa de Feijóo plantea aprobar una ley de cuidados paliativos e ignora la eutanasia y el aborto",
           "enlace": "https://elpais.com/sociedad/2026-11-10/el-pp-promete-endurecer-los-requisitos-para-pasar-de-curso-y-tumbar-la-ley-trans.html"
-        },
-        {
-          "titulo": "El Gobierno creará un título de familia monoparental: las que tengan dos hijos tendrán los mismos beneficios que las numerosas",
-          "entradilla": "Más de 760.000 hogares se verán beneficiados. Entre ellos, los numerosos con cuatro hijos y aquellos con dos hijos y algún progenitor con discapacidad, según Derechos Sociales",
-          "enlace": "https://elpais.com/sociedad/2026-11-10/el-gobierno-creara-un-titulo-de-familia-monoparental-las-que-tengan-dos-hijos-tendran-los-mismos-beneficios-de-las-numerosas.html"
         }
       ],
       "analisis": {
-        "resumen": "- David Broncano expresa su arrepentimiento por la entrevista a Abascal, reconociendo que no pudo contener su opinión sobre él.\n- Detalles sobre cómo Vox eligió participar en el programa con Broncano tras conocer las audiencias de Pedro Sánchez.\n- Abascal proporciona respuestas no emitidas a preguntas del presentador que podrían haber alterado su mensaje.\n- Comentarios sobre cómo se presentó la información en la entrevista al líder de Vox, destacando la falta de datos claros sobre temas de feminismo.\n- Críticas sobre la pluralidad informativa en relación con la cobertura a Abascal y Vox.",
-        "populismo": 75,
-        "motivo_populismo": "El uso de valoraciones personales de Broncano sobre Abascal, la sugerencia de que la situación se ha manejado para 'evitar que se victimizase' y la crítica a la pluralidad informativa reflejan emociones y un enfoque de enfrentamiento.",
-        "sesgo": "La selección y redacción de noticias parece centrarse en la controversia y las críticas hacia la entrevista con Abascal, sugiriendo una mirada negativa sobre la manera en que se manejaron temas complejos relacionados con la política y el feminismo."
+        "resumen": "- David Broncano expresa su arrepentimiento por la entrevista a Abascal, mencionando que cuestionaba su inteligencia durante la charla.\n- Se revelan detalles sobre la estrategia de elección de Broncano por parte de Vox para la entrevista, con el fin de evitar victimización.\n- Se discuten afirmaciones de Abascal sobre feminismo, donde se critica la falta de datos precisos.\n- La cobertura del funeral de las víctimas del tren de Urda destaca la búsqueda de justicia por parte de la Iglesia.\n- El PP presenta su programa electoral con distintas propuestas y medidas controvertidas.",
+        "populismo": 65,
+        "motivo_populismo": "El lenguaje emocional y críticos respecto a la entrevista Broncano-Abascal, así como la simplificación de temas complejos como la violencia de género.",
+        "sesgo": "Predomina un enfoque crítico hacia la entrevista de Broncano con Abascal y el papel del PP está un tanto descalificado por la mención de propuestas controvertidas y su método de comunicación."
       }
     },
     {
@@ -106,9 +106,9 @@
           "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/10/6af345c4e85ece36278b459f.html"
         },
         {
-          "titulo": "Muere un policía y otro resulta herido por la explosión de una mochila en Oviedo tras un tiroteo cuyo autor permanece huido y armado",
-          "entradilla": "El agente fallecido es un subinspector de guías caninos, mientras que el herido es miembro de los Tedax. Acudieron por un tiroteo en el que una chica de 17 años resultó herida Leer",
-          "enlace": "https://www.elmundo.es/espana/2026/11/10/6af2d90ae85ecebb328b459d.html"
+          "titulo": "Más de 100 policías desplegados para cazar al 'Ruso', el ex legionario huido tras matar a un agente en Oviedo",
+          "entradilla": "El fugitivo tiene antecedentes por hurto y un amplio conocimiento del uso de material explosivo. Antes de poner la bomba, dio cinco disparos a una vecina adolescente de 17 años Leer",
+          "enlace": "https://www.elmundo.es/espana/2026/11/10/6af36b8de85ece64448b45bf.html"
         },
         {
           "titulo": "Thomas Massie, el rebelde MAGA que desafía a Trump y ha lanzado el impeachment para tumbar al secretario de Defensa",
@@ -147,10 +147,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- Feijóo propone cambios en el ingreso mínimo vital y presenta el programa del PP.  \n- Sira Rego exige a TikTok que detenga su actividad en España por contenido dañino.  \n- La abogada renuncia a defender a Koldo García en el 'Caso cloacas' del PSOE.  \n- Un tiroteo en Oviedo deja un policía muerto y otro herido.  \n- Solemne despedida a las víctimas del accidente de Urda, con crítica a la ausencia de Sánchez.",
-        "populismo": 65,
-        "motivo_populismo": "Utilización de lenguaje emocional y alarmista como \"amenazar sonriendo\" y apelaciones al pueblo en referencia a la indiferencia percibida de los gobernantes.",
-        "sesgo": "Se percibe un sesgo en las noticias que involucran a la política y a los partidos, con un enfoque crítico hacia figuras como Pedro Sánchez, evidenciando un posible descontento popular hacia el gobierno y su gestión."
+        "resumen": "- Feijóo propone un cambio en el ingreso mínimo vital, presentado como parte del programa electoral del PP para 'reparar el Estado'.  \n- Sira Rego solicita que se bloquee TikTok en España debido a contenidos peligrosos.  \n- La abogada Leticia de la Hoz se aparta del caso del 'Caso cloacas' del PSOE.  \n- La izquierda critica a Abascal tras su aparición en 'La Revuelta', generando un choque político.  \n- Más de 100 policías buscan a un fugitivo tras un tiroteo en Oviedo y otros temas relacionados con la tragedia del accidente de Urda.",
+        "populismo": 70,
+        "motivo_populismo": "Se observa un lenguaje alarmista y emocional en la noticia sobre TikTok y la cobertura del caso de Urda, con acusaciones directas y un enfoque en la indignación pública.",
+        "sesgo": "La selección y redacción de algunas noticias muestra una inclinación hacia la crítica de figuras y acciones políticas actuales, especialmente en la discusión sobre TikTok y la gestión del Gobierno en tragedias recientes."
       }
     },
     {
@@ -158,9 +158,19 @@
       "web": "https://www.abc.es",
       "noticias": [
         {
-          "titulo": "La borrasca Bruna deja más de 200 litros en un día en el Puerto del Pico y Charles activa la alerta por viento en Castilla y León",
-          "entradilla": "Llover y llover. Y más llover. Es lo que llevan viendo en el Puerto del Pico , en la provincia de Ávila, desde que el domingo entraba la borrasca Bruna y ponía en alerta especialmente al sur de la provincia de Ávila. El lunes, más agua, con 78 litros por metro cuadrado recogido. Y este martes, mucho",
-          "enlace": "https://www.abc.es/espana/castilla-leon/borrasca-bruna-deja-200-litros-dia-puerto-20261110203947-nt.html"
+          "titulo": "Feijóo convierte la política de inmigración en la gran novedad de su programa electoral",
+          "entradilla": "Lo advirtió el propio Alberto Núñez Feijóo. Lo que presenta el PP para las elecciones generales del 29 de noviembre no es un programa electoral convencional. Es, en primer lugar, una enmienda a la totalidad de los ocho años de Gobierno de Pedro Sánchez. Tanto en contenido –medidas concretas y leyes ",
+          "enlace": "https://www.abc.es/espana/feijoo-convierte-politica-inmigracion-gran-novedad-programa-20261110201649-nt.html"
+        },
+        {
+          "titulo": "España llora en la catedral",
+          "entradilla": "En Toledo, la Catedral que impulsó Fernando III, el Santo, estaba a rebosar con los familiares de las sesenta y nueve víctimas del accidente de tren de Urda. Ochocientos años después, Sus Majestades los Reyes han presidido las exequias de nuestros paisanos, entre el dolor y la rabia de saber que cua",
+          "enlace": "https://www.abc.es/espana/espana-llora-catedral-20261110210030-nt.html"
+        },
+        {
+          "titulo": "El Sindicato de Inquilinas monta un piquete dentro de la sede de Alquiler Seguro en Madrid",
+          "entradilla": "El Sindicato de Inquilinas ha organizado este martes un piquete dentro de la sede central de la agencia inmobiliaria Alquiler Seguro «para denunciar sus prácticas mafiosas» en la víspera de la huelga general del 11 de noviembre. La Policía ha acudido al lugar, en la madrileña avenida de América, par",
+          "enlace": "https://www.abc.es/espana/madrid/sindicato-inquilinas-monta-piquete-dentro-sede-alquiler-20261110204234-nt.html"
         },
         {
           "titulo": "El funeral por las víctimas exige «que se esclarezcan las causas y se asuman responsabilidades»",
@@ -168,14 +178,9 @@
           "enlace": "https://www.abc.es/espana/funeral-victimas-urda-exige-esclarezcan-causas-asuman-20261110195633-nt.html"
         },
         {
-          "titulo": "El Sindicato de Inquilinas monta un piquete dentro de la sede de Alquiler Seguro en Madrid",
-          "entradilla": "El Sindicato de Inquilinas ha montado este martes un piquete dentro de una sede de la agencia inmobiliaria Alquiler Seguro «para denunciar sus prácticas mafiosas» en la víspera de la huelga general del 11 de noviembre. Nuestra redacción está trabajando para ampliar la información",
-          "enlace": "https://www.abc.es/espana/madrid/sindicato-inquilinas-monta-piquete-dentro-sede-alquiler-20261110204234-nt.html"
-        },
-        {
-          "titulo": "España llora en la catedral",
-          "entradilla": "En Toledo, la Catedral que impulsó Fernando III, el Santo, estaba a rebosar con los familiares de las sesenta y nueve víctimas del accidente de tren de Urda. Ochocientos años después, Sus Majestades los Reyes han presidido las exequias de nuestros paisanos, entre el dolor y la rabia de saber que cua",
-          "enlace": "https://www.abc.es/espana/espana-llora-catedral-20261110210030-nt.html"
+          "titulo": "La borrasca Bruna deja más de 200 litros en un día en el Puerto del Pico y Charles activa la alerta por viento en Castilla y León",
+          "entradilla": "Llover y llover. Y más llover. Es lo que llevan viendo en el Puerto del Pico , en la provincia de Ávila, desde que el domingo entraba la borrasca Bruna y ponía en alerta especialmente al sur de la provincia de Ávila. El lunes, más agua, con 78 litros por metro cuadrado recogido. Y este martes, mucho",
+          "enlace": "https://www.abc.es/espana/castilla-leon/borrasca-bruna-deja-200-litros-dia-puerto-20261110203947-nt.html"
         },
         {
           "titulo": "EH Bildu será la fuerza más votada en el País Vasco el 29N",
@@ -191,11 +196,6 @@
           "titulo": "Broncano admite que se arrepiente «de muchas cosas» de la entrevista a Abascal: «La he cagado»",
           "entradilla": "Apenas unas horas después de la esperada entrevista al líder de Vox, Santiago Abascal , en 'La Revuelta', el presentador David Broncano ha reconocido este martes que se arrepiente de no haber usado más la comedia durante la entrevista y de haber permitido a la formación política elegir al público qu",
           "enlace": "https://www.abc.es/play/television/noticias/broncano-admite-arrepiente-entrevista-abascal-cagado-20261110194253-nt.html"
-        },
-        {
-          "titulo": "Testigo directo del duelo Abascal-Broncano: la Revuelta estaba en el patio de butacas",
-          "entradilla": "Me costó mucho más encontrar acompañante que participar como público invitado a la (ya histórica) grabación del 'tour de force' entre David Broncano y Santiago Abascal en 'La revuelta' . Llevaba tiempo queriendo asistir y sabía que probablemente lo tuviera fácil por tener cierto hilo directo con la ",
-          "enlace": "https://www.abc.es/play/television/noticias/duelo-abascal-broncano-bambalinas-revuelta-patio-butacas-20261110124403-nt.html"
         },
         {
           "titulo": "Ucrania y Rusia, lejos del acuerdo en el comienzo de las conversaciones de paz en Abu Dabi",
@@ -219,10 +219,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- La borrasca Bruna ha dejado intensas lluvias en el Puerto del Pico de Ávila y se activa la alerta por viento.  \n- En Toledo, se celebra el funeral por las víctimas del accidente ferroviario, exigiendo que se esclarezcan responsabilidades.  \n- El Sindicato de Inquilinas protesta contra prácticas de una agencia inmobiliaria antes de una huelga general.  \n- Los Reyes han presidido las exequias por las víctimas del accidente.  \n- Las elecciones del 29N en el País Vasco pronostican a EH Bildu como la fuerza más votada.",
-        "populismo": 25,
-        "motivo_populismo": "Se utilizan elementos emocionales en las descripciones de las lluvias y el funeral, pero se mantiene un tono prevalente informativo y no alarmista en general.",
-        "sesgo": "La portada se centra en eventos relevantes y trágicos, mostrando un enfoque serio y acorde a las circunstancias actuales, sin caer en polarizaciones o ataques directos."
+        "resumen": "- Alberto Núñez Feijóo destaca la política de inmigración en su nuevo programa electoral, que critica los años de Gobierno de Pedro Sánchez.\n- En Toledo, se celebran las exequias de las víctimas del accidente de tren, con un fuerte sentimiento de dolor y exigencias de responsabilidades.\n- El Sindicato de Inquilinas organiza un piquete en Madrid para protestar contra Alquiler Seguro, acusándoles de prácticas mafiosas.\n- La borrasca Bruna deja intensas lluvias en Castilla y León, con alertas de viento.\n- Ucrania y Rusia se encuentran lejos de un acuerdo en las negociaciones de paz en Abu Dabi.",
+        "populismo": 45,
+        "motivo_populismo": "El lenguaje usado en la noticia sobre el funeral apela a las emociones de dolor y rabia, mientras que la protesta del Sindicato de Inquilinas incluye descalificaciones a Alquiler Seguro, presentando un enfrentamiento claro entre 'ellos' (Alquiler Seguro) y 'el pueblo' (inquilinos).",
+        "sesgo": "Hay un enfoque en los conflictos sociales y emocionales, destacando las injusticias y controversias, lo cual podría influir en la percepción pública sobre estos temas."
       }
     },
     {
@@ -291,10 +291,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- Quirón y su matriz alemana implicados en adjudicaciones irregulares de hospitales públicos madrileños.  \n- Feijóo critica a Sánchez, llamándolo líder del 'gobierno de las orgías'.  \n- Sánchez responde acusando al PP de corrupción.  \n- Se discute la presencia de Abascal en la televisión pública y su impacto en las audiencias.  \n- Las redes sociales reaccionan a la polémica entrevista de Broncano con Abascal.",
+        "resumen": "- Quirón y su matriz alemana implicados en adjudicaciones a dedo de hospitales públicos en Madrid.  \n- Feijóo denuncia comportamientos del gobierno, llamándolo el de las 'orgías'.  \n- Sánchez responde acusando al PP de corrupción.  \n- Críticas y reacciones sobre la aparición de Abascal en el programa de Broncano.  \n- Debate sobre la presencia de la extrema derecha en medios públicos.",
         "populismo": 85,
-        "motivo_populismo": "Uso de lenguaje cargado y sensacionalista, como 'gobierno de las orgías' y 'verdadero miedo a Vox', creando un sentido de enfrentamiento y división.",
-        "sesgo": "La portada presenta un enfoque crítico hacia el PP y Vox, resaltando la corrupción y el extremismo, mientras que los comentarios sobre la televisión pública con Abascal sugiere una preocupación por la representación de la extrema derecha."
+        "motivo_populismo": "Se observan descalificaciones y un lenguaje emocional en las acusaciones entre partidos, así como apelaciones a un sentimiento de alarma respecto a la extrema derecha.",
+        "sesgo": "El enfoque parece estar claramente alineado con una crítica hacia el PP y Vox, presentando sus acciones y discursos en un tono alarmista y combativo."
       }
     },
     {
@@ -302,7 +302,7 @@
       "web": "https://okdiario.com",
       "noticias": [
         {
-          "titulo": "La España de Sánchez: varias personas rebuscan comida en la basura mientras él se graba un podcast",
+          "titulo": "La España de Sánchez: varias personas rebuscan comida en la basura mientras él entra a grabar un podcast",
           "entradilla": "El presidente del Gobierno, Pedro Sánchez, ha llegado este martes por la tarde a una calle de Manresa (Barcelona) para grabar el podcast de Jordi Wild, The Wild Project. Una grabación que se producía a la misma hora que se celebraba en la catedral de Toledo el funeral por las 69 víctimas mortales y ",
           "enlace": "https://okdiario.com/espana/espana-sanchez-varias-personas-rebuscan-comida-basura-mientras-graba-podcast-20747194"
         },
@@ -363,10 +363,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- Pedro Sánchez graba un podcast mientras personas rebuscan comida en la basura, generando contraste con la situación social.  \n- Reflexiones de ‘El Principito’ y Confucio sobre la vida y el tiempo.  \n- La UE confirma que desde 2027 los españoles deben llevar DNI y carné de conducir en el móvil.  \n- Alaska implementa medidas para cazar lobos y osos para proteger el ecosistema.  \n- Harrison Ford comparte su perspectiva sobre la autenticidad personal.  \n- Un thriller español en Netflix que ha alcanzado el número uno rápidamente.  \n- NASA realiza prueba potente de cohete SLS tras 40 años.  \n- Reflexiones sobre errores en la interpretación de Estados Unidos desde España.  \n- Entrevista a Santiago Abascal genera comentarios sobre el clima político en TV.  \n- Ione Belarra se graba protestando en respuesta a la entrevista de Abascal.",
-        "populismo": 75,
-        "motivo_populismo": "Se utiliza un lenguaje emocional al contrastar la imagen de un presidente grabando un podcast mientras personas pasan hambre, además de resaltar tensiones políticas con reacciones desmedidas de figuras de la izquierda.",
-        "sesgo": "La selección de noticias resalta la crítica hacia el presidente y genera un clima de tensión política, al mostrar un enfrentamiento entre élites y el pueblo. También se observa un enfoque en el conflicto político actual."
+        "resumen": "- La situación de pobreza en España es resaltada con imágenes de personas rebuscando comida mientras el presidente Sánchez graba un podcast.  \n- Reflexiones de ‘El Principito’ y Confucio sobre la felicidad y la vejez.  \n- Cambios en la normativa de la UE que obligarán a llevar DNI y permiso de conducir en el móvil.  \n- Un programa en Alaska para controlar la población de lobos y osos con un fin ecológico.  \n- Harrison Ford comparte reflexiones sobre individualidad y creatividad.  \n- Éxito inmediato de un thriller español en Netflix.  \n- Actualidad sobre la poderosa prueba de un cohete de NASA.  \n- Análisis crítico sobre la interpretación de EE.UU. en España.  \n- La entrevista de Broncano a Abascal genera controversia política.  \n- Ione Belarra reacciona de forma inusual a la entrevista de Abascal.",
+        "populismo": 65,
+        "motivo_populismo": "Se utiliza un lenguaje emocional al destacar la pobreza y contraponer la imagen del presidente en un podcast, lo que refleja un enfrentamiento entre el pueblo y las élites.",
+        "sesgo": "Se percibe un sesgo crítico hacia la política del Gobierno español, especialmente en relación con el presidente Sánchez y su percepción en el contexto de problemas sociales. Hay un enfoque más analítico en otras noticias, pero siguen vinculadas a un marco que critica la situación política actual."
       }
     }
   ]
