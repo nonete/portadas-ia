@@ -23,6 +23,7 @@ CARPETA = Path(__file__).parent / "datos"
 
 # Crispito, la mascota. Sus GIF se crean con crear_crispito.py.
 CARPETA_CRISPITO = Path(__file__).parent / "crispito"
+CARPETA_CARICATURAS = Path(__file__).parent / "caricaturas"
 ESTADOS_CRISPITO = ["Zen", "Tranquilo", "Mosqueado", "Molesto", "Enfadado", "¡A punto de estallar!"]
 
 # Un color para distinguir cada periódico (es solo decorativo).
@@ -84,6 +85,13 @@ ESTILOS = """
 .crispito .dato { margin-bottom: 4px; }
 .crispito .nombre { color: #334155; font-size: 1rem; line-height: 1.35; }
 .crispito .estado { color: #94a3b8; font-size: .8rem; margin-top: 2px; }
+
+/* Opinión de un personaje */
+.opinion { display: flex; align-items: center; gap: 14px; margin-bottom: 12px; }
+.opinion img { width: 96px; height: 96px; flex: none; border-radius: 50%; }
+.opinion .quien { font-size: 1.25rem; font-weight: 800; color: #0f172a; line-height: 1.2; }
+.opinion .aviso { color: #94a3b8; font-size: .8rem; margin-top: 3px; }
+.tarjeta p.parrafo { margin-bottom: 10px; }
 
 /* Barras de 0 a 100 */
 .barra { background: #e9edf3; border-radius: 999px; height: 12px; overflow: hidden; }
@@ -184,10 +192,11 @@ def html(codigo: str) -> None:
 
 
 @st.cache_data
-def imagen_incrustada(nombre: str) -> str:
-    """Convierte un GIF de la carpeta crispito/ en texto para meterlo en el HTML."""
-    contenido = (CARPETA_CRISPITO / nombre).read_bytes()
-    return "data:image/gif;base64," + base64.b64encode(contenido).decode()
+def imagen_incrustada(ruta: str) -> str:
+    """Convierte una imagen (GIF o PNG) en texto para meterla dentro del HTML."""
+    archivo = Path(__file__).parent / ruta
+    tipo = "gif" if archivo.suffix == ".gif" else "png"
+    return f"data:image/{tipo};base64," + base64.b64encode(archivo.read_bytes()).decode()
 
 
 def a_numero(valor) -> int:
@@ -243,7 +252,7 @@ html(
     '<div class="tarjeta">'
     '<div class="etiqueta">Crispación ahora</div>'
     '<div class="crispito">'
-    f'<img src="{imagen_incrustada(f"crispito_{estado}.gif")}" '
+    f'<img src="{imagen_incrustada(f"crispito/crispito_{estado}.gif")}" '
     f'alt="Crispito: {ESTADOS_CRISPITO[estado]}">'
     '<div class="lado">'
     '<div class="dato">'
@@ -347,6 +356,52 @@ if historial:
     )
 else:
     st.write("Aún no hay ningún día registrado.")
+
+# --- ¿Quién quieres que te dé la opinión? -------------------------------
+
+st.subheader("¿Quién quieres que te dé la opinión?")
+
+opiniones = ultimo.get("opiniones", [])
+
+if opiniones:
+    st.image(str(CARPETA_CARICATURAS / "todos.png"))
+
+    # st.radio devuelve la opción elegida. Con index=None no hay ninguna marcada
+    # al entrar. format_func decide el texto que se ve en cada opción.
+    elegida = st.radio(
+        "Elige un personaje",
+        opiniones,
+        index=None,
+        format_func=lambda opinion: opinion["nombre"],
+        horizontal=True,
+        label_visibility="collapsed",
+    )
+
+    if elegida is None:
+        st.caption("Elige un personaje para leer qué opina de las noticias de hoy.")
+    else:
+        parrafos = "".join(
+            f'<p class="parrafo">{escape(parrafo)}</p>'
+            for parrafo in elegida["texto"].split("\n")
+            if parrafo.strip()
+        )
+        html(
+            '<div class="tarjeta">'
+            '<div class="opinion">'
+            f'<img src="{imagen_incrustada("caricaturas/" + elegida["id"] + ".png")}" alt="">'
+            f'<div><div class="quien">{escape(elegida["nombre"])} opina</div>'
+            '<div class="aviso">Personaje inventado · texto escrito por ChatGPT</div></div>'
+            "</div>"
+            f"{parrafos}"
+            "</div>"
+        )
+    st.caption(
+        "Son opiniones simuladas por una IA para mostrar cómo vería el día cada "
+        "corriente de pensamiento. No son de ninguna persona real ni reflejan la "
+        "opinión de esta web."
+    )
+else:
+    st.write("Las opiniones estarán disponibles en la próxima actualización.")
 
 html(
     '<div class="pie">Los resúmenes, el populismo, el sesgo y la crispación son una '

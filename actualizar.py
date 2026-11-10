@@ -7,7 +7,8 @@ Este programa NO es la web. Lo ejecuta GitHub automáticamente (ver
 Pasos que sigue:
   1. Descargar los titulares de portada de cada periódico (por RSS).
   2. Pedir a ChatGPT, con LangChain, el resumen, el populismo y el sesgo de
-     cada portada, y el nivel de crispación del conjunto.
+     cada portada, el nivel de crispación del conjunto y la opinión de
+     cinco personajes de distintas ideologías.
   3. Guardar todo en la carpeta datos/:
        - ultimo.json     → lo que enseña la web
        - historial.json  → un registro por día con la crispación
@@ -23,6 +24,7 @@ from zoneinfo import ZoneInfo
 import feedparser
 import requests
 from bs4 import BeautifulSoup
+from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
 from pydantic import BaseModel, Field
@@ -55,6 +57,45 @@ PERIODICOS = {
         "rss": ["https://okdiario.com/feed"],
     },
 }
+
+# Los cinco personajes de "¿Quién quieres que te dé la opinión?".
+# 'perfil' es la descripción que se le da a ChatGPT para que escriba como ellos.
+OPINADORES = [
+    {
+        "id": "comunista",
+        "nombre": "Un comunista",
+        "perfil": "una persona comunista: analiza la actualidad desde la lucha de "
+        "clases y defiende a la clase trabajadora, los servicios públicos y la "
+        "propiedad colectiva frente al gran capital",
+    },
+    {
+        "id": "anarquista",
+        "nombre": "Un anarquista",
+        "perfil": "una persona anarquista: desconfía del Estado, de los partidos y "
+        "de toda jerarquía, y defiende la autogestión, el apoyo mutuo y la libertad "
+        "individual y colectiva",
+    },
+    {
+        "id": "liberal",
+        "nombre": "Un liberal",
+        "perfil": "una persona liberal: defiende la libertad individual, el libre "
+        "mercado, los impuestos bajos, un Estado limitado y la responsabilidad personal",
+    },
+    {
+        "id": "extrema_derecha",
+        "nombre": "Uno de extrema derecha",
+        "perfil": "una persona de extrema derecha: nacionalista y muy conservadora, "
+        "prioriza la soberanía nacional, la seguridad, el control estricto de la "
+        "inmigración y las tradiciones, y desconfía de las élites políticas y mediáticas",
+    },
+    {
+        "id": "centro",
+        "nombre": "Una demócrata de centro",
+        "perfil": "una persona demócrata de centro: moderada, defiende las "
+        "instituciones, el consenso, las reformas graduales y el equilibrio entre "
+        "el mercado y la protección social",
+    },
+]
 
 HORAS = [8, 11, 14, 17, 20]     # horas (de Madrid) a las que se actualiza
 MAX_TITULARES = 12              # noticias de cada portada que se envían a ChatGPT
@@ -274,6 +315,29 @@ PROMPT_GENERAL = ChatPromptTemplate.from_messages(
 )
 
 
+PROMPT_OPINION = ChatPromptTemplate.from_messages(
+    [
+        (
+            "system",
+            "Vas a escribir una columna de opinión muy breve, en primera persona y "
+            "en español, desde el punto de vista de {perfil}.\n\n"
+            "Representa esa forma de pensar con fidelidad y con sus mejores "
+            "argumentos, como lo haría un columnista serio de esa corriente: no la "
+            "ridiculices ni la suavices. Es un personaje inventado.\n\n"
+            "Reglas: comenta solo las noticias que se te dan; no inventes hechos, "
+            "datos ni citas; nada de insultos, de lenguaje de odio contra ningún "
+            "colectivo ni de llamadas a la violencia. Entre 110 y 150 palabras, en "
+            "uno o dos párrafos, sin título.",
+        ),
+        (
+            "human",
+            "Estas son las noticias de portada de hoy en varios periódicos:\n\n"
+            "{noticias}\n\n¿Qué opinas del día?",
+        ),
+    ]
+)
+
+
 def noticias_a_texto(noticias: list[dict]) -> str:
     """Convierte la lista de noticias en un texto sencillo para el prompt."""
     lineas = []
@@ -285,8 +349,8 @@ def noticias_a_texto(noticias: list[dict]) -> str:
     return "\n".join(lineas)
 
 
-def analizar(portadas: dict[str, list[dict]], nombre_modelo: str) -> tuple[dict, dict]:
-    """Devuelve (análisis general, {periódico: análisis})."""
+def analizar(portadas: dict[str, list[dict]], nombre_modelo: str) -> tuple[dict, dict, list]:
+    """Devuelve (análisis general, {periódico: análisis}, opiniones)."""
     clave = leer_secreto("OPENAI_API_KEY")
     modelo = ChatOpenAI(api_key=clave, model=nombre_modelo)
 
@@ -314,7 +378,17 @@ def analizar(portadas: dict[str, list[dict]], nombre_modelo: str) -> tuple[dict,
         for nombre, noticias in con_noticias.items()
     )
     general = cadena_general.invoke({"noticias": todo}).model_dump()
-    return general, por_periodico
+
+    # La opinión de cada personaje: el mismo prompt, cambiando solo el perfil.
+    cadena_opinion = PROMPT_OPINION | modelo | StrOutputParser()
+    textos = cadena_opinion.batch(
+        [{"perfil": opinador["perfil"], "noticias": todo} for opinador in OPINADORES]
+    )
+    opiniones = [
+        {"id": opinador["id"], "nombre": opinador["nombre"], "texto": texto.strip()}
+        for opinador, texto in zip(OPINADORES, textos)
+    ]
+    return general, por_periodico, opiniones
 
 
 # ----------------------------------------------------------------------
@@ -375,7 +449,7 @@ def main() -> None:
         sys.exit("No se ha podido leer ninguna portada: no se guarda nada.")
 
     print(f"Analizando con {nombre_modelo}…")
-    general, por_periodico = analizar(portadas, nombre_modelo)
+    general, por_periodico, opiniones = analizar(portadas, nombre_modelo)
 
     guardar_json(
         ARCHIVO_ULTIMO,
@@ -385,6 +459,7 @@ def main() -> None:
             "generado": ahora.strftime("%d/%m/%Y %H:%M"),
             "modelo": nombre_modelo,
             "general": general,
+            "opiniones": opiniones,
             "periodicos": [
                 {
                     "nombre": nombre,
