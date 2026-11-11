@@ -85,12 +85,173 @@ PERIODICOS_FR = {
     },
 }
 
-# Los países de la web. La clave ("es", "fr") es también el nombre de su carpeta
+# --- Países añadidos el 11/11/2026 -------------------------------------
+# Las direcciones se probaron desde GitHub. Un periódico con "rss": [] no
+# tiene RSS que funcione: sus titulares se sacan de la portada web (plan B).
+
+PERIODICOS_US = {
+    "The New York Times": {
+        "web": "https://www.nytimes.com",
+        "rss": ["https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"],
+    },
+    "The Washington Post": {
+        "web": "https://www.washingtonpost.com",
+        "rss": [
+            "https://feeds.washingtonpost.com/rss/national",
+            "https://feeds.washingtonpost.com/rss/politics",
+        ],
+    },
+    "The Wall Street Journal": {
+        "web": "https://www.wsj.com",
+        "rss": [
+            "https://feeds.content.dowjones.io/public/rss/RSSUSnews",
+            "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
+        ],
+    },
+    "Los Angeles Times": {
+        "web": "https://www.latimes.com",
+        "rss": ["https://www.latimes.com/rss2.0.xml", "https://www.latimes.com/index.rss"],
+    },
+    "New York Post": {
+        "web": "https://nypost.com",
+        "rss": ["https://nypost.com/feed/"],
+    },
+}
+
+PERIODICOS_GB = {
+    "The Guardian": {
+        "web": "https://www.theguardian.com/uk",
+        "rss": ["https://www.theguardian.com/uk/rss"],
+    },
+    "The Telegraph": {
+        "web": "https://www.telegraph.co.uk",
+        "rss": ["https://www.telegraph.co.uk/news/rss.xml", "https://www.telegraph.co.uk/rss.xml"],
+    },
+    "The Independent": {
+        "web": "https://www.independent.co.uk",
+        "rss": ["https://www.independent.co.uk/rss"],
+    },
+    "Daily Mail": {
+        "web": "https://www.dailymail.co.uk",
+        "rss": ["https://www.dailymail.co.uk/news/index.rss", "https://www.dailymail.co.uk/home/index.rss"],
+    },
+    "Daily Mirror": {
+        "web": "https://www.mirror.co.uk",
+        "rss": ["https://www.mirror.co.uk/news/?service=rss", "https://www.mirror.co.uk/?service=rss"],
+    },
+}
+
+PERIODICOS_DE = {
+    "Süddeutsche Zeitung": {
+        "web": "https://www.sueddeutsche.de",
+        "rss": ["https://rss.sueddeutsche.de/rss/Topthemen"],
+    },
+    "Die Welt": {
+        "web": "https://www.welt.de",
+        "rss": ["https://www.welt.de/feeds/topnews.rss", "https://www.welt.de/feeds/latest.rss"],
+    },
+    "Der Spiegel": {
+        "web": "https://www.spiegel.de",
+        "rss": ["https://www.spiegel.de/schlagzeilen/tops/index.rss"],
+    },
+    "Bild": {
+        "web": "https://www.bild.de",
+        "rss": ["https://www.bild.de/feed/alles.xml"],
+    },
+    "taz": {
+        "web": "https://taz.de",
+        "rss": ["https://taz.de/!p4608;rss/", "https://taz.de/rss.xml"],
+    },
+}
+
+PERIODICOS_IT = {
+    "Corriere della Sera": {
+        "web": "https://www.corriere.it",
+        "rss": ["https://xml2.corriereobjects.it/rss/homepage.xml", "https://www.corriere.it/rss/homepage.xml"],
+    },
+    "la Repubblica": {
+        "web": "https://www.repubblica.it",
+        "rss": ["https://www.repubblica.it/rss/homepage/rss2.0.xml"],
+    },
+    "La Stampa": {
+        "web": "https://www.lastampa.it",
+        "rss": ["https://www.lastampa.it/rss/copertina.xml"],
+    },
+    "Il Giornale": {
+        "web": "https://www.ilgiornale.it",
+        "rss": [],
+    },
+    "Il Fatto Quotidiano": {
+        "web": "https://www.ilfattoquotidiano.it",
+        "rss": ["https://www.ilfattoquotidiano.it/feed/"],
+    },
+}
+
+# Rusia: cuatro medios editados en Rusia y Meduza, independiente, que se
+# publica desde el exilio (Letonia).
+PERIODICOS_RU = {
+    "Kommersant": {
+        "web": "https://www.kommersant.ru",
+        "rss": ["https://www.kommersant.ru/RSS/main.xml", "https://www.kommersant.ru/RSS/news.xml"],
+    },
+    "Rossíiskaya Gazeta": {
+        "web": "https://rg.ru",
+        "rss": ["https://rg.ru/xml/index.xml"],
+    },
+    "Komsomólskaya Pravda": {
+        "web": "https://www.kp.ru",
+        "rss": ["https://www.kp.ru/rss/allsections.xml"],
+    },
+    "Moskovski Komsomólets": {
+        "web": "https://www.mk.ru",
+        "rss": ["https://www.mk.ru/rss/index.xml"],
+    },
+    "Meduza": {
+        "web": "https://meduza.io",
+        "rss": ["https://meduza.io/rss/all"],
+    },
+}
+
+# China: cuatro medios estatales (dos en chino y dos en inglés) y el
+# South China Morning Post, de Hong Kong.
+PERIODICOS_CN = {
+    "Diario del Pueblo": {
+        "web": "http://www.people.com.cn",
+        "rss": ["http://www.people.com.cn/rss/politics.xml", "http://en.people.cn/rss/90000.xml"],
+    },
+    "Xinhua": {
+        "web": "https://www.news.cn",
+        "rss": [
+            "http://www.xinhuanet.com/politics/news_politics.xml",
+            "https://english.news.cn/rss/chinarss.xml",
+        ],
+    },
+    "Global Times": {
+        "web": "https://www.globaltimes.cn",
+        "rss": ["https://www.globaltimes.cn/rss/outbrain.xml"],
+    },
+    "CGTN": {
+        "web": "https://www.cgtn.com",
+        "rss": ["https://www.cgtn.com/subscribe/rss/section/china.xml"],
+    },
+    "South China Morning Post": {
+        "web": "https://www.scmp.com",
+        "rss": ["https://www.scmp.com/rss/4/feed", "https://www.scmp.com/rss/91/feed"],
+    },
+}
+
+# Los países de la web. La clave ("es", "fr"…) es también el nombre de su carpeta
 # dentro de datos/. Para añadir un país basta con añadir una entrada aquí
-# (y otra en PAISES de app.py para que salga en el selector).
+# (y otra en PAISES de app.py y de web/generar.py para que salga en las webs).
 PAISES = {
     "es": {"nombre": "España", "periodicos": PERIODICOS_ES},
     "fr": {"nombre": "Francia", "periodicos": PERIODICOS_FR},
+    "us": {"nombre": "Estados Unidos", "periodicos": PERIODICOS_US},
+    "gb": {"nombre": "Reino Unido", "periodicos": PERIODICOS_GB},
+    "de": {"nombre": "Alemania", "periodicos": PERIODICOS_DE},
+    "it": {"nombre": "Italia", "periodicos": PERIODICOS_IT},
+    "ru": {"nombre": "Rusia", "periodicos": PERIODICOS_RU},
+    "cn": {"nombre": "China", "periodicos": PERIODICOS_CN},
 }
 
 # Los cinco personajes de "¿Quién quieres que te dé la opinión?".
