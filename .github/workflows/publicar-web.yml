@@ -52,14 +52,15 @@ jobs:
           command: deploy
 
       # Copia a Cloudflare los secretos de la página de configuración.
-      # Si no están puestos en GitHub, la página responde "no está activada".
       - name: Guardar en Cloudflare las claves de la página de configuración
-        if: env.CLOUDFLARE_API_TOKEN != '' && env.CLAVE_CONFIGURACION != '' && env.GITHUB_TOKEN_CONFIG != ''
+        if: env.CLOUDFLARE_API_TOKEN != '' && (env.CLAVE_CONFIGURACION != '' || env.GITHUB_TOKEN_CONFIG != '')
         working-directory: web
         run: |
           python - <<'FIN'
           import json, os
-          claves = {nombre: os.environ[nombre].strip() for nombre in ("CLAVE_CONFIGURACION", "GITHUB_TOKEN_CONFIG")}
+          # Solo se copian los que estén puestos.
+          claves = {nombre: os.environ[nombre].strip()
+                    for nombre in ("CLAVE_CONFIGURACION", "GITHUB_TOKEN_CONFIG") if os.environ.get(nombre, "").strip()}
           json.dump(claves, open("claves.json", "w"))
           FIN
           npx --yes wrangler@4 secret bulk claves.json
