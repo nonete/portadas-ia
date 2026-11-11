@@ -21,6 +21,9 @@ jobs:
     env:
       CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
       CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      # Los dos secretos de la página de configuración (web/worker/index.js).
+      CLAVE_CONFIGURACION: ${{ secrets.CLAVE_CONFIGURACION }}
+      GITHUB_TOKEN_CONFIG: ${{ secrets.GITHUB_TOKEN_CONFIG }}
     steps:
       # ref: main → se usa siempre lo último, con los datos recién guardados.
       - uses: actions/checkout@v4
@@ -47,3 +50,17 @@ jobs:
           workingDirectory: web
           wranglerVersion: "4"
           command: deploy
+
+      # Copia a Cloudflare los secretos de la página de configuración.
+      # Si no están puestos en GitHub, la página responde "no está activada".
+      - name: Guardar en Cloudflare las claves de la página de configuración
+        if: env.CLOUDFLARE_API_TOKEN != '' && env.CLAVE_CONFIGURACION != '' && env.GITHUB_TOKEN_CONFIG != ''
+        working-directory: web
+        run: |
+          python - <<'FIN'
+          import json, os
+          claves = {nombre: os.environ[nombre].strip() for nombre in ("CLAVE_CONFIGURACION", "GITHUB_TOKEN_CONFIG")}
+          json.dump(claves, open("claves.json", "w"))
+          FIN
+          npx --yes wrangler@4 secret bulk claves.json
+          rm claves.json

@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Configuración | Portadas IA</title>
+<link rel="stylesheet" href="/estilos.css">
+<style>
+  /* Estilos solo de esta página. Los colores y letras vienen de estilos.css. */
+  main { max-width: 860px; padding-bottom: 120px; }
+  h1 { font-size: clamp(1.9rem, 5vw, 2.6rem); margin-top: 28px; }
+  .intro { color: var(--tinta-2); margin-top: 8px; max-width: 64ch; }
+  .panel { background: var(--hoja); border: 1px solid var(--regla); padding: 20px; display: grid; gap: 14px; }
+  .fila { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+  label { font-weight: 600; font-size: .9rem; }
+  select, textarea, button { font: inherit; color: var(--tinta); }
+  select { padding: 9px 10px; border: 1px solid var(--regla); border-radius: 6px; background: var(--hoja); min-width: 0; flex: 1 1 200px; }
+  textarea {
+    width: 100%; min-height: 150px; padding: 12px; border: 1px solid var(--regla); border-radius: 6px;
+    background: var(--papel); line-height: 1.5; resize: vertical; font-size: .95rem;
+  }
+  textarea.mal { border-color: var(--alto); }
+  button {
+    padding: 10px 18px; border-radius: 6px; border: 1px solid var(--acento); cursor: pointer;
+    background: var(--acento); color: var(--hoja); font-weight: 700;
+  }
+  button.secundario { background: none; color: var(--acento); border-color: var(--regla); font-weight: 600; padding: 6px 12px; font-size: .85rem; }
+  button:disabled { opacity: .5; cursor: default; }
+  .nota-pequena { color: var(--tinta-3); font-size: .85rem; }
+  .estado { font-size: .93rem; color: var(--tinta-2); }
+  .estado b { color: var(--tinta); }
+  .prompt { display: grid; gap: 8px; padding: 18px 0; border-bottom: 1px solid var(--regla); }
+  .prompt > header { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; }
+  .prompt h3 { font-size: 1.25rem; margin-right: auto; }
+  .cambiado { font-size: .72rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase;
+    padding: 2px 8px; border-radius: 999px; border: 1px solid var(--acento); color: var(--acento); }
+  .variables { font-size: .85rem; color: var(--tinta-2); }
+  code { background: var(--papel); border: 1px solid var(--regla); border-radius: 4px; padding: 1px 5px; font-size: .85rem; }
+  .error { color: var(--alto); font-size: .88rem; font-weight: 600; }
+  .barra {
+    position: fixed; left: 0; right: 0; bottom: 0; background: var(--hoja); border-top: 1px solid var(--regla);
+    padding: 12px 20px; z-index: 20;
+  }
+  .barra .fila { max-width: 860px; margin: 0 auto; justify-content: space-between; }
+  #aviso { font-size: .9rem; color: var(--tinta-2); flex: 1 1 200px; }
+  #aviso.bien { color: var(--tinta); font-weight: 600; }
+  #aviso.mal { color: var(--alto); font-weight: 600; }
+</style>
+</head>
+<body>
+<header class="mancheta">
+  <div class="ancho">
+    <a class="marca" href="/">Portadas <i>IA</i></a>
+    <p class="lema" style="padding-bottom:16px">Página privada · no aparece en la web ni en los buscadores</p>
+  </div>
+</header>
+
+<main class="ancho">
+  <h1>Configuración</h1>
+  <p class="intro">Aquí puedes lanzar una lectura de portadas y cambiar las instrucciones (prompts) que recibe ChatGPT.</p>
+
+  <section aria-labelledby="titulo-actualizar">
+    <header class="cabecera-seccion"><h2 id="titulo-actualizar">Actualizar ahora</h2>
+      <p>Vuelve a leer las portadas y a analizarlas, sin esperar a las 8:00 o las 18:00. La web se publica sola al terminar (unos 5 minutos si son todos los países).</p>
+    </header>
+    <div class="panel">
+      <div class="fila">
+        <label for="pais">Qué actualizar</label>
+        <select id="pais"><option value="">Todos los países y Discapacidad</option></select>
+        <button type="button" id="boton-actualizar">Actualizar</button>
+      </div>
+      <p class="nota-pequena" id="coste">Cada país son 11 llamadas a OpenAI.</p>
+      <p class="estado" id="estado">Consultando la última actualización…</p>
+    </div>
+  </section>
+
+  <section aria-labelledby="titulo-prompts">
+    <header class="cabecera-seccion"><h2 id="titulo-prompts">Prompts</h2>
+      <p>Los cambios se usan a partir de la siguiente lectura (o al pulsar Actualizar). Las palabras entre llaves, como <code>{noticias}</code>, son variables: el programa las sustituye por su valor, así que no las borres ni añadas otras.</p>
+    </header>
+    <div id="prompts"><p class="estado">Cargando los prompts…</p></div>
+  </section>
+</main>
+
+<div class="barra">
+  <div class="fila">
+    <p id="aviso">Sin cambios por guardar.</p>
+    <button type="button" id="boton-guardar" disabled>Guardar cambios</button>
+  </div>
+</div>
+
+<script>
+// Lo que ha devuelto el servidor: los prompts originales, los cambiados y la
+// "huella" (sha) de la versión guardada.
+let prompts = [];
+let guardados = {};
+let sha = null;
+
+const zona = document.getElementById("prompts");
+const aviso = document.getElementById("aviso");
+const botonGuardar = document.getElementById("boton-guardar");
+
+function decir(mensaje, tipo) {
+  aviso.textContent = mensaje;
+  aviso.className = tipo || "";
+}
+
+// Pide algo al servidor y devuelve la respuesta ya leída.
+async function pedir(direccion, opciones) {
+  const respuesta = await fetch(direccion, opciones);
+  let datos = {};
+  try { datos = await respuesta.json(); } catch (error) {}
+  if (!respuesta.ok) throw new Error(datos.error || "Error " + respuesta.status);
+  return datos;
+}
+
+// Las mismas comprobaciones que hace el servidor, para avisar mientras se escribe.
+function erroresDe(texto, variables) {
+  const errores = [];
+  if (!texto.trim()) errores.push("está vacío");
+  let resto = texto;
+  variables.forEach(function (variable) {
+    if (!texto.includes("{" + variable + "}")) errores.push("falta {" + variable + "}");
+    resto = resto.split("{" + variable + "}").join("");
+  });
+  if (/[{}]/.test(resto)) errores.push("tiene llaves { } que no son de una variable permitida");
+  return errores;
+}
+
+function valorActual(prompt) {
+  return document.getElementById("texto-" + prompt.id).value.replace(/\r\n/g, "\n").trim();
+}
+
+// Repasa todos los cuadros: marca los cambiados, enseña los errores y decide
+// si se puede guardar.
+function repasar() {
+  let pendientes = 0, conError = 0;
+  prompts.forEach(function (prompt) {
+    const valor = valorActual(prompt);
+    const original = prompt.texto.trim();
+    const guardado = (guardados[prompt.id] || original).trim();
+    const errores = erroresDe(valor, prompt.variables);
+    document.getElementById("error-" + prompt.id).textContent = errores.length ? "No se puede guardar: " + errores.join("; ") + "." : "";
+    document.getElementById("texto-" + prompt.id).classList.toggle("mal", errores.length > 0);
+    document.getElementById("marca-" + prompt.id).hidden = valor === original;
+    document.getElementById("restaurar-" + prompt.id).disabled = valor === original;
+    if (valor !== guardado) pendientes++;
+    if (errores.length) conError++;
+  });
+  botonGuardar.disabled = pendientes === 0 || conError > 0;
+  if (conError) decir("Hay " + conError + " prompt(s) con errores.", "mal");
+  else if (pendientes) decir(pendientes + " cambio(s) sin guardar.");
+  else decir("Sin cambios por guardar.");
+}
+
+// Dibuja un cuadro de texto por prompt, agrupados por tema.
+function pintar() {
+  zona.textContent = "";
+  let grupoAnterior = "";
+  prompts.forEach(function (prompt) {
+    if (prompt.grupo !== grupoAnterior) {
+      const titulo = document.createElement("p");
+      titulo.className = "rotulo";
+      titulo.style.marginTop = "26px";
+      titulo.textContent = prompt.grupo;
+      zona.appendChild(titulo);
+      grupoAnterior = prompt.grupo;
+    }
+    const caja = document.createElement("div");
+    caja.className = "prompt";
+    caja.innerHTML =
+      '<header><h3></h3><span class="cambiado" hidden>Cambiado</span>' +
+      '<button type="button" class="secundario">Restaurar original</button></header>' +
+      '<p class="nota-pequena"></p><p class="variables"></p><textarea></textarea><p class="error" role="alert"></p>';
+    caja.querySelector("h3").textContent = prompt.titulo;
+    caja.querySelector(".nota-pequena").textContent = prompt.ayuda;
+    caja.querySelector(".variables").innerHTML = prompt.variables.length
+      ? "Variables obligatorias: " + prompt.variables.map(function (v) { return "<code>{" + v + "}</code>"; }).join(" ")
+      : "Sin variables: no uses llaves.";
+    const cuadro = caja.querySelector("textarea");
+    cuadro.id = "texto-" + prompt.id;
+    cuadro.setAttribute("aria-label", prompt.grupo + ": " + prompt.titulo);
+    cuadro.value = guardados[prompt.id] || prompt.texto;
+    cuadro.rows = Math.min(16, Math.max(4, Math.ceil(cuadro.value.length / 70)));
+    cuadro.addEventListener("input", repasar);
+    caja.querySelector(".cambiado").id = "marca-" + prompt.id;
+    caja.querySelector(".error").id = "error-" + prompt.id;
+    const restaurar = caja.querySelector("button");
+    restaurar.id = "restaurar-" + prompt.id;
+    restaurar.addEventListener("click", function () { cuadro.value = prompt.texto; repasar(); });
+    zona.appendChild(caja);
+  });
+  repasar();
+}
+
+async function cargar() {
+  try {
+    const datos = await pedir("/api/config");
+    prompts = datos.prompts; guardados = datos.cambiados; sha = datos.sha;
+    pintar();
+  } catch (error) {
+    zona.innerHTML = '<p class="error"></p>';
+    zona.firstChild.textContent = "No se han podido cargar los prompts. " + error.message;
+  }
+}
+
+botonGuardar.addEventListener("click", async function () {
+  botonGuardar.disabled = true;
+  decir("Guardando…");
+  const valores = {};
+  prompts.forEach(function (prompt) { valores[prompt.id] = valorActual(prompt); });
+  try {
+    const datos = await pedir("/api/config", {
+      method: "PUT",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ valores: valores, sha: sha }),
+    });
+    guardados = datos.cambiados; sha = datos.sha;
+    repasar();
+    decir("Guardado. Se usará en la próxima lectura.", "bien");
+  } catch (error) {
+    repasar();
+    decir(error.message, "mal");
+  }
+});
+
+// Avisa si se cierra la página con cambios sin guardar.
+window.addEventListener("beforeunload", function (evento) {
+  if (!botonGuardar.disabled) evento.preventDefault();
+});
+
+// ---------- Actualizar ahora ----------
+
+const selector = document.getElementById("pais");
+const botonActualizar = document.getElementById("boton-actualizar");
+const lineaEstado = document.getElementById("estado");
+const coste = document.getElementById("coste");
+let numeroPaises = 0;
+let reloj = null;
+
+function pintarCoste() {
+  const llamadas = selector.value ? 11 : numeroPaises * 11 + 2;
+  coste.textContent = "Esta actualización hará unas " + llamadas + " llamadas a OpenAI.";
+}
+selector.addEventListener("change", pintarCoste);
+
+async function cargarPaises() {
+  try {
+    const paises = await pedir("/paises.json");
+    numeroPaises = paises.length;
+    paises.forEach(function (pais) {
+      const opcion = document.createElement("option");
+      opcion.value = pais.codigo;
+      opcion.textContent = "Solo " + pais.nombre;
+      selector.appendChild(opcion);
+    });
+    pintarCoste();
+  } catch (error) {}
+}
+
+function hora(fecha) {
+  return new Date(fecha).toLocaleString("es-ES", { day: "numeric", month: "long", hour: "2-digit", minute: "2-digit" });
+}
+
+async function verEstado() {
+  clearTimeout(reloj);
+  try {
+    const ultima = (await pedir("/api/estado")).ultima;
+    if (!ultima) { lineaEstado.textContent = "Todavía no hay ninguna actualización."; return; }
+    const origen = ultima.origen === "schedule" ? "automática" : "lanzada a mano";
+    let frase;
+    if (ultima.estado !== "completed") {
+      frase = "<b>En marcha</b> desde el " + hora(ultima.inicio) + " (" + origen + "). Esta línea se refresca sola.";
+      reloj = setTimeout(verEstado, 15000);
+    } else if (ultima.resultado === "success") {
+      frase = "Última actualización: <b>terminada bien</b>, el " + hora(ultima.inicio) + " (" + origen + ").";
+    } else {
+      frase = "Última actualización: <b>terminada con errores</b>, el " + hora(ultima.inicio) + " (" + origen + ").";
+    }
+    lineaEstado.innerHTML = frase + ' <a rel="noopener" target="_blank">Ver en GitHub</a>';
+    lineaEstado.querySelector("a").href = ultima.enlace;
+    botonActualizar.disabled = ultima.estado !== "completed";
+  } catch (error) {
+    lineaEstado.textContent = "No se ha podido consultar el estado. " + error.message;
+  }
+}
+
+botonActualizar.addEventListener("click", async function () {
+  botonActualizar.disabled = true;
+  lineaEstado.textContent = "Lanzando la actualización…";
+  try {
+    await pedir("/api/actualizar", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ pais: selector.value }),
+    });
+    lineaEstado.innerHTML = "<b>Actualización lanzada.</b> GitHub tarda unos segundos en arrancarla…";
+    reloj = setTimeout(verEstado, 8000);
+  } catch (error) {
+    lineaEstado.textContent = error.message;
+    botonActualizar.disabled = false;
+  }
+});
+
+cargar();
+cargarPaises();
+verEstado();
+</script>
+</body>
+</html>

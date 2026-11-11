@@ -7,3 +7,7 @@ __pycache__/
 
 # La web estática se genera con web/generar.py; no se guarda en el repositorio
 web/sitio/
+
+# Archivos temporales de wrangler (Cloudflare)
+web/.wrangler/
+web/claves.json

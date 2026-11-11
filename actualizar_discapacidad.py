@@ -42,6 +42,7 @@ from actualizar import (
     CABECERAS,
     CARPETA,
     MADRID,
+    TEXTOS,
     guardar_json,
     leer_json,
     leer_secreto,
@@ -473,21 +474,10 @@ class Seleccion(BaseModel):
     )
 
 
+# Los textos de los prompts están en config/ (ver prompts.py) y se pueden
+# cambiar desde la página de configuración de la web.
 PROMPT_FILTRO = ChatPromptTemplate.from_messages(
-    [
-        (
-            "system",
-            "Clasificas titulares de prensa española. Devuelve solo los números de "
-            "los que tratan sobre discapacidad: personas con discapacidad física, "
-            "intelectual, sensorial o psicosocial y sus familias, accesibilidad, "
-            "dependencia, sus derechos, leyes, ayudas, empleo, educación, deporte "
-            "adaptado o paralímpico, y las entidades del sector (ONCE, CERMI, Plena "
-            "inclusión, Cocemfe, Aspace y similares).\n\n"
-            "No incluyas sorteos ni cupones, ni noticias generales que no dejen ver "
-            "en el titular su relación con la discapacidad. En caso de duda, no lo incluyas.",
-        ),
-        ("human", "{titulares}"),
-    ]
+    [("system", TEXTOS["discapacidad_filtro_sistema"]), ("human", "{titulares}")]
 )
 
 TITULARES_POR_PREGUNTA = 80
@@ -618,26 +608,8 @@ class ResumenDiscapacidad(BaseModel):
 
 PROMPT_RESUMEN = ChatPromptTemplate.from_messages(
     [
-        (
-            "system",
-            "Eres un periodista especializado en discapacidad que hace un repaso de "
-            "prensa en España. Escribes en español, claro y sencillo, de forma neutral "
-            "y sin opinar de política.\n\n"
-            "Reglas: usa solo los titulares que se te dan; no inventes datos, cifras "
-            "ni citas; si un tema aparece en un solo titular, no lo presentes como "
-            "tendencia; no comentes cuántos titulares hay ni de qué fechas son. "
-            "Usa un lenguaje respetuoso: di «personas con discapacidad», "
-            "no «discapacitados» ni «minusválidos», y evita el tono de lástima o de "
-            "heroísmo.",
-        ),
-        (
-            "human",
-            "Hoy es {hoy}. Estos son titulares sobre discapacidad publicados en medios "
-            "españoles en el último mes, con su fecha y su medio, agrupados por "
-            "antigüedad:\n\n{titulares}\n\n"
-            "Resume de qué se está hablando sobre discapacidad en España y señala "
-            "los temas que más se repiten.",
-        ),
+        ("system", TEXTOS["discapacidad_resumen_sistema"]),
+        ("human", TEXTOS["discapacidad_resumen_usuario"]),
     ]
 )
 

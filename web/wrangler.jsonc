@@ -1,15 +1,31 @@
-// Configuración de Cloudflare para publicar la web estática.
+// Configuración de Cloudflare para publicar la web.
 // La usa el programa "wrangler" desde .github/workflows/publicar-web.yml.
 {
   // Nombre del proyecto dentro de la cuenta de Cloudflare.
   "name": "portadas-ia",
   "compatibility_date": "2026-11-11",
 
-  // La carpeta que se sube: la que crea web/generar.py.
+  // El pequeño programa que atiende la página de configuración (con clave).
+  "main": "worker/index.js",
+
+  // La web estática: la carpeta que crea web/generar.py.
   "assets": {
     "directory": "./sitio",
-    "not_found_handling": "404-page"
+    "binding": "ASSETS",
+    "not_found_handling": "404-page",
+    // Solo estas direcciones pasan por el programa; el resto de la web se
+    // sirve directamente, sin ejecutar nada.
+    "run_worker_first": ["/configuracion", "/configuracion/*", "/api/*"]
   },
+
+  // Datos que el programa necesita y que no son secretos.
+  "vars": {
+    "REPO": "nonete/portadas-ia",
+    "RAMA": "main"
+  },
+
+  // Permite al programa leer pagina.html como texto.
+  "rules": [{ "type": "Text", "globs": ["**/*.html"], "fallthrough": true }],
 
   // Los dominios donde se ve la web. Cloudflare crea solo los registros DNS
   // y el certificado https.

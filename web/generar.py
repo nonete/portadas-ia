@@ -644,6 +644,13 @@ def main() -> None:
         (carpeta / "index.html").write_text(pagina(codigo), encoding="utf-8")
         print(f"Página de {datos['nombre']}: {(carpeta / 'index.html').relative_to(RAIZ)}")
 
+    # La lista de países, para el desplegable de la página de configuración.
+    (SITIO / "paises.json").write_text(
+        json.dumps([{"codigo": codigo, "nombre": datos["nombre"]} for codigo, datos in PAISES.items()],
+                   ensure_ascii=False),
+        encoding="utf-8",
+    )
+
     # 4. Página de error: se enseña cuando alguien pide una dirección que no existe.
     (SITIO / "404.html").write_text(
         '<!DOCTYPE html><html lang="es"><head><meta charset="utf-8">'

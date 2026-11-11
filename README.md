@@ -62,3 +62,12 @@ En el repositorio → pestaña **Actions** → **Actualizar portadas** → **Run
 1. Entra en https://share.streamlit.io y pulsa **Create app**.
 2. Elige este repositorio, rama `main` y archivo `app.py`.
 3. Pulsa **Deploy**.
+
+## Página de configuración (privada)
+
+`https://portadas-ia.com/configuracion` pide una clave (el usuario puede ser cualquiera). No está enlazada desde la web ni aparece en los buscadores. Sirve para:
+
+- **Cambiar los prompts** que recibe ChatGPT. Los originales están en `config/prompts_originales.json`; los cambios se guardan en `config/prompts.json` y `prompts.py` los junta. Si un prompt cambiado no es válido, se usa el original.
+- **Lanzar una actualización** de todos los países o de uno solo.
+
+La atiende `web/worker/index.js` (un Worker de Cloudflare). Necesita dos Secrets en GitHub: `CLAVE_CONFIGURACION` (la clave para entrar) y `GITHUB_TOKEN_CONFIG` (un token de GitHub con permiso de lectura y escritura en *Contents* y *Actions* de este repositorio).
