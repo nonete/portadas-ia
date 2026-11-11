@@ -9,6 +9,10 @@ en la carpeta web/sitio/:
     web/sitio/francia/index.html    → Francia
     web/sitio/estilos.css, web.js   → el diseño y un poco de JavaScript
     web/sitio/img/                  → Crispito y las caricaturas
+    web/sitio/404.html, sitemap.xml, robots.txt
+
+La publicación en Cloudflare la hace .github/workflows/publicar-web.yml
+usando web/wrangler.jsonc.
 
 Al ser HTML "de verdad", Google puede leer todo el texto, y la carpeta
 web/sitio/ se puede subir tal cual a cualquier hosting de páginas estáticas.
@@ -40,10 +44,10 @@ DATOS = RAIZ / "datos"
 RECURSOS = Path(__file__).parent / "recursos"
 SITIO = Path(__file__).parent / "sitio"      # aquí se escribe la web
 
-# Dirección pública de la web, SIN barra al final. Está vacía hasta que
-# elijamos hosting. Cuando se rellene (por ejemplo "https://portadas-ia.es")
-# se añadirán solos la dirección canónica, sitemap.xml y robots.txt.
-URL_BASE = ""
+# Dirección pública de la web, SIN barra al final. Con ella se escriben la
+# dirección canónica de cada página, sitemap.xml y robots.txt.
+# Si se deja vacía ("") esas tres cosas no se generan.
+URL_BASE = "https://portadas-ia.com"
 
 # Los países. 'carpeta' es dónde se guarda su página dentro de web/sitio/
 # ("" = la portada). La clave tiene que coincidir con la carpeta de datos/.
@@ -555,7 +559,19 @@ def main() -> None:
         (carpeta / "index.html").write_text(pagina(codigo), encoding="utf-8")
         print(f"Página de {datos['nombre']}: {(carpeta / 'index.html').relative_to(RAIZ)}")
 
-    # 4. Archivos para los buscadores (solo cuando la web tenga dirección).
+    # 4. Página de error: se enseña cuando alguien pide una dirección que no existe.
+    (SITIO / "404.html").write_text(
+        '<!DOCTYPE html><html lang="es"><head><meta charset="utf-8">'
+        '<meta name="viewport" content="width=device-width, initial-scale=1">'
+        '<meta name="robots" content="noindex"><title>Página no encontrada | Portadas IA</title>'
+        '<link rel="stylesheet" href="/estilos.css"></head><body>'
+        '<header class="mancheta"><div class="ancho"><a class="marca" href="/">Portadas <i>IA</i></a>'
+        '<p class="lema">Esta página no existe.</p>'
+        '<nav class="paises"><a href="/">Volver a la portada</a></nav></div></header></body></html>',
+        encoding="utf-8",
+    )
+
+    # 5. Archivos para los buscadores (solo cuando la web tenga dirección).
     if URL_BASE:
         direcciones = "".join(f"<url><loc>{direccion_publica(codigo)}</loc></url>" for codigo in PAISES)
         (SITIO / "sitemap.xml").write_text(

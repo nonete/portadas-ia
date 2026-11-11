@@ -1,0 +1,20 @@
+// Configuración de Cloudflare para publicar la web estática.
+// La usa el programa "wrangler" desde .github/workflows/publicar-web.yml.
+{
+  // Nombre del proyecto dentro de la cuenta de Cloudflare.
+  "name": "portadas-ia",
+  "compatibility_date": "2026-11-11",
+
+  // La carpeta que se sube: la que crea web/generar.py.
+  "assets": {
+    "directory": "./sitio",
+    "not_found_handling": "404-page"
+  },
+
+  // Los dominios donde se ve la web. Cloudflare crea solo los registros DNS
+  // y el certificado https.
+  "routes": [
+    { "pattern": "portadas-ia.com", "custom_domain": true },
+    { "pattern": "www.portadas-ia.com", "custom_domain": true }
+  ]
+}

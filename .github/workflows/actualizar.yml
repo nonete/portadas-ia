@@ -54,3 +54,11 @@ jobs:
             git commit -m "Datos: actualización automática"
             git push
           fi
+
+  # Después de guardar los datos se vuelve a crear y publicar la web estática.
+  # always(): se publica aunque algún país haya fallado.
+  publicar:
+    needs: actualizar
+    if: always()
+    uses: ./.github/workflows/publicar-web.yml
+    secrets: inherit
