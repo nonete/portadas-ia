@@ -1,39 +1,39 @@
 {
   "pais": "Francia",
   "fecha": "2026-11-11",
-  "turno": 8,
-  "generado": "11/11/2026 08:12",
+  "turno": 18,
+  "generado": "11/11/2026 23:29",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "La guerra en Ucrania y las conversaciones entre Kiev y Moscú ocupan varias portadas. También se repiten el intento de destitución de Pete Hegseth en Estados Unidos, la detención del periodista Christophe Gleizes en Argelia y los juicios por la agresión a Michel Zecler y por el caso de la niña de la A10. La conmemoración del 11 de noviembre y el deporte tienen presencia en varios medios. Solo Le Figaro destaca la candidatura presidencial de Teddy Riner.",
-    "crispacion": 55,
-    "motivo_crispacion": "La guerra en Ucrania concentra la tensión internacional, con negociaciones difíciles entre Kiev y Moscú mientras continúan los ataques. En Estados Unidos, el intento de destitución de Pete Hegseth refleja enfrentamientos políticos, y una tribuna de Libération emplea lenguaje polarizador sobre el movimiento de Trump. En Francia, el juicio por la agresión a Michel Zecler y el desacuerdo del Partido Socialista con David Lisnard añaden tensión social y política. La compensan noticias deportivas, culturales y conmemorativas."
+    "temas": "Se repiten la guerra de Ucrania y las negociaciones con Rusia, la carrera presidencial francesa de 2027 y el atentado racista de Trappes. También aparecen la movilización educativa, la situación entre Israel e Irán y el fútbol antes del Italia-Francia. Entre los temas exclusivos, Libération destaca el impacto de la inteligencia artificial en las agencias fotográficas.",
+    "crispacion": 68,
+    "motivo_crispacion": "La tensión es elevada por el atentado racista de Trappes y las declaraciones atribuidas a su presunto autor. En la política francesa destacan las críticas a Mélenchon, las diferencias ante la movilización educativa y un editorial de Le Figaro que acusa a la extrema izquierda de fomentar la protesta. La guerra de Ucrania y las advertencias sobre posibles ataques a Irán añaden tensión internacional. Las noticias deportivas, culturales y sobre iniciativas educativas ofrecen un contraste más tranquilo."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Hoy veo una misma lógica en dos decisiones francesas: se limita la indemnización de ciertos enfermos de larga duración para ahorrar costes, mientras el decreto que condiciona las exenciones de cotizaciones a los salarios deja vías para evitar la sanción. Para mí, la pregunta de clase es evidente: ¿quién soporta el ajuste y quién conserva las ayudas?\n\nNo acepto que enfermar deba significar perder ingresos, ni que el dinero público sostenga a empresas sin exigir salarios dignos. Frente al poder del gran capital, defiendo una protección social universal y servicios públicos financiados de forma suficiente. Y ante los hogares que reducen la calefacción por el precio de la energía, defiendo la propiedad colectiva del sector energético: una necesidad básica no debería depender de la capacidad de pago, sino organizarse democráticamente para garantizar una vida digna."
+      "texto": "Veo en la promesa de 5.000 plazas universitarias una respuesta insuficiente a quienes reclaman 250.000. La educación pública no puede tratarse como un gasto residual: ampliar el acceso exige inversión y personal, no solo anuncios. La clase trabajadora necesita derechos efectivos, no oportunidades reservadas a quien pueda pagarlas.\n\nLa huelga por la vivienda en España apunta a la misma disputa: ¿debe un hogar ser un derecho o una fuente de rentas? Defiendo un parque público y formas de propiedad colectiva que saquen la vivienda de la lógica especulativa. Y ante el atentado racista de Trappes, afirmo que la solidaridad de clase es inseparable de la lucha contra el racismo: dividir a quienes trabajan solo fortalece al gran capital."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "Hoy veo una misma pregunta detrás de varias noticias: ¿quién decide sobre nuestras vidas y ante quién responde?\n\nLa reducción de tres años a uno del plazo máximo de indemnización para ciertas enfermedades de larga duración convierte el ahorro público en una carga para quienes ya sufren. Yo defiendo otra lógica: cuidados organizados desde abajo, apoyo mutuo y control de los recursos por quienes los necesitan y los sostienen. No quiero que la solidaridad dependa de la caridad ni de la obediencia a un despacho.\n\nLas imágenes examinadas en el juicio por la agresión policial a Michel Zecler recuerdan por qué desconfío del monopolio estatal de la fuerza. Y, mientras los gobiernos negocian sobre Ucrania, deseo un alto el fuego, pero no una paz diseñada únicamente por las potencias. La libertad colectiva exige que las personas afectadas puedan decidir, sin quedar subordinadas a Estados ni partidos."
+      "texto": "Hoy veo dos respuestas a una misma pregunta: ¿quién decide sobre nuestras vidas? En Francia, el Gobierno promete 5.000 plazas universitarias frente a las 250.000 que reclaman las organizaciones estudiantiles. En España, decenas de miles de personas han salido a defender el derecho a la vivienda. Confío más en la fuerza de quienes se organizan desde abajo que en la generosidad de un gobierno o en las promesas de cualquier partido.\n\nNo basta con cambiar a quienes mandan: necesitamos espacios donde estudiantes, trabajadores y vecinos decidan directamente, compartan recursos y se apoyen mutuamente. La libertad individual no se opone a la colectiva; depende también de que nadie quede sometido a la escasez o al poder de otros. La autogestión es una forma de construir ambas, sin esperar permiso desde arriba."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "Hoy leo que muchas familias reducen la calefacción ante el coste de la energía. No creo que la respuesta sea una cadena interminable de subvenciones financiadas con más impuestos: prefiero menos cargas sobre el trabajo y la inversión, competencia entre proveedores y libertad para innovar. Un mercado abierto no elimina todas las dificultades, pero ofrece mejores incentivos para abaratar soluciones que un Estado dedicado a repartir favores.\n\nTambién me preocupa la propuesta de limitar la indemnización por enfermedades prolongadas. Contener el gasto es necesario, pero un Estado limitado debe concentrarse en proteger a quienes realmente no pueden valerse por sí mismos, no simplemente trasladarles el coste. La responsabilidad personal importa; también la responsabilidad pública de establecer reglas claras y gastar con prudencia. Defender la libertad exige ambas."
+      "texto": "Las 5.000 plazas universitarias adicionales prometidas en Francia responden a una demanda real, pero crear plazas no basta: importa su calidad, su coste y la libertad de los estudiantes para elegir entre opciones diversas. Yo prefiero un sistema abierto a la iniciativa privada y a la competencia antes que una expansión pública financiada con más impuestos. El Estado debe concentrarse en asegurar reglas claras, no en decidir por todos.\n\nTambién me preocupa que reparar un coche eléctrico cueste un 14 % más que uno de combustión. El mercado necesita precios transparentes y competencia en las reparaciones, no que los poderes públicos oculten los costes de una tecnología para favorecerla. Cada consumidor debería poder elegir y asumir las consecuencias de su decisión. La innovación prospera mejor cuando empresarios y clientes, no burócratas, deciden qué soluciones merecen triunfar."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Hoy recuerdo a quienes murieron por Francia y a quienes recuperan sus nombres para los monumentos. No es nostalgia vacía: una nación que olvida sus sacrificios pierde el sentido de lo que debe defender. La memoria merece algo más que ceremonias rutinarias; debe transmitirse a los jóvenes.\n\nMientras en Abu Dabi se habla de la seguridad europea y Europa queda relegada a un segundo plano, yo reclamo una Francia capaz de defender sus intereses sin dejar que otros decidan por ella. Las limitaciones de las sanciones contra Rusia deberían obligarnos a examinar los resultados, no a confundir gestos con estrategia. También aquí la soberanía exige responsabilidad: ante las facturas energéticas que asfixian a las familias, las élites deben responder por sus decisiones. Proteger a los franceses y preservar nuestra independencia no son consignas opuestas, sino una misma obligación."
+      "texto": "Veo con recelo cómo el presidente celebra la candidatura de Teddy Riner: Francia no necesita que el Elíseo designe a su sucesor por su notoriedad, sino un debate sobre quién devolverá al país el control de su destino. Quiero fronteras controladas, inmigración estrictamente regulada y leyes que protejan nuestra seguridad y nuestra cultura común. La decisión sueca de abrir la puerta a retirar la nacionalidad en determinados casos merece estudiarse, con garantías y sin convertir la ciudadanía en un privilegio arbitrario.\n\nEl atentado racista de Trappes me recuerda, sin embargo, que el patriotismo no puede ser una coartada para atacar a nadie por su origen o religión. Defender Francia significa proteger a todos sus ciudadanos y exigir que la justicia actúe con firmeza. Y proteger a los menores frente a aplicaciones que les exponen a contenidos sexuales violentos también debería ser una prioridad nacional."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Hoy veo una misma exigencia en noticias muy distintas: gobernar con responsabilidad significa combinar resultados y garantías.\n\nEn Ucrania, celebro que continúen las conversaciones y que se discuta un intercambio de prisioneros. Pero negociar no basta: una paz duradera necesita garantías de seguridad para Ucrania y una voz europea efectiva. También exige revisar las fallas de las sanciones, sin confundir diplomacia con concesiones automáticas.\n\nEn Francia, reducir de tres años a uno la duración máxima de la indemnización de ciertos enfermos crónicos puede aliviar costes, pero corre el riesgo de trasladarlos a personas ya vulnerables. Prefiero una reforma gradual, evaluada y negociada, que proteja a quienes no pueden trabajar. Del mismo modo, las ayudas a las empresas deben favorecer la actividad y el empleo, pero con condiciones salariales claras y aplicables. Una economía dinámica necesita reglas justas y una protección social sostenible."
+      "texto": "El atentado racista de Trappes exige una respuesta firme desde el Estado de derecho: proteger a las víctimas, investigar los hechos y rechazar cualquier intento de presentar el odio como patriotismo. Defender la igualdad ante la ley no es una concesión ideológica, sino una condición de la convivencia.\n\nTambién creo que las 5.000 plazas universitarias anunciadas son un primer paso, pero insuficiente frente a las demandas estudiantiles. Hace falta negociar una ampliación gradual, financiada y acompañada de recursos para que el acceso no sacrifique la calidad. En Ucrania, el acuerdo para intercambiar prisioneros demuestra el valor de la diplomacia, aunque no resuelva la guerra. Europa debe sostener la negociación y corregir las lagunas de sus sanciones, sin confundir la búsqueda de la paz con el abandono de la soberanía ucraniana."
     }
   ],
   "periodicos": [
@@ -42,71 +42,71 @@
       "web": "https://www.lemonde.fr",
       "noticias": [
         {
-          "titulo": "Guerre en Ukraine : à Abou Dhabi, les pourparlers russo-ukrainiens condamnés à l’impasse",
-          "entradilla": "A l’issue de la rencontre, mardi 10 novembre, le président ukrainien, Volodymyr Zelensky, a souligné un débat « constructif », quand la partie russe, rétive à l’idée d’un cessez-le-feu, est restée muette. Après huit mois de blocage, l’administration Trump s’est quand même félicitée qu’ait eu lieu la",
-          "enlace": "https://www.lemonde.fr/international/article/2026/11/11/guerre-en-ukraine-a-abu-dhabi-les-pourparlers-russo-ukrainiens-condamnes-a-l-impasse_6808927_3210.html"
+          "titulo": "Présidentielle 2027 : comment Emmanuel Macron a adoubé la candidature de Teddy Riner",
+          "entradilla": "Même s’il ne l’a pas organisée, le président de la République se réjouit de la candidature du judoka, alors qu’il n’a jamais soutenu ses anciens premiers ministres Edouard Philippe et Gabriel Attal. Il voit dans le positionnement de l’athlète des ressemblances avec sa première campagne présidentiell",
+          "enlace": "https://www.lemonde.fr/politique/article/2026/11/11/presidentielle-2027-comment-emmanuel-macron-a-adoube-la-candidature-de-teddy-riner_6809010_823448.html"
         },
         {
-          "titulo": "Etats-Unis : Pete Hegseth, défiant et offensif, échappe à une tentative de destitution au Congrès",
-          "entradilla": "Mis en cause par le républicain Thomas Massie pour huit motifs, dont la guerre en Iran et les exécutions extrajudiciaires dans les Caraïbes, le secrétaire à la défense a vivement contre-attaqué, dans un avant-goût de la bataille qu’entend lui livrer la future majorité démocrate.",
-          "enlace": "https://www.lemonde.fr/international/article/2026/11/11/etats-unis-pete-hegseth-defiant-et-offensif-echappe-a-une-tentative-de-destitution-au-congres_6808912_3210.html"
+          "titulo": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky est arrivé en Irlande, où il doit notamment s’entretenir avec les émissaires américains après les négociations à Abou Dhabi",
+          "entradilla": "« Les négociations ont été difficiles », selon Kyrylo Boudanov, chef de cabinet du président ukrainien, qui faisait partie de la délégation dépêchée à Abou Dhabi. « L’ensemble des objectifs que nous nous sommes fixés seront atteints », a pour sa part déclaré le négociateur russe Vladimir Medinski.",
+          "enlace": "https://www.lemonde.fr/international/live/2026/11/11/en-direct-guerre-en-ukraine-volodymyr-zelensky-est-arrive-en-irlande-ou-il-doit-notamment-s-entretenir-avec-les-emissaires-americains-apres-les-negociations-a-abou-dhabi_6808609_3210.html"
         },
         {
-          "titulo": "Procès des parents de la petite inconnue de l’A10 : le psychiatre Daniel Zagury ouvre la porte du huis clos familial",
-          "entradilla": "Selon le psychiatre, Halima El Bakhti a reproduit sur sa fille les maltraitances qu’elle aurait elle-même subies dans l’enfance et qu’elle nie farouchement. « Inass a été élue à l’envers comme une enfant bouc émissaire », a-t-il observé. La question d’une altération du discernement de l’accusée est ",
-          "enlace": "https://www.lemonde.fr/societe/article/2026/11/11/proces-des-parents-de-la-petite-inconnue-de-l-a10-le-psychiatre-daniel-zagury-ouvre-la-porte-du-huis-clos-familial_6808934_3224.html"
+          "titulo": "En garde à vue, Kevin Tessier, auteur de l’attentat raciste de Trappes, a déclaré « assumer » ses actes et « espérer devenir un exemple pour les Français »",
+          "entradilla": "« Le Monde » révèle les coulisses de la garde à vue de Kevin Tessier, suspecté d’avoir assassiné un homme et blessé sept personnes dans les Yvelines le 23 octobre, entre déclarations confuses, séjour en psychiatrie et revendications ouvertement racistes de son passage à l’acte.",
+          "enlace": "https://www.lemonde.fr/societe/article/2026/11/11/les-declarations-en-garde-a-vue-de-kevin-tessier-l-auteur-de-l-attentat-raciste-de-trappes-j-espere-que-je-deviendrai-un-exemple-pour-les-francais_6808986_3224.html"
         },
         {
-          "titulo": "COP31 : lors des négociations climatiques, le difficile positionnement des « bons élèves » européens",
-          "entradilla": "Le président français, Emmanuel Macron, est absent du « sommet des leaders » qui se tient mercredi et jeudi à Antalya, en Turquie. La présidente de la Commission européenne, Ursula von der Leyen, exprimera les attentes des Européens.",
-          "enlace": "https://www.lemonde.fr/planete/article/2026/11/11/cop31-lors-des-negociations-climatiques-le-difficile-positionnement-des-bons-eleves-europeens_6808929_3244.html"
+          "titulo": "Présidentielle 2027 : Jean-Luc Mélenchon, critiqué pour ses propositions sur l’Ukraine, accuse les médias d’avoir « truqué ses paroles »",
+          "entradilla": "Le candidat « insoumis » a, lors de son meeting du 7 novembre, évoqué la possibilité d’un référendum sur la cession du Donbass à la Russie pour résoudre le conflit. Le chef de file de La France insoumise a vivement répondu aux critiques mercredi 11 novembre dans un « discours sur la paix ».",
+          "enlace": "https://www.lemonde.fr/politique/article/2026/11/11/presidentielle-2027-jean-luc-melenchon-critique-pour-ses-propositions-sur-l-ukraine-accuse-les-medias-d-avoir-truque-ses-paroles_6809023_823448.html"
         },
         {
-          "titulo": "Procès de l’interpellation violente de Michel Zecler par des policiers : des vidéos accablantes et une victime toujours dans le « chaos »",
-          "entradilla": "Les images analysées au cours de l’enquête, et présentées lors du deuxième jour d’audience, mardi 10 novembre, devant la cour criminelle de Paris, montrent l’avalanche de coups portés par les trois agents sur le producteur de musique en 2020, sans répondre à toutes les questions, notamment au soupço",
-          "enlace": "https://www.lemonde.fr/societe/article/2026/11/11/affaire-michel-zecler-au-proces-des-policiers-poursuivis-pour-violences-des-videos-accablantes-et-une-victime-toujours-dans-le-chaos_6808924_3224.html"
+          "titulo": "Quatre journalistes et députés français interdits de séjour en Russie, une nouvelle étape dans la dégradation des relations entre Paris et Moscou",
+          "entradilla": "Les députés Sacha Houlié et Arthur Delaporte, ainsi que les journalistes Ariane Chemin, du « Monde », et Paul Gogo ont été ciblés « en raison de leur participation au harcèlement de Xenia Fedorova », propagandiste du Kremlin et salariée du groupe Bolloré, selon les termes du ministère russe des affa",
+          "enlace": "https://www.lemonde.fr/international/article/2026/11/11/quatre-journalistes-et-deputes-francais-interdits-de-sejour-en-russie-une-nouvelle-etape-dans-la-degradation-des-relations-entre-paris-et-moscou_6809031_3210.html"
         },
         {
-          "titulo": "Route du rhum 2026 : Corentin Horeau s’impose en Imoca, un coup de maître pour sa première participation",
-          "entradilla": "Suivant une stratégie très maîtrisée, le skippeur breton de 37 ans a remporté, dans la nuit de mardi à mercredi, la course transatlantique dans la catégorie des monocoques du Vendée Globe. Il s’offre au passage le record de l’épreuve.",
-          "enlace": "https://www.lemonde.fr/sport/article/2026/11/11/route-du-rhum-2026-corentin-horeau-s-impose-en-imoca-un-coup-de-maitre-pour-sa-premiere-participation_6808937_3242.html"
+          "titulo": "Les voitures électriques, un gouffre financier pour les assureurs",
+          "entradilla": "La réparation des véhicules électriques coûte 14 % de plus que celle des modèles thermiques. En cause : des batteries peu réparables, des dommages plus importants, des pièces détachées encore peu disponibles sur le court terme.",
+          "enlace": "https://www.lemonde.fr/economie/article/2026/11/11/les-voitures-electriques-un-gouffre-financier-pour-les-assureurs_6809004_3234.html"
         },
         {
-          "titulo": "Aux Etats-Unis, un juge refuse de rejeter la plainte pour diffamation de Donald Trump contre la BBC, permettant à la procédure de se poursuivre",
-          "entradilla": "Le président américain reproche au groupe audiovisuel public britannique d’avoir réalisé un montage vidéo trompeur de ses propos. « La question de savoir s’il a subi des dommages est remise à plus tard », lors d’un jugement sur le fond, écrit le juge.",
-          "enlace": "https://www.lemonde.fr/economie/article/2026/11/11/un-juge-americain-refuse-de-rejeter-la-plainte-pour-diffamation-de-donald-trump-contre-la-bbc-permettant-a-la-procedure-de-se-poursuivre_6808914_3234.html"
+          "titulo": "Sébastien Lecornu promet 5 000 places supplémentaires en licence en réponse à la mobilisation étudiante",
+          "entradilla": "Formalisée dans un courrier aux présidents d’université, la mesure du premier ministre reste loin des revendications des organisations étudiantes, qui réclament 250 000 places supplémentaires.",
+          "enlace": "https://www.lemonde.fr/education/article/2026/11/11/sebastien-lecornu-promet-5-000-places-supplementaires-en-licence-pour-repondre-a-la-mobilisation-etudiante_6809030_1473685.html"
         },
         {
-          "titulo": "Le journaliste Christophe Gleizes, en détention en Algérie, compose avec la routine de la vie carcérale : « Ce sont 500 jours de trop »",
-          "entradilla": "Le reporter français, condamné en juin 2025 pour « apologie du terrorisme », est incarcéré dans la prison de Koléa, l’un des plus grands établissements pénitentiaires du pays. Ses proches décrivent un homme combatif, « qui ne peut se passer d’être journaliste, même en prison ».",
-          "enlace": "https://www.lemonde.fr/international/article/2026/11/11/le-journaliste-christophe-gleizes-en-detention-en-algerie-compose-avec-la-routine-de-la-vie-carcerale-ce-sont-500-jours-de-trop_6808926_3210.html"
+          "titulo": "Israël : Gadi Eisenkot appelle Benyamin Nétanyahou à faire « preuve de retenue et de prudence » quant à de possibles nouvelles attaques en Iran",
+          "entradilla": "Chargé de former un nouveau gouvernement, le chef de l’opposition israélienne a demandé au premier ministre sortant, qui est toujours chargé des affaires courantes, de « faire preuve de responsabilité nationale », alors que M. Nétanyahou évoquait mardi la « menace nucléaire » de l’Iran.",
+          "enlace": "https://www.lemonde.fr/international/article/2026/11/11/israel-gadi-eisenkot-appelle-benyamin-netanyahou-a-faire-preuve-de-retenue-et-de-prudence-quant-a-de-possibles-nouvelles-attaques-en-iran_6809024_3210.html"
         },
         {
-          "titulo": "Au procès de l’explosion de la rue de Trévise, le témoignage éclairant d’un restaurateur et les hypothèses d’un inspecteur de la Ville de Paris",
-          "entradilla": "Le patron d’un établissement voisin s’était inquiété à la fois de l’affaissement du trottoir et des fuites d’eaux usées dans les caves. L’inspecteur chargé d’un audit de la municipalité après la catastrophe s’est, lui, interrogé sur une très longue intervention des égoutiers dans les caves en 2016, ",
-          "enlace": "https://www.lemonde.fr/societe/article/2026/11/11/au-proces-de-l-explosion-de-la-rue-de-trevise-le-temoignage-eclairant-d-un-restaurateur-et-les-hypotheses-d-un-inspecteur-de-la-ville-de-paris_6808923_3224.html"
+          "titulo": "Alexandre Dartchiev, l’ambassadeur de Russie aux Etats-Unis, est mort « soudainement » à 66 ans",
+          "entradilla": "Le diplomate avait pris ses fonctions en mars 2025 et participé au rapprochement entre la Russie et les Etats-Unis.",
+          "enlace": "https://www.lemonde.fr/international/article/2026/11/11/alexandre-dartchiev-l-ambassadeur-russe-aux-etats-unis-est-mort-soudainement-a-66-ans_6809012_3210.html"
         },
         {
-          "titulo": "Parcoursup : « La sélection n’est pas l’ennemie de l’égalité des chances »",
-          "entradilla": "Supprimer toute régulation à l’entrée de l’université revient à fabriquer des générations de jeunes sans emploi, explique le président du conseil d’orientation des politiques de jeunesse, Hugo Huet, dans une tribune au « Monde ».",
-          "enlace": "https://www.lemonde.fr/idees/article/2026/11/11/parcoursup-la-selection-n-est-pas-l-ennemie-de-l-egalite-des-chances_6808921_3232.html"
+          "titulo": "Midterms 2026 : au Texas, l’improbable victoire du démocrate Bobby Pulido, star de la musique tex-mex",
+          "entradilla": "Le chanteur américain, star de ce genre musical apprécié des Latinos, vient d’être élu dans un territoire qui avait largement voté pour Donald Trump en 2024. Jeudi 12 novembre, il est en lice pour une nouvelle récompense aux Latin Grammy Awards.",
+          "enlace": "https://www.lemonde.fr/international/article/2026/11/11/midterms-2026-aux-etats-unis-l-improbable-victoire-de-bobby-pulido-star-de-la-musique-tex-mex_6809009_3210.html"
         },
         {
-          "titulo": "Le gouvernement veut baisser la durée maximale d’indemnisation des malades atteints d’une affection de longue durée non exonérante",
-          "entradilla": "La durée maximale d’indemnisation des assurés bénéficiant de ce statut dérogatoire est réduite à un an au lieu de trois depuis le 15 octobre, dans un objectif de réduction des coûts. Au risque que les patients concernés, qui souffrent surtout de troubles musculo-squelettiques ou de santé mentale, se",
-          "enlace": "https://www.lemonde.fr/societe/article/2026/11/11/le-gouvernement-veut-baisser-la-duree-maximale-d-indemnisation-des-malades-atteints-d-une-affection-de-longue-duree-non-exonerante_6808938_3224.html"
+          "titulo": "De la fuite d’Hitler en soucoupe volante au mythe des Illuminati, un essai plonge dans les croyances irrationnelles de l’extrême droite",
+          "entradilla": "Dans son livre « Irrationnelle. La longue histoire de l’extrême droite avec l’irrationalisme », le politiste et historien Stéphane François revient sur le rôle central de l’ésotérisme dans les cultures politiques d’extrême droite.",
+          "enlace": "https://www.lemonde.fr/idees/article/2026/11/11/de-la-fuite-d-hitler-en-soucoupe-volante-au-mythe-des-illuminati-un-essai-plonge-dans-les-croyances-irrationnelles-de-l-extreme-droite_6809017_3232.html"
         },
         {
-          "titulo": "En Colombie, le Prix Nobel de la paix Juan Manuel Santos reproche au président d’exhiber des cadavres « avec fierté »",
-          "entradilla": "Abelardo de la Espriella a promis « la tombe ou la prison » aux criminels qui se financent par le trafic de drogue, l’extorsion et l’exploitation minière illégale. Le dirigeant d’extrême droite a pour habitude de rendre compte d’opérations meurtrières dans des vidéos où il apparaît aux côtés de corp",
-          "enlace": "https://www.lemonde.fr/international/article/2026/11/11/en-colombie-le-prix-nobel-de-la-paix-juan-manuel-santos-reproche-au-president-d-exhiber-des-cadavres-avec-fierte_6808936_3210.html"
+          "titulo": "En Suède, le Parlement ouvre la voie à la déchéance de nationalité des binationaux",
+          "entradilla": "Cette révision constitutionnelle vise les citoyennetés obtenues par fraude ou les personnes condamnées pour des crimes portant gravement atteinte aux « intérêts vitaux » du pays, mais ses modalités restent à définir par le prochain gouvernement.",
+          "enlace": "https://www.lemonde.fr/international/article/2026/11/11/en-suede-le-parlement-ouvre-la-voie-a-la-decheance-de-nationalite-des-binationaux_6809021_3210.html"
         }
       ],
       "analisis": {
-        "resumen": "- Las conversaciones entre Rusia y Ucrania en Abu Dabi siguen bloqueadas, pese a un debate que Zelenski calificó de constructivo.\n- En Estados Unidos, Pete Hegseth evita una tentativa de destitución y la demanda de Donald Trump contra la BBC sigue adelante.\n- Varios procesos judiciales ocupan la portada, entre ellos los relativos a la detención violenta de Michel Zecler, la muerte de una niña y la explosión de la calle de Trévise.\n- La COP31, la reducción de prestaciones por enfermedad prolongada y una tribuna a favor de la selección universitaria centran otras noticias.\n- También se informa sobre el periodista Christophe Gleizes, preso en Argelia; las críticas de Juan Manuel Santos al presidente colombiano; y la victoria de Corentin Horeau en la Route du Rhum.",
+        "resumen": "- Macron celebra la candidatura presidencial de Teddy Riner para 2027; Mélenchon responde a las críticas por sus propuestas sobre Ucrania.\n- Zelenski llega a Irlanda tras las negociaciones sobre la guerra; Rusia prohíbe la entrada a dos diputados y dos periodistas franceses.\n- El sospechoso del atentado racista de Trappes declara que asume sus actos; se le atribuyen un asesinato y siete heridos.\n- El primer ministro francés promete 5.000 plazas universitarias adicionales, frente a las 250.000 reclamadas por organizaciones estudiantiles.\n- La portada aborda el coste de reparar coches eléctricos, la tensión entre Israel e Irán, la política de Suecia sobre la nacionalidad y otros asuntos internacionales y culturales.",
         "populismo": 18,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «vídeos abrumadores», «caos» o «condenadas al estancamiento» aportan dramatismo, sin una apelación generalizada al pueblo contra las élites.",
-        "sesgo": "La selección prioriza la actualidad internacional, los procesos judiciales y las consecuencias sociales de las decisiones públicas. Se aprecia una atención crítica a actuaciones políticas y policiales, y se incluye una tribuna favorable a la selección universitaria."
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «agujero financiero» y «consagró la candidatura» aportan cierto énfasis; no se aprecia una apelación general al pueblo contra las élites.",
+        "sesgo": "La selección prioriza la política francesa y los conflictos internacionales, con atención a Rusia y Ucrania. Se aprecia un encuadre crítico hacia algunas actuaciones rusas, pero la selección no permite identificar una orientación partidista clara."
       }
     },
     {
@@ -114,14 +114,34 @@
       "web": "https://www.lefigaro.fr",
       "noticias": [
         {
-          "titulo": "Le secrétaire américain à la Défense Pete Hegseth échappe à la destitution, Trump salue «un grand patriote»",
-          "entradilla": "La procédure de destitution à l’encontre du secrétaire américain de la Défense, Pete Hegseth, a été tuée dans l’œuf par les députés républicains, qui offrent là un précieux répit au chef du Pentagone avant l’installation d’un Congrès à majorité démocrate en janvier.",
-          "enlace": "https://www.lefigaro.fr/international/etats-unis-le-secretaire-d-etat-a-la-defense-pete-hegseth-qualifie-la-procedure-de-destitution-contre-lui-de-farce-20261110"
+          "titulo": "«J’ai fait ce que j’avais à faire» : face aux enquêteurs et au psychiatre, les divagations racistes et la froide détermination du suspect de l’attentat de Trappes",
+          "entradilla": "ENQUÊTE - Après ses revendications ouvertement racistes en garde à vue, Kevin Tessier a adopté un comportement à la fois détaché, provocant et confus. Le Figaro lève le voile sur la trajectoire de cet homme suspecté d’avoir tué un homme et blessé sept autres personnes.",
+          "enlace": "https://www.lefigaro.fr/faits-divers/j-ai-fait-ce-que-j-avais-a-faire-face-aux-enqueteurs-et-au-psychiatre-les-divagations-racistes-et-la-froide-determination-de-kevin-tessier-20261111"
         },
         {
-          "titulo": "Thomas Massie, le député républicain rebelle qui voulait sa revanche contre Trump",
-          "entradilla": "PORTRAIT - En poussant une procédure de destitution contre le secrétaire à la Défense, Pete Hegseth, ce représentant libertarien atypique s’est opposé une ultime fois au président américain, sans succès.",
-          "enlace": "https://www.lefigaro.fr/international/thomas-massie-le-depute-republicain-rebelle-qui-voulait-sa-revanche-contre-trump-20261111"
+          "titulo": "Attentat raciste dans les Yvelines: «aucun élément» n'étaie «l'existence d'un projet d'action violente» contre les personnalités de gauche listées par Kévin Tessier",
+          "entradilla": "Un papier listant les noms du député LFI David Guiraud, de la militante Assa Traoré et des députés écologistes Aymeric Caron et Sandrine Rousseau a été retrouvé au domicile de l’auteur de l’attentat, qui a fait un mort et sept blessés graves.",
+          "enlace": "https://www.lefigaro.fr/faits-divers/attentat-raciste-dans-les-yvelines-aucun-element-n-etaie-l-existence-d-un-projet-d-action-violente-contre-les-personnalites-de-gauche-listees-par-kevin-tessier-20261111"
+        },
+        {
+          "titulo": "«Je suis mort depuis mes 5 ans» : les lettres retrouvées dans la cellule du suspect de l’attentat de Trappes après sa tentative de suicide",
+          "entradilla": "INFO LE FIGARO - Après la tentative de suicide de Kevin Tessier, deux lettres manuscrites ont été découvertes dans la cellule de l’auteur présumé de l’attentat raciste de Trappes. Le Figaro les a consultées.",
+          "enlace": "https://www.lefigaro.fr/faits-divers/je-suis-mort-depuis-mes-5-ans-les-lettres-retrouvees-dans-la-cellule-du-suspect-de-l-attentat-de-trappes-apres-sa-tentative-de-suicide-20261111"
+        },
+        {
+          "titulo": "«J’agis pour la France»: l'auteur de l'attentat raciste des Yvelines dit avoir agi par patriotisme",
+          "entradilla": "Kévin Tessier a reconnu en garde à vue avoir «choisi les personnes sur lesquelles (il a) tiré en fonction de leur ethnie ou de leur religion». Son attaque a fait un mort et sept blessés à Trappes et La Verrière (Yvelines).",
+          "enlace": "https://www.lefigaro.fr/faits-divers/j-agis-pour-la-france-l-auteur-de-l-attentat-raciste-des-yvelines-dit-avoir-agi-par-patriotisme-20261111"
+        },
+        {
+          "titulo": "Guerre en Ukraine : les négociations d’Abu Dhabi mises en échec par l’intransigeance russe",
+          "entradilla": "Les médiateurs américains vont rencontrer jeudi Vladimir Poutine puis Volodymyr Zelensky. Mais aucune percée diplomatique n’a été annoncée.",
+          "enlace": "https://www.lefigaro.fr/international/guerre-en-ukraine-les-negociations-d-abu-dhabi-mises-en-echec-par-l-intransigeance-russe-20261111"
+        },
+        {
+          "titulo": "Guerre en Ukraine: les émissaires américains vont rencontrer Poutine en Russie, puis Zelensky en Irlande",
+          "entradilla": "Après deux jours de négociations directes entre Russes et Ukrainiens à Abou Dhabi, les deux camps ont convenu d’un échange de prisonniers.",
+          "enlace": "https://www.lefigaro.fr/international/guerre-en-ukraine-les-emissaires-americains-vont-rencontrer-poutine-en-russie-puis-zelensky-en-irlande-20261111"
         },
         {
           "titulo": "Face à la Russie, les sanctions européennes montrent encore leurs limites",
@@ -129,56 +149,36 @@
           "enlace": "https://www.lefigaro.fr/international/face-a-la-russie-les-sanctions-europeennes-montrent-encore-leurs-limites-20261110"
         },
         {
-          "titulo": "Guerre en Ukraine : Zelensky salue le changement d’approche de Washington et réclame des garanties de sécurité",
-          "entradilla": "Kiev et Moscou ont entamé mardi à Abou Dhabi des pourparlers sous médiation américaine avec l’espoir de progresser vers un règlement du conflit.",
-          "enlace": "https://www.lefigaro.fr/international/guerre-en-ukraine-zelensky-salue-le-changement-d-approche-de-washington-et-reclame-des-garanties-de-securite-20261111"
+          "titulo": "Présidentielle 2027 : Christine Lagarde créditée de 14% au premier tour si elle est candidate",
+          "entradilla": "La présidente démissionnaire de la BCE, qui quittera ses fonctions début février, n’avait jusqu’ici jamais été testée par un institut de sondage.",
+          "enlace": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-christine-lagarde-creditee-de-14-au-premier-tour-si-elle-est-candidate-20261111"
         },
         {
-          "titulo": "À Abu Dhabi, les États-Unis s’entendent avec la Russie pour discuter de la sécurité européenne",
-          "entradilla": "RÉCIT - À l’issue d’une première journée de négociations entre la Russie et l’Ukraine, sous l’égide américaine, le président ukrainien, Volodymyr Zelensky, a jugé les discussions substantielles. Les Européens doivent quant à eux se contenter d’un second rôle.",
-          "enlace": "https://www.lefigaro.fr/international/a-abu-dhabi-les-etats-unis-s-entendent-avec-la-russie-pour-discuter-de-la-securite-europeenne-20261110"
+          "titulo": "« C’est la crucifixion » : à six mois de sa fin de mandat, le violent crépuscule d’Emmanuel Macron",
+          "entradilla": "RÉCIT - Impopularité record, bilan conspué de toutes parts, anciens soutiens qui se détournent… Alors qu’il cherche à peser sur la présidentielle, le chef de l’État est devenu inaudible. Ses derniers partisans serrent les dents, espérant une réhabilitation après 2027.",
+          "enlace": "https://www.lefigaro.fr/politique/c-est-la-crucifixion-a-six-mois-de-sa-fin-de-mandat-le-violent-crepuscule-d-emmanuel-macron-20261111"
         },
         {
-          "titulo": "« Ils lâchent des chiens pour qu’ils vous mordent » : le récit effroyable d’Arslan Annaiev, soldat ukrainien, ancien prisonnier en Russie",
-          "entradilla": "TÉMOIGNAGE - Engagé dans la 115e brigade territoriale, le soldat a été fait prisonnier en mai 2023 près de Svatove. Il a été libéré en juillet 2025. Pour Le Figaro, l’homme de 34 ans raconte les horreurs qu’il a vécues pendant deux ans.",
-          "enlace": "https://www.lefigaro.fr/international/ils-lachent-des-chiens-pour-qu-ils-vous-mordent-le-recit-effroyable-d-arslan-annaiev-soldat-ukrainien-ancien-prisonnier-en-russie-20261110"
+          "titulo": "L’éditorial d’Yves Thréard : « Le fascisme a changé de camp »",
+          "entradilla": "Ce climat robespierriste, délétère et mortifère, a des artificiers, et le mauvais exemple vient d’en haut. Tous les meneurs, ou presque, de la colère lycéenne sont encouragés dans leur activisme par l’extrême gauche et LFI.",
+          "enlace": "https://www.lefigaro.fr/vox/societe/l-editorial-d-yves-threard-le-fascisme-a-change-de-camp-20261111"
         },
         {
-          "titulo": "Au procès des parents de la martyre de l’A10, les «démons» d’une mère «consumée de l’intérieur»",
-          "entradilla": "RÉCIT D’AUDIENCE – Devant la cour d’assises de Blois, les expertises psychiatriques et de nouveaux témoignages livrent un éclairage inédit sur l’histoire familiale de l’accusée, Halima El Bakhti.",
-          "enlace": "https://www.lefigaro.fr/faits-divers/au-proces-des-parents-de-la-martyre-de-l-a10-les-demons-d-une-mere-consumee-de-l-interieur-20261111"
+          "titulo": "Colère lycéenne: Sébastien Lecornu formalise la création de 5000 places supplémentaires en licence",
+          "entradilla": "Le premier ministre a annoncé cette mesure dans un courrier transmis aux universités.",
+          "enlace": "https://www.lefigaro.fr/politique/colere-lyceenne-sebastien-lecornu-formalise-la-creation-de-5000-places-supplementaires-en-licence-20261111"
         },
         {
-          "titulo": "«Succès à tout prix, argent, obsession de l’apparence, quête effrénée du plaisir» : Léon XIV dénonce les «idoles de notre temps»",
-          "entradilla": "Devant un million de jeunes argentins réunis mardi soir à Buenos Aires, le pape a renouvelé son appel à la «sainteté». Il quitte l’Argentine ce mercredi pour le Pérou, dernière étape de son périple en Amérique latine.",
-          "enlace": "https://www.lefigaro.fr/actualite-france/succes-a-tout-prix-argent-obsession-de-l-apparence-quete-effrenee-du-plaisir-leon-xiv-denonce-les-idoles-de-notre-temps-20261111"
-        },
-        {
-          "titulo": "Présidentielle 2027 : 22 % des électeurs seraient «prêts» à voter pour Teddy Riner, selon un sondage Ifop",
-          "entradilla": "Le quintuple champion olympique de judo jouit également d’une «bonne opinion» chez 70 % des Français.",
-          "enlace": "https://www.lefigaro.fr/elections/presidentielles/22-des-electeurs-seraient-prets-a-voter-pour-teddy-riner-en-2027-selon-un-sondage-ifop-20261110"
-        },
-        {
-          "titulo": "Ni droite ni gauche, réseaux, encouragements d’Emmanuel Macron : derrière la candidature de Teddy Riner, l’ombre du camp présidentiel",
-          "entradilla": "DÉCRYPTAGE - Si le chef de l’État a comparé la candidature du judoka à l’élection présidentielle à sa propre démarche en 2017, ses proches démentent toute implication.",
-          "enlace": "https://www.lefigaro.fr/elections/presidentielles/ni-droite-ni-gauche-reseaux-encouragements-d-emmanuel-macron-derriere-la-candidature-de-teddy-riner-l-ombre-du-camp-presidentiel-20261110"
-        },
-        {
-          "titulo": "Guillaume Tabard : « Teddy Riner candidat à la présidentielle, offre politique nouvelle ou grosse ficelle de communication »",
-          "entradilla": "CONTRE-POINT - Le judoka peut croire que sa popularité est un atout que les autres n’ont pas. Mais ce qui fait la force consensuelle d’un champion sportif est d’être aimé des Français parce qu’il fédère par-delà les sensibilités politiques.",
-          "enlace": "https://www.lefigaro.fr/elections/presidentielles/guillaume-tabard-teddy-riner-candidat-a-la-presidentielle-offre-politique-nouvelle-ou-grosse-ficelle-de-communication-20261110"
-        },
-        {
-          "titulo": "Voile dans le sport, taxation des sociétés, santé mentale… Ces fois où Teddy Riner s’est immiscé dans le débat politique",
-          "entradilla": "Candidat à l’élection présidentielle, le judoka de 37 ans n’a pas attendu cet automne 2026 pour prendre position sur les sujets qui lui tiennent à cœur, en parallèle de sa carrière sur les tatamis.",
-          "enlace": "https://www.lefigaro.fr/elections/presidentielles/candidats/voile-dans-le-sport-taxation-des-societes-sante-mentale-ces-fois-ou-teddy-riner-s-est-immisce-dans-le-debat-politique-20261110"
+          "titulo": "«Il ne reste plus que les murs»: en Meurthe-et-Moselle, un château ravagé par les flammes",
+          "entradilla": "Aucune victime n’est à déplorer. Les causes du sinistre sont inconnues à ce jour, selon la maire du village. Le château avait été acquis récemment par un nouveau propriétaire.",
+          "enlace": "https://www.lefigaro.fr/actualite-france/il-ne-reste-plus-que-les-murs-en-meurthe-et-moselle-un-chateau-ravage-par-les-flammes-20261111"
         }
       ],
       "analisis": {
-        "resumen": "- Los republicanos frenan la destitución de Pete Hegseth, impulsada por el congresista Thomas Massie.\n- Las negociaciones sobre Ucrania avanzan bajo mediación estadounidense, mientras se señalan los límites de las sanciones europeas y el papel secundario de Europa.\n- Un antiguo prisionero ucraniano relata los abusos que sufrió en Rusia.\n- Varias noticias examinan la candidatura presidencial de Teddy Riner, su popularidad, sus posiciones y sus posibles vínculos con el entorno de Macron.\n- La portada también aborda el juicio por la muerte de una niña y el mensaje del papa a jóvenes argentinos.",
-        "populismo": 25,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «relato espantoso», «mártir» y «gran truco de comunicación» aportan carga emocional o sensacionalista; no se aprecia una apelación sostenida al pueblo contra las élites.",
-        "sesgo": "La portada presta especial atención a la guerra de Ucrania desde las perspectivas ucraniana y europea, y destaca las limitaciones de Europa. Sobre Teddy Riner, combina datos de popularidad con un examen crítico de su candidatura y de sus posibles apoyos políticos."
+        "resumen": "- El atentado racista de Trappes ocupa varios titulares sobre el sospechoso, sus declaraciones y las cartas halladas en su celda.\n- Las negociaciones sobre Ucrania no logran avances diplomáticos, aunque Rusia y Ucrania acuerdan un intercambio de prisioneros.\n- Un informe señala las limitaciones de las sanciones europeas contra Rusia.\n- Una encuesta sitúa a Christine Lagarde en el 14 % en una hipotética primera vuelta de 2027; otra noticia aborda la impopularidad de Emmanuel Macron.\n- La portada recoge la protesta estudiantil, el anuncio de 5.000 plazas universitarias y el incendio de un castillo sin víctimas.",
+        "populismo": 40,
+        "motivo_populismo": "Alternan titulares informativos con expresiones dramáticas o descalificadoras como «la crucifixión», «violento crepúsculo» y «el fascismo ha cambiado de bando».",
+        "sesgo": "La portada dedica especial atención al atentado racista y a las dificultades políticas de Macron. El editorial adopta un enfoque marcadamente crítico con la extrema izquierda y LFI, a las que vincula con la protesta estudiantil."
       }
     },
     {
@@ -186,71 +186,71 @@
       "web": "https://www.liberation.fr",
       "noticias": [
         {
-          "titulo": "Pétition contre CNews classée sans suite : l’occasion manquée des députés",
-          "entradilla": "Si ce n’est évidemment pas aux parlementaires de décider si une chaîne de télévision à le droit d’exister, ils auraient pu débattre de la bonne application des lois sur l’Arcom ou celles qui encadrent la liberté d’expression.",
-          "enlace": "https://www.liberation.fr/politique/petition-contre-cnews-classee-sans-suite-loccasion-manquee-des-deputes-20261111_GYQYWRYHRFF5DIE5OI4W4RJPQI/"
+          "titulo": "Présidentielle 2027 : Edouard Philippe fait la course entêté",
+          "entradilla": "Désormais dépassé par Jean-Luc Mélenchon dans les sondages, le candidat Horizons se dit toujours fermement opposé à l’idée de participer à une primaire de la droite et du centre. Le maire du Havre, qui multiplie les déplacements à travers la France, reste cramponné à sa stratégie d’intransigeance.",
+          "enlace": "https://www.liberation.fr/politique/elections/presidentielle-2027-edouard-philippe-fait-la-course-entete-20261111_WLI24ITDQZDDXNWRBU75PXUOGI/"
         },
         {
-          "titulo": "Conditionnement des aides aux entreprises : derrière la victoire syndicale, un décret aux effets limités",
-          "entradilla": "Au lendemain de la conférence sociale, le gouvernement a publié, mardi 10 novembre, un décret qui revoit le calcul des exonérations de cotisations pour les branches ayant des minima salariaux inférieurs au smic. Mais avec plusieurs moyens d’éviter la sanction.",
-          "enlace": "https://www.liberation.fr/economie/social/conditionnement-des-aides-aux-entreprises-derriere-la-victoire-syndicale-un-decret-aux-effets-limites-20261111_YO7WG3JOOZF43CYLEP4WCCMHQE/"
+          "titulo": "Présidentielle 2027 : chez Teddy Riner, c’est la parole très à droite qui fait peur",
+          "entradilla": "L’analyse linguistique de la vidéo postée lundi par le champion de judo pour annoncer sa candidature à la présidence de la république révèle, sous le vernis du novice hors système, son ancrage populiste paternaliste et autoritaire, s’inquiète notre chroniqueuse.",
+          "enlace": "https://www.liberation.fr/idees-et-debats/tribunes/presidentielle-2027-chez-teddy-riner-cest-la-parole-tres-a-droite-qui-fait-peur-20261111_OE3UN5N2KVBDHJQPVYBEPOLPDA/"
         },
         {
-          "titulo": "500 jours de détention de Christophe Gleizes : «Nous n’oublions pas notre confrère»",
-          "entradilla": "Plus de quarante sociétés de journalistes apportent leur soutien au reporter, emprisonné en Algérie depuis 500 jours.",
-          "enlace": "https://www.liberation.fr/idees-et-debats/tribunes/500-jours-de-detention-de-christophe-gleizes-nous-noublions-pas-notre-confrere-20261110_A4HTBJQMMNHJNLQNKEZLLSFLQM/"
+          "titulo": "Dominique Sopo : «Il y a une tolérance glissante et un silence honteux, même au sein de la gauche, face au racisme»",
+          "entradilla": "Le président de SOS Racisme, dont le livre «le Racisme tue toujours» est publié ce jeudi 12 novembre, s’est longuement posé avec «Libération» pour évoquer la lutte contre les idées xénophobes.",
+          "enlace": "https://www.liberation.fr/societe/dominique-sopo-il-y-a-une-tolerance-glissante-et-un-silence-honteux-meme-au-sein-de-la-gauche-face-au-racisme-20261111_LWYKRASLUBAP5AZY3B5QWRBPBU/"
         },
         {
-          "titulo": "Christophe Gleizes en détention : 500 jours loin des siens",
-          "entradilla": "Alors que le journaliste est détenu en Algérie depuis juin 2025 pour «apologie du terrorisme», «Libération» publie deux lettres, écrites à deux ans d’intervalle, entre lui et son frère.",
-          "enlace": "https://www.liberation.fr/international/afrique/christophe-gleizes-en-detention-500-jours-loin-des-siens-20261108_5LPRSE55CRAQVLRMFSX4ULXT5M/"
+          "titulo": "«Françoise Dolto» d’Emmanuelle Loyer : une vie à l’écoute",
+          "entradilla": "Dans une biographie très complète, l’historienne retrace la vie de la psychanalyste, de sa relation conflictuelle avec sa mère à ses apports à la discipline, en passant par ses amitiés controversées sous l’Occupation.",
+          "enlace": "https://www.liberation.fr/culture/livres/francoise-dolto-demmanuelle-loyer-une-vie-a-lecoute-20261111_XAYGK5NRTJFXJGXU36UJZALN5A/"
         },
         {
-          "titulo": "Championnats du monde de surf : les médaillés de Paris 2024 planchent déjà sur les prochains Jeux",
-          "entradilla": "Du 7 au 15 novembre se tiennent au Pérou les championnats du monde de surf. Ils lancent le début de la course olympique, avec l’attribution de deux quotas supplémentaires pour Los Angeles 2028, que lorgnent Johanne Defay et Kauli Vaast.",
-          "enlace": "https://www.liberation.fr/sports/jeux-olympiques/championnats-du-monde-de-surf-les-medailles-de-paris-2024-planchent-deja-sur-les-prochains-jeux-20261111_MYFDKH4NTVDR5GGH2RK6ZSFPJA/"
+          "titulo": "«VU va fermer mais d’autres vont suivre» : comment l’IA accélère le déclin des agences photos à taille humaine",
+          "entradilla": "Dans l’univers fortement concurrentiel du tout image, où les tarifs sont sans cesse revus à la baisse, l’intelligence artificielle vient donner le coup de grâce à cet écosystème artisanal qui soutenait la production et facilitait la rémunératrice revente des clichés.",
+          "enlace": "https://www.liberation.fr/culture/photographie/vu-va-fermer-mais-dautres-vont-suivre-comment-lia-accelere-lagonie-des-agences-photos-a-taille-humaine-20261111_YYELU563U5FM5HH2NIDDWCB44M/"
         },
         {
-          "titulo": "Les démocrates ont deux ans pour désintoxiquer les Américains du poison populiste Maga",
-          "entradilla": "Pour l’emporter en 2028, leur candidat·e devra attirer la majorité modérée de l’électorat qui rejette Trump, mais redoute surtout l’instabilité, la division et la fin de l’ «American way of life», tout en mobilisant sur sa gauche la jeunesse progressiste.",
-          "enlace": "https://www.liberation.fr/idees-et-debats/tribunes/les-democrates-ont-deux-ans-pour-desintoxiquer-les-americains-du-poison-populiste-maga-20261111_BMB4JXMYSVGNDK5VRGATIGT4KQ/"
+          "titulo": "Nina Meurisse, comédienne : féroce tranquille",
+          "entradilla": "Prudente face à la notion d’artiste engagée, l’actrice déploie douceur et convictions fortes dans des rôles de plus en plus remarqués.",
+          "enlace": "https://www.liberation.fr/portraits/nina-meurisse-comedienne-feroce-tranquille-20261111_BTVILISPE5DTTLUK36DW4ZEHIU/"
         },
         {
-          "titulo": "«Je veux regarder cet endroit comme un espace de vie» : à Marseille, une maison commune érigée sur le site des effondrements de la rue d’Aubagne",
-          "entradilla": "Huit ans après la tragédie qui a coûté la vie à huit personnes, un équipement géré par la mairie a été inauguré dans le quartier de Noailles. Un lieu de «mémoire et d’écoute».",
-          "enlace": "https://www.liberation.fr/societe/logement/je-veux-regarder-cet-endroit-comme-un-espace-de-vie-a-marseille-une-maison-commune-erigee-sur-le-site-des-effondrements-de-la-rue-daubagne-20261111_J4IWAZSEQNCUJEKMO5WAGAIF5Q/"
+          "titulo": "Epidémie de rougeole aux Etats-Unis : après les fake news de Trump sur le vaccin, la résurgence d’une maladie éradiquée",
+          "entradilla": "En raison de la baisse de la couverture vaccinale et de la défiance de l’administration américaine envers les injections, le pays a déjà enregistré une explosion des cas de cette infection grave et très contagieuse en 2026. L’OMS examine cette semaine la situation épidémique locale.",
+          "enlace": "https://www.liberation.fr/societe/sante/epidemie-de-rougeole-aux-etats-unis-apres-les-fake-news-de-trump-sur-le-vaccin-la-resurgence-dune-maladie-eradiquee-20261111_CZ46AWXTKFAMBHTDEY6DZ4C5V4/"
         },
         {
-          "titulo": "Ce jeu vidéo qui a changé ma vie : «Le jour, j’arrive à vivre mon deuil, mais le soir c’est toujours très dur»",
-          "entradilla": "Dans le troisième épisode de notre série, Adrien raconte comment le RPG «Elden Ring» a rythmé ses journées lors d’un arrêt maladie longue durée, puis du deuil de ses parents.",
-          "enlace": "https://www.liberation.fr/lifestyle/ce-jeu-video-qui-a-change-ma-vie-le-jour-jarrive-a-vivre-mon-deuil-mais-le-soir-cest-toujours-tres-dur-20261111_662EICBB55CRXFDZIYXPQPGVDI/"
+          "titulo": "En Espagne, la grève générale pour le droit au logement attire les foules",
+          "entradilla": "Le mouvement, soutenu par le gouvernement de gauche, a réuni des dizaines de milliers de personnes ce mercredi 11 novembre et provoqué la colère des droites, qui dénoncent une pression pour les priver d’une victoire lors des législatives du 29 novembre.",
+          "enlace": "https://www.liberation.fr/international/europe/en-espagne-la-greve-generale-pour-le-droit-au-logement-attire-les-foules-20261111_2W64YTAVANCRHEXZJMUXFZ4AUY/"
         },
         {
-          "titulo": "«Infirmary», «Everytime», «Izolyatsia» ... Nos critiques des sorties cinéma de la semaine",
-          "entradilla": "«Libé» vous guide dans les sorties cinéma de ce mercredi 11 novembre avec aussi «Ce qui nous mène à toi», «The Good Boy», «15/18»... Bandes-annonces à l’appui.",
-          "enlace": "https://www.liberation.fr/culture/cinema/infirmary-everytime-izolyatsia-nos-critiques-des-sorties-cinema-de-la-semaine-20261111_4IHMNMI4SVAOZLPVS2MRSOTXPU/"
+          "titulo": "Des arcanes de l’Elysée à la présidence chaotique du Mucem, Pierre-Olivier Costa, un fidèle des Macron en pleine tourmente",
+          "entradilla": "L’ex-directeur de cabinet de la première dame, parachuté en 2022 à la tête du musée marseillais fait l’objet d’accusations de «harcèlement sexuel et moral», qui ont conduit à son retrait puis à sa réintégration récente, à la fureur des agents. Enquête sur un proche embarrassant du couple élyséen qui",
+          "enlace": "https://www.liberation.fr/culture/des-arcanes-de-lelysee-a-la-presidence-chaotique-du-mucem-pierre-olivier-costa-un-fidele-des-macron-en-pleine-tourmente-20261111_S3535OAMEFB7DMAKFVHD4SIMJA/"
         },
         {
-          "titulo": "Procès de l’agression de Michel Zecler : «Ils sont rentrés et ils se sont déchaînés, ils m’ont lynché»",
-          "entradilla": "Le producteur de musique s’est exprimé longuement, mardi 10 novembre, au deuxième jour du procès des trois policiers accusés de «violences volontaires» et «faux en écriture publique».",
-          "enlace": "https://www.liberation.fr/societe/police-justice/proces-de-lagression-de-michel-zecler-ils-sont-rentres-et-ils-se-sont-dechaines-ils-mont-lynche-20261110_N56FKXO7YZA2TCMAP5EL57SKZ4/"
+          "titulo": "Des vidéos «dramas» sur les réseaux sociaux au premier film 100 % par IA, la bascule dans une nouvelle ère des industries culturelles chinoises",
+          "entradilla": "Pendant deux semaines, «Libération» a sillonné la Chine pour raconter la place de l’IA dans ce pays pionnier. Dans le cinquième épisode de notre série, entre cité antique et slop à tout va, comment les nouvelles technologies transforment le cinéma chinois.",
+          "enlace": "https://www.liberation.fr/economie/economie-numerique/des-videos-dramas-sur-les-reseaux-sociaux-au-premier-film-100-par-ia-la-bascule-dans-une-nouvelle-ere-des-industries-culturelles-chinoises-20261111_TXY6Z47LXBE3TBMNGKX7B5MP7I/"
         },
         {
-          "titulo": "Monsieur Mélenchon, depuis l’Ukraine, j’ai écouté vos mots avec attention…",
-          "entradilla": "En s’appuyant sur des propos de Volodymyr Zelensky pour justifier sa vision sur le Donbass, samedi 7 novembre, au Bourget, le leader de LFI se trompe et fait écho aux positions du Kremlin.",
-          "enlace": "https://www.liberation.fr/politique/elections/monsieur-melenchon-depuis-lukraine-jai-ecoute-vos-mots-avec-attention-20261110_P4WNSFKNXNDP5JUYHXCQSHWGQQ/"
+          "titulo": "En Gironde, le dispositif «l’Ecole autrement» fait classe hors les murs : «C’est très beau de les voir progresser à leur rythme»",
+          "entradilla": "Depuis un an, le Centre départemental de l’enfance et de la famille de Gironde expérimente un nouveau dispositif visant à redonner le goût d’apprendre à des enfants aux parcours chaotiques, qui ne trouvent plus leur place dans le monde scolaire ordinaire. Sur place ou dans une classe mobile, ce trav",
+          "enlace": "https://www.liberation.fr/societe/en-gironde-le-dispositif-lecole-autrement-fait-classe-hors-les-murs-cest-tres-beau-de-les-voir-progresser-a-leur-rythme-20261111_PDAS6RZTT5BEBEXOUXIXVD2IBA/"
         },
         {
-          "titulo": "Au cinéma, les dresseurs montrent patte blanche",
-          "entradilla": "Encore mal connu du grand public, ce métier de l’ombre se transforme avec une nouvelle génération de professionnels attentifs au bien-être animal. De «Bac Nord» à «Anatomie d’une chute», la profession crée son propre cadre éthique.",
-          "enlace": "https://www.liberation.fr/culture/cinema/au-cinema-les-dresseurs-montrent-patte-blanche-20261111_SBGEPOMXXVDSBO2BZBYV6XVBB4/"
+          "titulo": "Porno, glamourisation de l’inceste et du viol : pourquoi l’IA de Tipsy Chat, accessible aux mineurs, inquiète",
+          "entradilla": "L’application, qui s’attaque au marché français grâce aux influenceurs, met en relation des utilisateurs avec des personnages de fiction aux pratiques et aux discours sexuels violents, sans vraie vérification d’âge.",
+          "enlace": "https://www.liberation.fr/lifestyle/hightech/porno-glamourisation-de-linceste-et-du-viol-pourquoi-lia-de-tipsy-chat-accessible-aux-mineurs-inquiete-20261111_LP2TIHLK7NBQBP72MV3UH5AOFU/"
         }
       ],
       "analisis": {
-        "resumen": "- La petición contra CNews se archiva sin que los diputados debatan la regulación audiovisual.\n- Un decreto sobre ayudas a empresas presenta vías para evitar sanciones, pese a la victoria sindical.\n- Más de cuarenta sociedades de periodistas apoyan a Christophe Gleizes, detenido en Argelia desde hace 500 días.\n- La portada aborda la estrategia demócrata frente a MAGA, critica la postura de Mélenchon sobre el Donbás y recoge el testimonio de Michel Zecler en el juicio por su agresión.\n- También trata el surf, la memoria de los derrumbes de Marsella, los videojuegos, el cine y el bienestar animal.",
+        "resumen": "- Presidenciales de 2027: Philippe mantiene su estrategia, mientras una columnista critica el discurso de Teddy Riner.\n- Racismo y vivienda: entrevista al presidente de SOS Racisme y huelga general en España por el derecho a la vivienda.\n- La IA transforma las industrias culturales chinas, agrava la crisis de las agencias fotográficas y suscita preocupación por los contenidos de Tipsy Chat accesibles a menores.\n- Un brote de sarampión en Estados Unidos coincide con la caída de la vacunación; en Francia, Pierre-Olivier Costa afronta acusaciones de acoso.\n- La portada incluye una biografía de Françoise Dolto, un perfil de la actriz Nina Meurisse y un proyecto educativo alternativo en Gironda.",
         "populismo": 35,
-        "motivo_populismo": "Destaca el lenguaje combativo de «desintoxicar» del «veneno populista MAGA», aunque otros titulares son informativos y las expresiones emotivas sobre Zecler y Gleizes recogen testimonios o muestras de apoyo.",
-        "sesgo": "La selección presta atención a los derechos laborales, la libertad de prensa y la violencia policial. En política, muestra un enfoque crítico hacia MAGA y hacia la postura de Mélenchon sobre el Donbás."
+        "motivo_populismo": "Expresiones como «silencio vergonzoso», «golpe de gracia» o «explosión de casos» aportan carga emocional y dramatismo, aunque no predomina una apelación al pueblo contra las élites.",
+        "sesgo": "La selección y la redacción muestran sensibilidad hacia el antirracismo, el derecho a la vivienda y la educación inclusiva, junto con un enfoque crítico hacia la derecha, Trump y un allegado de los Macron. Algunas valoraciones se atribuyen explícitamente a una columnista o a personas entrevistadas."
       }
     },
     {
@@ -258,71 +258,71 @@
       "web": "https://www.leparisien.fr",
       "noticias": [
         {
-          "titulo": "Guerre en Ukraine : Kiev et Moscou discutent à Abou Dhabi d’un échange de 1 000 à 1 500 prisonniers de guerre de chaque camp",
+          "titulo": "Deux gardes d’honneur s’effondrent à côté d’Emmanuel Macron lors de la visite à l’Élysée du président slovaque",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-kiev-et-moscou-discutent-a-abou-dhabi-dun-echange-de-1-000-a-1-500-prisonniers-de-guerre-de-chaque-camp-11-11-2026-Y6FCUBCP6JDZ7ABFHDE3THI2LE.php"
+          "enlace": "https://www.leparisien.fr/faits-divers/deux-gardes-dhonneur-seffondrent-a-cote-demmanuel-macron-lors-de-la-visite-a-lelysee-du-president-slovaque-11-11-2026-DT6JFYAEG5EM7G7EUUHRQXJSIE.php"
         },
         {
-          "titulo": "Morts pour la France et tombés dans l’oubli : il fait graver des centaines de noms sur les monuments aux morts",
+          "titulo": "Attentat raciste de Trappes : « C’est pour libérer mon pays », ce que Kevin Tessier a dit devant les enquêteurs",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/seine-et-marne-77/morts-pour-la-france-et-tombes-dans-loubli-il-fait-graver-des-centaines-de-noms-sur-les-monuments-aux-morts-11-11-2026-TXDU2M77KFAKXF4OV5XCF7NL6M.php"
+          "enlace": "https://www.leparisien.fr/faits-divers/attentat-raciste-de-trappes-cest-pour-liberer-mon-pays-ce-que-kevin-tessier-a-dit-devant-les-enqueteurs-11-11-2026-FYZDJXHHBVDURCALCMS5KBGUZA.php"
         },
         {
-          "titulo": "« Il m’a dit : tu es un illuminé » : répétitions, jeu en public, projections… L’étonnante méthode d’Albert Dupontel",
+          "titulo": "Cachan : un fuyard percute deux policiers qui intervenaient pour des violences conjugales",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/culture-loisirs/cinema/il-ma-dit-tu-es-un-illumine-repetitions-jeu-en-public-projections-letonnante-methode-dalbert-dupontel-11-11-2026-KNZVMRHJXBGSBIKZWTC3JEBCP4.php"
+          "enlace": "https://www.leparisien.fr/faits-divers/cachan-un-fuyard-percute-deux-policiers-qui-intervenaient-pour-des-violences-conjugales-11-11-2026-5M7LRXCMXJCKDCPZD6DQQTPCTY.php"
         },
         {
-          "titulo": "« Plus la crise se durcit, plus on vole de tout » : viande, fruits et légumes sont les nouvelles cibles dans les supermarchés",
+          "titulo": "« J’ai eu mal, ça a été difficile » : Alexia Barrier première femme à terminer la Route du Rhum en Ultim",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/economie/consommation/plus-la-crise-se-durcit-plus-on-vole-de-tout-viande-fruits-et-legumes-sont-les-nouvelles-cibles-dans-les-supermarches-11-11-2026-RH34JPFKNRDXHHQJRHBMEWQRZY.php"
+          "enlace": "https://www.leparisien.fr/sports/voile/jai-eu-mal-ca-a-ete-difficile-alexia-barrier-premiere-femme-a-terminer-la-route-du-rhum-en-ultim-11-11-2026-T6RZYFGVVNGELCU4JDH2OGL3LI.php"
         },
         {
-          "titulo": "« Si tu laisses tomber les gens, c’est pire » : l’amitié improbable entre Sarah, toxicomane, et Véronique, riveraine anti-campements à Paris",
+          "titulo": "« Je n’avais jamais vu ça auparavant » : l’affreuse blessure du boxeur Zak Miller, méconnaissable avec le front gonflé",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/paris-75/si-tu-laisses-tomber-les-gens-cest-pire-lamitie-improbable-entre-sarah-toxicomane-et-veronique-riveraine-anti-campements-a-paris-11-11-2026-HU3FOU44X5DFXAGT776CQO42AU.php"
+          "enlace": "https://www.leparisien.fr/sports/je-navais-jamais-vu-ca-auparavant-laffreuse-blessure-du-boxeur-zak-miller-meconnaissable-avec-le-front-gonfle-11-11-2026-QCY4SIEULZB7PDY5ZGNVBQ7RHE.php"
         },
         {
-          "titulo": "« Une dérive toujours plus droitière » : le Parti socialiste ne soutiendra pas David Lisnard pour la présidence des maires de France",
+          "titulo": "« Il aurait pu y avoir des morts » : un Ehpad saccagé et incendié dans la Loire",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/politique/une-derive-toujours-plus-droitiere-le-parti-socialiste-ne-soutiendra-pas-david-lisnard-pour-la-presidence-des-maires-de-france-11-11-2026-J4K4ZIFNGNFF7GMR5KGF6D3TVE.php"
+          "enlace": "https://www.leparisien.fr/loire-42/il-aurait-pu-y-avoir-des-morts-un-ehpad-saccage-et-incendie-dans-la-loire-11-11-2026-INWJAIBT6ZCTXG2LKROELNX7JU.php"
         },
         {
-          "titulo": "« C’était une intervention nécessaire » : l’international écossais McTominay révèle avoir subi un choc électrique cardiaque avant le Mondial",
+          "titulo": "GTA VI : le jeu dépasse le milliard de dollars de recettes, une semaine avant sa sortie",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/sports/football/cetait-une-intervention-necessaire-linternational-ecossais-mctominay-revele-avoir-subi-un-choc-electrique-cardiaque-avant-le-mondial-11-11-2026-32STZPICZJFV7C7BS2QVJXMDRM.php"
+          "enlace": "https://www.leparisien.fr/high-tech/gta-vi-le-jeu-depasse-le-milliard-de-dollars-de-recettes-une-semaine-avant-sa-sortie-11-11-2026-4RICCVCMYVEQHOJKQ4KHLHW2IU.php"
         },
         {
-          "titulo": "« Apprendre aux enfants à vivre ensemble » : à Nanterre, la lutte contre le harcèlement scolaire débute… dès la crèche",
+          "titulo": "MMA : l’énorme bagarre dans un hôtel entre Merab Dvalishvili et le clan Nurmagomedov avant des combats de lutte",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/hauts-de-seine-92/apprendre-aux-enfants-a-vivre-ensemble-a-nanterre-la-lutte-contre-le-harcelement-scolaire-debute-des-la-creche-11-11-2026-SV3UDVZTZNFA3FYM5Y3TCVH6K4.php"
+          "enlace": "https://www.leparisien.fr/sports/mma/mma-lenorme-bagarre-dans-un-hotel-entre-merab-dvalishvili-et-le-clan-nurmagomedov-avant-des-combats-de-lutte-11-11-2026-UNAHQ4F3PFA23PJYGHKOXOXXPE.php"
         },
         {
-          "titulo": "Guerre en Ukraine : une attaque de drones met le feu à un port pétrolier russe sur la Baltique, poursuite des pourparlers à Abou Dhabi",
+          "titulo": "Calais : un salarié d’usine tombe dans un broyeur à déchets, son corps retrouvé 8 heures plus tard",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-une-attaque-de-drones-met-le-feu-a-un-port-petrolier-russe-sur-la-baltique-poursuite-des-pourparlers-a-abou-dhabi-11-11-2026-TW6G72YVSREHVMAFFSWRSD7A4E.php"
+          "enlace": "https://www.leparisien.fr/pas-de-calais-62/calais-un-salarie-dusine-tombe-dans-un-broyeur-a-dechets-son-corps-retrouve-8-heures-plus-tard-11-11-2026-UDXNHXWRJZD6XFONAO6OGT4GBM.php"
         },
         {
-          "titulo": "« Un peu superficiel » : l’hommage aux poilus dans les écoles pour le 11 novembre peine encore à convaincre",
+          "titulo": "« On n’a rien trouvé, dans aucune école » rassure Giorgia Meloni après les alertes à la bombe lancées dans des milliers d’écoles d’Italie",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/societe/un-peu-superficiel-lhommage-aux-poilus-dans-les-ecoles-pour-le-11-novembre-peine-encore-a-convaincre-11-11-2026-RBHBK7XJ3FBXPE4SWBYNMPHNLM.php"
+          "enlace": "https://www.leparisien.fr/international/on-na-rien-trouve-dans-aucune-ecole-rassure-giorgia-meloni-apres-les-alertes-a-la-bombe-lancees-dans-des-milliers-decoles-ditalie-11-11-2026-RWSDRVY3YJANLDVFUVGNEEB2J4.php"
         },
         {
-          "titulo": "« Tu as de l’or dans les mains, il faut que tu l’exploites » : à Gouvernes, Jessica a ouvert son salon de papouilles",
+          "titulo": "Italie-France : Kylian Mbappé forfait, Zinedine Zidane doit se réinventer et repenser son attaque",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/seine-et-marne-77/tu-as-de-lor-dans-les-mains-il-faut-que-tu-lexploites-a-gouvernes-jessica-a-ouvert-son-salon-de-papouilles-11-11-2026-355YBEEJVNAXFBBSHXIYQK3SLE.php"
+          "enlace": "https://www.leparisien.fr/sports/football/equipe-de-france/italie-france-kylian-mbappe-forfait-zinedine-zidane-doit-se-reinventer-et-repenser-son-attaque-11-11-2026-NMS2KDG42ZHXLHLRAEQIW4NRTA.php"
         },
         {
-          "titulo": "« Cela me fait un bien fou »… Le témoignage inspirant d’Alexandre, qui a désormais accès à la piscine de Ris-Orangis",
+          "titulo": "Italie-France : « Mayulu ? J’aime tout chez lui, sa technique, ce qu’il fait », confie Zinedine Zidane",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/essonne-91/cela-me-fait-un-bien-fou-le-temoignage-inspirant-dalexandre-qui-a-desormais-acces-a-la-piscine-de-ris-orangis-11-11-2026-5SF7C2QTINGCFI3HFVBXIZAUFY.php"
+          "enlace": "https://www.leparisien.fr/sports/football/equipe-de-france/italie-france-mayulu-jaime-tout-chez-lui-sa-technique-ce-quil-fait-confie-zinedine-zidane-11-11-2026-HUEDMJLULZHT5IWAMAYKTNXABM.php"
         }
       ],
       "analisis": {
-        "resumen": "- Ucrania y Rusia negocian un intercambio de prisioneros en Abu Dabi, mientras un ataque con drones incendia un puerto petrolero ruso.\n- La memoria de los caídos por Francia centra dos noticias sobre monumentos y homenajes escolares.\n- La crisis y los robos en supermercados, la toxicomanía y el acoso escolar ocupan varias historias sociales.\n- El Partido Socialista no apoyará a David Lisnard para presidir la asociación de alcaldes de Francia.\n- Otros temas incluyen el método de Albert Dupontel, la salud del futbolista McTominay y dos iniciativas locales.",
-        "populismo": 18,
-        "motivo_populismo": "Predominan los titulares informativos, aunque expresiones como «cuanto más se agrava la crisis, más se roba de todo» y «una deriva cada vez más derechista» aportan dramatización y confrontación.",
-        "sesgo": "La selección da protagonismo a temas sociales y testimonios personales, con un enfoque humano y local. En la noticia política se destaca la crítica del Partido Socialista a David Lisnard."
+        "resumen": "- Sucesos violentos: un atentado racista en Trappes, dos policías atropellados en Cachan y una residencia incendiada en el Loira.\n- Dos guardias de honor se desploman junto a Emmanuel Macron durante una visita oficial.\n- En deportes destacan la lesión de un boxeador, una pelea de MMA, la llegada de Alexia Barrier en la Route du Rhum y el partido Italia-Francia.\n- Un trabajador muere tras caer en una trituradora en Calais; en Italia, las alertas de bomba en escuelas no encontraron amenazas, según Giorgia Meloni.\n- La portada afirma que GTA VI supera los mil millones de dólares de ingresos antes de su lanzamiento.",
+        "populismo": 40,
+        "motivo_populismo": "Predominan expresiones sensacionalistas como «la espantosa herida» y «la enorme pelea», así como citas alarmantes como «podría haber habido muertos», aunque no se aprecia una oposición explícita entre pueblo y élites.",
+        "sesgo": "La selección da mucho espacio a sucesos violentos, accidentes y episodios llamativos del deporte, con énfasis en detalles impactantes. No se aprecia una orientación política clara en los titulares."
       }
     },
     {
@@ -330,61 +330,61 @@
       "web": "https://www.ouest-france.fr",
       "noticias": [
         {
-          "titulo": "TÉMOIGNAGES. Face à la hausse des factures, « je ne chauffe que 5 heures, pas à plus de 17°C »",
-          "entradilla": "Prix repère du gaz en hausse, fioul en baisse mais toujours élevé ou encore pompe à chaleur qui requiert une importante somme d’argent pour son installation, les lecteurs de Ouest-France s’adaptent au coût exorbitant de l’énergie, souvent au détriment de leur confort, parfois de leurs loisirs.",
-          "enlace": "https://www.ouest-france.fr/economie/energie/temoignages-face-a-la-hausse-des-factures-je-ne-chauffe-que-5-heures-pas-a-plus-de-17c-5ac05158-d9f5-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "En Israël, Gadi Eisenkot appelle Benyamin Netanyahou à faire preuve de responsabilité sur les décisions sécuritaires",
+          "entradilla": "Gadi Eisenkot, chargé de former le prochain gouvernement en Israël après les élections législatives, a exhorté mercredi 11 novembre l’actuel Premier ministre Benyamin Netanyahou à « faire preuve de responsabilité » sur les décisions sécuritaires, une allusion à une éventuelle attaque israélienne con",
+          "enlace": "https://www.ouest-france.fr/monde/israel/en-israel-gadi-eisenkot-appelle-benyamin-netanyahou-a-faire-preuve-de-responsabilite-sur-les-decisions-securitaires-fddf689e-de17-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "À quelle heure et sur quelles chaînes suivre les cérémonies du 11 novembre ?",
-          "entradilla": "Aujourd’hui, la France commémore l’Armistice du 11 novembre 1918 et rend hommage à celles et ceux qui sont morts pour la patrie. À cette occasion, France Télévisions propose plusieurs rendez-vous tout au long de la journée pour suivre en direct les cérémonies officielles et les différents temps fort",
-          "enlace": "https://programmetv.ouest-france.fr/france-televisions-b1000/a-quelle-heure-et-sur-quelles-chaines-suivre-les-ceremonies-du-11-novembre-dfa80436-dcf4-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Un prestigieux paquebot coulé pour devenir un immense récif artificiel au large de la Floride",
+          "entradilla": "Le paquebot américain SS United States est sur le point d’être coulé en Floride, afin de devenir le plus vaste récif artificiel au monde, ainsi qu’une destination touristique pour les amateurs de plongée.",
+          "enlace": "https://www.ouest-france.fr/monde/etats-unis/un-prestigieux-paquebot-coule-pour-devenir-un-immense-recif-artificiel-au-large-de-la-floride-b4ea7ea0-de15-11f1-a62b-776e3051b0df?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "Affaire Nvidia : la Chinoise soupçonnée d’espionnage s’est rendue à Taïwan avec un passeport hongkongais",
-          "entradilla": "Alice Huang, la Chinoise accusée d’avoir travaillé pour Pékin en entretenant une liaison avec le patron de l’entreprise Nvidia, a utilisé un passeport hongkongais pour voyager à Taïwan, a annoncé mercredi 11 novembre l’agence de l’immigration de l’île.",
-          "enlace": "https://www.ouest-france.fr/high-tech/intelligence-artificielle/affaire-nvidia-la-chinoise-soupconnee-despionnage-sest-rendue-a-taiwan-avec-un-passeport-hongkongais-defa29e8-dd98-11f1-a62b-776e3051b0df?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Cyclisme. Le Danemark accueillera les Championnats d’Europe 2027",
+          "entradilla": "Ce mercredi 11 novembre, l’Union européenne de cyclisme a annoncé que le Danemark organiserait les Championnats d’Europe 2027 du 28 septembre au 3 octobre prochain, dix ans après ceux organisés à Herning.",
+          "enlace": "https://www.ouest-france.fr/sport/cyclisme/cyclisme-le-danemark-accueillera-les-championnats-deurope-2027-7a566886-de14-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "« Ça fait du bien pour le vélo en général » : Tony Gallopin va tenir un rôle majeur dans l’équipe cycliste XEFI",
-          "entradilla": "« Consultant expert » lors du Tour de France l’été dernier auprès de l’équipe TotalEnergies, Tony Gallopin évoluera, la saison prochaine, dans la direction sportive de la structure vendéenne qui a désormais pour sponsor-titre l’entreprise lyonnaise XEFI. L’Essonnien qui réside en Normandie va apport",
-          "enlace": "https://www.ouest-france.fr/sport/cyclisme/ca-fait-du-bien-pour-le-velo-en-general-tony-gallopin-va-tenir-un-role-majeur-dans-lequipe-cycliste-xefi-c86b989a-dd95-11f1-a62b-776e3051b0df?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Lula et Delcy Rodríguez promettent de relancer les relations entre Brésil et Venezuela",
+          "entradilla": "Le Brésil et le Venezuela se sont engagés à renouer leurs relations dans les mois à venir, notamment par le biais d’investissements pétroliers.",
+          "enlace": "https://www.ouest-france.fr/monde/bresil/lula-et-delcy-rodriguez-promettent-de-relancer-les-relations-entre-bresil-et-venezuela-6e2c6b24-de13-11f1-a62b-776e3051b0df?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "ENTRETIEN. « Junior sait ce qu’il est capable de faire » : Éli Kroupi savoure l’arrivée de son fils en équipe de France",
-          "entradilla": "Après Pablo Pagis, Éli Junior Kroupi, un autre ancien Merlu, a été appelé par Zinédine Zidane pour pallier la blessure de Marcus Thuram, ce mardi 10 novembre. L’ancien Lorientais, aujourd’hui à Bournemouth, va donc vivre son premier rassemblement dans la peau d’un joueur de l’équipe de France et pou",
-          "enlace": "https://www.ouest-france.fr/sport/football/equipe-de-france/equipe-de-france-cest-une-fierte-un-reve-eli-kroupi-savoure-la-convocation-de-son-fils-junior-chez-les-bleus-1d91e054-dd32-11f1-a62b-776e3051b0df?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Avec des rafales à moins de 100 km/h, la tempête Charles a balayé le Portugal sans l’intensité redoutée",
+          "entradilla": "La tempête Charles a finalement traversé le pays ibérique avec moins d’intensité que prévu mercredi 11 novembre. Une personne a toutefois été blessée et quatre ont été évacuées.",
+          "enlace": "https://www.ouest-france.fr/europe/portugal/avec-des-rafales-a-moins-de-100-km-h-la-tempete-charles-a-balaye-le-portugal-sans-lintensite-redoutee-cf64107a-de10-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "Pour ses 80 ans, toute sa famille lui offre le plus beau des cadeaux : courir à ses côtés lors du Cross du Courrier",
-          "entradilla": "À 80 ans, malgré une prothèse au genou et les recommandations de prudence de son médecin, Jacques You n’a jamais renoncé à sa passion du sport, qu’il cultive en famille, dans la boue des compétitions comme dans les colonnes d’un fichier Excel, où il archive depuis des années le moindre de ses chrono",
-          "enlace": "https://www.ouest-france.fr/sport/running/cross-courrier-de-l-ouest/pour-ses-80-ans-toute-sa-famille-lui-offre-le-plus-beau-des-cadeaux-courir-a-ses-cotes-lors-du-cross-du-courrier-7ef24c80-d5f8-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Volley. Montpellier et Mulhouse remportent la Supercoupe 2026",
+          "entradilla": "Ce mercredi 11 novembre, les deux finales de Supercoupe ont été disputées au Palais des Sports de Gentilly à Nancy. Le MHSC, champion de France en titre, l’a emporté chez les hommes face au Paris Volley. Le VMA a quant à lui conservé son titre en dominant Vandoeuvre-Nancy.",
+          "enlace": "https://www.ouest-france.fr/sport/volley/volley-montpellier-et-mulhouse-remportent-la-supercoupe-2026-967d8630-de0e-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "REPORTAGE. « Il a profondément marqué ma vie » : la ferveur des Péruviens avant le retour de « leur pape »",
-          "entradilla": "En tournée en Amérique du Sud, le pape Léon XIV arrive mercredi 11 novembre 2026 au Pérou pour six jours, pays où il a passé près de vingt ans de sa vie et dont il a la nationalité. Sur place, les Péruviens attendent avec impatience le retour de leur pape.",
-          "enlace": "https://www.ouest-france.fr/societe/religions/pape-leon-xiv/reportage-il-a-profondement-marque-ma-vie-la-ferveur-des-peruviens-avant-le-retour-de-leur-pape-e572eed2-d7b1-11f1-a1e1-ae8104d72c9a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Ligue 1. Valérien Ismaël pressenti comme le successeur de Didier Digard au Havre",
+          "entradilla": "Depuis la mise à pied de Didier Digard le 1er novembre, Jaïr Karam assurait l’intérim sur le banc du HAC. Un intérim qui devrait bientôt prendre fin, l’entraîneur franco-allemand Valérien Ismaël étant proche de prendre les rênes de l’équipe, selon des informations de L’Équipe.",
+          "enlace": "https://www.ouest-france.fr/sport/football/le-havre-ac/ligue-1-valerien-ismael-pressenti-comme-le-successeur-de-didier-digard-au-havre-ab844504-de0a-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "Pourquoi ces deux villages ont-ils décidé de conserver ces bâtiments en ruine depuis plus de 100 ans ?",
-          "entradilla": "Dans le Pas-de-Calais, distantes de quelques kilomètres, les ruines de l’Abbaye du Mont-Saint-Éloi et de l’église d’Ablain-Saint-Nazaire marquent le paysage, rappelant les féroces combats de la Première Guerre mondiale. Voici leur histoire.",
-          "enlace": "https://www.ouest-france.fr/leditiondusoir/2026-11-10/pourquoi-ces-deux-villages-ont-ils-decide-de-conserver-ces-batiments-en-ruine-depuis-plus-de-100-ans-a0741dbf-1ea3-4971-b1f3-38a716ab102c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Italie - France. Ce qu’il faut retenir du point presse de Zinédine Zidane avant le choc de Ligue des Nations",
+          "entradilla": "Le forfait de Kylian Mbappé, ses souvenirs d’Italie, les jeunes… Tour d’horizon des sujets évoqués par Zinédine Zidane en conférence de presse ce mercredi 11 novembre, à la veille du choc Italie - France en Ligue des Nations.",
+          "enlace": "https://www.ouest-france.fr/sport/football/equipe-de-france/italie-france-ce-quil-faut-retenir-du-point-presse-de-zinedine-zidane-avant-le-choc-de-ligue-des-nations-6976605e-de0d-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "« Le cinéma permet de poser des mots » : Nina Meurisse, le parcours d’une combattante dans « Ce qui nous mène à toi »",
-          "entradilla": "À l’affiche du film « Ce qui nous mène à toi » de Khalil Cherti, en salles ce mercredi 11 novembre 2026, l’actrice incarne Charlie, une femme combative face à l’infécondité. Une histoire touchante et pleine d’espoir, qui traite un sujet peu mis à l’écran : celui de la procréation médicalement assist",
-          "enlace": "https://www.ouest-france.fr/cinema/le-cinema-permet-de-poser-des-mots-nina-meurisse-le-parcours-dune-combattante-dans-ce-qui-nous-mene-a-toi-7ac7fd86-d9ee-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Guerre en Ukraine : une possible avancée dans les pourparlers de paix, un vaste échange de prisonniers… Le point du jour",
+          "entradilla": "Les pourparlers entre l’Ukraine et la Russie se sont poursuivis mercredi 11 novembre et ont débouché sur un accord pour un vaste échange de prisonniers. Voici ce qu’il faut retenir de ce mercredi 11 novembre, concernant le conflit entre l’Ukraine et la Russie.",
+          "enlace": "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-une-possible-avancee-dans-les-pourparlers-de-paix-un-vaste-echange-de-prisonniers-le-point-du-jour-767093d0-ddf7-11f1-a62b-776e3051b0df?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "ATP Finals. Quelles sont les chances d’Arthur Fils face au gratin du tennis mondial ?",
-          "entradilla": "Arthur Fils participera aux ATP Finals, du 15 au 22 novembre 2026, à Turin (Italie). Le Français, 7e mondial, fera sa première apparition au Masters de fin d’année, censé réunir les huit meilleurs joueurs de la saison. En l’absence du tenant du titre Jannik Sinner (n°2), mais face au nouveau n°1 mon",
-          "enlace": "https://www.ouest-france.fr/sport/tennis/arthur-fils/atp-finals-quelles-sont-les-chances-darthur-fils-face-au-gratin-du-tennis-mondial-97f2ea5e-dc52-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Italie - France. « On va aller les chercher ! », prévient Dayot Upamecano s’amusant à se comparer à Harry Kane",
+          "entradilla": "Buteur, passeur et désormais premier relanceur des Bleus, Dayot Upamecano aborde le choc contre l’Italie avec une confiance retrouvée. Le défenseur central du Bayern Munich, devenu incontournable en équipe de France était en conférence de presse ce mercredi 11 novembre, à la veille du choc contre le",
+          "enlace": "https://www.ouest-france.fr/sport/football/dayot-upamecano/italie-france-on-va-aller-les-chercher-previent-dayot-upamecano-samusant-a-se-comparer-a-harry-kane-3c48c75c-de08-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         }
       ],
       "analisis": {
-        "resumen": "- El aumento del coste de la energía lleva a algunas familias a reducir la calefacción y otros gastos.\n- Francia conmemora el Armisticio de 1918; un reportaje recuerda las ruinas de dos pueblos vinculadas a la Primera Guerra Mundial.\n- Una mujer acusada de espionaje en el caso Nvidia viajó a Taiwán con un pasaporte de Hong Kong.\n- El deporte ocupa un lugar destacado, con noticias de ciclismo, fútbol, tenis y una carrera familiar.\n- La portada también aborda la visita de León XIV a Perú y una película sobre la reproducción asistida.",
-        "populismo": 15,
-        "motivo_populismo": "Expresiones emotivas como «el más hermoso de los regalos» y testimonios personales conviven con titulares principalmente informativos, sin apelaciones contra élites ni enfrentamientos colectivos.",
-        "sesgo": "La selección favorece las historias humanas, el deporte y los asuntos de interés francés, con atención a las consecuencias cotidianas del coste de la energía. No se aprecia un sesgo político claro."
+        "resumen": "- En Israel, Gadi Eisenkot pide a Benjamín Netanyahu responsabilidad en las decisiones de seguridad.\n- Ucrania y Rusia acuerdan un amplio intercambio de prisioneros tras continuar las conversaciones de paz.\n- Brasil y Venezuela prometen retomar sus relaciones, con inversiones petroleras entre las vías previstas.\n- La tormenta Charles atraviesa Portugal con menos intensidad de la temida; se hundirá un transatlántico frente a Florida para crear un arrecife artificial.\n- En deportes, destacan la previa del Italia-Francia, las supercopas de voleibol, el futuro entrenador del Havre y el Europeo de ciclismo de 2027 en Dinamarca.",
+        "populismo": 8,
+        "motivo_populismo": "Los titulares son mayormente informativos y sin apelaciones al pueblo ni descalificaciones; el uso deportivo de «choque» y «¡iremos a por ellos!» aporta algo de intensidad emocional.",
+        "sesgo": "La selección da amplio espacio al deporte, especialmente al fútbol francés, junto con noticias internacionales. No se aprecia un sesgo político claro en la redacción."
       }
     }
   ]
