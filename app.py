@@ -29,7 +29,16 @@ ESTADOS_CRISPITO = ["Zen", "Tranquilo", "Mosqueado", "Molesto", "Enfadado", "¡A
 
 # Los países del selector. La clave es el nombre de su carpeta en datos/
 # y tiene que coincidir con PAISES de actualizar.py.
-PAISES = {"es": "🇪🇸 España", "fr": "🇫🇷 Francia"}
+PAISES = {
+    "es": "🇪🇸 España",
+    "fr": "🇫🇷 Francia",
+    "us": "🇺🇸 Estados Unidos",
+    "gb": "🇬🇧 Reino Unido",
+    "de": "🇩🇪 Alemania",
+    "it": "🇮🇹 Italia",
+    "ru": "🇷🇺 Rusia",
+    "cn": "🇨🇳 China",
+}
 
 # Un color para distinguir cada periódico, por orden (es solo decorativo).
 COLORES = ["#2563eb", "#0d9488", "#d97706", "#c026d3", "#4f46e5"]

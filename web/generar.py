@@ -6,7 +6,7 @@ Este programa NO es Streamlit. Lee los mismos datos que app.py
 en la carpeta web/sitio/:
 
     web/sitio/index.html            → España
-    web/sitio/francia/index.html    → Francia
+    web/sitio/francia/index.html    → Francia (y así cada país de PAISES)
     web/sitio/estilos.css, web.js   → el diseño y un poco de JavaScript
     web/sitio/img/                  → Crispito y las caricaturas
     web/sitio/404.html, sitemap.xml, robots.txt
@@ -29,6 +29,7 @@ web/recursos/web.js. Este archivo solo construye el HTML.
 """
 
 import json
+import math
 import shutil
 import sys
 from datetime import datetime
@@ -51,19 +52,77 @@ URL_BASE = "https://portadas-ia.com"
 
 # Los países. 'carpeta' es dónde se guarda su página dentro de web/sitio/
 # ("" = la portada). La clave tiene que coincidir con la carpeta de datos/.
-# 'bandera' son las franjas de la bandera dibujadas con SVG (un lienzo de 3 x 2).
-# Se dibujan así, y no con emojis, porque Windows no enseña los emojis de banderas.
+def estrella(cx: float, cy: float, radio: float) -> str:
+    """Los puntos de una estrella de cinco puntas, para las banderas."""
+    puntos = []
+    for paso in range(10):
+        r = radio if paso % 2 == 0 else radio * 0.382      # punta, hueco, punta…
+        angulo = math.radians(-90 + paso * 36)
+        puntos.append(f"{cx + r * math.cos(angulo):.3f},{cy + r * math.sin(angulo):.3f}")
+    return f'<polygon points="{" ".join(puntos)}"/>'
+
+
+def franjas(colores: list, vertical: bool = False) -> str:
+    """Una bandera de franjas iguales, horizontales o verticales."""
+    trozo = (3 if vertical else 2) / len(colores)
+    dibujo = ""
+    for posicion, color in enumerate(colores):
+        if vertical:
+            dibujo += f'<rect x="{posicion * trozo:.3f}" width="{trozo:.3f}" height="2" fill="{color}"/>'
+        else:
+            dibujo += f'<rect y="{posicion * trozo:.3f}" width="3" height="{trozo:.3f}" fill="{color}"/>'
+    return dibujo
+
+
+# Los países. La clave tiene que coincidir con la carpeta de datos/.
+#   carpeta → dónde se guarda su página dentro de web/sitio/ ("" = la portada)
+#   idioma  → idioma de los titulares originales ("" si hay varios mezclados)
+#   bandera → dibujo SVG sobre un lienzo de 3 x 2. Se dibujan así, y no con
+#             emojis, porque Windows no enseña los emojis de banderas.
 PAISES = {
     "es": {
-        "nombre": "España",
-        "carpeta": "",
+        "nombre": "España", "carpeta": "", "idioma": "es",
         "bandera": '<rect width="3" height="2" fill="#c60b1e"/><rect y="0.5" width="3" height="1" fill="#ffc400"/>',
     },
     "fr": {
-        "nombre": "Francia",
-        "carpeta": "francia",
-        "bandera": '<rect width="3" height="2" fill="#fff"/><rect width="1" height="2" fill="#0055a4"/>'
-                   '<rect x="2" width="1" height="2" fill="#ef4135"/>',
+        "nombre": "Francia", "carpeta": "francia", "idioma": "fr",
+        "bandera": franjas(["#0055a4", "#ffffff", "#ef4135"], vertical=True),
+    },
+    "us": {
+        "nombre": "Estados Unidos", "carpeta": "estados-unidos", "idioma": "en",
+        # 13 franjas, el cuadro azul y unas cuantas estrellas (no caben las 50).
+        "bandera": franjas(["#b22234", "#ffffff"] * 6 + ["#b22234"])
+        + '<rect width="1.3" height="1.077" fill="#3c3b6e"/><g fill="#ffffff">'
+        + "".join(estrella(0.22 + 0.29 * columna, 0.2 + 0.23 * fila, 0.075)
+                  for fila in range(4) for columna in range(4))
+        + "</g>",
+    },
+    "gb": {
+        "nombre": "Reino Unido", "carpeta": "reino-unido", "idioma": "en",
+        "bandera": '<rect width="3" height="2" fill="#012169"/>'
+        '<path d="M0,0 L3,2 M3,0 L0,2" stroke="#ffffff" stroke-width="0.4"/>'
+        '<path d="M0,0 L3,2 M3,0 L0,2" stroke="#c8102e" stroke-width="0.14"/>'
+        '<path d="M1.5,0 V2 M0,1 H3" stroke="#ffffff" stroke-width="0.66"/>'
+        '<path d="M1.5,0 V2 M0,1 H3" stroke="#c8102e" stroke-width="0.4"/>',
+    },
+    "de": {
+        "nombre": "Alemania", "carpeta": "alemania", "idioma": "de",
+        "bandera": franjas(["#000000", "#dd0000", "#ffce00"]),
+    },
+    "it": {
+        "nombre": "Italia", "carpeta": "italia", "idioma": "it",
+        "bandera": franjas(["#009246", "#ffffff", "#ce2b37"], vertical=True),
+    },
+    "ru": {
+        "nombre": "Rusia", "carpeta": "rusia", "idioma": "ru",
+        "bandera": franjas(["#ffffff", "#0039a6", "#d52b1e"]),
+    },
+    "cn": {
+        "nombre": "China", "carpeta": "china", "idioma": "",      # chino e inglés
+        "bandera": '<rect width="3" height="2" fill="#de2910"/><g fill="#ffde00">'
+        + estrella(0.55, 0.55, 0.32)
+        + "".join(estrella(x, y, 0.11) for x, y in [(1.05, 0.2), (1.28, 0.42), (1.28, 0.75), (1.05, 0.97)])
+        + "</g>",
     },
 }
 
@@ -263,6 +322,8 @@ def bloque_populismo(ultimo: dict) -> str:
 def bloque_periodicos(codigo: str, ultimo: dict) -> str:
     """Una ficha por periódico: resumen, populismo, sesgo y titulares."""
     fichas = []
+    # lang="…" le dice al navegador en qué idioma están los titulares originales.
+    idioma = f' lang="{PAISES[codigo]["idioma"]}"' if PAISES[codigo]["idioma"] else ""
     for periodico in ultimo["periodicos"]:
         nombre = escape(periodico["nombre"])
         web = escape(periodico["web"])
@@ -300,7 +361,7 @@ def bloque_periodicos(codigo: str, ultimo: dict) -> str:
   <p class="sesgo"><b>Sesgo.</b> {escape(analisis["sesgo"])}</p>
   <details>
     <summary>Ver los {len(noticias)} titulares originales</summary>
-    <ol lang="{codigo}">{titulares}</ol>
+    <ol{idioma}>{titulares}</ol>
   </details>
 </article>""")
 
