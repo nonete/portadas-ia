@@ -31,6 +31,8 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
 from pydantic import BaseModel, Field
 
+import prompts
+
 # ----------------------------------------------------------------------
 # CONFIGURACIÓN
 # ----------------------------------------------------------------------
@@ -287,42 +289,14 @@ PAISES = {
 }
 
 # Los cinco personajes de "¿Quién quieres que te dé la opinión?".
-# 'perfil' es la descripción que se le da a ChatGPT para que escriba como ellos.
+# La descripción de cada uno (su "perfil", lo que se le dice a ChatGPT para
+# que escriba como ellos) está en config/, con el nombre perfil_<id>.
 OPINADORES = [
-    {
-        "id": "comunista",
-        "nombre": "Un comunista",
-        "perfil": "una persona comunista: analiza la actualidad desde la lucha de "
-        "clases y defiende a la clase trabajadora, los servicios públicos y la "
-        "propiedad colectiva frente al gran capital",
-    },
-    {
-        "id": "anarquista",
-        "nombre": "Un anarquista",
-        "perfil": "una persona anarquista: desconfía del Estado, de los partidos y "
-        "de toda jerarquía, y defiende la autogestión, el apoyo mutuo y la libertad "
-        "individual y colectiva",
-    },
-    {
-        "id": "liberal",
-        "nombre": "Un liberal",
-        "perfil": "una persona liberal: defiende la libertad individual, el libre "
-        "mercado, los impuestos bajos, un Estado limitado y la responsabilidad personal",
-    },
-    {
-        "id": "extrema_derecha",
-        "nombre": "Uno de extrema derecha",
-        "perfil": "una persona de extrema derecha: nacionalista y muy conservadora, "
-        "prioriza la soberanía nacional, la seguridad, el control estricto de la "
-        "inmigración y las tradiciones, y desconfía de las élites políticas y mediáticas",
-    },
-    {
-        "id": "centro",
-        "nombre": "Una demócrata de centro",
-        "perfil": "una persona demócrata de centro: moderada, defiende las "
-        "instituciones, el consenso, las reformas graduales y el equilibrio entre "
-        "el mercado y la protección social",
-    },
+    {"id": "comunista", "nombre": "Un comunista"},
+    {"id": "anarquista", "nombre": "Un anarquista"},
+    {"id": "liberal", "nombre": "Un liberal"},
+    {"id": "extrema_derecha", "nombre": "Uno de extrema derecha"},
+    {"id": "centro", "nombre": "Una demócrata de centro"},
 ]
 
 HORAS = [8, 18]                # horas (de Madrid) a las que se actualiza
@@ -503,79 +477,22 @@ class AnalisisGeneral(BaseModel):
     )
 
 
+# Los prompts (las instrucciones para ChatGPT) están en config/ y se pueden
+# cambiar desde la página de configuración de la web. Ver prompts.py.
+TEXTOS = prompts.cargar()
+
+# Cada prompt tiene dos mensajes: "system" (cómo debe comportarse ChatGPT)
+# y "human" (lo que le pedimos, con las noticias).
 PROMPT_PERIODICO = ChatPromptTemplate.from_messages(
-    [
-        (
-            "system",
-            "Eres un analista de medios que estudia portadas de prensa de {pais}. "
-            "Escribes siempre en español, aunque los titulares estén en otro idioma, "
-            "de forma neutral y sin opinar de política. "
-            "Usa solo la información que se te da: no inventes datos.\n\n"
-            "Para medir el populismo fíjate únicamente en el texto: lenguaje "
-            "emocional o alarmista, sensacionalismo, enfrentamiento 'nosotros "
-            "contra ellos', apelaciones al pueblo frente a las élites, "
-            "simplificación de temas complejos y descalificaciones. "
-            "0 es un tono totalmente informativo y sobrio; 100 es el máximo. "
-            "Aplica el mismo criterio a cualquier portada, sin tener en cuenta "
-            "de qué medio pueda ser.",
-        ),
-        (
-            "human",
-            "Estas son las noticias de portada de un periódico ahora mismo:\n\n"
-            "{noticias}\n\n"
-            "Resume la portada, valora su nivel de populismo de 0 a 100 y "
-            "describe el sesgo que se aprecia.",
-        ),
-    ]
+    [("system", TEXTOS["periodico_sistema"]), ("human", TEXTOS["periodico_usuario"])]
 )
 
 PROMPT_GENERAL = ChatPromptTemplate.from_messages(
-    [
-        (
-            "system",
-            "Eres un analista de medios que compara portadas de prensa de {pais}. "
-            "Escribes siempre en español, aunque los titulares estén en otro idioma, "
-            "de forma neutral y sin opinar de política. "
-            "Usa solo la información que se te da: no inventes datos.\n\n"
-            "Para medir la crispación fíjate en cuánta tensión y enfrentamiento "
-            "político y social reflejan las noticias en conjunto: choques entre "
-            "partidos o instituciones, acusaciones, insultos, protestas, "
-            "escándalos y lenguaje polarizador. 0 es un día tranquilo, de "
-            "noticias informativas sin conflicto; 100 es tensión máxima.",
-        ),
-        (
-            "human",
-            "Estas son las portadas de varios periódicos de {pais}:\n\n{noticias}\n\n"
-            "Di qué temas se repiten más y valora de 0 a 100 el nivel de "
-            "crispación del día.",
-        ),
-    ]
+    [("system", TEXTOS["general_sistema"]), ("human", TEXTOS["general_usuario"])]
 )
 
-
 PROMPT_OPINION = ChatPromptTemplate.from_messages(
-    [
-        (
-            "system",
-            "Vas a escribir una columna de opinión muy breve, en primera persona y "
-            "en español, desde el punto de vista de {perfil}.\n\n"
-            "Representa esa forma de pensar con fidelidad y con sus mejores "
-            "argumentos, como lo haría un columnista serio de esa corriente: no la "
-            "ridiculices ni la suavices. Es un personaje inventado.\n\n"
-            "Reglas: comenta solo las noticias que se te dan; no inventes hechos, "
-            "datos ni citas; critica ideas y decisiones, pero no descalifiques "
-            "personalmente a nadie con nombre y apellidos; nada de insultos, de "
-            "lenguaje de odio contra ningún colectivo ni de llamadas a la "
-            "violencia. Entre 110 y 150 palabras, en "
-            "uno o dos párrafos, sin título.",
-        ),
-        (
-            "human",
-            "Estas son las noticias de portada de hoy en varios periódicos de {pais}. "
-            "Pueden estar en otro idioma, pero tú escribes siempre en español:\n\n"
-            "{noticias}\n\n¿Qué opinas del día?",
-        ),
-    ]
+    [("system", TEXTOS["opinion_sistema"]), ("human", TEXTOS["opinion_usuario"])]
 )
 
 
@@ -629,7 +546,7 @@ def analizar(
     cadena_opinion = PROMPT_OPINION | modelo | StrOutputParser()
     textos = cadena_opinion.batch(
         [
-            {"perfil": opinador["perfil"], "pais": pais, "noticias": todo}
+            {"perfil": TEXTOS["perfil_" + opinador["id"]], "pais": pais, "noticias": todo}
             for opinador in OPINADORES
         ]
     )
@@ -731,9 +648,17 @@ def main() -> None:
         print("Todavía no son las 8:00 en Madrid: no toca actualizar.")
         return
 
+    # PAIS: si se lanza a mano para un solo país (por ejemplo "br"), solo se
+    # hace ese. Vacío = todos.
+    solo = os.environ.get("PAIS", "").strip().lower()
+    if solo and solo not in PAISES:
+        sys.exit(f"No existe el país '{solo}'. Los que hay: {', '.join(PAISES)}")
+
     # Cada país va por separado: si uno falla, los demás se guardan igual.
     fallos = []
     for codigo in PAISES:
+        if solo and codigo != solo:
+            continue
         try:
             actualizar_pais(codigo, ahora, turno, forzar)
         except Exception as error:

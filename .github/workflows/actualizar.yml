@@ -13,6 +13,10 @@ on:
         description: "Rehacer también los países que ya tienen hecho este turno"
         type: boolean
         default: true
+      pais:
+        description: "Solo un país (es, fr, us, gb, de, it, ru, cn, br). Vacío = todos"
+        type: string
+        default: ""
 
 permissions:
   contents: write
@@ -39,6 +43,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
           FORZAR: ${{ github.event_name == 'workflow_dispatch' && inputs.forzar && '1' || '0' }}
+          PAIS: ${{ inputs.pais }}
         run: python actualizar.py
 
       - name: Buscar noticias de discapacidad y resumirlas
@@ -47,7 +52,8 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
-          FORZAR: ${{ github.event_name == 'workflow_dispatch' && inputs.forzar && '1' || '0' }}
+          # Si se ha pedido un solo país, Discapacidad no se rehace.
+          FORZAR: ${{ github.event_name == 'workflow_dispatch' && inputs.forzar && inputs.pais == '' && '1' || '0' }}
         run: python actualizar_discapacidad.py
 
       - name: Guardar los datos en el repositorio
@@ -61,6 +67,9 @@ jobs:
             echo "No hay cambios que guardar."
           else
             git commit -m "Datos: actualización automática"
+            # Por si alguien ha cambiado algo en el repositorio mientras tanto
+            # (por ejemplo, un prompt desde la página de configuración).
+            git pull --rebase origin main
             git push
           fi
 
