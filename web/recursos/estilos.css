@@ -1,0 +1,236 @@
+/*
+  Portadas IA · diseño de la web estática.
+  Idea: una portada de periódico sobria. Titulares con letra de imprenta,
+  líneas finas en vez de cajas y el color reservado para los niveles.
+*/
+
+/* ---------- Colores y letras (tema claro) ---------- */
+:root {
+  --papel: #f4f5f7;        /* fondo de la página */
+  --hoja: #ffffff;         /* fondo de los paneles */
+  --tinta: #121826;        /* texto principal */
+  --tinta-2: #465066;      /* texto secundario */
+  --tinta-3: #6a7386;      /* notas y rótulos */
+  --regla: #d8dce4;        /* líneas finas */
+  --acento: #142a5c;       /* azul tinta: marca, enlaces, gráfico */
+  --acento-suave: #b9c4de; /* columnas de días anteriores */
+
+  --bajo: #0ca30c;         /* niveles: siempre van con su etiqueta escrita */
+  --medio: #fab219;
+  --alto: #d03b3b;
+
+  --titular: "Newsreader", "Iowan Old Style", Georgia, "Times New Roman", serif;
+  --texto: "Public Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  color-scheme: light;
+}
+
+/* ---------- Tema oscuro (lo decide el dispositivo) ---------- */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --papel: #0e1218; --hoja: #161b24; --tinta: #eef1f6; --tinta-2: #bac2d0;
+    --tinta-3: #8c96a8; --regla: #2b3342; --acento: #a9c0f5; --acento-suave: #3b4a6b;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --papel: #0e1218; --hoja: #161b24; --tinta: #eef1f6; --tinta-2: #bac2d0;
+  --tinta-3: #8c96a8; --regla: #2b3342; --acento: #a9c0f5; --acento-suave: #3b4a6b;
+  color-scheme: dark;
+}
+
+/* ---------- Base ---------- */
+*, *::before, *::after { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 64px; -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--papel); color: var(--tinta);
+  font: 400 1rem/1.6 var(--texto);
+}
+img { max-width: 100%; height: auto; }
+a { color: var(--acento); text-underline-offset: 3px; }
+a:hover { text-decoration-thickness: 2px; }
+:focus-visible { outline: 3px solid var(--acento); outline-offset: 2px; border-radius: 3px; }
+h1, h2, h3 { font-family: var(--titular); text-wrap: balance; margin: 0; line-height: 1.12; }
+p { margin: 0; }
+.ancho { max-width: 1120px; margin: 0 auto; padding: 0 20px; }
+
+.saltar { position: absolute; left: -999px; top: 8px; background: var(--hoja); padding: 8px 12px; z-index: 20; }
+.saltar:focus { left: 8px; }
+
+/* ---------- Mancheta (cabecera del periódico) ---------- */
+.mancheta { text-align: center; padding: 18px 0 0; border-bottom: 1px solid var(--regla); background: var(--hoja); }
+.mancheta .fecha { color: var(--tinta-3); font-size: .8rem; letter-spacing: .04em; }
+.marca {
+  display: inline-block; margin: 6px 0 2px; color: var(--tinta); text-decoration: none;
+  font: 700 clamp(2.4rem, 7vw, 4rem)/1 var(--titular); letter-spacing: -.02em;
+}
+.marca i { font-style: italic; font-weight: 400; color: var(--acento); }
+.lema { color: var(--tinta-2); font-size: .95rem; }
+.paises { display: flex; justify-content: center; gap: 4px; margin-top: 14px; }
+.paises a {
+  padding: 9px 18px; color: var(--tinta-2); text-decoration: none; font-weight: 600;
+  font-size: .9rem; border-bottom: 3px solid transparent;
+}
+.paises a:hover { color: var(--tinta); }
+.paises a[aria-current] { color: var(--tinta); border-bottom-color: var(--acento); }
+
+/* Menú de secciones: se queda pegado arriba al bajar */
+.secciones {
+  position: sticky; top: 0; z-index: 10; background: var(--papel);
+  border-bottom: 1px solid var(--regla);
+}
+.secciones .ancho { display: flex; gap: 22px; overflow-x: auto; scrollbar-width: none; }
+.secciones a {
+  flex: none; padding: 12px 0; color: var(--tinta-2); text-decoration: none;
+  font-size: .78rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
+}
+.secciones a:hover { color: var(--acento); }
+
+/* ---------- Piezas que se repiten ---------- */
+.rotulo, .antetitulo {
+  font: 700 .74rem/1.3 var(--texto); letter-spacing: .1em; text-transform: uppercase; color: var(--tinta-3);
+}
+.cabecera-seccion {
+  border-top: 3px solid var(--tinta); padding-top: 14px; margin-bottom: 22px;
+  display: grid; gap: 6px;
+}
+.cabecera-seccion h2 { font-size: clamp(1.5rem, 3.4vw, 2rem); }
+.cabecera-seccion p { color: var(--tinta-2); max-width: 68ch; font-size: .95rem; }
+main > section { margin-top: 56px; }
+
+/* Barra de 0 a 100. El fondo es el mismo color del nivel, muy aclarado. */
+.medidor { --c: var(--medio); height: 10px; border-radius: 999px; overflow: hidden;
+  background: color-mix(in srgb, var(--c) 20%, var(--hoja)); }
+.medidor span { display: block; height: 100%; border-radius: 999px; background: var(--c); }
+.medidor.fino { height: 6px; }
+.nivel-bajo { --c: var(--bajo); }
+.nivel-medio { --c: var(--medio); }
+.nivel-alto { --c: var(--alto); }
+
+/* Etiqueta Bajo / Medio / Alto: punto de color + palabra */
+.pastilla {
+  display: inline-flex; align-items: center; gap: 6px; padding: 2px 10px 2px 8px;
+  border: 1px solid var(--regla); border-radius: 999px; background: var(--hoja);
+  font-size: .76rem; font-weight: 700; color: var(--tinta); white-space: nowrap;
+}
+.pastilla::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--c); }
+
+details summary { cursor: pointer; color: var(--acento); font-weight: 600; font-size: .9rem; }
+details[open] summary { margin-bottom: 10px; }
+
+/* ---------- Portada: titular + termómetro ---------- */
+.portada { display: grid; gap: 32px; margin-top: 36px; }
+.portada-texto { display: grid; gap: 14px; align-content: start; }
+.portada h1 { font-size: clamp(2.2rem, 6vw, 3.6rem); letter-spacing: -.02em; }
+.entrada { font: 400 1.2rem/1.5 var(--titular); color: var(--tinta-2); max-width: 60ch; }
+.portada-texto .rotulo { margin-top: 10px; padding-top: 14px; border-top: 1px solid var(--regla); }
+.temas { font-size: 1.05rem; max-width: 66ch; }
+.ficha { display: flex; flex-wrap: wrap; gap: 12px 32px; margin: 8px 0 0; padding-top: 14px; border-top: 1px solid var(--regla); }
+.ficha dt { font-size: .72rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--tinta-3); }
+.ficha dd { margin: 0; font-weight: 600; font-variant-numeric: tabular-nums; }
+
+.termometro {
+  background: var(--hoja); border: 1px solid var(--regla); border-top: 4px solid var(--acento);
+  padding: 22px; display: grid; gap: 12px; align-content: start;
+}
+.termometro-dato { display: flex; align-items: center; gap: 16px; }
+.termometro-dato img { flex: none; width: 120px; height: 120px; border-radius: 12px; background: #fff; }
+.termometro-dato > div { display: grid; gap: 6px; justify-items: start; }
+.cifra { display: flex; align-items: baseline; gap: 8px; }
+.cifra b { font: 700 4.2rem/0.9 var(--titular); font-variant-numeric: tabular-nums; }
+.cifra span { color: var(--tinta-3); font-weight: 600; }
+.cambio { color: var(--tinta-2); font-size: .88rem; }
+.escala { display: flex; justify-content: space-between; color: var(--tinta-3); font-size: .74rem; margin-top: -6px; }
+.estado { font-size: .95rem; }
+.motivo { color: var(--tinta-2); font-size: .95rem; }
+.termometro details img { border-radius: 8px; }
+
+/* ---------- Ranking de populismo ---------- */
+.ranking { list-style: none; margin: 0; padding: 0; display: grid; }
+.ranking li {
+  display: grid; grid-template-columns: minmax(84px, 9rem) 1fr 2.4rem 5rem; align-items: center;
+  gap: 12px; padding: 12px 0; border-bottom: 1px solid var(--regla);
+}
+.ranking .nombre { font: 600 1.1rem/1.2 var(--titular); }
+.ranking .valor { font-weight: 700; text-align: right; font-variant-numeric: tabular-nums; }
+
+/* ---------- Periódicos ---------- */
+.rejilla-periodicos { display: grid; gap: 0 40px; }
+.periodico { display: grid; gap: 14px; align-content: start; padding: 22px 0; border-bottom: 1px solid var(--regla); }
+.periodico > header { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.periodico h3 { font-size: 1.7rem; }
+.fuente { font-size: .8rem; color: var(--tinta-3); }
+.periodico ul { margin: 0; padding-left: 1.1rem; display: grid; gap: 6px; }
+.populismo { display: grid; gap: 8px; }
+.populismo .linea { display: flex; align-items: center; gap: 10px; }
+.populismo .linea span:first-child { font-size: .74rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--tinta-3); margin-right: auto; }
+.populismo .linea b { font-variant-numeric: tabular-nums; }
+.nota { color: var(--tinta-2); font-size: .9rem; }
+.sesgo { border-left: 3px solid var(--regla); padding-left: 12px; color: var(--tinta-2); font-size: .93rem; }
+.sesgo b { color: var(--tinta); }
+.periodico details ol { margin: 0; padding-left: 1.4rem; display: grid; gap: 6px; font-size: .93rem; }
+.aviso { color: var(--tinta-2); }
+
+/* ---------- Opiniones ---------- */
+.pestanas { display: none; }
+.js .pestanas { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; margin-bottom: 20px; }
+.pestanas button {
+  display: grid; justify-items: center; gap: 6px; padding: 10px 4px; cursor: pointer;
+  background: none; border: 0; border-bottom: 3px solid transparent;
+  color: var(--tinta-2); font: 600 .8rem/1.25 var(--texto);
+}
+.pestanas img { width: 60px; height: 60px; border-radius: 50%; background: #fff; border: 1px solid var(--regla); }
+.pestanas button:hover { color: var(--tinta); }
+.pestanas button[aria-selected="true"] { color: var(--tinta); border-bottom-color: var(--acento); }
+.pestanas button[aria-selected="true"] img { border-color: var(--acento); box-shadow: 0 0 0 2px var(--acento); }
+.paneles { display: grid; gap: 32px; }
+.opinion { display: grid; gap: 14px; max-width: 70ch; }
+.opinion > header { display: flex; align-items: center; gap: 14px; }
+.opinion > header img { width: 56px; height: 56px; border-radius: 50%; background: #fff; border: 1px solid var(--regla); }
+.opinion h3 { font-size: 1.5rem; }
+.opinion p { font: 400 1.12rem/1.6 var(--titular); }
+.opinion[hidden] { display: none; }
+
+/* ---------- Día a día: gráfico y tabla ---------- */
+.figura { margin: 0 0 24px; background: var(--hoja); border: 1px solid var(--regla); padding: 14px; }
+.grafico { display: block; width: 100%; height: auto; max-height: 260px; }
+.grafico .guia { stroke: var(--regla); stroke-width: 1; }
+.grafico .eje { fill: var(--tinta-3); font: 400 11px var(--texto); }
+.grafico .valor { fill: var(--tinta); font: 700 13px var(--texto); }
+.grafico .zona { fill: transparent; }
+.grafico .columna path { fill: var(--acento-suave); }
+.grafico .columna.hoy path, .grafico .columna:hover path { fill: var(--acento); }
+
+.tabla-rueda { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; font-size: .93rem; }
+thead th { text-align: left; font-size: .72rem; letter-spacing: .08em; text-transform: uppercase;
+  color: var(--tinta-3); padding: 8px 12px 8px 0; border-bottom: 1px solid var(--tinta); }
+tbody th, tbody td { text-align: left; vertical-align: top; padding: 14px 12px 14px 0; border-bottom: 1px solid var(--regla); }
+tbody th { white-space: nowrap; font-variant-numeric: tabular-nums; }
+.celda-nota { white-space: nowrap; }
+.celda-nota b { display: inline-block; min-width: 2.2rem; font-variant-numeric: tabular-nums; }
+tbody td:last-child { min-width: 240px; color: var(--tinta-2); }
+
+/* ---------- Pie ---------- */
+.pie { margin-top: 64px; padding: 28px 0 40px; border-top: 1px solid var(--regla); background: var(--hoja);
+  color: var(--tinta-2); font-size: .88rem; }
+.pie .ancho { display: grid; gap: 10px; }
+.pie p { max-width: 80ch; }
+.pie b { color: var(--tinta); }
+
+/* ---------- Pantallas anchas ---------- */
+@media (min-width: 860px) {
+  .portada { grid-template-columns: 1.25fr 1fr; gap: 48px; }
+  .rejilla-periodicos { grid-template-columns: 1fr 1fr; }
+}
+
+/* ---------- Móvil ---------- */
+@media (max-width: 520px) {
+  .ranking li { grid-template-columns: 1fr auto auto; }
+  .ranking .medidor { grid-column: 1 / -1; grid-row: 2; }
+  .pestanas img { width: 46px; height: 46px; }
+  .pestanas button { font-size: .7rem; }
+  .termometro-dato img { width: 96px; height: 96px; }
+  .cifra b { font-size: 3.4rem; }
+}
+
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
