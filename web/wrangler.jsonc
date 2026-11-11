@@ -21,7 +21,10 @@
   // Datos que el programa necesita y que no son secretos.
   "vars": {
     "REPO": "nonete/portadas-ia",
-    "RAMA": "main"
+    "RAMA": "main",
+    // "no" = la página de configuración se abre sin clave (solo para pruebas).
+    // "si" = pide la clave del secreto CLAVE_CONFIGURACION.
+    "PEDIR_CLAVE": "no"
   },
 
   // Permite al programa leer pagina.html como texto.

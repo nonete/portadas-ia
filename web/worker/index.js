@@ -10,11 +10,12 @@
     GET  /api/estado      → cómo va la última actualización
     POST /api/actualizar  → lanza "Actualizar portadas" en GitHub
 
-  Necesita dos secretos, que se guardan en GitHub y publicar-web.yml copia a
+  Usa dos secretos, que se guardan en GitHub y publicar-web.yml copia a
   Cloudflare:
-    CLAVE_CONFIGURACION   → la clave para entrar
+    CLAVE_CONFIGURACION   → la clave para entrar (solo si PEDIR_CLAVE es "si")
     GITHUB_TOKEN_CONFIG   → un token de GitHub para guardar los prompts y
-                            lanzar la actualización
+                            lanzar la actualización. Sin él la página se ve,
+                            pero no puede guardar ni actualizar.
 
   Los prompts cambiados se guardan en config/prompts.json del repositorio,
   así queda un historial de cada cambio.
@@ -51,13 +52,15 @@ export default {
 };
 
 async function atender(request, env, url, ruta) {
-  // 1. ¿Están puestos los secretos?
-  if (!env.CLAVE_CONFIGURACION || !env.GITHUB_TOKEN_CONFIG) {
-    return texto("La página de configuración todavía no está activada: faltan los secretos.", 503);
+  // 1. ¿Hay que pedir clave? Se decide con PEDIR_CLAVE en web/wrangler.jsonc.
+  //    Con "no", cualquiera que conozca la dirección puede entrar.
+  const pedirClave = env.PEDIR_CLAVE !== "no";
+  if (pedirClave && !env.CLAVE_CONFIGURACION) {
+    return texto("La página de configuración pide clave, pero falta el secreto CLAVE_CONFIGURACION.", 503);
   }
 
   // 2. ¿Trae la clave correcta?
-  if (!(await claveCorrecta(request, env))) {
+  if (pedirClave && !(await claveCorrecta(request, env))) {
     await esperar(700); // frena a quien pruebe claves una tras otra
     return new Response("Hace falta la clave.", {
       status: 401,
@@ -74,7 +77,16 @@ async function atender(request, env, url, ruta) {
   if (ruta === "/configuracion" && request.method === "GET") {
     return new Response(PAGINA, { headers: { ...PRIVADO, "Content-Type": "text/html; charset=utf-8" } });
   }
-  if (ruta === "/api/config" && request.method === "GET") return leerConfig(env);
+  // Sin el token de GitHub la página se puede ver, pero no guardar ni actualizar.
+  if (!env.GITHUB_TOKEN_CONFIG) {
+    if (ruta === "/api/config" && request.method === "GET") {
+      return json({ prompts: ORIGINALES, cambiados: {}, sha: null, sinToken: true, sinClave: !pedirClave });
+    }
+    if (ruta === "/api/estado" && request.method === "GET") return json({ ultima: null, sinToken: true });
+    return json({ error: "Falta el secreto GITHUB_TOKEN_CONFIG: sin él no se puede guardar ni actualizar." }, 503);
+  }
+
+  if (ruta === "/api/config" && request.method === "GET") return leerConfig(env, pedirClave);
   if (ruta === "/api/config" && request.method === "PUT") return guardarConfig(request, env);
   if (ruta === "/api/estado" && request.method === "GET") return estado(env);
   if (ruta === "/api/actualizar" && request.method === "POST") return actualizar(request, env);
@@ -160,10 +172,10 @@ async function leerCambiados(env) {
 // Las acciones
 // ----------------------------------------------------------------------
 
-async function leerConfig(env) {
+async function leerConfig(env, pedirClave) {
   const cambiados = await leerCambiados(env);
   if (cambiados.error) return cambiados.error;
-  return json({ prompts: ORIGINALES, cambiados: cambiados.valores, sha: cambiados.sha });
+  return json({ prompts: ORIGINALES, cambiados: cambiados.valores, sha: cambiados.sha, sinClave: !pedirClave });
 }
 
 // Las mismas comprobaciones que hace prompts.py.

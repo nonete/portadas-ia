@@ -59,6 +59,8 @@
 <main class="ancho">
   <h1>Configuración</h1>
   <p class="intro">Aquí puedes lanzar una lectura de portadas y cambiar las instrucciones (prompts) que recibe ChatGPT.</p>
+  <p class="error" id="aviso-token" hidden style="margin-top:14px">Falta el token de GitHub (secreto GITHUB_TOKEN_CONFIG): puedes ver los prompts originales, pero no guardar cambios ni lanzar actualizaciones.</p>
+  <p class="nota-pequena" id="aviso-clave" hidden style="margin-top:10px">Esta página está ahora sin clave: cualquiera que conozca la dirección puede entrar.</p>
 
   <section aria-labelledby="titulo-actualizar">
     <header class="cabecera-seccion"><h2 id="titulo-actualizar">Actualizar ahora</h2>
@@ -96,6 +98,7 @@
 let prompts = [];
 let guardados = {};
 let sha = null;
+let sinToken = false;   // true si falta el token de GitHub: no se puede guardar
 
 const zona = document.getElementById("prompts");
 const aviso = document.getElementById("aviso");
@@ -148,8 +151,9 @@ function repasar() {
     if (valor !== guardado) pendientes++;
     if (errores.length) conError++;
   });
-  botonGuardar.disabled = pendientes === 0 || conError > 0;
-  if (conError) decir("Hay " + conError + " prompt(s) con errores.", "mal");
+  botonGuardar.disabled = pendientes === 0 || conError > 0 || sinToken;
+  if (sinToken) decir("No se puede guardar: falta el token de GitHub.", "mal");
+  else if (conError) decir("Hay " + conError + " prompt(s) con errores.", "mal");
   else if (pendientes) decir(pendientes + " cambio(s) sin guardar.");
   else decir("Sin cambios por guardar.");
 }
@@ -198,6 +202,9 @@ async function cargar() {
   try {
     const datos = await pedir("/api/config");
     prompts = datos.prompts; guardados = datos.cambiados; sha = datos.sha;
+    sinToken = Boolean(datos.sinToken);
+    document.getElementById("aviso-token").hidden = !sinToken;
+    document.getElementById("aviso-clave").hidden = !datos.sinClave;
     pintar();
   } catch (error) {
     zona.innerHTML = '<p class="error"></p>';
@@ -266,7 +273,13 @@ function hora(fecha) {
 async function verEstado() {
   clearTimeout(reloj);
   try {
-    const ultima = (await pedir("/api/estado")).ultima;
+    const datos = await pedir("/api/estado");
+    const ultima = datos.ultima;
+    if (datos.sinToken) {
+      lineaEstado.textContent = "No se puede actualizar desde aquí: falta el token de GitHub.";
+      botonActualizar.disabled = true;
+      return;
+    }
     if (!ultima) { lineaEstado.textContent = "Todavía no hay ninguna actualización."; return; }
     const origen = ultima.origen === "schedule" ? "automática" : "lanzada a mano";
     let frase;
