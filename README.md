@@ -21,7 +21,7 @@ Arriba del todo hay un selector de sección: **Portadas** y **Discapacidad** (ta
 
 La sección Discapacidad muestra noticias sobre discapacidad de medios españoles, repartidas sin repetirse en **hoy**, **últimas semanas**, **último mes** y **último año**, y un **resumen de la IA** de lo que se está hablando en España.
 
-- `actualizar_discapacidad.py` busca las noticias (Google Noticias, Bing Noticias y el RSS de unos 50 medios), pide el resumen a ChatGPT y guarda `datos/discapacidad/ultimo.json`. Lo ejecuta GitHub Actions después de `actualizar.py`.
+- `actualizar_discapacidad.py` busca las noticias (Google Noticias, Bing Noticias y el RSS de unos 40 medios), descarta las que no son de prensa española o no van de discapacidad (en los casos dudosos decide ChatGPT), pide el resumen a ChatGPT y guarda `datos/discapacidad/ultimo.json`. Lo ejecuta GitHub Actions después de `actualizar.py`.
 - `seccion_discapacidad.py` enseña ese archivo; `app.py` lo llama al elegir la sección.
 - Para añadir un medio: una línea en `RSS_PERIODICOS` (o `RSS_ESPECIALIZADOS`) y, si su dirección no acaba en `.es`, `.cat`, `.eus` o `.gal`, otra en `MEDIOS_ES_OTRA_TERMINACION`.
 

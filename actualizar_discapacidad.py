@@ -12,11 +12,14 @@ Pasos que sigue:
        b) Bing Noticias: lo mismo, como refuerzo.
        c) El RSS de cada periódico: de ahí solo se guardan las noticias que
           hablan de discapacidad (ver PALABRAS_CLAVE).
-  2. Juntarlas con las que ya había guardadas, quitar repetidas y las de hace
+  2. Filtrar: fuera los medios que no son españoles, las webs de instituciones
+     y los sorteos de la ONCE. Si el titular no deja claro que la noticia va
+     de discapacidad, se le pregunta a ChatGPT.
+  3. Juntarlas con las que ya había guardadas, quitar repetidas y las de hace
      más de un año.
-  3. Pedir a ChatGPT, con LangChain, un resumen de qué se está hablando sobre
+  4. Pedir a ChatGPT, con LangChain, un resumen de qué se está hablando sobre
      discapacidad en España.
-  4. Guardar todo en datos/discapacidad/ultimo.json, que es lo que enseña la web.
+  5. Guardar todo en datos/discapacidad/ultimo.json, que es lo que enseña la web.
 """
 
 import os
@@ -51,13 +54,17 @@ from actualizar import (
 # ----------------------------------------------------------------------
 
 ARCHIVO = CARPETA / "discapacidad" / "ultimo.json"
+# Titulares que ChatGPT ya ha descartado, para no volver a preguntarle por ellos.
+ARCHIVO_DESCARTADAS = CARPETA / "discapacidad" / "descartadas.json"
+MAX_DESCARTADAS = 3000
 
 # Lo que se busca en Google Noticias y en Bing Noticias.
 BUSQUEDAS = [
     "discapacidad",
     '"personas con discapacidad"',
     "discapacidad accesibilidad",
-    "discapacidad CERMI OR ONCE OR dependencia",
+    "discapacidad dependencia",
+    "discapacidad CERMI",
 ]
 
 # Periódicos en los que además se busca uno a uno (en grupos), para que los
@@ -74,12 +81,18 @@ SITIOS = [
     "hoy.es", "elcomercio.es", "eldiariomontanes.es", "larioja.com",
     "diariodemallorca.es", "informacion.es", "laopiniondemurcia.es",
     "elperiodicodearagon.com", "elperiodicoextremadura.com", "eldia.es",
-    "laprovincia.es", "ara.cat", "elnacional.cat", "deia.eus", "servimedia.es",
+    "laprovincia.es", "ara.cat", "elnacional.cat", "deia.eus", "cadenaser.com",
+    # Medios especializados en discapacidad y en el sector social
+    "servimedia.es", "discapnet.es", "cermi.es", "solidaridaddigital.es",
+    "plenainclusion.org", "cocemfe.es", "somospacientes.com", "tododisca.com",
 ]
 SITIOS_POR_GRUPO = 8
 
 # RSS de cada periódico. De estos solo se guardan las noticias que contienen
 # alguna PALABRA_CLAVE. Si una dirección falla, se avisa y se sigue.
+# (La Razón, Público, El Periódico, RTVE, El Debate, Vozpópuli, Diario de
+# Navarra y Servimedia no tienen un RSS que responda desde GitHub: sus
+# noticias llegan por Google Noticias.)
 RSS_PERIODICOS = {
     # Nacionales
     "El País": [
@@ -98,20 +111,14 @@ RSS_PERIODICOS = {
     "El Confidencial": ["https://rss.elconfidencial.com/espana/"],
     "elDiario.es": ["https://www.eldiario.es/rss/"],
     "20minutos": ["https://www.20minutos.es/rss/"],
-    "La Razón": ["https://www.larazon.es/rss/portada.xml"],
     "El Español": ["https://www.elespanol.com/rss/"],
-    "Público": ["https://www.publico.es/rss/"],
     "OKdiario": ["https://okdiario.com/feed"],
-    "El Periódico": ["https://www.elperiodico.com/es/rss/rss_portada.xml"],
     "Europa Press": [
         "https://www.europapress.es/rss/rss.aspx",
         "https://www.europapress.es/rss/rss.aspx?ch=00313",   # Sociedad
     ],
-    "RTVE": ["https://www.rtve.es/api/noticias.rss"],
     "infoLibre": ["https://www.infolibre.es/rss/"],
     "HuffPost": ["https://www.huffingtonpost.es/feeds/index.xml"],
-    "El Debate": ["https://www.eldebate.com/rss/"],
-    "Vozpópuli": ["https://www.vozpopuli.com/rss"],
     "El Independiente": ["https://www.elindependiente.com/feed/"],
     "The Objective": ["https://theobjective.com/feed/"],
     "Newtral": ["https://www.newtral.es/feed/"],
@@ -131,7 +138,6 @@ RSS_PERIODICOS = {
     "Diario Sur": ["https://www.diariosur.es/rss/2.0/portada"],
     "Canarias7": ["https://www.canarias7.es/rss/2.0/portada"],
     "Heraldo de Aragón": ["https://www.heraldo.es/rss/"],
-    "Diario de Navarra": ["https://www.diariodenavarra.es/rss/"],
     "Diario de Sevilla": ["https://www.diariodesevilla.es/rss/"],
     "Levante-EMV": ["https://www.levante-emv.com/rss/"],
     "Faro de Vigo": ["https://www.farodevigo.es/rss/"],
@@ -141,27 +147,56 @@ RSS_PERIODICOS = {
     "El Periódico de Aragón": ["https://www.elperiodicodearagon.com/rss/"],
 }
 
-# Medios especializados en discapacidad: de estos se guarda todo lo que publiquen.
+# Medios dedicados por entero a la discapacidad: de estos se guarda todo.
 RSS_ESPECIALIZADOS = {
-    "Servimedia": ["https://www.servimedia.es/rss", "https://www.servimedia.es/rss/noticias"],
-    "Discapnet": ["https://www.discapnet.es/rss.xml"],
-    "CERMI": ["https://cermi.es/feed", "https://www.cermi.es/rss.xml"],
-    "Somos Pacientes": ["https://www.somospacientes.com/feed/"],
     "Tododisca": ["https://www.tododisca.com/feed/"],
-    "Solidaridad Digital": ["https://www.solidaridaddigital.es/rss.xml"],
-    "Plena inclusión": ["https://www.plenainclusion.org/feed/"],
+}
+# Sus noticias se aceptan sin más comprobaciones, lleguen por donde lleguen.
+DOMINIOS_ESPECIALIZADOS = {
+    "tododisca.com", "discapnet.es", "cermi.es", "plenainclusion.org",
+    "cocemfe.es", "solidaridaddigital.es",
 }
 
-# Una noticia de un RSS general se guarda si su titular o su entradilla
-# contienen alguna de estas palabras (sin distinguir mayúsculas ni tildes).
+# Palabras que indican que una noticia habla de discapacidad (sin distinguir
+# mayúsculas ni tildes). Si están en el titular, la noticia se acepta. Si no,
+# decide ChatGPT (ver filtrar_con_ia).
 PALABRAS_CLAVE = re.compile(
     r"discapacidad|discapacitad|diversidad funcional|movilidad reducida|"
-    r"silla de ruedas|accesibilidad universal|lengua de signos|braille|"
-    r"sindrome de down|paralisis cerebral|autismo|\btea\b|sordocegu|"
-    r"personas sordas|personas ciegas|paralimpic|\bcermi\b|\bla once\b|"
-    r"plena inclusion|ley de dependencia|educacion especial|"
-    r"centro especial de empleo|lectura facil|capacitismo"
+    r"silla de ruedas|sillas de ruedas|accesib|lengua de signos|braille|"
+    r"sindrome de down|paralisis cerebral|autismo|autista|\btea\b|sordocegu|"
+    r"\bsord[oa]s?\b|\bcieg[oa]s?\b|paralimpic|\bcermi\b|\bla once\b|"
+    r"fundacion once|plena inclusion|dependencia|dependientes|"
+    r"educacion especial|centros? especial(es)? de empleo|lectura facil|"
+    r"capacitismo|vida independiente|atencion temprana|\bela\b|aspace|cocemfe"
 )
+
+# Resultados de los sorteos de la ONCE: aparecen al buscar, pero no son noticia.
+SORTEOS = re.compile(r"sorteo|cupon|cuponazo|numero premiado|comprobar")
+
+# Webs de instituciones, universidades, sindicatos… No son prensa.
+INSTITUCIONES = re.compile(
+    r"ayuntamiento|ajuntament|\bayto\b|concello|universidad|universitat|"
+    r"ministerio|\bjunta de\b|xunta|generalitat|gobierno|govern\b|moncloa|"
+    r"cabildo|diputacion|foru aldundia|sindicato|\bugt\b|\bccoo\b|\bcsif\b|"
+    r"\banpe\b|\bfsie\b|federacion|colegio de|agencia tributaria|imserso|"
+    r"\badif\b|\bcomunica gva\b|\.eus$|^www\.|carm\.es|navarra\.es|"
+    r"aguimes\.es|fiscal\.es|aragon hoy|\bicam\b|\bfemp\b"
+)
+
+# Nombre con el que se muestra cada medio, para que el mismo periódico no
+# salga escrito de dos formas ("EL PAÍS" y "El País").
+NOMBRES = {
+    "elpais.com": "El País", "elmundo.es": "El Mundo", "abc.es": "ABC",
+    "lavanguardia.com": "La Vanguardia", "elconfidencial.com": "El Confidencial",
+    "eldiario.es": "elDiario.es", "20minutos.es": "20minutos",
+    "larazon.es": "La Razón", "elespanol.com": "El Español",
+    "publico.es": "Público", "okdiario.com": "OKdiario",
+    "elperiodico.com": "El Periódico", "europapress.es": "Europa Press",
+    "rtve.es": "RTVE", "heraldo.es": "Heraldo de Aragón", "eldia.es": "El Día",
+    "marca.com": "Marca", "as.com": "AS", "lasexta.com": "laSexta",
+    "elplural.com": "El Plural", "que.es": "Qué!", "ara.cat": "Ara",
+    "discapnet.es": "Discapnet", "cope.es": "COPE",
+}
 
 # Solo interesa la prensa española. Un medio se acepta si su dirección acaba
 # en .es, .cat, .eus o .gal, o si está en esta lista de medios españoles
@@ -192,8 +227,8 @@ MEDIOS_ES_OTRA_TERMINACION = {
 
 # Cuántas noticias se guardan como máximo de cada periodo.
 MAXIMO_POR_PERIODO = {"hoy": 80, "semanas": 120, "mes": 120, "anio": 300}
-# Cuántos titulares se le pasan a ChatGPT para el resumen.
-MAX_PARA_RESUMEN = 160
+# Cuántos titulares de cada periodo se le pasan a ChatGPT para el resumen.
+PARA_RESUMEN = {"hoy": 60, "semanas": 70, "mes": 40}
 
 GOOGLE = "https://news.google.com/rss/search?q={consulta}&hl=es&gl=ES&ceid=ES:es"
 BING = "https://www.bing.com/news/search?q={consulta}&format=rss&cc=es&setlang=es"
@@ -226,8 +261,18 @@ def es_medio_espanol(nombre_dominio: str) -> bool:
     )
 
 
-def habla_de_discapacidad(noticia: dict) -> bool:
-    return bool(PALABRAS_CLAVE.search(sin_tildes(noticia["titulo"] + " " + noticia["entradilla"])))
+def habla_de_discapacidad(noticia: dict, solo_titular: bool = False) -> bool:
+    texto = noticia["titulo"] if solo_titular else noticia["titulo"] + " " + noticia["entradilla"]
+    return bool(PALABRAS_CLAVE.search(sin_tildes(texto)))
+
+
+def es_institucion(medio: str) -> bool:
+    return bool(INSTITUCIONES.search(sin_tildes(medio)))
+
+
+def nombre_medio(nombre_dominio: str, nombre: str) -> str:
+    """El nombre de NOMBRES si el medio está en la lista; si no, el que traiga."""
+    return NOMBRES.get(nombre_dominio) or nombre or nombre_dominio
 
 
 def clave_titulo(titulo: str) -> str:
@@ -265,8 +310,9 @@ def fecha_de(entrada) -> datetime | None:
     return datetime(*partes[:6], tzinfo=timezone.utc)
 
 
-def noticia_de(entrada, medio: str, enlace: str | None = None) -> dict | None:
-    """Convierte una entrada de RSS en nuestro diccionario de noticia."""
+def noticia_de(entrada, medio: str, enlace: str | None = None, segura: bool = False) -> dict | None:
+    """Convierte una entrada de RSS en nuestro diccionario de noticia.
+    'segura' marca las de medios dedicados a la discapacidad (no se filtran)."""
     titulo = limpiar_html(entrada.get("title", ""))
     fecha = fecha_de(entrada)
     enlace = enlace or entrada.get("link", "")
@@ -278,6 +324,7 @@ def noticia_de(entrada, medio: str, enlace: str | None = None) -> dict | None:
         "enlace": enlace,
         "fecha": fecha.isoformat(timespec="minutes"),
         "entradilla": limpiar_html(entrada.get("summary", ""))[:240],
+        "segura": segura,
     }
 
 
@@ -329,9 +376,12 @@ def buscar_en_google(hoy: datetime) -> list[dict]:
         for entrada in feed.entries:
             fuente = entrada.get("source", {})
             medio = fuente.get("title", "")
-            if not es_medio_espanol(dominio(fuente.get("href", ""))):
+            web = dominio(fuente.get("href", ""))
+            if not es_medio_espanol(web) or es_institucion(medio):
                 continue
-            noticia = noticia_de(entrada, medio)
+            noticia = noticia_de(
+                entrada, nombre_medio(web, medio), segura=web in DOMINIOS_ESPECIALIZADOS
+            )
             if noticia is None:
                 continue
             # Google escribe "Titular - Medio": quitamos el final.
@@ -356,10 +406,13 @@ def buscar_en_bing() -> list[dict]:
             # El enlace de Bing es una redirección; la dirección real va en "url=".
             enlace = entrada.get("link", "")
             real = parse_qs(urlparse(enlace).query).get("url", [enlace])[0]
-            if not es_medio_espanol(dominio(real)):
+            web = dominio(real)
+            medio = entrada.get("news_source", "")
+            if not es_medio_espanol(web) or es_institucion(medio):
                 continue
-            medio = entrada.get("news_source") or dominio(real)
-            noticia = noticia_de(entrada, medio, real)
+            noticia = noticia_de(
+                entrada, nombre_medio(web, medio), real, segura=web in DOMINIOS_ESPECIALIZADOS
+            )
             if noticia:
                 noticias.append(noticia)
     print(f"  Bing Noticias: {len(noticias)} noticias")
@@ -379,11 +432,9 @@ def leer_un_medio(medio: str, direcciones: list[str], todo: bool) -> tuple[list[
             continue
         respondieron += 1
         for entrada in feed.entries:
-            noticia = noticia_de(entrada, medio)
+            noticia = noticia_de(entrada, medio, segura=todo)
             if noticia and (todo or habla_de_discapacidad(noticia)):
                 noticias.append(noticia)
-        if todo:
-            break       # en los especializados la segunda dirección es solo un repuesto
     return noticias, respondieron
 
 
@@ -407,7 +458,111 @@ def buscar_en_rss() -> list[dict]:
 
 
 # ----------------------------------------------------------------------
-# PASO 2 · JUNTAR, QUITAR REPETIDAS Y RECORTAR
+# PASO 2 · FILTRAR (CON AYUDA DE CHATGPT)
+# ----------------------------------------------------------------------
+
+class Seleccion(BaseModel):
+    """Respuesta de ChatGPT al filtro: los números de los titulares válidos."""
+
+    numeros: list[int] = Field(
+        description="Números de los titulares que SÍ tratan sobre discapacidad."
+    )
+
+
+PROMPT_FILTRO = ChatPromptTemplate.from_messages(
+    [
+        (
+            "system",
+            "Clasificas titulares de prensa española. Devuelve solo los números de "
+            "los que tratan sobre discapacidad: personas con discapacidad física, "
+            "intelectual, sensorial o psicosocial y sus familias, accesibilidad, "
+            "dependencia, sus derechos, leyes, ayudas, empleo, educación, deporte "
+            "adaptado o paralímpico, y las entidades del sector (ONCE, CERMI, Plena "
+            "inclusión, Cocemfe, Aspace y similares).\n\n"
+            "No incluyas sorteos ni cupones, ni noticias generales que no dejen ver "
+            "en el titular su relación con la discapacidad. En caso de duda, no lo incluyas.",
+        ),
+        ("human", "{titulares}"),
+    ]
+)
+
+TITULARES_POR_PREGUNTA = 80
+
+
+def filtrar_con_ia(dudosas: list[dict], nombre_modelo: str) -> list[dict]:
+    """Pregunta a ChatGPT cuáles de las noticias dudosas van de discapacidad."""
+    modelo = ChatOpenAI(api_key=leer_secreto("OPENAI_API_KEY"), model=nombre_modelo)
+    cadena = PROMPT_FILTRO | modelo.with_structured_output(Seleccion)
+
+    # Se pregunta por tandas de 80 titulares, numerados desde el 1.
+    tandas = [
+        dudosas[inicio:inicio + TITULARES_POR_PREGUNTA]
+        for inicio in range(0, len(dudosas), TITULARES_POR_PREGUNTA)
+    ]
+    respuestas = cadena.batch(
+        [
+            {
+                "titulares": "\n".join(
+                    f"{numero}. {noticia['titulo']}"
+                    + (f" — {noticia['entradilla']}" if noticia["entradilla"] else "")
+                    for numero, noticia in enumerate(tanda, start=1)
+                )
+            }
+            for tanda in tandas
+        ]
+    )
+    aceptadas = []
+    for tanda, respuesta in zip(tandas, respuestas):
+        aceptadas += [tanda[n - 1] for n in set(respuesta.numeros) if 1 <= n <= len(tanda)]
+    return aceptadas
+
+
+def filtrar(nuevas: list[dict], anterior: list[dict], nombre_modelo: str | None) -> list[dict]:
+    """Se queda con las noticias nuevas que hablan de discapacidad.
+
+    - Las de medios especializados y las que llevan una palabra clave en el
+      titular se aceptan directamente.
+    - Las demás son "dudosas": decide ChatGPT. Las que descarta se apuntan en
+      descartadas.json para no preguntarle otra vez por ellas.
+    """
+    ya_guardadas = {clave_titulo(noticia["titulo"]) for noticia in anterior}
+    descartadas = leer_json(ARCHIVO_DESCARTADAS, [])
+    ya_descartadas = set(descartadas)
+
+    aceptadas, dudosas, vistas = [], [], set()
+    for noticia in nuevas:
+        clave = clave_titulo(noticia["titulo"])
+        if not clave or clave in vistas or clave in ya_descartadas:
+            continue
+        if SORTEOS.search(sin_tildes(noticia["titulo"])):
+            continue
+        vistas.add(clave)
+        if noticia["segura"] or clave in ya_guardadas or habla_de_discapacidad(noticia, True):
+            aceptadas.append(noticia)
+        else:
+            dudosas.append(noticia)
+
+    print(f"  Filtro: {len(aceptadas)} claras y {len(dudosas)} dudosas")
+    if dudosas and nombre_modelo:
+        try:
+            rescatadas = filtrar_con_ia(dudosas, nombre_modelo)
+            claves_rescatadas = {clave_titulo(noticia["titulo"]) for noticia in rescatadas}
+            descartadas += [
+                clave
+                for clave in (clave_titulo(noticia["titulo"]) for noticia in dudosas)
+                if clave not in claves_rescatadas
+            ]
+            guardar_json(ARCHIVO_DESCARTADAS, descartadas[-MAX_DESCARTADAS:])
+            print(f"  Filtro: ChatGPT rescata {len(rescatadas)} de las dudosas")
+            aceptadas += rescatadas
+        except Exception as error:
+            # Sin ChatGPT nos quedamos solo con las claras.
+            print(f"  Filtro: ChatGPT no ha respondido ({error}); se descartan las dudosas")
+    return aceptadas
+
+
+# ----------------------------------------------------------------------
+# PASO 3 · JUNTAR, QUITAR REPETIDAS Y RECORTAR
 # ----------------------------------------------------------------------
 
 def juntar(noticias: list[dict], ahora: datetime) -> list[dict]:
@@ -425,12 +580,13 @@ def juntar(noticias: list[dict], ahora: datetime) -> list[dict]:
             continue
         vistas.add(clave)
         cuenta[bloque] = cuenta.get(bloque, 0) + 1
-        resultado.append(noticia)
+        # "segura" solo servía para el filtro: no se guarda.
+        resultado.append({k: v for k, v in noticia.items() if k != "segura"})
     return resultado
 
 
 # ----------------------------------------------------------------------
-# PASO 3 · RESUMEN CON LANGCHAIN + CHATGPT
+# PASO 4 · RESUMEN CON LANGCHAIN + CHATGPT
 # ----------------------------------------------------------------------
 
 class Tema(BaseModel):
@@ -446,7 +602,7 @@ class ResumenDiscapacidad(BaseModel):
     resumen: str = Field(
         description="Entre 110 y 160 palabras, en dos párrafos separados por un salto "
         "de línea, que expliquen de qué se está hablando sobre discapacidad en España: "
-        "primero lo más reciente y después el contexto de las últimas semanas."
+        "primero lo más reciente y después el contexto de las últimas semanas y del mes."
     )
     temas: list[Tema] = Field(
         description="Los 4 a 6 temas que más se repiten, del más al menos presente."
@@ -462,15 +618,16 @@ PROMPT_RESUMEN = ChatPromptTemplate.from_messages(
             "y sin opinar de política.\n\n"
             "Reglas: usa solo los titulares que se te dan; no inventes datos, cifras "
             "ni citas; si un tema aparece en un solo titular, no lo presentes como "
-            "tendencia. Usa un lenguaje respetuoso: di «personas con discapacidad», "
+            "tendencia; no comentes cuántos titulares hay ni de qué fechas son. "
+            "Usa un lenguaje respetuoso: di «personas con discapacidad», "
             "no «discapacitados» ni «minusválidos», y evita el tono de lástima o de "
             "heroísmo.",
         ),
         (
             "human",
             "Hoy es {hoy}. Estos son titulares sobre discapacidad publicados en medios "
-            "españoles en el último mes, con su fecha y su medio, del más nuevo al "
-            "más antiguo:\n\n{titulares}\n\n"
+            "españoles en el último mes, con su fecha y su medio, agrupados por "
+            "antigüedad:\n\n{titulares}\n\n"
             "Resume de qué se está hablando sobre discapacidad en España y señala "
             "los temas que más se repiten.",
         ),
@@ -478,20 +635,34 @@ PROMPT_RESUMEN = ChatPromptTemplate.from_messages(
 )
 
 
-def resumir(noticias: list[dict], ahora: datetime, nombre_modelo: str) -> dict:
-    recientes = [
-        noticia
-        for noticia in noticias
-        if periodo(datetime.fromisoformat(noticia["fecha"]), ahora) in ("hoy", "semanas", "mes")
-    ][:MAX_PARA_RESUMEN]
-    if not recientes:
-        recientes = noticias[:MAX_PARA_RESUMEN]
+def muestra(noticias: list[dict], cuantas: int) -> list[dict]:
+    """Elige 'cuantas' noticias repartidas por toda la lista (no solo las primeras)."""
+    if len(noticias) <= cuantas:
+        return noticias
+    paso = len(noticias) / cuantas
+    return [noticias[int(posicion * paso)] for posicion in range(cuantas)]
 
-    titulares = "\n".join(
-        f"- [{datetime.fromisoformat(n['fecha']).astimezone(MADRID):%d/%m}] "
-        f"{n['titulo']} ({n['medio']})"
-        for n in recientes
-    )
+
+def resumir(noticias: list[dict], ahora: datetime, nombre_modelo: str) -> dict:
+    nombres = {"hoy": "ÚLTIMAS 24 HORAS", "semanas": "ÚLTIMAS DOS SEMANAS", "mes": "ÚLTIMO MES"}
+    partes = []
+    for bloque, cuantas in PARA_RESUMEN.items():
+        del_bloque = [
+            noticia
+            for noticia in noticias
+            if periodo(datetime.fromisoformat(noticia["fecha"]), ahora) == bloque
+        ]
+        if del_bloque:
+            lineas = "\n".join(
+                f"- [{datetime.fromisoformat(n['fecha']).astimezone(MADRID):%d/%m}] "
+                f"{n['titulo']} ({n['medio']})"
+                for n in muestra(del_bloque, cuantas)
+            )
+            partes.append(f"## {nombres[bloque]}\n{lineas}")
+    if not partes:
+        raise RuntimeError("no hay noticias del último mes que resumir")
+    titulares = "\n\n".join(partes)
+
     modelo = ChatOpenAI(api_key=leer_secreto("OPENAI_API_KEY"), model=nombre_modelo)
     cadena = PROMPT_RESUMEN | modelo.with_structured_output(ResumenDiscapacidad)
     resultado = cadena.invoke({"hoy": f"{ahora:%d/%m/%Y}", "titulares": titulares})
@@ -499,7 +670,7 @@ def resumir(noticias: list[dict], ahora: datetime, nombre_modelo: str) -> dict:
 
 
 # ----------------------------------------------------------------------
-# PASO 4 · GUARDAR
+# PASO 5 · GUARDAR
 # ----------------------------------------------------------------------
 
 def main() -> None:
@@ -518,22 +689,34 @@ def main() -> None:
         print(f"Discapacidad: la actualización de las {turno}:00 ya está hecha.")
         return
 
+    # Sin las claves de OpenAI se guardan las noticias claras, sin filtro de IA ni resumen nuevo.
+    try:
+        nombre_modelo = leer_secreto("OPENAI_MODEL")
+    except KeyError:
+        nombre_modelo = None
+
     print("Discapacidad: buscando noticias…")
-    nuevas = buscar_en_google(ahora) + buscar_en_bing() + buscar_en_rss()
-    if not nuevas:
+    encontradas = buscar_en_google(ahora) + buscar_en_bing() + buscar_en_rss()
+    if not encontradas:
         sys.exit("Discapacidad: ninguna fuente ha dado noticias: no se guarda nada.")
 
+    guardadas = anterior.get("noticias", [])
+    nuevas = filtrar(encontradas, guardadas, nombre_modelo)
+
     # Las nuevas van delante: si una noticia ya estaba, se queda la versión nueva.
-    noticias = juntar(nuevas + anterior.get("noticias", []), ahora)
+    noticias = juntar(nuevas + guardadas, ahora)
+    if not noticias:
+        sys.exit("Discapacidad: no ha quedado ninguna noticia: no se guarda nada.")
     medios = sorted({noticia["medio"] for noticia in noticias}, key=sin_tildes)
     print(f"Discapacidad: {len(noticias)} noticias de {len(medios)} medios.")
 
     # Si el resumen falla, se guardan igualmente las noticias con el resumen anterior.
     resumen, modelo, error_resumen = anterior.get("resumen"), anterior.get("modelo", ""), None
     try:
-        modelo_nuevo = leer_secreto("OPENAI_MODEL")
-        print(f"Discapacidad: resumiendo con {modelo_nuevo}…")
-        resumen, modelo = resumir(noticias, ahora, modelo_nuevo), modelo_nuevo
+        if nombre_modelo is None:
+            raise RuntimeError("falta el Secret OPENAI_MODEL")
+        print(f"Discapacidad: resumiendo con {nombre_modelo}…")
+        resumen, modelo = resumir(noticias, ahora, nombre_modelo), nombre_modelo
     except Exception as error:
         error_resumen = error
 
