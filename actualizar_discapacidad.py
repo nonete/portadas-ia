@@ -164,8 +164,9 @@ PALABRAS_CLAVE = re.compile(
     r"discapacidad|discapacitad|diversidad funcional|movilidad reducida|"
     r"silla de ruedas|sillas de ruedas|accesib|lengua de signos|braille|"
     r"sindrome de down|paralisis cerebral|autismo|autista|\btea\b|sordocegu|"
-    r"\bsord[oa]s?\b|\bcieg[oa]s?\b|paralimpic|\bcermi\b|\bla once\b|"
-    r"fundacion once|plena inclusion|dependencia|dependientes|"
+    r"\bsord[oa]s\b|persona sorda|familia sorda|sordera|personas ciegas|"
+    r"ceguera|invidente|paralimpic|\bcermi\b|\bla once\b|"
+    r"fundacion once|plena inclusion|\bdependencia|\bdependientes|"
     r"educacion especial|centros? especial(es)? de empleo|lectura facil|"
     r"capacitismo|vida independiente|atencion temprana|\bela\b|aspace|cocemfe"
 )
@@ -180,7 +181,8 @@ INSTITUCIONES = re.compile(
     r"cabildo|diputacion|foru aldundia|sindicato|\bugt\b|\bccoo\b|\bcsif\b|"
     r"\banpe\b|\bfsie\b|federacion|colegio de|agencia tributaria|imserso|"
     r"\badif\b|\bcomunica gva\b|\.eus$|^www\.|carm\.es|navarra\.es|"
-    r"aguimes\.es|fiscal\.es|aragon hoy|\bicam\b|\bfemp\b"
+    r"aguimes\.es|fiscal\.es|aragon hoy|\bicam\b|\bfemp\b|diocesis|\bull\b|"
+    r"\bupv\b|\bdkv\b|umivale|fidelitis|plan de recuperacion|talent24h"
 )
 
 # Nombre con el que se muestra cada medio, para que el mismo periódico no
@@ -195,7 +197,8 @@ NOMBRES = {
     "rtve.es": "RTVE", "heraldo.es": "Heraldo de Aragón", "eldia.es": "El Día",
     "marca.com": "Marca", "as.com": "AS", "lasexta.com": "laSexta",
     "elplural.com": "El Plural", "que.es": "Qué!", "ara.cat": "Ara",
-    "discapnet.es": "Discapnet", "cope.es": "COPE",
+    "discapnet.es": "Discapnet", "cope.es": "COPE", "ideal.es": "Ideal",
+    "huffingtonpost.es": "HuffPost", "tododisca.com": "Tododisca",
 }
 
 # Solo interesa la prensa española. Un medio se acepta si su dirección acaba
@@ -349,9 +352,10 @@ def consultas_google(hoy: datetime) -> list[str]:
         consultas.append(f"{busqueda} when:7d")
         consultas.append(f"{busqueda} {tramo(15, 6)}")
         consultas.append(f"{busqueda} {tramo(31, 14)}")
-    # Un tramo por cada mes del último año.
+    # Un tramo por cada mes del último año, con las dos búsquedas principales.
     for mes in range(1, 12):
-        consultas.append(f"discapacidad {tramo(30 * (mes + 1) + 1, 30 * mes)}")
+        for busqueda in BUSQUEDAS[:2]:
+            consultas.append(f"{busqueda} {tramo(30 * (mes + 1) + 1, 30 * mes)}")
     # Periódico a periódico, en grupos, en el último mes.
     for inicio in range(0, len(SITIOS), SITIOS_POR_GRUPO):
         grupo = " OR ".join(f"site:{sitio}" for sitio in SITIOS[inicio:inicio + SITIOS_POR_GRUPO])
@@ -571,6 +575,7 @@ def juntar(noticias: list[dict], ahora: datetime) -> list[dict]:
     noticias = sorted(noticias, key=lambda noticia: noticia["fecha"], reverse=True)
 
     vistas, cuenta, resultado = set(), {}, []
+    nombres = {}        # "ideal" → "Ideal": el mismo medio, escrito siempre igual
     for noticia in noticias:
         bloque = periodo(datetime.fromisoformat(noticia["fecha"]), ahora)
         clave = clave_titulo(noticia["titulo"])
@@ -581,7 +586,9 @@ def juntar(noticias: list[dict], ahora: datetime) -> list[dict]:
         vistas.add(clave)
         cuenta[bloque] = cuenta.get(bloque, 0) + 1
         # "segura" solo servía para el filtro: no se guarda.
-        resultado.append({k: v for k, v in noticia.items() if k != "segura"})
+        noticia = {k: v for k, v in noticia.items() if k != "segura"}
+        noticia["medio"] = nombres.setdefault(sin_tildes(noticia["medio"]), noticia["medio"])
+        resultado.append(noticia)
     return resultado
 
 
