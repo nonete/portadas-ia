@@ -14,7 +14,7 @@ on:
         type: boolean
         default: true
       pais:
-        description: "Solo un país (es, fr, us, gb, de, it, ru, cn, br). Vacío = todos"
+        description: "Solo un país (es, fr, us, gb, de, it, ru, cn, br, eg). Vacío = todos"
         type: string
         default: ""
 

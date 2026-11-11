@@ -131,6 +131,13 @@ PAISES = {
         '<polygon points="1.5,0.2 2.75,1 1.5,1.8 0.25,1" fill="#ffdf00"/>'
         '<circle cx="1.5" cy="1" r="0.42" fill="#002776"/>',
     },
+    "eg": {
+        "nombre": "Egipto", "carpeta": "egipto", "idioma": "ar",
+        # Franjas roja, blanca y negra, con el águila dorada reducida a una
+        # silueta sencilla (cuerpo y dos alas) en el centro.
+        "bandera": franjas(["#ce1126", "#ffffff", "#000000"])
+        + '<path d="M1.5,0.74 L1.62,0.86 L1.86,0.8 L1.68,1.0 L1.62,1.24 L1.38,1.24 L1.32,1.0 L1.14,0.8 L1.38,0.86 Z" fill="#c09300"/>',
+    },
 }
 
 HORAS = [8, 18]                             # las mismas que en actualizar.py
@@ -331,6 +338,8 @@ def bloque_periodicos(codigo: str, ultimo: dict) -> str:
     fichas = []
     # lang="…" le dice al navegador en qué idioma están los titulares originales.
     idioma = f' lang="{PAISES[codigo]["idioma"]}"' if PAISES[codigo]["idioma"] else ""
+    if PAISES[codigo]["idioma"] == "ar":
+        idioma += ' dir="rtl"'          # el árabe se escribe de derecha a izquierda
     for periodico in ultimo["periodicos"]:
         nombre = escape(periodico["nombre"])
         web = escape(periodico["web"])

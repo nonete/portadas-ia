@@ -41,6 +41,7 @@ PAISES = {
     "ru": "🇷🇺 Rusia",
     "cn": "🇨🇳 China",
     "br": "🇧🇷 Brasil",
+    "eg": "🇪🇬 Egipto",
 }
 
 # Las secciones de la web (el selector de más arriba).

@@ -273,6 +273,36 @@ PERIODICOS_BR = {
     },
 }
 
+# Egipto, añadido el 11/11/2026. Titulares en árabe. Al-Ahram (el gran diario
+# estatal), Al-Wafd y Al-Dostor responden 403 desde GitHub, así que el diario
+# estatal elegido es Akhbar El-Yom. Tres de los cinco no tienen RSS que
+# funcione: se leen de la portada web con el plan B.
+PERIODICOS_EG = {
+    "Al-Masry Al-Youm": {
+        "web": "https://www.almasryalyoum.com",
+        "rss": ["https://www.almasryalyoum.com/rss/rssfeeds"],
+    },
+    "Youm7": {
+        "web": "https://www.youm7.com",
+        "rss": [
+            "https://www.youm7.com/rss/SectionRss?SectionID=65",
+            "https://www.youm7.com/rss/SectionRss?SectionID=97",
+        ],
+    },
+    "Akhbar El-Yom": {
+        "web": "https://akhbarelyom.com",
+        "rss": [],
+    },
+    "Al-Shorouk": {
+        "web": "https://www.shorouknews.com",
+        "rss": [],
+    },
+    "Mada Masr": {
+        "web": "https://www.madamasr.com/ar/",
+        "rss": ["https://www.madamasr.com/ar/feed/", "https://www.madamasr.com/en/feed/"],
+    },
+}
+
 # Los países de la web. La clave ("es", "fr"…) es también el nombre de su carpeta
 # dentro de datos/. Para añadir un país basta con añadir una entrada aquí
 # (y otra en PAISES de app.py y de web/generar.py para que salga en las webs).
@@ -286,6 +316,7 @@ PAISES = {
     "ru": {"nombre": "Rusia", "periodicos": PERIODICOS_RU},
     "cn": {"nombre": "China", "periodicos": PERIODICOS_CN},
     "br": {"nombre": "Brasil", "periodicos": PERIODICOS_BR},
+    "eg": {"nombre": "Egipto", "periodicos": PERIODICOS_EG},
 }
 
 # Los cinco personajes de "¿Quién quieres que te dé la opinión?".
