@@ -124,6 +124,13 @@ PAISES = {
         + "".join(estrella(x, y, 0.11) for x, y in [(1.05, 0.2), (1.28, 0.42), (1.28, 0.75), (1.05, 0.97)])
         + "</g>",
     },
+    "br": {
+        "nombre": "Brasil", "carpeta": "brasil", "idioma": "pt",
+        # Fondo verde, rombo amarillo y círculo azul (sin la banda del lema).
+        "bandera": '<rect width="3" height="2" fill="#009c3b"/>'
+        '<polygon points="1.5,0.2 2.75,1 1.5,1.8 0.25,1" fill="#ffdf00"/>'
+        '<circle cx="1.5" cy="1" r="0.42" fill="#002776"/>',
+    },
 }
 
 HORAS = [8, 18]                             # las mismas que en actualizar.py

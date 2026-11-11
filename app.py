@@ -40,6 +40,7 @@ PAISES = {
     "it": "🇮🇹 Italia",
     "ru": "🇷🇺 Rusia",
     "cn": "🇨🇳 China",
+    "br": "🇧🇷 Brasil",
 }
 
 # Las secciones de la web (el selector de más arriba).

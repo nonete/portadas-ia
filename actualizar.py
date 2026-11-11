@@ -241,6 +241,36 @@ PERIODICOS_CN = {
     },
 }
 
+# Brasil, añadido el 11/11/2026.
+PERIODICOS_BR = {
+    "Folha de S.Paulo": {
+        "web": "https://www.folha.uol.com.br",
+        "rss": [
+            "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
+            "https://feeds.folha.uol.com.br/poder/rss091.xml",
+        ],
+    },
+    "O Globo": {
+        "web": "https://oglobo.globo.com",
+        "rss": ["https://oglobo.globo.com/rss/oglobo"],
+    },
+    "O Estado de S. Paulo": {
+        "web": "https://www.estadao.com.br",
+        "rss": [
+            "https://www.estadao.com.br/arc/outboundfeeds/rss/?outputType=xml",
+            "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/politica/",
+        ],
+    },
+    "Gazeta do Povo": {
+        "web": "https://www.gazetadopovo.com.br",
+        "rss": ["https://www.gazetadopovo.com.br/feed/rss/ultimas-noticias.xml"],
+    },
+    "CartaCapital": {
+        "web": "https://www.cartacapital.com.br",
+        "rss": ["https://www.cartacapital.com.br/feed/"],
+    },
+}
+
 # Los países de la web. La clave ("es", "fr"…) es también el nombre de su carpeta
 # dentro de datos/. Para añadir un país basta con añadir una entrada aquí
 # (y otra en PAISES de app.py y de web/generar.py para que salga en las webs).
@@ -253,6 +283,7 @@ PAISES = {
     "it": {"nombre": "Italia", "periodicos": PERIODICOS_IT},
     "ru": {"nombre": "Rusia", "periodicos": PERIODICOS_RU},
     "cn": {"nombre": "China", "periodicos": PERIODICOS_CN},
+    "br": {"nombre": "Brasil", "periodicos": PERIODICOS_BR},
 }
 
 # Los cinco personajes de "¿Quién quieres que te dé la opinión?".
