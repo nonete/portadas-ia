@@ -41,6 +41,15 @@ jobs:
           FORZAR: ${{ github.event_name == 'workflow_dispatch' && inputs.forzar && '1' || '0' }}
         run: python actualizar.py
 
+      - name: Buscar noticias de discapacidad y resumirlas
+        # always(): se hace aunque algún país haya fallado en el paso anterior.
+        if: always()
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
+          FORZAR: ${{ github.event_name == 'workflow_dispatch' && inputs.forzar && '1' || '0' }}
+        run: python actualizar_discapacidad.py
+
       - name: Guardar los datos en el repositorio
         # always(): si un país falla, los datos de los demás se guardan igual.
         if: always()

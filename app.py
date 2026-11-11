@@ -19,6 +19,8 @@ from zoneinfo import ZoneInfo
 
 import streamlit as st
 
+import seccion_discapacidad
+
 HORAS = [8, 18]                # las mismas que en actualizar.py
 CARPETA = Path(__file__).parent / "datos"
 
@@ -39,6 +41,9 @@ PAISES = {
     "ru": "🇷🇺 Rusia",
     "cn": "🇨🇳 China",
 }
+
+# Las secciones de la web (el selector de más arriba).
+SECCIONES = {"portadas": "📰 Portadas", "discapacidad": "♿ Discapacidad"}
 
 # Un color para distinguir cada periódico, por orden (es solo decorativo).
 COLORES = ["#2563eb", "#0d9488", "#d97706", "#c026d3", "#4f46e5"]
@@ -139,6 +144,18 @@ ESTILOS = """
 .tabla .nota span { font-weight: 800; font-size: 1.15rem; }
 .tabla .nota small { color: #94a3b8; font-weight: 600; }
 
+/* Sección Discapacidad: lista de noticias y temas del resumen */
+.noticias { list-style: none; margin: 0 0 8px; padding: 0; }
+.noticias li {
+    background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #4f46e5;
+    border-radius: 10px; padding: 11px 14px; margin: 0 0 8px;
+}
+.noticias a { color: #1e3a8a; font-weight: 700; line-height: 1.4; text-decoration: none; }
+.noticias a:hover, .noticias a:focus { text-decoration: underline; }
+.noticias .meta { color: #475569; font-size: .84rem; margin-top: 4px; }
+.temas { margin: 6px 0 0; padding-left: 20px; color: #1e293b; line-height: 1.6; }
+.temas li { margin-bottom: 6px; }
+
 .pie { color: #64748b; font-size: .82rem; line-height: 1.55; margin-top: 22px; }
 h3 { color: #0f172a; }
 </style>
@@ -217,6 +234,28 @@ def a_numero(valor) -> int:
 
 st.set_page_config(page_title="Portadas IA", page_icon="📰", layout="centered")
 html(ESTILOS)
+
+# --- Selector de sección -----------------------------------------------
+
+# Igual que el país, la sección se guarda en la dirección (…/?seccion=discapacidad).
+seccion_inicial = st.query_params.get("seccion", "portadas")
+if seccion_inicial not in SECCIONES:
+    seccion_inicial = "portadas"
+
+seccion = st.radio(
+    "Sección",
+    list(SECCIONES),
+    index=list(SECCIONES).index(seccion_inicial),
+    format_func=lambda clave: SECCIONES[clave],
+    horizontal=True,
+)
+st.query_params["seccion"] = seccion
+
+if seccion == "discapacidad":
+    # Toda la sección está en seccion_discapacidad.py. st.stop() hace que no
+    # se pinte nada de lo que viene después (las portadas).
+    seccion_discapacidad.mostrar(proxima_actualizacion())
+    st.stop()
 
 # --- Selector de país --------------------------------------------------
 
