@@ -126,7 +126,7 @@ PAISES = {
     },
 }
 
-HORAS = [8, 11, 14, 17, 20]                  # las mismas que en actualizar.py
+HORAS = [8, 18]                             # las mismas que en actualizar.py
 ESTADOS_CRISPITO = ["Zen", "Tranquilo", "Mosqueado", "Molesto", "Enfadado", "¡A punto de estallar!"]
 DIAS_GRAFICO = 30                            # días que caben en el gráfico
 

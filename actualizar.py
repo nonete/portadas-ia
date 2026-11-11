@@ -2,7 +2,7 @@
 Portadas IA · el "robot" que actualiza los datos
 ------------------------------------------------
 Este programa NO es la web. Lo ejecuta GitHub automáticamente (ver
-.github/workflows/actualizar.yml) a las 8:00, 11:00, 14:00, 17:00 y 20:00.
+.github/workflows/actualizar.yml) a las 8:00 y a las 18:00.
 
 Pasos que sigue:
   1. Descargar los titulares de portada de cada periódico (por RSS).
@@ -294,7 +294,7 @@ OPINADORES = [
     },
 ]
 
-HORAS = [8, 11, 14, 17, 20]     # horas (de Madrid) a las que se actualiza
+HORAS = [8, 18]                # horas (de Madrid) a las que se actualiza
 MAX_TITULARES = 12              # noticias de cada portada que se envían a ChatGPT
 MADRID = ZoneInfo("Europe/Madrid")
 
@@ -338,7 +338,7 @@ def leer_secreto(nombre: str) -> str:
 
 
 def turno_actual(ahora: datetime) -> int | None:
-    """Devuelve la última hora de actualización ya cumplida hoy (8, 11, 14...).
+    """Devuelve la última hora de actualización ya cumplida hoy (8 o 18).
 
     Antes de las 8:00 devuelve None: todavía no toca.
     GitHub puede arrancar con retraso, por eso no exigimos la hora exacta.

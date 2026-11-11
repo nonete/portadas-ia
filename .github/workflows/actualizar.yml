@@ -4,8 +4,8 @@ on:
   schedule:
     # GitHub usa hora UTC. Madrid va 1 hora por delante en invierno y 2 en verano,
     # así que se lanza en las dos posibilidades y actualizar.py decide si toca.
-    # Resultado: 8:00, 11:00, 14:00, 17:00 y 20:00 hora de Madrid.
-    - cron: "3 6,7,9,10,12,13,15,16,18,19 * * *"
+    # Resultado: 8:00 y 18:00 hora de Madrid.
+    - cron: "3 6,7,16,17 * * *"
   # Permite lanzarlo a mano desde la pestaña Actions de GitHub.
   workflow_dispatch:
     inputs:

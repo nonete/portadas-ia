@@ -21,7 +21,7 @@ Hay dos piezas:
 
 | Archivo | Qué hace | Quién lo ejecuta |
 |---|---|---|
-| `actualizar.py` | Lee las portadas, las analiza con ChatGPT y guarda el resultado en `datos/<país>/` | GitHub Actions, a las 8:00, 11:00, 14:00, 17:00 y 20:00 (hora de Madrid) |
+| `actualizar.py` | Lee las portadas, las analiza con ChatGPT y guarda el resultado en `datos/<país>/` | GitHub Actions, a las 8:00 y a las 18:00 (hora de Madrid) |
 | `app.py` | Enseña lo que hay en `datos/<país>/`, según el selector | Streamlit Community Cloud |
 | `crear_crispito.py` y `crear_caricaturas.py` | Dibujan la mascota y las caricaturas (carpetas `crispito/` y `caricaturas/`) | Tú, solo si quieres cambiar los dibujos |
 
