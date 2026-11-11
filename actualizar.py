@@ -202,9 +202,10 @@ PERIODICOS_RU = {
         "web": "https://www.kp.ru",
         "rss": ["https://www.kp.ru/rss/allsections.xml"],
     },
-    "Moskovski Komsomólets": {
-        "web": "https://www.mk.ru",
-        "rss": ["https://www.mk.ru/rss/index.xml"],
+    # Moskovski Komsomólets se descartó: desde GitHub unas veces responde y otras no.
+    "Védomosti": {
+        "web": "https://www.vedomosti.ru",
+        "rss": ["https://www.vedomosti.ru/rss/articles", "https://www.vedomosti.ru/rss/news"],
     },
     "Meduza": {
         "web": "https://meduza.io",
