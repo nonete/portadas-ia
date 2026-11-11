@@ -531,7 +531,9 @@ def main() -> None:
     forzar = os.environ.get("FORZAR") == "1"   # ejecución manual desde GitHub
 
     if forzar and turno is None:
-        turno = HORAS[0]
+        # Lanzada a mano antes de las 8:00: se apunta como turno 0, para que
+        # la automática de las 8:00 se haga igualmente.
+        turno = 0
     if turno is None:
         print("Todavía no son las 8:00 en Madrid: no toca actualizar.")
         return
