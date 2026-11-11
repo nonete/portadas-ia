@@ -1,39 +1,39 @@
 {
   "pais": "España",
   "fecha": "2026-11-11",
-  "turno": 0,
-  "generado": "11/11/2026 06:41",
+  "turno": 8,
+  "generado": "11/11/2026 08:12",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "La huelga general domina las portadas, con especial atención a la vivienda, los salarios, el coste de la vida, los piquetes y sus posibles efectos. También se repiten el debate político en precampaña, el papel del Gobierno y los sindicatos y las propuestas del PP. Solo El País destaca los planes del grupo nazi Núcleo Nacional para atacar mezquitas y sinagogas.",
-    "crispacion": 78,
-    "motivo_crispacion": "La huelga general concentra una elevada tensión social por la vivienda, los salarios y el coste de la vida, además de incidentes entre manifestantes y policías en Mercamadrid. En plena precampaña, el Gobierno y sus socios respaldan la movilización, mientras PP, Vox y Junts acusan a los sindicatos de servir a La Moncloa. Algunas portadas añaden acusaciones contra el Ejecutivo y las centrales sindicales, con lenguaje polarizador. Como contrapunto, aparecen informaciones prácticas sobre la huelga y noticias culturales, científicas y de ocio."
+    "temas": "La huelga general domina las portadas, con especial atención a la vivienda, los salarios y el coste de la vida. También se repiten el debate político en precampaña y la entrevista de Santiago Abascal en «La Revuelta». Solo El País destaca los planes de un grupo nazi para atacar mezquitas y sinagogas.",
+    "crispacion": 72,
+    "motivo_crispacion": "La huelga concentra la tensión social por el acceso a la vivienda, los salarios y el coste de la vida, con piquetes, cortes y denuncias de cargas policiales. En precampaña, el Gobierno y sus socios respaldan la movilización, mientras PP, Vox y Junts cuestionan a los sindicatos. La entrevista de Abascal también genera controversia y enfrentamiento político. Algunas noticias sobre cultura, viajes, tecnología y asuntos cotidianos aportan un contrapunto más tranquilo."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Hoy veo en la huelga general algo más que una disputa electoral: la respuesta de quienes trabajan y, aun así, pierden poder adquisitivo mientras la vivienda absorbe sus salarios. Que la crisis golpee especialmente a jóvenes, migrantes y hogares pobres muestra cómo el mercado convierte una necesidad básica en fuente de renta para los propietarios.\n\nNo basta con celebrar la movilización desde el Gobierno ni con reducirla a su coste económico. Para mí, la cuestión es quién decide sobre la riqueza que producimos y a qué se destina. Defiendo salarios dignos, un parque amplio de vivienda pública y fórmulas de propiedad colectiva que saquen hogares del circuito especulativo. También unos servicios públicos fuertes, financiados con justicia fiscal. La organización sindical es indispensable: frente al gran capital, la clase trabajadora necesita fuerza colectiva, no resignación."
+      "texto": "Veo en la huelga general una respuesta necesaria a una contradicción de clase: quienes sostienen la economía con su trabajo ven cómo la vivienda y el coste de la vida se comen sus salarios. No basta con celebrar la movilización como un avance social ni con reducirla a un cálculo electoral. El Gobierno también debe responder a las demandas de quienes hoy paran.\n\nFrente a la idea de dejar la vivienda en manos de la inversión privada, defiendo un parque público amplio y formas de propiedad colectiva que saquen los hogares de la lógica del beneficio. También necesitamos servicios públicos fuertes, salarios dignos y sindicatos capaces de actuar con independencia de cualquier gobierno. La vivienda no debe ser una fuente de rentas para el gran capital, sino un derecho garantizado para la clase trabajadora."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "Hoy veo en la huelga una respuesta necesaria a una vida cada vez más difícil: la vivienda se encarece, los salarios pierden poder adquisitivo y quienes menos tienen soportan el golpe más duro. Parar juntos recuerda que la riqueza no la producen los gobiernos ni los partidos, sino las personas que trabajan.\n\nPero no quiero que ese poder colectivo se entregue a ninguna dirección ni se convierta en munición electoral. Desconfío tanto de quienes respaldan la protesta desde el Gobierno como de quienes atacan a los sindicatos desde la oposición: gobernar no debería ser sinónimo de decidir por los demás. Prefiero asambleas abiertas, decisiones desde abajo y organizaciones que rindan cuentas a sus miembros. La libertad individual necesita apoyo mutuo y condiciones materiales para ejercerse; la colectiva, autonomía frente al Estado y frente a cualquier jerarquía."
+      "texto": "Hoy veo en la huelga una respuesta necesaria a la crisis de vivienda y a la pérdida de poder adquisitivo. Parar juntos recuerda que la riqueza no la crean los despachos, sino quienes trabajan y sostienen la vida cotidiana. La preparación de los piquetes en Mercabarna muestra el valor de organizarse desde abajo.\n\nPero no confío en que el Gobierno, los partidos o las cúpulas sindicales puedan sustituir esa fuerza colectiva. La movilización pierde autonomía si se convierte en instrumento de campaña o queda en manos de unos pocos. Las cargas policiales denunciadas en Madrid recuerdan también que el Estado puede responder a la protesta con coerción.\n\nYo defiendo asambleas abiertas, decisiones tomadas por quienes se ven afectados y redes de apoyo mutuo que perduren después del paro. La libertad individual necesita condiciones materiales y solidaridad; la colectiva, organización sin jerarquías."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "Hoy veo una huelga que expresa un malestar real: la vivienda pesa demasiado en los presupuestos y los salarios no alcanzan. Respeto a quien decide parar, pero defiendo con la misma firmeza la libertad de quien quiere trabajar. Ninguna causa justifica imponer una decisión a otros.\n\nNo creo que la solución sea entregar más poder al Estado. Para aliviar el coste de la vivienda, prefiero facilitar la construcción, reducir trabas y dar seguridad a quienes ofrecen alquileres. Más oferta y competencia pueden beneficiar a los inquilinos sin castigar la iniciativa privada. También quiero impuestos más bajos y un gasto público limitado y vigilado: el dinero que gana cada persona debe servir primero a sus proyectos y responsabilidades, no alimentar una administración siempre creciente. Defender la libertad exige hacerse cargo de las propias decisiones y respetar las ajenas."
+      "texto": "La huelga pone sobre la mesa problemas reales: el acceso a la vivienda y la pérdida de poder adquisitivo. Yo defiendo el derecho de los trabajadores a parar y manifestarse, pero también el de quienes deciden trabajar o abrir su negocio. La libertad de unos no debe anular la de otros; corresponde al Estado proteger ambos derechos con proporcionalidad.\n\nNo creo que la vivienda sea más asequible por decreto. Prefiero eliminar trabas a la construcción, facilitar la inversión y aumentar la oferta, respetando la propiedad y los contratos. También bajaría los impuestos sobre el trabajo para que las personas conserven más de lo que ganan. Un Estado limitado debe garantizar las reglas, no sustituir las decisiones de ciudadanos y empresas. Y la responsabilidad personal importa: ejercer la libertad exige asumir las consecuencias de nuestras elecciones, sin pedir siempre que otros paguen la factura."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "La crisis de la vivienda y la pérdida de poder adquisitivo merecen respuestas, no una batalla propagandística. Respeto el derecho de huelga, pero también el de quienes quieren trabajar. Me preocupa que, en plena precampaña, el Gobierno respalde una movilización convocada por sindicatos que deberían exigir responsabilidades también a quienes gobiernan. España necesita menos consignas y más suelo, vivienda y salarios que permitan formar una familia.\n\nTambién creo que un país soberano debe decidir cuántas personas puede acoger y hacer cumplir sus fronteras. La propuesta de un cupo migratorio merece debate, pero debe ir acompañada de medios y de un control estricto de las entradas. Los vecinos de El Hierro reclaman recursos para una acogida digna; escucharlos no es falta de solidaridad. Quiero un Estado que proteja la seguridad, las tradiciones y a los ciudadanos, no que administre el malestar para sacar rédito electoral."
+      "texto": "La huelga pone sobre la mesa un problema real: demasiadas familias tienen dificultades para pagar la vivienda y llegar a fin de mes. Pero no creo que respaldar un paro en plena precampaña sustituya a una política seria. El Gobierno debe responder por sus decisiones, no presentarse como espectador del malestar. Defiendo el derecho a la huelga y también la libertad de quienes deciden trabajar, sin intimidaciones ni abusos.\n\nLa soberanía también se ejerce controlando las fronteras. Veo razonable establecer un límite anual de inmigración ligado a nuestra capacidad de acogida y exigir el cumplimiento de la ley. Los vecinos de El Hierro reclaman recursos y un trato digno para todos: escucharlos no es racismo, sino responsabilidad. España necesita proteger sus hogares, su seguridad y sus tradiciones, sin aceptar que las élites conviertan cada debate en propaganda."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Veo en la huelga general una señal de malestar que merece atención, no una excusa para repartir etiquetas. La vivienda y la pérdida de poder adquisitivo golpean especialmente a quienes menos margen tienen. Defender el derecho a parar es compatible con proteger la libertad de trabajar y garantizar servicios esenciales conforme a las decisiones judiciales.\n\nPero una movilización no sustituye a un programa de gobierno. Yo pediría a partidos, sindicatos y empresarios una negociación que combine más oferta de vivienda, apoyo a los hogares vulnerables y salarios que puedan crecer con la productividad. El mercado necesita reglas estables; la protección social, recursos y políticas evaluables. En plena precampaña, convertir la huelga en un arma partidista sería desperdiciar una oportunidad: el país necesita acuerdos duraderos, no solo gestos para el próximo mitin."
+      "texto": "Yo veo en la huelga general una señal de malestar que sería irresponsable despachar como una maniobra electoral. La vivienda y la pérdida de poder adquisitivo merecen respuestas, aunque también sea legítimo discutir el momento de la convocatoria y el coste del paro. Defender el derecho de huelga exige respetar igualmente a quienes deciden trabajar; las denuncias de cargas policiales deben esclarecerse con garantías.\n\nNo creo que baste con convertir la jornada en un intercambio de acusaciones. Necesitamos un pacto duradero que combine más oferta de vivienda, inversión y menos obstáculos innecesarios con protección para quienes no pueden acceder a un hogar. Y necesitamos diálogo entre sindicatos, empresas y Gobierno para mejorar salarios sin despreciar la capacidad de las empresas para sostener empleo. Las reformas serán graduales, pero la urgencia de empezar es real."
     }
   ],
   "periodicos": [
@@ -45,6 +45,11 @@
           "titulo": "Los sindicatos llaman a España a una huelga general por primera vez en 14 años",
           "entradilla": "CC OO y UGT piden un seguimiento “masivo” del paro por la crisis de la vivienda, pero prevén que sea “asimétrico” en función del impacto en cada territorio. Esperan una gran movilización por la tarde que sancione la pérdida de poder adquisitivo de los salarios",
           "enlace": "https://elpais.com/economia/2026-11-10/los-sindicatos-llaman-a-espana-a-una-huelga-general-por-primera-vez-en-14-anos.html"
+        },
+        {
+          "titulo": "Última hora de la huelga general y la actualidad política, en directo | Los sindicatos denuncian cargas policiales contra piquetes en Madrid",
+          "entradilla": "Los sindicatos llaman a una huelga general por primera vez en 14 años",
+          "enlace": "https://elpais.com/espana/2026-11-11/ultima-hora-de-la-huelga-general-y-la-actualidad-politica-en-directo.html"
         },
         {
           "titulo": "El Gobierno y sus socios relacionan la huelga del 11-N con avances sociales y la derecha ataca a los sindicatos",
@@ -60,11 +65,6 @@
           "titulo": "700 barras de pan, un centro de datos y 4.000 personas en un grupo de mensajería",
           "entradilla": "La huelga general empieza en el mercado de abastos de Mercabarna tras semanas de preparación y unas últimas horas de llamadas, bocadillos y la constitución de los primeros piquetes",
           "enlace": "https://elpais.com/espana/2026-11-10/700-barras-de-pan-un-centro-de-datos-y-4000-personas-en-un-grupo-de-mensajeria.html"
-        },
-        {
-          "titulo": "Jóvenes y migrantes, los perfiles que más sufren la crisis de la vivienda",
-          "entradilla": "Las tensiones habitacionales se ensañan con el 20 % de los hogares más pobres",
-          "enlace": "https://elpais.com/espana/catalunya/2026-11-11/jovenes-y-migrantes-los-perfiles-que-mas-sufren-la-crisis-de-la-vivienda.html"
         },
         {
           "titulo": "Broncano rectifica y vuelve al humor en ‘La revuelta’: “Soy la única persona que ha decepcionado a la izquierda más que Rufián”",
@@ -103,10 +103,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- Los sindicatos convocan una huelga general por la vivienda y el poder adquisitivo, con seguimiento desigual según el territorio.\n- El Gobierno y sus socios vinculan la huelga con avances sociales; PP, Vox y Junts critican a los sindicatos.\n- La portada aborda los preparativos de la huelga en Mercabarna y el impacto de la crisis de vivienda en jóvenes y migrantes.\n- Varias noticias analizan intervenciones de políticos en programas de televisión y la polémica de La Revuelta.\n- También destacan los planes de Núcleo Nacional contra mezquitas y sinagogas, el presunto espionaje a Nvidia y una investigación sobre inteligencia artificial.",
-        "populismo": 30,
-        "motivo_populismo": "Predominan titulares informativos, aunque expresiones como «la derecha ataca» y «se ensañan», junto con algunas citas impactantes, aportan dramatismo y confrontación.",
-        "sesgo": "La portada da especial protagonismo a la huelga y a la crisis de vivienda desde la perspectiva de los sindicatos y de los grupos más afectados. Presenta la respuesta de la derecha en términos de confrontación y combina información con piezas de tono crítico sobre televisión y política."
+        "resumen": "- CC OO y UGT convocan la primera huelga general en 14 años, con la vivienda y el poder adquisitivo entre los motivos.\n- La portada recoge las denuncias sindicales de cargas policiales y las distintas posiciones políticas ante el paro.\n- Varias noticias abordan la polémica de ‘La revuelta’ y la aparición de Feijóo en ‘Horizonte’.\n- Chats policiales revelan planes del grupo nazi Núcleo Nacional para atacar mezquitas y sinagogas.\n- También hay contenidos sobre viajes, espionaje industrial y riesgos de suplantación mediante IA.",
+        "populismo": 20,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «la derecha ataca a los sindicatos» y «abascalazo» introducen confrontación y carga valorativa.",
+        "sesgo": "La portada prioriza ampliamente la huelga y presta especial atención a las posiciones y denuncias de los sindicatos. En algunas noticias políticas y televisivas emplea un lenguaje valorativo, aunque también recoge las acusaciones de sus críticos."
       }
     },
     {
@@ -114,7 +114,7 @@
       "web": "https://www.elmundo.es",
       "noticias": [
         {
-          "titulo": "El Gobieno busca impulso agitando la huelga en pleno sprint social para condicionar un posible gobierno del PP y Vox",
+          "titulo": "El Gobierno busca impulso agitando la huelga en pleno sprint social para condicionar un posible gobierno del PP y Vox",
           "entradilla": "El Gobierno alienta la movilización bajo la creencia de que el parón erosiona al PP y a Vox y no a ellos que son quienes gobiernan L Acelera la aprobación de medidas sociales que condicionarán al nuevo Ejecutivo Leer",
           "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/10/6af368cae85ece41108b45ad.html"
         },
@@ -139,11 +139,6 @@
           "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/10/6af36a3dfc6c83dc178b459b.html"
         },
         {
-          "titulo": "El PP establecerá un \"cupo\" con el tope de inmigrantes que podrán entrar a España cada año",
-          "entradilla": "El programa de Feijóo se vuelca en la política migratoria y aboga por remodelar Hacienda y eliminar los pinganillos en el Congreso Leer",
-          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/10/6af36a00fc6c833b5f8b4575.html"
-        },
-        {
           "titulo": "El 'Ruso' aterroriza Oviedo: \"Nadie se despierta una mañana y pone una bomba\"",
           "entradilla": "\"Fue un estruendo tremendo. Pensamos que iban a reventar los cristales del salón. Al principio creímos que había ocurrido algún accidente de tráfico\" Leer",
           "enlace": "https://www.elmundo.es/espana/2026/11/10/6af36bc8e85ece27768b4575.html"
@@ -152,6 +147,11 @@
           "titulo": "Más de 100 policías desplegados para cazar al 'Ruso', el ex legionario huido tras matar a un agente en Oviedo",
           "entradilla": "El fugitivo tiene antecedentes por hurto y un amplio conocimiento del uso de material explosivo. Antes de poner la bomba, dio cinco disparos a una vecina adolescente de 17 años Leer",
           "enlace": "https://www.elmundo.es/espana/2026/11/10/6af36b8de85ece64448b45bf.html"
+        },
+        {
+          "titulo": "El PP establecerá un \"cupo\" con el tope de inmigrantes que podrán entrar a España cada año",
+          "entradilla": "El programa de Feijóo se vuelca en la política migratoria y aboga por remodelar Hacienda y eliminar los pinganillos en el Congreso Leer",
+          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/10/6af36a00fc6c833b5f8b4575.html"
         },
         {
           "titulo": "Los Republicanos logran parar en el Congreso el intento de 'impeachment' al secretario de Defensa",
@@ -175,10 +175,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- La huelga general centra la portada: se analizan su posible seguimiento, su coste económico y sus efectos políticos.\n- La campaña enfrenta al Gobierno con PP y Vox; también se aborda la huelga ferroviaria y las entrevistas a sus líderes.\n- El PP propone un límite anual de inmigración, mientras vecinos de El Hierro reclaman recursos para una acogida digna.\n- Un amplio operativo policial busca al presunto autor de un atentado mortal en Oviedo.\n- En Estados Unidos se frena el intento de destituir al secretario de Defensa; en el mar Negro aumentan los ataques contra mercantes.",
-        "populismo": 48,
-        "motivo_populismo": "Expresiones como «agitando la huelga», «apunta a pinchazo», «aterroriza Oviedo» y «cazar al Ruso» recurren a la confrontación o al dramatismo, aunque también hay titulares informativos.",
-        "sesgo": "La portada adopta un enfoque crítico con el Gobierno, al atribuirle fines electorales en relación con la huelga y las medidas sociales. Da también protagonismo a la seguridad, el coste de la huelga y la inmigración."
+        "resumen": "- La huelga general centra la portada, con previsiones de seguimiento e impacto económico y temor a incidentes.\n- Se atribuyen al Gobierno objetivos electorales en la movilización y en las medidas sociales y ferroviarias.\n- Varias noticias analizan las estrategias electorales del PP y Vox; el PP propone un cupo anual de inmigración.\n- Un amplio operativo busca al fugado conocido como el ‘Ruso’ tras la muerte de un policía en Oviedo.\n- Se recogen las demandas de recursos en El Hierro, los ataques a mercantes en el mar Negro y el bloqueo del intento de destitución de Pete Hegseth.",
+        "populismo": 50,
+        "motivo_populismo": "Expresiones como «agitando la huelga», «aterroriza Oviedo» y «cazar al ‘Ruso’» recurren al dramatismo y al conflicto, aunque no predominan las apelaciones al pueblo frente a las élites.",
+        "sesgo": "La portada muestra un enfoque crítico hacia el Gobierno, al atribuirle motivaciones electorales en sus decisiones sobre la huelga y las medidas sociales. También destaca el conflicto político y utiliza una redacción interpretativa en las noticias sobre PP y Vox."
       }
     },
     {
@@ -186,7 +186,22 @@
       "web": "https://www.abc.es",
       "noticias": [
         {
-          "titulo": "La tensión entre manifestantes y Policía en Mercamadrid deja un detenido en las primeras horas de huelga general",
+          "titulo": "Estas son las profesiones que ya se pueden jubilar mucho antes que el resto de trabajadores",
+          "entradilla": "Los trabajadores de las empresas ferroviarias interoperables que estén integradas en la red de interés general podrán anticipar su jubilación varios meses o años antes que el resto de cotizantes , cuya edad para poder hacerlo se mantiene en dos años antes de la edad legal de jubilación. Este grupo d",
+          "enlace": "https://www.abc.es/economia/cuentas-corrientes/profesiones-pueden-jubilar-resto-trabajadores-20261111010600-nt.html"
+        },
+        {
+          "titulo": "Mattia Olivieri, barítono: «La ópera nos pide ser cada vez más creíbles, que si hay un beso sea de verdad»",
+          "entradilla": "Mattia Olivieri (Sassuolo, Italia, 1984) pasea por Malasaña con mirada curiosa. Hace poco que este barítono, que ha cantado ya en los principales teatros de ópera del mundo -la Scala de Milán, el Covent Garden de Londres, el MET neoyorquino, la Ópera de Viena- se ha mudado a Madrid, concretamente al",
+          "enlace": "https://www.abc.es/cultura/musica/mattia-olivieri-teatro-saco-vida-normal-saco-20261106013310-nt.html"
+        },
+        {
+          "titulo": "Abascal, sobre el trato de España con Marruecos: «Lo deseable es tener buena relación, pero es imposible cuando entran 100.000 personas en tu país»",
+          "entradilla": "'La Revuelta' ha alcanzado su récord histórico de audiencia este lunes 9 de noviembre. Contra todo pronóstico, no ha sido la entrevista a Pedro Sánchez la que ha llevado al programa de David Broncano a marcar este hito, sino la visita de Santiago Abascal .El líder de Vox y candidato a las elecciones",
+          "enlace": "https://www.abc.es/play/television/noticias/santiago-abascal-sobre-trato-espana-marruecos-deseable-20261111054500-nt.html"
+        },
+        {
+          "titulo": "La huelga general arranca con paros, cortes en carreteras, piquetes y cargas policiales",
           "entradilla": "Sigue en directo la huelga general convocada el 11 de noviembre en España para reclamar soluciones a la crisis de acceso a la vivienda, mejoras salariales y medidas para frenar el encarecimiento del coste de la vida, con la última hora sobre Cercanías, Metro, Mercamadrid, las carreteras cortadas y l",
           "enlace": "https://www.abc.es/economia/huelga-general-noviembre-espana-directo-situacion-cercanias-20261111234148-di.html"
         },
@@ -196,61 +211,46 @@
           "enlace": "https://www.abc.es/economia/liberados-sindicales-cuestan-1900-millones-anuales-20261110014513-nt.html"
         },
         {
-          "titulo": "Mattia Olivieri, barítono: «La ópera nos pide ser cada vez más creíbles, que si hay un beso sea de verdad»",
-          "entradilla": "Mattia Olivieri (Sassuolo, Italia, 1984) pasea por Malasaña con mirada curiosa. Hace poco que este barítono, que ha cantado ya en los principales teatros de ópera del mundo -la Scala de Milán, el Covent Garden de Londres, el MET neoyorquino, la Ópera de Viena- se ha mudado a Madrid, concretamente al",
-          "enlace": "https://www.abc.es/cultura/musica/mattia-olivieri-teatro-saco-vida-normal-saco-20261106013310-nt.html"
+          "titulo": "El tartamudeo de una generación",
+          "entradilla": "Viendo a Broncano titubear frente a Abascal, ahí, con su traje y sus deportivas, escuchando sus em, am, ummm, como buscando una salida de emergencia, pensé: si Lena Dunham se convirtió en la voz de una generación con 'Girls', Broncano es ya el tartamudeo de esa misma generación. Su fracaso, de algun",
+          "enlace": "https://www.abc.es/opinion/bruno-pardo-porto-tartamudeo-generacion-20261110185500-nt.html"
+        },
+        {
+          "titulo": "Enrique Tomás, empresario catalán: «El compromiso de alguien de 50 años es mayor que el de una persona de 20. Para mí no son un problema, sino un valor»",
+          "entradilla": "Encontrar trabajo después de cumplir los 50 años puede convertirse en una tarea complicada. Muchas empresas siguen mostrando reticencias a contratar trabajadores de cierta edad , pese a su experiencia y trayectoria profesional. Una situación que el empresario catalán Enrique Tomás considera difícil ",
+          "enlace": "https://www.abc.es/espana/cataluna/enrique-tomas-empresario-catalan-compromiso-alguien-anos-20261111060000-nt.html"
+        },
+        {
+          "titulo": "El Gran Wyoming, sobre sus propiedades privadas: «Todas las medidas que pueda sacar la izquierda me perjudican»",
+          "entradilla": "El Gran Wyoming , uno de los presentadores más populares de la televisión española,  ha anunciado recientemente su jubilación con el humor que ha caracterizado su trayectoria profesional: «Solo he tardado 71 años en conseguir tumbarme a la bartola». El comunicador ha estado 20 años al frente de 'El ",
+          "enlace": "https://www.abc.es/gente/gran-wyoming-sobre-numerosas-propiedades-privadas-medidas-20261110054500-nt.html"
+        },
+        {
+          "titulo": "Albert Rivera, sobre el problema de la vivienda: «No se va a resolver sin más inversión, más oferta y menos obstáculos»",
+          "entradilla": "La vivienda se ha convertido en uno de los principales problemas sociales, económicos y políticos de España. El aumento de los precios de compra y alquiler , la escasez de oferta y las dificultades de los jóvenes y las familias para acceder a un hogar han situado esta cuestión en el centro del debat",
+          "enlace": "https://www.abc.es/recreo/albert-rivera-convencido-sobre-solucion-problema-vivienda-20261110053000-nt.html"
+        },
+        {
+          "titulo": "Encuestas de las elecciones generales en Castilla-La Mancha: resultados de PSOE, PP y Vox y el ganador según los sondeos",
+          "entradilla": "En poco más de dos semanas, el domingo 29 de noviembre , los españoles decidirán a sus representantes en el Congreso de los Diputados y el Senado para (a priori) los próximos cuatro años. Así lo decidió Pedro Sánchez el 5 de octubre, cuando adelantó las elecciones generales previstas para el año 202",
+          "enlace": "https://www.abc.es/espana/castilla-la-mancha/encuestas-elecciones-generales-29n-castillala-mancha-resultados-20261111051500-nt.html"
+        },
+        {
+          "titulo": "La Aemet avisa a España de fuertes lluvias y tormentas por la llegada de la borrasca Charles",
+          "entradilla": "La borrasca Bruna comienza a despedirse de nuestro país tras dejar varios días de lluvias intensas sobre España. Sin embargo, la inestabilidad continuará en las próximas horas: la llegada de un nuevo temporal , nombrado como Charles , volverá dejar tormentas y precipitaciones muy fuertes sobre la Pe",
+          "enlace": "https://www.abc.es/sociedad/aemet-avisa-espana-fuertes-lluvias-tormentas-llegada-borrasca-charles-20261111050000-nt.html"
         },
         {
           "titulo": "Thomas Massie: «Ahora hará pactos con los demócratas para protegerse a sí mismo y a su familia»",
           "entradilla": "Thomas Massie ya no tiene que preocuparse por su reelección. El diputado republicano de Kentucky perdió en mayo las primarias de su partido, después de enfrentarse abiertamente a Donald Trump , que respaldó a su contrincante. Le quedan apenas unas seis semanas en el Capitolio y ha decidido utilizarl",
           "enlace": "https://www.abc.es/internacional/thomas-massie-republicano-guerra-trump-hara-pactos-20261110013742-nt.html"
-        },
-        {
-          "titulo": "España llora en la catedral",
-          "entradilla": "En Toledo, la Catedral que impulsó Fernando III, el Santo, estaba a rebosar con los familiares de las sesenta y nueve víctimas del accidente de tren de Urda. Ochocientos años después, Sus Majestades los Reyes han presidido las exequias de nuestros paisanos, entre el dolor y la rabia de saber que cua",
-          "enlace": "https://www.abc.es/espana/espana-llora-catedral-20261110210030-nt.html"
-        },
-        {
-          "titulo": "Tuenti, cuando nuestra vida cabía en un perfil: la historia de la red social que desapareció con nuestras fotos",
-          "entradilla": "Hubo un día en que toda una generación recibió un correo que le hizo sentir un pequeño escalofrío: «Hola, tanto nosotros como tú hemos cambiado a lo largo de esta última década. Pero esto no significa que tus fotos tengan que quedarse en el olvido». Y junto a ese mensaje, una fecha fijada para desca",
-          "enlace": "https://www.abc.es/play/series/noticias/tuenti-vida-cabia-perfil-historia-red-social-20261110013329-nt.html"
-        },
-        {
-          "titulo": "El precio oculto de vencer al cáncer de mama: la 'quimio' se vincula a una peor esperanza de vida",
-          "entradilla": "La quimioterapia ha sido, durante décadas, la clave que ha permitido a millones de mujeres plantar cara al cáncer de mama y superarlo. Sin embargo, este salvavidas molecular no está exento de un peaje invisible a largo plazo. Un estudio publicado en la revista científica ' JAMA Network Open ' revela",
-          "enlace": "https://www.abc.es/salud/precio-oculto-vencer-cancer-mama-quimio-vincula-20261110180006-nt.html"
-        },
-        {
-          "titulo": "Imputan al escritor francés Michel Houellebecq por declaraciones de odio sobre los musulmanes",
-          "entradilla": "La justicia francesa imputó este martes al escritor Michel Houellebecq por complicidad en la provocación a la discriminación, al odio o a la violencia, en unas declaraciones sobre los musulmanes en 2022, indicó a AFP una fuente próxima al caso.Houellebecq, posiblemente la mayor estrella literaria de",
-          "enlace": "https://www.abc.es/cultura/imputan-escritor-frances-michel-houellebecq-declaraciones-odio-20261110180217-nt.html"
-        },
-        {
-          "titulo": "Dan Flavin, el artista que esculpió la luz, alumbra el Guggenheim Bilbao con sus neones",
-          "entradilla": "Verano de 1961. Mientras trabajaba como vigilante en el Museo Americano de Historia Natural de Nueva York, Dan Flavin (Nueva York, 1933-1996) empezó a preguntarse por qué no utilizar la luz eléctrica para hacer arte. Dicho y hecho. Dos años después colocó un tubo fluorescente en su estudio. Lo descr",
-          "enlace": "https://www.abc.es/cultura/arte/dan-flavin-guggenheim-bilbao-artista-esculpio-luz-20261206192223-nt.html"
-        },
-        {
-          "titulo": "«El PSOE ha cometido tres errores de libro»",
-          "entradilla": "",
-          "enlace": "https://www.abc.es/espana/estrategas-psoe-cometido-tres-errores-electorales-libro-20261110132141-nt.html"
-        },
-        {
-          "titulo": "La gran auditoría que promete el PP pone en duda el tamaño adquirido por el Estado",
-          "entradilla": "Nunca antes se había planteado de forma tan explícita en un programa electoral el debate sobre el tamaño que debe tener el Estado en España. El PP se ha fijado como primer objetivo si llega a gobernar «reparar el Estado», o como lo ha expresado en varias ocasiones su candidato a la Presidencia del G",
-          "enlace": "https://www.abc.es/economia/gran-auditoria-promete-pp-pone-duda-tamano-20261111014443-nt.html"
-        },
-        {
-          "titulo": "Feijóo anuncia acciones legales por la supresión de la dirección general de seguridad en Adif: «Vamos a llegar hasta el final»",
-          "entradilla": "El Partido Popular ha decidido llevar a los tribunales el desmantelamiento de la cúpula de seguridad ferroviaria ejecutado durante el mandato de Óscar Puente . Tras la información de ABC, que desvela cómo una comisaria política del PSOE en Adif relegó y troceó la Dirección General de Seguridad en co",
-          "enlace": "https://www.abc.es/espana/feijoo-anuncia-acciones-legales-supresion-direccion-general-20261110233615-nt.html"
         }
       ],
       "analisis": {
-        "resumen": "- La huelga general por la vivienda, los salarios y el coste de la vida comienza con tensión en Mercamadrid y un detenido.\n- Una noticia cifra en 1.900 millones anuales el coste de las horas sindicales de los delegados.\n- Feijóo anuncia acciones legales por cambios en la seguridad de Adif; otra noticia aborda la auditoría del Estado propuesta por el PP.\n- La portada recoge las exequias por las 69 víctimas del accidente de tren de Urda.\n- También incluye noticias sobre cáncer de mama, cultura, Tuenti y política internacional.",
-        "populismo": 30,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «España llora», «dolor y rabia» o «el precio oculto» aportan carga emocional y cierto dramatismo.",
-        "sesgo": "La selección destaca el coste de la actividad sindical y las críticas del PP a la gestión pública, lo que da visibilidad a un enfoque crítico con los sindicatos y el Gobierno. La información sobre la huelga también recoge sus reivindicaciones."
+        "resumen": "- La huelga general por la vivienda, los salarios y el coste de vida comienza con paros, cortes y cargas policiales; otra noticia cifra el coste de las horas sindicales en 1.900 millones anuales.\n- Abascal habla de la relación con Marruecos y la inmigración; una columna critica la entrevista de Broncano al líder de Vox.\n- Albert Rivera defiende más inversión y oferta para abordar la vivienda, mientras otra noticia recoge las encuestas electorales en Castilla-La Mancha.\n- La portada aborda la jubilación anticipada de ciertos trabajadores ferroviarios y las dificultades laborales de los mayores de 50 años.\n- Incluye entrevistas culturales y políticas, declaraciones de El Gran Wyoming y un aviso de fuertes lluvias y tormentas.",
+        "populismo": 35,
+        "motivo_populismo": "Predomina un lenguaje informativo, aunque destacan el contraste sobre la entrada de personas en «tu país», la expresión descalificadora «el tartamudeo de una generación» y el encuadre de las horas sindicales como coste.",
+        "sesgo": "La selección presta atención a los costes de la actividad sindical y a los incidentes de la huelga, junto con una propuesta centrada en aumentar la oferta de vivienda. También destaca declaraciones de Abascal y una valoración crítica de su entrevistador."
       }
     },
     {
@@ -319,10 +319,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- La portada se centra en la huelga general del 11N y en los motivos de quienes la secundan.\n- La vivienda, los salarios y el coste de la vida aparecen como causas principales de la movilización.\n- Se aborda el derecho de huelga mediante una entrevista y una pregunta sobre su posible deterioro.\n- El Gobierno respalda la convocatoria y varios dirigentes sindicales exponen sus posiciones.\n- Varias guías informan sobre servicios mínimos, manifestaciones y herramientas de seguimiento.",
+        "resumen": "- La portada se centra en la huelga general del 11N y recoge testimonios de quienes la secundan.\n- La vivienda, los salarios y el coste de la vida aparecen como motivos de la movilización.\n- Varios titulares abordan el derecho de huelga y las declaraciones de representantes sindicales.\n- El Gobierno respalda la convocatoria y la presenta como una defensa de derechos.\n- Se ofrece información práctica sobre servicios mínimos, manifestaciones y organización de la huelga.",
         "populismo": 30,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «fábrica de pobreza» y «ataques al derecho de huelga» aportan carga emocional y dramatización.",
-        "sesgo": "La selección prioriza las razones y voces favorables a la huelga, incluidos trabajadores, sindicatos y Gobierno. No aparecen en los titulares posiciones contrarias a la convocatoria."
+        "motivo_populismo": "Expresiones como «fábrica de pobreza» o «ataques al derecho de huelga» aportan carga emocional, aunque predominan los testimonios y la información práctica sin una oposición explícita entre pueblo y élites.",
+        "sesgo": "La selección adopta un enfoque favorable a la huelga, al destacar sus motivos y dar voz a participantes, sindicatos y al Gobierno. En los titulares facilitados no aparecen posiciones contrarias a la convocatoria."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://okdiario.com",
       "noticias": [
         {
-          "titulo": "Predicción del horóscopo para Tauro hoy, miércoles 11 de noviembre de 2026",
-          "entradilla": "Tauro, en esta jornada tu horóscopo sugiere que es momento de soltar aquello que ya no te nutre. Confundir amor con apego puede llevarte a confusiones emocionales, por lo que ser honesto contigo mismo es fundamental. Practica el autocuidado y la paciencia, ya que sanar no es un proceso lineal, pero ",
-          "enlace": "https://okdiario.com/horoscopo/prediccion-del-horoscopo-para-tauro-hoy-miercoles-11-de-noviembre-de-2026-20748238"
+          "titulo": "Predicción del horóscopo para Libra hoy, miércoles 11 de noviembre de 2026",
+          "entradilla": "Libra, la predicción de tu horóscopo sugiere que en el ámbito laboral te enfrentarás a situaciones que requerirán tu agilidad mental y capacidad de adaptación. Confiar en tu intuición te permitirá navegar cualquier cambio sin perder el enfoque en tus metas. No olvides cuidar tu bienestar físico; si ",
+          "enlace": "https://okdiario.com/horoscopo/prediccion-del-horoscopo-para-libra-hoy-miercoles-11-de-noviembre-de-2026-20748438"
         },
         {
-          "titulo": "¿Pueden los piquetes obligarme a faltar al trabajo? Esto dice el derecho a Huelga recogido en la Constitución",
-          "entradilla": "La huelga general del miércoles 11 de noviembre vuelve a poner sobre la mesa una duda que afecta a miles de trabajadores, ya que ¿qué ocurre si quieres acudir a tu puesto, pero un piquete intenta impedírtelo? La Constitución reconoce el derecho fundamental a la huelga, aunque eso no significa que to",
-          "enlace": "https://okdiario.com/economia/pueden-piquetes-obligarme-faltar-trabajo-esto-dice-derecho-huelga-recogido-constitucion-20747583"
+          "titulo": "291 unidades del blindado Schakal y entregas hasta 2033: Alemania y los Países Bajos amplían el pedido del Boxer 8×8 con torreta de Puma y cañón de 30 milímetros",
+          "entradilla": "Alemania y los Países Bajos han encargado 69 blindados Schakal más, según comunicó Rheinmetall el 29 de octubre de 2026. Serán 35 para la Bundeswehr y 34 para el Ejército de Tierra neerlandés. La organización europea de armamento OCCAR hizo el pedido a Artec GmbH. El blindado Schakal, «chacal» en al",
+          "enlace": "https://okdiario.com/techy/blindado-schakal-alemania-paises-bajos-291-boxer-puma-20737618"
         },
         {
-          "titulo": "La Justicia tumba los servicios mínimos de la Comunidad de Madrid",
-          "entradilla": "El Tribunal Superior de Justicia de Madrid ha aprobado medidas cautelarísimas que suspenden los servicios mínimos decretados para la huelga general del 11 de noviembre y obligan a aplicar los de la última huelga general de noviembre de 2012. La orden de la máxima instancia autonómica de Madrid llega",
-          "enlace": "https://okdiario.com/economia/empleo/justicia-tumba-servicios-minimos-comunidad-madrid-20748218"
+          "titulo": "Estudiar sin dejar de trabajar: cómo hacerlo posible y qué mirar antes de empezar",
+          "entradilla": "Aproximadamente la mitad de los estudiantes que cursan educación superior en nuestro país trabaja. Según los datos aportados y publicados por la Fundación CYD (Fundación Conocimiento y Desarrollo) el 17 de septiembre de 2026, a partir de EUROSTUDENT 8, el 33 % lo hace de forma continuada durante el ",
+          "enlace": "https://okdiario.com/educacion/estudiar-sin-dejar-trabajar-como-hacerlo-posible-que-mirar-antes-empezar-20746149"
         },
         {
-          "titulo": "Horóscopo diario gratis: la predicción para hoy, miércoles 11 de noviembre",
-          "entradilla": "La energía positiva se respira en estos días y el horóscopo sugiere que es el momento ideal para apoyar a aquellos que amamos. Si tu pareja atraviesa momentos difíciles, tu optimismo y creatividad pueden ser el aliento que necesita. Recuerda que tu actitud puede marcar la diferencia y ayudar a otros",
-          "enlace": "https://okdiario.com/horoscopo/horoscopo-diario-gratis-la-prediccion-para-hoy-miercoles-11-de-noviembre-20748213"
+          "titulo": "Una pareja busca voluntarios para vivir gratis en La Coruña a cambio de cuidar a su gatita de 13 años: necesita medicación y ellos están casi todo el día ausentes",
+          "entradilla": "En el despacho de un piso del barrio de Temple, en Cambre, hay una cama extensible que cada pocos meses cambia de inquilino. Por allí han pasado viajeros de medio mundo con un mismo encargo, y ahora sus propietarios vuelven a buscar relevo. La propuesta que abordaremos aquí permite vivir gratis en L",
+          "enlace": "https://okdiario.com/curiosidades/pareja-busca-voluntarios-vivir-gratis-coruna-cambio-cuidar-gatita-13-anos-necesita-medicacion-ellos-estan-casi-todo-dia-ausentes-20710816"
         },
         {
-          "titulo": "Contorsionismo sindical",
-          "entradilla": "Las viñetas de Puebla Corrupción estructural El Chamán y los aplausos inverosímiles Sánchez en la rueda de reconocimiento Trump, batacazo electoral Sr. ex ministro, tanta paz lleve… El muro de Sánchez Una historia de involución Responsables sin responsabilidad",
-          "enlace": "https://okdiario.com/opinion/contorsionismo-sindical-20748184"
+          "titulo": "Ultima hora de la huelga general y actualidad de las elecciones generales del 29-N, en directo",
+          "entradilla": "La jornada de hoy miércoles viene marcada por la huelga general más extraña vivida nunca en este país, convocada teóricamente para reivindicar el derecho a una vivienda y salarios dignos ante el coste de la vida. En realidad se trata de la primera de las 13 huelgas generales celebradas en la histori",
+          "enlace": "https://okdiario.com/espana/ultima-hora-huelga-general-actualidad-elecciones-generales-del-29-n-directo-20748233"
         },
         {
-          "titulo": "Koldo celebró la victoria electoral del PSOE en 2019 en una discoteca con el ex chófer de Sánchez",
-          "entradilla": "José Luis Ábalos y Koldo García organizaron una fiesta en una discoteca madrileña para celebrar los resultados de las elecciones de abril de 2019 a la que invitaron a Cristian Corvillo, el último militante socialista detenido por la Unidad Central Operativa (UCO) de la Guardia Civil, que además fue ",
-          "enlace": "https://okdiario.com/investigacion/koldo-celebro-victoria-electoral-del-psoe-2019-discoteca-ex-chofer-sanchez-20737510"
+          "titulo": "Precio de la gasolina hoy 11 de noviembre: localiza las gasolineras más baratas de Madrid",
+          "entradilla": "Hoy es miércoles, el ecuador de la semana, de modo que puede que sea un buen día para quitarse de encima la tarea de llenar el depósito sin las prisas que en nada tendrá el fin de semana. Y es que entre los desplazamientos diarios, las entradas y salidas de la capital y los recados, … Continuar leye",
+          "enlace": "https://okdiario.com/madrid/precio-gasolina-hoy-11-noviembre-localiza-gasolineras-mas-baratas-madrid-20728484"
         },
         {
-          "titulo": "Los guardias civiles alertan que Marlaska no ha reforzado las patrullas ante la huelga: «Quieren caos»",
-          "entradilla": "Los guardias civiles alertan de que el ministro del Interior, Fernando Grande-Marlaska, no ha reforzado las patrullas para la huelga general de este miércoles: «Quieren caos». Los agentes no dan crédito a esta gestión, ya que ante cualquier situación que afecte al orden público, se ha de reforzar la",
-          "enlace": "https://okdiario.com/espana/guardias-civiles-alertan-que-marlaska-no-reforzado-patrullas-huelga-quieren-caos-20745144"
+          "titulo": "Gonzalo Bernardos analiza la derrota de Trump: «Acabada la posibilidad de que sea el gran emperador, nos va a ir mejor»",
+          "entradilla": "La derrota republicana en las elecciones de medio mandato de Estados Unidos ha cambiado el escenario político para Donald Trump. Los demócratas lograron hacerse con el control de las dos cámaras del Congreso tras unos comicios celebrados el pasado 3 de noviembre en los que el coste de la vida, la in",
+          "enlace": "https://okdiario.com/internacional/gonzalo-bernardos-analiza-derrota-trump-acabada-posibilidad-que-sea-gran-emperador-nos-va-ir-mejor-20744215"
         },
         {
-          "titulo": "Pepe Álvarez era el jefe de UGT en Cataluña cuando su cooperativa de viviendas estafó a 20.000 familias",
-          "entradilla": "El actual secretario general de la Unión General de Trabajadores (UGT), José María Álvarez, era el máximo responsable del sindicato en Cataluña cuando su cooperativa de viviendas fue acusada de estafar a casi 20.000 familias en el conocido como caso PSV. Es más, incluso llegó a defender a Carlos Sot",
-          "enlace": "https://okdiario.com/espana/pepe-alvarez-era-jefe-ugt-cataluna-cuando-cooperativa-viviendas-estafo-20-000-familias-20745509"
+          "titulo": "El refugio de José Coronado en Toledo: «Me ha permitido ejercer de jardinero»",
+          "entradilla": "José Coronado es uno de los actores más reconocidos del panorama audiovisual español, pero cuando se apagan los focos y termina un rodaje, su lugar favorito está lejos de los escenarios y de la vida en la capital. El intérprete madrileño encontró hace décadas en la provincia de Toledo un refugio en ",
+          "enlace": "https://okdiario.com/cool/famosos/refugio-jose-coronado-toledo-permitido-ejercer-jardinero-20744959"
         },
         {
-          "titulo": "Guerra de mandos policiales por la gestión de la invasión de Ceuta al dispararse la criminalidad más de un 70%",
-          "entradilla": "La gestión de la invasión en Ceuta ha provocado una guerra entre los mandos policiales más próximos al ministro del Interior, Fernando Grande-Marlaska, entre los que se encuentran Francisco Pardo Piqueras, el director general del Cuerpo Nacional de Policía. La gestión de la invasión de Ceuta que tuv",
-          "enlace": "https://okdiario.com/investigacion/guerra-mandos-policiales-gestion-invasion-ceuta-tension-criminialidad-disparada-mas-70-20745811"
+          "titulo": "Mezclar azúcar y bicarbonato para combatir las cucarachas: cómo hacerlo y dónde colocarlo",
+          "entradilla": "La presencia de cucarachas en casa es uno de esos problemas domésticos que pueden convertirse en una auténtico pesadilla si no se soluciona a tiempo. Una sola cucaracha hembra puede producir entre 120 y 300 huevos a lo largo de su vida, dependiendo de la especie y las condiciones ambientales. En el ",
+          "enlace": "https://okdiario.com/curiosidades/mezclar-azucar-bicarbonato-combatir-cucarachas-como-hacerlo-donde-colocarlo-20747365"
         },
         {
-          "titulo": "Ignacio Beamud, CEO de Mazda: «Estamos reclamando más coches eléctricos a nuestra fábrica por la demanda en España»",
-          "entradilla": "Mazda confirma que la demanda de los nuevos lanzamientos de coches 100% eléctricos están superando las expectativas de mercado y la compañía se ha visto obligada a aumentar los pedidos de estos modelos a fábrica para el mercado español. Aunque los vehículos electrificados representan todavía el 10% ",
-          "enlace": "https://okdiario.com/motor/ignacio-beamud-ceo-mazda-estamos-reclamando-mas-coches-electricos-nuestra-fabrica-demanda-espana-20745324"
+          "titulo": "Sam Altman (41 años), CEO de OpenAI: «No he dormido bien ni una sola noche desde que se lanzó ChatGPT»",
+          "entradilla": "Samuel Harris Altman (Chicago, 22 de abril de 1985) es conocido como Sam Altman y también por ser el CEO de OpenAI, la empresa que ha puesto a la disposición de miles de millones de personas de todo el mundo ChatGPT. El precursor de la inteligencia artificial en el mundo ha concedido una entrevista ",
+          "enlace": "https://okdiario.com/tecnologia/sam-altman-41-anos-ceo-openai-no-he-dormido-bien-ni-sola-noche-desde-que-lanzo-chatgpt-20742404"
         },
         {
-          "titulo": "Una huelga general ilegal para salvar a Pedro Sánchez",
-          "entradilla": "La huelga general que desde la pasada medianoche ha convocado el Gobierno de Pedro Sánchez —sí, el Gobierno—, utilizando como piquetes a UGT y Comisiones para tratar de impedir un Gobierno de derechas, es la quintaesencia del sectarismo y la mayor instrumentalización de los trabajadores de la histor",
-          "enlace": "https://okdiario.com/opinion/huelga-general-ilegal-salvar-pedro-sanchez-20745581"
+          "titulo": "Lorena, dueña de una cafetería de especialidad en España: «Facturo 12.000 € al mes, pero no hay personal»",
+          "entradilla": "Montar una cafetería de especialidad era un sueño que Lorena llevaba casi una década persiguiendo. Lo hizo realidad hace algo más de año y medio en Viladecans, donde abrió Bristol Koffee, un local que con el tiempo pasó a llamarse Yellow Specialty Koffee. Y desde entonces entonces, sus jornadas empi",
+          "enlace": "https://okdiario.com/economia/lorena-duena-cafeteria-especialidad-espana-facturo-12-000-mes-pero-no-hay-personal-20741960"
         },
         {
-          "titulo": "Colapsar la línea 5 del Metro: objetivo de los profesores anti-Ayuso para la huelga general",
-          "entradilla": "La Asamblea Menos Lectivas, el colectivo de docentes que encabeza la huelga educativa indefinida contra el Gobierno de Isabel Díaz Ayuso, ha llamado a colapsar la línea 5 del Metro de Madrid durante la huelga general de este miércoles 11 de noviembre. Su objetivo, según ha difundido en redes sociale",
-          "enlace": "https://okdiario.com/madrid/colapsar-linea-5-del-metro-objetivo-profesores-anti-ayuso-huelga-general-20709669"
+          "titulo": "La lista de apellidos españoles que confirman que desciendes de la realeza",
+          "entradilla": "La nobleza española tiene siglos de historia y aunque los privilegios asociados a ella quedaron atrás hace mucho tiempo, el rastro de aquellas familias sigue presente. Basta con fijarse en algunos apellidos que todavía utilizamos y que aparecen ligados desde la Edad Media a casas de condes, marquese",
+          "enlace": "https://okdiario.com/curiosidades/lista-apellidos-espanoles-que-confirman-que-desciendes-realeza-20745639"
         }
       ],
       "analisis": {
-        "resumen": "- La huelga general protagoniza la portada, con noticias sobre los piquetes, la seguridad y las movilizaciones.\n- La Justicia suspende cautelarmente los servicios mínimos fijados por la Comunidad de Madrid.\n- Varias informaciones cuestionan al Gobierno, a dirigentes sindicales y a personas vinculadas al PSOE.\n- Otra noticia relaciona la gestión de la situación en Ceuta con tensiones policiales y un aumento de la criminalidad.\n- La portada incluye una entrevista sobre coches eléctricos y predicciones del horóscopo.",
-        "populismo": 78,
-        "motivo_populismo": "Titulares como «Quieren caos», «invasión de Ceuta», «profesores anti-Ayuso» y «Una huelga general ilegal para salvar a Pedro Sánchez» emplean lenguaje alarmista, descalificador y confrontativo.",
-        "sesgo": "La selección y redacción muestran un enfoque crítico hacia el Gobierno de Pedro Sánchez y los sindicatos, especialmente en la cobertura de la huelga. Algunos titulares presentan interpretaciones acusatorias como hechos, mientras que otros mantienen un tono más informativo."
+        "resumen": "- Seguimiento en directo de la huelga general y de las elecciones del 29-N.\n- Análisis de la derrota republicana en Estados Unidos y sus consecuencias para Trump.\n- Alemania y Países Bajos amplían su pedido de blindados Schakal.\n- Consejos sobre estudios y trabajo, gasolina, vivienda, empleo y problemas domésticos.\n- Contenidos sobre famosos, tecnología, horóscopo y apellidos de origen noble.",
+        "populismo": 22,
+        "motivo_populismo": "Predominan los titulares informativos, aunque expresiones como «el gran emperador» y la afirmación de que ciertos apellidos «confirman que desciendes de la realeza» aportan dramatización y sensacionalismo.",
+        "sesgo": "La selección combina actualidad política con contenidos prácticos, curiosidades y testimonios personales. En la redacción sobre la huelga se aprecia un enfoque crítico; con esta selección no puede atribuirse una orientación ideológica general."
       }
     }
   ]
