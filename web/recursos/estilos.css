@@ -67,11 +67,13 @@ p { margin: 0; }
 .lema { color: var(--tinta-2); font-size: .95rem; }
 .paises { display: flex; justify-content: center; gap: 4px; margin-top: 14px; }
 .paises a {
-  padding: 9px 18px; color: var(--tinta-2); text-decoration: none; font-weight: 600;
-  font-size: .9rem; border-bottom: 3px solid transparent;
+  display: block; padding: 8px 14px 10px; line-height: 0; border-bottom: 3px solid transparent;
+  color: var(--tinta-2); text-decoration: none; font-weight: 600; font-size: .9rem;
 }
-.paises a:hover { color: var(--tinta); }
-.paises a[aria-current] { color: var(--tinta); border-bottom-color: var(--acento); }
+/* Las banderas: la del país que no se está viendo sale más apagada */
+.paises svg { display: block; border-radius: 4px; box-shadow: 0 0 0 1px var(--regla); opacity: .55; }
+.paises a:hover svg, .paises a[aria-current] svg { opacity: 1; }
+.paises a[aria-current] { border-bottom-color: var(--acento); }
 
 /* Menú de secciones: se queda pegado arriba al bajar */
 .secciones {

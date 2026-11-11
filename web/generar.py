@@ -51,9 +51,20 @@ URL_BASE = "https://portadas-ia.com"
 
 # Los países. 'carpeta' es dónde se guarda su página dentro de web/sitio/
 # ("" = la portada). La clave tiene que coincidir con la carpeta de datos/.
+# 'bandera' son las franjas de la bandera dibujadas con SVG (un lienzo de 3 x 2).
+# Se dibujan así, y no con emojis, porque Windows no enseña los emojis de banderas.
 PAISES = {
-    "es": {"nombre": "España", "carpeta": ""},
-    "fr": {"nombre": "Francia", "carpeta": "francia"},
+    "es": {
+        "nombre": "España",
+        "carpeta": "",
+        "bandera": '<rect width="3" height="2" fill="#c60b1e"/><rect y="0.5" width="3" height="1" fill="#ffc400"/>',
+    },
+    "fr": {
+        "nombre": "Francia",
+        "carpeta": "francia",
+        "bandera": '<rect width="3" height="2" fill="#fff"/><rect width="1" height="2" fill="#0055a4"/>'
+                   '<rect x="2" width="1" height="2" fill="#ef4135"/>',
+    },
 }
 
 HORAS = [8, 11, 14, 17, 20]                  # las mismas que en actualizar.py
@@ -432,7 +443,13 @@ def pagina(codigo: str) -> str:
     menu_paises = ""
     for otro, datos in PAISES.items():
         actual = ' aria-current="page"' if otro == codigo else ""
-        menu_paises += f'<a href="{enlace_pais(otro, codigo)}"{actual}>{escape(datos["nombre"])}</a>'
+        # El nombre no se ve, pero lo leen los lectores de pantalla y sale al
+        # dejar el ratón encima (title).
+        menu_paises += (
+            f'<a href="{enlace_pais(otro, codigo)}"{actual} title="{escape(datos["nombre"])}" '
+            f'aria-label="{escape(datos["nombre"])}">'
+            f'<svg viewBox="0 0 3 2" width="42" height="28" aria-hidden="true">{datos["bandera"]}</svg></a>'
+        )
 
     if ultimo:
         fecha = datetime.strptime(ultimo["fecha"], "%Y-%m-%d")
