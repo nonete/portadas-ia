@@ -1,39 +1,39 @@
 {
   "pais": "Estados Unidos",
-  "fecha": "2026-11-11",
-  "turno": 18,
-  "generado": "11/11/2026 23:29",
+  "fecha": "2026-11-12",
+  "turno": 8,
+  "generado": "12/11/2026 15:40",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "Se repiten el escándalo de Nvidia y las sospechas de espionaje, las actuaciones de ICE y los conflictos en torno a la inmigración, y la amenaza de la Casa Blanca a los demócratas que investiguen a Trump. También coinciden noticias sobre el robo informático en Nueva Jersey y la policía de Los Ángeles. Solo The Washington Post destaca el centenario de la Ruta 66.",
-    "crispacion": 70,
-    "motivo_crispacion": "La tensión es elevada por el enfrentamiento entre la Casa Blanca y los demócratas del Congreso, así como por la disputa entre partidos sobre el nombramiento de jueces. Las actuaciones de ICE, incluidos un tiroteo investigado y la separación de un menor de su familia, generan preocupación y controversia. El caso Nvidia refleja además desconfianza entre Estados Unidos y China. Noticias sobre salud, viajes y cultura compensan parcialmente ese clima."
+    "temas": "El derrumbe de un edificio en Brooklyn aparece en tres portadas. También se repiten las noticias sobre Nvidia, las consecuencias de las elecciones, la salud, el centenario de la Ruta 66 y la muerte del juez Richard Posner. Solo The Wall Street Journal destaca la censura del profesorado de Cornell a su presidente por su respuesta a denuncias de agresión sexual.",
+    "crispacion": 45,
+    "motivo_crispacion": "La tensión es moderada: las elecciones dejan críticas entre demócratas y desafíos para el Departamento de Justicia, mientras que en Los Ángeles persisten los ataques de Trump al recuento electoral. También hay desacuerdo sobre el papel de los jueces ante la agenda presidencial y sobre la construcción del muro fronterizo. El ataque a un hospital de Gaza genera acusaciones enfrentadas entre Israel y Hamás. Noticias de salud, cultura y viajes ofrecen un contrapunto menos conflictivo."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Hoy veo una contradicción de clase: mientras la fiscalización bursátil registra sus sanciones más bajas en 18 años, un niño haitiano de ocho años es separado de su familia por ICE y un tribunal ordena entregar a esa agencia los nombres de residentes de albergues en Nueva York. No confundo estas noticias con una prueba de que exista un plan único, pero sí revelan qué poderes necesitan límites y quiénes necesitan protección.\n\nComo comunista, defiendo que los albergues y los demás servicios públicos sirvan a las personas trabajadoras, sin convertirse en instrumentos de persecución migratoria. Y frente a un gran capital que concentra recursos y decisiones, propongo una regulación efectiva y propiedad colectiva: la tecnología y la riqueza producidas socialmente deben responder a necesidades comunes, no solo a intereses privados."
+      "texto": "Hoy veo una contradicción de clase: mientras los mercados tiemblan por el futuro de Nvidia, millones de pacientes tendrán que afrontar nuevos requisitos para conservar Medicaid, además de profundos recortes de financiación. La salud no puede depender de trámites que expulsan a quienes más necesitan atención. Yo defiendo una sanidad pública universal, financiada según la capacidad económica de cada cual.\n\nTambién me preocupa el anuncio de 88 despidos en un instituto oncológico de Los Ángeles. La investigación y el cuidado son trabajo colectivo; no deberían quedar supeditados a las prioridades de propietarios privados. Propongo ampliar la propiedad pública y colectiva de los recursos sanitarios, con participación de trabajadores y pacientes en sus decisiones. Frente al poder del gran capital, necesitamos servicios que respondan a las necesidades sociales y no a la rentabilidad."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "Me indigna que un niño haitiano de ocho años haya sido separado de su familia y enviado por ICE a un albergue. No es una abstracción sobre fronteras: es el poder del Estado irrumpiendo en una vida y deshaciendo sus vínculos. Que un tribunal ordene entregar a ICE los nombres de residentes de refugios en Nueva York confirma cuánto depende la seguridad de las personas de no quedar expuestas ante ese poder.\n\nNo espero que un partido resuelva por sí solo una violencia que las instituciones pueden ejercer bajo distintos gobiernos. Prefiero apostar por redes de apoyo mutuo que acompañen a las familias, compartan recursos y defiendan su autonomía. La libertad individual necesita comunidades capaces de cuidarse; la libertad colectiva exige que nadie tenga que entregar su dignidad a cambio de protección."
+      "texto": "Los hospitales se preparan para recortes y nuevos requisitos laborales en Medicaid. Yo veo ahí una idea cruel: que la atención médica deba ganarse superando trámites. La salud no debería depender de la obediencia a un gobierno ni del presupuesto que negocien los partidos. Frente a esa lógica, defiendo redes de apoyo mutuo y servicios gestionados por quienes los necesitan y quienes los prestan, sin convertir la solidaridad en excusa para aceptar los recortes.\n\nTambién celebro lo que la elección de Scott Colom significa para quienes ven en ella una barrera histórica rota. Pero no confundo representación con emancipación: cambiar quién ocupa un escaño no elimina la jerarquía que concentra las decisiones lejos de la gente. Prefiero una política construida desde abajo, mediante asociaciones libres, responsabilidad compartida y poder de decisión directo. La libertad individual necesita comunidad; la colectiva exige que nadie mande por encima de ella."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "Hoy veo dos recordatorios de por qué defiendo un Estado limitado. La amenaza de la Casa Blanca contra investigaciones del Congreso confunde el control del poder con un delito: sin supervisión, la autoridad deja de servir al ciudadano y empieza a exigirse obediencia. También me inquieta que ICE separara a un niño de su familia y que algunos agentes no llevaran cámaras corporales activadas. La ley migratoria debe cumplirse, pero con garantías y responsabilidad por cada decisión.\n\nEn economía, el fabricante de muebles que intentó regresar la producción desde Vietnam y no logró que le salieran las cuentas ilustra los límites de dirigir el comercio desde Washington. Yo prefiero mercados abiertos, impuestos bajos y reglas estables: permiten a las empresas asumir riesgos y responder por sus resultados, en vez de depender de decisiones políticas."
+      "texto": "Me preocupa que Los Ángeles responda a la necesidad de mejorar los tiempos de los bomberos con una subida del impuesto sobre las ventas. La seguridad es una función legítima del Estado, pero antes de pedir más dinero a los ciudadanos hay que exigir prioridades claras y examinar cómo se gasta el presupuesto existente. Los impuestos bajos dejan a las familias más libertad para decidir qué hacer con lo que ganan.\n\nTambién veo una advertencia en el fabricante de muebles que intentó trasladar su producción de Vietnam a Estados Unidos sin lograr que las cuentas cuadraran. Las decisiones empresariales deben responder a costes y oportunidades, no a políticas comerciales cambiantes. Prefiero mercados abiertos y un Estado limitado: la competencia y la responsabilidad personal ofrecen mejores incentivos que la pretensión de dirigir la economía desde el poder."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Yo quiero un país que controle sus fronteras y decida quién entra. La autorización para avanzar con el muro en Big Bend es una señal de que la soberanía no puede quedar subordinada indefinidamente a los litigios. También espero que las autoridades locales cooperen con ICE, en vez de convertir la aplicación de la ley en una disputa política. Pero el poder del Estado debe rendir cuentas: la separación del niño haitiano de su familia y los incidentes investigados con agentes exigen respuestas, no consignas.\n\nLa investigación sobre un posible esfuerzo de espionaje contra Nvidia recuerda que nuestra ventaja tecnológica es un asunto de seguridad nacional, no solo de beneficios empresariales. Y el fracaso de un fabricante al intentar devolver empleos a Estados Unidos demuestra que recuperar la industria exige algo más que discursos. Yo desconfío de unas élites que celebran la globalización mientras las comunidades pagan sus costes."
+      "texto": "La decisión del Supremo de permitir la construcción del muro en Big Bend es una buena noticia. Yo creo que una nación que no controla sus fronteras renuncia a decidir quién entra y bajo qué condiciones. Proteger el paisaje importa, pero no puede convertirse en un veto permanente a la seguridad y a una política migratoria estricta.\n\nTambién me preocupa que un fabricante estadounidense no haya logrado traer de vuelta su producción desde Vietnam. La soberanía exige más que discursos: necesita empleos y empresas capaces de producir aquí. Las élites políticas y mediáticas hablan de prosperidad global; yo quiero que rindan cuentas por lo que sucede en nuestras comunidades.\n\nY ante los recortes y nuevos requisitos de Medicaid, defiendo la responsabilidad fiscal, pero no una burocracia que deje a nuestros compatriotas vulnerables sin atención. Un gobierno fuerte debe proteger primero a su pueblo."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Me inquieta la advertencia de la Casa Blanca sobre posibles investigaciones penales contra legisladores que fiscalicen al Gobierno. El Congreso tiene el deber de supervisar al Ejecutivo; discrepar de una investigación no justifica convertir el control democrático en una amenaza. Las instituciones deben resistir tanto a la intimidación como a la tentación partidista de usar la supervisión como espectáculo.\n\nTambién creo que necesitamos un acuerdo migratorio que combine una frontera controlada con debido proceso y humanidad. La separación de un niño haitiano de su familia y las dudas sobre el uso de cámaras corporales por agentes de ICE exigen respuestas. Y, en California, el rechazo de la propuesta 45 no elimina la crisis de vivienda: prefiero reformas graduales que faciliten construir, protejan el medio ambiente y amplíen el acceso a hogares asequibles. El mercado necesita reglas eficaces, no parálisis."
+      "texto": "Hoy veo motivos tanto para celebrar como para exigir más responsabilidad. La elección de Scott Colom en Misisipi es un avance histórico que merece reconocimiento. Pero una victoria electoral no sustituye al trabajo de gobernar: a mi partido le corresponde estar presente, rendir cuentas y construir mayorías capaces de producir resultados.\n\nMe preocupan los recortes a Medicaid y los nuevos trámites que afrontarán millones de pacientes. La sostenibilidad fiscal importa, pero una reforma responsable debe proteger el acceso efectivo a la atención, no convertir la burocracia en una barrera.\n\nTambién celebro el proyecto bipartidista para facilitar las adaptaciones universitarias a estudiantes con discapacidad. Es un ejemplo de progreso concreto: instituciones que escuchan, eliminan obstáculos y amplían oportunidades. Creo en una economía dinámica, acompañada de servicios públicos eficaces y reformas que puedan sostenerse mediante acuerdos."
     }
   ],
   "periodicos": [
@@ -42,77 +42,112 @@
       "web": "https://www.nytimes.com",
       "noticias": [
         {
-          "titulo": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-          "entradilla": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.",
-          "enlace": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html"
+          "titulo": "Nvidia Shares Plummet as Board Considers Jensen Huang’s Future as CEO",
+          "entradilla": "News that the chipmaker’s chief executive, Jensen Huang, stepped down drove Nvidia’s stock down and reverberated across global markets.",
+          "enlace": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html"
         },
         {
-          "titulo": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy",
-          "entradilla": "That the United States suspected Nvidia’s leader was a Chinese spy target underscores the deep distrust between the two powers, even as their leaders try to stabilize ties.",
-          "enlace": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html"
+          "titulo": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
+          "entradilla": "Ms. Kress, the company’s chief financial officer, joined Nvidia in 2013.",
+          "enlace": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html"
         },
         {
-          "titulo": "Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight",
-          "entradilla": "Lori Huang, who has been married to the Nvidia chief executive for more than 40 years, stands out among tech titan spouses for how private she has been.",
-          "enlace": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html"
+          "titulo": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
+          "entradilla": "In a statement, Singapore said it held Alice Huang’s passport months after President Trump was briefed that she was a spy.",
+          "enlace": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html"
         },
         {
-          "titulo": "Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?",
-          "entradilla": "Alice Huang, who U.S. intelligence determined is a Chinese asset, emerged from the high-flying world of Shanghai finance to work with tech titans and obtain essential A.I. chips.",
-          "enlace": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html"
+          "titulo": "Scott Colom, a Democrat, Wins Mississippi Senate Election",
+          "entradilla": "Mr. Colom, a prosecutor, will be the first Black senator elected from Mississippi since the post-Civil War Reconstruction period.",
+          "enlace": "https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html"
         },
         {
-          "titulo": "Trump Hints at Immigration Deal, Then Reverses. He’s Done That Before.",
-          "entradilla": "Democrats and some Republicans say President Trump is missing an opportunity to find consensus on an issue that has bedeviled past administrations.",
-          "enlace": "https://www.nytimes.com/2026/11/11/us/politics/trump-immigration-election-democrats-republicans.html"
+          "titulo": "In Mississippi, Scott Colom Supporters Celebrate Historic Senate Win",
+          "entradilla": "At Tougaloo College, supporters danced and wept over Scott Colom’s victory. He will be Mississippi’s first Black U.S. senator since the Reconstruction era.",
+          "enlace": "https://www.nytimes.com/2026/11/12/us/elections/mississippi-colom-senate-race-black-voters.html"
         },
         {
-          "titulo": "ICE Officer Involved in Maine Shooting Expressed Hatred of Immigrants",
-          "entradilla": "The agent talked of foreign bloodlines, denounced noncitizens and more, according to emails obtained by The Times. His fatal shooting of a Colombian-born motorist in July remains under investigation.",
-          "enlace": "https://www.nytimes.com/2026/11/11/us/david-brouillette-ice-maine-shooting-anti-immigrant-hatred.html"
+          "titulo": "Bruce Giudici Is on the Cusp of Victory in This California Election. He Died Months Ago.",
+          "entradilla": "In a race for a board of supervisors seat in California, a dead candidate holds a huge lead.",
+          "enlace": "https://www.nytimes.com/2026/11/11/us/california-election-dead-candidate.html"
         },
         {
-          "titulo": "An 8-Year-Old Was Separated From Family and Taken by ICE at a Check-In",
-          "entradilla": "The third grader from Haiti had been living with his uncle’s family since his father was deported last year. From a shelter where ICE sent him, “he cried and just begged to come home.”",
-          "enlace": "https://www.nytimes.com/2026/11/11/us/ice-detains-8-year-old.html"
+          "titulo": "Hospitals Brace for Medicaid Work Rules and Deep Funding Cuts",
+          "entradilla": "Health systems are racing to guide millions of patients through new eligibility hoops, slated to go into effect Jan. 1.",
+          "enlace": "https://www.nytimes.com/2026/11/11/business/hospitals-medicaid-cuts.html"
         },
         {
-          "titulo": "White House Threatens Congress, Saying Aggressive Investigations Could Be Crime",
-          "entradilla": "As Democrats prepared to begin oversight inquiries, it was not clear what legal basis could support the threat. The Constitution grants lawmakers immunity for legislative acts.",
-          "enlace": "https://www.nytimes.com/2026/11/11/us/politics/trump-democrats-congress-oversight-committee.html"
+          "titulo": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
+          "entradilla": "Seven Chinese tourists, a dozen villagers and a couple of journalists forded streams and bushwhacked to the downed plane of Isoroku Yamamoto, the Japanese admiral. Machetes proved handy.",
+          "enlace": "https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html"
         },
         {
-          "titulo": "Republicans Begin Aggressive Lame-Duck Push to Install Trump Judges",
-          "entradilla": "The G.O.P. intends to win confirmation of about two dozen federal judges before the party loses power. But Democrats promise to do what they can to stop them.",
-          "enlace": "https://www.nytimes.com/2026/11/11/us/trump-federal-judges-senate-republicans.html"
+          "titulo": "A Diminished Justice Dept. Braces for Fresh Fights After Midterm Loss",
+          "entradilla": "The upheaval points to a broader dilemma spurred by the election: whether the department can carry out President Trump’s priorities as career officials eye the exits and senior department officials resign.",
+          "enlace": "https://www.nytimes.com/2026/11/11/us/politics/doj-trump-blanche-trump-midterms.html"
         },
         {
-          "titulo": "After Hegseth Impeachment Vote Fails, Massie Vows More Tough Votes for GOP In His Final Days",
-          "entradilla": "Representative Thomas Massie, the Kentucky Republican, said he would use his waning time in office to prod his party to vote for “sanity” and break with President Trump.",
-          "enlace": "https://www.nytimes.com/2026/11/11/us/politics/massie-trump-difficult-republican-votes.html"
+          "titulo": "Democrats Face Backlash After Missing Hegseth Impeachment Vote",
+          "entradilla": "Eleven Democrats were absent, helping Republicans shelve the charges against the defense secretary. It drew sharp criticism a week after the party’s sweeping election victories.",
+          "enlace": "https://www.nytimes.com/2026/11/11/us/politics/democrats-backlash-missing-hegseth-impeachment-vote.html"
         },
         {
-          "titulo": "The S.S. United States, a Historic Supership, Heads to the Ocean Floor",
-          "entradilla": "The 20th-century ocean liner will become an artificial reef, ending efforts to save a ship that was fast, luxurious and (almost) indestructible.  Watch the livestream.",
-          "enlace": "https://www.nytimes.com/2026/11/11/climate/ss-united-states-ship-sinking-artificial-reef-florida.html"
+          "titulo": "What to Know About New Prostate Cancer Screening Recommendations",
+          "entradilla": "Universal screening for the disease has long been a subject of controversy.",
+          "enlace": "https://www.nytimes.com/2026/11/12/well/prostate-cancer-screening-guideline.html"
         },
         {
-          "titulo": "Recalling the S.S. United States as It Becomes a Florida Reef",
-          "entradilla": "A New York Times editor has had a lifelong connection to the S.S. United States, which is becoming an artificial reef off the Florida coast.",
-          "enlace": "https://www.nytimes.com/2026/11/11/insider/ss-united-states-destin-florida-memories.html"
+          "titulo": "Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say",
+          "entradilla": "The Israeli authorities said that Hamas had established a command center at the hospital complex. Hamas said the attack was “a heinous crime targeting a civilian medical facility.”",
+          "enlace": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html"
         }
       ],
       "analisis": {
-        "resumen": "- Varias noticias abordan las relaciones del director de Nvidia y un presunto escándalo de espionaje vinculado a China.\n- Trump insinúa un acuerdo migratorio y luego se retracta; otras informaciones relatan actuaciones polémicas de ICE.\n- La Casa Blanca amenaza con posibles consecuencias penales por investigaciones agresivas del Congreso.\n- Los republicanos buscan confirmar jueces antes de perder el poder, mientras un congresista promete forzar más votaciones difíciles para su partido.\n- El histórico transatlántico S.S. United States será hundido para convertirse en arrecife artificial.",
-        "populismo": 35,
-        "motivo_populismo": "Expresiones como «escándalo» y «feroz guerra de espías» aportan dramatismo, y el relato del niño separado de su familia apela a la emoción, aunque no destaca una contraposición explícita entre el pueblo y las élites.",
-        "sesgo": "La selección y redacción ponen énfasis en controversias de la administración Trump y en los efectos de la política migratoria sobre personas afectadas. Las noticias sobre Nvidia privilegian el escándalo personal y la dimensión de espionaje."
+        "resumen": "- La salida de Jensen Huang de Nvidia provoca una caída de sus acciones; Colette Kress asume como directora ejecutiva interina.\n- Scott Colom gana las elecciones al Senado en Misisipi, mientras en California un candidato fallecido encabeza otra contienda.\n- Singapur critica la colaboración de Estados Unidos en una investigación; en Gaza, un ataque a un hospital deja al menos seis muertos, según los servicios de rescate.\n- Los hospitales se preparan para nuevas exigencias de Medicaid y recortes; también se abordan las recomendaciones sobre pruebas de cáncer de próstata.\n- El Departamento de Justicia afronta cambios tras las elecciones, y varios demócratas reciben críticas por ausentarse de una votación sobre Hegseth.",
+        "populismo": 15,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «se desploman» o «se preparan para nuevos enfrentamientos» aportan dramatismo sin recurrir a una oposición entre pueblo y élites.",
+        "sesgo": "La selección presta atención a las consecuencias sanitarias y políticas de las decisiones públicas y destaca el carácter histórico de la victoria de Colom. En el ataque al hospital de Gaza recoge versiones contrapuestas; con estos titulares no se aprecia un sesgo partidista inequívoco."
       }
     },
     {
       "nombre": "The Washington Post",
       "web": "https://www.washingtonpost.com",
       "noticias": [
+        {
+          "titulo": "Eight dead and 19 injured after Brooklyn building collapse",
+          "entradilla": "Hundreds of emergency workers are at the scene, and New York City officials say the casualties include children.",
+          "enlace": "https://www.washingtonpost.com/nation/2026/11/12/brooklyn-building-collapse-kills-two-injures-17-new-york-city-officials-say/"
+        },
+        {
+          "titulo": "What new prostate cancer recommendations say about who should get blood tests",
+          "entradilla": "The American Cancer Society’s first update to prostate cancer screening guidance in more than a decade endorsed regular PSA tests for certain older men.",
+          "enlace": "https://www.washingtonpost.com/health/2026/11/12/new-prostate-cancer-guidelines-suggest-regular-blood-tests-most-older-men/"
+        },
+        {
+          "titulo": "College students with disabilities may soon face less red tape",
+          "entradilla": "A bipartisan bill making its way through Congress aims to smooth the transition into college and to help students qualify for accommodations without additional testing.",
+          "enlace": "https://www.washingtonpost.com/education/2026/11/12/college-students-with-disabilities-may-soon-face-less-red-tape/"
+        },
+        {
+          "titulo": "Drunk raccoon’s boozy night has helped raise $290K for an animal shelter",
+          "entradilla": "“I don’t know when we’ve owed a debt of gratitude to any animal as much as we do to that raccoon,” said Faye Prichard, Hanover County board supervisor.",
+          "enlace": "https://www.washingtonpost.com/lifestyle/2026/11/12/drunk-raccoons-boozy-night-has-helped-raise-290k-an-animal-shelter/"
+        },
+        {
+          "titulo": "Which generation has had it easiest for homebuying? New research shows a shift.",
+          "entradilla": "Millennials had a better housing market than boomers. An analysis shows how the economic shifts of recent years have changed that.",
+          "enlace": "https://www.washingtonpost.com/business/2026/11/12/was-it-easier-boomers-or-millennials-buy-house-when-they-were-young/"
+        },
+        {
+          "titulo": "Why ‘brainier’ sports may be better for people with ADHD",
+          "entradilla": "Researchers found differences in the effects of running, martial arts and more.",
+          "enlace": "https://www.washingtonpost.com/health/2026/11/12/why-brainier-sports-may-be-better-people-with-adhd/"
+        },
+        {
+          "titulo": "Richard Posner, influential and iconoclastic federal judge, dies at 87",
+          "entradilla": "He served nearly 36 years on the U.S. Court of Appeals for the 7th Circuit in Chicago and was ranked by many as second in influence only to members of the Supreme Court.",
+          "enlace": "https://www.washingtonpost.com/obituaries/2026/11/11/richard-posner-influential-iconoclastic-federal-judge-dies-87/"
+        },
         {
           "titulo": "Trump defends his war policies in speech at Arlington National Cemetery",
           "entradilla": "President Donald Trump repeated his comparison of the Iran operation with the U.S. wars in Korea, Vietnam, Afghanistan and Iraq.",
@@ -137,54 +172,24 @@
           "titulo": "‘In Flanders Fields’: How a patriotic poem became an anti-war anthem",
           "entradilla": "Written by a Canadian soldier early in World War I as a call to arms, it's now often abridged to convey the futility of armed conflict.",
           "enlace": "https://www.washingtonpost.com/nation/2026/11/11/flanders-fields-how-patriotic-poem-became-an-anti-war-anthem/"
-        },
-        {
-          "titulo": "A distress call, a flight tracker and the rush to explain a Learjet crash",
-          "entradilla": "The fatal accident in Florida last week shows the fallout from a modern flood of data.",
-          "enlace": "https://www.washingtonpost.com/transportation/2026/11/11/distress-call-flight-tracker-rush-explain-learjet-crash/"
-        },
-        {
-          "titulo": "DHS watchdog will probe ICE’s compliance with wearing body cams",
-          "entradilla": "In several shootings, federal immigration officers were not equipped with body cameras or did not have them turned on.",
-          "enlace": "https://www.washingtonpost.com/immigration/2026/11/10/dhs-watchdog-will-probe-ices-compliance-with-wearing-body-cams/"
-        },
-        {
-          "titulo": "Meghan Markle’s estranged father jailed after allegedly removing ankle monitor",
-          "entradilla": "Thomas Wayne Markle Sr., 82, charged last week with possession of child pornography, had been under house arrest in Lakeland, Florida.",
-          "enlace": "https://www.washingtonpost.com/nation/2026/11/10/meghan-markles-estranged-father-jailed-after-allegedly-removing-ankle-monitor/"
-        },
-        {
-          "titulo": "Supreme Court grapples with arguments over federal agencies’ power to impose fines",
-          "entradilla": "The case comes as the high court’s conservative majority has pared back the power of federal regulators. But even some conservatives appeared skeptical of going further.",
-          "enlace": "https://www.washingtonpost.com/politics/2026/11/10/supreme-court-grapples-with-arguments-sun-valley-orchards-case/"
-        },
-        {
-          "titulo": "Police chief defends timing of N.J. township’s wire-fraud announcement",
-          "entradilla": "“If we tipped our hand too early, they could have liquidated everything,” Cranbury Township Police Chief Giuseppe N. DeChiara said of the $26 million theft, which remains under investigation.",
-          "enlace": "https://www.washingtonpost.com/nation/2026/11/10/police-chief-defends-timing-nj-townships-wire-fraud-announcement/"
-        },
-        {
-          "titulo": "Massachusetts State Police to pay Karen Read $100,000 settlement",
-          "entradilla": "The Massachusetts State Police said the settlement would “avoid prolonged litigation and the significant costs to taxpayers of continuing the case.”",
-          "enlace": "https://www.washingtonpost.com/nation/2026/11/10/massachusetts-state-police-pay-karen-read-100000-settlement/"
-        },
-        {
-          "titulo": "Death penalty support at lowest point in 50 years, new Gallup poll finds",
-          "entradilla": "The decline in support is most pronounced among Democrats and younger Americans.",
-          "enlace": "https://www.washingtonpost.com/nation/2026/11/10/death-penalty-support-lowest-point-50-years-new-gallup-poll-finds/"
         }
       ],
       "analisis": {
-        "resumen": "- Trump defiende su política bélica y compara la operación en Irán con otras guerras de EE. UU.\n- Un estudio señala que la mayoría de las personas trans consultadas no lamenta haber recibido terapia hormonal.\n- Route 66 cumple cien años; la portada propone cinco lugares para visitar.\n- Se examinan el uso de cámaras por agentes de inmigración y el poder de las agencias federales para imponer multas.\n- También destacan consejos sobre infartos, noticias policiales y una encuesta sobre la pena de muerte.",
-        "populismo": 10,
-        "motivo_populismo": "Los titulares son mayormente informativos; expresiones como «cinco lugares imprescindibles» buscan atraer al lector, pero no plantean un enfrentamiento entre el pueblo y las élites ni recurren a descalificaciones.",
-        "sesgo": "La selección presta atención a la supervisión de las autoridades y a asuntos de derechos y salud. No se aprecia una orientación partidista clara en la redacción de los titulares."
+        "resumen": "- Ocho muertos y 19 heridos, entre ellos niños, tras el derrumbe de un edificio en Brooklyn.\n- Nuevas recomendaciones sobre pruebas de cáncer de próstata y estudios sobre ejercicio y TDAH y satisfacción tras la terapia hormonal.\n- Un proyecto de ley bipartidista busca facilitar el acceso universitario de estudiantes con discapacidad.\n- Trump defendió sus políticas bélicas en Arlington; también se informa de la muerte del juez federal Richard Posner.\n- La portada incluye vivienda generacional, consejos sobre infartos, el centenario de la Ruta 66, un poema de guerra y un mapache que impulsó donaciones.",
+        "populismo": 8,
+        "motivo_populismo": "Los titulares son mayormente informativos y carecen de enfrentamiento entre grupos o apelaciones contra las élites; el relato del mapache emplea un tono más llamativo.",
+        "sesgo": "La selección prioriza la actualidad estadounidense, la salud y la información de servicio, con atención a cuestiones sociales. No se aprecia un sesgo partidista claro en la redacción facilitada."
       }
     },
     {
       "nombre": "The Wall Street Journal",
       "web": "https://www.wsj.com",
       "noticias": [
+        {
+          "titulo": "Eight People Killed and 17 Injured in Brooklyn Building Collapse",
+          "entradilla": "Rescue workers continue to search the rubble for more victims, New York City’s mayor said.",
+          "enlace": "https://www.wsj.com/us-news/eight-people-killed-and-17-injured-in-brooklyn-building-collapse-811b5e8d?mod=rss_usnews"
+        },
         {
           "titulo": "An American Furniture Maker Tried to Bring Jobs Back Home. It Didn’t Work.",
           "entradilla": "The Krinskys tried to stay ahead of changing U.S. trade policies by moving manufacturing back from Vietnam, but the numbers didn’t pencil out.",
@@ -209,11 +214,6 @@
           "titulo": "Supreme Court Lets Trump Administration Build Border Wall in Big Bend",
           "entradilla": "The project had been halted during a legal challenge brought by preservationists worried about its impact on the border region in Texas.",
           "enlace": "https://www.wsj.com/us-news/law/trump-border-wall-big-bend-scotus-2ae1419e?mod=rss_usnews"
-        },
-        {
-          "titulo": "Court Orders NYC to Give Names of Shelter Residents to ICE",
-          "entradilla": "The Mamdani administration has called the agency’s request a fishing expedition.",
-          "enlace": "https://www.wsj.com/us-news/law/court-orders-nyc-to-give-names-of-shelter-residents-to-ice-da9f9dfc?mod=rss_usnews"
         },
         {
           "titulo": "Cold Plunges, Fitness Pop-Ups: The Students Pushing Clean Living on Campus",
@@ -241,16 +241,16 @@
           "enlace": "https://www.wsj.com/lifestyle/careers/these-associates-had-a-golden-ticket-to-big-lawuntil-weil-gotshal-collapsed-2c2f7e86?mod=rss_usnews"
         },
         {
-          "titulo": "SEC Enforcement Penalties Fall to 18-Year Low",
-          "entradilla": "The Wall Street regulator obtained about $1 billion last year, the lowest amount since the 2008 financial crisis.",
-          "enlace": "https://www.wsj.com/finance/regulation/sec-enforcement-penalties-fall-to-18-year-low-2aa5d9d3?mod=rss_usnews"
+          "titulo": "Judge, Economist Richard Posner Dies at 87",
+          "entradilla": "The jurist wrote thousands of opinions as well as scholarly articles, more than 50 books.",
+          "enlace": "https://www.wsj.com/arts-culture/books/judge-economist-richard-posner-dies-at-87-26d35652?mod=rss_usnews"
         }
       ],
       "analisis": {
-        "resumen": "- Un fabricante estadounidense no logra rentabilizar el regreso de su producción desde Vietnam.\n- Un robo informático de 26 millones de dólares enfrenta a vecinos de Nueva Jersey con sus autoridades locales.\n- Un bufete investigará un posible espionaje extranjero contra Nvidia; por otra parte, caen las sanciones de la SEC.\n- La justicia permite construir un muro fronterizo en Big Bend y ordena a Nueva York entregar a ICE nombres de residentes en refugios.\n- Varias noticias abordan conflictos escolares, decisiones universitarias y tendencias estudiantiles, mientras la caída de un gran bufete sacude el mercado jurídico.",
-        "populismo": 18,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «robo que sacude» y «billete dorado» aportan dramatismo; no se aprecia una apelación al pueblo contra las élites.",
-        "sesgo": "La selección favorece asuntos económicos, jurídicos y educativos, con atención a empresas, reguladores e instituciones. En los textos facilitados no se aprecia una orientación partidista clara."
+        "resumen": "- Ocho muertos y 17 heridos tras el derrumbe de un edificio en Brooklyn; continúa la búsqueda entre los escombros.\n- Un fabricante de muebles no logró hacer viable el regreso de su producción desde Vietnam a Estados Unidos.\n- Un ciberrobo de 26 millones de dólares provoca tensiones entre vecinos y autoridades de Cranbury, Nueva Jersey.\n- El Tribunal Supremo permite construir un muro fronterizo en Big Bend; Nvidia abre una investigación interna por posible espionaje extranjero.\n- Varias noticias abordan conflictos y tendencias universitarias; también destacan la caída del bufete Weil Gotshal y la muerte del juez Richard Posner.",
+        "populismo": 15,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «rocking», «shock waves» y «golden ticket» aportan dramatismo; no se aprecia una apelación al pueblo contra las élites.",
+        "sesgo": "La selección presta especial atención al mundo empresarial, jurídico y universitario, con énfasis en conflictos y dificultades institucionales. No se aprecia un sesgo político claro en los titulares facilitados."
       }
     },
     {
@@ -258,71 +258,71 @@
       "web": "https://www.latimes.com",
       "noticias": [
         {
-          "titulo": "White House warns of criminal inquiries into House Democrats who investigate Trump",
-          "entradilla": "The White House counsel made the warning in a letter dated Monday to Rep. Robert Garcia of Long Beach, who is in line to lead the House oversight committee.",
-          "enlace": "https://www.latimes.com/politics/story/2026-11-11/white-house-warns-of-criminal-inquiries-into-house-democrats-who-investigate-trump"
+          "titulo": "What's the deal with those massive, eerily lifelike sculptures of swimmers on Rodeo Drive?",
+          "entradilla": "The artist Carole Feuerman just unveiled \"Monuments of Stillness\" — 10 giant sculptures, all of them swimmers or divers — on Rodeo Drive in Beverly Hills.",
+          "enlace": "https://www.latimes.com/entertainment-arts/story/2026-11-12/carole-feuerman-monuments-of-stillness-rodeo-drive-beverly-hills"
         },
         {
-          "titulo": "Nithya Raman's election sets up an intense showdown with the LAPD",
-          "entradilla": "Mayor-elect Nithya Raman faces decisions on the fate of the police chief, a new LAPD contract and potential changes in policies on immigration enforcement and other issues.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-11/nithya-ramans-election-lapd-future"
+          "titulo": "Cancer institute backed by Larry Ellison plans major layoffs in Los Angeles",
+          "entradilla": "A notice filed last week shows the Ellison Medical Institute in West L.A. will permanently cut 88 positions in the new year.",
+          "enlace": "https://www.latimes.com/business/story/2026-11-12/cancer-institute-backed-by-larry-ellison-plans-major-layoffs-in-los-angeles"
         },
         {
-          "titulo": "Voters rejected Prop. 45. The battle over California's housing crisis continues",
-          "entradilla": "Proposition 45 promised to make it easier to build housing in California by overhauling CEQA, but it divided advocates. Why did voters reject it, and what happens next?",
-          "enlace": "https://www.latimes.com/environment/story/2026-11-11/voters-rejected-prop-45-battle-over-californias-housing-crisis-continues"
+          "titulo": "Commentary: Christmas came early thanks to the Dems' midterm sweeps. The tree is going up",
+          "entradilla": "Is it too early to put up the Christmas tree? I get it. We're barely into November.",
+          "enlace": "https://www.latimes.com/politics/story/2026-11-12/christmas-came-early-with-dem-midterm-wins-time-to-put-up-tree"
         },
         {
-          "titulo": "Driver in deadly North Hollywood Metro station crash held on $6-million bail",
-          "entradilla": "Three people were killed and others were injured when a car hit a crowd of pedestrians in North Hollywood on Tuesday evening, authorities said.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-10/three-dead-in-crash-near-north-hollywood-metro-station"
+          "titulo": "Stephen Miller expected to push hard-line Trump agenda. Will courts stand in the way?",
+          "entradilla": "President Trump's chief of staff, Stephen Miller, says federal judges don't have authority to rule on issues such as immigration. Legal experts see pushback in court.",
+          "enlace": "https://www.latimes.com/world-nation/story/2026-11-12/white-house-chief-of-staff-stephen-miller-trump-judges"
         },
         {
-          "titulo": "Black teachers say students call them the N-word. LAUSD vows to teach them not to",
-          "entradilla": "LAUSD already bans hate speech, but educators say use of the N-word is pervasive in too many schools and something must be done. Officials have passed a new plan.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-11/black-teachers-n-word-lausd"
+          "titulo": "Who will fill Raman's council seat? Community groups brace for a fight",
+          "entradilla": "With Nithya Raman becoming mayor next month, some in her district fear the City Council will skip a special election and appoint someone as her two-year replacement.",
+          "enlace": "https://www.latimes.com/california/story/2026-11-12/who-will-fill-ramans-council-seat-community-groups-brace-for-fight"
         },
         {
-          "titulo": "Inside the world of San Francisco 'peptide parties' — including one aboard a World War II ship",
-          "entradilla": "As HHS loosens peptide restrictions, advocates and entrepreneurs embrace unproven compounds despite researchers' warnings",
-          "enlace": "https://www.latimes.com/science/story/2026-11-11/for-peptide-enthusiasts-new-hhs-policy-means-party-time"
+          "titulo": "L.A. sales taxes will go up, but the time it takes firefighters to respond may go down",
+          "entradilla": "L.A. voters approved Measure FD in last week's election, which will raise sales taxes to 10.75% next year. The extra revenue will go to beef up the city's fire department.",
+          "enlace": "https://www.latimes.com/california/story/2026-11-12/la-sales-taxes-will-go-up-will-firefighting-response-times-go-down"
         },
         {
-          "titulo": "Illegal gambling operation in residential neighborhood raided in Westminster, at least 10 arrested",
-          "entradilla": "The Westminster Police Department detained at least 10 adults on Wednesday at a home in the 6000 block of Apache Road at around 10 a.m. The effort was part of a raid on what law enforcement described as an illegal gambling operation.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-11/illegal-gambling-operation-in-residential-neighborhood-raided-in-westminster-at-least-10-arrested"
+          "titulo": "Targeted by Trump, L.A. County took action to speed up counting votes. Officials say it worked",
+          "entradilla": "In the wake of attacks from President Trump and others, Los Angeles County election officials made changes to speed up the vote count. A week out from the midterm election, they appear to have worked.",
+          "enlace": "https://www.latimes.com/california/story/2026-11-11/targeted-by-trump-la-county-took-action-to-speed-up-counting-votes-officials-say-it-worked"
         },
         {
-          "titulo": "LAPD opens investigation into officer's death during dive training at backyard pool",
-          "entradilla": "An officer who served on the dive team of the LAPD's vaunted Metropolitan Division died last week while using a specialized piece of equipment at a private residence in Huntington Beach.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-11/lapd-investigation-dive-training-exercise-death-private-pool"
+          "titulo": "Route 66 turns 100. Here's our mega-guide to America's Mother Road.",
+          "entradilla": "If you've ever daydreamed about covering some part of the famous roadway, hop on in.",
+          "enlace": "https://www.latimes.com/travel/story/2026-05-12/100-years-of-route-66"
         },
         {
-          "titulo": "Hollywood warned young screenwriters about AI. Now it may be their ticket in",
-          "entradilla": "As generative AI spreads through Hollywood, unsettling writers worried about losing jobs and creative control, some L.A. educators see it as a way for emerging screenwriters to develop pitches, visuals and projects — and reach industry contacts once reserved for insiders.",
-          "enlace": "https://www.latimes.com/entertainment-arts/story/2026-11-11/ai-help-new-screenwriters-film-schools-education"
+          "titulo": "Anthony Clark, comedian and actor best known for 'Yes, Dear' and 'Boston Common,' dies at 62",
+          "entradilla": "Anthony Clark, a comedian and actor known for shows 'Yes, Dear,' and 'Boston Common,' has died. Mike O'Malley and Nick Swardson posted tributes to him.",
+          "enlace": "https://www.latimes.com/entertainment-arts/story/2026-11-11/anthony-clark-comedian-best-known-for-yes-dear-dead-at-62"
         },
         {
-          "titulo": "Just 156 votes separate the two candidates in L.A.'s 9th District council race",
-          "entradilla": "With votes still being counted, Jose Ugarte holds a slim lead over Estuardo Mazariegos for the CD9 seat,  according to the latest tally released Tuesday night.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-11/just-156-votes-separate-two-candidates-in-l-a-s-9th-district-council-race"
+          "titulo": "Frankie Muniz rushed to hospital after he crashed during Daytona practice",
+          "entradilla": "Team Reaume confirmed the 40-year-old driver was evaluated following a practice incident at Daytona International Speedway and was released from the hospital on Wednesday evening.",
+          "enlace": "https://www.latimes.com/entertainment-arts/story/2026-11-11/frankie-muniz-hospitalized-following-crash-during-daytona-practice"
         },
         {
-          "titulo": "'Days of Our Lives' star James Reynolds reveals Parkinson's diagnosis as show incorporates his condition",
-          "entradilla": "James Reynolds revealed he has been diagnosed with Parkinson's disease. 'Days of Our Lives' has written his condition into his storyline.",
-          "enlace": "https://www.latimes.com/entertainment-arts/tv/story/2026-11-11/days-of-our-lives-james-reynolds-parkinsons-diagnosis-storyline"
+          "titulo": "Irma P. Hall, teacher who became 'Soul Food', 'Ladykillers' scene-stealer, dies at 91",
+          "entradilla": "Irma P. Hall, a scene-stealer known for films 'Soul Food,' 'The Ladykillers' and 'A Family Thing,' died Tuesday at age 91, her family announced.",
+          "enlace": "https://www.latimes.com/entertainment-arts/movies/story/2026-11-11/irma-p-hall-soul-food-big-mama-ladykillers"
         },
         {
-          "titulo": "ESPN analyst and former NFL coach Rex Ryan charged with running over the feet of pedestrians in Nashville",
-          "entradilla": "ESPN analyst Rex Ryan turned himself in and Nashville police charged him with six misdemeanors for allegedly running over the feet of two pedestrians at a downtown intersection.",
-          "enlace": "https://www.latimes.com/sports/story/2026-11-11/espn-analyst-ex-nfl-coach-rex-ryan-charged-hit-pedestrians"
+          "titulo": "Christina Applegate fears that 'poisoning' may be behind her misdiagnosis of MS",
+          "entradilla": "'Dead to Me' star Christina Applegate ventures a guess at what might be causing her symptoms that led to her MS misdiagnosis: poisoning.",
+          "enlace": "https://www.latimes.com/entertainment-arts/story/2026-11-11/christina-applegate-thinks-she-may-have-been-poisoned-by-implant"
         }
       ],
       "analisis": {
-        "resumen": "- La Casa Blanca advierte de posibles investigaciones penales contra demócratas que investiguen a Trump.\n- La alcaldesa electa de Los Ángeles afronta decisiones sobre la policía; continúa el recuento en una ajustada elección municipal.\n- Los votantes rechazan la Proposición 45, mientras sigue el debate sobre la crisis de vivienda en California.\n- Un atropello mortal en North Hollywood deja tres fallecidos; también se informa de una redada por juego ilegal y de la muerte de un policía durante un entrenamiento.\n- La portada aborda el lenguaje racista en las escuelas, el uso de péptidos, la inteligencia artificial en Hollywood y noticias de televisión y deporte.",
-        "populismo": 18,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «intenso enfrentamiento» y «batalla» dramatizan algunos conflictos; no se aprecia una apelación al pueblo contra las élites.",
-        "sesgo": "La selección da prioridad a asuntos locales de California, especialmente de Los Ángeles, y presta atención a la seguridad y las instituciones públicas. No se aprecia una orientación política inequívoca en el conjunto de los titulares."
+        "resumen": "- Los Ángeles aborda la sucesión de Nithya Raman, la subida del impuesto sobre las ventas para financiar a los bomberos y la aceleración del recuento electoral.\n- Una noticia examina la agenda de Stephen Miller y su posible choque con los tribunales; una columna celebra los resultados demócratas en las elecciones legislativas.\n- El Ellison Medical Institute prevé eliminar 88 puestos en Los Ángeles.\n- La portada destaca esculturas de nadadores en Beverly Hills y una guía por el centenario de la Ruta 66.\n- Se informa de las muertes de Anthony Clark e Irma P. Hall, del accidente de Frankie Muniz y de declaraciones de Christina Applegate sobre su salud.",
+        "populismo": 23,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «agenda de línea dura», «se preparan para una pelea» y «llevado de urgencia» añaden dramatismo.",
+        "sesgo": "La selección da prioridad a asuntos locales de Los Ángeles y presenta la actuación de Trump y su entorno desde un enfoque crítico. También incluye una columna de opinión que celebra los resultados demócratas."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://nypost.com",
       "noticias": [
         {
-          "titulo": "Katy Perry said her ex ‘should be in jail’ — months before Russell Brand’s guilty verdict",
-          "entradilla": "Perry and Brand finalized their divorce back in 2012.",
-          "enlace": "https://pagesix.com/2026/11/11/celebrity-news/katy-perry-said-her-ex-should-be-in-jail-months-before-russell-brands-guilty-verdict/"
+          "titulo": "Inspectors discovered violations at construction site next to the deadly Brooklyn building collapse",
+          "entradilla": "New York City inspectors discovered violations at the construction site next to the Brooklyn building that collapsed on Wednesday — just months before the tragedy. A stop work order was issued in March after Department of Buildings inspectors concluded that the building on the lot in Flatbush was be",
+          "enlace": "https://nypost.com/2026/11/12/us-news/nyc-found-violations-at-construction-site-for-brooklyn-building-earlier-this-year-before-it-collapsed/"
         },
         {
-          "titulo": "Katy Perry said her ex ‘should be in jail’ — months before Russell Brand’s guilty verdict",
-          "entradilla": "Perry and Brand finalized their divorce back in 2012.",
-          "enlace": "https://pagesix.com/2026/11/11/celebrity-news/katy-perry-said-her-ex-should-be-in-jail-months-before-russell-brands-guilty-verdict/"
+          "titulo": "Comedian claims Russell Brand bit her face backstage: ‘Physical assault’",
+          "entradilla": "British comedian Josie Long claimed the incident happened over 20 years before Brand was convicted of rape and sexual assault.",
+          "enlace": "https://pagesix.com/2026/11/12/celebrity-news/comedian-josie-long-claims-russell-brand-bit-her-face-backstage/"
         },
         {
-          "titulo": "Anthony Constantino calls for Trump to ‘Free Diddy,’ insists disgraced rapper ‘made New York Exciting’",
-          "entradilla": "\"He made New York exciting,\" Constantino said Tuesday from Capitol Hill, referring to the disgraced music mogul. \"We gotta make New York exciting. New York lost 2 million people. They lost Donald Trump to Florida.\"",
-          "enlace": "https://nypost.com/2026/11/11/us-news/anthony-constantino-calls-for-trump-to-free-diddy-insists-disgraced-rapper-made-new-york-exciting/"
+          "titulo": "Comedian claims Russell Brand bit her face backstage: ‘Physical assault’",
+          "entradilla": "British comedian Josie Long claimed the incident happened over 20 years before Brand was convicted of rape and sexual assault.",
+          "enlace": "https://pagesix.com/2026/11/12/celebrity-news/comedian-josie-long-claims-russell-brand-bit-her-face-backstage/"
         },
         {
-          "titulo": "Bay Area music venue shutters after just 5-year run in struggling city",
-          "entradilla": "Oakland club and music venue Crybaby will close at the end of this month after just four years in business, the venue announced in an Instagram post Tuesday.",
-          "enlace": "https://nypost.com/2026/11/11/business/popular-oakland-nightclub-crybaby-announces-closure/"
+          "titulo": "Georgia businessman dies after plane crash just a mile from airport, minutes after reporting engine trouble",
+          "entradilla": "Stephens, the founder of the Georgia health technology company zPaper, was one of two people on board the Velocity-173 FG aircraft.",
+          "enlace": "https://nypost.com/2026/11/12/us-news/georgia-businessman-dies-after-plane-crash-just-a-mile-from-airport-minutes-after-reporting-engine-trouble/"
         },
         {
-          "titulo": "Alarming new details emerge in death of veteran LAPD diver who drowned during SoCal training exercise",
-          "entradilla": "The department is now investigating after Officer Thomas Daniel Denton suffered a medical emergency in Huntington Beach last week.",
-          "enlace": "https://nypost.com/2026/11/11/us-news/details-emerge-in-death-of-veteran-lapd-diver-in-huntington-beach/"
+          "titulo": "Former Yankees pitcher Chris Martin retires from MLB at 40",
+          "entradilla": "A one-time Yankee and former World Series champion is hanging up his spikes.",
+          "enlace": "https://nypost.com/2026/11/12/sports/former-yankees-pitcher-chris-martin-retires-from-mlb-at-40/"
         },
         {
-          "titulo": "How fans are reacting to Dianna Russini’s new show",
-          "entradilla": "Dianna Russini's debut of \"The Russini Report\" Wednesday had head-scratching moments and a cringeworthy mention of Patriots coach Mike Vrabel.",
-          "enlace": "https://nypost.com/2026/11/11/sports/how-fans-are-reacting-to-dianna-russinis-new-show/"
+          "titulo": "Artists sculpt mesmerizing works of art in sand on California beach — including insane optical illusions",
+          "entradilla": "Artists from around the world turned a California beach into a giant art gallery.",
+          "enlace": "https://nypost.com/2026/11/12/lifestyle/global-artists-rake-giant-illusions-into-pismo-beach-sand/"
         },
         {
-          "titulo": "Nvidia’s Jensen Huang also had alleged affair with subordinate as new report details CEO’s dalliance in wake of Chinese spy scandal",
-          "entradilla": "That’s even though Nvidia’s code of conduct urges employees to “avoid situations where our actions create conflict” including “personal relationships,” according to the report.",
-          "enlace": "https://nypost.com/2026/11/11/business/nvidias-jensen-huang-also-had-alleged-affair-with-subordinate-as-new-report-details-ceos-dalliance-in-wake-of-chinese-spy-scandal/"
+          "titulo": "‘The Lowdown’s Ethan Hawke and Tommy Lee Jones Open Up About Lee and His Father’s “Complicated” Relationship Ahead of [SPOILER’s] Episode 6 Death: “They Don’t Need to Heal Everything”",
+          "entradilla": "\"Sometimes they just need to be near each other,\" Hawke told DECIDER of people with \"complicated relationships\" like Lee Raybon and his father.",
+          "enlace": "https://decider.com/2026/11/12/the-lowdown-ethan-hawke-tommy-lee-jones-episode-6-death-interview/"
         },
         {
-          "titulo": "LAPD chief Jim McDonnell reveals he’s ‘hopeful’ to remain in power when Nithya Raman is mayor",
-          "entradilla": "Asked whether the incoming mayor had requested his resignation, McDonnell offered a blunt, one-word answer.",
-          "enlace": "https://nypost.com/2026/11/11/us-news/lapd-chief-hopes-to-stay-under-mayor-elect-nithya-raman/"
+          "titulo": "‘Vampire Diaries’ actor claims ‘coward’ co-star had him blacklisted over pro-Israel stance",
+          "entradilla": "\"He also wanted to stop me from getting work and meeting with fans at fan events,\" the Australian actor claimed of his former co-star.",
+          "enlace": "https://pagesix.com/2026/11/12/celebrity-news/vampire-diaries-actor-claims-coward-co-star-had-him-blacklisted-over-pro-israel-stance/"
         },
         {
-          "titulo": "Rex Ryan’s lawyer addresses ex-Jets coach’s arrest for allegedly running over pedestrians’ feet",
-          "entradilla": "Rex Ryan has lawyered up in the wake of his shocking arrest on Wednesday.",
-          "enlace": "https://nypost.com/2026/11/11/sports/rex-ryans-lawyer-ex-jets-coach-addresses-arrest/"
+          "titulo": "‘Vampire Diaries’ actor claims ‘coward’ co-star had him blacklisted over pro-Israel stance",
+          "entradilla": "\"He also wanted to stop me from getting work and meeting with fans at fan events,\" the Australian actor claimed of his former co-star.",
+          "enlace": "https://pagesix.com/2026/11/12/celebrity-news/vampire-diaries-actor-claims-coward-co-star-had-him-blacklisted-over-pro-israel-stance/"
         },
         {
-          "titulo": "Ilhan Omar dodges questions about probe into gay ‘brother’ ex-husband — claims she has no idea what it’s about",
-          "entradilla": "Rep. Ilhan Omar faced questions on whether her ex-husband was gay.",
-          "enlace": "https://nypost.com/2026/11/11/us-news/ilhan-omar-dodges-questions-about-probe-into-gay-brother-ex-husband-claims-she-has-no-idea-what-its-about/"
+          "titulo": "How Arvell Reese quickly turned into unstoppable Giants ‘jackknife’",
+          "entradilla": "\"Those kinds of jackknife (linebackers) are so special when they can play off the ball or on the ball.\"",
+          "enlace": "https://nypost.com/2026/11/12/sports/how-arvell-reese-quickly-turned-into-unstoppable-giants-jackknife/"
         },
         {
-          "titulo": "Cuffed Long Island suspect dies in police custody after trying to flee arrest: cops",
-          "entradilla": "A handcuffed Long Island man died after leading police on a chase in an attempt to dodge arrest on Tuesday afternoon, police said.  Victor Santos, 62, died after the failed escape attempt in Huntington Station at 33 West 11th S. around 1:20 p.m., the Suffolk County Police Department said in a statem",
-          "enlace": "https://nypost.com/2026/11/11/us-news/cuffed-long-island-suspect-dies-in-police-custody-after-trying-to-flee-arrest-cops/"
+          "titulo": "Oprah’s Favorite Things 2026 list is here, featuring everything from beauty products to Birkenstocks",
+          "entradilla": "Winfrey said this year's list has \"something for just about everybody.\"",
+          "enlace": "https://pagesix.com/2026/11/12/style/oprahs-favorite-things-2026-list-is-here-shop-the-best-gift-picks/"
         },
         {
-          "titulo": "Polymarket promo code NYPMAX1: Deposit $10, get $25 for Warriors vs. Rockets",
-          "entradilla": "Deposit $10, get a $25 trading bonus with the Polymarket promo code NYPMAX1.",
-          "enlace": "https://nypost.com/2026/11/11/betting/polymarket-promo-code-nypmax1-deposit-10-get-25-for-warriors-vs-rockets/"
+          "titulo": "Oprah’s Favorite Things 2026 list is here, featuring everything from beauty products to Birkenstocks",
+          "entradilla": "Winfrey said this year's list has \"something for just about everybody.\"",
+          "enlace": "https://pagesix.com/2026/11/12/style/oprahs-favorite-things-2026-list-is-here-shop-the-best-gift-picks/"
         }
       ],
       "analisis": {
-        "resumen": "- Katy Perry dijo que su ex debía estar en prisión antes del veredicto de culpabilidad contra Russell Brand.\n- Anthony Constantino pide a Trump que libere a Diddy; otro titular aborda una investigación relacionada con el exmarido de Ilhan Omar.\n- Se informa de la muerte de un buzo policial durante un entrenamiento y de un detenido bajo custodia en Long Island.\n- La portada recoge acusaciones sobre Jensen Huang, el cierre de un local musical en Oakland y declaraciones del jefe de policía de Los Ángeles.\n- En deportes, aparecen la detención del exentrenador Rex Ryan, un nuevo programa de Dianna Russini y una promoción de Polymarket.",
-        "populismo": 60,
-        "motivo_populismo": "Abundan expresiones sensacionalistas como «detalles alarmantes», «escándalo de espía» y «detención impactante», aunque no se aprecia una apelación sostenida al pueblo contra las élites.",
-        "sesgo": "La selección y la redacción priorizan escándalos, sucesos negativos y controversias de personajes públicos, con un enfoque sensacionalista. No se aprecia una orientación partidista coherente en el conjunto."
+        "resumen": "- Inspectores detectaron infracciones en una obra vecina al edificio que se derrumbó en Brooklyn.\n- Un empresario de Georgia murió en un accidente aéreo tras comunicar problemas de motor.\n- Una cómica acusa a Russell Brand de haberla mordido entre bastidores hace más de 20 años.\n- Un actor de «The Vampire Diaries» acusa a un excompañero de intentar vetarlo por su postura proisraelí.\n- La portada incluye deportes, arte en la playa, televisión y la lista de productos favoritos de Oprah.",
+        "populismo": 25,
+        "motivo_populismo": "Hay cierto sensacionalismo en expresiones como «ilusiones ópticas increíbles» y en el insulto citado «cobarde», pero no aparecen apelaciones al pueblo frente a las élites ni un enfrentamiento colectivo explícito.",
+        "sesgo": "La selección favorece sucesos, acusaciones entre famosos y entretenimiento, con algunos titulares de tono llamativo. No se aprecia un sesgo político claro en el conjunto."
       }
     }
   ]
