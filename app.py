@@ -33,7 +33,6 @@ ESTADOS_CRISPITO = ["Zen", "Tranquilo", "Mosqueado", "Molesto", "Enfadado", "¡A
 # y tiene que coincidir con PAISES de actualizar.py.
 PAISES = {
     "es": "🇪🇸 España",
-    "lr": "🍇 La Rioja",
     "fr": "🇫🇷 Francia",
     "us": "🇺🇸 Estados Unidos",
     "gb": "🇬🇧 Reino Unido",

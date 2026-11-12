@@ -303,35 +303,6 @@ PERIODICOS_EG = {
     },
 }
 
-# La Rioja (España), añadida el 11/11/2026. No es un país sino una región: se
-# trata igual que los demás, con el código "lr". El Día de La Rioja no tiene
-# RSS que funcione desde GitHub y se lee de su portada web.
-PERIODICOS_LR = {
-    "Diario La Rioja": {
-        "web": "https://www.larioja.com",
-        "rss": [
-            "https://www.larioja.com/rss/2.0/?section=la-rioja",
-            "https://www.larioja.com/rss/2.0/portada",
-        ],
-    },
-    "El Día de La Rioja": {
-        "web": "https://www.eldiadelarioja.es",
-        "rss": [],
-    },
-    "NueveCuatroUno": {
-        "web": "https://nuevecuatrouno.com",
-        "rss": ["https://nuevecuatrouno.com/feed/"],
-    },
-    "Rioja2": {
-        "web": "https://www.rioja2.com",
-        "rss": ["https://www.rioja2.com/rss/"],
-    },
-    "elDiario.es La Rioja": {
-        "web": "https://www.eldiario.es/la-rioja/",
-        "rss": ["https://www.eldiario.es/rss/la-rioja/"],
-    },
-}
-
 # Los países de la web. La clave ("es", "fr"…) es también el nombre de su carpeta
 # dentro de datos/. Para añadir un país basta con añadir una entrada aquí
 # (y otra en PAISES de app.py y de web/generar.py para que salga en las webs).
@@ -346,9 +317,6 @@ PAISES = {
     "cn": {"nombre": "China", "periodicos": PERIODICOS_CN},
     "br": {"nombre": "Brasil", "periodicos": PERIODICOS_BR},
     "eg": {"nombre": "Egipto", "periodicos": PERIODICOS_EG},
-    # El nombre lleva "(España)" porque va en los prompts: así ChatGPT no la
-    # confunde con la provincia argentina del mismo nombre.
-    "lr": {"nombre": "La Rioja (España)", "periodicos": PERIODICOS_LR},
 }
 
 # Los cinco personajes de "¿Quién quieres que te dé la opinión?".

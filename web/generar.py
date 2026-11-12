@@ -89,11 +89,6 @@ PAISES = {
         "nombre": "España", "carpeta": "", "idioma": "es",
         "bandera": '<rect width="3" height="2" fill="#c60b1e"/><rect y="0.5" width="3" height="1" fill="#ffc400"/>',
     },
-    "lr": {
-        "nombre": "La Rioja", "carpeta": "la-rioja", "idioma": "es",
-        # Bandera de La Rioja: rojo, blanco, verde y amarillo (sin el escudo).
-        "bandera": franjas(["#e4002b", "#ffffff", "#5bb030", "#ffd100"]),
-    },
     "fr": {
         "nombre": "Francia", "carpeta": "francia", "idioma": "fr",
         "bandera": franjas(["#0055a4", "#ffffff", "#ef4135"], vertical=True),
