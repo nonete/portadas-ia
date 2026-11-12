@@ -1,0 +1,60 @@
+name: Difundir en redes
+
+# Se ejecuta cada 30 minutos. difundir.py sortea cada día una hora distinta
+# y solo publica cuando llega esa hora (ver difundir.py).
+on:
+  schedule:
+    # Hora UTC. Cubre de 8:00 a 23:30 en Madrid tanto en invierno como en verano.
+    - cron: "5,35 7-21 * * *"
+  workflow_dispatch:
+    inputs:
+      prueba:
+        description: "Solo enseñar el texto, sin publicar"
+        type: boolean
+        default: true
+      ahora:
+        description: "Publicar ya, sin esperar a la hora sorteada"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: difundir
+  cancel-in-progress: false
+
+jobs:
+  difundir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Publicar si toca
+        env:
+          BLUESKY_USUARIO: ${{ secrets.BLUESKY_USUARIO }}
+          BLUESKY_CLAVE_APP: ${{ secrets.BLUESKY_CLAVE_APP }}
+          POSTS_AL_DIA: "1"
+          PRUEBA: ${{ github.event_name == 'workflow_dispatch' && inputs.prueba && '1' || '0' }}
+          AHORA: ${{ github.event_name == 'workflow_dispatch' && inputs.ahora && '1' || '0' }}
+        run: python difundir.py
+
+      - name: Guardar el plan del día
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add difusion
+          if git diff --cached --quiet; then
+            echo "Sin cambios."
+          else
+            git commit -m "Difusión: plan del día"
+            git pull --rebase origin main
+            git push
+          fi
