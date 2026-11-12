@@ -23,8 +23,9 @@
     "REPO": "nonete/portadas-ia",
     "RAMA": "main",
     // "no" = la página de configuración se abre sin clave (solo para pruebas).
+    // Sin el secreto CLAVE_CONFIGURACION, con "si" la página responde 503 (cerrada).
     // "si" = pide la clave del secreto CLAVE_CONFIGURACION.
-    "PEDIR_CLAVE": "no"
+    "PEDIR_CLAVE": "si"
   },
 
   // Permite al programa leer pagina.html como texto.
