@@ -237,3 +237,11 @@ tbody td:last-child { min-width: 240px; color: var(--tinta-2); }
 }
 
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+
+/* ---------- Pie: enlaces de texto a cada país y página de metodología ---------- */
+.pie-paises { display: flex; flex-wrap: wrap; gap: 6px 18px; margin-top: 14px; font-size: .88rem; }
+.texto-largo { max-width: 760px; }
+.texto-largo h2 { font-size: 1.4rem; margin: 30px 0 8px; }
+.texto-largo p, .texto-largo li { color: var(--tinta-2); }
+.texto-largo ul { padding-left: 20px; }

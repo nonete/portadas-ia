@@ -36,6 +36,11 @@ from datetime import datetime
 from html import escape
 from pathlib import Path
 
+try:                                         # Pillow solo hace falta para las imágenes de redes
+    from PIL import Image, ImageDraw, ImageFont
+except ImportError:                          # sin Pillow se usa la imagen genérica
+    Image = None
+
 # ----------------------------------------------------------------------
 # CONFIGURACIÓN
 # ----------------------------------------------------------------------
@@ -239,6 +244,78 @@ def lista_resumen(texto: str) -> str:
     """El resumen de ChatGPT viene como líneas que empiezan por '- '."""
     puntos = [linea.strip().lstrip("-•* ").strip() for linea in texto.split("\n") if linea.strip()]
     return "<ul>" + "".join(f"<li>{escape(punto)}</li>" for punto in puntos) + "</ul>"
+
+
+# ----------------------------------------------------------------------
+# IMAGEN PARA REDES SOCIALES (Open Graph)
+# ----------------------------------------------------------------------
+
+FUENTES_NEGRITA = ["/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf",
+                   "/usr/share/fonts/truetype/liberation/LiberationSerif-Bold.ttf"]
+FUENTES_TEXTO = ["/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+                 "/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf"]
+COLORES_NIVEL = {"bajo": "#3ecf3e", "medio": "#fab219", "alto": "#ff6b6b"}
+
+
+def cargar_fuente(rutas: list, tamano: int):
+    for ruta in rutas:
+        if Path(ruta).exists():
+            return ImageFont.truetype(ruta, tamano)
+    return ImageFont.load_default()
+
+
+def imagen_social(codigo: str, ultimo: dict) -> bool:
+    """Crea img/og-<país>.png (1200x630) con la nota de crispación del día.
+    Devuelve False si no se pudo (sin Pillow): entonces se usa la imagen genérica."""
+    if Image is None:
+        return False
+    nota = a_numero(ultimo["general"]["crispacion"])
+    estado = min(5, nota * 6 // 100)
+    lienzo = Image.new("RGB", (1200, 630), "#142a5c")
+    pincel = ImageDraw.Draw(lienzo)
+    pincel.rectangle([0, 0, 1200, 12], fill="#ffffff")
+    pincel.text((70, 70), "Portadas IA", font=cargar_fuente(FUENTES_NEGRITA, 64), fill="#ffffff")
+    pincel.text((70, 160), f"Edición {PAISES[codigo]['nombre']}", font=cargar_fuente(FUENTES_TEXTO, 34), fill="#b9c4de")
+    pincel.text((70, 250), str(nota), font=cargar_fuente(FUENTES_NEGRITA, 200), fill=COLORES_NIVEL[nivel(nota)])
+    ancho_nota = pincel.textlength(str(nota), font=cargar_fuente(FUENTES_NEGRITA, 200))
+    pincel.text((70 + ancho_nota + 16, 380), "/ 100", font=cargar_fuente(FUENTES_TEXTO, 48), fill="#b9c4de")
+    pincel.text((70, 490), "Crispación en las portadas de hoy", font=cargar_fuente(FUENTES_TEXTO, 38), fill="#ffffff")
+    fecha = datetime.strptime(ultimo["fecha"], "%Y-%m-%d")
+    pincel.text((70, 548), fecha_larga(fecha).capitalize(), font=cargar_fuente(FUENTES_TEXTO, 28), fill="#b9c4de")
+    # Crispito en su estado de hoy (primer fotograma del GIF).
+    gif = RAIZ / "crispito" / f"crispito_{estado}.gif"
+    if gif.exists():
+        mascota = Image.open(gif).convert("RGBA").resize((340, 340))
+        lienzo.paste(mascota, (790, 150), mascota)
+    lienzo.save(SITIO / "img" / f"og-{codigo}.png", optimize=True)
+    return True
+
+
+def enlaces_texto_paises(raiz: str) -> str:
+    """Enlaces con texto a cada país (para el pie): los buscadores entienden mejor
+    un texto que una bandera."""
+    enlaces = ""
+    for datos in PAISES.values():
+        camino = raiz + (datos["carpeta"] + "/" if datos["carpeta"] else "")
+        if VISTA_PREVIA:
+            camino += "index.html"
+        enlaces += f'<a href="{camino or "./"}">Portadas de {escape(datos["nombre"])}</a>'
+    return enlaces
+
+
+def pie(raiz: str, hora_texto: str) -> str:
+    """El pie de página, igual en todas las páginas."""
+    metodologia = raiz + "metodologia/" + ("index.html" if VISTA_PREVIA else "")
+    return f"""<footer class="pie">
+  <div class="ancho">
+    <p><b>Cómo leer esta página.</b> Los resúmenes, el populismo, el sesgo y la
+    crispación son una estimación de una IA a partir de los titulares: pueden
+    contener errores y no son una medición objetiva. Pulsa en cada titular para
+    leer la noticia completa en su periódico. <a href="{metodologia}">Cómo se calcula</a>.</p>
+    <p>{hora_texto}</p>
+    <nav class="pie-paises" aria-label="Portadas por país">{enlaces_texto_paises(raiz)}</nav>
+  </div>
+</footer>"""
 
 
 # ----------------------------------------------------------------------
@@ -548,6 +625,7 @@ def pagina(codigo: str) -> str:
         modificado = datetime.strptime(ultimo["generado"], "%d/%m/%Y %H:%M").isoformat()
     else:
         fecha = datetime.now()
+        nota = 0
         titulo = f"Portadas IA · {pais}"
         descripcion = f"Las portadas de la prensa de {pais}, resumidas y medidas por una IA."
         cuerpo = (f'<section class="portada"><div class="portada-texto"><h1>Todavía no hay datos de '
@@ -558,26 +636,43 @@ def pagina(codigo: str) -> str:
     extras = ""
     if URL_BASE:
         url = direccion_publica(codigo)
+        # Imagen para redes: la del país con la nota del día, o la genérica.
+        if ultimo and imagen_social(codigo, ultimo):
+            imagen = f"{URL_BASE}/img/og-{codigo}.png"
+            medidas = ('\n<meta property="og:image:width" content="1200">'
+                       '\n<meta property="og:image:height" content="630">')
+            alt_imagen = f"Crispación {nota}/100 en las portadas de {pais}, según Portadas IA"
+        else:
+            imagen, medidas = f"{URL_BASE}/img/estados.png", ""
+            alt_imagen = "Los seis estados de Crispito, la mascota de Portadas IA"
         extras = (
             f'<link rel="canonical" href="{url}">\n'
             f'<meta property="og:url" content="{url}">\n'
-            f'<meta property="og:image" content="{URL_BASE}/img/estados.png">'
+            f'<meta property="og:image" content="{imagen}">{medidas}\n'
+            f'<meta property="og:image:alt" content="{escape(alt_imagen)}">\n'
+            f'<meta name="twitter:image" content="{imagen}">'
         )
 
     # Datos estructurados: le explican a Google qué es esta página.
+    pagina_url = direccion_publica(codigo) if URL_BASE else ""
     esquema = json.dumps({
         "@context": "https://schema.org",
-        "@type": "WebPage",
-        "name": titulo,
-        "description": descripcion,
-        "inLanguage": "es",
-        "dateModified": modificado,
-        "isPartOf": {"@type": "WebSite", "name": "Portadas IA"},
+        "@graph": [
+            {"@type": "WebSite", "@id": f"{URL_BASE}/#sitio", "name": "Portadas IA",
+             "url": f"{URL_BASE}/", "inLanguage": "es",
+             "description": "Las portadas de la prensa de cada país, leídas y medidas por una inteligencia artificial."},
+            {"@type": "WebPage", "name": titulo, "description": descripcion, "url": pagina_url,
+             "inLanguage": "es", "dateModified": modificado,
+             "isPartOf": {"@id": f"{URL_BASE}/#sitio"},
+             "about": f"Portadas de la prensa de {pais}"},
+        ],
     }, ensure_ascii=False)
 
     secciones = [("crispacion", "Crispación"), ("populismo", "Populismo"),
                  ("periodicos", "Periódicos"), ("opiniones", "Opiniones"), ("historico", "Día a día")]
     menu_secciones = "".join(f'<a href="#{ancla}">{texto}</a>' for ancla, texto in secciones)
+
+    horario = f"Las portadas se leen cada día a las {', '.join(f'{hora}:00' for hora in HORAS[:-1])} y {HORAS[-1]}:00 (hora de Madrid)."
 
     return f"""<!DOCTYPE html>
 <html lang="es">
@@ -591,7 +686,7 @@ def pagina(codigo: str) -> str:
 <meta property="og:title" content="{escape(titulo)}">
 <meta property="og:description" content="{escape(descripcion)}">
 <meta property="og:locale" content="es_ES">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="summary_large_image">
 {extras}
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23142a5c'/%3E%3Cpath d='M8 10h16M8 16h16M8 22h10' stroke='%23fff' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -617,18 +712,94 @@ def pagina(codigo: str) -> str:
 {cuerpo}
 </main>
 
-<footer class="pie">
-  <div class="ancho">
-    <p><b>Cómo leer esta página.</b> Los resúmenes, el populismo, el sesgo y la
-    crispación son una estimación de una IA a partir de los titulares: pueden
-    contener errores y no son una medición objetiva. Pulsa en cada titular para
-    leer la noticia completa en su periódico.</p>
-    <p>Las portadas se leen cada día a las {", ".join(f"{hora}:00" for hora in HORAS[:-1])} y {HORAS[-1]}:00 (hora de Madrid).</p>
-  </div>
-</footer>
+{pie(raiz, horario)}
 
 <script>window.HORAS_LECTURA = {json.dumps(HORAS)};</script>
 <script src="{raiz}web.js" defer></script>
+</body>
+</html>
+"""
+
+
+def pagina_metodologia() -> str:
+    """Página 'Cómo se calcula': explica el método, los periódicos y los límites."""
+    raiz = "../"
+    por_pais = ""
+    for codigo, datos in PAISES.items():
+        ultimo = leer_json(codigo, "ultimo.json", None)
+        if not ultimo:
+            continue
+        nombres = ", ".join(p["nombre"] for p in ultimo["periodicos"])
+        por_pais += f"<li><b>{escape(datos['nombre'])}:</b> {escape(nombres)}.</li>"
+    url = f"{URL_BASE}/metodologia/" if URL_BASE else ""
+    titulo = "Cómo se calcula el populismo y la crispación en las portadas | Portadas IA"
+    descripcion = ("Cómo lee Portadas IA las portadas de la prensa: qué es la nota de populismo y de crispación, "
+                   "qué periódicos se usan, cuándo se actualiza y qué límites tiene.")
+    canonical = f'<link rel="canonical" href="{url}">\n<meta property="og:url" content="{url}">\n' if url else ""
+    imagen = f'<meta property="og:image" content="{URL_BASE}/img/estados.png">\n<meta name="twitter:image" content="{URL_BASE}/img/estados.png">\n' if url else ""
+    horario = f"Las portadas se leen cada día a las {', '.join(f'{hora}:00' for hora in HORAS[:-1])} y {HORAS[-1]}:00 (hora de Madrid)."
+    inicio = ("../index.html" if VISTA_PREVIA else "../")
+    return f"""<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{escape(titulo)}</title>
+<meta name="description" content="{escape(descripcion)}">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Portadas IA">
+<meta property="og:title" content="{escape(titulo)}">
+<meta property="og:description" content="{escape(descripcion)}">
+<meta property="og:locale" content="es_ES">
+<meta name="twitter:card" content="summary_large_image">
+{canonical}{imagen}<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,600;6..72,700&family=Public+Sans:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="{raiz}estilos.css">
+</head>
+<body>
+<a class="saltar" href="#contenido">Saltar al contenido</a>
+<header class="mancheta">
+  <div class="ancho">
+    <a class="marca" href="{inicio}">Portadas <i>IA</i></a>
+    <p class="lema">La prensa del día, leída y medida por una inteligencia artificial</p>
+  </div>
+</header>
+<main id="contenido" class="ancho texto-largo">
+<section>
+  <header class="cabecera-seccion">
+    <h1>Cómo se calcula el populismo y la crispación</h1>
+    <p>Portadas IA lee los titulares de las portadas de cinco periódicos de cada país, los resume y les pone dos notas de 0 a 100. Aquí se explica cómo, y qué no hay que esperar de ellas.</p>
+  </header>
+
+  <h2>Qué hace la IA</h2>
+  <p>Dos veces al día un programa recoge los titulares de la portada de cada periódico y se los pasa a un modelo de lenguaje (ChatGPT, a través de LangChain). El modelo escribe un resumen de cada portada y valora su lenguaje. Lo hace sin saber de qué periódico es cada portada, para no puntuar por la fama del medio. Todo se escribe en español, también el análisis de la prensa extranjera; los titulares originales se muestran en su idioma.</p>
+
+  <h2>Qué mide el populismo</h2>
+  <p>Es una nota de 0 a 100 para cada portada. Sube con el lenguaje emocional o alarmista, el sensacionalismo, el «nosotros contra ellos», el pueblo frente a las élites, la simplificación y las descalificaciones. No mide si una noticia es verdadera ni si el periódico tiene razón, solo cómo está contada.</p>
+
+  <h2>Qué mide la crispación</h2>
+  <p>Es una nota de 0 a 100 para el conjunto de las portadas de un país: la tensión y el enfrentamiento político y social que reflejan. Hay un registro por día y país, y la nota del día es la media de sus lecturas. Crispito, la mascota, tiene seis estados según la nota: Zen, Tranquilo, Mosqueado, Molesto, Enfadado y «¡A punto de estallar!».</p>
+
+  <h2>Los cinco personajes</h2>
+  <p>Las opiniones del comunista, el anarquista, el liberal, el de extrema derecha y el demócrata de centro son personajes inventados. Una IA escribe sus textos para mostrar cómo podría ver cada corriente las noticias del día, solo con las noticias dadas. No son de ninguna persona real ni la opinión de esta web.</p>
+
+  <h2>Periódicos que se leen</h2>
+  <p>Se eligen entre los que permiten leer su portada de forma automática, buscando variedad ideológica.</p>
+  <ul>{por_pais}</ul>
+
+  <h2>Cuándo se actualiza</h2>
+  <p>{escape(horario)}</p>
+
+  <h2>Límites</h2>
+  <ul>
+    <li>Son estimaciones de una IA a partir de los titulares: pueden contener errores y no son una medición objetiva ni científica.</li>
+    <li>Un mismo texto puede recibir notas algo distintas en otra lectura.</li>
+    <li>Cinco periódicos por país no representan toda la prensa de ese país.</li>
+    <li>El proyecto es una práctica personal de programación con LangChain, sin vinculación con ningún medio, partido ni institución.</li>
+  </ul>
+  <p><a href="{inicio}">Volver a las portadas de hoy</a></p>
+</section>
+</main>
+{pie(raiz, horario)}
 </body>
 </html>
 """
@@ -657,6 +828,10 @@ def main() -> None:
         (carpeta / "index.html").write_text(pagina(codigo), encoding="utf-8")
         print(f"Página de {datos['nombre']}: {(carpeta / 'index.html').relative_to(RAIZ)}")
 
+    # La página que explica el método.
+    (SITIO / "metodologia").mkdir(exist_ok=True)
+    (SITIO / "metodologia" / "index.html").write_text(pagina_metodologia(), encoding="utf-8")
+
     # La lista de países, para el desplegable de la página de configuración.
     (SITIO / "paises.json").write_text(
         json.dumps([{"codigo": codigo, "nombre": datos["nombre"]} for codigo, datos in PAISES.items()],
@@ -678,7 +853,13 @@ def main() -> None:
 
     # 5. Archivos para los buscadores (solo cuando la web tenga dirección).
     if URL_BASE:
-        direcciones = "".join(f"<url><loc>{direccion_publica(codigo)}</loc></url>" for codigo in PAISES)
+        direcciones = ""
+        for codigo in PAISES:
+            ultimo = leer_json(codigo, "ultimo.json", None)
+            # lastmod = el día de la última lectura de ese país.
+            fecha = f"<lastmod>{ultimo['fecha']}</lastmod>" if ultimo else ""
+            direcciones += f"<url><loc>{direccion_publica(codigo)}</loc>{fecha}</url>"
+        direcciones += f"<url><loc>{URL_BASE}/metodologia/</loc><lastmod>{datetime.now().strftime('%Y-%m-%d')}</lastmod></url>"
         (SITIO / "sitemap.xml").write_text(
             '<?xml version="1.0" encoding="UTF-8"?>'
             f'<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{direcciones}</urlset>',
