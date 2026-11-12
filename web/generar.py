@@ -623,8 +623,7 @@ def pagina(codigo: str) -> str:
     crispación son una estimación de una IA a partir de los titulares: pueden
     contener errores y no son una medición objetiva. Pulsa en cada titular para
     leer la noticia completa en su periódico.</p>
-    <p>Las portadas se leen cada día a las {", ".join(f"{hora}:00" for hora in HORAS[:-1])} y {HORAS[-1]}:00 (hora de Madrid).
-    Código abierto en <a href="https://github.com/nonete/portadas-ia" rel="noopener">GitHub</a>.</p>
+    <p>Las portadas se leen cada día a las {", ".join(f"{hora}:00" for hora in HORAS[:-1])} y {HORAS[-1]}:00 (hora de Madrid).</p>
   </div>
 </footer>
 

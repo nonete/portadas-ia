@@ -245,7 +245,7 @@ async function estado(env) {
       resultado: ultima.conclusion,   // success, failure… (solo al terminar)
       inicio: ultima.created_at,
       origen: ultima.event,           // schedule (automática) o workflow_dispatch (a mano)
-      enlace: ultima.html_url,
+      // No se devuelve la dirección de GitHub: llevaría el nombre de la cuenta.
     },
   });
 }

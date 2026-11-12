@@ -291,8 +291,7 @@ async function verEstado() {
     } else {
       frase = "Última actualización: <b>terminada con errores</b>, el " + hora(ultima.inicio) + " (" + origen + ").";
     }
-    lineaEstado.innerHTML = frase + ' <a rel="noopener" target="_blank">Ver en GitHub</a>';
-    lineaEstado.querySelector("a").href = ultima.enlace;
+    lineaEstado.innerHTML = frase;
     botonActualizar.disabled = ultima.estado !== "completed";
   } catch (error) {
     lineaEstado.textContent = "No se ha podido consultar el estado. " + error.message;

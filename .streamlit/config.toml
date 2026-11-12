@@ -8,3 +8,7 @@ backgroundColor = "#f4f6fb"
 secondaryBackgroundColor = "#ffffff"
 textColor = "#1e293b"
 font = "sans serif"
+
+# Esconde el menú y los iconos de arriba a la derecha (entre ellos, el de GitHub).
+[client]
+toolbarMode = "minimal"
