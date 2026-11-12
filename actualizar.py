@@ -631,6 +631,20 @@ def guardar_json(archivo: Path, datos) -> None:
     )
 
 
+def archivar_dia(codigo: str, ultimo: dict) -> None:
+    """Guarda una copia del día en datos/<país>/dias/<fecha>.json.
+
+    La web estática crea con ella una página fija por día (por ejemplo
+    /francia/2026-11-12/). Se sobrescribe en cada lectura, así que al acabar el
+    día queda la última (la de las 18:00). Se omiten las opiniones de los
+    personajes para que los archivos pesen menos.
+    """
+    dia = {clave: valor for clave, valor in ultimo.items() if clave != "opiniones"}
+    archivo = CARPETA / codigo / "dias" / f"{ultimo['fecha']}.json"
+    archivo.parent.mkdir(parents=True, exist_ok=True)
+    archivo.write_text(json.dumps(dia, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
+
+
 def apuntar_en_historial(codigo: str, fecha: str, turno: int, general: dict) -> None:
     """Añade (o actualiza) el registro de hoy en el historial de un país.
 
@@ -673,8 +687,7 @@ def actualizar_pais(codigo: str, ahora: datetime, turno: int, forzar: bool) -> N
     print(f"{pais['nombre']}: analizando con {nombre_modelo}…")
     general, por_periodico, opiniones = analizar(portadas, nombre_modelo, pais["nombre"])
 
-    guardar_json(
-        archivo_ultimo(codigo),
+    resultado = (
         {
             "pais": pais["nombre"],
             "fecha": fecha,
@@ -692,8 +705,10 @@ def actualizar_pais(codigo: str, ahora: datetime, turno: int, forzar: bool) -> N
                 }
                 for nombre, datos in pais["periodicos"].items()
             ],
-        },
+        }
     )
+    guardar_json(archivo_ultimo(codigo), resultado)
+    archivar_dia(codigo, resultado)
     apuntar_en_historial(codigo, fecha, turno, general)
     print(f"{pais['nombre']}: guardado. Crispación: {general['crispacion']} / 100")
 
