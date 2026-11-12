@@ -214,6 +214,35 @@ def enlace_pais(destino: str, desde: str) -> str:
     return camino or "./"
 
 
+def enlace_a_pais(destino: str, raiz: str) -> str:
+    """Enlace a la página de un país desde una página que está a 'raiz' de la portada."""
+    carpeta = PAISES[destino]["carpeta"]
+    camino = raiz + (carpeta + "/" if carpeta else "")
+    if VISTA_PREVIA:
+        return camino + "index.html"
+    return camino or "./"
+
+
+def carpeta_dias(codigo: str) -> str:
+    """Carpeta de las páginas por día de un país: la del país, o 'espana' para la portada."""
+    return PAISES[codigo]["carpeta"] or "espana"
+
+
+def dias_archivados(codigo: str) -> list:
+    """Fechas (AAAA-MM-DD) de los días guardados en datos/<país>/dias/, de más antigua a más reciente."""
+    return sorted(archivo.stem for archivo in (DATOS / codigo / "dias").glob("*.json"))
+
+
+def direccion_dia(codigo: str, fecha: str) -> str:
+    """Dirección completa de la página de un día."""
+    return f"{URL_BASE}/{carpeta_dias(codigo)}/{fecha}/"
+
+
+def enlace_dia(codigo: str, fecha: str, raiz: str) -> str:
+    """Enlace a la página de un día, escrito desde una página a 'raiz' de la portada."""
+    return f"{raiz}{carpeta_dias(codigo)}/{fecha}/" + ("index.html" if VISTA_PREVIA else "")
+
+
 def direccion_publica(codigo: str) -> str:
     """Dirección completa de la página de un país (solo si hay URL_BASE)."""
     carpeta = PAISES[codigo]["carpeta"]
@@ -322,13 +351,13 @@ def pie(raiz: str, hora_texto: str) -> str:
 # LOS TROZOS DE LA PÁGINA
 # ----------------------------------------------------------------------
 
-def bloque_crispacion(codigo: str, ultimo: dict, historial: list) -> str:
+def bloque_crispacion(codigo: str, ultimo: dict, historial: list, archivo: bool = False) -> str:
     """La portada: titular, Crispito con la nota y los temas del día."""
     pais = PAISES[codigo]["nombre"]
     general = ultimo["general"]
     nota = a_numero(general["crispacion"])
     estado = min(5, nota * 6 // 100)         # 6 estados de Crispito, de 0 a 5
-    raiz = prefijo(codigo)
+    raiz = "../../" if archivo else prefijo(codigo)
 
     # Comparación con la media del día anterior, si lo hay.
     anteriores = [dia for dia in historial if dia["fecha"] < ultimo["fecha"]]
@@ -346,12 +375,20 @@ def bloque_crispacion(codigo: str, ultimo: dict, historial: list) -> str:
     nombres = [periodico["nombre"] for periodico in ultimo["periodicos"]]
     cabeceras = ", ".join(nombres[:-1]) + f" y {nombres[-1]}"
     momento = datetime.strptime(ultimo["generado"], "%d/%m/%Y %H:%M")
+    fecha_dia = datetime.strptime(ultimo["fecha"], "%Y-%m-%d")
+    if archivo:
+        h1 = f"Portadas de {pais} del {fecha_dia.day} de {MESES[fecha_dia.month - 1]} de {fecha_dia.year}"
+        proxima = ""                         # en una página de archivo no hay "próxima lectura"
+    else:
+        h1 = "El día en cinco portadas"
+        proxima = (f'''<div><dt>Próxima lectura</dt>
+        <dd id="proxima">A las {", ".join(f"{hora}:00" for hora in HORAS[:-1])} y {HORAS[-1]}:00</dd></div>''')
 
     return f"""
 <section class="portada" id="crispacion" aria-labelledby="titulo-portada">
   <div class="portada-texto">
     <p class="antetitulo">Edición {escape(pais)}</p>
-    <h1 id="titulo-portada">El día en cinco portadas</h1>
+    <h1 id="titulo-portada">{h1}</h1>
     <p class="entrada">Una IA lee las portadas de {escape(cabeceras)}, las resume,
     mide su populismo y su sesgo y toma el pulso a la crispación.</p>
 
@@ -361,8 +398,7 @@ def bloque_crispacion(codigo: str, ultimo: dict, historial: list) -> str:
     <dl class="ficha">
       <div><dt>Actualizado</dt>
         <dd><time datetime="{momento.isoformat()}">{escape(ultimo["generado"])}</time></dd></div>
-      <div><dt>Próxima lectura</dt>
-        <dd id="proxima">A las {", ".join(f"{hora}:00" for hora in HORAS[:-1])} y {HORAS[-1]}:00</dd></div>
+      {proxima}
       <div><dt>Modelo</dt><dd>{escape(ultimo["modelo"])}</dd></div>
     </dl>
   </div>
@@ -558,16 +594,20 @@ def grafico_historial(dias: list) -> str:
     )
 
 
-def bloque_historial(historial: list) -> str:
+def bloque_historial(historial: list, codigo: str = "", raiz: str = "") -> str:
     """Crispación día a día: gráfico y tabla."""
     if not historial:
         return ""
     filas = ""
+    archivados = set(dias_archivados(codigo)) if codigo else set()
     for dia in reversed(historial):                  # el más reciente arriba
         fecha = datetime.strptime(dia["fecha"], "%Y-%m-%d")
         nota = a_numero(dia["crispacion"])
+        texto_fecha = fecha.strftime("%d/%m/%Y")
+        if dia["fecha"] in archivados:               # si hay página de ese día, se enlaza
+            texto_fecha = f'<a href="{enlace_dia(codigo, dia["fecha"], raiz)}">{texto_fecha}</a>'
         filas += (
-            f'<tr><th scope="row"><time datetime="{dia["fecha"]}">{fecha.strftime("%d/%m/%Y")}</time></th>'
+            f'<tr><th scope="row"><time datetime="{dia["fecha"]}">{texto_fecha}</time></th>'
             f'<td class="celda-nota"><b>{nota}</b>{pastilla(nota)}</td>'
             f'<td>{escape(dia["comentario"])}</td></tr>'
         )
@@ -591,12 +631,37 @@ def bloque_historial(historial: list) -> str:
 # LA PÁGINA COMPLETA
 # ----------------------------------------------------------------------
 
-def pagina(codigo: str) -> str:
-    """Devuelve el HTML completo de la página de un país."""
+def navegacion_dias(codigo: str, dia: str, raiz: str) -> str:
+    """Enlaces al día anterior, al siguiente y a la portada de hoy."""
+    fechas = dias_archivados(codigo)
+    posicion = fechas.index(dia)
+    def etiqueta(fecha: str) -> str:
+        f = datetime.strptime(fecha, "%Y-%m-%d")
+        return f"{f.day} de {MESES[f.month - 1]}"
+    enlaces = ""
+    if posicion > 0:
+        enlaces += f'<a rel="prev" href="{enlace_dia(codigo, fechas[posicion - 1], raiz)}">← {etiqueta(fechas[posicion - 1])}</a>'
+    enlaces += f'<a href="{enlace_a_pais(codigo, raiz)}">Portadas de hoy en {escape(PAISES[codigo]["nombre"])}</a>'
+    if posicion < len(fechas) - 1:
+        enlaces += f'<a rel="next" href="{enlace_dia(codigo, fechas[posicion + 1], raiz)}">{etiqueta(fechas[posicion + 1])} →</a>'
+    return f'<nav class="dias-vecinos" aria-label="Otros días">{enlaces}</nav>'
+
+
+def pagina(codigo: str, dia: str = "") -> str:
+    """Devuelve el HTML completo de la página de un país.
+
+    Con 'dia' (AAAA-MM-DD) es la página fija de ese día, por ejemplo
+    /francia/2026-11-12/, hecha con la copia guardada en datos/<país>/dias/.
+    """
     pais = PAISES[codigo]["nombre"]
-    raiz = prefijo(codigo)
-    ultimo = leer_json(codigo, "ultimo.json", None)
     historial = leer_json(codigo, "historial.json", [])
+    if dia:
+        raiz = "../../"                       # carpeta del país + carpeta del día
+        ultimo = json.loads((DATOS / codigo / "dias" / f"{dia}.json").read_text(encoding="utf-8"))
+        historial = [registro for registro in historial if registro["fecha"] <= dia]
+    else:
+        raiz = prefijo(codigo)
+        ultimo = leer_json(codigo, "ultimo.json", None)
 
     # Menú de países: enlaces normales, cada país es una página distinta.
     menu_paises = ""
@@ -605,7 +670,7 @@ def pagina(codigo: str) -> str:
         # El nombre no se ve, pero lo leen los lectores de pantalla y sale al
         # dejar el ratón encima (title).
         menu_paises += (
-            f'<a href="{enlace_pais(otro, codigo)}"{actual} title="{escape(datos["nombre"])}" '
+            f'<a href="{enlace_a_pais(otro, raiz)}"{actual} title="{escape(datos["nombre"])}" '
             f'aria-label="{escape(datos["nombre"])}">'
             f'<svg viewBox="0 0 3 2" width="42" height="28" aria-hidden="true">{datos["bandera"]}</svg></a>'
         )
@@ -613,15 +678,26 @@ def pagina(codigo: str) -> str:
     if ultimo:
         fecha = datetime.strptime(ultimo["fecha"], "%Y-%m-%d")
         nota = a_numero(ultimo["general"]["crispacion"])
-        titulo = f"Portadas de hoy en {pais}: crispación {nota}/100 y populismo en la prensa | Portadas IA"
         descripcion = recortar(ultimo["general"]["temas"], 155)
-        cuerpo = (
-            bloque_crispacion(codigo, ultimo, historial)
-            + bloque_populismo(ultimo)
-            + bloque_periodicos(codigo, ultimo)
-            + bloque_opiniones(codigo, ultimo)
-            + bloque_historial(historial)
-        )
+        if dia:
+            titulo = (f"Portadas de {pais} del {fecha.day} de {MESES[fecha.month - 1]} de {fecha.year}: "
+                      f"crispación {nota}/100 | Portadas IA")
+            cuerpo = (
+                navegacion_dias(codigo, dia, raiz)
+                + bloque_crispacion(codigo, ultimo, historial, archivo=True)
+                + bloque_populismo(ultimo)
+                + bloque_periodicos(codigo, ultimo)
+                + bloque_historial(historial, codigo, raiz)
+            )
+        else:
+            titulo = f"Portadas de hoy en {pais}: crispación {nota}/100 y populismo en la prensa | Portadas IA"
+            cuerpo = (
+                bloque_crispacion(codigo, ultimo, historial)
+                + bloque_populismo(ultimo)
+                + bloque_periodicos(codigo, ultimo)
+                + bloque_opiniones(codigo, ultimo)
+                + bloque_historial(historial, codigo, raiz)
+            )
         modificado = datetime.strptime(ultimo["generado"], "%d/%m/%Y %H:%M").isoformat()
     else:
         fecha = datetime.now()
@@ -635,9 +711,10 @@ def pagina(codigo: str) -> str:
     # Lo que solo se puede poner cuando la web tiene dirección pública.
     extras = ""
     if URL_BASE:
-        url = direccion_publica(codigo)
-        # Imagen para redes: la del país con la nota del día, o la genérica.
-        if ultimo and imagen_social(codigo, ultimo):
+        url = direccion_dia(codigo, dia) if dia else direccion_publica(codigo)
+        # Imagen para redes: la del país con la nota del día, o la genérica
+        # (las páginas de días pasados usan la genérica para no llenar la web de imágenes).
+        if ultimo and not dia and imagen_social(codigo, ultimo):
             imagen = f"{URL_BASE}/img/og-{codigo}.png"
             medidas = ('\n<meta property="og:image:width" content="1200">'
                        '\n<meta property="og:image:height" content="630">')
@@ -654,7 +731,7 @@ def pagina(codigo: str) -> str:
         )
 
     # Datos estructurados: le explican a Google qué es esta página.
-    pagina_url = direccion_publica(codigo) if URL_BASE else ""
+    pagina_url = (direccion_dia(codigo, dia) if dia else direccion_publica(codigo)) if URL_BASE else ""
     esquema = json.dumps({
         "@context": "https://schema.org",
         "@graph": [
@@ -665,11 +742,17 @@ def pagina(codigo: str) -> str:
              "inLanguage": "es", "dateModified": modificado,
              "isPartOf": {"@id": f"{URL_BASE}/#sitio"},
              "about": f"Portadas de la prensa de {pais}"},
-        ],
+        ] + ([{"@type": "BreadcrumbList", "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Portadas IA", "item": f"{URL_BASE}/"},
+            {"@type": "ListItem", "position": 2, "name": f"Portadas de {pais}", "item": direccion_publica(codigo)},
+            {"@type": "ListItem", "position": 3, "name": fecha_larga(fecha).capitalize(), "item": pagina_url},
+        ]}] if dia and URL_BASE else []),
     }, ensure_ascii=False)
 
     secciones = [("crispacion", "Crispación"), ("populismo", "Populismo"),
                  ("periodicos", "Periódicos"), ("opiniones", "Opiniones"), ("historico", "Día a día")]
+    if dia:                                   # las páginas de día no llevan opiniones
+        secciones = [seccion for seccion in secciones if seccion[0] != "opiniones"]
     menu_secciones = "".join(f'<a href="#{ancla}">{texto}</a>' for ancla, texto in secciones)
 
     horario = f"Las portadas se leen cada día a las {', '.join(f'{hora}:00' for hora in HORAS[:-1])} y {HORAS[-1]}:00 (hora de Madrid)."
@@ -701,7 +784,7 @@ def pagina(codigo: str) -> str:
 <header class="mancheta">
   <div class="ancho">
     <p class="fecha"><time datetime="{fecha.strftime("%Y-%m-%d")}">{fecha_larga(fecha).capitalize()}</time></p>
-    <a class="marca" href="{enlace_pais("es", codigo)}">Portadas <i>IA</i></a>
+    <a class="marca" href="{enlace_a_pais("es", raiz)}">Portadas <i>IA</i></a>
     <p class="lema">La prensa del día, leída y medida por una inteligencia artificial</p>
     <nav class="paises" aria-label="Países">{menu_paises}</nav>
   </div>
@@ -828,6 +911,13 @@ def main() -> None:
         (carpeta / "index.html").write_text(pagina(codigo), encoding="utf-8")
         print(f"Página de {datos['nombre']}: {(carpeta / 'index.html').relative_to(RAIZ)}")
 
+    # Una página fija por cada día guardado: /<país>/<AAAA-MM-DD>/
+    for codigo, datos in PAISES.items():
+        for dia in dias_archivados(codigo):
+            carpeta = SITIO / carpeta_dias(codigo) / dia
+            carpeta.mkdir(parents=True, exist_ok=True)
+            (carpeta / "index.html").write_text(pagina(codigo, dia), encoding="utf-8")
+
     # La página que explica el método.
     (SITIO / "metodologia").mkdir(exist_ok=True)
     (SITIO / "metodologia" / "index.html").write_text(pagina_metodologia(), encoding="utf-8")
@@ -859,6 +949,9 @@ def main() -> None:
             # lastmod = el día de la última lectura de ese país.
             fecha = f"<lastmod>{ultimo['fecha']}</lastmod>" if ultimo else ""
             direcciones += f"<url><loc>{direccion_publica(codigo)}</loc>{fecha}</url>"
+        for codigo in PAISES:
+            for dia in dias_archivados(codigo):
+                direcciones += f"<url><loc>{direccion_dia(codigo, dia)}</loc><lastmod>{dia}</lastmod></url>"
         direcciones += f"<url><loc>{URL_BASE}/metodologia/</loc><lastmod>{datetime.now().strftime('%Y-%m-%d')}</lastmod></url>"
         (SITIO / "sitemap.xml").write_text(
             '<?xml version="1.0" encoding="UTF-8"?>'

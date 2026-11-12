@@ -245,3 +245,6 @@ tbody td:last-child { min-width: 240px; color: var(--tinta-2); }
 .texto-largo h2 { font-size: 1.4rem; margin: 30px 0 8px; }
 .texto-largo p, .texto-largo li { color: var(--tinta-2); }
 .texto-largo ul { padding-left: 20px; }
+
+/* ---------- Páginas por día: día anterior / siguiente ---------- */
+.dias-vecinos { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin: 24px 0 0; font-size: .9rem; font-weight: 600; }
