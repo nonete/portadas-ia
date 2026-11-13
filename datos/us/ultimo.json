@@ -1,39 +1,39 @@
 {
   "pais": "Estados Unidos",
-  "fecha": "2026-11-12",
-  "turno": 18,
-  "generado": "12/11/2026 23:04",
+  "fecha": "2026-11-13",
+  "turno": 8,
+  "generado": "13/11/2026 14:58",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "El derrumbe mortal de un edificio en Brooklyn aparece en tres periódicos, al igual que la guerra con Irán. También se repiten la dimisión del consejero delegado de Nvidia y la caída de sus acciones, así como la muerte del juez Richard Posner. Entre los temas exclusivos, The Washington Post destaca el llamamiento de tres exonerados para frenar las ejecuciones en Florida.",
-    "crispacion": 48,
-    "motivo_crispacion": "La guerra con Irán y la retirada de Vance de las negociaciones generan incertidumbre y reflejan tensiones dentro del Partido Republicano tras sus pérdidas electorales. También aparecen posibles choques entre el Gobierno y los tribunales, desacuerdos demócratas sobre Kennedy y demandas para frenar las ejecuciones en Florida. Las disputas locales y universitarias suman fricción, pero las noticias sobre salud, vivienda, cultura y deportes equilibran el conjunto, al igual que la cobertura informativa del derrumbe en Brooklyn."
+    "temas": "El derrumbe de un edificio en Brooklyn aparece en The New York Times, The Washington Post y The Wall Street Journal. También se repiten asuntos relacionados con la inteligencia artificial, las elecciones y la inmigración. Solo The Washington Post destaca el regreso de los alumnos a una escuela de Oregón tras un tiroteo en el que murieron tres niños y una profesora.",
+    "crispacion": 58,
+    "motivo_crispacion": "La tensión se refleja en las críticas a la gestión gubernamental de Nvidia y en la disputa entre demócratas por el liderazgo del Senado. También destacan el discurso de odio tras las elecciones, el malestar de algunos clientes por un acto de campaña republicano y los desacuerdos sobre inmigración. La guerra entre Estados Unidos e Irán y las deportaciones a ese país añaden tensión internacional. Noticias sobre salud, vivienda, cultura y deporte ofrecen un contrapunto menos conflictivo."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "La caída de las acciones de Nvidia tras la salida de su consejero delegado muestra hasta qué punto el destino de una tecnología decisiva depende de las expectativas del gran capital. Yo defiendo que la inteligencia artificial, creada gracias al trabajo colectivo, esté bajo propiedad y control públicos, orientada a las necesidades sociales y no a la rentabilidad de unos pocos.\n\nAl mismo tiempo, el desplome de un edificio en Brooklyn ha dejado al menos ocho muertos y numerosos heridos. No sabemos aún qué lo causó, pero sí que la vivienda segura no puede tratarse como un lujo. Con las ventas de casas hundidas y las hipotecas encarecidas, necesitamos vivienda pública y colectiva, inspecciones eficaces y servicios de emergencia bien financiados. La seguridad y el techo de la clase trabajadora deben pesar más que los intereses del mercado."
+      "texto": "Veo en las noticias de hoy una pregunta de clase: ¿quién decide qué se produce, para quién y a costa de quién? Mientras crecen las críticas por el trato favorable a Nvidia, vecinos y escuelas de Vernon se oponen a centros de datos por la contaminación de sus generadores diésel. La tecnología no es neutral cuando el gran capital controla sus beneficios y las comunidades soportan sus costes.\n\nEl derrumbe de Brooklyn ha dejado ocho muertos y al menos 18 heridos. Su causa sigue investigándose: no voy a atribuir responsabilidades sin pruebas. Pero sí defiendo inspecciones públicas fuertes y vivienda segura como derecho, no como mercancía. Frente al encarecimiento de las hipotecas y las dificultades de acceso a la vivienda, necesitamos propiedad colectiva, servicios públicos robustos y control democrático de la inversión. La clase trabajadora no debe limitarse a pagar las consecuencias de decisiones ajenas."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "El derrumbe de Brooklyn, con al menos ocho muertos y decenas de heridos, me recuerda que la vivienda no puede tratarse como una simple mercancía. No sabemos aún qué causó la tragedia; sí sé que necesitamos comunidades con poder real para decidir sobre sus edificios, exigir seguridad y organizar cuidados mutuos, sin esperar a que propietarios o autoridades escuchen desde arriba.\n\nTambién rechazo que el Estado conserve la facultad de matar: tres hombres exonerados piden detener las ejecuciones en Florida, y su experiencia muestra el riesgo irreparable de condenar a un inocente. Pero incluso una condena sin error no justifica entregar semejante poder a ninguna autoridad. Frente a la obediencia y el castigo, defiendo una sociedad que reparta las decisiones, proteja la libertad de cada persona y construya seguridad mediante la responsabilidad colectiva."
+      "texto": "El derrumbe en Brooklyn, con al menos ocho muertos y 18 heridos, exige esclarecer las causas, todavía bajo investigación. Pero también me recuerda que la seguridad de nuestras viviendas no debería depender de decisiones tomadas lejos de quienes las habitan. Defiendo que vecinos y trabajadores tengan poder real para vigilar, decidir y organizarse, no solo para esperar respuestas después de una tragedia.\n\nLa desaparición de personas detenidas de una base de datos de ICE y la petición de tres hombres exonerados para que se detengan las ejecuciones muestran, por caminos distintos, el peligro de entregar al Estado un poder tan grande sobre nuestras vidas. No me basta con cambiar a sus dirigentes ni con confiar en otro partido. Quiero comunidades capaces de apoyarse mutuamente y controlar sus propias decisiones: la libertad individual necesita vínculos solidarios, y la libertad colectiva exige que nadie mande sin rendir cuentas."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "Me preocupa que Los Ángeles responda a la necesidad de mejorar los bomberos subiendo el impuesto sobre las ventas al 10,75 %. La seguridad es una función legítima del Estado, pero eso no convierte cada subida fiscal en la mejor solución. Antes de pedir más dinero a las familias, exigiría revisar el gasto existente y medir si los recursos llegan a donde más se necesitan.\n\nTambién veo una lección en el fabricante de muebles que intentó devolver su producción a Estados Unidos sin conseguir que las cuentas cuadraran. La política comercial no puede decretar que una decisión empresarial sea rentable. Prefiero mercados abiertos, impuestos bajos y un Estado limitado: así, empresarios y trabajadores pueden tomar decisiones y asumir sus consecuencias, en vez de depender de promesas políticas."
+      "texto": "La polémica por el trato a Nvidia me recuerda que el libre mercado no consiste en proteger a empresas favoritas desde Washington. Yo defiendo la competencia y el comercio, pero también reglas claras y responsabilidades cuando hay riesgos de seguridad. Los controles deben justificarse, no utilizarse para repartir privilegios.\n\nEl intento fallido de un fabricante de muebles de devolver producción a Estados Unidos ilustra otro límite de la política: los empleos sostenibles no aparecen por decreto. Prefiero impuestos bajos, un Estado limitado y libertad para que empresarios y trabajadores decidan dónde invertir y cómo prosperar.\n\nY ante el derrumbe en Brooklyn, con sus muertos y heridos, exijo una investigación rigurosa: la responsabilidad personal y empresarial importa. Un Estado limitado no es un Estado ausente; proteger vidas y hacer cumplir la ley están entre sus deberes esenciales."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Hoy veo un país que necesita recuperar el control de sus prioridades. El Gobierno anuncia una cifra récord de deportaciones: para mí, aplicar las leyes migratorias no es crueldad, sino una condición de la soberanía. Pero la firmeza debe ir acompañada de procedimientos legales y rendición de cuentas; el poder del Ejecutivo tampoco puede quedar por encima de la Constitución.\n\nLa guerra con Irán merece el mismo rigor. Retirar al vicepresidente de las conversaciones y decir que no hace falta un acuerdo no sustituye una estrategia clara. La seguridad nacional exige prudencia, objetivos definidos y respeto por quienes sirven.\n\nMientras tanto, el derrumbe en Brooklyn y las dificultades para comprar vivienda recuerdan lo esencial: proteger vidas y permitir que las familias echen raíces. Desconfío de unas élites que convierten cada crisis en espectáculo mientras las obligaciones básicas del país siguen pendientes."
+      "texto": "Para mí, la soberanía empieza por controlar las fronteras y proteger la capacidad productiva del país. Que México haya reducido el flujo migratorio es positivo, pero no sustituye una política estadounidense estricta: corresponde a Washington decidir quién entra y hacer cumplir la ley. Tampoco basta con proclamar el regreso de la industria; el fracaso de un fabricante de muebles que intentó volver de Vietnam muestra que necesitamos condiciones económicas que permitan producir aquí de verdad.\n\nMe preocupa también la presión para suavizar los controles sobre los chips de inteligencia artificial. La seguridad nacional debe pesar más que los intereses de una gran empresa, por influyente que sea. Y ante el derrumbe de Brooklyn, con ocho muertos, exijo una investigación rigurosa: un gobierno digno de confianza protege a sus ciudadanos y rinde cuentas, en vez de refugiarse en discursos de las élites."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "El derrumbe de Brooklyn exige, ante todo, apoyo a las víctimas y una investigación rigurosa. No sabemos aún qué falló; sí sabemos que la seguridad de los edificios merece instituciones capaces de inspeccionar y hacer cumplir las normas.\n\nTambién me preocupa que el presidente retire a Vance de las conversaciones con Irán y diga que no hace falta un acuerdo. En una guerra, la diplomacia no es una concesión vergonzosa: es una vía para reducir el riesgo y buscar una salida sostenible, con supervisión del Congreso.\n\nEn casa, la caída de las ventas de viviendas recuerda que el crecimiento por sí solo no garantiza oportunidades. Yo apoyaría reformas graduales que faciliten construir más y protejan a quienes tienen dificultades para acceder a una vivienda. Necesitamos tanto mercados dinámicos como políticas públicas responsables, no elegir entre ambos."
+      "texto": "Hoy veo una tarea común detrás de noticias distintas: recuperar la confianza mediante instituciones capaces de actuar y de rendir cuentas. El derrumbe de Brooklyn exige una investigación rigurosa y apoyo a las familias; sería irresponsable anticipar culpables antes de conocer la causa.\n\nTambién creo que el Congreso debe vigilar el gasto federal y preservar su autoridad presupuestaria. Los límites al poder de la Casa Blanca merecen un debate serio, no una simple revancha partidista. Y ante las dudas sobre las ventas de chips de Nvidia, necesitamos controles claros que protejan la seguridad sin asfixiar la innovación.\n\nLa caída de las ventas de viviendas recuerda, además, que una economía dinámica debe ofrecer oportunidades reales para las familias. Prefiero reformas graduales y acuerdos duraderos a promesas grandilocuentes: el mercado crea prosperidad, pero las reglas y la protección social ayudan a compartirla."
     }
   ],
   "periodicos": [
@@ -42,71 +42,71 @@
       "web": "https://www.nytimes.com",
       "noticias": [
         {
-          "titulo": "Jensen Huang, Nvidia’s Ousted CEO, Was the Face of the A.I. Boom Powering the U.S. Economy",
-          "entradilla": "Nvidia’s ousted leader was a unique rhetorical and financial booster for investments that are driving economic growth.",
-          "enlace": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html"
+          "titulo": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
+          "entradilla": "Critics say Howard Lutnick, the commerce secretary, and his department have shielded Nvidia as concerns have grown over A.I. chip sales to firms like Megaspeed.",
+          "enlace": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html"
         },
         {
-          "titulo": "Nvidia Stock Tumbles After Jensen Huang Resigns as CEO",
-          "entradilla": "News that the chipmaker’s chief executive, Jensen Huang, resigned drove Nvidia’s stock down, though the broader market rose slightly.",
-          "enlace": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html"
+          "titulo": "Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job",
+          "entradilla": "The president called the Nvidia chief on Tuesday, continuing a pattern of supporting him even as the spy scandal was intensifying.",
+          "enlace": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html"
         },
         {
-          "titulo": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
-          "entradilla": "In a statement, Singapore said it held Alice Huang’s passport months after President Trump was briefed that she was a spy.",
-          "enlace": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html"
+          "titulo": "Huang’s Downfall Could Shake the Economy, and Detainees Have Disappeared From an ICE Database",
+          "entradilla": "Plus, the Friday news quiz.",
+          "enlace": "https://www.nytimes.com/2026/11/13/podcasts/the-headlines/huang-stocks-economy-ice.html"
         },
         {
-          "titulo": "What to Know About the Deadly Building Collapse in Brooklyn",
-          "entradilla": "At least eight people were killed and more than a dozen others injured when a three-story building in Flatbush collapsed on Wednesday, officials said.",
-          "enlace": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html"
+          "titulo": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
+          "entradilla": "Senator Chris Van Hollen of Maryland has emerged as a favorite of Democrats seeking an alternative to Senator Chuck Schumer, who says he has the votes to win.",
+          "enlace": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
         },
         {
-          "titulo": "A Frantic Search for Survivors in the Brooklyn Building Collapse",
-          "entradilla": "At one moment, an apartment building was standing. At another, it had tumbled into a hole. Ruin, and death, followed.",
-          "enlace": "https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-aftermath.html"
+          "titulo": "Democrats Eye Strict New Limits on White House Budget Powers",
+          "entradilla": "The incoming majority is also planning aggressive oversight of the White House budget director, who appears to be working to install an ally to monitor the budget office’s handling of federal spending.",
+          "enlace": "https://www.nytimes.com/2026/11/13/business/democrats-eye-strict-new-limits-on-white-house-budget-powers.html"
         },
         {
-          "titulo": "What We Know About the Victims of the Brooklyn Building Collapse",
-          "entradilla": "At least eight people were killed when a three-story building fell into a neighboring construction site Wednesday afternoon. The search for survivors continued into the next day.",
-          "enlace": "https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-victims.html"
+          "titulo": "How the Deadly Brooklyn Building Collapse Unfolded",
+          "entradilla": "The sudden collapse of a Brooklyn building turned a busy neighborhood into a disaster zone and left families devastated.",
+          "enlace": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-flatbush.html"
         },
         {
-          "titulo": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
-          "entradilla": "The announcement on social media deepened questions about what the president’s plan is to end the war. “We don’t need a deal with Iran,” he wrote.",
-          "enlace": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html"
+          "titulo": "Video From Inside Brooklyn Building That Collapsed Shows Walls Caving In",
+          "entradilla": "A video verified by The New York Times shows a family’s reaction as their Brooklyn apartment building collapsed. They survived a catastrophe that killed eight other people.",
+          "enlace": "https://www.nytimes.com/2026/11/13/nyregion/brooklyn-building-collapse-nyc-flatbush-video.html"
         },
         {
-          "titulo": "Kennedy’s Future: Will Democrats Try to Impeach Him, or Actually Work With Him?",
-          "entradilla": "Most Democrats abhor the health secretary’s stance on vaccines, but some see an opportunity to win voters from his MAHA movement by joining with him on food and environmental issues.",
-          "enlace": "https://www.nytimes.com/2026/11/12/us/politics/rfk-jr-democrats-impeach.html"
+          "titulo": "Brooklyn D.A. Opens Criminal Inquiry Into Flatbush Building Collapse",
+          "entradilla": "The collapse killed at least eight people and left 18 others injured. As rescue efforts continued, the cause remained under investigation.",
+          "enlace": "https://www.nytimes.com/2026/11/13/nyregion/brooklyn-flatbus-building-collapse-investigation.html"
         },
         {
-          "titulo": "Will the Supreme Court Thwart Congressional Investigations?",
-          "entradilla": "Lawmakers must dodge rulings on immunity, standing and “valid legislative purpose.”",
-          "enlace": "https://www.nytimes.com/2026/11/12/us/politics/the-docket-supreme-court-congressional-investigations.html"
+          "titulo": "Microsoft Races to Fix Outage Disrupting Outlook for a Second Day",
+          "entradilla": "The company said Friday that its services were improving amid a software outage that has left millions of users without email or other tools.",
+          "enlace": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html"
         },
         {
-          "titulo": "Pete Hegseth, a Soldier’s Scolding and a Lesson at the Tomb of Unknowns",
-          "entradilla": "Defense Secretary Pete Hegseth’s highly cultivated brand took a hit during an encounter with an Army sentinel at Arlington Cemetery.",
-          "enlace": "https://www.nytimes.com/2026/11/12/us/politics/pete-hegseth-warrior-image.html"
+          "titulo": "MEXICO CITY",
+          "entradilla": "Mexico has cooperated to significantly slow the flow of migrants. The new White House chief of staff insists it is not enough.",
+          "enlace": "https://www.nytimes.com/2026/11/13/world/americas/stephen-miller-mexico-immigration.html"
         },
         {
-          "titulo": "What the Retail Greeting ‘Welcome in’ Says About What Customers Really Want",
-          "entradilla": "The phrase has started showing up everywhere. It reveals a lot about our discomforts with both human and robotic interactions.",
-          "enlace": "https://www.nytimes.com/2026/11/12/magazine/welcome-in-retail.html"
+          "titulo": "‘I Had to Have Faith’: How a Democrat Defied Long Odds in Mississippi’s Senate Race",
+          "entradilla": "Few were paying much attention to Scott Colom for most of his campaign. Then he toppled the Republican incumbent.",
+          "enlace": "https://www.nytimes.com/2026/11/13/us/politics/scott-colom-mississippi-democrat-defied-odds.html"
         },
         {
-          "titulo": "Why 2026 Midterm Polls Underestimated Democratic Support",
-          "entradilla": "Democratic gains were expected, but surveys almost uniformly underestimated how well the left would do. Many pollsters seem to have made similar mistakes.",
-          "enlace": "https://www.nytimes.com/2026/11/12/us/politics/poll-error-democrats-midterms.html"
+          "titulo": "A Restaurant Hosted Ramaswamy After His Attack Ad. It’s Paying a Price.",
+          "entradilla": "When a popular restaurant agreed to serve as a campaign stop for G.O.P. candidates ahead of Election Day, longtime customers turned against it and Medina, Ohio, was left reeling.",
+          "enlace": "https://www.nytimes.com/2026/11/13/us/medina-ohio-boycott-restaurant-ramaswamy.html"
         }
       ],
       "analisis": {
-        "resumen": "- La salida de Jensen Huang de Nvidia provoca una caída de sus acciones; se destaca su papel en el auge de la IA.\n- Un derrumbe en Brooklyn deja al menos ocho muertos y continúa la búsqueda de supervivientes.\n- Singapur cuestiona la colaboración de EE. UU. en una investigación; Trump retira a Vance de las conversaciones sobre Irán.\n- La portada aborda el futuro de Kennedy, las investigaciones del Congreso y un incidente de Hegseth en Arlington.\n- También examina los errores de las encuestas electorales y una fórmula de saludo en comercios.",
-        "populismo": 20,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «búsqueda frenética» y «ruina y muerte» dramatizan el derrumbe, y algunas preguntas políticas emplean un encuadre confrontativo.",
-        "sesgo": "La selección presta atención a la administración Trump y plantea preguntas críticas sobre sus decisiones y figuras. Con estos titulares no se puede determinar una orientación partidista concluyente."
+        "resumen": "- Nvidia centra varias noticias: críticas a la postura de Lutnick, el apoyo de Trump a Huang y las posibles consecuencias económicas de su caída.\n- Los demócratas debaten el liderazgo del Senado y preparan límites y controles sobre los poderes presupuestarios de la Casa Blanca.\n- El derrumbe de un edificio en Brooklyn dejó al menos ocho muertos y 18 heridos; la fiscalía abrió una investigación penal.\n- Una interrupción de Microsoft afecta a millones de usuarios por segundo día.\n- También destacan la cooperación migratoria de México, una victoria demócrata en Misisipi y la reacción a un acto republicano en un restaurante de Ohio.",
+        "populismo": 25,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «zona de desastre», «familias devastadas» o «está pagando un precio» aportan dramatismo.",
+        "sesgo": "La selección presta especial atención crítica al Gobierno de Trump y a sus vínculos con Nvidia, junto con iniciativas demócratas para controlar a la Casa Blanca. Incluye también sucesos y noticias tecnológicas sin enfoque partidista."
       }
     },
     {
@@ -114,14 +114,24 @@
       "web": "https://www.washingtonpost.com",
       "noticias": [
         {
-          "titulo": "3 exonerated inmates urge Florida’s governor-elect to halt executions",
-          "entradilla": "Florida is poised to break its execution record for the second year in a row. Three men formerly on death row asked Byron Donalds to avoid the possibility of killing other innocent men when he takes office.",
-          "enlace": "https://www.washingtonpost.com/nation/2026/11/12/former-florida-death-row-inmates-appeal-governor-elect-halt-executions/"
+          "titulo": "Oregon school carefully welcomes students back after classroom shooting",
+          "entradilla": "A nonprofit from South Carolina guided the school district in Bend in best practices to deal with trauma after the deaths of three children and a teacher.",
+          "enlace": "https://www.washingtonpost.com/nation/2026/11/13/officials-repaired-school-after-fatal-shooting-healing-students-will-take-longer/"
+        },
+        {
+          "titulo": "Most top Fed officials blame AI for fueling inflation. Not Trump’s Fed chief.",
+          "entradilla": "A growing number of Federal Reserve officials say the AI boom may mean higher interest rates for longer. Fed Chair Kevin Warsh has been slower to agree, arguing that AI would help tame prices.",
+          "enlace": "https://www.washingtonpost.com/business/2026/11/13/more-top-fed-officials-say-ai-is-fueling-inflation-kevin-warsh-is-an-outlier/"
         },
         {
           "titulo": "Eight dead and at least 18 injured after Brooklyn building collapse",
           "entradilla": "A rescue operation continued Thursday as first responders sought anyone trapped beneath the rubble.",
           "enlace": "https://www.washingtonpost.com/nation/2026/11/12/brooklyn-building-collapse-kills-two-injures-17-new-york-city-officials-say/"
+        },
+        {
+          "titulo": "3 exonerated inmates urge Florida’s governor-elect to halt executions",
+          "entradilla": "Florida is poised to break its execution record for the second year in a row. Three men formerly on death row asked Byron Donalds to avoid the possibility of killing other innocent men when he takes office.",
+          "enlace": "https://www.washingtonpost.com/nation/2026/11/12/former-florida-death-row-inmates-appeal-governor-elect-halt-executions/"
         },
         {
           "titulo": "San Francisco approves first gay bathhouse since AIDS epidemic",
@@ -162,23 +172,13 @@
           "titulo": "Not all sports help the brain in the same way. This is what may be best for ADHD.",
           "entradilla": "Researchers found differences in the effects of running, martial arts and more.",
           "enlace": "https://www.washingtonpost.com/health/2026/11/12/why-brainier-sports-may-be-better-people-with-adhd/"
-        },
-        {
-          "titulo": "Richard Posner, influential and iconoclastic federal judge, dies at 87",
-          "entradilla": "He served nearly 36 years on the U.S. Court of Appeals for the 7th Circuit in Chicago and was ranked by many as second in influence only to members of the Supreme Court.",
-          "enlace": "https://www.washingtonpost.com/obituaries/2026/11/11/richard-posner-influential-iconoclastic-federal-judge-dies-87/"
-        },
-        {
-          "titulo": "Trump defends his war policies in speech at Arlington National Cemetery",
-          "entradilla": "President Donald Trump repeated his comparison of the Iran operation with the U.S. wars in Korea, Vietnam, Afghanistan and Iraq.",
-          "enlace": "https://www.washingtonpost.com/nation/2026/11/11/trump-defends-his-war-policies-speech-arlington-national-cemetery/"
         }
       ],
       "analisis": {
-        "resumen": "- Tres exonerados piden al gobernador electo de Florida que detenga las ejecuciones.\n- Un derrumbe en Brooklyn deja ocho muertos y al menos 18 heridos; continúa la búsqueda.\n- San Francisco aprueba su primera casa de baños gay desde la epidemia de sida.\n- La portada aborda la caída de las ventas de viviendas y las diferencias generacionales para comprarlas.\n- También trata recomendaciones sobre cáncer de próstata, discapacidad, fondos para opioides y las políticas bélicas de Trump.",
+        "resumen": "- Una escuela de Oregón prepara el regreso de sus alumnos tras un tiroteo; en Brooklyn, un edificio derrumbado deja ocho muertos y al menos 18 heridos.\n- La Reserva Federal discrepa sobre el efecto de la inteligencia artificial en la inflación; las ventas de viviendas atraviesan una fuerte caída.\n- Tres excondenados exonerados piden al gobernador electo de Florida que detenga las ejecuciones.\n- Se abordan nuevas recomendaciones sobre cáncer de próstata, deporte y TDAH, y ayudas para estudiantes universitarios con discapacidad.\n- También destacan la aprobación de unos baños gais en San Francisco, el uso de fondos contra los opioides para vivienda y la recaudación para un refugio gracias a un mapache.",
         "populismo": 12,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «la peor caída» o la posibilidad de ejecutar a inocentes aportan énfasis; no se aprecia un enfrentamiento entre el pueblo y las élites.",
-        "sesgo": "La selección presta atención a las consecuencias sociales de las políticas y a grupos afectados por barreras o desigualdades. Los titulares presentados no permiten identificar un sesgo partidista claro."
+        "motivo_populismo": "Los titulares son mayormente informativos, aunque expresiones como «la peor caída» y la referencia al jefe de la Fed de Trump añaden cierto dramatismo y contraste.",
+        "sesgo": "La selección presta atención a las consecuencias sociales de la violencia, la vivienda y las políticas públicas, con presencia de grupos vulnerables. No se aprecia una orientación partidista clara en el conjunto."
       }
     },
     {
@@ -186,19 +186,24 @@
       "web": "https://www.wsj.com",
       "noticias": [
         {
-          "titulo": "Cravath Employee Is Charged With Insider Trading Using Confidential Deal Information",
-          "entradilla": "Prosecutors said the employee netted $70,000 in profits related to client matters including Paramount’s acquisition of Warner Bros.",
-          "enlace": "https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9?mod=rss_usnews"
-        },
-        {
-          "titulo": "Eight People Dead and 18 Injured in Brooklyn Building Collapse",
-          "entradilla": "Two children and two construction workers were among those killed, New York City officials said.",
-          "enlace": "https://www.wsj.com/us-news/eight-people-killed-and-17-injured-in-brooklyn-building-collapse-811b5e8d?mod=rss_usnews"
-        },
-        {
           "titulo": "One Person Is Killed and Four Are Injured in D.C. Shooting",
           "entradilla": "Police said the suspect died from a self-inflicted gunshot wound in an apartment above the Logan Circle gym where gunfire erupted",
           "enlace": "https://www.wsj.com/us-news/multiple-people-shot-in-washington-d-c-08db1e98?mod=rss_usnews"
+        },
+        {
+          "titulo": "Eight People Dead and 18 Injured in Brooklyn Building Collapse",
+          "entradilla": "Among those killed were two children and two construction workers, New York City officials said.",
+          "enlace": "https://www.wsj.com/us-news/eight-people-killed-and-17-injured-in-brooklyn-building-collapse-811b5e8d?mod=rss_usnews"
+        },
+        {
+          "titulo": "Nvidia Starts Search for Next CEO",
+          "entradilla": "Plus, Trump said the U.S. doesn’t need a deal with Iran, and the U.S. Army officer arrested in the U.K. over allegations of spying for Russia was identified.",
+          "enlace": "https://www.wsj.com/business/nvidia-starts-search-for-next-ceo-4fe0a873?mod=rss_usnews"
+        },
+        {
+          "titulo": "Cravath Employee Is Charged With Insider Trading Using Confidential Deal Information",
+          "entradilla": "Prosecutors said the employee netted $70,000 in profits related to client matters including Paramount’s acquisition of Warner Bros.",
+          "enlace": "https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9?mod=rss_usnews"
         },
         {
           "titulo": "‘It’s Deplorable.’ The Five Weeks of Misery That Pushed N.J. Commuters to the Edge.",
@@ -209,11 +214,6 @@
           "titulo": "An American Furniture Maker Tried to Bring Jobs Back Home. It Didn’t Work.",
           "entradilla": "The Krinskys tried to stay ahead of changing U.S. trade policies by moving manufacturing back from Vietnam, but the numbers didn’t pencil out.",
           "enlace": "https://www.wsj.com/business/furniture-maker-us-tariffs-jobs-vietnam-345d77fe?mod=rss_usnews"
-        },
-        {
-          "titulo": "The $26 Million Cyber Heist Rocking a Small New Jersey Town",
-          "entradilla": "In historic Cranbury, residents are confronting local leaders over missing money that wasn’t disclosed until after the election.",
-          "enlace": "https://www.wsj.com/us-news/the-26-million-cyberheist-rocking-a-small-new-jersey-town-bbe2ae6d?mod=rss_usnews"
         },
         {
           "titulo": "The Parents Suing Schools Because Their Kids Got Bad Grades",
@@ -247,10 +247,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- Un empleado de Cravath es acusado de operar con información confidencial de clientes.\n- Un derrumbe en Brooklyn deja ocho muertos; un tiroteo en Washington causa otra muerte y cuatro heridos.\n- Los viajeros de Nueva Jersey afrontan semanas de interrupciones ferroviarias; en Cranbury investigan la desaparición de 26 millones de dólares.\n- Un fabricante de muebles no logra que resulte rentable devolver su producción a Estados Unidos.\n- Varias noticias abordan conflictos y tendencias universitarias; también se informa de la muerte del jurista Richard Posner.",
-        "populismo": 18,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «semanas de miseria» y el ciberrobo que «sacude» una localidad añaden dramatismo.",
-        "sesgo": "La selección da peso a sucesos, problemas locales y conflictos en instituciones educativas, con atención a sus consecuencias para las personas. No se aprecia una orientación política clara."
+        "resumen": "- Un tiroteo en Washington deja una persona muerta y cuatro heridas; un derrumbe en Brooklyn causa ocho muertes y 18 heridos.\n- Nvidia busca un nuevo director ejecutivo; un empleado de Cravath afronta cargos por uso de información privilegiada y un fabricante de muebles no logra trasladar con éxito su producción a EE. UU.\n- NJ Transit prevé retomar el servicio regular tras semanas de retrasos y obras en un puente.\n- Varias noticias universitarias abordan demandas por calificaciones, hábitos saludables, críticas a la dirección de Cornell y dificultades de matriculación y financiación deportiva.\n- Trump dice que EE. UU. no necesita un acuerdo con Irán; se identifica a un oficial del Ejército estadounidense detenido por presunto espionaje para Rusia y muere el jurista Richard Posner.",
+        "populismo": 15,
+        "motivo_populismo": "Predomina un lenguaje informativo, aunque el titular sobre los viajeros de Nueva Jersey emplea expresiones emotivas como «deplorable» y «semanas de miseria».",
+        "sesgo": "La selección destaca sucesos, empresas y conflictos educativos, con atención a problemas y dificultades. No se aprecia un sesgo político claro en los titulares proporcionados."
       }
     },
     {
@@ -258,9 +258,54 @@
       "web": "https://www.latimes.com",
       "noticias": [
         {
-          "titulo": "Troubled LAX people mover drops further into junk bond status as key deadline nears",
-          "entradilla": "Fitch Ratings significantly downgraded the LINXS Skylink people mover project at LAX as it continues to face setbacks while approaching a key deadline.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-12/junk-bond-ratings-on-troubled-lax-people-mover-drop-again-as-key-deadline-nears"
+          "titulo": "Fearmongering or fair warning? A fierce debate over how bad California's El Niño winter will get",
+          "entradilla": "Scientists are highly confident about the risk of coastal seawater flooding and beach erosion. But when it comes to predicting the power of winter storms, there is far less consensus.",
+          "enlace": "https://www.latimes.com/california/story/2026-11-13/fierce-debate-over-how-bad-californias-el-nino-winter-will-be"
+        },
+        {
+          "titulo": "Midterms highlight rise in hate speech",
+          "entradilla": "Unhinged speech surfaces on Facebook after midterm elections",
+          "enlace": "https://www.latimes.com/business/story/2026-11-13/unhinged-speech-surfaces-on-facebook-after-midterm-elections"
+        },
+        {
+          "titulo": "Even business-friendly Vernon is souring against data centers",
+          "entradilla": "Just south of downtown L.A., the anti-data center pushback has reached Vernon, amidst pressure from LAUSD and neighbors over diesel pollution.",
+          "enlace": "https://www.latimes.com/environment/story/2026-11-13/vernon-shift-against-data-centers-pollution"
+        },
+        {
+          "titulo": "Arellano: Mexican ambassador says 'it's business as usual' after the midterms and Miller's promotion",
+          "entradilla": "Ambassador Roberto Lazzeri Montaño was confident but clear-eyed, knowing he needs to keep el Norte happy — but not at the expense of his patria.",
+          "enlace": "https://www.latimes.com/california/story/2026-11-13/roberto-lazzeri-montano-mexican-ambassador-to-us"
+        },
+        {
+          "titulo": "Pope Leo XIV's return to Peru thrills those who recall 'Padre Robert'",
+          "entradilla": "Seeking to revitalize declining Catholic faith in Latin America, the pope is challenging the austerity and anti-immigrant policies of right-wing leaders.",
+          "enlace": "https://www.latimes.com/world-nation/story/2026-11-13/pope-leo-xivs-return-to-peru-thrills-those-who-recall-padre-robert"
+        },
+        {
+          "titulo": "The U.S. and Iran are at war. But ICE is still working with Tehran on deportations",
+          "entradilla": "Historically, the U.S. has rarely deported people to Iran, and has often welcomed Iranian dissidents, exiles and others who fled the country after the 1979 Islamic Revolution. But the Trump administration has reversed decades of that approach.",
+          "enlace": "https://www.latimes.com/california/story/2026-11-13/iran-trump-deportations-lawsuit"
+        },
+        {
+          "titulo": "Inside the $40-million renovation of an Art Deco gem in bustling Leimert Park",
+          "entradilla": "After five phases of renovations over 20 years, totaling $40 million, the Vision Theatre in Leimert Park will reopen with 'A Proud Family Wizmas.'",
+          "enlace": "https://www.latimes.com/entertainment-arts/story/2026-11-13/vision-theatre-leimert-park-reopening-a-proud-family-wizmas"
+        },
+        {
+          "titulo": "Surf legend's girlfriend said he was killed in a robbery. Authorities now suspect her in his murder",
+          "entradilla": "Kurt Van Dyke, a legendary Santa Cruz surfer, was found dead with stab wounds and signs of asphyxiation in February.",
+          "enlace": "https://www.latimes.com/california/story/2026-11-12/slain-surf-legends-girlfriend-arrested-in-his-murder"
+        },
+        {
+          "titulo": "Notorious Graffiti Towers wiped clean in downtown Los Angeles",
+          "entradilla": "City officials joined the buyers of Oceanwide Plaza on Thursday to celebrate the removal of spray-painted graffiti splashed as high as 54 stories that threatened to become an unwelcome icon for the city during the 2028 Olympics as the bankruptcy sale of the hotel, residential and retail complex drag",
+          "enlace": "https://www.latimes.com/business/story/2026-11-12/notorious-graffiti-towers-wiped-clean-in-downtown-los-angeles"
+        },
+        {
+          "titulo": "L.A.'s. new graffiti wars: A bold generation of taggers hitting high-profile targets",
+          "entradilla": "Graffiti has been a central part of Los Angeles for generations, an omnipresent part of the cityscape that has endured many attempts to stamp it out. But L.A.'s graffiti culture is in the midst of a very loud and brash change.",
+          "enlace": "https://www.latimes.com/california/story/2024-10-17/nothing-changed-about-graffiti-except-the-settings"
         },
         {
           "titulo": "Popular California beach closed amid E. coli outbreak",
@@ -268,61 +313,16 @@
           "enlace": "https://www.latimes.com/california/story/2026-11-12/santa-cruz-countys-capitola-beach-closed-as-9-children-get-e-coli"
         },
         {
-          "titulo": "Trump pulls Vance from Iran talks, saying 'we don't need a deal'",
-          "entradilla": "The reassignment came as Vance and other Republicans have blamed the Iran war for the party's sweeping losses in last week's midterm elections.",
-          "enlace": "https://www.latimes.com/politics/story/2026-11-12/trump-pulls-vance-from-iran-talks-saying-we-dont-need-deal"
-        },
-        {
-          "titulo": "Stephen Miller expected to push hard-line Trump agenda. Will courts stand in the way?",
-          "entradilla": "President Trump's chief of staff, Stephen Miller, says federal judges don't have authority to rule on issues such as immigration. Legal experts see pushback in court.",
-          "enlace": "https://www.latimes.com/world-nation/story/2026-11-12/white-house-chief-of-staff-stephen-miller-trump-judges"
-        },
-        {
-          "titulo": "Three dead in early-morning wrong-way crash in Riverside",
-          "entradilla": "A driver heading eastbound on the westbound 91 Freeway is at the center of a crash early Thursday morning in Riverside that claimed three lives and is under investigation by the California Highway Patrol.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-12/three-dead-in-early-morning-wrong-way-crash-in-riverside"
-        },
-        {
-          "titulo": "What's the deal with those massive, eerily lifelike sculptures of swimmers on Rodeo Drive?",
-          "entradilla": "The artist Carole Feuerman just unveiled \"Monuments of Stillness\" — 10 giant sculptures, all of them swimmers or divers — on Rodeo Drive in Beverly Hills.",
-          "enlace": "https://www.latimes.com/entertainment-arts/story/2026-11-12/carole-feuerman-monuments-of-stillness-rodeo-drive-beverly-hills"
-        },
-        {
-          "titulo": "Dan Hicks, NBC sportscasting legend and husband of ESPN anchor Hannah Storm, unexpectedly dies at 64",
-          "entradilla": "Dan Hicks, NBC Sports' voice of golf, the Olympics and Notre Dame football, died suddenly at 64, according to a social media post from ESPN anchor Hannah Storm, Hicks' wife of 32 years.",
-          "enlace": "https://www.latimes.com/sports/story/2026-11-12/dan-hicks-nbc-broadcaster-husband-hannah-storm-dead-at-64"
-        },
-        {
-          "titulo": "Nvidia shares tumble after Jensen Huang resigns as CEO",
-          "entradilla": "Jensen Huang's departure, tied to reports of an affair with a suspected Chinese spy, leaves the company without the leader who built it into the center of the AI boom.",
-          "enlace": "https://www.latimes.com/business/story/2026-11-12/nvidia-shares-tumble-after-jensen-huang-resigns-as-ceo"
-        },
-        {
-          "titulo": "Bass says her election defeat was part of a national wave, with voters demanding change",
-          "entradilla": "Bass said her defeat was part of a nationwide change election. \"This happens every five or six years, that voters get in a space where they just want everything new,\" she said.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-12/bass-says-her-election-defeat-was-part-of-national-wave-with-voters-demanding-change"
-        },
-        {
-          "titulo": "L.A. sales taxes will go up, but the time it takes firefighters to respond may go down",
-          "entradilla": "L.A. voters approved Measure FD in last week's election, which will raise sales taxes to 10.75% next year. The extra revenue will go to beef up the city's fire department.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-12/la-sales-taxes-will-go-up-will-firefighting-response-times-go-down"
-        },
-        {
-          "titulo": "Who will fill Raman's council seat? Community groups brace for a fight",
-          "entradilla": "With Nithya Raman becoming mayor next month, some in her district fear the City Council will skip a special election and appoint someone as her two-year replacement.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-12/who-will-fill-ramans-council-seat-community-groups-brace-for-fight"
-        },
-        {
-          "titulo": "Stephen Curry calls out Gilbert Arenas, others over comments about wife Ayesha. Here's the latest",
-          "entradilla": "Warriors star Stephen Curry called out several podcasters over comments about his wife Ayesha Curry's kissing scene with another actor. Here's how Gilbert Arenas, Nick Young and Emmanuel Acho responded.",
-          "enlace": "https://www.latimes.com/sports/story/2026-11-12/stephen-curry-defends-wife-ayesha-aftercomments-by-gilbert-arenas-others"
+          "titulo": "10 showstoppers to see beyond Endeavour at the new Samuel Oschin Air and Space Center",
+          "entradilla": "From the Endeavour in launch position and Mars rovers to a two-decker 747, the Samuel Oschin Air and Space Center is primed to blow your mind.",
+          "enlace": "https://www.latimes.com/entertainment-arts/story/2026-10-28/what-to-see-beyond-endeavour-at-samuel-oschin-air-and-space-center"
         }
       ],
       "analisis": {
-        "resumen": "- La conexión automatizada de LAX sufre una rebaja crediticia ante una fecha límite, y una playa de Capitola cierra tras un brote de E. coli que enfermó a nueve niños.\n- Trump aparta a Vance de las conversaciones sobre Irán; otro titular examina los posibles obstáculos judiciales a la agenda de Stephen Miller.\n- Tres personas mueren en un accidente de tráfico en Riverside.\n- En Los Ángeles, la portada aborda la derrota electoral de Bass, el aumento del impuesto sobre las ventas y la futura sustitución de Raman en el concejo.\n- Las acciones de Nvidia caen tras la dimisión de su director ejecutivo; también hay noticias de arte, deportes y el fallecimiento del comentarista Dan Hicks.",
-        "populismo": 18,
-        "motivo_populismo": "Predomina el lenguaje informativo, aunque expresiones como «desplome» de las acciones y la anticipación de una «lucha» por un escaño aportan dramatismo.",
-        "sesgo": "La selección da especial atención a asuntos locales de California y Los Ángeles, junto con un enfoque crítico sobre decisiones y conflictos de la administración Trump. Con estos titulares no se puede determinar una orientación partidista inequívoca."
+        "resumen": "- Debate sobre los riesgos de El Niño en California y aumento de los discursos de odio tras las elecciones legislativas.\n- Crece la oposición a centros de datos en Vernon por la contaminación; también se informa del cierre de una playa por un brote de E. coli.\n- El embajador mexicano aborda la relación con EE. UU., mientras Washington sigue colaborando con Irán en deportaciones pese a la guerra.\n- El papa León XIV regresa a Perú y cuestiona políticas de austeridad y contra la inmigración.\n- La portada recoge noticias locales sobre grafitis, un asesinato investigado, la renovación de un teatro y un nuevo centro aeroespacial.",
+        "populismo": 28,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «discurso desquiciado», «guerras del grafiti» y «torres infames» aportan dramatismo y sensacionalismo.",
+        "sesgo": "La selección privilegia asuntos locales de California y presta atención a la contaminación, la inmigración y sus consecuencias. Algunas noticias presentan de forma crítica las políticas migratorias y de austeridad."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://nypost.com",
       "noticias": [
         {
-          "titulo": "Massachusetts doctor’s chilling cause of death revealed after vanishing on bike ride",
-          "entradilla": "Dr. Daniel Arnett, 44, was last seen riding his bicycle around 10 a.m. Saturday in Newbury.",
-          "enlace": "https://nypost.com/2026/11/12/us-news/massachusetts-doctors-chilling-cause-of-death-revealed-after-vanishing-on-bike-ride/"
+          "titulo": "Ella Stiller On Tackling AI In ‘Cupertino’ And Why She Knew The Part Was For Her Instantly",
+          "entradilla": "Ella Stiller knew Cupertino was made for her far before she got the part.",
+          "enlace": "https://decider.com/2026/11/13/ella-stiller-on-tackling-ai-in-cupertino-and-why-she-knew-the-part-was-for-her-instantly/"
         },
         {
-          "titulo": "DHS says record number of illegal immigrants deported in past year",
-          "entradilla": "The Trump administration said Thursday that it had deported a record number of illegal immigrants in the past year — with nearly a half-million people living in the US without legal permission forced to return to their homelands.",
-          "enlace": "https://nypost.com/2026/11/12/us-news/dhs-says-record-number-of-illegal-immigrants-deported-in-past-year/"
+          "titulo": "The danger for St. John’s if the Big East keeps disappointing",
+          "entradilla": "The college basketball season is less than two weeks old, but the early signs are not positive for the Big East.",
+          "enlace": "https://nypost.com/2026/11/13/sports/will-st-johns-have-big-east-problem-on-ncaa-tournament-resume/"
         },
         {
-          "titulo": "How to watch ‘Southern Charm’ Season 12 premiere live for free: Time, cast",
-          "entradilla": "There will be no shortage of drama when the Charmers return for Season 12.",
-          "enlace": "https://pagesix.com/2026/11/12/entertainment/how-to-watch-southern-charm-season-12-premiere-live-for-free/"
+          "titulo": "Kanye West sued by performer who says he faced ‘abusive conditions’ working on rapper’s biblical opera",
+          "entradilla": "Chase Taylor, who worked with West in 2019, is suing the Grammy winner for “multiple unfair and deceptive trade practices.\"",
+          "enlace": "https://pagesix.com/2026/11/13/entertainment/kanye-west-sued-by-performer-over-abusive-conditions-working-on-rappers-biblical-opera/"
         },
         {
-          "titulo": "How to watch ‘Southern Charm’ Season 12 premiere live for free: Time, cast",
-          "entradilla": "There will be no shortage of drama when the Charmers return for Season 12.",
-          "enlace": "https://pagesix.com/2026/11/12/entertainment/how-to-watch-southern-charm-season-12-premiere-live-for-free/"
+          "titulo": "Kanye West sued by performer who says he faced ‘abusive conditions’ working on rapper’s biblical opera",
+          "entradilla": "Chase Taylor, who worked with West in 2019, is suing the Grammy winner for “multiple unfair and deceptive trade practices.\"",
+          "enlace": "https://pagesix.com/2026/11/13/entertainment/kanye-west-sued-by-performer-over-abusive-conditions-working-on-rappers-biblical-opera/"
         },
         {
-          "titulo": "Stream It Or Skip It: ‘Alicia’s Law’ On Netflix, A Mexican Remake Of ‘The Good Wife’",
-          "entradilla": "Fernanda Castillo stars in the remake of the 2009-16 CBS hit.",
-          "enlace": "https://decider.com/2026/11/12/alicias-law-netflix-review/"
+          "titulo": "Alabama Barker accuses ‘sheisty’ friends of stealing $130K worth of valuables — including $50K Birkin and $20K jeans",
+          "entradilla": "\"All of my valuables are gone,\" the 20-year-old influencer told her followers.",
+          "enlace": "https://pagesix.com/2026/11/13/celebrity-news/alabama-barker-accuses-sheisty-friends-of-stealing-130k-worth-of-valuables-including-50k-birkin/"
         },
         {
-          "titulo": "Feds bust 3 alleged Crip ‘Babiez’ gangsters in shocking NYC cold-case murder of 12-year-old",
-          "entradilla": "Three accused members of the “Insane Crip Gangsters Babiez” were busted Thursday for fatally shooting a 12-year-old boy eating dinner inside a car in Brooklyn in a 2022 case of mistaken identity that shocked the city. Kade Lewin’s mother burst into tears as her son’s alleged shooters Ousmane Diallo,",
-          "enlace": "https://nypost.com/2026/11/12/us-news/feds-bust-3-alleged-crip-babiez-gangsters-in-shocking-nyc-cold-case-murder-of-12-year-old/"
+          "titulo": "Alabama Barker accuses ‘sheisty’ friends of stealing $130K worth of valuables — including $50K Birkin and $20K jeans",
+          "entradilla": "\"All of my valuables are gone,\" the 20-year-old influencer told her followers.",
+          "enlace": "https://pagesix.com/2026/11/13/celebrity-news/alabama-barker-accuses-sheisty-friends-of-stealing-130k-worth-of-valuables-including-50k-birkin/"
         },
         {
-          "titulo": "Buster Posey gives frank assessment of Willy Adames’ future as Giants shortstop",
-          "entradilla": "If Adames is back in a Giants uniform in 2027, there will have to be a difficult conversation.",
-          "enlace": "https://nypost.com/2026/11/12/sports/buster-posey-willy-adames-future-giants/"
+          "titulo": "‘Nocturne’s Perfect Imagine Dragons Needle Drop Explained By Rory Culkin, Show’s EP",
+          "entradilla": "Welcome to the new age, Nocturne fans!",
+          "enlace": "https://decider.com/2026/11/13/nocturne-episode-4-radioactive-imagine-dragons-explained-rory-culkin/"
         },
         {
-          "titulo": "Inside Jen Affleck and ex Zac’s surprising post-divorce relationship — and the possibility of reconciliation revealed",
-          "entradilla": "Jen filed for divorce from Zac on Nov. 3 after seven years of marriage while pregnant with their fourth child.",
-          "enlace": "https://pagesix.com/2026/11/12/celebrity-news/jen-and-zac-affleck-are-still-communicating-daily-amidst-shocking-split/"
+          "titulo": "Minnesota lawmaker busted for drunk driving for the second time in three years",
+          "entradilla": "Minnesota Rep. Daniel Wolgamott faced drunk driving charges for the second time in three years after allegedly crashing into a parked car and trying to flee the scene on foot.",
+          "enlace": "https://nypost.com/2026/11/13/us-news/minnesota-lawmaker-busted-for-drunk-driving-for-the-second-time-in-three-years/"
         },
         {
-          "titulo": "Inside Jen Affleck and ex Zac’s surprising post-divorce relationship — and the possibility of reconciliation revealed",
-          "entradilla": "Jen filed for divorce from Zac on Nov. 3 after seven years of marriage while pregnant with their fourth child.",
-          "enlace": "https://pagesix.com/2026/11/12/celebrity-news/jen-and-zac-affleck-are-still-communicating-daily-amidst-shocking-split/"
+          "titulo": "Al Michaels choked up remembering Dan Hicks on ‘TNF’ following sudden death",
+          "entradilla": "Prime Video play-by-play broadcaster Al Michaels delivered an emotional tribute to former NBC colleague Dan Hicks.",
+          "enlace": "https://nypost.com/2026/11/13/sports/al-michaels-choked-up-remembering-dan-hicks-on-tnf/"
         },
         {
-          "titulo": "Gap’s viral denim bags are finally back in stock — and Oprah-approved",
-          "entradilla": "The buzzy design made the cut for Oprah's 2026 Favorite Things list.",
-          "enlace": "https://pagesix.com/2026/11/12/style/oprahs-favorite-things-list-2026-includes-gaps-viral-denim-bags/"
+          "titulo": "‘Kindergarten Cop’ child star Christian Cousins dies at just 43: ‘He was full of passion’",
+          "entradilla": "The \"Knots Landing\" alum, according to his brother's recent Instagram tribute, battled liver disease before his passing.",
+          "enlace": "https://pagesix.com/2026/11/13/celebrity-news/kindergarten-cop-child-star-christian-cousins-dies-at-43/"
         },
         {
-          "titulo": "Gap’s viral denim bags are finally back in stock — and Oprah-approved",
-          "entradilla": "The buzzy design made the cut for Oprah's 2026 Favorite Things list.",
-          "enlace": "https://pagesix.com/2026/11/12/style/oprahs-favorite-things-list-2026-includes-gaps-viral-denim-bags/"
+          "titulo": "‘Kindergarten Cop’ child star Christian Cousins dies at just 43: ‘He was full of passion’",
+          "entradilla": "The \"Knots Landing\" alum, according to his brother's recent Instagram tribute, battled liver disease before his passing.",
+          "enlace": "https://pagesix.com/2026/11/13/celebrity-news/kindergarten-cop-child-star-christian-cousins-dies-at-43/"
         },
         {
-          "titulo": "Devils announcer reveals scary postgame scene with Jets fans: ‘Is this Hellebuyck’s hotel?’",
-          "entradilla": "Winnipeg Jets fans apparently weren't done getting their pound of flesh after the end of Connor Hellebuyck's return to the Canada Life Centre on Tuesday.",
-          "enlace": "https://nypost.com/2026/11/12/sports/jets-fans-followed-devils-announcers-to-hotel-looking-for-connor-hellebuyck/"
+          "titulo": "New nonbinary lawmaker calls election win proof that ‘Woke 3.0 has commenced’",
+          "entradilla": "An incoming Georgia state representative proudly claimed that being the first “openly nonbinary or trans person elected to a state legislature in the Deep South” is proof that “Woke 3.0 has now commenced.” Nonbinary lawmaker-elect Bentley Hudgins, 33, also boasted about being “the first Japanese-Ame",
+          "enlace": "https://nypost.com/2026/11/13/us-news/new-nonbinary-lawmaker-calls-election-win-proof-that-woke-3-0-has-commenced/"
         }
       ],
       "analisis": {
-        "resumen": "- Se revela la causa de la muerte de un médico de Massachusetts desaparecido durante un paseo en bicicleta.\n- Seguridad Nacional afirma que se deportó una cifra récord de personas sin permiso legal en el último año.\n- Autoridades federales detienen a tres presuntos pandilleros por el asesinato de un niño en Brooklyn en 2022.\n- La portada incluye noticias sobre series de televisión, la relación de Jen y Zac Affleck y bolsos de Gap.\n- En deportes, aborda el futuro de Willy Adames en los Giants y un incidente con aficionados de los Jets.",
+        "resumen": "- Ella Stiller habla de su papel en «Cupertino» y del tratamiento de la inteligencia artificial; Rory Culkin comenta una escena de «Nocturne».\n- Un artista demanda a Kanye West por presuntas condiciones abusivas; Alabama Barker acusa a amigos de robarle objetos de valor.\n- La portada aborda el inicio de temporada de baloncesto universitario y el posible riesgo para St. John’s.\n- Un legislador de Minnesota afronta cargos por conducir ebrio; un representante electo de Georgia presenta su victoria como el inicio de «Woke 3.0».\n- Se destacan la muerte del actor Christian Cousins y el emotivo homenaje de Al Michaels a Dan Hicks.",
         "populismo": 30,
-        "motivo_populismo": "Expresiones como «chilling», «shocking» y «scary» intensifican el dramatismo, aunque no se aprecia una apelación al pueblo contra las élites.",
-        "sesgo": "La selección da peso a sucesos criminales, celebridades y entretenimiento, con varios titulares de tono sensacionalista. La noticia sobre deportaciones presenta la cifra desde la perspectiva del Departamento de Seguridad Nacional, sin otra voz en el texto facilitado."
+        "motivo_populismo": "Hay expresiones sensacionalistas o emocionales como «busted», «dies at just 43» y «choked up», pero apenas aparecen apelaciones al pueblo frente a las élites o un enfrentamiento explícito entre grupos.",
+        "sesgo": "La selección da mucho peso a celebridades, sucesos personales y deportes. La noticia sobre el representante electo no binario usa términos como «proudly claimed» y «boasted», que presentan su declaración con un enfoque valorativo."
       }
     }
   ]

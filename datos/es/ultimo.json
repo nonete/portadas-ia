@@ -1,39 +1,39 @@
 {
   "pais": "España",
-  "fecha": "2026-11-12",
-  "turno": 18,
-  "generado": "12/11/2026 23:04",
+  "fecha": "2026-11-13",
+  "turno": 8,
+  "generado": "13/11/2026 14:58",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "El inicio de la campaña electoral domina las portadas, con especial atención a los actos de Sánchez, Feijóo, Abascal y Colau, y a las encuestas. También se repiten la huelga general y el triunfo de España ante la República Checa. Solo OKdiario destaca una oleada de falsos avisos de bomba en varias comunidades.",
-    "crispacion": 78,
-    "motivo_crispacion": "La campaña concentra fuertes enfrentamientos entre el Gobierno y la oposición, con acusaciones de saqueo y corrupción, insultos y advertencias sobre el futuro político. La huelga general también genera controversia entre partidos y sindicatos, mientras las denuncias de cargas policiales añaden tensión social. Las investigaciones sobre asuntos vinculados al PSOE y al Ministerio de Igualdad contribuyen al clima de confrontación. Noticias deportivas, como la victoria de España, y otras informaciones de servicio ofrecen un contrapunto más tranquilo."
+    "temas": "Las portadas coinciden en el arranque de la campaña electoral, las propuestas de los partidos y las entrevistas de Jordi Wild a candidatos. También se repiten la caída global de Microsoft, la investigación sobre la compra del ático de Chamberí y los cambios en las cúpulas de Renfe y Adif. El País es el único que destaca los premios de Rosalía en los Latin Grammy.",
+    "crispacion": 68,
+    "motivo_crispacion": "La campaña concentra enfrentamientos entre partidos, acusaciones y propuestas controvertidas sobre inmigración, vivienda y gasto público. La denuncia del PSOE contra OKdiario y el PP, las informaciones sobre el entorno de Sánchez y la investigación sobre el ático adquirido por el Gobierno de Ayuso añaden tensión política e institucional. Algunos titulares emplean un lenguaje polarizador y destacan reproches a los candidatos. Noticias como la recuperación de los servicios de Microsoft, las pensiones y los premios musicales aportan un contrapunto más informativo."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Veo una campaña que convierte la vivienda y la huelga en armas electorales, cuando ambas hablan de algo más profundo: quién tiene poder y quién soporta sus consecuencias. La prórroga de alquileres y los límites a los fondos buitre son medidas necesarias, pero no bastan mientras un derecho básico dependa del beneficio privado. Defiendo un parque público amplio y vivienda de propiedad colectiva, fuera del alcance de la especulación.\n\nTambién rechazo la propuesta de excluir a las personas migrantes sin papeles de la sanidad pública y del alquiler. Dividir a la clase trabajadora no mejora la vida de nadie: debilita la defensa común de los derechos. Y ante las denuncias de cargas durante la huelga, exijo una investigación rigurosa y garantías para la protesta. Los servicios públicos y la organización de quienes trabajan deben pesar más que los intereses del gran capital."
+      "texto": "La caída global de Microsoft me recuerda que dejar infraestructuras esenciales en manos de un puñado de gigantes privados no es modernización: es dependencia. Si una empresa concentra herramientas de las que dependen administraciones y servicios públicos, su fallo deja al descubierto un poder que debería estar sometido a control democrático. Necesitamos alternativas públicas y propiedad colectiva de las tecnologías estratégicas.\n\nTambién veo la lucha de clases en la vivienda y las pensiones. Celebraría la revalorización de las prestaciones, pero defender el poder adquisitivo de quienes han trabajado toda una vida no debería depender del calendario electoral. Y los desahucios paralizados muestran que intervenir en el mercado puede proteger a las familias. Yo iría más lejos: ampliar el parque público y poner el derecho a vivir bajo techo por encima del beneficio de los grandes propietarios."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "Veo una campaña empeñada en convencernos de que nuestra capacidad política se reduce a elegir quién manda. Unos prometen mejor gestión; otros, un Gobierno contra la especulación. Yo desconfío de ambas soluciones si dejan intacta la dependencia de decisiones tomadas desde arriba. La vivienda necesita también organización de inquilinos, cooperativas y comunidades capaces de decidir sobre sus propias condiciones de vida.\n\nLa huelga recuerda que existe una fuerza colectiva fuera de las urnas. Ante las cargas policiales, cuya investigación anuncia Interior, no basta con pedir explicaciones: debemos cuestionar que el Estado conserve el poder de reprimir la protesta. Y frente a la propuesta de Vox de excluir a personas migrantes de derechos básicos, defiendo el apoyo mutuo sin fronteras. La libertad individual no prospera cuando la comunidad acepta que algunos sean abandonados."
+      "texto": "La caída de Microsoft me recuerda lo frágil que es entregar nuestras herramientas comunes a una sola empresa. Si administraciones y trabajadores dependen de su infraestructura, un fallo lejano interrumpe tareas esenciales. Prefiero tecnologías abiertas, gestionadas por quienes las usan, y redes distribuidas que no concentren tanto poder.\n\nTambién celebro que el decreto de vivienda haya servido para detener desahucios y prorrogar alquileres. Pero no quiero que el derecho a un hogar dependa de la voluntad cambiante de un Gobierno ni del resultado de unas elecciones. La organización de inquilinos, las cooperativas y el apoyo entre vecinos pueden defenderlo desde abajo. Para mí, la libertad no consiste en elegir cada pocos años quién manda: exige que podamos decidir juntos sobre nuestras vidas, sin subordinarnos ni al Estado ni a los propietarios de las infraestructuras que necesitamos."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "La campaña arranca entre promesas de gestión y llamadas a combatir la especulación. Yo pediría menos eslóganes y más libertad para construir, alquilar y emprender. La prórroga de alquileres puede aliviar a algunos inquilinos a corto plazo, pero también desalentar a propietarios y reducir la oferta futura. La vivienda no se abarata por decreto: hacen falta seguridad jurídica y menos trabas para crear hogares.\n\nTambién quiero impuestos más bajos y un Estado limitado, capaz de cumplir bien sus funciones esenciales sin decidir por nosotros. La auditoría que promete el PP solo tendrá valor si examina el uso del dinero público con rigor y transparencia, no si se queda en arma electoral. Y la responsabilidad personal importa: una sociedad libre protege las reglas comunes, pero deja espacio para que cada ciudadano tome sus decisiones y asuma sus consecuencias."
+      "texto": "Me preocupa que la campaña convierta las cuentas públicas en una sucesión de promesas sin explicar quién las pagará. Revalorizar las pensiones puede proteger el poder adquisitivo de quienes ya han trabajado, pero exige un debate honesto sobre su financiación y la carga que soportarán los jóvenes. Quiero impuestos más bajos, acompañados de un Estado que gaste menos y rinda cuentas, no rebajas sin respaldo presupuestario.\n\nTampoco comparto la propuesta de gravar las remesas: quien gana su dinero debe poder enviarlo a su familia sin una penalización por su origen. Y, aunque entiendo la angustia de quienes afrontan un desahucio, prorrogar alquileres por decreto puede desalentar a los propietarios y reducir la oferta. Prefiero reglas estables que protejan los contratos, faciliten construir y permitan a cada persona prosperar con su esfuerzo."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Yo no quiero otra campaña reducida a mítines, encuestas y espectáculos mediáticos. La UCO señala un descuadre en las cuentas del PSOE y una reunión que merece explicaciones. Una investigación no es una condena, pero la transparencia no puede depender de la conveniencia electoral. Tampoco me basta la promesa del PP de una auditoría: quiero responsabilidades allí donde se acrediten irregularidades.\n\nLa soberanía significa decidir quién entra y en qué condiciones permanece en España. Defiendo un control estricto de la inmigración y que las ayudas prioricen a los españoles con menos recursos, como propone Vox. No por desprecio a nadie, sino porque un Estado debe poder sostener sus obligaciones. Frente a quienes quieren fragmentar nuestra identidad, reivindico también la nación común, sus tradiciones y la selección española como símbolos de continuidad y pertenencia."
+      "texto": "Yo quiero una España que controle sus fronteras y decida a quién admite, sin delegar esa responsabilidad en las urgencias del momento ni en discursos que confunden soberanía con insolidaridad. La propuesta de retirar el ingreso mínimo a inmigrantes que no trabajen abre un debate necesario: las ayudas deben proteger a quienes han contribuido y a quienes realmente las necesitan, sin convertirlas en un incentivo para una inmigración que el Estado no puede ordenar.\n\nLa revalorización de las pensiones merece apoyo, pero aprobar su trámite de urgencia al comenzar la campaña obliga a exigir cuentas: nuestros mayores no deben ser moneda electoral. Y la caída de Microsoft recuerda otra dependencia que las élites prefieren ignorar: una nación soberana también necesita alternativas tecnológicas propias. Menos espectáculo en entrevistas y más respuestas sobre seguridad, fronteras y futuro nacional."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Me preocupa que la campaña arranque entre acusaciones rotundas y verdades a medias. Las investigaciones sobre contratos y cuentas públicas merecen toda la transparencia y la colaboración de las instituciones, sin convertir una sospecha en condena ni usar la presunción de inocencia como excusa para eludir explicaciones. Exigir responsabilidades y respetar las garantías son obligaciones compatibles.\n\nTambién echo de menos un debate más útil sobre la vivienda. Entiendo la urgencia de proteger a quienes alquilan, pero no basta con denunciar la especulación: hacen falta acuerdos duraderos que amplíen la oferta, movilicen inversión y protejan a los hogares vulnerables. La prórroga de alquileres puede dar un respiro; no sustituye una reforma de fondo. Prefiero partidos capaces de negociar medidas evaluables a quienes prometen que todo cambiará con una victoria."
+      "texto": "Yo quiero una campaña que enfrente problemas reales sin convertir cada propuesta en una prueba de identidad. Revalorizar las pensiones con el IPC protege el poder adquisitivo, pero exige explicar cómo se financiará de forma sostenible. Del mismo modo, prometer rebajas fiscales mientras se cuestionan las cuentas públicas obliga a presentar números claros, no solo intenciones.\n\nTampoco comparto la propuesta de retirar el ingreso mínimo a inmigrantes que no trabajan: una red de protección debe atender la necesidad y facilitar la incorporación al empleo, no castigar indiscriminadamente a quienes atraviesan dificultades. En vivienda, proteger frente al desahucio es importante, pero también hay que ampliar la oferta y dar seguridad a quienes alquilan.\n\nY ante los indicios sobre la compra del ático de Chamberí, defiendo que el Tribunal de Cuentas investigue sin presiones. La rendición de cuentas fortalece las instituciones, gobierne quien gobierne."
     }
   ],
   "periodicos": [
@@ -42,71 +42,71 @@
       "web": "https://elpais.com",
       "noticias": [
         {
-          "titulo": "Begoña Gómez se estrena en un mitin del PSOE para captar el voto de las mujeres",
-          "entradilla": "La esposa del presidente se convierte en el último activo electoral de los socialistas en el arranque de la campaña. “Sus insultos son nuestras medallas”, reivindica Sánchez frente a los ataques de la derecha",
-          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-12/begona-gomez-se-estrena-en-un-mitin-del-psoe-para-captar-el-voto-de-las-mujeres.html"
+          "titulo": "Los servicios de Microsoft empiezan a funcionar con normalidad tras una caída global de más de 18 horas",
+          "entradilla": "La compañía descarta que haya un ciberataque detrás de los fallos que han tumbado el correo electrónico Outlook, la plataforma Teams o la IA de Copilot y que han afectado a la administración de Australia y Japón. No se han notificado incidencias reseñables en España",
+          "enlace": "https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-servicios-tras-una-caida-global-de-mas-de-12-horas.html"
         },
         {
-          "titulo": "Feijóo se presenta como “gestor” para “resolver los problemas” frente al “saqueo” de Sánchez",
-          "entradilla": "El candidato del PP abre su campaña en Badalona acompañado de Albiol con ataques al Gobierno y a la huelga del 11-N",
-          "enlace": "https://elpais.com/espana/2026-11-12/feijoo-se-presenta-como-gestor-para-resolver-los-problemas-frente-al-saqueo-de-sanchez.html"
+          "titulo": "Claves | Qué ha ocurrido con Microsoft y por qué lleva tantas horas fuera de juego",
+          "entradilla": "La compañía no logra dar con una solución estable tras la caída de sus servicios en la tarde del jueves, que afecta a cientos de millones de usuarios, y descarta el ciberataque",
+          "enlace": "https://elpais.com/tecnologia/2026-11-13/claves-que-ha-ocurrido-con-microsoft-y-por-que-lleva-tantas-horas-fuera-de-juego.html"
         },
         {
-          "titulo": "Abascal culmina la precampaña con 22 provincias visitadas y 25 actos en dos semanas",
-          "entradilla": "El líder de Vox carga contra Sánchez por la intervención de Begoña Gómez en el mitin del PSOE: “No tienen ninguna vergüenza”",
-          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-12/abascal-culmina-la-precampana-con-22-provincias-visitadas-y-25-actos-en-dos-semanas.html"
+          "titulo": "La campaña arranca con la derecha en el horizonte de los 190 escaños",
+          "entradilla": "El primero de los ‘trackings’ diarios de 40dB. para EL PAÍS y la SER confirma la fortaleza de Vox, cuyo líder compite en popularidad con el del PP",
+          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-13/la-campana-arranca-con-la-derecha-en-el-horizonte-de-los-190-escanos.html"
         },
         {
-          "titulo": "Una campaña donde todos los políticos comparten una técnica: Decir la verdad, pero no del todo",
-          "entradilla": "El formato, ‘Verdades a medias’, analiza en el primer episodio las afirmacióndes de los candidatos sobre vivienda, migración o violencia de género durante la precampaña que han sido exageraciones o delcaraciones que no se han ajsutado completamente a la realidad",
-          "enlace": "https://elpais.com/videos/2026-11-12/una-campana-donde-todos-los-politicos-comparten-una-tecnica-decir-la-verdad-pero-no-del-todo.html"
+          "titulo": "El Gobierno aprueba el trámite de urgencia para la revalorización de las pensiones",
+          "entradilla": "El Ejecutivo da este paso para actualizar las prestaciones con el IPC en el primer día de campaña electoral. El día 27 se conocerá la cuantía, que apunta al 3,6%",
+          "enlace": "https://elpais.com/economia/2026-11-13/el-gobierno-aprueba-el-tramite-de-urgencia-para-la-revalorizacion-de-las-pensiones.html"
         },
         {
-          "titulo": "Colau se conjura para “desmentir” las encuestas y se compromete a conformar un Gobierno “contra la especulación”",
-          "entradilla": "Frente Amplio elige el distrito obrero de Puente de Vallecas, bastión histórico de la izquierda, para abrir la campaña al 29-N",
-          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-12/colau-se-conjura-para-desmentir-las-encuestas-y-se-compromete-a-conformar-un-gobierno-contra-la-especulacion.html"
+          "titulo": "Campaña elecciones 29-N y actualidad política, en directo | El PSOE presenta una denuncia contra ‘Okdiario’ y el PP por los pagos de la defensa de Koldo García",
+          "entradilla": "El Gobierno aprueba el trámite de urgencia para la revalorización de las pensiones | Sánchez afirma que detrás de los insultos hay una “carencia” de “argumentos y proyecto político”",
+          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-13/campana-elecciones-29n-y-actualidad-politica-en-directo.html"
         },
         {
-          "titulo": "Podemos termina su precampaña con cargas contra el PSOE y el Frente Amplio: “Tienen como proyecto que las cosas sigan como están”",
-          "entradilla": "Ione Belarra denuncia que el Gobierno “mandó a la policía a pegar palos” en la huelga general",
-          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-12/podemos-termina-su-precampana-con-cargas-contra-el-psoe-y-el-frente-amplio-tienen-como-proyecto-que-las-cosas-sigan-como-estan.html"
+          "titulo": "Las seis horas de Jordi Wild con Sánchez, Feijóo, Colau (y el Fary) en su casa: “Esto es una vez en la vida”",
+          "entradilla": "La líder del Frente Amplio se lleva la conversación más larga, el presidente del PP habla otra vez de su foto con el narco y su mal inglés y Sánchez: “Pongo la mano en el fuego por José Luis [Rodríguez Zapatero]”.",
+          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-13/las-seis-horas-de-jordi-wild-con-sanchez-feijoo-colau-y-el-fary-en-su-casa-esto-es-una-vez-en-la-vida.html"
         },
         {
-          "titulo": "El mapa electoral: ¿Qué dicen las encuestas en cada provincia?",
-          "entradilla": "Simulamos las elecciones 20.000 veces con el clásico modelo de EL PAÍS: hay 150 escaños casi decididos y otros 150 probables, pero medio centenar sigue en el aire. Consúltalos uno a uno",
-          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-12/el-mapa-electoral-los-escanos-en-juego-en-cada-provincia-segun-las-encuestas.html"
+          "titulo": "Feijóo pone en duda que pueda bajar los impuestos por el estado de las cuentas públicas: “No me creo los datos”",
+          "entradilla": "El líder del PP anuncia su intención de suprimir el Ingreso Mínimo Vital a medio millón de inmigrantes que residen en España si no trabajan",
+          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-13/feijoo-pone-en-duda-que-pueda-bajar-los-impuestos-por-el-estado-de-las-cuentas-publicas-no-me-creo-los-datos.html"
         },
         {
-          "titulo": "El ‘error Wild’ de Vox: Abascal tropieza ante el grupo de votantes que más lo apoya",
-          "entradilla": "El ‘youtuber’ tiene una masiva audiencia de varones veinteañeros, un sector donde Vox disfruta de su mayor intención de voto. Dos consultores políticos ven un “error” de Abascal, mientras otro cree que asume “riesgos”, pero que puede salir airoso",
-          "enlace": "https://elpais.com/espana/2026-11-12/el-error-wild-de-vox-abascal-tropieza-ante-el-grupo-de-votantes-que-mas-lo-apoya.html"
+          "titulo": "¿Cómo es Jordi Wild? Esto es lo que dice un análisis de 9.000 vídeos de su canal",
+          "entradilla": "El pódcast que han visitado tres candidatos a la presidencia del Gobierno, excepto Abascal, es cosa de hombres. Las mujeres apenas protagonizan el 7% de sus entrevistas",
+          "enlace": "https://elpais.com/tecnologia/2026-11-13/como-es-jordi-wild-esto-es-lo-que-dice-un-analisis-de-9000-videos-de-su-canal.html"
         },
         {
-          "titulo": "Lula viaja a Madrid para hacer campaña con Sánchez tras su remontada en Brasil",
-          "entradilla": "Claudia Sheinbaum, presidenta de México, mantendrá una conversación telefónica con el candidato socialista esta tarde",
-          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-12/lula-viaja-a-madrid-para-hacer-campana-con-sanchez.html"
+          "titulo": "Rosalía, reina de los Latin Grammy: gana el premio a disco del año por ‘Lux’ y a canción del año por ‘La Perla’",
+          "entradilla": "La cantante catalana inauguró la gala y se llevó cinco de los siete galardones a los que optaba. El argentino Milo J. logró cuatro, entre ellos, el de mejor grabación del año por ‘Niño’. Karol G recogió el de mejor álbum de música urbana por ‘Tropicoqueta’",
+          "enlace": "https://elpais.com/us/entretenimiento/2026-11-13/rosalia-reina-de-los-latin-grammy-gana-el-premio-a-disco-del-ano-por-lux-y-a-cancion-del-ano-por-la-perla.html"
         },
         {
-          "titulo": "Las Nuevas Generaciones del PP promocionan a Feijóo con el mote de su lapsus ‘Anotop At’",
-          "entradilla": "El nombre se viraliza en redes tras su entrevista en Jordi Wild y la negativa de Abascal a acudir. El perfil de TikTok del PP cambia su foto de perfil por una del líder emulando a Kobe Bryant tras ganar la NBA",
-          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-12/las-nuevas-generaciones-del-pp-promocionan-a-feijoo-con-el-mote-de-sus-lapsus-anatot-at.html"
+          "titulo": "Todos los ‘looks’ de la alfombra roja de los Latin Grammy 2026",
+          "entradilla": "Los 27º premios de la Academia Latina de la Grabación se celebran en el MGM Grand Garden Arena de Las Vegas. Repasamos los estilismos de la noche, de una Rosalía angelical vestida de Matières Fécales al vestido con estampado de serpiente de Bad Gyal creado por Salih Balta",
+          "enlace": "https://elpais.com/smoda/moda/2026-11-12/todos-los-looks-de-la-alfombra-roja-de-los-latin-grammy.html"
         },
         {
-          "titulo": "Jensen Huang renuncia como consejero delegado de Nvidia forzado por el escándalo sobre sus infidelidades y el caso de espionaje",
-          "entradilla": "La relación extramarital con una presunta espía china, con una subordinada directa de su empresa y potencialmente con otra compañera precipitó su salida",
-          "enlace": "https://elpais.com/us/2026-11-12/jensen-huang-dimite-como-consejero-delegado-de-nvidia-tras-destaparse-el-escandalo-sobre-sus-infidelidades-y-el-caso-de-espionaje.html"
+          "titulo": "La familia de Alicante que paró un desahucio con el decreto de vivienda y el abuelo que prorrogó su alquiler",
+          "entradilla": "Los primeros casos de aplicación las medidas desde su publicación en el BOE logran parar desahucios y prorrogar alquileres",
+          "enlace": "https://elpais.com/videos/2026-11-13/la-familia-de-alicante-que-paro-un-desahucio-con-el-decreto-de-vivienda-y-el-abuelo-que-prorrogo-su-alquiler.html"
         },
         {
-          "titulo": "Jensen Huang mantuvo una tercera relación extramarital con otra empleada de Nvidia",
-          "entradilla": "El fundador de Nvidia ha renunciado este jueves como consejero delegado por la presiones recibidas tras desvelarse el escándalo de sus infidelidades, entre ellas con una supuesta espía china",
-          "enlace": "https://elpais.com/us/2026-11-12/jensen-huang-mantuvo-una-tercera-relacion-extramarital-con-una-empleada-de-nvidia.html"
+          "titulo": "Aznar percibe una retribución récord del grupo de medios de Murdoch y supera ya los cinco millones de dólares",
+          "entradilla": "El expresidente del Gobierno acumula más de dos décadas en la multinacional estadounidense tras ser reelegido una vez más este año como consejero pese a las recomendaciones en contra de los asesores de voto y el rechazo de uno de cada cinco accionistas",
+          "enlace": "https://elpais.com/economia/2026-11-13/aznar-percibe-una-retribucion-record-del-grupo-de-medios-de-murdoch-y-supera-ya-los-cinco-millones-de-dolares.html"
         }
       ],
       "analisis": {
-        "resumen": "- La campaña electoral arranca con Begoña Gómez en un mitin del PSOE y Feijóo presentándose como gestor frente a Sánchez.\n- Vox, Frente Amplio y Podemos intensifican sus actos y críticas durante la campaña.\n- Un análisis examina afirmaciones de los candidatos y una simulación electoral estima los escaños en disputa.\n- Lula viajará a Madrid para hacer campaña con Sánchez; otras noticias abordan las estrategias de Vox y del PP en redes.\n- Jensen Huang renuncia como consejero delegado de Nvidia tras informaciones sobre relaciones extramatrimoniales y un presunto caso de espionaje.",
-        "populismo": 30,
-        "motivo_populismo": "Aparecen expresiones confrontativas como «saqueo», «no tienen ninguna vergüenza» y «pegar palos», aunque se atribuyen a los políticos y conviven con titulares informativos y de análisis.",
-        "sesgo": "La portada prioriza la campaña electoral, los enfrentamientos entre partidos y sus estrategias, con presencia de varias fuerzas políticas. También destaca la comprobación de afirmaciones y el análisis de encuestas; no se aprecia una orientación ideológica concluyente solo a partir de esta selección."
+        "resumen": "- Los servicios de Microsoft empiezan a recuperarse tras una caída global de más de 18 horas.\n- La campaña electoral arranca con una encuesta que sitúa a la derecha cerca de los 190 escaños.\n- El Gobierno acelera la revalorización de las pensiones; Feijóo plantea retirar el ingreso mínimo vital a inmigrantes que no trabajen.\n- La portada aborda la participación de candidatos en el pódcast de Jordi Wild y la escasa presencia de mujeres en sus entrevistas.\n- Destacan los premios de Rosalía, los primeros casos de aplicación del decreto de vivienda y la retribución de Aznar en el grupo de Murdoch.",
+        "populismo": 20,
+        "motivo_populismo": "Predomina un lenguaje informativo, aunque aparecen expresiones llamativas como «fuera de juego» y «reina de los Latin Grammy» y se destacan declaraciones políticas confrontativas.",
+        "sesgo": "La selección dedica amplio espacio a la campaña y presta atención crítica a dirigentes de la derecha, mientras presenta medidas de pensiones y vivienda a través de sus efectos. Con estos titulares no puede establecerse una orientación partidista concluyente."
       }
     },
     {
@@ -114,71 +114,71 @@
       "web": "https://www.elmundo.es",
       "noticias": [
         {
-          "titulo": "La UCO señala que Sánchez se reunió 35 minutos en 2023 con el chófer detenido de la trama Koldo, a quien negó conocer",
-          "entradilla": "Cristian Corvillo fue recientemente detenido por amaño de contratos públicos -uno de ellos de Adif Alta Velocidad- y por cobro de comisiones. Sánchez negó la pasada semana conocer al imputado, que condujo para él en las primarias del PSOE de 2017 Leer",
-          "enlace": "https://www.elmundo.es/espana/2026/11/12/6af5ea88fc6c83c6308b45ca.html"
+          "titulo": "Feijóo se pone la capa de 'Anotop At' frente a Jordi Wild para conquistar a la Generación Z: \"Yo no sé inglés, pero sé gobernar\"",
+          "entradilla": "El líder del PP aprovecha la 'espantá' de Abascal para lanzarse a por el voto joven y hasta habla del narco Marcial Dorado: \"Cada uno es responsable de sus fotos\" Leer",
+          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af6e315fdddff705e8b4593.html"
         },
         {
-          "titulo": "El PP y Vox arrancan la campaña con una sólida mayoría absoluta y siguen sacando a votantes de la abstención",
-          "entradilla": "La derecha ganaría las elecciones generales del 29-N con entre 189 y 202 escaños, según el 'tracking' diario de Sigma Dos para EL MUNDO que se publicará cada día hasta el 23 de noviembre Leer",
-          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af60b3ee4d4d8845c8b4577.html"
+          "titulo": "Sánchez pierde la memoria con Jordi Wild: \"No me fui de vacaciones\" tras la crisis de Ceuta",
+          "entradilla": "El presidente del Gobierno y candidato socialista explica que vino al mundo \"de penalti\", que no sabía que Ábalos \"consumía prostitución\", que \"pone la mano en el fuego por Zapatero\" y, al final, zanja: \"Los políticos también tenemos derecho a cambiar de opinión\" Leer",
+          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af6ee63fc6c83fa038b4580.html"
         },
         {
-          "titulo": "Pedro Sánchez le da la voz a Begoña Gómez en el mitin de arranque de la campaña: \"El tiempo de las 'señoras de' ya ha pasado; somos las autoras de nuestras vidas\"",
-          "entradilla": "El candidato a la reelección busca en Sevilla impulso para un intento agónico de \"remontada\" Leer",
-          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af5e5ede9cf4aea7e8b45b5.html"
+          "titulo": "Los mensajes desvelados por la UCO sitúan a Óscar López como impulsor de la reunión de Sánchez con el chófer de la trama: \"Todo es raro\"",
+          "entradilla": "El presidente, que lo negó la semana pasada, sí se vio 35 minutos con Cristian Corvillo en Córdoba, una cita que fue impulsada, para sorpresa del imputado, por la propia Moncloa Leer",
+          "enlace": "https://www.elmundo.es/espana/2026/11/12/6af61ead21efa0bb048b458b.html"
         },
         {
-          "titulo": "Feijóo arranca en Cataluña su carrera hacia La Moncloa: \"El cambio es imparable. Por Urda, por Ceuta, por España\"",
-          "entradilla": "Apela a la gestión para acabar con \"ocho años de decadencia y corrupción\" y promete volcar el dinero de los españoles \"en trenes, seguridad, vivienda o pensiones\" Leer",
-          "enlace": "https://www.elmundo.es/cataluna/2026/11/12/6af6099321efa070728b45ce.html"
+          "titulo": "\"Nuestro amigo Cristian\": el ex chofer de Sánchez fue la solución para comprarle un piso a la novia de Ábalos",
+          "entradilla": "Una sociedad ligada a Cristian Corvillo envió 65.000 euros a la pareja del ex ministro de Transportes Leer",
+          "enlace": "https://www.elmundo.es/espana/2026/11/13/6af62229e4d4d85c5f8b45b1.html"
         },
         {
-          "titulo": "La desesperada lucha de Frente Amplio contra el voto útil al PSOE: \"Sólo nos queda votar 'al Perro' y cruzar los dedos\"",
-          "entradilla": "La escisión de Podemos, las malas encuestas y su permanente cambio de siglas dañan las perspectivas de la izquierda alternativa. Pero su mayor amenaza es el voto útil a Sánchez, con más pegada en este grupo que el propio PSOE. «Esperamos que la gente prefiera el original a la copia y nos vote», dice",
-          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/11/6af352d121efa0855e8b45aa.html"
+          "titulo": "El Gobierno inicia el camino para revalorizar las pensiones en el primer día de campaña electoral",
+          "entradilla": "Elma Saiz, portavoz del Ejecutivo y ministra para la Seguridad Social, anticipa que estas retribuciones \"subirán en una horquilla entre el 3% y el 4%\". Leer",
+          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af6fb2121efa0c94b8b457a.html"
         },
         {
-          "titulo": "Abascal señala que Sánchez es \"chusma\" por darle voz a Begoña Gómez en el inicio de la campaña",
-          "entradilla": "El líder de Vox critica que \"este Gobierno tapa un crimen con otro\" y apunta que sus intervenciones en La Revuelta o con Jordi Wild son \"minucias\" respecto a lo que se juega el 29N Leer",
-          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af61c69fc6c83561f8b45a2.html"
+          "titulo": "Cuerpo destituye al presidente de Renfe afín a Puente para tratar de apaciguar el malestar del sector y recupera a Joaquim Hortalà para dirigir Adif",
+          "entradilla": "Inmaculada Gutiérrez Carrizo, hasta ahora directora general de Renfe Internacional asume la presidencia. El nuevo presidente de Adif salió en julio de Renfe por discrepancias con la cúpula Leer",
+          "enlace": "https://www.elmundo.es/economia/empresas/2026/11/13/6af706bae4d4d85b4d8b4574.html"
         },
         {
-          "titulo": "Colau se lanza con la vivienda para reactivar a la izquierda: \"El siguiente gobierno será contra la especulación o no será\"",
-          "entradilla": "La fractura en dos listas condiciona el espacio: la alianza heredera de Sumar se renueva al completo y los 'morados' se abrazan a Rufián para sobrevivir Leer",
-          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af60f3c21efa059588b45b3.html"
+          "titulo": "Microsoft sufre una caída mundial: Outlook, Teams y Copilot llevan más de 17 horas sin funcionar. ¿Qué puedo hacer?",
+          "entradilla": "Reinstalar Outlook, cambiar la contraseña o vaciar la memoria caché no sirve de nada Leer",
+          "enlace": "https://www.elmundo.es/economia/empresas/2026/11/13/6af6b987fdddfff22c8b4587.html"
         },
         {
-          "titulo": "Ayuso y Almeida lanzan con Álvarez de Toledo la campaña \"más decisiva\": \"Es un punto de no retorno para la España constitucional. O ganamos o se acabó\"",
-          "entradilla": "El PP pide a los suyos que no se confíen ante 15 días cruciales: \"Hay que contar hasta el último voto de la última mesa del último colegio\" Leer",
-          "enlace": "https://www.elmundo.es/madrid/2026/11/12/6af60710e4d4d8cc658b4578.html"
+          "titulo": "El Tribunal de Cuentas ordena investigar el caso del ático al detectar indicios de perjuicio a fondos públicos",
+          "entradilla": "Señala que la compra se formalizó sin un encargo previo de la Comunidad ni una memoria que justificase la necesidad del inmueble, elaborada esta última casi tres meses después Leer",
+          "enlace": "https://www.elmundo.es/madrid/2026/11/13/6af7022afdddff3a7f8b45fa.html"
         },
         {
-          "titulo": "España gana hasta cuando le da igual: vence en Praga y le basta un punto contra Inglaterra el domingo para ser primera",
-          "entradilla": "La selección solventa el trámite ante la República Checa y suma 44 partidos invicta Leer",
-          "enlace": "https://www.elmundo.es/deportes/futbol/uefa-nations-league/2026/11/12/6af6075221efa05b5e8b45c0.html"
+          "titulo": "La desconfianza con Marlaska crece en el PSOE por la sensación de que no controla sectores de las Fuerzas de Seguridad",
+          "entradilla": "El ministro se defiende argumentando que su  \"obligación es defender la actuación de los policías\" Leer",
+          "enlace": "https://www.elmundo.es/espana/2026/11/13/6af617bee4d4d8845c8b457f.html"
         },
         {
-          "titulo": "La Fiscalía Europea envía a la UCO al Ministerio de Igualdad por un presunto fraude en la compra de pulseras antimaltrato",
-          "entradilla": "La Guardia Civil también se ha personado en el Tribunal de Cuentas para un requerimiento de documentación. Leer",
-          "enlace": "https://www.elmundo.es/espana/2026/11/12/6af59511e85ecef6528b457a.html"
+          "titulo": "Jensen Huang menospreció a la ejecutiva que ahora le sustituye al frente de Nvidia antes de su destitución",
+          "entradilla": "Colette Kress, consejera delegada interina de Nvidia, había cuestionado algunas de las operaciones financieras impulsadas por Huang. Él llegó a describirla como «un ciervo deslumbrado por los faros de un coche» Leer",
+          "enlace": "https://www.elmundo.es/economia/empresas/2026/11/13/6af6ef2ffdddff96118b4581.html"
         },
         {
-          "titulo": "Dimite el consejero delegado de Nvidia, Jensen Huang, arrastrado por unos romances que han desangrado a la compañía en bolsa",
-          "entradilla": "Colette Kress, responsable financiera del fabricante de chips, asume el cargo de forma interina mientras Trump propone a Tim Cook como reemplazo Leer",
-          "enlace": "https://www.elmundo.es/economia/empresas/2026/11/12/6af5c551fdddff03488b45ad.html"
+          "titulo": "Núcleo Nacional desafía la orden judicial de cesar toda actividad en redes sociales y cerrar sus sedes pidiendo dinero por Instagram desde su cuartel general: \"No vamos a echarnos atrás\"",
+          "entradilla": "La organización neonazi llama a sus simpatizantes a afiliarse a Noviembre Nacional, el partido fundado por uno de los detenidos, a traves de vídeos en X y Meta mientras facilita una cuenta bancaria para recibir transferencias Leer",
+          "enlace": "https://www.elmundo.es/madrid/2026/11/13/6af6fc9821efa083788b456e.html"
         },
         {
-          "titulo": "Crisis abierta entre Portugal y la OTAN: \"Rutte está completamente alejado de la realidad\" y sus declaraciones son \"desafortunadas y frívolas\"",
-          "entradilla": "El primer ministro Montenegro ha sido muy duro con el secretario general, escalando el choque que el líder de la Alianza desató al criticar a Lisboa y Madrid por su poca implicación frente a Rusia Leer",
-          "enlace": "https://www.elmundo.es/internacional/2026/11/12/6af5e2effdddff4a7f8b45bf.html"
+          "titulo": "Oleada de avisos de bomba falsos en Madrid: se registran 30 en el último día y medio, y las autoridades investigan las causas",
+          "entradilla": "Fuentes policiales asumen que puede unirse cierta psicosis por la bomba que mató a un agente esta semana en Oviedo, cuyo autor aún no ha sido detenido, con la ola de avisos falsos y desestabilizadores que registra actualmente Europa Leer",
+          "enlace": "https://www.elmundo.es/espana/2026/11/13/6af6f56a21efa0e33c8b458e.html"
         }
       ],
       "analisis": {
-        "resumen": "- La UCO señala una reunión de Sánchez con el chófer detenido de la trama Koldo, a quien el presidente negó conocer.\n- La Fiscalía Europea investiga un presunto fraude en la compra de pulseras antimaltrato del Ministerio de Igualdad.\n- La campaña arranca con una encuesta que da mayoría absoluta a PP y Vox, mientras la portada destaca las dificultades de la izquierda y los mensajes de sus líderes.\n- Dimite el consejero delegado de Nvidia; Portugal mantiene un enfrentamiento con la OTAN por unas declaraciones de Rutte.\n- España vence a la República Checa y necesita un punto ante Inglaterra para ser primera.",
-        "populismo": 55,
-        "motivo_populismo": "La portada emplea expresiones como «intento agónico» y «desesperada lucha», y recoge descalificaciones y mensajes de confrontación como «chusma» y «o ganamos o se acabó».",
-        "sesgo": "La selección y la redacción destacan investigaciones que afectan al entorno de Sánchez y presentan las perspectivas de la izquierda en términos desfavorables, frente a una mayoría descrita como sólida para PP y Vox. Algunas de las expresiones más contundentes son citas atribuidas a dirigentes políticos."
+        "resumen": "- Feijóo y Sánchez participan en entrevistas con Jordi Wild en plena campaña electoral.\n- Mensajes investigados por la UCO vinculan a Óscar López con una reunión de Sánchez y a Cristian Corvillo con una operación relacionada con la pareja de Ábalos.\n- El Gobierno anuncia avances para revalorizar las pensiones y cambios en Renfe y Adif; también se recoge la desconfianza hacia Marlaska en el PSOE.\n- El Tribunal de Cuentas ordena investigar el caso del ático y Núcleo Nacional desafía una orden judicial de cesar su actividad.\n- La portada informa de una caída mundial de servicios de Microsoft, cambios en Nvidia y avisos falsos de bomba en Madrid.",
+        "populismo": 35,
+        "motivo_populismo": "Expresiones como «Sánchez pierde la memoria», «espantá» y «oleada» introducen descalificación o dramatización, aunque buena parte de los titulares mantiene un tono informativo.",
+        "sesgo": "La selección y la redacción muestran un enfoque especialmente crítico hacia el Gobierno y el PSOE, con varias noticias sobre presuntas irregularidades y tensiones internas. También se incluyen asuntos ajenos a la política y una investigación sobre el caso del ático."
       }
     },
     {
@@ -186,71 +186,71 @@
       "web": "https://www.abc.es",
       "noticias": [
         {
-          "titulo": "Pubill sentencia el partido en el minuto 90",
+          "titulo": "La caída global de Microsoft dura ya más de 15 horas y empieza a afectar al servicio de salud británico",
+          "entradilla": "Una caída global de los servicios de Microsoft ha afectado desde la tarde del jueves al correo electrónico Outlook, a la plataforma de trabajo Teams y al asistente de inteligencia artificial Copilot. Más de 18 horas después de los primeros fallos, la compañía ha informado este viernes de que el acce",
+          "enlace": "https://www.abc.es/tecnologia/outlook-sufre-caida-global-servicios-microsoft-consigue-20261113081104-nt.html"
+        },
+        {
+          "titulo": "El Santander y Moeve, primeras grandes empresas que retiran su publicidad de TikTok",
+          "entradilla": "¿El principio de una crisis publicitaria en TikTok? Los problemas de imagen de la plataforma de videos, derivado de la denuncia sobre los contenidos de abusos infantiles que alberga , puede haber empezado a correr como la pólvora. Por ahora, dos gigantes españoles, Banco Santander y Moeve, han retir",
+          "enlace": "https://www.abc.es/economia/santander-moeve-primeras-grandes-empresas-retiran-publicidad-20261113143417-nt.html"
+        },
+        {
+          "titulo": "La inteligencia alemana se blinda contra los gobiernos regionales extremistas",
+          "entradilla": "En la región de Sajonia-Anhalt ha ganado recientemente las elecciones el partido radical de derecha Alternativa para Alemania (AfD) y en Berlín la izquierda radical de Die Linke (La Izquierda), dos formaciones con una clara inclinación prorrusa. El Bundestag ha reformado este viernes los servicios d",
+          "enlace": "https://www.abc.es/internacional/inteligencia-alemana-blinda-gobiernos-regionales-extremistas-20261113143229-nt.html"
+        },
+        {
+          "titulo": "Sánchez evita asumir responsabilidades por la invasión de Ceuta y los accidentes de tren",
+          "entradilla": "Tras las entrevistas del 'youtuber' Jordi Wild a Ada Colau y Alberto Núñez Feijóo -y tras el plantón de Santiago Abascal-, el presidente del Gobierno, Pedro Sánchez, se sentaba en el plató del podcast más escuchado en España para responder al creador de contenido. En todo momento, la huida ha sido h",
+          "enlace": "https://www.abc.es/espana/sanchez-evita-asumir-responsabilidades-invasion-ceuta-accidentes-20261113143010-nt.html"
+        },
+        {
+          "titulo": "El Tribunal de Cuentas ordena investigar la compra del ático de Chamberí por el Gobierno de Ayuso",
+          "entradilla": "Mientras la Comunidad de Madrid sigue tratando de vender el ático de la calle General Martínez Campos que compró por 6,3 millones de euros la empresa pública Planifica Madrid, el Tribunal de Cuentas ha decidido abrir una investigación sobre esta adquisición al apreciar indicios de un posible menosca",
+          "enlace": "https://www.abc.es/espana/madrid/tribunal-cuentas-ordena-investigar-atico-detectar-indicios-20261113125828-nt.html"
+        },
+        {
+          "titulo": "Ainhoa Martínez: «Sánchez asfixia a su izquierda para conseguir la remontada»",
           "entradilla": "",
-          "enlace": "https://www.abc.es/deportes/futbol/republica-checa-espana-directo-resultado-ganador-goles-20261111152015-di.html"
+          "enlace": "https://www.abc.es/espana/sanchez-asfixia-izquierda-conseguir-remontada-20261113133049-nt.html"
         },
         {
-          "titulo": "Feijóo promete una «auditoría del saqueo y de la decadencia» de los años del sanchismo",
-          "entradilla": "El candidato del PP en las elecciones del 29 de noviembre, Alberto Núñez Feijóo, ha arrancado la campaña garantizando que, si los populares se hacen con la Moncloa, levantarán la manta del «saqueo» y «la decadencia» que, en su opinión, ha llevado a cabo el sanchismo desde 2018. Para ello, el aspiran",
-          "enlace": "https://www.abc.es/espana/cataluna/feijoo-promete-auditoria-saqueo-decadencia-anos-sanchismo-20261112203649-nt.html"
+          "titulo": "Cuerpo cesa también al presidente de Renfe y coloca a dos altos funcionarios",
+          "entradilla": "Carlos Cuerpo, flamante ministro de Transportes tras la dimisión de Óscar Puente, prosigue con la limpia de cargos en la cúpula ferroviaria pública. Después de dar salida al presidente de Adif, Luis Pedro Marco de la Peña, el vicepresidente primero del Gobierno ha cesado también al de Renfe , Álvaro",
+          "enlace": "https://www.abc.es/economia/cuerpo-cesa-presidente-renfe-coloca-cupula-ferroviaria-20261113134416-nt.html"
         },
         {
-          "titulo": "Pedro Sánchez vuelve a bailar en Sevilla y reclama el voto feminista: «Cuando las mujeres dan un paso al frente, toda España va detrás»",
-          "entradilla": "Sevilla es el corazón del socialismo, aunque sus latidos son cada vez más inconstantes y arrítmicos, con demasiadas pausas. Sánchez arrancó su simbólico Peugeot muy cerquita de la capital, en Dos Hermanas, su kilómetro cero para alcanzar la Secretaría General y, posteriormente, la Presidencia del Go",
-          "enlace": "https://www.abc.es/espana/andalucia/pedro-sanchez-vuelve-bailar-sevilla-reclama-voto-20261112211051-nts.html"
+          "titulo": "David Serrato, marido de Irene Villa, revela que tiene cáncer: «Ha regresado golpeando con más fuerza»",
+          "entradilla": "El marido de Irene Villa, David Serrato , ha compartido que tiene cáncer. Según él mismo ha revelado, se trata de «una recaída» del linfoma que sufrió hace dos décadas, aunque «esta vez ha regresado golpeando con más fuerza». Eso sí, el coach ha advertido que se siente con fuerzas para superarlo y q",
+          "enlace": "https://www.abc.es/gente/david-serrato-marido-irene-villa-revela-cancer-20261113123604-nt.html"
         },
         {
-          "titulo": "Colau se conjura para desafiar a las encuestas: «Vamos a darle la vuelta. Necesitamos superar el 8%»",
-          "entradilla": "A escasas horas de que comenzara oficialmente la campaña electoral del 29 de noviembre, un sol reluciente de otoño se ponía sobre el Mirador del Cerro del Tío Pío. Superadas las lluvias que protagonizaron la huelga general de este miércoles , los cielos se disiparon sobre el madrileño barrio de Vall",
-          "enlace": "https://www.abc.es/espana/colau-conjura-desafiar-encuestas-vamos-darle-vuelta-20261112205209-nt.html"
+          "titulo": "Sancet, internacional con España: «Ojalá jugar un Mundial con la selección de nuestro país, Euskadi»",
+          "entradilla": "El 12 de octubre de 2023, Oihan Sancet se estrenaba con la selección española marcando un gol en un partido clasificatorio para la Eurocopa de 2024 frente a Escocia. Tras vestir esa camiseta en tres ocasiones más, el centrocampista del Athletic Club declaró ayer en la sala de prensa de la Federación",
+          "enlace": "https://www.abc.es/deportes/futbol/sancet-internacional-espanol-ojala-podamos-jugar-mundial-20261113093808-nt.html"
         },
         {
-          "titulo": "«Lo mejor de la huelga es que se redujo el absentismo laboral»",
-          "entradilla": "",
-          "enlace": "https://www.abc.es/espana/mejor-huelga-redujo-absentismo-laboral-20261112202602-nt.html"
+          "titulo": "Pochettino, el enésimo elegido para sacar al Manchester United de la ruina deportiva",
+          "entradilla": "Old Trafford, el 'Teatro de los Sueños', hace años que solo acapara pesadillas . Tras confirmarse este jueves la destitución de Michael Carrick de su cargo como técnico —ganado a pulso tras llegar como interino la pasada temporada y clasificar a los 'red devils' para la Champions League—, su sucesor",
+          "enlace": "https://www.abc.es/deportes/futbol/pochettino-enesimo-elegido-sacar-manchester-united-ruina-20261112020937-nt.html"
         },
         {
-          "titulo": "Abascal despide la precampaña con debates menos «superficiales» que el de La Revuelta: «Si ganan el 29N, se considerarán impunes»",
-          "entradilla": "La elección del escenario para el segundo mitin en precampaña de Santiago Abascal, presidente de Vox, en Aragón no ha sido casual. El partido verde aspira, con su candidata al Congreso por Huesca, Ester Blanco, arañar un escaño respecto a la convocatoria electoral de 2023. Abascal ha llenado con una",
-          "enlace": "https://www.abc.es/espana/aragon/29n-abascal-despide-precampana-huesca-debates-esteriles-20261112204017-nt.html"
+          "titulo": "Vox propone un impuesto a las remesas de dinero enviadas al extranjero",
+          "entradilla": "Vox ya ha presentado su programa electoral que vuelve a girar sobre la idea de la «prioridad nacional». En el conjunto de medidas que presenta el partido de Santiago Abascal se encuentra un gravamen sobre las remesas que envían los extranjeros .«Gravamen sobre las remesas al extranjero. El dinero ge",
+          "enlace": "https://www.abc.es/economia/cuentas-corrientes/vox-propone-impuesto-remesas-dinero-enviadas-extranjero-20261113132628-nt.html"
         },
         {
-          "titulo": "La UCO detecta un «descuadre contable» entre la documentación del Tribunal de Cuentas y las cuentas del PSOE",
-          "entradilla": "La Unidad Central Operativa (UCO) de la Guardia Civil ha detectado un «descuadre contable» entre la documentación entregada por el Tribunal de Cuentas el pasado mes de septiembre y la información financiera que obra en poder del magistrado instructor de la causa secreta sobre la presunta financiació",
-          "enlace": "https://www.abc.es/espana/uco-detecta-descuadre-contable-documentacion-tribunal-cuentas-20261112214453-nt.html"
-        },
-        {
-          "titulo": "Vox propone ingreso mínimo vital solo para españoles y que los ilegales no puedan alquilar ni acceder a la sanidad pública",
-          "entradilla": "Si Vox llega al Palacio de la Moncloa el próximo 29N , el ingreso mínimo vital (IMV) estará exclusivamente reservado para los españoles con menos recursos y los inmigrantes ilegales no podrán acceder al alquiler de viviendas ni a la sanidad pública. Así lo han anunciado este jueves al presentar su p",
-          "enlace": "https://www.abc.es/espana/vox-propone-ingreso-minimo-vital-solo-espanoles-20261112185446-nt.html"
-        },
-        {
-          "titulo": "Lista de premios de Lotería Nacional del jueves 12 de noviembre",
-          "entradilla": "Consulta el resultado del sorteo de la Lotería Nacional de hoy, jueves 12 de noviembre de 2026, y la lista oficial de premios.- Primer premio: 39430, premiado con 30.000 euros al décimo.- Segundo premio: 52774, premiado con 6.000 euros al décimo.- Cuatro cifras: 0639, 8331, 1372 y 0709, premiados co",
-          "enlace": "https://www.abc.es/loterias/loteria-nacional/loteria-nacional-hoy-jueves-directo-comprobar-resultados-numeros-sorteo-20261112183000-di.html"
-        },
-        {
-          "titulo": "El CIS preelectoral de Tezanos infla al PSOE con hasta 143 escaños y hunde al PP",
-          "entradilla": "El PSOE sería el ganador de las elecciones del próximo 29 de noviembre con el 33,3% de los votos y entre 134 y 143 escaños , mientras que el PP lograría el 25,5% de las papeletas y entre 98 y 106 diputados. Vox se quedaría en el 18,4% con entre 57 y 65 asientos en el Congreso, mientras que Frente Am",
-          "enlace": "https://www.abc.es/espana/cis-preelectoral-tezanos-infla-psoe-143-escanos-20261112174821-nt.html"
-        },
-        {
-          "titulo": "«Zancadillas a los maderos»",
-          "entradilla": "",
-          "enlace": "https://www.abc.es/espana/zancadillas-maderos-20261112210131-nt.html"
-        },
-        {
-          "titulo": "El fracaso de la huelga política: la secundaron menos trabajadores que afiliados a UGT y CC.OO.",
-          "entradilla": "Catorce años después de la última huelga general, los sindicatos volvieron a las calles en una protesta política contra la oposición. La del miércoles fue una convocatoria «atípica», que se produjo a las puertas de las elecciones generales, después de ocho años de silencio, en los que UGT y CC.OO. n",
-          "enlace": "https://www.abc.es/economia/gran-fracaso-huelga-politica-secundaron-trabajadores-afiliados-20261113185308-nt.html"
+          "titulo": "Pavo real",
+          "entradilla": "Lo siento pero veo aparecer por la puerta a Luis de la Fuente y pienso en 'Pavo Real', la canción del Puma que nos tuvo a todos bailando de chavales: «Numerao, numerao, viva la numeración». Pavo Cristatus en latín. Íbamos a la pisci con el radio cassette bajo el brazo: «A todos los que me escuchan a",
+          "enlace": "https://www.abc.es/deportes/futbol/pavo-real-20261112020718-nt.html"
         }
       ],
       "analisis": {
-        "resumen": "- La campaña del 29N centra la portada, con propuestas y declaraciones de Feijóo, Sánchez, Colau y Abascal.\n- Vox plantea restringir el ingreso mínimo vital a españoles y excluir a inmigrantes en situación irregular de la sanidad pública y el alquiler.\n- La UCO detecta un descuadre entre documentación del Tribunal de Cuentas y cuentas del PSOE; el CIS sitúa a este partido en cabeza.\n- La portada califica de fracaso la huelga y recoge una declaración sobre la reducción del absentismo laboral.\n- En deportes, Pubill sentencia un partido en el minuto 90; también se publica la lista de premios de la Lotería Nacional.",
-        "populismo": 58,
-        "motivo_populismo": "Expresiones como «infla», «hunde» y «fracaso de la huelga política» introducen un tono valorativo y confrontativo; la portada también reproduce las palabras «saqueo» y «decadencia» atribuidas a Feijóo.",
-        "sesgo": "La selección incluye a varios partidos, pero la redacción muestra un enfoque especialmente crítico hacia el PSOE, el CIS y los sindicatos. Ese enfoque se aprecia en verbos como «infla» y en la presentación de la huelga como un «fracaso»."
+        "resumen": "- Una caída de Microsoft afecta a varios servicios y empieza a repercutir en la sanidad británica; Santander y Moeve retiran publicidad de TikTok.\n- Sánchez es cuestionado por Ceuta y los accidentes ferroviarios; el Tribunal de Cuentas investigará una compra inmobiliaria del Gobierno de Ayuso.\n- El ministro de Transportes cesa al presidente de Renfe y nombra a dos altos funcionarios.\n- Alemania reforma sus servicios de inteligencia ante gobiernos regionales extremistas; Vox propone gravar las remesas al extranjero.\n- La portada recoge noticias deportivas sobre Sancet y el Manchester United, y la recaída del cáncer de David Serrato.",
+        "populismo": 32,
+        "motivo_populismo": "Aunque predominan titulares informativos, expresiones como «invasión de Ceuta», «evita asumir responsabilidades», «asfixia a su izquierda» y «ruina deportiva» aportan carga valorativa o dramatización.",
+        "sesgo": "La portada da protagonismo a la política y utiliza un lenguaje especialmente crítico con Sánchez, aunque también incluye una noticia fiscalizadora sobre el Gobierno de Ayuso. Con estos titulares no se aprecia una orientación ideológica inequívoca."
       }
     },
     {
@@ -258,14 +258,34 @@
       "web": "https://www.publico.es",
       "noticias": [
         {
+          "titulo": "El Tribunal de Cuentas ve indicios de que el ático de Ayuso se compró mediante una operación \"carente por completo de justificación legal\"",
+          "entradilla": "",
+          "enlace": "https://www.publico.es/politica/tribunales/tribunal-cuentas-ve-indicios-atico-ayuso-compro-mediante-operacion-carente-completo-justificacion-legal.html"
+        },
+        {
+          "titulo": "Joaquim Hortalá, nuevo presidente de Adif, e Inmaculada Carrizo, de Renfe",
+          "entradilla": "",
+          "enlace": "https://www.publico.es/politica/gobierno/joaquim-hortala-nuevo-presidente-adif-e-inmaculada-carrizo-renfe.html"
+        },
+        {
           "titulo": "El NO-DO en tiempos de YouTube: las polémicas con Broncano y Jordi Wild anticipan el control mediático que promueve Vox",
           "entradilla": "",
           "enlace": "https://www.publico.es/politica/do-tiempos-youtube-polemicas-broncano-jordi-wild-anticipan-control-mediatico-promueve-vox.html"
         },
         {
-          "titulo": "La huelga general y el CIS insuflan esperanza a la izquierda en el arranque de campaña",
+          "titulo": "Microsoft detecta \"avances adicionales\" en la recuperación de su servicio en Asia",
           "entradilla": "",
-          "enlace": "https://www.publico.es/politica/huelga-general-cis-insuflan-esperanza-izquierda-arranque-campana.html"
+          "enlace": "https://www.publico.es/ciencias/tecnologia/microsoft-detecta-avances-adicionales-recuperacion-servicio-asia.html"
+        },
+        {
+          "titulo": "¡Primer hito conseguido! Ya somos 150 socios y socias más en 'Público'",
+          "entradilla": "",
+          "enlace": "https://www.publico.es/comunidad/primer-hito-conseguido-somos-150-socios-socias-nuestra-comunidad.html"
+        },
+        {
+          "titulo": "Adiós al 'decreto Maricarmen' y a la Ley de Vivienda: lo que está en juego si PP y Vox llegan a la Moncloa",
+          "entradilla": "",
+          "enlace": "https://www.publico.es/economia/vivienda/adios-decreto-maricarmen-ley-vivienda-juego-pp-vox-llegan-moncloa.html"
         },
         {
           "titulo": "¡Y todavía no han llegado al Gobierno!",
@@ -273,56 +293,36 @@
           "enlace": "https://www.publico.es/opinion/todavia-han-llegado-gobierno.html"
         },
         {
-          "titulo": "El Gobierno logra la prórroga de alquileres y pone límites a los fondos buitre",
+          "titulo": "El 11N y el CIS insuflan esperanza a la izquierda en el arranque de campaña",
           "entradilla": "",
-          "enlace": "https://www.publico.es/politica/gobierno-logra-prorroga-alquileres-pone-limites-fondos-buitre-pero-derechas-tumban-renovaciones-automaticas.html"
+          "enlace": "https://www.publico.es/politica/huelga-general-cis-insuflan-esperanza-izquierda-arranque-campana.html"
         },
         {
-          "titulo": "Un cargo de Adelante Andalucía denuncia una agresión policial que le rompió una costilla: \"Cuando me pegan, me dejan sin aire\"",
+          "titulo": "Feijóo afirma que eliminará el Ministerio de Vivienda, como hará con Igualdad",
           "entradilla": "",
-          "enlace": "https://www.publico.es/politica/cargo-adelante-andalucia-denuncia-agresion-policial-le-rompio-costilla-me-pegan-me-dejan-aire.html"
+          "enlace": "https://www.publico.es/politica/ultima-hora-campana-electoral-directo.html"
         },
         {
-          "titulo": "Interior investigará las cargas en la huelga y prohíbe el uso policial del gas pimienta",
+          "titulo": "Trece años de privatizaciones, recortes y promesas incumplidas en la sanidad gallega",
           "entradilla": "",
-          "enlace": "https://www.publico.es/sociedad/ultima-hora-huelga-general-directo.html"
+          "enlace": "https://www.publico.es/politica/trece-anos-privatizaciones-recortes-promesas-incumplidas-sanidad-gallega.html"
         },
         {
-          "titulo": "Begoña Gómez inicia en Sevilla la campaña del PSOE: \"Me habéis dado el aliento para continuar\"",
+          "titulo": "Rocío de Meer, una 'demócrata' de toda la vida",
           "entradilla": "",
-          "enlace": "https://www.publico.es/politica/partidos/begona-gomez-arranca-sevilla-campana-psoe-me-habeis-dado-aliento-continuar.html"
+          "enlace": "https://www.publico.es/opinion/columnas/rocio-meer-democrata-toda-vida.html"
         },
         {
-          "titulo": "Feijóo busca impulso en Catalunya para tumbar a Sánchez: \"El 29N no hay huelga, hay votación\"",
+          "titulo": "Alcalá de Guadaíra, una ciudad de tradición panadera en la que el PSOE ha ganado en todas las generales",
           "entradilla": "",
-          "enlace": "https://www.publico.es/politica/feijoo-busca-impulso-catalunya-tumbar-sanchez-29n-hay-huelga-hay-votacion.html"
-        },
-        {
-          "titulo": "Colau advierte a Sánchez: \"El siguiente Gobierno progresista será contra la especulación o no será\"",
-          "entradilla": "",
-          "enlace": "https://www.publico.es/politica/colau-advierte-sanchez-siguiente-gobierno-progresista-sera-especulacion-sera.html"
-        },
-        {
-          "titulo": "Irene Montero comienza su campaña en Madrid: \"PP y PSOE no son lo mismo, pero votan igual\"",
-          "entradilla": "",
-          "enlace": "https://www.publico.es/politica/irene-montero-comienza-campana-madrid-pp-psoe-son-pero-votan-igual.html"
-        },
-        {
-          "titulo": "PP y Vox arrancan la campaña sin mayoría absoluta según el CIS",
-          "entradilla": "",
-          "enlace": "https://www.publico.es/politica/partidos/pp-vox-arrancan-campana-mayoria-absoluta-cis.html"
-        },
-        {
-          "titulo": "La jueza ordena el cese total de la actividad de Núcleo Nacional y el cierre de sus sedes",
-          "entradilla": "",
-          "enlace": "https://www.publico.es/politica/jueza-ordena-cese-total-actividad-nucleo-nacional-cierre-sedes.html"
+          "enlace": "https://www.publico.es/politica/29n-espana-roja-retrato-alcala-guadaira-ciudad-tradicion-panadera-psoe-ganado-todas-generales.html"
         }
       ],
       "analisis": {
-        "resumen": "- La portada relaciona las polémicas con Broncano y Jordi Wild con el control mediático que atribuye a Vox.\n- La huelga general y el CIS marcan el inicio de campaña: PP y Vox no alcanzarían la mayoría absoluta, según el sondeo.\n- El Gobierno logra prorrogar los alquileres y limitar la actuación de los fondos buitre.\n- Interior investigará las cargas durante la huelga y prohíbe el uso policial del gas pimienta; un cargo de Adelante Andalucía denuncia una agresión.\n- Varios dirigentes participan en actos de campaña, mientras una jueza ordena el cese de Núcleo Nacional y el cierre de sus sedes.",
-        "populismo": 58,
-        "motivo_populismo": "Expresiones como «¡Y todavía no han llegado al Gobierno!», «fondos buitre» y la referencia al NO-DO recurren a la alarma, la descalificación y la polarización, aunque otros titulares son más informativos.",
-        "sesgo": "La selección y la redacción muestran un enfoque próximo a la izquierda: presentan la huelga y el CIS como una fuente de «esperanza» y destacan medidas del Gobierno. La referencia al NO-DO y la exclamación sobre quienes aún no han llegado al Gobierno adoptan un tono crítico y alarmado hacia Vox."
+        "resumen": "- El Tribunal de Cuentas ve indicios de irregularidad en la compra del ático de Ayuso.\n- La portada aborda las posibles políticas de PP y Vox sobre vivienda y medios, y recoge la propuesta de Feijóo de eliminar los ministerios de Vivienda e Igualdad.\n- El CIS y el 11N se presentan como señales de esperanza para la izquierda al inicio de campaña.\n- Se destacan las privatizaciones, recortes y promesas incumplidas en la sanidad gallega.\n- Se anuncian nombramientos en Adif y Renfe, avances en la recuperación de Microsoft en Asia y una campaña de socios de Público.",
+        "populismo": 60,
+        "motivo_populismo": "Expresiones como «¡Y todavía no han llegado al Gobierno!», la comparación con el NO-DO y la ironía sobre una «'demócrata' de toda la vida» recurren a la alarma, el enfrentamiento y la descalificación.",
+        "sesgo": "La selección y redacción muestran un enfoque favorable a la izquierda y crítico con PP y Vox, a quienes se asocia con recortes y control mediático. La portada también destaca señales esperanzadoras para la izquierda."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://okdiario.com",
       "noticias": [
         {
-          "titulo": "Kane salva de penalti a Inglaterra ante Croacia y llega con vida al duelo decisivo ante España",
-          "entradilla": "Inglaterra se impuso 2-1 ante una Croacia cumplidora, pero insuficiente. Tuchel y los suyos tuvieron que hacer frente a un cuadro balcánico que enfrentó de tú a tú a la tercera selección mejor clasificada en el pasado Mundial. Con esta victoria, Inglaterra llega al encuentro del domingo con los debe",
-          "enlace": "https://okdiario.com/deportes/kane-salva-penalti-inglaterra-croacia-llega-vida-duelo-decisivo-espana-20827764"
+          "titulo": "La preciosa reflexión de Arturo Pérez-Reverte sobre los perros: «Nadie que no haya convivido con ellos conocerá hasta dónde llega la lealtad»",
+          "entradilla": "La relación entre los perros y las personas encierra una forma de afecto que resulta difícil de explicar a quien nunca ha compartido su vida con uno de estos animales. Para el escritor y periodista Arturo Pérez-Reverte, convivir con un perro permite descubrir una dimensión de la lealtad que va mucho",
+          "enlace": "https://okdiario.com/mascotas/preciosa-reflexion-arturo-perez-reverte-sobre-perros-nadie-que-no-haya-convivido-ellos-conocera-hasta-donde-llega-lealtad-20894334"
         },
         {
-          "titulo": "El navarro Sancet pide la oficialidad de la selección del País Vasco: «Ojalá podamos pelear un Mundial con nuestro país»",
-          "entradilla": "Oihan Sancet, natural de Pamplona e internacional con España en cuatro ocasiones, ha pedido la oficialidad de la selección del País Vasco, con la que ha sido convocado en este parón para enfrentarse en un amistoso ante Venezuela. «Es lo que sueñas desde pequeño, jugar con la selección que amas y oja",
-          "enlace": "https://okdiario.com/deportes/navarro-sancet-pide-oficialidad-seleccion-del-pais-vasco-ojala-podamos-pelear-mundial-nuestro-pais-20828191"
+          "titulo": "Pantalla de 2,1 pulgadas y 50 horas bajo el agua: así es el Descent X10, el ordenador de buceo de plástico reciclado que Garmin vende por 349,99 euros",
+          "entradilla": "Garmin puso a la venta el 3 de noviembre el Descent X10, un ordenador de buceo para la muñeca. Tiene pantalla de 2,1 pulgadas, hasta 50 horas de inmersión por carga y una profundidad máxima de uso de 100 metros. En Estados Unidos cuesta 349,99 dólares y en la tienda española de la marca, 349,99 … Co",
+          "enlace": "https://okdiario.com/techy/descent-x10-garmin-ordenador-buceo-50-horas-20738100"
         },
         {
-          "titulo": "Joan Manuel Serrat, cantante: «Lo que está ocurriendo en España es el resultado de muchos años de desgaste de la gente»",
-          "entradilla": "Joan Manuel Serrat (Barcelona; 27 de diciembre de 1943) ha hecho desde el retiro una reflexión sobre el momento que se está viviendo en la España de Pedro Sánchez. El cantautor español, uno de los más importantes del siglo XX en nuestro país, ha hecho un análisis de la situación política antes de la",
-          "enlace": "https://okdiario.com/espana/joan-manuel-serrat-cantante-lo-que-esta-ocurriendo-espana-resultado-muchos-anos-desgaste-gente-20640096"
+          "titulo": "Baleares llevará al Supremo el real decreto de vivienda que da dinero sólo a las autonomías que declaren zonas tensionadas",
+          "entradilla": "El Consell de Govern ha autorizado a la Abogacía de Baleares a interponer un recurso contencioso administrativo ante el Tribunal Supremo contra el real decreto que regula subvenciones directas a las comunidades autónomas que hayan declarado zonas de mercado residencial tensionado. El portavoz del Ej",
+          "enlace": "https://okdiario.com/baleares/baleares-llevara-supremo-real-decreto-vivienda-que-da-dinero-solo-autonomias-que-declaren-zonas-tensionadas-20893211"
         },
         {
-          "titulo": "Felipe, jubilado español: «Me jubilé pensando que por fin iba a descansar, pero la realidad ha sido muy distinta de lo que esperaba en realidad»",
-          "entradilla": "La jubilación suele presentarse como una de las etapas más esperadas de la vida. Después de décadas trabajando y atendiendo responsabilidades, llega por fin el momento de descansar y disfrutar. Pero, ¿qué ocurre cuando desaparecen de un día para otro las obligaciones que durante tantos años han marc",
-          "enlace": "https://okdiario.com/curiosidades/felipe-jubilado-espanol-jubile-pensando-que-fin-iba-descansar-pero-realidad-sido-muy-distinta-lo-que-esperaba-realidad-20538964"
+          "titulo": "Una pastelera sobre cómo empezar tu propio negocio: “Con 1 kg de harina, 600 gr de azúcar y 500 ml de leche salen 12 bizcochos perfectos para emprender”",
+          "entradilla": "Los bizcochos caseros son una alternativa interesante para quienes desean iniciarse en el mundo de la pastelería y convertir una receta sencilla en una oportunidad de negocio. Entre las opciones más atractivas destaca el bizcocho de plátano con chips de chocolate, una preparación esponjosa, dulce y ",
+          "enlace": "https://okdiario.com/recetas/pastelera-sobre-como-empezar-tu-propio-negocio-1-kg-harina-600-gr-azucar-500-ml-leche-salen-12-bizcochos-perfectos-emprender-20894300"
         },
         {
-          "titulo": "España gana sin brillo en Praga y se juega el liderato con Inglaterra",
-          "entradilla": "España ganó en Praga con más oficio que brillo. El equipo de Luis de la Fuente tuvo el balón, pero lo movió con poca velocidad ante una República Checa que juntó las líneas y apenas concedió espacios por fuera. Sin Lamine Yamal ni Nico Williams, a la Selección le faltó desborde para abrir la defensa",
-          "enlace": "https://okdiario.com/deportes/espana-gana-sin-brillo-praga-juega-liderato-inglaterra-20826904"
+          "titulo": "El Govern de Prohens rearma al Consell de Mallorca con nuevas herramientas para rastrear la oferta turística ilegal",
+          "entradilla": "El Consell de Govern ha validado la actualización del proyecto ITS2024-2025–036 Lucha contra la oferta turística ilegal, mejora de la imagen, la calidad y la ordenación, dotado con 4.192.508,99 euros procedentes del Fondo para favorecer el turismo sostenible (ITS), concedido al Consell de Mallorca. ",
+          "enlace": "https://okdiario.com/baleares/govern-prohens-rearma-consell-mallorca-nuevas-herramientas-rastrear-oferta-turistica-ilegal-20893870"
         },
         {
-          "titulo": "Resultado República Checa – España: resumen, cómo ha quedado y última hora del partido de la Liga de Naciones hoy",
-          "entradilla": "La selección española busca ampliar su invicto ante la República Checa de un viejo conocido del fútbol nacional. El combinado checo recibe en Praga a la vigente campeona del mundo, inmersa en una racha de 42 partidos oficiales consecutivos sin conocer la derrota. El siguiente obstáculo hacia los 43 ",
-          "enlace": "https://okdiario.com/deportes/republica-checa-espana-directo-hoy-como-va-estadisticas-resultado-ultima-hora-del-partido-liga-naciones-hoy-online-vivo-gratis-20825426"
+          "titulo": "Entrevista de Jordi Wild a Pedro Sánchez en directo | Última hora de los verificadores, la ideología de Jordi Wild y de las elecciones generales del 29-N hoy online en vivo",
+          "entradilla": "Este viernes 13 de noviembre es el primer día oficial de campaña electoral y la actualidad política se centrará en los distintos actos de los candidatos a lo largo y ancho de toda la geografía nacional: Pedro Sánchez estará en Arnedo (La Rioja) y Pamplona; Alberto Núñez Feijóo, en Madrid; y el líder",
+          "enlace": "https://okdiario.com/espana/entrevistas-jordi-wild-feijoo-sanchez-colau-directo-ultima-hora-elecciones-del-29-n-que-ideologia-tiene-noticias-vivo-20829151"
         },
         {
-          "titulo": "España nunca falla",
-          "entradilla": "España nunca falla. Da igual que a Luis de la Fuente le faltara más de medio equipo o que la República Checa empujara con todo en la segunda mitad. Nuestra selección es invencible o al menos lo parece. Un solitario gol de penalti de Álex Baena en la primera mitad y otro de Pubill en … Continuar leye",
-          "enlace": "https://okdiario.com/deportes/republica-checa-espana-nunca-falla-20827675"
+          "titulo": "EROSKI consolida su apoyo a las asociaciones de ayuda a la infancia de Baleares con la 14ª edición de su campaña ‘MideSonrisas’",
+          "entradilla": "EROSKI ha presentado hoy la decimocuarta edición de su campaña solidaria MideSonrisas, una iniciativa destinada a respaldar la labor de 14 asociaciones que trabajan en favor de la infancia, la juventud y las familias de las Islas Baleares.  Como ya es habitual, entre los meses de noviembre y febrero",
+          "enlace": "https://okdiario.com/baleares/eroski-consolida-apoyo-asociaciones-ayuda-infancia-baleares-14a-edicion-campana-midesonrisas-20894131"
         },
         {
-          "titulo": "Así queda la clasificación del grupo de España en la Liga de las Naciones tras el triunfo contra la República Checa",
-          "entradilla": "España sigue como líder de su grupo de la Liga de las Naciones tras ganar a la República Checa en Praga (0-2). Los goles de Baena de penalti y de Pubill en el último segundo de partido completan el pleno de victorias del equipo de Luis de la Fuente en esta fase de grupos -cinco … Continuar leyendo \"",
-          "enlace": "https://okdiario.com/deportes/asi-queda-clasificacion-del-grupo-espana-liga-naciones-triunfo-contra-republica-checa-20828185"
+          "titulo": "Jordi Wild destroza a Pedro Sánchez: «No puedo entender que, en un momento tan delicado como la crisis de Ceuta, te vayas de vacaciones»",
+          "entradilla": "Uno de los temas que ha tratado Jordi Wild en su entrevista a Pedro Sánchez ha sido la invasión de Ceuta. El podcaster le ha recriminado que se fuera de vacaciones en plena crisis, cuando por la ciudad migratoria vagaban miles de inmigrantes ilegales. «Yo no puedo entender cómo, en un momento tan de",
+          "enlace": "https://okdiario.com/espana/jordi-wild-destroza-pedro-sanchez-no-puedo-entender-que-momento-tan-delicado-como-crisis-ceuta-te-vayas-vacaciones-20892953"
         },
         {
-          "titulo": "Oleada de avisos bomba en España: siete alertas por mochilas sospechosas en tres comunidades",
-          "entradilla": "Siete falsos avisos de bomba han obligado a activar los protocolos de seguridad y desplegar a los equipos TEDAX en tres comunidades autónomas. Las alertas, provocadas en su mayoría por mochilas y maletas abandonadas en puntos concurridos como estaciones de transporte o centros comerciales, se repart",
-          "enlace": "https://okdiario.com/espana/oleada-avisos-bomba-espana-siete-avisos-tres-comunidades-20826850"
+          "titulo": "Novedades COOL: creatina más allá de lo físico, un cocido en el Bernabéu o Loewe se da la mano con ‘Pesadilla antes de Navidad’",
+          "entradilla": "Noviembre ha llegado y, con él, también ha regresado Mariah Carey con su inconfundible ‘All I Want For Christmas Is You’. Para muchos, la Navidad ya ha comenzado oficialmente. Los mercados navideños empiezan a abrir sus puertas, los restaurantes recuperan algunos de sus platos más reconfortantes y l",
+          "enlace": "https://okdiario.com/cool/novedades-cool-creatina-mas-alla-lo-fisico-cocido-bernabeu-o-loewe-da-mano-pesadilla-antes-navidad-20824726"
         },
         {
-          "titulo": "Louzán se planta ante la FIFA y exige que la final del Mundial 2030 se juegue en España",
-          "entradilla": "Rafael Louzán ha dejado clara la postura de España ante la FIFA sobre la final del Mundial 2030. El presidente de la Real Federación Española de Fútbol ha trasladado a los responsables del máximo organismo del fútbol mundial que no se contempla ninguna alternativa que no sea la celebración de la fin",
-          "enlace": "https://okdiario.com/deportes/louzan-planta-fifa-exige-que-final-del-mundial-2030-juegue-espana-20828095"
+          "titulo": "Una diputada de Compromís tiene bloqueada la ley del suelo valenciana al no firmar un trámite como secretaria de comisión",
+          "entradilla": "Una diputada de Compromís mantiene bloqueada la tramitación de la ley del suelo autonómica en las Cortes Valencianas al no cumplimentar la firma de un trámite sin el que el texto no puede continuar su procedimiento parlamentario. Se trata de Paula Espinosa, secretaria de la Comisión de Medio Ambient",
+          "enlace": "https://okdiario.com/comunidad-valenciana/diputada-compromis-tiene-bloqueada-ley-del-suelo-valenciana-no-firmar-tramite-como-secretaria-comision-20881175"
         },
         {
-          "titulo": "En 2006 puso una motosierra en un fusil y 20 años después Gears of War regala a RAAM a todos los jugadores de E-Day",
-          "entradilla": "The Coalition ha celebrado los 20 años de Gears of War con un regalo para su comunidad. RAAM, líder militar de la Horda Locust, pasa a ser un personaje multijugador gratuito en Gears of War: E-Day. El estudio suma un evento de dos semanas y la Temporada 2, «Legacy», que arrancará el 1 de diciembre. ",
-          "enlace": "https://okdiario.com/techy/gears-of-war-20-anos-raam-gratis-day-temporada-2-20737945"
+          "titulo": "Robin Williams, actor, sobre la felicidad: «Muéstrame un corazón que esté libre de sueños necios y te enseñaré a un hombre feliz»",
+          "entradilla": "Robin Williams fue durante décadas la persona más divertida de cualquier habitación en la que entrara. Su capacidad para improvisar, para transformarse en personajes en cuestión de segundos y para hacer reír a públicos de cualquier cultura y generación era algo que rozaba lo sobrenatural. Pero detrá",
+          "enlace": "https://okdiario.com/curiosidades/robin-williams-actor-felicidad-muestrame-corazon-que-este-libre-suenos-necios-te-ensenare-hombre-feliz-20489435"
         },
         {
-          "titulo": "Betis y Levante se salvan in extremis y en la prórroga de no caer en la primera ronda de la Copa del Rey",
-          "entradilla": "Betis, Levante y Albacete son otros tres equipos que se han clasificado para la segunda ronda de la Copa del Rey. En partidos aplazados por el terrible accidente de tren en Urda y/o por la muerte de Jesús de Miguel, estos encuentros se han jugado en época de selecciones -incluso coincidiendo con el ",
-          "enlace": "https://okdiario.com/deportes/betis-levante-salvan-in-extremis-prorroga-no-caer-primera-ronda-copa-del-rey-20828040"
+          "titulo": "Feijóo y Ayuso arrancan la campaña prometiendo a los jóvenes un año sin IRPF para el primer empleo",
+          "entradilla": "El líder del PP, Alberto Núñez Feijóo, y la presidenta madrileña, Isabel Díaz Ayuso, han arrancado este viernes la campaña de las generales del 29 de noviembre ante los jóvenes de Nuevas Generaciones, cargando contra un Gobierno que, según el candidato popular, «ha robado mucho» a los españoles, y c",
+          "enlace": "https://okdiario.com/espana/feijoo-ayuso-arrancan-campana-prometiendo-jovenes-ano-sin-irpf-primer-empleo-20893591"
         }
       ],
       "analisis": {
-        "resumen": "- España gana a la República Checa y se jugará el liderato con Inglaterra, que venció a Croacia.\n- Sancet pide la oficialidad de la selección vasca y Louzán reclama que la final del Mundial 2030 se juegue en España.\n- Siete falsas alertas de bomba movilizan a los equipos de seguridad en tres comunidades.\n- Serrat reflexiona sobre la situación política y un jubilado relata sus expectativas tras dejar de trabajar.\n- Betis y Levante avanzan en Copa; Gears of War ofrece un personaje gratuito a sus jugadores.",
-        "populismo": 18,
-        "motivo_populismo": "Predomina la información deportiva, aunque expresiones como «oleada de avisos bomba» y «España nunca falla» aportan dramatización y énfasis.",
-        "sesgo": "La portada prioriza ampliamente el fútbol, con especial atención a la selección española y un lenguaje a veces identificativo, como «nuestra selección». Con la información disponible no se aprecia una orientación política clara."
+        "resumen": "- Jordi Wild entrevista a Pedro Sánchez y cuestiona sus vacaciones durante la crisis de Ceuta.\n- Feijóo y Ayuso prometen un año sin IRPF para jóvenes en su primer empleo.\n- Baleares recurrirá el decreto de ayudas a la vivienda y reforzará la lucha contra la oferta turística ilegal.\n- La tramitación de la ley del suelo valenciana está bloqueada por la falta de una firma.\n- La portada incluye también noticias de consumo, cultura, emprendimiento y una campaña solidaria.",
+        "populismo": 32,
+        "motivo_populismo": "Expresiones como «destroza» y «rearma» dramatizan los conflictos, aunque otros titulares mantienen un tono principalmente informativo y no hay una apelación explícita del pueblo contra las élites.",
+        "sesgo": "La selección política destaca críticas a Pedro Sánchez y a una diputada de Compromís, mientras presenta medidas y propuestas de otros dirigentes. También concede espacio a contenidos de consumo y estilo de vida."
       }
     }
   ]

@@ -1,39 +1,39 @@
 {
   "pais": "Italia",
-  "fecha": "2026-11-12",
-  "turno": 18,
-  "generado": "12/11/2026 23:04",
+  "fecha": "2026-11-13",
+  "turno": 8,
+  "generado": "13/11/2026 14:58",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "Se repiten el apagón de servicios de Microsoft, las discusiones sobre el Superbonus y las medidas económicas, las amenazas de bomba en escuelas y la muerte del periodista Toni Capuozzo. También aparecen en varios diarios la salida de Jensen Huang de Nvidia y la victoria de Italia sobre Francia en fútbol. Corriere della Sera destaca en exclusiva la investigación sobre el gobernador ligur Giovanni Toti.",
-    "crispacion": 67,
-    "motivo_crispacion": "La discusión sobre el Superbonus enfrenta al Gobierno con un importante banco y, en otra de sus vertientes, a partidos de la mayoría. Se suman las críticas de magistrados y abogados a medidas legales y el choque entre historiadores y el ministro de Educación. Las amenazas de bomba en escuelas y las investigaciones en Liguria añaden inquietud y controversia, aunque algunas fuerzas opositoras ofrecen colaboración ante las amenazas. El deporte y algunas noticias tecnológicas aportan un contrapunto menos conflictivo."
+    "temas": "Se repiten las alertas de bomba y la directiva del Ministerio del Interior, la caída mundial de Outlook y el rechazo del recurso de la familia del bosque. También aparecen la propuesta fiscal de la CGIL, las críticas al Superbonus y el intercambio entre Zelenski y Meloni. Solo Corriere della Sera destaca la investigación sobre Toti y sus vínculos con el empresario Spinelli.",
+    "crispacion": 58,
+    "motivo_crispacion": "La investigación sobre Toti y las acusaciones de manipulación de datos de la pandemia generan tensión entre dirigentes de Liguria y la fiscalía. El Superbonus enfrenta a partidos de la mayoría y suscita críticas empresariales, mientras que la propuesta fiscal de la CGIL refleja el debate sobre el reparto de impuestos. En el plano internacional destacan la guerra en Ucrania y los bombardeos en Gaza. Compensan parcialmente estas noticias otras informaciones deportivas y de servicio, aunque la caída de Outlook y las alertas de bomba también reflejan preocupación."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Veo una misma lucha de clases detrás de varias noticias. Mientras los bancos combaten las medidas sobre sus créditos fiscales, el organismo parlamentario de presupuesto cuestiona las medidas sanitarias y miles de municipios corren el riesgo de perder su única escuela primaria. No acepto que la protección del capital financiero tenga más peso político que el derecho de las familias trabajadoras a la salud y la educación.\n\nLa caída mundial de servicios de Microsoft recuerda, además, cuánto dependemos de infraestructuras privadas concentradas en pocas manos. Para mí, la respuesta no es cambiar un directivo por otro, sino construir alternativas públicas y de propiedad colectiva, bajo control democrático. Una economía al servicio de quienes trabajan debe garantizar escuelas, sanidad y tecnología como bienes comunes, no subordinarlos a la rentabilidad de los grandes grupos."
+      "texto": "Hoy veo con claridad para quién se diseñan algunas políticas fiscales. Según la Oficina Parlamentaria de Presupuesto, el recorte del IRPF beneficia al 89% de los directivos y apenas al 1% de los obreros. No es una rebaja neutral: en la lucha por repartir la riqueza, favorece a quienes ya ocupan las posiciones más cómodas.\n\nPor eso apoyo la propuesta de la CGIL de gravar los grandes patrimonios y aliviar la carga sobre salarios y pensiones. Esos recursos deben fortalecer la sanidad, la educación y los demás servicios públicos. Y la caída de Microsoft, que ha afectado también a oficinas públicas y escuelas, muestra otro problema: servicios esenciales dependen de la infraestructura de un gigante privado. Defiendo alternativas de propiedad colectiva y control democrático: lo que necesitamos para vivir y trabajar no debería quedar sometido a las prioridades del gran capital."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "Hoy veo una misma pregunta detrás de noticias distintas: ¿quién decide sobre lo que necesitamos para vivir?\n\nEl informe sobre el cierre de escuelas primarias muestra lo que se pierde cuando la educación se administra desde lejos. Yo quiero comunidades educativas que decidan directamente, con docentes, familias y alumnado, y que se apoyen entre sí para sostener sus escuelas. No basta con cambiar de partido: hay que repartir el poder.\n\nLa caída mundial de servicios de Microsoft también revela nuestra dependencia de infraestructuras concentradas en pocas manos. Prefiero herramientas abiertas, gestionadas colectivamente y capaces de funcionar sin obedecer a un gigante.\n\nY ante las críticas al decreto de seguridad sobre menores, desconfío de la respuesta punitiva: proteger la libertad exige garantías, apoyo mutuo y soluciones construidas con las personas afectadas, no más autoridad sobre sus vidas."
+      "texto": "La caída de Outlook muestra hasta qué punto hemos concentrado herramientas esenciales en manos de una sola empresa. Cuando fallan sus sistemas, escuelas y oficinas públicas también sufren las consecuencias. Yo prefiero redes descentralizadas, con tecnología abierta y gestionada por quienes la usan: la autonomía colectiva también se construye en lo cotidiano.\n\nLa propuesta sindical de gravar los grandes patrimonios apunta a una desigualdad real. Pero no confío en que el Estado y los partidos, por sí solos, emancipen a quienes trabajan. Redistribuir importa; decidir juntos cómo producimos y atendemos nuestras necesidades importa tanto como eso.\n\nY ante el bombardeo del hospital Nasser en Gaza, con seis muertos, rechazo la lógica militar que convierte la vida en una variable estratégica. La solidaridad con la población civil no debería depender de fronteras ni gobiernos."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "La polémica por los créditos del Superbonus resume, para mí, un problema de fondo: el Estado crea incentivos y después pretende cambiar las condiciones cuando llega la factura. La seguridad jurídica no es un privilegio de los bancos; es la garantía que permite a familias y empresas tomar decisiones y asumir riesgos con confianza.\n\nTampoco creo que la respuesta sea acumular deuda o añadir impuestos como la tasa sobre las bebidas. La deuda traslada costes a quienes no decidieron el gasto, mientras que una fiscalidad más baja y sencilla deja a las personas mayor libertad para ahorrar, invertir y elegir. Prefiero un Estado limitado, que cumpla sus compromisos y financie responsablemente sus funciones esenciales, a otro que reparta ventajas hoy y busque quién las pague mañana. La responsabilidad personal también debe exigirse a los gobernantes."
+      "texto": "La propuesta sindical de gravar los grandes patrimonios para aliviar salarios y pensiones plantea un objetivo comprensible, pero yo prefiero reducir la carga fiscal sin convertir el ahorro y la inversión en blancos de nuevas imposiciones. Para hacerlo de forma responsable hay que revisar el gasto: financiar rebajas permanentes con deuda solo traslada la factura a otros contribuyentes.\n\nTambién me preocupa que se obligue a repartir durante más años los créditos del Superbonus. Cambiar las condiciones después de que empresas y ciudadanos hayan tomado decisiones erosiona la confianza en las reglas. Y la discusión sobre una tasa a las bebidas revela otra tentación: recurrir a impuestos específicos cada vez que el Estado busca recursos o pretende orientar conductas.\n\nDefiendo un Estado limitado que cumpla sus compromisos, proteja derechos y deje a las personas más libertad para decidir y asumir sus responsabilidades."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Me inquieta que miles de escuelas reciban amenazas mientras la política se limita a transmitir calma. Yo quiero protocolos claros, investigación eficaz y un Estado capaz de proteger a sus ciudadanos sin convertir cada emergencia en espectáculo mediático.\n\nTambién me preocupa la dependencia tecnológica que revela la caída mundial de los servicios de Microsoft. La soberanía nacional exige que Italia pueda mantener sus funciones esenciales incluso cuando fallan proveedores extranjeros. Y exige unas fronteras controladas: la memoria de las tragedias de Lampedusa y Cutro merece respeto, pero la compasión no sustituye a una política migratoria estricta, ordenada y decidida por los italianos.\n\nPor último, las escuelas en riesgo en miles de municipios no son una cifra más. Son parte de nuestras comunidades y de la transmisión de nuestras tradiciones. Defenderlas debería importar más que las disputas entre las élites."
+      "texto": "La caída de los servicios de Microsoft, que también afectó a oficinas públicas italianas, me recuerda que la soberanía no consiste solo en defender fronteras. Un Estado que depende de sistemas ajenos para comunicarse debe invertir en alternativas propias y garantizar servicios esenciales.\n\nEn materia de seguridad, apoyo que las amenazas de bomba se evalúen con rigor: no podemos paralizar el país ante cada mensaje en serie, pero tampoco convertir la prudencia en rutina burocrática. La protección de los ciudadanos es la primera obligación del Estado.\n\nMe inquieta, además, que los niños de la llamada familia del bosque sigan separados de sus padres. Respeto las decisiones judiciales y desconozco todos los detalles del caso, pero creo que la unidad familiar merece la máxima protección y que cualquier separación debe justificarse estrictamente. Demasiadas veces las élites administrativas olvidan que las familias no son expedientes."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Hoy veo una misma exigencia en debates distintos: gobernar con responsabilidad, sin convertir cada desacuerdo en una guerra.\n\nLa discusión sobre los créditos del Superbonus merece algo más que consignas. Yo quiero unas cuentas públicas sostenibles y un reparto justo de los costes, pero también reglas previsibles para quienes invierten. El Parlamento debería examinar las objeciones y corregir lo necesario, sin proteger privilegios ni castigar arbitrariamente.\n\nTambién me preocupa el riesgo que afrontan las escuelas primarias en numerosos municipios. La disciplina presupuestaria no puede ser una excusa para abandonar territorios; tampoco basta prometer que ninguna sede cerrará. Prefiero planes graduales, acordados con las comunidades, que garanticen educación accesible y de calidad.\n\nY ante las amenazas a las escuelas, celebro el diálogo entre Gobierno y oposición: cooperar no exige renunciar al control democrático."
+      "texto": "Veo en el debate fiscal una oportunidad para hacer política útil, no para intercambiar consignas. La propuesta sindical de gravar los grandes patrimonios y aliviar salarios y pensiones merece un examen serio: una economía de mercado necesita inversión, pero también una distribución de la carga que los trabajadores consideren justa. Yo buscaría un acuerdo gradual, con cuentas transparentes y atención a sus efectos sobre el ahorro y la actividad.\n\nTambién me preocupa que la caída de Outlook haya afectado a administraciones públicas. No basta con celebrar la eficiencia de los servicios digitales; debemos asegurar alternativas cuando fallen. Y ante las amenazas de bomba, comparto la necesidad de evitar alarmas injustificadas, siempre que las autoridades verifiquen los riesgos plausibles. La confianza en las instituciones se gana combinando prudencia, continuidad de los servicios y rendición de cuentas."
     }
   ],
   "periodicos": [
@@ -103,10 +103,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- La portada aborda los encuentros de Toti y otros cargos ligures con el empresario Spinelli, así como las explicaciones del alcalde de Génova.\n- Según la fiscalía, en Liguria se manipularon datos de la pandemia; una cita atribuida a Toti alude a un aumento de los contagios comunicados.\n- Se cuestiona la eficacia del nuevo código de circulación para reducir las víctimas y se destaca la tensión en el Gobierno por el Superbonus y la tasa a las bebidas azucaradas.\n- Rusia avanza hacia Járkov y Zelenski reconoce que la situación es «extremadamente difícil».\n- También aparecen noticias sobre Fedez y Camila Giorgi, una crítica al endeudamiento y consejos para invertir los ahorros.",
-        "populismo": 28,
-        "motivo_populismo": "Expresiones como «estalla el caso» y «ataques» enfatizan el conflicto, y el titular sobre acumular deuda tiene un tono valorativo, aunque predominan citas y datos sin apelaciones al pueblo contra las élites.",
-        "sesgo": "La selección da protagonismo a posibles irregularidades de cargos públicos, controversias políticas y asuntos fiscales, con un enfoque crítico hacia las autoridades. También incluye un titular de opinión que cuestiona el endeudamiento."
+        "resumen": "- Liguria concentra varios titulares sobre los encuentros de Toti con Spinelli, las reuniones en un yate y la presunta manipulación de datos de la pandemia; el alcalde de Génova pide claridad y rechaza las acusaciones.\n- La portada examina los cambios en el código de circulación y sostiene que no reducirán las víctimas.\n- Destaca el desacuerdo en la mayoría sobre el Superbonus y la tasa a las bebidas, junto a una crítica al aumento de la deuda.\n- Recoge el avance ruso hacia Járkov y la advertencia de Zelenski sobre la dificultad de la situación.\n- Incluye noticias sobre la denuncia contra Fedez y la situación fiscal de Camila Giorgi, además de consejos de inversión.",
+        "populismo": 25,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «estalla el caso» y «acumular alegremente deuda» dramatizan o simplifican los asuntos, sin una apelación clara al pueblo contra las élites.",
+        "sesgo": "La selección da especial protagonismo a posibles irregularidades políticas y a las tensiones dentro del Gobierno. Algunos titulares adoptan un enfoque crítico, en particular sobre la deuda y la eficacia de la reforma vial."
       }
     },
     {
@@ -114,71 +114,71 @@
       "web": "https://www.repubblica.it",
       "noticias": [
         {
-          "titulo": "L’abbraccio tra Prodi e Occhetto, tra ricordi e primarie: “No al voto online”",
-          "entradilla": "La visita a sorpresa del Professore nella sede della Bolognina dove si ricordava la Svolta di 37 anni fa",
-          "enlace": "https://bologna.repubblica.it/cronaca/2026/11/12/news/prodi_occhetto_primarie_no_voto_online_svolta_bolognina-425719545/"
+          "titulo": "Allarmi bomba, la direttiva di Piantedosi: “Considerate inattendibili le minacce seriali”",
+          "entradilla": "Questa la catena di comando: nel caso di rischio plausibile i questori dovranno effettuare verifiche e adottare misure di sicurezza senza interrompere, se non necessario, la continuità dei servizi. Cautela anche nella comunicazione pubblica per “non alimentare allarmi ingiustificati”",
+          "enlace": "https://www.repubblica.it/cronaca/2026/11/13/news/allarmi_bomba_circolare_viminale_mail_scuole-425721033/"
         },
         {
-          "titulo": "Microsoft down in tutto il mondo, disservizi sulla mail. L’azienda: verifiche in corso",
-          "entradilla": "Migliaia di denunce non solo per lo stop della mail di Outlook, ma anche per il guasto di Microsoft 365 e Teams",
-          "enlace": "https://www.repubblica.it/economia/2026/11/12/news/microsoft_down_in_tutto_il_mondo_disservizi_sulla_mail_negli_usa_130mila_segnalazioni-425719351/"
+          "titulo": "L’ombra di Huawei dietro l’affaire Nvidia",
+          "entradilla": "Secondo la società di intelligence Tesari, la presunta spia Alice Huang potrebbe aver detenuto partecipazioni in società cinesi che hanno beneficiato l'azienda di Pechino proprio nel periodo in cui lei intratteneva rapporti d’affari con il colosso Usa dei chip e una relazione sentimentale con il suo",
+          "enlace": "https://www.repubblica.it/esteri/2026/11/13/news/l_ombra_di_huawei_dietro_l_affaire_nvidia-425721009/"
         },
         {
-          "titulo": "Vasco, un nuovo Modena Park dieci anni dopo: ecco quando sarà",
-          "entradilla": "La conferma del sindaco Mezzetti: “Siamo quasi arrivati alla meta, tra la fine di maggio e l’inizio di giugno”",
-          "enlace": "https://bologna.repubblica.it/cronaca/2026/11/12/news/vasco_nuovo_modena_park_conferma_sindaco_ecco_quando_sara-425719239/"
+          "titulo": "Pochettino è il nuovo allenatore del Manchester United",
+          "entradilla": "Il tecnico argentino è stato liberato dall’incarico di commissario tecnico degli Stati Uniti",
+          "enlace": "https://www.repubblica.it/sport/calcio/esteri/2026/11/13/news/pochettino_manchester_united_allenatore-425720966/"
         },
         {
-          "titulo": "Tragedia a Roma, si uccide a 15 anni: “Voleva cambiare sesso”. La procura indaga per istigazione",
-          "entradilla": "I parenti della vittima hanno spiegato alla polizia che in passato l’adolescente aveva già mostrato segni di autolesionismo",
-          "enlace": "https://roma.repubblica.it/cronaca/2026/11/12/news/roma_suicidio_15enne_voleva_diventare_uomo-425719192/"
+          "titulo": "L’ex ct francese Domenech attacca l’Italia: “Debole in tutti i reparti”. Le precedenti provocazioni",
+          "entradilla": "Dopo il successo degli azzurri di Mancini a San Siro, il ct sconfitto ai rigori nella finale mondiale del 2006 non ha risparmiato critiche su X: “Quanti errori in passaggi facili, è sconcertante”",
+          "enlace": "https://www.repubblica.it/sport/calcio/nazionale/2026/11/13/news/domenech_attacca_italia_debole-425720921/"
         },
         {
-          "titulo": "L’allarme nelle scuole per una mail delirante mostra la cappa di paura in cui stiamo vivendo",
-          "entradilla": "L’intervento del pedagogista fondatore del centro psicopedagogico per la gestione dei conflitti a Piacenza: “Abbiamo perso l’adesione alla realtà, ci sembra tutto un videogioco e così il nostro immaginario collettivo si è indebolito”",
-          "enlace": "https://bologna.repubblica.it/cronaca/2026/11/12/news/daniele_novara_attacchi_scuole_sicurezza_intervento-425719124/"
+          "titulo": "Fisco, la Cgil lancia la sua riforma: patrimoniale da 26 miliardi, meno tasse su salari e pensioni",
+          "entradilla": "La pressione fiscale, denuncia il sindacato, è salita dal 41,7% del 2022 al 43,5% del 2026. L’obiettivo non è tagliare le tasse a tutti, ma redistribuire il carico fiscale e recuperare risorse",
+          "enlace": "https://www.repubblica.it/economia/2026/11/13/news/fisco_proposta_riforma_cgil_patrimoniale_tasse_salari_pensioni_irpef-425720890/"
         },
         {
-          "titulo": "Nvidia, con Colette Kress una donna sola al comando",
-          "entradilla": "Dopo le dimissioni di Jensen Huang arriva una nomina interna, dalla lunghissima esperienza alle spalle, che può essere una garanzia per gli azionisti",
-          "enlace": "https://www.repubblica.it/economia/2026/11/12/news/nvidia_con_colette_kress_una_donna_sola_al_comando-425718992/"
+          "titulo": "Famiglia nel bosco, rigettato il ricorso: i bimbi non tornano a casa. “Per ora rientro graduale”",
+          "entradilla": "La Corte d’appello respinge la richiesta di riunificazione. L'avvocato Pillon: “I bambini felici di vedere madre e padre, faremo appello in Cassazione”",
+          "enlace": "https://www.repubblica.it/cronaca/2026/11/13/news/famiglia_nel_bosco_rigettato_ricorso_bimbi_non_tornano_a_casa-425720856/"
         },
         {
-          "titulo": "Toni Capuozzo, morto l’inviato Mediaset che ha raccontato le guerre nel mondo",
-          "entradilla": "Aveva 77 anni, poche settimane fa aveva rivelato di avere un tumore. A Cologno Monzese la scritta luminosa sulla torre: “Ciao Toni”",
-          "enlace": "https://www.repubblica.it/spettacoli/tv-radio/2026/11/12/news/toni_capuozzo_morto_giornalista_mediaset-425718916/"
+          "titulo": "Eric Trump tratta con Israele: mille robot umanoidi per combattere nei tunnel di Gaza",
+          "entradilla": "La società americana Foundation Future Industries, di cui il 42enne è consigliere strategico e azionista, sta negoziano con l’Idf la vendita di mille androidi capaci di esplorare i tunnel di Hamas e, potenzialmente, combattere in autonomia. L’azienda ha ottenuto 70 milioni di dollari dal Pentagono d",
+          "enlace": "https://www.repubblica.it/esteri/2026/11/13/news/eric_trump_tratta_con_israele_mille_robot_combattere_tunnel_gaza-425720742/"
         },
         {
-          "titulo": "Manovra, l’Upb boccia le misure sulla sanità. Giorgetti: “Su pensioni differenze incostituzionali”",
-          "entradilla": "Proseguono le audizioni davanti alle commissioni Bilancio di Camera e Senato. Il testo, dopo il vertice di maggioranza di ieri, sarà sottoposto a modifiche",
-          "enlace": "https://www.repubblica.it/economia/2026/11/12/diretta/manovra_audizioni_parlamento_giorgetti_sanita_fondi_emendamenti-425718839/"
+          "titulo": "Stop import in Italia dalle colonie israeliane, la maggioranza boccia la legge delle opposizioni",
+          "entradilla": "Ora il provvedimento sarà discusso alla Camera con un relatore della Lega, il partito che ha sposato maggiormente le posizioni degli Stati Uniti e dello Stato ebraico",
+          "enlace": "https://www.repubblica.it/politica/2026/11/13/news/stop_import_colonie_israeliane_italia_centrodestra_legge_opposizioni_bocciata-425720620/"
         },
         {
-          "titulo": "Nvidia, il ceo Jensen Huang si è dimesso con effetto immediato: titolo in picchiata a Wall Street",
-          "entradilla": "La decisione dopo lo scandalo per la sua relazione con una presunta spia cinese. Testimonierà al Comgresso prima del 26 novembre. Subentra ad interim Colette Kress, attuale vicepresidente esecutivo. Trump: “Solo Tim Cook può prendere il suo posto\".",
-          "enlace": "https://www.repubblica.it/esteri/2026/11/12/news/jensen_huang_dimissioni_ceo_nvidia_spia_cinese-425718641/"
+          "titulo": "Zelensky e la frecciata a Meloni: “Da quanto tempo…? Sei tu che non volevi vedermi”",
+          "entradilla": "A Dublino, la premier fa notare che non si incontravano da mesi e lui replica con una battuta tagliente",
+          "enlace": "https://www.repubblica.it/politica/2026/11/13/news/dublino_incontro_zelensky_meloni_battuta-425720482/"
         },
         {
-          "titulo": "Il caso Huang: la giacca di pelle diventata virale. Tra immagini fake ed echi renziani",
-          "entradilla": "Una foto dell’ex CEO di Nvidia con una giacca Saint Laurent diventa virale, ma si rivela un fake. Eppure sarebbe stata il modello perfetto",
-          "enlace": "https://d.repubblica.it/fashion/moda/2026/11/12/news/il_caso_huang_la_giacca_di_pelle_diventata_virale_tra_immagini_fake_ed_echi_renziani-425718514/"
+          "titulo": "Il megayacht del magnate russo lascia Trieste: “Per tenerlo fermo pagati 27mila euro al giorno”",
+          "entradilla": "La nave disegnata Philippe Starck era stata congelata dal 2022 per le sanzioni a Mosca, ora salpa per le Marche: deve ottenere il rinnovo della certificazione",
+          "enlace": "https://www.repubblica.it/cronaca/2026/11/13/news/megayacht_magnate_russo_lascia_trieste_costo_stato-425720413/"
         },
         {
-          "titulo": "Banche, l’affondo di Messina contro il governo sui crediti del Superbonus: “Misure sudamericane”",
-          "entradilla": "L’ad di Intesa Sanpaolo davanti alla Commissione parlamentare: “Andremo alla Consulta, si rischia un cross default sul debito pubblico di cui siamo i primi investitori”. Meloni risponde da Dublino: “Scelta di giustizia”. Poi la precisazione di Palazzo Chigi: fraintendimento sul riferimento al bonus",
-          "enlace": "https://www.repubblica.it/economia/2026/11/12/news/banche_l_affondo_di_messina_contro_il_governo_misure_sudamericane_pretendiamo_rispetto-425718496/"
+          "titulo": "L’Italia può finire prima nel girone e non retrocederà. Le combinazioni per la partita con il Belgio",
+          "entradilla": "Il risultato maturato a San Siro assicura alla nazionale di Mancini la permanenza nella Lega A di Nations League",
+          "enlace": "https://www.repubblica.it/sport/calcio/nazionale/2026/11/13/news/italia_combinazioni_natioins_league_retrocessione-425720402/"
         },
         {
-          "titulo": "Figlie di un Dio minore (e il femminismo tace)",
-          "entradilla": "In fuga dai valori “materiali”, la vita di monache e suore può rivelarsi feroce e senza via d’uscita. Come conferma il sociologo Marco Marzano in un saggio shock",
-          "enlace": "https://www.repubblica.it/venerdi/2026/11/12/news/marco_marzano_ancelle_monache_suore-425718448/"
+          "titulo": "Gaza, Israele bombarda l’ospedale Nasser: sei morti, tra loro anche il medico di American Doctor",
+          "entradilla": "Distrutto il reparto di chirurgia. L’Idf: “Hamas usa gli ospedali per attività militari”. Il gruppo nega",
+          "enlace": "https://www.repubblica.it/esteri/2026/11/13/news/gaza_israele_bombarda_ospedale_nasser_sei_morti_anche_chirurgo_american_doctor-425720399/"
         }
       ],
       "analisis": {
-        "resumen": "- Prodi y Occhetto recuerdan el giro de la Bolognina y rechazan el voto en línea.\n- Microsoft sufre interrupciones mundiales; Nvidia afronta la dimisión de Jensen Huang y la caída de sus acciones.\n- La oficina presupuestaria critica medidas sanitarias, mientras un banco cuestiona al Gobierno por los créditos del Superbonus.\n- La Fiscalía investiga el suicidio de una adolescente en Roma; otro artículo aborda el miedo en las escuelas.\n- La portada recoge la muerte del periodista Toni Capuozzo, un posible concierto de Vasco y un ensayo sobre la vida de monjas y religiosas.",
-        "populismo": 35,
-        "motivo_populismo": "Predominan titulares informativos, aunque expresiones como «tragedia», «capa de miedo», «título en picado» y «el feminismo calla» aportan dramatismo y confrontación.",
-        "sesgo": "La selección destaca conflictos políticos y económicos, así como sucesos y enfoques de alarma social. Algunos artículos adoptan una mirada crítica hacia el Gobierno y hacia el feminismo, sin que se aprecie una orientación política uniforme en toda la portada."
+        "resumen": "- Interior pide tratar con cautela las amenazas de bomba repetidas y evitar alarmas injustificadas.\n- Israel bombardea el hospital Nasser de Gaza, con seis muertos; la mayoría rechaza una ley para frenar las importaciones de colonias israelíes.\n- La CGIL propone un impuesto sobre el patrimonio y rebajas fiscales para salarios y pensiones.\n- Un tribunal rechaza la reunificación inmediata de la familia que vivía en el bosque.\n- Se informa sobre una presunta conexión entre Huawei y el caso Nvidia, y sobre el nombramiento de Pochettino en el Manchester United.",
+        "populismo": 25,
+        "motivo_populismo": "Predomina la información factual, aunque expresiones como «la sombra de Huawei», «ataca a Italia» y «pullita a Meloni» introducen dramatización y confrontación.",
+        "sesgo": "La portada presta atención a decisiones del Gobierno y de la mayoría desde un enfoque que incluye sus consecuencias y las posiciones de la oposición. En Gaza recoge tanto la versión israelí como la negativa de Hamás."
       }
     },
     {
@@ -186,71 +186,71 @@
       "web": "https://www.lastampa.it",
       "noticias": [
         {
-          "titulo": "Pio Esposito trascina l'Italia: doppietta nel 3-1 alla Francia. Azzurri primi",
-          "entradilla": "Gli azzurri rimontano il gol iniziale di Olise con Esposito, autore di due reti, e Frattesi. La Nazionale di Mancini sale in testa al girone a pari punti con i francesi. Contro il Belgio basterà un pareggio per conquistare i quarti",
-          "enlace": "https://www.lastampa.it/sport/2026/11/12/news/pio_esposito_trascina_l_italia_doppietta_nel_3-1_alla_francia_azzurri_primi-15796751/"
+          "titulo": "Allarmi bomba via mail, il Viminale detta le linee guida: cosa prevede la circolare del ministero",
+          "entradilla": "La circolare di Piantedosi a prefetti e questori stabilisce quando considerare credibili le segnalazioni e come intervenire",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/13/news/allarmi_bomba_circolare_viminale_scuole_piantedosi-15797336/"
         },
         {
-          "titulo": "Achille Lauro incendia le Finals col concertone inaugurale. Cobolli: \"Ho avuto paura di non essere qui\"",
-          "entradilla": "Il cantante romano dà il via alle seste Nitto Atp Finals di Torino. Cobolli a sorpresa sul palco",
-          "enlace": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/12/news/achille_lauro_concerto_atp_finals_torino-15796732/"
+          "titulo": "Manciulli: “Mani diverse: russe, russofone e iraniane. C’è una strategia anti-democrazie”",
+          "entradilla": "Il direttore delle relazioni istituzionali della Fondazione Med-Or: «Attive anche gang giovanili locali reclutate»",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/12/news/rischio_dipendenza_intelligenza_artificiale_cybercrimine-15796509/"
         },
         {
-          "titulo": "Finals, Zverev-Jodar primo singolo: domenica alle 14.\n\nCobolli lunedì con Medvedev alle 20,30",
-          "entradilla": "Gli incontri delle prime due giornate, il via domenica 15 novembre. Lunedì 16 (alle 11,30) gli azzurri Bolelli-Vavassori contro Granollers-Zeballos; in serata Flavio, all’esordio nell’evento di fine stagione. La cerimonia dei sorteggi all’Inalpi Arena di Torino",
-          "enlace": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/12/news/atp_finals_sorteggio_gironi_cobolli_alcaraz_bolelli_vavassori-15795950/"
-        },
-        {
-          "titulo": "L’arena e come arrivarci, i biglietti e il Fan Village. Guida completa alle Atp Finals di Torino",
-          "entradilla": "Giovedì 12 novembre il “Grand Opening Show” con il concerto di Achille Lauro",
-          "enlace": "https://www.lastampa.it/torino/2026/11/12/news/atp_finals_2026_torino_guida_biglietti_trasporti_eventi-15795618/"
-        },
-        {
-          "titulo": "Outlook in tilt, migliaia senza email: blackout mondiale per Microsoft, problemi anche a Copilot",
-          "entradilla": "Caselle di posta inaccessibili e schermate bloccate",
+          "titulo": "Outlook ko in tutto il mondo, danni a milioni di persone e decine di enti. Microsoft: nessun hacker",
+          "entradilla": "Oltre 150 mila segnalazioni e ore di caos sul servizio di posta e altri sistemi di comunicazione",
           "enlace": "https://www.lastampa.it/tech/2026/11/12/news/outlook_mail_blackout_microsoft_copilot-15796495/"
         },
         {
-          "titulo": "È morto Toni Capuozzo, il giornalista che ha raccontato le guerre in prima linea: aveva 77 anni",
-          "entradilla": "Dopo le esperienze a Reporter e Panorama, nei primi anni Novanta era arrivato a Mediaset. Dal 1992 aveva seguito da inviato i principali conflitti internazionali, diventando uno dei volti più riconoscibili dell'informazione televisiva italiana",
-          "enlace": "https://www.lastampa.it/cronaca/2026/11/12/news/toni_capuozzo_morto_giornalista_77_anni-15796217/"
+          "titulo": "Guasto globale a Microsoft: che cosa è successo e quando tornerà tutto a funzionare?",
+          "entradilla": "L'interruzione ha colpito aziende, enti governativi e persino gli stessi dipendenti di Microsoft. Ecco cosa è successo secondo l’azienda",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/13/news/guasto_globale_microsoft_cause_tempi_ripristino_servizi-15797154/"
         },
         {
-          "titulo": "Trans a quindici anni si toglie la vita: “Era vittima dei bulli”",
-          "entradilla": "Roma, s’indaga per istigazione al suicidio: disposta l’autopsia. L’adolescente aveva intrapreso il percorso di affermazione di genere",
-          "enlace": "https://www.lastampa.it/cronaca/2026/11/12/news/roma_ragazza_suicida_15_anni_cambio_sesso-15796420/"
+          "titulo": "Tasse, la Cgil lancia la sua riforma: rivedere Irpef e Irap, tassare i grandi patrimoni",
+          "entradilla": "Per il sindacato guidato da Landini tutti i redditi vanno tassati allo stesso modo. Previsto un contributo di solidarità sopra 2 milioni di euro di patrimonio per ricavare 26 miliardi di gettito",
+          "enlace": "https://www.lastampa.it/economia/2026/11/13/news/tasse_la_cgil_lancia_la_sua_riforma_rivedere_irpef_e_irap_tassare_i_grandi_patrimoni-15797295/"
         },
         {
-          "titulo": "Nvidia, Jensen Huang rassegna le dimissioni dopo gli scandali sulle due amanti. Crolla il titolo",
-          "entradilla": "L’uscita dopo 33 anni nell’azienda, al suo posto la direttrice finanziaria Colette Kress con un incarico ad interim. Al Nasdaq il calo supera il 13%",
-          "enlace": "https://www.lastampa.it/economia/2026/11/12/news/nvidia_jensen_huang_rassegna_le_dimissioni_da_ceo-15796046/"
+          "titulo": "I dipendenti pubblici e il miraggio del Tfr: “Migliaia di pensionati in attesa per anni”",
+          "entradilla": "Lo stop provvisorio al pagamento immediato della liquidazione fu deciso nel 1997 dal governo Prodi per esigenze di liquidità. L’ultimatum della Corte scade nel 2027, si rischia un’ondata di ricorsi per la violazione del diritto alla giusta retribuzione",
+          "enlace": "https://www.lastampa.it/nord-ovest/2026/11/13/news/dipendenti_pubblici_tfr_pensionati_piemonte-15797197/"
         },
         {
-          "titulo": "Chi è Kimberly Powell, la seconda amante del capo di Nvidia Huang: la manager e il video in hotel",
-          "entradilla": "Ha 48 anni, è ingegnere e lavora dal 2008 nel colosso americano dei chip. Guida il settore sanitario e risponde direttamente a Jensen Huang. La relazione sarebbe stata scoperta durante una conferenza in California",
-          "enlace": "https://www.lastampa.it/esteri/2026/11/12/news/kimberly_powell_nvidia_jensen_huang_video-15795777/"
+          "titulo": "Irpef, la beffa del taglio che privilegia i ricchi: “Meno tasse per l’89% dei dirigenti e l’1% degli operai”",
+          "entradilla": "L’Ufficio parlamentare di bilancio critica la misura della manovra. E ricorda che ci sono troppe disparità che possono amplificarsi a breve",
+          "enlace": "https://www.lastampa.it/economia/2026/11/13/news/allarme_upb_taglio_irpef_privilegi_ricchi-15796649/"
         },
         {
-          "titulo": "L’ex ceo di Apple Tim Cook in lizza per guidare Nvidia. Con il sostegno di Trump",
-          "entradilla": "Il fondatore e amministratore delegato lascia dopo le rivelazioni su presunte relazioni extraconiugali e spionaggio. Il titolo crolla in Borsa e si apre la questione della successione. Tra i possibili candidati anche l’ex Ceo di Apple, supportato dal presidente Usa",
-          "enlace": "https://www.lastampa.it/tech/2026/11/12/news/nvidia_jensen_huang_uscita_tim_cook_nuovo_ceo-15795853/"
+          "titulo": "Precipitano dal tetto di Palazzo Nuovo a Torino, gravi due writers. Bernini: “Riaprite l’ateneo”",
+          "entradilla": "L’incidente nella notte. I due non sono in pericolo di vita: scatta la denuncia dei carabinieri",
+          "enlace": "https://www.lastampa.it/torino/2026/11/13/news/tetto_palazzo_nuovo_writers_feriti-15797063/"
         },
         {
-          "titulo": "Colette Kress, la donna dei conti nuova Ceo (ad interim) di Nvidia",
-          "entradilla": "Forbes la colloca al 32esimo posto nella classifica del 2026 delle donne americane più ricche che si sono «fatte da sole»",
-          "enlace": "https://www.lastampa.it/tech/2026/11/12/news/colette_kress_nvidia_ceo_carriera_ruolo-15796305/"
+          "titulo": "“Rigettato il ricorso della famiglia del bosco”: i bambini per ora non tornano a casa",
+          "entradilla": "La Corte abruzzese ha deciso di confermare la validità della Consulente tecnica e di convalidare l'ordinanza del Tribunale minorile",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/13/news/rigettato_il_ricorso_della_famiglia_del_bosco_i_bambini_restano_in_casa_famiglia-15797291/"
         },
         {
-          "titulo": "Allarmi bomba nelle scuole, il governo: “Non evacuate”. Adottati i protocolli sicurezza",
-          "entradilla": "Palazzo Chigi: «Quelle raggiunte da minacce via e-mail sono state 3.778, le evacuazioni sono state 77»",
-          "enlace": "https://www.lastampa.it/cronaca/2026/11/12/diretta/allarme_bombe_scuole_oggi_aggiornamenti-15795824/"
+          "titulo": "Monica Bussetto torna libera dopo oltre 10 anni. La Corte d’Appello: “Non uccise la vicina”",
+          "entradilla": "L’infermiera, in carcere dal 2012, stava scontando la condanna in via definitiva a 25 anni. Decisiva la nuova prova acquisita da un giornalista delle “Iene”",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/13/news/monica_bussetto_assolta_torna_libera_revisione_processo_iene_trento-15797331/"
+        },
+        {
+          "titulo": "Auto-bomba a Mosca, ferito l’ex consigliere del premier ucraino che lavorò col filorusso Yanukovich",
+          "entradilla": "Kallas: «Discutere ora di sicurezza europea significa cadere nella trappola russa. Mosca vuole distogliere attenzione dal cessate il fuoco»",
+          "enlace": "https://www.lastampa.it/esteri/2026/11/13/diretta/guerra_russia_ucraina_news_oggi-15796797/"
+        },
+        {
+          "titulo": "La frecciatina di Zelensky a Meloni. Lei: “Non ci vediamo da tanto”. Lui “Sei tu che non volevi”",
+          "entradilla": "“Non ci vediamo da tanto”, dice Giorgia Meloni salutando Volodymyr Zelensky. “Sei tu che non volevi”, ribatte il presidente ucraino. Lo scambio apre il video diffuso da Zelensky dopo il bilaterale del 12 novembre a Dublino, a margine del vertice della Comunità politica europea. Nel colloquio i due h",
+          "enlace": "https://www.lastampa.it/esteri/2026/11/13/video/zelensky_meloni_frecciatina_dublino-15797254/"
         }
       ],
       "analisis": {
-        "resumen": "- Italia vence 3-1 a Francia con dos goles de Pio Esposito y alcanza el liderato de su grupo.\n- Las ATP Finals de Turín protagonizan varias noticias, con horarios, guía para asistentes y el concierto inaugural de Achille Lauro.\n- Nvidia afronta la salida de Jensen Huang tras revelaciones sobre presuntas relaciones extraconyugales; Colette Kress asume el cargo de forma interina y se especula sobre la sucesión.\n- Un fallo de Microsoft deja a miles de usuarios sin correo; el Gobierno italiano informa sobre amenazas de bomba en escuelas y protocolos de seguridad.\n- Muere el periodista Toni Capuozzo a los 77 años; en Roma se investiga el suicidio de una adolescente trans que, según el titular, sufría acoso.",
+        "resumen": "- El Ministerio del Interior fija criterios para responder a amenazas de bomba; un responsable de Med-Or alerta de una estrategia contra las democracias.\n- Un fallo mundial de Microsoft interrumpe Outlook y otros servicios; la empresa descarta un ataque informático.\n- La CGIL propone una reforma fiscal; otros titulares destacan las desigualdades del recorte del IRPF y la espera del pago de la indemnización de jubilación de empleados públicos.\n- Dos jóvenes resultan heridos en Turín; la justicia confirma una decisión sobre la llamada familia del bosque y deja en libertad a Monica Bussetto.\n- Un coche bomba hiere en Moscú a un antiguo asesor ucraniano; otro titular recoge un intercambio entre Zelenski y Meloni.",
         "populismo": 25,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «incendia» y «enloquecido» no aparecen juntas: el titular usa «incendia» y otros emplean términos llamativos como «blackout mundial» y destacan detalles de presuntas relaciones privadas.",
-        "sesgo": "La selección muestra un claro enfoque deportivo, especialmente en el fútbol italiano y las ATP Finals de Turín. También dedica varias piezas a Nvidia, con atención tanto a las consecuencias empresariales como a los aspectos personales de las revelaciones."
+        "motivo_populismo": "Expresiones como «la beffa» del recorte que favorece a los ricos, «il miraggio» del pago y «ore di caos» aportan carga emocional, aunque predominan titulares informativos y atribuidos.",
+        "sesgo": "La selección presta atención a las desigualdades fiscales y laborales, con un enfoque crítico sobre los efectos del recorte del IRPF. En seguridad y política internacional recoge advertencias y declaraciones de sus protagonistas."
       }
     },
     {
@@ -258,71 +258,71 @@
       "web": "https://www.ilgiornale.it",
       "noticias": [
         {
-          "titulo": "Addio a Toni Capuozzo, volto rassicurante degli scenari di guerra più drammatici",
+          "titulo": "Le parole choc dell’imam di Segrate schedato come terrorista scatenano l’ira del centrodestra. E da sinistra solo il silenzio",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/attualita/addio-a-toni-capuozzo-volto-rassicurante-degli-scenari-di-guerra-piu-drammatici/"
+          "enlace": "https://www.ilgiornale.it/news/attualita/le-parole-choc-dellimam-di-segrate-schedato-come-terrorista-scatenano-lira-del-centrodestra-e-da-sinistra-solo-il-silenzio/"
         },
         {
-          "titulo": "Il cordoglio del mondo politico e del giornalismo",
+          "titulo": "L’imam di Segrate schedato come terrorista: “Con Hamas si parla. I gay? Sono dei malati, e la poligamia va bene ma solo per i maschi”",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/attualita/il-cordoglio-del-mondo-politico-per-la-scomparsa-di-capuozzo/"
+          "enlace": "https://www.ilgiornale.it/news/politica-internazionale/ali-abu-swaima-con-hamas-si-parla-i-gay-sono-dei-malati-e-la-poligamia-va-bene-ma-solo-per-i-maschi/"
         },
         {
-          "titulo": "Pier Silvio Berlusconi ricorda Toni Capuozzo: “Un uomo di grande umanità”",
+          "titulo": "L’Italia chiede i danni ad Hannoun e soci",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/attualita/pier-silvio-berlusconi-ricorda-toni-capuozzo-un-uomo-di-grande-umanita/"
+          "enlace": "https://www.ilgiornale.it/news/governo/litalia-chiede-i-danni-ad-hannoun-e-soci/"
         },
         {
-          "titulo": "Le guerre in Tv di Toni Capuozzo - FOTO",
+          "titulo": "Sentenza choc in Arabia Saudita: 100 frustate per un parto fuori dal matrimonio",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/gallery/attualita/le-guerre-di-tv-di-toni/"
+          "enlace": "https://www.ilgiornale.it/news/cronaca-internazionale/sentenza-choc-in-arabia-saudita-100-frustate-per-un-parto-fuori-dal-matrimonio/"
         },
         {
-          "titulo": "I 90 anni di Silvio. Dall’Ucraina a Trump, la ricetta di Berlusconi per la politica di oggi. Meloni? Sarebbe fiero",
+          "titulo": "“Non accetto ultimatum”. Calenda caccia D’Amato da Azione con un post",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/interni/dallucraina-a-trump-ecco-la-sua-ricetta-per-la-politica-di-oggi-meloni-sarebbe-fiero/"
+          "enlace": "https://www.ilgiornale.it/news/interni/non-accetto-ultimatum-calenda-caccia-damato-da-azione-con-un-post/"
         },
         {
-          "titulo": "Allarmi bomba, manovra e Ucraina: il punto di Meloni su tutti i dossier del governo",
+          "titulo": "Oltre la favola del “modello Lazio”: cambi di casacca e dossier scomodi",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/europa/allarmi-bomba-manovra-e-ucraina-il-punto-di-meloni-su-tutti-i-dossier-del-governo/"
+          "enlace": "https://www.ilgiornale.it/news/politica/damato-oltre-la-favola-del-modello-lazio-cambi-di-casacca-e-dossier-scomodi/"
         },
         {
-          "titulo": "Allarmi bomba, minacce a Palazzo Chigi e a 3.778 scuole: indaga l’Antiterrorismo. La pista delle mail inviate dall’estero",
+          "titulo": "Allarmi bomba, la circolare del Viminale: “Minaccia inattendibile se arriva dallo spam”",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/nazionale/nuove-minacce-a-piu-di-1800-scuole-e-a-palazzo-chigi-nota-del-ministero-dellistruzione-senza-elementi-oltre-alla-mail-non-evacuare/"
+          "enlace": "https://www.ilgiornale.it/news/politica/la-circolare-del-viminale-minaccia-inattendibile-se-attraverso-mail-bombing/"
         },
         {
-          "titulo": "Allarmi bomba, concluso l’incontro con le opposizioni. Conte: “Proposte le faccia il governo”. Schlein: “Disponibili a collaborare, ma no a deleghe in bianco”. Calenda: “Bene la riunione”. Renzi critico",
+          "titulo": "L’infermiera Monica Busetto torna libera dopo 13 anni in carcere: “Non uccise lei la vicina”",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/interni/allarmi-bomba-concluso-lincontro-con-le-opposizioni-conte-proposte-le-faccia-il-governo-schlein-disponibili-a-collaborare-ma-no-a-deleghe-in-bianco-calenda-bene-la-riunione-renzi-critico/"
+          "enlace": "https://www.ilgiornale.it/news/cronaca-giudiziaria/linfermiera-monica-busetto-torna-libera-dopo-10-anni-in-carcere-non-uccise-lei-la-vicina/"
         },
         {
-          "titulo": "“Caos persistente”. L’hacker Andropov e quel filo rosso che parte dai droni",
+          "titulo": "Famiglia del bosco, rigettato il ricorso dei genitori. I bambini non tornano a casa",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/attualita/caos-persistente-lhacker-andropov-e-quel-filo-rosso-che-parte-dai-droni/"
+          "enlace": "https://www.ilgiornale.it/news/nazionale/famiglia-del-bosco-rigettato-il-ricorso-dei-genitori/"
         },
         {
-          "titulo": "Nel liceo romano occupato arriva il “corso barricate” in vista della manifestazione del 20 novembre",
+          "titulo": "Outlook down in tutto il mondo, problemi anche su Teams e alle compagnie aeree. Microsoft: “Continui progressi, miglioramenti sostenuti in Europa” “Non è un problema doloso”: cosa accade ai server. Le possibili cause",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/attualita/nel-liceo-romano-occupato-arriva-il-corso-barricate-in-vista-della-manifestazione-del-20-novembre/"
+          "enlace": "https://www.ilgiornale.it/news/entertainment-e-servizi/outlook-down-in-tutto-il-mondo-problemi-anche-su-teams-e-alle-compagnie-aeree-microsoft-continui-progressi-miglioramenti-sostenuti-in-europa/"
         },
         {
-          "titulo": "Allarmi bomba e attacchi hacker in Europa: cosa c’è dietro l’ondata di sabotaggi e il sospetto di una regia coordinata",
+          "titulo": "Torino, due writers precipitano durante l’occupazione dell’università: sono gravi",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/politica-internazionale/allarmi-bomba-e-attacchi-hacker-in-europa-cosa-ce-dietro-londata-di-sabotaggi-e-il-sospetto-di-una-regia-coordinata/"
+          "enlace": "https://www.ilgiornale.it/news/attualita/torino-due-writers-precipitano-durante-loccupazione-delluniversita-sono-gravi/"
         },
         {
-          "titulo": "Agenda rossa, perquisito Gianni De Gennaro",
+          "titulo": "“Ci libereremo di te”. 22 tifosi a giudizio per le minacce a Lotito",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/cronaca-giudiziaria/agenda-rossa-perquisito-gianni-de-gennaro/"
+          "enlace": "https://www.ilgiornale.it/news/cronaca-giudiziaria/ci-libereremo-di-te-22-tifosi-a-giudizio-per-le-minacce-a-lotito/"
         }
       ],
       "analisis": {
-        "resumen": "- Despedida al periodista Toni Capuozzo y reacciones del mundo político y periodístico.\n- Alarmas de bomba contra Palazzo Chigi y 3.778 escuelas; investiga la unidad antiterrorista.\n- Reunión del Gobierno con la oposición y sospechas sobre una posible coordinación de sabotajes y ataques informáticos.\n- Silvio Berlusconi y su visión de la política actual; Meloni repasa los asuntos del Gobierno.\n- Un instituto ocupado en Roma ofrece un «curso de barricadas» y se informa de un registro a Gianni De Gennaro.",
-        "populismo": 25,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «caos persistente», «oleada de sabotajes» y «curso de barricadas» aportan dramatismo.",
-        "sesgo": "La portada dedica amplia atención a las amenazas de seguridad y da protagonismo a figuras gubernamentales y a Silvio Berlusconi, aunque también recoge las posiciones de la oposición."
+        "resumen": "- Las declaraciones del imán de Segrate provocan la ira de la centroderecha; la portada reprocha el silencio de la izquierda.\n- Italia reclama daños a Hannoun y sus asociados; en Arabia Saudí se informa de una condena a 100 latigazos por un parto fuera del matrimonio.\n- Calenda expulsa a D’Amato de Azione y se cuestiona el llamado «modelo Lazio».\n- Una enfermera queda libre tras 13 años de cárcel; se rechaza el recurso de los padres de la llamada «familia del bosque».\n- También destacan fallos mundiales de Microsoft, alertas de bomba, dos jóvenes heridos en Turín y amenazas a Lotito.",
+        "populismo": 65,
+        "motivo_populismo": "Expresiones como «palabras choc», «solo el silencio» de la izquierda y la «fábula» del modelo Lazio recurren al impacto emocional y al enfrentamiento político, aunque otros titulares mantienen un tono informativo.",
+        "sesgo": "La portada destaca las reacciones de la centroderecha y presenta de forma crítica a la izquierda por su supuesto silencio. También adopta un enfoque desfavorable hacia el llamado «modelo Lazio»."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://www.ilfattoquotidiano.it",
       "noticias": [
         {
-          "titulo": "Italia, così è bello: lezione di grinta alla Francia di Zidane, a San Siro finisce 3-1 per gli azzurri di Mancini",
-          "entradilla": "Quel grande mistero che accompagna da sempre il calcio ed è una delle ragioni per le quali è diventato lo sport più popolare del mondo è apparso in tutta la sua grandezza a Milano, nella cosiddetta Scala del calcio, che con la bordata di fischi all’inno francese si è comportata peggio dello scantina",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/12/italia-francia-3-1-mancini-notizie/8570175/"
+          "titulo": "Allarmi bomba, la direttiva di Piantedosi: “Considerate inattendibili le minacce seriali”",
+          "entradilla": "“È da ritenersi inattendibile la minaccia che presenti carattere manifestamente seriale, risultando costituita da messaggi identici o sostanzialmente analoghi aventi la medesima provenienza e indirizzati indiscriminatamente a una pluralità di destinatari”. È l’indicazione contenuta nella circolare d",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/13/allarmi-bomba-piantedosi-minacce-seriali-notizie/8570807/"
         },
         {
-          "titulo": "Outlook in down, problemi per i servizi Microsoft (compresa la mail) in tutto il mondo",
-          "entradilla": "Mail fuori uso, migliaia e migliaia di segnalazioni. In queste ore si stanno verificando in varie parti del mondo problemi coi servizi Microsoft, compreso il sistema per la posta elettronica Outlook. A confermarlo è la società sui suoi profili social: “Mentre lavoriamo per mitigare l’impatto – si le",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/12/outlook-down-microsoft365-problemi-notizie/8570022/"
+          "titulo": "L’Italia domina contro la Francia, ma Domenech boccia gli azzurri: “Livello tecnico sconcertante, quanti errori”",
+          "entradilla": "L’Italia dà una lezione alla Francia in Nations League, ma nonostante la bella vittoria che vale anche il sorpasso in vetta degli azzurri ai danni dei Bleus nella classifica del girone, per gli azzurri di Mancini sono arrivate diverse critiche da parte di Raymond Domenech. L’ex ct dei transalpini, c",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/13/nations-league-italia-francia-domenech-critiche-debolezza-livello-tecnico-sconcertante/8570762/"
         },
         {
-          "titulo": "“Non ci facciamo intimidire”. Gli storici sfidano Valditara: “Ritiro del nostro manuale? Vuole la scuola dell’asservimento”",
-          "entradilla": "“Non ci facciamo intimidire”. Dopo la presa di posizione di Alessandro Laterza, responsabile della divisione scolastica e amministratore delegato della omonima casa editrice contro il ministro dell’Istruzione e del Merito, Giuseppe Valditara, che ha chiesto di ritirare il libro Trame del tempo giudi",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/12/trame-tempo-autori-valditara-notizie/8569991/"
+          "titulo": "“Ho avuto un tumore alla gola causato dal Papilloma virus, quando ho ricevuto la diagnosi mi sono congelata”: il racconto di Paola Barale",
+          "entradilla": "“Non ho mai voluto che nessuno mi parlasse e mi trattasse come una persona malata, se non i medici, all’occorrenza”. Paola Barale alle telecamere de “Le Iene” rivela di aver ricevuto la diagnosi di carcinoma al terzo stadio. Il tumore, nel suo caso, è stato causato dal Papilloma virus, e ora la show",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/13/ho-avuto-un-tumore-alla-gola-causato-dal-papilloma-virus-quando-ho-ricevuto-la-diagnosi-mi-sono-congelata-il-racconto-di-paola-barale/8570796/"
         },
         {
-          "titulo": "Decreto sicurezza, l’Anm boccia le norme sui minori: “Incostituzionali”. Critiche anche ai fermi preventivi e al danneggiamento aggravato",
-          "entradilla": "L’Anm ha bocciato il decreto sicurezza e anti-criminalità minorile, varato dal governo Meloni dopo i danneggiamenti nel centro di Milano, del 17 ottobre. È l’ennesimo decreto con nuovi reati che in gran parte si sovrappongono a reati già esistenti, creando un caos di leggi e che è in discussione all",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/12/decreto-sicurezza-anm-minori-notizie/8569953/"
+          "titulo": "“Ballando con le stelle” accoglie Paolo Belli dopo l’incidente. Il cantante sarà ballerino per una notte",
+          "entradilla": "Paolo Belli ha annunciato ad inizio novembre di essere pronto a tornare a fare concerti, dopo la morte di Alessandro Magnani nelle campagne tra Correggio e Campagnola, investito dalla bicicletta dell’artista. Fanpage ora ha svelato che l’ex braccio destro di Milly Carlucci tonerà sulla pista da ball",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/13/ballando-con-le-stelle-accoglie-paolo-belli-dopo-lincidente-il-cantante-sara-ballerino-per-una-notte/8570782/"
         },
         {
-          "titulo": "Manovra, Messina (Intesa) attacca: “Sulle banche misure sudamericane”. Meloni: “Scelta di giustizia”. Giorgetti: “Rivendico la politica asburgica”",
-          "entradilla": "“Formule sudamericane di gestione del debito”. L’amministratore delegato di Intesa Sanpaolo, Carlo Messina, si è scagliato contro le misure sulle banche contenute nella manovra del governo Meloni. In particolare, il banchiere contesta la decisione di diluire in dieci anni i crediti fiscali legati ai",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/12/manovra-banche-superbonus-messina-notizie/8569906/"
+          "titulo": "“La mia dieta a 98 anni è modesta, peso 52kg. Bisogna mangiare poco, evitare il vino e limitare la carne. Sonno e movimento fondamentali”: così il professor Silvio Garattini",
+          "entradilla": "Il professor Silvio Garattini ha festeggiato il suo 98esimo compleanno in diretta televisiva, celebrando il traguardo lo scorso 12 novembre collegandosi con il programma pomeridiano di Rai Uno “La volta buona”, condotto da Caterina Balivo. Il fondatore e presidente dell‘Istituto di Ricerche Farmacol",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/13/la-mia-dieta-a-98-anni-e-modesta-peso-52kg-bisogna-mangiare-poco-evitare-il-vino-e-limitare-la-carne-sonno-e-movimento-fondamentali-cosi-il-professor-garattini/8570765/"
         },
         {
-          "titulo": "Inchiesta Borsellino, perquisizioni per l’ex capo della Polizia De Gennaro: “Pressioni sul pentito Contorno”. Per i pm i depistaggi servivano “per agevolare interessi di potere diversi e più compositi di Cosa Nostra”",
-          "entradilla": "La Procura di Caltanissetta ha incaricato i carabinieri del Ros di eseguire, giovedì mattina, decreti di perquisizione nell’ambito dell’inchiesta sulla strage di via D’Amelio e sulla scomparsa dell’agenda rossa del giudice Paolo Borsellino. Tra le persone perquisite ci sono anche l’ex capo della Pol",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/12/depistaggio-borsellino-de-gennaro-perquisizioni-notizie/8569902/"
+          "titulo": "“Ecco perché Microsoft down non è un attacco hacker: plausibile l’errore umano o di un agente di Intelligenza artificiale”",
+          "entradilla": "Mail di Microsoft a singhiozzo in tutto il mondo, ma stavolta l’attacco informatico pare escluso con l’ombra dell’errore umano oppure di un agente di Intelligenza artificiale. I bollettini del colosso di Redmond, pubblicati sulla piattaforma X, sono l’unica fonte di informazioni. Per ora nessuna ver",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/13/microsoft-down-escluso-attacco-hacker-notizie/8570695/"
         },
         {
-          "titulo": "In 3mila Comuni a rischio l’unica primaria: in dieci anni chiuse 1.571 sedi. Il report di Save The Children",
-          "entradilla": "Una scuola che perde alunni, sedi e presìdi territoriali, proprio mentre è chiamata a contrastare disuguaglianze, povertà educativa e isolamento sociale. È il quadro tracciato dalla XVII edizione dell’Atlante dell’infanzia a rischio di Save the Children, intitolata “Scuola liberatutti”, diffusa in v",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/12/scuole-primarie-rischio-comuni-save-children-notizie/8569895/"
+          "titulo": "Frane, allagamenti, disagi e scuole per l’ondata di maltempo: oltre 340 interventi dei vigili del fuoco. Due anziani salvati nello Spezzino",
+          "entradilla": "Dalla Liguria alle Marche, passando per Toscana e Friuli Venezia-Giulia, piogge intense e allagamenti provocano evacuazioni, strade interrotte e danni alle aziende agricole. A Sant’Angelo in Vado scuole chiuse e autobotti per i disservizi all’acquedotto. Liguria, il salvataggio di due anziani alla S",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/13/maltempo-italia-frane-allagamenti-notizie/8570748/"
         },
         {
-          "titulo": "Gli avvocati scioperano contro la tutela delle vittime di reato in Costituzione: “Mette a rischio i diritti degli accusati”",
-          "entradilla": "Cinque giorni di sciopero contro una frase: “La Repubblica tutela le vittime di reato”. L’Unione delle Camere penali, l’associazione “politica” degli avvocati penalisti, proclama l’astensione dalle udienze dal 23 al 27 novembre per contestare la proposta di legge bipartisan che inserisce all’articol",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/12/sciopero-camere-penali-tutela-vittime-costituzione-notizie/8569772/"
+          "titulo": "Patrimoniale ai ricchi: prima delle proposte eccezionali, andrebbero recuperate quelle ordinarie",
+          "entradilla": "La tassa sui miliardari, la proposizione 40, non ce l’ha fatta nel referendum in California. I miliardari hanno speso 379 milioni di dollari contro i 35 degli avversari nel marketing elettorale e hanno ottenuto l’effetto sperato. La proposta di tassazione degli ultra ricchi, con un’aliquota del 5% d",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/13/tassa-patrimoniale-italia-california-debito-analisi/8567991/"
         },
         {
-          "titulo": "Irpef, la stangata finale sui redditi medi: altro che meno tasse, l’anno prossimo causa inflazione pagheranno più che nel 2021",
-          "entradilla": "Un mosaico di “interventi di sostegno frammentati, diversi dei quali temporanei”, cioè validi solo per l’anno delle elezioni. Bonus che rendono ancora più complessa la struttura già dadaista del sistema fiscale italiano e che consumano “integralmente gli spazi di bilancio disponibili, esaurendo quel",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/12/irpef-manovra-2027-redditi-medi-stangata-drenaggio-fiscale/8569607/"
+          "titulo": "Amori a tre e più, West Hollywood in California dice sì: approvata la registrazione delle relazioni poliamorose",
+          "entradilla": "Tre partner, un solo documento. Da oggi, in questa città alle porte di Los Angeles, chi vive una relazione con più di una persona può chiedere che il Comune la riconosca ufficialmente. Il Consiglio comunale ha approvato all’unanimità un’ordinanza voluta dal sindaco John Heilman, che apre il registro",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/13/amori-a-tre-e-piu-west-hollywood-in-california-dice-si-approvata-la-registrazione-delle-relazioni-poliamorose/8570717/"
         },
         {
-          "titulo": "Migranti, la memoria delle stragi di Lampedusa e Cutro in mostra a Milano: cento fotografie, video, testimonianze",
-          "entradilla": "Cento fotografie di oggetti appartenuti a chi non è mai arrivato a destinazione, ritratti dei sopravvissuti, immagini delle tombe e testimonianze dei familiari delle vittime. La memoria delle stragi di migranti nel Mediterraneo Centrale diventa una mostra che si intitola “Archivio del mare – Memorie",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/12/stragi-migranti-lampedusa-cutro-mostra-milano/8569742/"
+          "titulo": "Dal Comune di Firenze alla Regione Calabria: il down di Outlook manda in tilt le email degli uffici pubblici. Disagi anche in centri per l’impiego e scuole",
+          "entradilla": "“Si comunica che oggi potrebbero presentarsi problemi nell’invio di posta elettronica ordinaria verso le caselle del comune di Firenze”. Quella del capoluogo toscano non è l’unica amministrazione locale a risentire del down del pacchetto Microsoft 365, e nello specifico del servizio di email Outlook",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/13/down-microsoft-365-outlook-pubblica-amministrazione-notizie/8570550/"
         },
         {
-          "titulo": "Call of Duty: Modern Warfare 4 – la recensione: una delle migliori campagne in singolo della saga e un multiplayer impeccabile dal day one",
-          "entradilla": "Infinity Ward chiude la quadrilogia reboot di Modern Warfare in un momento tutt’altro che semplice per il brand. Dopo l’accoglienza tiepida e le vendite deludenti di Black Ops 7 dello scorso anno, Modern Warfare 4 aveva il compito di restituire entusiasmo a una community affaticata, e lo fa partendo",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/12/call-of-duty-modern-warfare-4-la-recensione-una-delle-migliori-campagne-in-singolo-della-saga-e-un-multiplayer-impeccabile-dal-day-one/8569071/"
+          "titulo": "Le imprese al governo: “Stop allo spalma Superbonus, drena liquidità”. Le pmi chiedono altri interventi contro il caro energia",
+          "entradilla": "Il giorno dopo il pesante affondo dell’ad di Intesa Carlo Messina contro la norma che obbliga a spalmare in dieci anni i crediti fiscali del Superbonus che sarebbero stati utilizzabili nel 2027, il governo incontra a Palazzo Chigi le parti sociali. Al mattino è la volte delle associazioni imprendito",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/13/superbonus-spalma-crediti-imprese-banche-notizie/8570673/"
         },
         {
-          "titulo": "RayNeo GT Max: un display indossabile per un’esperienza cinematografica da maxi schermo e comparto audio firmato BO",
-          "entradilla": "Annunciati a fine agosto, i RayNeo GT Max sono degli occhiali per la realtà aumentata che integrano due display tandem Micro-OLED ed un sistema quad-speaker targato Bang & Olufsen, pensati per offrire un’esperienza cinematografica con uno schermo virutale da 267″ ovunque li si porti. A prima vista i",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/12/rayneo-gt-max-occhiali-realta-aumentata-recensione/8569507/"
+          "titulo": "Mieli, Montanari e Sciorilli Borrelli ospiti di Sommi ad Accordi&Disaccordi sabato 14 novembre. Con Travaglio e Scanzi",
+          "entradilla": "Il racconto dell’attualità è protagonista il sabato in prima serata sul Nove con il talk di confronto, discussione e approfondimento “Accordi & Disaccordi”, condotto da Luca Sommi. Sabato 14 novembre alle 21:30 sono ospiti i giornalisti Paolo Mieli e Silvia Sciorilli Borrelli e il rettore dell’Unive",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/13/mieli-montanari-e-sciorilli-borrelli-ospiti-di-sommi-ad-accordidisaccordi-sabato-14-novembre-con-travaglio-e-scanzi/8569129/"
         }
       ],
       "analisis": {
-        "resumen": "- Italia vence a Francia por 3-1; se registran silbidos al himno francés en San Siro.\n- Una incidencia afecta a Outlook y otros servicios de Microsoft en todo el mundo.\n- Historiadores y jueces critican, respectivamente, la petición de retirar un manual escolar y el decreto de seguridad; también hay desacuerdo por las medidas sobre la banca.\n- La investigación sobre Borsellino incluye registros al exjefe de Policía De Gennaro; los penalistas anuncian una huelga por los derechos de los acusados.\n- Un informe alerta sobre el cierre de escuelas; la portada aborda además el impuesto sobre la renta, una exposición sobre migración y novedades de videojuegos y tecnología.",
-        "populismo": 35,
-        "motivo_populismo": "Expresiones como «stangata» y «altro che meno tasse», junto con verbos de confrontación como «attacca» y «sfidano», intensifican el conflicto, aunque no aparece una apelación clara al pueblo contra las élites.",
-        "sesgo": "La selección y la redacción destacan críticas a varias medidas del Gobierno, especialmente en educación, seguridad y fiscalidad. También recogen respuestas de representantes gubernamentales en la noticia sobre la banca."
+        "resumen": "- Una directiva indica que las amenazas de bomba manifiestamente seriales deben considerarse poco fiables.\n- La caída de servicios de Microsoft afecta a correos y oficinas públicas; se apuntan como posibles causas un error humano o de inteligencia artificial.\n- El temporal provoca inundaciones, desprendimientos y evacuaciones, con más de 340 intervenciones de bomberos.\n- Las empresas piden cambios en el Superbonus y medidas contra el alto coste de la energía; otro artículo aborda la tributación de las grandes fortunas.\n- La portada incluye deporte, testimonios de salud, entretenimiento y el reconocimiento de relaciones poliamorosas en West Hollywood.",
+        "populismo": 18,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «manda in tilt» y «Italia domina» aportan dramatización y énfasis deportivo.",
+        "sesgo": "La selección presta atención a incidencias que afectan a servicios públicos y a demandas económicas de empresas. El artículo sobre la tributación de los ricos adopta un enfoque valorativo al plantear que deberían recuperarse primero las propuestas ordinarias."
       }
     }
   ]
