@@ -1,39 +1,39 @@
 {
   "pais": "Brasil",
   "fecha": "2026-11-13",
-  "turno": 8,
-  "generado": "13/11/2026 14:58",
+  "turno": 18,
+  "generado": "13/11/2026 22:49",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "La caída global de los servicios de Microsoft aparece en los cinco periódicos. También se repiten la situación de Nvidia y Jensen Huang, el caso Banco Master, las pérdidas de CSN y el fútbol brasileño. Solo Gazeta do Povo destaca el ataque informático al puerto de Santos.",
-    "crispacion": 43,
-    "motivo_crispacion": "La tensión se concentra en las sospechas y disputas judiciales vinculadas al caso Banco Master, así como en la crítica de un líder de delegados a la dirección de la Policía Federal. O Globo recoge la denuncia de una entidad indígena por la violencia policial contra los guaraníes y kaiowás. También aparecen críticas de la derecha española a Lula y una investigación por presunto desvío de fondos. Compensan estas noticias otras sobre tecnología, cultura, gastronomía y deporte."
+    "temas": "Se repiten la suspensión de despegues en Estados Unidos, la disputa entre el Congreso y el Supremo sobre el fin de la escala laboral 6×1 y las consecuencias del fallo de Microsoft. También aparecen el ajuste fiscal, los gastos de campaña de Lula y Alckmin y las negociaciones sobre Ucrania. Solo Folha de S.Paulo destaca el aumento de casos de mpox en Brasil.",
+    "crispacion": 62,
+    "motivo_crispacion": "La tensión se concentra en el enfrentamiento entre el Congreso y el Supremo por las reglas de transición del fin de la escala 6×1, así como en las críticas al ajuste fiscal. También generan fricción los cuestionamientos judiciales a las cuentas de campaña de Lula y Alckmin y a la elección en Río. La cobertura del archivo del inquérito sobre noticias falsas incluye lenguaje especialmente polarizador. Noticias sobre aviación, tecnología, mercados y vida cotidiana equilibran parcialmente el conjunto."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "La caída de los servicios de Microsoft, que dejó a tribunales federales sin acceso al correo, muestra el riesgo de entregar infraestructura esencial al control de grandes corporaciones. No basta con exigirles que reparen sus fallos: defiendo inversión pública en tecnología bajo propiedad colectiva, con control democrático y capacidad de servicio independiente.\n\nTambién celebro que la Justicia haya prohibido a Uber cobrar a los conductores por aceptar viajes. Para mí, esa decisión señala una contradicción: las plataformas concentran poder mientras quienes trabajan dependen de las condiciones que ellas imponen. Hace falta organización colectiva y protección laboral, no solo correcciones puntuales.\n\nY ante más de mil casos confirmados de mpox, la salud pública debe ser una prioridad. Prefiero una sociedad que garantice atención y prevención para todos a otra que subordine derechos al beneficio privado."
+      "texto": "Veo en la disputa por el fin de la escala 6x1 una cuestión de clase: el tiempo de descanso no es un privilegio, sino parte de una vida digna. La Cámara y el Senado piden al Supremo rechazar cambios en las reglas de transición; yo defiendo que cualquier transición proteja a quienes trabajan, no la rentabilidad del gran capital.\n\nLa falla de Microsoft, que afectó a gobiernos y servicios públicos en decenas de países, muestra otro problema: funciones esenciales dependen de la infraestructura de una empresa privada. Como comunista, creo que la tecnología necesaria para la vida colectiva debe estar bajo propiedad y control públicos, con participación de sus trabajadores y usuarios. Un sistema sanitario público fuerte también es indispensable ante el aumento de casos de mpox. La seguridad colectiva no puede quedar subordinada al beneficio privado."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "La caída de los servicios de Microsoft, que dejó a tribunales federales sin acceso al correo, muestra hasta qué punto nuestra vida común depende de infraestructuras controladas por unas pocas empresas. No creo que sustituir ese poder por el monopolio del Estado resuelva el problema: necesitamos herramientas abiertas, descentralizadas y gestionadas por quienes las usan.\n\nTambién me preocupa la denuncia de la Articulación de los Pueblos Indígenas de Brasil contra la violencia policial hacia la comunidad guaraní y kaiowá. Frente a la autoridad que impone, defiendo la autonomía de las comunidades y su derecho a organizarse sin tutela.\n\nNi los partidos ni los grandes propietarios deberían decidir por nosotros. La libertad individual y colectiva exige apoyo mutuo, control directo de los recursos y decisiones tomadas desde abajo."
+      "texto": "La condena al Estado por la destrucción de Canudos, aunque aún pueda recurrirse, recuerda que el poder no solo administra: también puede aplastar formas de vida comunitaria. La reparación importa, pero el dinero por sí solo no devuelve la autonomía destruida.\n\nHoy también veo a la Cámara y al Senado disputar ante el Supremo las reglas para terminar con la escala laboral 6×1. No quiero que el descanso dependa únicamente de acuerdos entre partidos, jueces y patronos: quienes trabajan deben poder organizarse y decidir colectivamente sobre su tiempo. Y la caída de Microsoft muestra otro riesgo de concentrar decisiones y recursos en pocas manos. Prefiero tecnologías cooperativas, controladas por sus usuarios y trabajadoras. Para mí, la libertad individual necesita apoyo mutuo y autogestión: nadie es verdaderamente libre si otros deciden siempre por él."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "El proyecto de tranvía para el centro de São Paulo, con un costo previsto de 2.800 millones de reales, merece un examen riguroso antes de comprometer recursos públicos. Yo quiero movilidad, pero también saber qué beneficios se esperan, quién pagará la cuenta y qué alternativas podrían ofrecer mejores resultados. Cada real gastado por el Estado es un real que los ciudadanos no pueden administrar por sí mismos.\n\nLa discusión sobre el ajuste fiscal estructural ofrece una oportunidad para establecer prioridades y contener el gasto, con la mira puesta en impuestos más bajos. Un Estado limitado debe cumplir bien sus funciones esenciales, no asumir que toda necesidad exige un nuevo programa. Y un mercado libre necesita responsabilidad: las empresas deben responder por sus decisiones, sin trasladar automáticamente sus pérdidas a los contribuyentes. Esa disciplina protege tanto la libertad individual como la confianza pública."
+      "texto": "El debate sobre el ajuste fiscal brasileño me deja una preocupación: si el Congreso debilita el recorte de los supersalarios, ¿con qué autoridad pedirá más esfuerzo a los contribuyentes? Prefiero un Estado limitado que revise sus privilegios y sus gastos antes de recurrir a impuestos más altos. Dejar más recursos en manos de las familias y las empresas favorece la inversión y respeta su capacidad para decidir.\n\nTambién creo que la transición hacia el fin de la escala 6×1 debe preservar espacio para acuerdos entre trabajadores y empleadores. Descansar es importante, pero imponer soluciones rígidas puede dificultar la contratación, especialmente en negocios pequeños. La libertad económica exige responsabilidad de ambas partes: cumplir los contratos, negociar de buena fe y asumir las consecuencias de las decisiones propias. Un mercado libre no es ausencia de reglas, sino un marco estable que permita elegir y emprender."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "La caída de Microsoft, que dejó a tribunales federales sin acceso al correo, debería obligarnos a replantear nuestra dependencia tecnológica. No hace falta que haya un ataque para que una infraestructura esencial quede paralizada. Quiero un Brasil capaz de proteger sus datos y mantener sus instituciones funcionando sin depender de un único proveedor extranjero.\n\nEl acceso indebido a datos del Tesoro y el ataque al puerto de Santos refuerzan esa exigencia de soberanía. La seguridad nacional no se defiende solo en las fronteras: también requiere sistemas resistentes, inversión y responsables que rindan cuentas.\n\nTampoco acepto que la seguridad cotidiana sea secundaria. El robo de ocho vehículos en São Paulo exige una respuesta firme, dentro de la ley. Y, frente a unas élites que suelen confundir modernización con desarraigo, reivindico las tradiciones brasileñas: conservarlas también es defender la identidad del país."
+      "texto": "Veo en la caída de Microsoft una advertencia para Brasil: un país soberano no debería tener su justicia y sus servicios esenciales a merced de una empresa extranjera. Necesitamos capacidad tecnológica propia y alternativas bajo control nacional. La seguridad no consiste solo en vigilar fronteras; también exige proteger las instituciones de dependencias que pueden paralizarlas.\n\nMe preocupa igualmente que el Congreso tenga que acudir al Supremo para defender las condiciones que aprobó sobre la jornada 6×1. Las leyes deben debatirlas y decidirlas los representantes elegidos, sin que los jueces sustituyan al legislador. Y si, como denuncian organizaciones, el ajuste fiscal debilita el recorte de supersalarios, tenemos otra muestra de una élite que pide sacrificios sin empezar por sus propios privilegios. Yo quiero un Estado fuerte para defender a la nación, pero limitado frente al ciudadano y responsable con su dinero."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Me preocupa que la falla global de Microsoft haya dejado sin correo a tribunales federales. No es un argumento contra la tecnología privada, sino a favor de instituciones públicas capaces de funcionar cuando un proveedor falla. Propongo planes de contingencia, alternativas interoperables y contratos que exijan transparencia y recuperación verificable. La innovación necesita competencia; la justicia, continuidad.\n\nTambién creo que el debate sobre un ajuste fiscal estructural merece seriedad, no consignas. Las cuentas públicas sostenibles son necesarias para proteger los servicios y dar confianza a quienes invierten, pero equilibrarlas no debería significar abandonar a quienes más dependen de la protección social. Prefiero reformas graduales, evaluadas públicamente y negociadas con amplitud: revisar gastos y prioridades, preservar lo que funciona y corregir lo que no. El consenso no sustituye las decisiones difíciles; las hace más duraderas."
+      "texto": "Veo en la disputa sobre el fin de la escala 6x1 una prueba para nuestras instituciones. Reducir jornadas extenuantes es un objetivo justo, pero su transición debe ser viable para trabajadores y empresas. El Supremo debe resolver la controversia respetando la Constitución y las competencias del Congreso; los legisladores, por su parte, no deberían confundir prudencia con aplazamiento indefinido.\n\nTambién me preocupa que, según organizaciones, el Congreso haya debilitado el recorte de los supersalarios en el plan fiscal. La responsabilidad presupuestaria exige revisar privilegios antes de pedir sacrificios a quienes menos tienen. Un Estado capaz de proteger la salud y sostener servicios públicos necesita cuentas creíbles, pero también legitimidad social. Prefiero acuerdos graduales y verificables a promesas maximalistas: no son una renuncia a la justicia, sino una manera de hacerla duradera."
     }
   ],
   "periodicos": [
@@ -42,71 +42,71 @@
       "web": "https://www.folha.uol.com.br",
       "noticias": [
         {
-          "titulo": "José Loreto e Walerie Gondim marcam presença na festa do 13º Prêmio Bibi Ferreira",
-          "entradilla": "Os atores José Loreto , Walerie Gondim e Ivan Parente e a figurinista Ùga agÚ marcaram presença na festa do 13º Prêmio Bibi Ferreira de Teatro . O evento foi na quarta (11), no Instituto Brasileiro de Teatro, em São Paulo. Leia mais (11/13/2026 - 10h54)",
-          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/jose-loreto-e-walerie-gondim-marcam-presenca-na-festa-do-13o-premio-bibi-ferreira.shtml"
+          "titulo": "Brasil ultrapassa mil casos de mpox e registra uma morte no Rio",
+          "entradilla": "Em março de 2025, o DJ carioca Vitor Fernandes, 31, notou o que parecia ser uma espinha no dedo. \"Isso está com cara de picada de mosquito\", pensou na época. Leia mais (11/13/2026 - 18h42)",
+          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/brasil-ultrapassa-mil-casos-de-mpox-e-registra-uma-morte-no-rio.shtml"
         },
         {
-          "titulo": "Atriz Neusa Borges é internada com pneumonia, no Rio de Janeiro",
-          "entradilla": "A atriz Neusa Borges , de 84 anos, está internada no Rio de Janeiro desde segunda (9), com um quadro de pneumonia. O estado de saúde é estável e não há previsão de alta, de acordo com a equipe do Hospital Copa D'Or. Leia mais (11/13/2026 - 10h52)",
-          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/atriz-neusa-borges-e-internada-com-pneumonia-no-rio-de-janeiro.shtml"
+          "titulo": "Itália oferece aluguel de graça por 10 anos; veja vídeo",
+          "entradilla": "A Itália está oferecendo aluguel de graça por 10 anos. Parece pegadinha, mas é real. Trata-se de uma campanha na Calábria para repovoar a região. Leia mais (11/13/2026 - 18h42)",
+          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2026/11/italia-oferece-aluguel-de-graca-por-10-anos-veja-video.shtml"
         },
         {
-          "titulo": "Falha da Microsoft deixa tribunais federais sem acesso a emails",
-          "entradilla": "Tribunais regionais federais (TRFs) estão sem acesso a emails após a falha global nos serviços da Microsoft. Os TRFs da 1ª, 3ª e 6ª Região confirmaram o problema à Folha nesta sexta (13). A instabilidade começou na quinta-feira (12). Leia mais (11/13/2026 - 10h52)",
-          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/11/falha-da-microsoft-deixa-tribunais-federais-sem-acesso-a-emails.shtml"
+          "titulo": "Bruna Marquezine e Shawn Mendes são vistos após suposta discussão em Noronha",
+          "entradilla": "Bruna Marquezine e Shawn Mendes teriam discutido durante a madrugada desta sexta-feira (13), em Fernando de Noronha (PE). O casal está no arquipélago para acompanhar o casamento de Léo Fuchs e Gustavo Oliveira, marcado para sábado (14). Leia mais (11/13/2026 - 18h38)",
+          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/bruna-marquezine-e-shawn-mendes-sao-vistos-apos-suposta-discussao-em-noronha.shtml"
         },
         {
-          "titulo": "Sete nomes cotados para substituir Jensen Huang na Nvidia",
-          "entradilla": "Encontrar um sucessor para Jensen Huang na Nvidia tem sido comparado à tarefa de substituir Steve Jobs na Apple . Em muitos aspectos, porém, o desafio é ainda maior. Leia mais (11/13/2026 - 10h41)",
-          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/sete-nomes-cotados-para-substituir-jensen-huang-na-nvidia.shtml"
+          "titulo": "Fãs de Mau Mau e Felipe pressionam patrocinadores de 'Quem Ama Cuida' nas redes",
+          "entradilla": "A polêmica cena da primeira vez entre Mau Mau ( João Victor Gonçalves ) e Felipe ( Pietro Antonelli ) em \"Quem Ama Cuida\" ( Globo ) segue repercutindo negativamente entre os espectadores da novela das 21h. Desde a exibição da sequência, na terça-feira (10), fãs do casal têm se mobilizado nas redes s",
+          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/11/fas-de-mau-mau-e-felipe-pressionam-patrocinadores-de-quem-ama-cuida-nas-redes-sociais.shtml"
         },
         {
-          "titulo": "Relatório rejeitado na PF cita suspeita de Moraes antecipar voto a Vorcaro",
-          "entradilla": "O relatório sobre Alexandre de Moraes e o Banco Master rejeitado pela cúpula da PF ( Polícia Federal ) cita mensagens indicando que o ministro teria antecipado um voto a Daniel Vorcaro em uma ação no STF (Supremo Tribunal Federal) sobre faculdades de medicina. Leia mais (11/13/2026 - 10h30)",
-          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/relatorio-rejeitado-na-pf-cita-suspeita-de-moraes-antecipar-voto-a-vorcaro.shtml"
+          "titulo": "Margot Robbie vai participar do próximo filme do diretor de 'O Drama'",
+          "entradilla": "Margot Robbie participará do próximo projeto do diretor Kristoffer Borgli, responsável pelo filme \" O Drama \", protagonizado por Robert Pattinson e Zendaya , lançado em abril de 2026. Intitulado \"The Week of Pain\" (\"A Semana da Dor\", em tradução literal), o longa ainda não teve detalhes sobre seu en",
+          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/11/margot-robbie-vai-participar-do-proximo-filme-do-diretor-de-o-drama.shtml"
         },
         {
-          "titulo": "Criminosos invadem locadora e roubam oito veículos em SP; quatro são presos",
-          "entradilla": "Uma locadora de veículos foi invadida e teve oito veículos roubados no bairro Campo Belo, na zona sul de São Paulo , na madrugada desta sexta-feira (13). A Polícia Militar foi acionada e conseguiu prender quatro suspeitos. Leia mais (11/13/2026 - 10h20)",
-          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/criminosos-invadem-locadora-e-roubam-oito-veiculos-em-sp-quatro-sao-presos.shtml"
+          "titulo": "UE escolhe cinco países para representar Europa em negociações de paz entre Ucrânia e Rússia",
+          "entradilla": "Os líderes da União Europeia (UE) afirmaram nesta sexta-feira (13) que a equipe europeia para as negociações de paz da guerra da Ucrânia será composta por cinco importantes potências militares -o Reino Unido , que não integra o bloco, além de França , Alemanha , Itália e Polônia - e pelas instituiçõ",
+          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/ue-escolhe-cinco-paises-para-representar-europa-em-negociacoes-de-paz-entre-ucrania-e-russia.shtml"
         },
         {
-          "titulo": "CSN tem prejuízo de R$ 1,25 bilhão no 3º trimestre, com pressão de mineração e custos de frete",
-          "entradilla": "A CSN teve prejuízo líquido de R$ 1,25 bilhão no terceiro trimestre, revertendo resultado positivo de R$ 76 milhões obtido no mesmo período de 2025, segundo balanço divulgado na noite de quinta-feira. Leia mais (11/13/2026 - 10h07)",
-          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/csn-tem-prejuizo-de-r-125-bilhao-no-3o-trimestre-com-pressao-de-mineracao-e-custos-de-frete.shtml"
+          "titulo": "Batalhão ambiental fica!",
+          "entradilla": "Em Rondônia, um dos estados mais pressionados pelo desmatamento , pela grilagem de terras e pela exploração ilegal dos recursos naturais, a proteção ambiental corre o risco de sofrer mais um duro golpe. O deputado federal Lúcio Mosquini ( PL ), coordenador da transição do governo eleito de Marcos Ro",
+          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/txai-surui/2026/11/batalhao-ambiental-fica.shtml"
         },
         {
-          "titulo": "Ancelotti diz que período de testes acaba nos jogos contra Japão e Singapura",
-          "entradilla": "Em busca de uma reformulação da seleção brasileira desde a eliminação precoce nas oitavas de final da Copa do Mundo de 2026, na América do Norte, o treinador Carlo Ancelotti afirmou que o período de testes está perto do fim. Leia mais (11/13/2026 - 10h07)",
-          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/ancelotti-diz-que-periodo-de-testes-acaba-nos-jogos-contra-japao-e-singapura.shtml"
+          "titulo": "EUA suspendem todos os voos no país; secretário aponta falha de comunicação como causa",
+          "entradilla": "A Administração Federal de Aviação dos Estados Unidos (FAA, na sigla em inglês) determinou a suspensão de decolagens em todos os aeroportos do país. Não há determinação sobre pousos de aeronaves que já estão no ar. Leia mais (11/13/2026 - 18h16)",
+          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/eua-impoem-suspensao-nacional-de-voos-por-razoes-de-seguranca.shtml"
         },
         {
-          "titulo": "Mario Prata recebe convidados em lançamento de 'O Chico' em SP",
-          "entradilla": "O escritor Mario Prata lançou na quarta (11) o livro 'O Chico', na livraria Espelho, em São Paulo . Na obra, ele conta histórias de bastidores e causos do músico Chico Buarque , seu amigo há mais de 50 anos. Leia mais (11/13/2026 - 10h02)",
-          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/mario-prata-recebe-convidados-em-lancamento-de-o-chico-em-sp.shtml"
+          "titulo": "Falha da Microsoft expõe dependência global de big techs",
+          "entradilla": "Governos, empresas e serviços públicos em mais de 70 países foram afetados por uma interrupção digital nesta semana, enquanto a Microsoft tentava restabelecer os serviços após uma falha que atingiu milhões de usuários. Leia mais (11/13/2026 - 18h15)",
+          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/11/falha-da-microsoft-expoe-dependencia-global-de-big-techs.shtml"
         },
         {
-          "titulo": "Livro mostra como educação ainda falha em superar desigualdades",
-          "entradilla": "\"Por que exigimos tanto que os pobres se preparem para disputar oportunidades e tão pouco que a sociedade transforme a maneira como essas oportunidades são distribuídas?\". Leia mais (11/13/2026 - 10h00)",
-          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/livro-mostra-como-educacao-ainda-falha-em-superar-desigualdades.shtml"
+          "titulo": "Câmara e Senado pedem que plenário do STF rejeite pontos da liminar de Dino sobre escala 6x1",
+          "entradilla": "A Câmara dos Deputados e o Senado Federal pediram nesta sexta-feira (13) que o plenário do STF (Supremo Tribunal Federal) rejeite as mudanças determinadas pelo ministro Flávio Dino na emenda constitucional que estabelece o fim da escala 6x1 . Leia mais (11/13/2026 - 18h12)",
+          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/camara-e-senado-pedem-que-plenario-do-stf-rejeite-pontos-da-liminar-de-dino-sobre-escala-6x1.shtml"
         },
         {
-          "titulo": "Bonde no centro de São Paulo terá custo de R$ 2,8 bilhões, e primeiro trecho é previsto para 2027",
-          "entradilla": "O prefeito Ricardo Nunes ( MDB ) assina na manhã desta sexta-feira (13) a autorização para implantação do projeto do VLE (veículo leve elétrico), que deverá circular pelo centro da cidade de São Paulo . Leia mais (11/13/2026 - 10h00)",
-          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/bonde-no-centro-de-sao-paulo-tera-custo-de-r-28-bilhoes-e-primeiro-trecho-e-previsto-para-2027.shtml"
+          "titulo": "É possível investir em ações internacionais sem apostar no dólar?",
+          "entradilla": "Quando um brasileiro decide investir em ações internacionais, normalmente imagina que está tomando duas decisões ao mesmo tempo: apostar nas empresas estrangeiras e na valorização do dólar. Entretanto, essas escolhas não precisam caminhar juntas. Leia mais (11/13/2026 - 18h00)",
+          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/e-possivel-investir-em-acoes-internacionais-sem-apostar-no-dolar.shtml"
         },
         {
-          "titulo": "Livro revela as histórias de Mister Sam, o homem que inventou a cantora Gretchen",
-          "entradilla": "Em 1978, a gravadora Copacabana lançou uma seleção de cantigas infantis em ritmo de discoteca, intitulada \"Disco Baby\", atribuída a um grupo chamado As Melindrosas. O LP, porém, havia sido gravado por músicos e cantoras de estúdio. Fez tanto sucesso que a produção do \"Fantástico\" telefonou querendo ",
-          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/livro-revela-as-historias-de-mister-sam-o-homem-que-inventou-a-cantora-gretchen.shtml"
+          "titulo": "Congresso esvazia corte de supersalários no 'plano Moretti', dizem organizações",
+          "entradilla": "Um grupo de sete entidades publicou um documento criticando a mudança que o Congresso fez no chamado \"plano Moretti\", o projeto com medidas fiscais do governo e que tramita no Legislativo. Leia mais (11/13/2026 - 17h58)",
+          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/congresso-esvazia-corte-de-supersalarios-no-plano-moretti-dizem-organizacoes.shtml"
         }
       ],
       "analisis": {
-        "resumen": "- Cultura y espectáculos: una fiesta teatral, dos libros y la hospitalización estable de la actriz Neusa Borges por neumonía.\n- Una falla global de Microsoft afecta al correo de tribunales federales; un informe rechazado por la cúpula de la Policía Federal recoge una sospecha sobre Alexandre de Moraes.\n- En São Paulo, un robo en una empresa de alquiler de vehículos acaba con cuatro sospechosos detenidos.\n- La CSN registra pérdidas trimestrales y se prevé un tranvía de 2.800 millones de reales en el centro de São Paulo; también se aborda la sucesión en Nvidia.\n- Ancelotti anuncia el próximo fin de las pruebas en la selección brasileña y un libro cuestiona la persistencia de las desigualdades educativas.",
-        "populismo": 10,
-        "motivo_populismo": "Los titulares son mayormente informativos y sobrios, aunque expresiones como «revela» o «el hombre que inventó a la cantante» aportan cierto tono llamativo.",
-        "sesgo": "La selección presta atención a la cultura, las personalidades y los asuntos de São Paulo. En educación aparece un enfoque crítico sobre la desigualdad de oportunidades, pero no se aprecia un sesgo político partidista claro."
+        "resumen": "- Brasil supera los mil casos de mpox y registra una muerte en Río de Janeiro.\n- Estados Unidos suspende los despegues por una falla de comunicación; otra interrupción de Microsoft afecta a usuarios en más de 70 países.\n- La UE elige cinco países para participar en las negociaciones de paz entre Ucrania y Rusia.\n- La Cámara y el Senado piden al Supremo rechazar cambios en la norma sobre la jornada 6x1; organizaciones critican cambios en un plan fiscal.\n- La portada también incluye una defensa del batallón ambiental de Rondonia y noticias de celebridades, cultura, vivienda e inversión.",
+        "populismo": 18,
+        "motivo_populismo": "Predomina un tono informativo, aunque «¡Que se quede el batallón ambiental!» usa una apelación enfática y «vacía el recorte de supersalarios» emplea una formulación crítica atribuida a organizaciones.",
+        "sesgo": "Se aprecia un enfoque favorable a la protección ambiental en la pieza sobre Rondonia y una selección que combina política y asuntos internacionales con entretenimiento y noticias de servicio. En conjunto, no se aprecia una orientación política uniforme."
       }
     },
     {
@@ -114,71 +114,71 @@
       "web": "https://oglobo.globo.com",
       "noticias": [
         {
-          "titulo": "Efeito dominó e 'ressaca digital': por que o apagão da Microsoft paralisou empresas no mundo todo e a recuperação é tão lenta",
-          "entradilla": "Um problema no \"porteiro\" digital da Microsoft foi suficiente para trancar milhões de usuários do lado de fora de seus próprios escritórios virtuais. O apagão global que, desde quinta-feira (12), impede o acesso a serviços como Outlook, Teams e a inteligência artificial Copilot, mostrou uma fragilid",
-          "enlace": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/11/13/efeito-domino-e-ressaca-digital-por-que-o-apagao-da-microsoft-paralisou-empresas-no-mundo-todo-e-a-recuperacao-e-tao-lenta.ghtml"
+          "titulo": "Problema de comunicação afetou voos nos EUA",
+          "entradilla": "Os reguladores de aviação dos EUA emitiram nesta sexta-feira uma ordem de paralisação em solo em âmbito nacional para voos de partida, citando um problema de comunicação que afeta as torres de controle de tráfego aéreo.\nA Administração Federal de Aviação (FAA) \"emitiu uma paralisação em solo em âmbi",
+          "enlace": "https://oglobo.globo.com/mundo/noticia/2026/11/13/problema-de-comunicacao-afetou-voos-nos-eua.ghtml"
         },
         {
-          "titulo": "Condomínio pode ser responsabilizado por furto em apartamento, decide STJ; entenda quando",
-          "entradilla": "Condomínios podem ser responsabilizados por furto em apartamentos — conforme entendimento da Terceira Turma do Superior Tribunal de Justiça (STJ) — quando os criminosos tiverem a entrada liberada pela portaria sem a autorização do morador. A decisão unânime se deu após recurso de um condomínio de Bo",
-          "enlace": "https://oglobo.globo.com/rio/noticia/2026/11/13/condominio-pode-ser-responsabilizado-por-furto-em-apartamento-decide-stj-entenda-quando.ghtml"
+          "titulo": "Toffoli dá três dias para Lula e Alckmin explicarem despesas de campanha após apontamentos de técnicos do TSE",
+          "entradilla": "O ministro Dias Toffoli, do Tribunal Superior Eleitoral (TSE), determinou que o presidente Luiz Inácio Lula da Silva (PT) e o vice-presidente Geraldo Alckmin (PSB) apresentem, no prazo de três dias, esclarecimentos e documentos sobre despesas realizadas durante a campanha eleitoral de 2026. A determ",
+          "enlace": "https://oglobo.globo.com/politica/noticia/2026/11/13/toffoli-da-tres-dias-para-lula-e-alckmin-explicarem-despesas-de-campanha-apos-apontamentos-de-tecnicos-do-tse.ghtml"
         },
         {
-          "titulo": "NF de aluguel: o que muda em 1 de dezembro para holdings e grandes proprietários",
-          "entradilla": "Quem precisa emitir nota fiscal de aluguel? Toda empresa que aluga imóveis, incluindo holdings patrimoniais, a partir de 1º de dezembro de 2026, ou de 1º de janeiro de 2027 no Simples Nacional. Pessoas físicas só entram se, no ano anterior, tiveram mais de três imóveis alugados e receita de aluguel ",
-          "enlace": "https://oglobo.globo.com/patrocinado/pulse-brand/noticia/2026/11/13/nf-de-aluguel-o-que-muda-em-1-de-dezembro-para-holdings-e-grandes-proprietarios-1.ghtml"
+          "titulo": "Justiça condena União em R$ 597 milhões por Guerra de Canudos de 1897: 'Ruptura profunda de experiência comunitária'",
+          "entradilla": "A União foi condenada a pagar R$ 597 milhões ao município de Canudos por conta do massacre cometido por tropas federais contra a comunidade liderada pelo líder religioso Antônio Conselheiro no final do século XIX. Segundo a decisão da Vara Federal de Paulo Afonso desta quinta-feira, o montante dever",
+          "enlace": "https://oglobo.globo.com/brasil/noticia/2026/11/13/justica-condena-uniao-em-r-597-milhoes-por-guerra-de-canudos-de-1897-ruptura-profunda-de-experiencia-comunitaria.ghtml"
         },
         {
-          "titulo": "Samuel Pessôa vê Brasil em momento favorável para discutir ajuste fiscal estrutural",
-          "entradilla": "O Brasil está num bom momento para fazer uma discussão sobre um reajuste fiscal estrutural, diz o economista Samuel Pessôa, pesquisador do FGV Ibre e do BTG Pactual. Na avaliação de Pessôa, essa conjuntura favorável decorre do fato de que até mesmo os beneficiários de políticas sociais já perceberam",
-          "enlace": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/samuel-pessoa-ve-brasil-em-momento-favoravel-para-discutir-ajuste-fiscal-estrutural.ghtml"
+          "titulo": "EUA fecham espaço aéreo e suspendem todos os voos por 'circunstâncias extraordinárias'",
+          "entradilla": "A Administração Federal de Aviação dos Estados Unidos (FAA, na sigla em inglês) determinou nesta sexta-feira (13) a suspensão de todos os voos com partida de aeroportos do país por motivos de segurança e devido a “circunstâncias extraordinárias”. A medida foi anunciada sem explicação detalhada sobre",
+          "enlace": "https://oglobo.globo.com/mundo/noticia/2026/11/13/eua-fecham-espaco-aereo-e-suspendem-todos-os-voos-por-motivos-de-seguranca.ghtml"
         },
         {
-          "titulo": "Dólar e Bolsa operam estáveis",
-          "entradilla": "Dólar e Bolsa operam estáveis Câmbio chegou à máxima em 17 meses após frustração com medidas de ajuste fiscal",
-          "enlace": "https://oglobo.globo.com/economia/financas/ao-vivo/ibovespa-hoje-acompanhe-bolsa-e-dolar.ghtml"
+          "titulo": "Lago Corumbá IV: onde fica e como o reservatório a uma hora de Brasília virou destino de fim de semana",
+          "entradilla": "Pela PNAD Contínua Turismo 2024, divulgada pelo IBGE em outubro de 2025, o Distrito Federal é a unidade da federação com a maior proporção de domicílios em que alguém viajou no ano: 26,7%, contra 19,3% na média do país. É também de lá que saem as viagens mais caras. Quem mora no DF gasta, em média, ",
+          "enlace": "https://oglobo.globo.com/patrocinado/pulse-brand/noticia/2026/11/13/lago-corumba-iv-onde-fica-e-como-o-reservatorio-a-uma-hora-de-brasilia-virou-destino-de-fim-de-semana-1.ghtml"
         },
         {
-          "titulo": "Agilize amplia serviços de emissão fiscal",
-          "entradilla": "A adoção do Emissor Nacional de Nota Fiscal de Serviços Eletrônica (NFS-e) por empresas do Simples Nacional levou a Agilize a ampliar a emissão de notas fiscais diretamente em sua plataforma. Desde 1º de novembro, a empresa de contabilidade para micro, pequenas e médias empresas disponibiliza o recu",
-          "enlace": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/11/13/agilize-amplia-servicos-de-emissao-fiscal-1.ghtml"
+          "titulo": "WorkFusion debate IA no combate a crimes financeiros",
+          "entradilla": "A WorkFusion, empresa da UiPath que desenvolve agentes de inteligência artificial para compliance e combate a crimes financeiros, participará da 16ª edição dos congressos de Prevenção à Lavagem de Dinheiro e ao Financiamento do Terrorismo (PLDFT) e de Gestão de Riscos (GRISC), promovidos pela FEBRAB",
+          "enlace": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/11/13/workfusion-debate-ia-no-combate-a-crimes-financeiros-1.ghtml"
         },
         {
-          "titulo": "Homenagem a PMs que atacaram indígenas kaiowá em MS faz entidade acionar comissão de direitos humanos e STF",
-          "entradilla": "A Articulação dos Povos Indígenas do Brasil (Apib) acionou a Comissão Interamericana de Direitos Humanos (Cidh) e o Supremo Tribunal Federal (STF) para tentar interromper o que classifica como violência policial contra a comunidade Guarani e Kaiowá em Mato Grosso do Sul. O caso ocorre em meio à repe",
-          "enlace": "https://oglobo.globo.com/brasil/noticia/2026/11/13/homenagem-a-pms-que-atacaram-indigenas-kaiowa-em-ms-faz-entidade-acionar-comissao-de-direitos-humanos-e-stf.ghtml"
+          "titulo": "Nvidia diz que especulação sobre candidatos ao cargo de CEO é ‘prematura’",
+          "entradilla": "A Nvidia buscou conter as especulações de que já estaria em contato com possíveis candidatos ao cargo de CEO. A empresa afirmou que ainda está escolhendo uma consultoria para encontrar um sucessor para Jensen Huang, afastado do comando.\nRespingo: Escândalo da Nvidia abre crise no governo Trump, e se",
+          "enlace": "https://oglobo.globo.com/economia/noticia/2026/11/13/nvidia-diz-que-especulacao-sobre-candidatos-ao-cargo-de-ceo-e-prematura.ghtml"
         },
         {
-          "titulo": "Kim Gordon, ex-Sonic Youth, vem ao Brasil para inaugurar exposição de arte em São Paulo",
-          "entradilla": "Conhecida por ter feito parte do Sonic Youth, uma das bandas mais influentes do rock alternativo americano, Kim Gordon está de volta ao Brasil, mas desta vez longe dos palcos. A cantora, compositora e artista visual de 73 anos inaugura neste sábado (14) sua primeira exposição de pinturas em São Paul",
-          "enlace": "https://oglobo.globo.com/cultura/noticia/2026/11/13/kim-gordon-ex-sonic-youth-vem-ao-brasil-para-inaugurar-exposicao-de-arte-em-sao-paulo.ghtml"
+          "titulo": "Eleição no Vasco ameaça mandato de presidente do Jockey Club",
+          "entradilla": "Raul Lima Neto pode estar com os dias contados à frente do Jockey Club Brasileiro, no Rio. Candidato à presidência do Vasco, cuja eleição acontece neste sábado, ele terá que renunciar imediatamente ao comando da instituição, um ano e meio antes do fim do seu mandato, se vencer.  Matéria exclusiva pa",
+          "enlace": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/11/eleicao-no-vasco-ameaca-mandato-de-presidente-do-jockey-club.ghtml"
         },
         {
-          "titulo": "'De volta para casa': Papa chega hoje a Chiclayo, cidade peruana onde foi bispo por oito anos",
-          "entradilla": "O Papa Leão XIV retorna nesta sexta-feira a Chiclayo, cidade no norte do Peru, onde foi bispo por quase oito anos. Moradores e antigos amigos o aguardam com fervor naquela que é a etapa mais emocionante de sua intensa viagem pela América do Sul. O primeiro Papa norte-americano, que também possui nac",
-          "enlace": "https://oglobo.globo.com/mundo/noticia/2026/11/13/de-volta-para-casa-papa-chega-hoje-a-chiclayo-cidade-peruana-onde-foi-bispo-por-oito-anos.ghtml"
+          "titulo": "Acusado de agredir violentamente filha de 8 anos na Zona Sudoeste do Rio é preso",
+          "entradilla": "Um homem foi preso preventivamente nesta quinta-feira (12) à noite acusado de agredir violentamente a própria filha, que tinha 8 anos na época do crime. A captura foi realizada em Curicica, na Zona Sudoeste do Rio, por agentes da Delegacia da Criança e Adolescente Vítima da Baixada Fluminense (DCAV-",
+          "enlace": "https://oglobo.globo.com/rio/bairros/barra/noticia/2026/11/13/acusado-de-agredir-violentamente-filha-de-8-anos-na-zona-sudoeste-do-rio-e-preso.ghtml"
         },
         {
-          "titulo": "Escândalo da Nvidia: 'culto ao fundador' moldou o Vale do Silício e põe em xeque futuro da empresa",
-          "entradilla": "A queda de Jensen Huang do comando da Nvidia coloca em xeque uma cultura que se tornou parte integral de empresas de tecnologia nas últimas duas décadas, o “culto ao fundador”. Ela confunde o sucesso da companhia com a personalidade de quem a fundou, criando um ambiente permissivo e pouco estruturad",
-          "enlace": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/11/13/escandalo-da-nvidia-culto-ao-fundador-moldou-o-vale-do-silicio-e-poe-em-xeque-futuro-da-empresa.ghtml"
+          "titulo": "Trump vai prorrogar por 90 dias isenção de regras para o transporte marítimo de petróleo e fertilizantes",
+          "entradilla": "O presidente dos Estados Unidos Donald Trump está dando mais tempo às empresas de energia e às comercializadoras para transportar petróleo e outras commodities entre portos dos EUA em navios de bandeira estrangeira, ao renovar uma medida destinada a reduzir os custos dos combustíveis.\nEscândalo da N",
+          "enlace": "https://oglobo.globo.com/economia/noticia/2026/11/13/trump-vai-prorrogar-por-90-dias-isencao-de-regras-para-o-transporte-maritimo-de-petroleo-e-fertilizantes.ghtml"
         },
         {
-          "titulo": "Limões contra a crise? Novo técnico do United, Pochettino acredita que as frutas limpam o ar negativo do ambiente e tem hábito curioso; saiba",
-          "entradilla": "Anunciado como novo técnico do Manchester United na manhã desta sexta, Mauricio Pochettino tem um hábito curioso no ambiente de trabalho, manter uma tigela de limões em seu escritório. A prática tem uma explicação inusitada: o treinador argentino acredita que os frutos são capazes de absorver a ener",
-          "enlace": "https://oglobo.globo.com/esportes/noticia/2026/11/13/limoes-contra-a-crise-novo-tecnico-do-united-pochettino-acredita-que-as-frutas-limpam-o-ar-negativo-do-ambiente-e-tem-habito-curioso-saiba.ghtml"
+          "titulo": "Barco de cruzeiro vira após colisão com petroleiro nos EUA",
+          "entradilla": "Um petroleiro colidiu com um barco de cruzeiro atracado no rio Mississippi, próximo ao porto de Nova Orleans, no estado americano da Louisiana, nesta sexta-feira. O impacto fez a embarcação de passageiros virar e começar a afundar, provocando uma operação de emergência para resgatar as pessoas que e",
+          "enlace": "https://oglobo.globo.com/mundo/epoca/noticia/2026/11/13/barco-de-cruzeiro-vira-apos-colisao-com-petroleiro-nos-eua.ghtml"
         },
         {
-          "titulo": "Kwai Ad Awards 2026 premia empresas destaque na plataforma",
-          "entradilla": "O Kwai anunciou os vencedores do Kwai Ad Awards 2026, premiação que reconhece campanhas e projetos que exploram as possibilidades de comunicação e publicidade na plataforma. A iniciativa integra o Kwai Summit 2026, encontro anual que reúne marcas, agências e profissionais do mercado para discutir te",
-          "enlace": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/11/13/kwai-ad-awards-2026-premia-empresas-destaque-na-plataforma-1.ghtml"
+          "titulo": "Dólar renova máxima em 17 meses e sobe 2,6% na semana",
+          "entradilla": "Os indicadores do mercado financeiro encerraram a terceira semana após a vitória de Luiz Inácio Lula da Silva (PT) em leves variações, diante da falta de informações mais claras sobre a condução da política econômica a partir 2027 e da frustração com as medidas do pacote fiscal apresentado esta sema",
+          "enlace": "https://oglobo.globo.com/economia/financas/noticia/2026/11/13/dolar-hoje-maior-valor-17-meses.ghtml"
         }
       ],
       "analisis": {
-        "resumen": "- Un apagón de Microsoft afecta a empresas y servicios digitales en todo el mundo.\n- El STJ establece cuándo un condominio puede responder por un robo en un apartamento.\n- Cambian las obligaciones de facturación de alquileres; también se aborda el ajuste fiscal y la estabilidad del dólar y la Bolsa.\n- Una organización indígena recurre a instancias de derechos humanos y al STF por la violencia policial contra los guaraníes y kaiowás.\n- La portada incluye noticias sobre Nvidia, cultura, la visita del papa a Perú, fútbol y publicidad digital.",
+        "resumen": "- Un problema de comunicación en las torres de control provoca la suspensión de vuelos de salida en Estados Unidos.\n- El ministro Dias Toffoli da tres días a Lula y Alckmin para aclarar gastos de campaña.\n- La Justicia condena al Estado brasileño a pagar 597 millones de reales a Canudos por la guerra de 1897.\n- En Estados Unidos, un crucero vuelca tras chocar con un petrolero; Trump prorrogara una excepción a las normas de transporte marítimo.\n- El dólar alcanza su máximo en 17 meses; también destacan noticias sobre Nvidia, una agresión infantil, las elecciones del Vasco, turismo e inteligencia artificial.",
         "populismo": 20,
-        "motivo_populismo": "Predomina un lenguaje informativo, aunque expresiones como «apagón», «escándalo» y «culto al fundador» aportan dramatismo y cierto sensacionalismo.",
-        "sesgo": "La selección da un peso notable a la economía, los negocios y la tecnología, con varias noticias de utilidad práctica. También incluye derechos indígenas y cultura, sin que se aprecie una orientación partidista clara en los titulares."
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «escándalo», «amenaza» y «agredir violentamente» aportan dramatismo; no se aprecia una apelación al pueblo contra las élites.",
+        "sesgo": "La selección da relevancia a sucesos en Estados Unidos, decisiones judiciales y cuestiones económicas. No se aprecia un sesgo político claro en la redacción presentada."
       }
     },
     {
@@ -186,54 +186,29 @@
       "web": "https://www.estadao.com.br",
       "noticias": [
         {
-          "titulo": "Chefs dão conselhos de ouro para a maionese perfeita",
-          "entradilla": "Veja os ingredientes que fazem diferença e as melhores maioneses do mercado; veja dicas dos chefs para o preparo caseiro",
-          "enlace": "https://www.estadao.com.br/paladar/comida/chefs-dao-conselhos-de-ouro-para-a-maionese-perfeita/"
-        },
-        {
-          "titulo": "Serviços da Microsoft continuam fora do ar; o que causou a queda?",
+          "titulo": "VÍDEO: Papa Leão XIV troca idiomas ao falar com fiéis no Peru e ri da própria confusão",
           "entradilla": "",
-          "enlace": "https://www.estadao.com.br/tecmundo/big-techs/microsoft-fora-do-ar-o-que-causou-queda/"
+          "enlace": "https://www.estadao.com.br/internacional/video-papa-leao-xiv-troca-idiomas-ao-falar-com-fieis-peru-ri-propria-confusao-npr/"
         },
         {
-          "titulo": "Justiça proíbe Uber de cobrar taxa para motoristas aceitarem corridas; multa diária é de R$ 100 mil",
+          "titulo": "EUA suspendem decolagens em todos os aeroportos do país por motivos de segurança",
           "entradilla": "",
-          "enlace": "https://www.estadao.com.br/brasil/justica-proibe-uber-de-cobrar-taxa-para-motoristas-aceitarem-corridas-multa-diaria-e-de-r-100-mil-npr/"
+          "enlace": "https://www.estadao.com.br/internacional/eua-suspendem-decolagens-em-todos-os-aeroportos-do-pais-por-motivos-de-seguranca-npr/"
         },
         {
-          "titulo": "Wolfenstein 3 é confirmado por Asha Sharma, CEO do Xbox",
+          "titulo": "Holanda de Xavi atropela Grécia e iguala maior goleada da história da Nations League",
           "entradilla": "",
-          "enlace": "https://www.estadao.com.br/tecmundo/voxel/wolfenstein-3-e-confirmado-por-asha-sharma-ceo-do-xbox/"
+          "enlace": "https://www.estadao.com.br/esportes/futebol/holanda-de-xavi-atropela-grecia-e-iguala-maior-goleada-da-historia-da-nations-league-npres/"
         },
         {
-          "titulo": "Zontes T501: como anda a crossover de 499 cm³ feita para o Brasil",
-          "entradilla": "",
-          "enlace": "https://www.estadao.com.br/jornal-do-carro/motos/zontes-t501-como-anda-a-crossover-de-499-cm-feita-para-o-brasil/"
-        },
-        {
-          "titulo": "CSN registra prejuízo de R$ 1,2 bilhão e vê resultado operacional despencar 43,5%",
-          "entradilla": "",
-          "enlace": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/csn-registra-prejuizo-de-r-12-bilhao-e-ve-resultado-operacional-despencar-435/"
-        },
-        {
-          "titulo": "As melhores marcas de tortilha de trigo do mercado; conheça",
-          "entradilla": "Degustação às cegas reuniu marcas de tortilhas de trigo e especialistas escolheram o top 3 em avaliação do Paladar Testou",
-          "enlace": "https://www.estadao.com.br/paladar/comida/as-melhores-marcas-de-tortilha-de-trigo-do-mercado-conheca/"
-        },
-        {
-          "titulo": "Líder de entidade dos delegados diz que diretor da PF deve ‘ficar longe’ de investigações sensíveis",
-          "entradilla": "",
-          "enlace": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/lider-de-entidade-dos-delegados-diz-que-diretor-da-pf-deve-ficar-longe-de-investigacoes-sensiveis/"
-        },
-        {
-          "titulo": "Ibovespa avança com balanços, inflação nos EUA e varejo no radar; Nubank sobe 4% no pré-mercado",
-          "entradilla": "Ibovespa acompanha novos balanços corporativos após a queda do Banco do Brasil (BBAS3). Dados do varejo brasileiro e da inflação ao produtor nos EUA também podem influenciar o pregão desta sexta-feira (13).",
+          "titulo": "Ibovespa contraria índices dos EUA e sobe de olho em balanços; Nubank salta em NY",
+          "entradilla": "Ibovespa sobe com novos balanços corporativos no radar. Dados do varejo brasileiro e da inflação ao produtor nos EUA também influenciam o pregão desta sexta-feira (13).",
           "enlace": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/ibovespa-encara-novos-balancos-inflacao-nos-eua-e-dados-do-varejo-apos-queda-puxada-por-bancos/"
         },
         {
-          "titulo": "Tombo do Banco do Brasil no 3º trimestre aumenta pressão sobre Tarciana Medeiros; leia bastidor",
-          "entradilla": "",
-          "enlace": "https://www.estadao.com.br/economia/negocios/tombo-banco-brasil-aumenta-pressao-tarciana-medeiros-leia-bastidor/"
+          "titulo": "CSN desaba 12% após balanço e lidera perdas do Ibovespa; veja maiores altas e baixas",
+          "entradilla": "O Ibovespa hoje fecha em alta, enquanto investidores repercutem balanços do terceiro trimestre; veja os destaques do pregão desta sexta-feira (13)",
+          "enlace": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/csn-desaba-10-apos-balanco-e-lidera-perdas-do-ibovespa-veja-maiores-altas-e-baixas/"
         },
         {
           "titulo": "Kassab diz que decisão de Zanin que negou liminar por 2º turno no Rio foi correta e aguarda mérito",
@@ -241,16 +216,41 @@
           "enlace": "https://www.estadao.com.br/politica/kassab-diz-que-decisao-de-zanin-que-negou-liminar-por-2-turno-no-rio-foi-correta-e-aguarda-merito/"
         },
         {
-          "titulo": "São Paulo tem comida caipira? Conheça receitas que mantêm viva essa tradição",
-          "entradilla": "Conheça receitas caipiras que resgatam as raízes da comida paulistana, da tradição do milho aos pratos que fazem parte da história de São Paulo.",
-          "enlace": "https://www.estadao.com.br/paladar/caderno-de-receitas/sao-paulo-tem-comida-caipira-conheca-receitas-que-resgatam-essa-tradicao/"
+          "titulo": "‘Nem sei onde estava, mas estou de volta’: Lionel Richie retorna aos palcos após cirurgia cardíaca",
+          "entradilla": "",
+          "enlace": "https://www.estadao.com.br/cultura/musica/nem-sei-onde-estava-mas-estou-de-volta-lionel-richie-retorna-aos-palcos-apos-cirurgia-cardiaca-nprec/"
+        },
+        {
+          "titulo": "UE define grupo de países para representar a Europa nas negociações entre Rússia e Ucrânia",
+          "entradilla": "",
+          "enlace": "https://www.estadao.com.br/internacional/ue-grupo-paises-representar-europa-negociacoes-russia-ucrania-npr/"
+        },
+        {
+          "titulo": "Tesouro Direto tem alívio nas taxas com aprovação de ajuste fiscal; veja como foi a sexta-feira",
+          "entradilla": "Taxas do Tesouro Direto sobem nesta sexta-feira apesar do avanço do ajuste fiscal no Senado; Prefixado 2032 paga 15,32% e IPCA+ 2050, 7,51%.",
+          "enlace": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/ajuste-fiscal-avanca-mas-tesouro-ainda-cobra-premio-prefixado-2032-sobe-a-1532/"
+        },
+        {
+          "titulo": "Petroleiro bate em cruzeiro no rio Mississippi, nos EUA; equipes fazem resgate de passageiros",
+          "entradilla": "",
+          "enlace": "https://www.estadao.com.br/internacional/petroleiro-bate-cruzeiro-rio-mississippi-eua-resgate-passageiros-npr/"
+        },
+        {
+          "titulo": "Cupom Havaianas | Até 50% off - Novembro 2026",
+          "entradilla": "Use um cupom de desconto Havaianas com X% off em Havaianas Farm, Havaianas Feminina, Havaianas Masculina, Alpargatas Havaianas e muito mais.",
+          "enlace": "https://www.estadao.com.br/tecmundo/guia-de-compras/cupons/cupom-havaianas/"
+        },
+        {
+          "titulo": "Esquema de golpe usa chamadas de vídeo falsas e rouba mais de R$ 2 bilhões",
+          "entradilla": "",
+          "enlace": "https://www.estadao.com.br/tecmundo/ciberseguranca/esquema-de-golpe-usa-chamadas-de-video-falsas-e-rouba-mais-de-r-2-bilhoes/"
         }
       ],
       "analisis": {
-        "resumen": "- Chefs ofrecen consejos para preparar mayonesa y elegir productos del mercado.\n- Los servicios de Microsoft siguen caídos y una decisión judicial prohíbe a Uber cobrar una tasa a los conductores por aceptar viajes.\n- CSN registra pérdidas y cae su resultado operativo; el Ibovespa avanza mientras el Banco do Brasil afronta presión por sus resultados.\n- Un dirigente de los delegados pide que el director de la Policía Federal se mantenga alejado de investigaciones sensibles; Kassab comenta una decisión judicial sobre una segunda vuelta en Río.\n- La portada también aborda videojuegos, una motocicleta y gastronomía, con una cata de tortillas y recetas tradicionales de São Paulo.",
-        "populismo": 10,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «conselhos de ouro», «despencar» y «tombo» aportan énfasis y atractivo; no se aprecia una confrontación entre pueblo y élites.",
-        "sesgo": "La selección combina información económica y empresarial con contenidos de consumo, tecnología y gastronomía. Las noticias políticas e institucionales se presentan mediante declaraciones y decisiones concretas, sin que se aprecie una orientación partidista clara."
+        "resumen": "- El papa León XIV se confunde entre idiomas al hablar con fieles en Perú; EE. UU. suspende los despegues por seguridad.\n- Los mercados siguen los resultados empresariales: suben el Ibovespa y Nubank, mientras CSN cae un 12 %.\n- Kassab respalda una decisión judicial sobre la segunda vuelta en Río; la UE elige representantes para las negociaciones entre Rusia y Ucrania.\n- Un petrolero choca con un crucero en el Misisipi y un fraude con videollamadas falsas supera los 2.000 millones de reales.\n- Holanda golea a Grecia, Lionel Richie vuelve a los escenarios y se anuncia un cupón de Havaianas.",
+        "populismo": 18,
+        "motivo_populismo": "Predomina el tono informativo, aunque expresiones como «atropela» y «desaba» aportan dramatismo; no se aprecia una oposición entre el pueblo y las élites.",
+        "sesgo": "La selección da espacio a mercados y finanzas, junto con noticias internacionales, sucesos, deportes y entretenimiento. No se aprecia un sesgo político claro en los titulares."
       }
     },
     {
@@ -258,71 +258,71 @@
       "web": "https://www.gazetadopovo.com.br",
       "noticias": [
         {
-          "titulo": "Incidente no Tesouro Nacional expõe dados de 30 mil cadastros e 4 mil chaves Pix",
-          "entradilla": "Órgão informou vazamento à ANPD oito dias após detectar acesso indevido a dados pessoais. Leia na Gazeta do Povo.",
-          "enlace": "https://www.gazetadopovo.com.br/republica/incidente-no-tesouro-nacional-expoe-dados-de-30-mil-cadastros-e-4-mil-chaves-pix/"
+          "titulo": "Rogério Marinho aponta manobras fiscais em novo ajuste aprovado pelo Senado",
+          "entradilla": "Senador Rogério Marinho classifica ajuste fiscal aprovado no Senado como nova pedalada e propõe alternativa de R$ 75 bilhões sem aumento de impostos.",
+          "enlace": "https://www.gazetadopovo.com.br/republica/rogerio-marinho-aponta-manobras-fiscais-em-novo-ajuste-aprovado-pelo-senado/"
         },
         {
-          "titulo": "Font Life, indústria de água,  amplia atuação no mercado premium com novo conceito de marca",
-          "entradilla": "Font Life Experience reúne linhas de águas especiais e amplia presença da empresa em hotéis, spas, empórios e outros ambientes que valorizam a experiência do consumidor",
-          "enlace": "https://www.gazetadopovo.com.br/vozes/parana-sa/agua-mineral-premium-hoteis-spas/"
+          "titulo": "PSB aciona TSE por segundo turno no Rio de janeiro",
+          "entradilla": "O PSB questiona o recálculo dos votos que levou à proclamação da vitória de Douglas Ruas (PL) no primeiro turno no Rio de Janeiro.",
+          "enlace": "https://www.gazetadopovo.com.br/republica/psb-aciona-tse-por-segundo-turno-no-rio-de-janeiro/"
         },
         {
-          "titulo": "“Um, às vezes quatro”: o silêncio que um jornaleiro provocou no rádio",
-          "entradilla": "Gostaria de ser um repórter a perguntar aos leitores de jornal digital como é sua rotina, seu ritual de leitura. Se é que possuem um.",
-          "enlace": "https://www.gazetadopovo.com.br/vozes/francisco-escorsim/bancas-jornal-impresso/"
+          "titulo": "Fachin vai empurrar os abusos do Inquérito das Fake News para debaixo do tapete?",
+          "entradilla": "Inquérito das Fake News é um monstro criado sob o pretexto de defender a democracia, mas que acabou por devorá-la. Leia na Gazeta do Povo.",
+          "enlace": "https://www.gazetadopovo.com.br/vozes/jocelaine-santos/fachin-vai-empurrar-os-abusos-do-inquerito-das-fake-news-para-debaixo-do-tapete/"
         },
         {
-          "titulo": "Os 7 retrocessos de um Novo Código Civil às pressas. Leia na Gazeta Revista",
-          "entradilla": "A edição 208 da Gazeta Revista expõe os retrocessos de um Novo Código Civil que tramita às pressas. Leia na Gazeta do Povo.",
-          "enlace": "https://www.gazetadopovo.com.br/gazeta-revista/os-retrocessos-de-um-novo-codigo-civil-as-pressas-na-gazeta-revista/"
+          "titulo": "Um arremedo de pacote fiscal",
+          "entradilla": "O pacote fiscal não resolve os problemas imediatos criados por Lula 3, e tampouco ataca com força outros problemas mais estruturais do gasto público brasileiro.",
+          "enlace": "https://www.gazetadopovo.com.br/opiniao/editoriais/pacote-fiscal-lula-arremedo/"
         },
         {
-          "titulo": "Direita da Espanha critica Lula por viagem para apoiar premiê socialista: “Mestre da fraude eleitoral”",
-          "entradilla": "Eurodeputado do Vox criticou Lula, que viajará à Espanha para se encontrar com o premiê socialista Pedro Sánchez, que está em campanha",
-          "enlace": "https://www.gazetadopovo.com.br/mundo/direita-espanha-critica-lula-viagem-apoiar-premie-socialista/"
+          "titulo": "EUA suspendem decolagens em todos os aeroportos do país por razões de segurança",
+          "entradilla": "A agência federal de aviação americana (FAA) determinou nesta sexta-feira a suspensão de decolagens em todo o país.",
+          "enlace": "https://www.gazetadopovo.com.br/mundo/eua-suspendem-decolagens-em-todos-os-aeroportos-do-pais-por-razoes-de-seguranca/"
         },
         {
-          "titulo": "Ataque hacker ao maior porto da América Latina teve resgate de servidores de dados durante madrugada",
-          "entradilla": "Ataque hacker ao porto de Santos levou servidores e backups para São Paulo; sistema online segue fora do ar. Leia na Gazeta.",
-          "enlace": "https://www.gazetadopovo.com.br/brasil/ataque-hacker-porto-de-santos-operacao-resgate-servidores/"
+          "titulo": "Câmara pede que STF derrube parte da decisão de Dino sobre fim da escala 6×1",
+          "entradilla": "Câmara pede que STF derrube parte das regras de Dino para a transição do fim da escala 6x1. Leia na Gazeta do Povo.",
+          "enlace": "https://www.gazetadopovo.com.br/economia/camara-pede-que-stf-derrube-parte-da-decisao-de-dino-sobre-fim-da-escala-6x1/"
         },
         {
-          "titulo": "Cristãos no Líbano enfrentam assassinatos e pressão para vender terras",
-          "entradilla": "Presidente libanês garante segurança aos cristãos, mas comunidade enfrenta violência, deslocamento e pressão do Hezbollah para vender propriedades em áreas tradicionais.",
-          "enlace": "https://www.gazetadopovo.com.br/mundo/cristaos-no-libano-enfrentam-assassinatos-e-pressao-para-vender-terras/"
+          "titulo": "Justiça do Trabalho suspende cobrança de taxas fixas da Uber para motoristas",
+          "entradilla": "A Uber foi proibida de exigir assinatura obrigatória para motoristas aceitarem corridas. Entenda os riscos do programa e a decisão da Justiça do Trabalho.",
+          "enlace": "https://www.gazetadopovo.com.br/economia/justica-do-trabalho-suspende-cobranca-de-taxas-fixas-da-uber-para-motoristas/"
         },
         {
-          "titulo": "Proclamação da República: o que aconteceu em 15 de novembro de 1889",
-          "entradilla": "Entenda o que aconteceu em 15 de novembro de 1889 e por que a data marcou o fim da monarquia no Brasil. Leia na Gazeta do Povo.",
-          "enlace": "https://www.gazetadopovo.com.br/brasil/15-de-novembro-entenda-a-origem-da-proclamacao-da-republica/"
+          "titulo": "Partido Democrata enfrenta disputa interna entre progressistas e moderados após vitória nos EUA",
+          "entradilla": "Após vitória nas eleições dos EUA, progressistas e moderados disputam a liderança do Partido Democrata e divergem sobre temas no Congresso.",
+          "enlace": "https://www.gazetadopovo.com.br/mundo/partido-democrata-enfrenta-disputa-interna-entre-progressistas-e-moderados-apos-vitoria-nos-eua/"
         },
         {
-          "titulo": "O que acontece se a Inteligência Artificial fugir do controle humano?",
-          "entradilla": "Preocupação com os rumos da IA parte dos próprios desenvolvedores da tecnologia.",
-          "enlace": "https://www.gazetadopovo.com.br/ideias/o-que-acontece-se-a-inteligencia-artificial-fugir-do-controle-humano/"
+          "titulo": "Relatórios de delegados afastados sobre ministros do STF vão sobreviver a tentativas de eliminação",
+          "entradilla": "Arquivos que mencionam Moraes, Toffoli e Nunes Marques foram inseridos em diferentes sistemas e eliminação é dada como impossível.",
+          "enlace": "https://www.gazetadopovo.com.br/republica/relatorios-delegados-afastados-sobre-ministros-do-stf-vao-sobreviver-a-tentativas-de-eliminacao/"
         },
         {
-          "titulo": "Justiça Federal manda bloquear site acusado de incentivar suicídio",
-          "entradilla": "Fórum possui tópicos que vão de compartilhamento de métodos a recuperação por pensamentos suicidas. Leia na Gazeta do Povo.",
-          "enlace": "https://www.gazetadopovo.com.br/vida-e-cidadania/justica-federal-manda-bloquear-site-acusado-de-incentivar-suicidio/"
+          "titulo": "Influenciadores foram censurados por Moraes por defender impeachment de ministros do STF",
+          "entradilla": "Apenso do inquérito das fake news, arquivado por Edson Fachin, mostra como influenciadores foram alvo por criticar decisões do STF.",
+          "enlace": "https://www.gazetadopovo.com.br/republica/influenciadores-foram-censurados-por-moraes-por-defender-impeachment-de-ministros-do-stf/"
         },
         {
-          "titulo": "O que se sabe sobre a falha mundial de serviços da Microsoft",
-          "entradilla": "Falhas que tiveram início na quinta-feira (12) permanecem afetando o Microsoft 365, plataforma que reúne ferramentas de trabalho",
-          "enlace": "https://www.gazetadopovo.com.br/mundo/o-que-se-sabe-sobre-a-falha-mundial-de-servicos-da-microsoft/"
+          "titulo": "Toffoli dá 3 dias para Lula explicar inconsistências em gastos eleitorais",
+          "entradilla": "Área técnica do TSE identificou indícios de subcontratação e cobrou explicações sobre R$ 44,4 milhões gastos pela chapa Lula-Alckmin.",
+          "enlace": "https://www.gazetadopovo.com.br/republica/toffoli-da-3-dias-para-lula-explicar-inconsistencias-em-gastos-eleitorais/"
         },
         {
-          "titulo": "Universidade católica será presenteada a congregação franciscana nos EUA",
-          "entradilla": "Congregação das Irmãs de Santa Agnes planeja presentear Universidade Marian às Irmãs Franciscanas Bernardinas, que fundaram a Universidade Alvernia na Pensilvânia.",
-          "enlace": "https://www.gazetadopovo.com.br/mundo/universidade-catolica-sera-presenteada-a-congregacao-franciscana-nos-eua/"
+          "titulo": "Fachin suspende prazos processuais em todo o país após pane da Microsoft",
+          "entradilla": "Fachin atendeu a um pedido da OAB após pane da Microsoft afetar ferramentas de comunicação e serviços utilizados pelo Judiciário.",
+          "enlace": "https://www.gazetadopovo.com.br/republica/fachin-suspende-prazos-processuais-em-todo-o-pais-apos-pane-da-microsoft/"
         }
       ],
       "analisis": {
-        "resumen": "- Una filtración en el Tesoro Nacional expuso datos personales y claves Pix; un ciberataque al puerto de Santos mantiene su sistema en línea fuera de servicio.\n- Una revista denuncia siete «retrocesos» en la tramitación de un nuevo Código Civil.\n- La derecha española critica el viaje de Lula para reunirse con Pedro Sánchez.\n- Se informa sobre la violencia y la presión sobre las tierras de cristianos en Líbano, y sobre el bloqueo judicial de un sitio acusado de incentivar el suicidio.\n- Otros temas incluyen fallos de Microsoft, riesgos de la inteligencia artificial, la proclamación de la República y noticias empresariales, universitarias y culturales.",
-        "populismo": 23,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «siete retrocesos» y «a toda prisa» presentan una valoración contundente, y se destaca la descalificación citada «maestro del fraude electoral».",
-        "sesgo": "La portada adopta un enfoque crítico hacia el nuevo Código Civil y destaca una acusación de la derecha española contra Lula. También presta atención a asuntos de comunidades e instituciones cristianas."
+        "resumen": "- Críticas al ajuste fiscal aprobado por el Senado y a la política de gasto del Gobierno de Lula.\n- Cuestionamientos al Supremo Tribunal Federal y a la investigación sobre noticias falsas.\n- Disputa electoral en Río de Janeiro y pedido de explicaciones sobre gastos de la campaña Lula-Alckmin.\n- Decisiones judiciales sobre la jornada laboral, Uber y plazos procesales.\n- Suspensión de despegues en Estados Unidos y disputa interna en el Partido Demócrata.",
+        "populismo": 45,
+        "motivo_populismo": "Conviven titulares informativos con expresiones descalificadoras y alarmistas, como «arremedo de paquete fiscal», la imagen de un «monstruo» que devora la democracia y la pregunta sobre ocultar abusos «debajo de la alfombra».",
+        "sesgo": "La selección y la redacción muestran un enfoque crítico hacia el Gobierno de Lula y hacia actuaciones de ministros del Supremo, especialmente en la investigación sobre noticias falsas. Algunas piezas adoptan un lenguaje acusatorio, mientras que otras mantienen un tono informativo."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://www.cartacapital.com.br",
       "noticias": [
         {
-          "titulo": "Cansou do ovo mexido? Veja 3 receitas rápidas e saudáveis para variar o café da manhã",
-          "entradilla": "Versátil e fonte de proteínas, o ovo pode deixar o café da manhã mais nutritivo sem complicar a rotina. E não precisa aparecer sempre mexido ou cozido: crepes de massa fininha, suflês dourados e waffles salgados são maneiras saborosas de variar o preparo e dar […]",
-          "enlace": "https://www.cartacapital.com.br/receitas/cansou-do-ovo-mexido-veja-3-receitas-rapidas-e-saudaveis-para-variar-o-cafe-da-manha/"
+          "titulo": "STJ decide que farmácias devem manter farmacêutico presente durante todo o expediente",
+          "entradilla": "Para a Corte, a exigência prevista em lei não pode ser cumprida apenas por meio de atendimento remoto ou de plantão centralizado",
+          "enlace": "https://www.cartacapital.com.br/justica/stj-decide-que-farmacias-devem-manter-farmaceutico-presente-durante-todo-o-expediente/"
         },
         {
-          "titulo": "Horóscopo semanal: previsões para os signos de 16 a 22 de novembro de 2026",
-          "entradilla": "Nesta semana, o Sol em Escorpião fará quadratura com Marte e Júpiter, indicando uma fase que poderá ser marcada por mais intensidade, impaciência e exageros. A vontade de alcançar os objetivos tenderá a ganhar força, mas também haverá uma tendência a conflitos, disputas e decisões […]",
-          "enlace": "https://www.cartacapital.com.br/astrologia/horoscopo-semanal-previsoes-para-os-signos-de-16-a-22-de-novembro-de-2026/"
+          "titulo": "Câmara e Senado contestam mudanças de Dino em regras do fim da escala 6×1",
+          "entradilla": "As duas Casas defendem a preservação das condições definidas pelos parlamentares para a transição",
+          "enlace": "https://www.cartacapital.com.br/politica/camara-e-senado-contestam-mudancas-de-dino-em-regras-do-fim-da-escala-6x1/"
         },
         {
-          "titulo": "STF encerra processo sobre perdas na poupança e exige adesão a acordo coletivo",
-          "entradilla": "A Corte manteve o prazo para adesão até junho de 2027; o acordo contempla planos econômicos dos anos 1980 e 1990, como 'Bresser', 'Verão' e 'Collor'",
-          "enlace": "https://www.cartacapital.com.br/economia/stf-encerra-processo-sobre-perdas-na-poupanca-e-exige-adesao-a-acordo-coletivo/"
+          "titulo": "Gilmar Mendes diz que arquivamento do inquérito das fake news aconteceu ‘no tempo certo’",
+          "entradilla": ". A investigação, que antes estava nas mãos de Alexandre de Moraes, durou mais de sete anos",
+          "enlace": "https://www.cartacapital.com.br/justica/gilmar-mendes-diz-que-arquivamento-do-inquerito-das-fake-news-aconteceu-no-tempo-certo/"
         },
         {
-          "titulo": "Defesa de Vorcaro contesta Fachin e pede retorno do caso Master a Mendonça",
-          "entradilla": "Advogados alegam violação ao princípio do juiz natural e cobram análise do pedido de liberdade do ex-banqueiro; PGR se manifestou contra a soltura",
-          "enlace": "https://www.cartacapital.com.br/politica/defesa-de-vorcaro-contesta-fachin-e-pede-retorno-do-caso-master-a-mendonca/"
+          "titulo": "Fachin atende OAB e suspende prazos processuais após instabilidade da Microsoft",
+          "entradilla": "A entidade alegou que as falhas técnicas podem causar prejuízos à advocacia e ao andamento de processos",
+          "enlace": "https://www.cartacapital.com.br/justica/fachin-atende-oab-e-suspende-prazos-processuais-apos-instabilidade-da-microsoft/"
         },
         {
-          "titulo": "Brasil ultrapassa mil casos confirmados de mpox em 2026",
-          "entradilla": "Rio de Janeiro e São Paulo concentram a maior parte dos registros; outubro e novembro, juntos, respondem por mais da metade das confirmações do ano",
-          "enlace": "https://www.cartacapital.com.br/saude/brasil-ultrapassa-mil-casos-confirmados-de-mpox-em-2026/"
+          "titulo": "Justiça condena União a reparar Canudos com quase R$ 600 milhões em investimentos por massacre",
+          "entradilla": "Sentença reconhece responsabilidade do Estado brasileiro pela destruição do arraial de Antônio Conselheiro, em 1897; cabe recurso",
+          "enlace": "https://www.cartacapital.com.br/justica/justica-condena-uniao-a-reparar-canudos-com-quase-r-600-milhoes-em-investimentos-por-massacre/"
         },
         {
-          "titulo": "PF faz nova busca em investigação sobre desvio de emendas para o filme ‘Dark Horse’",
-          "entradilla": "Segunda fase da Operação Make Up mira investigado que não foi localizado em setembro, quando a PF teve como alvos Mario Frias e a produtora Karina Gama",
-          "enlace": "https://www.cartacapital.com.br/politica/pf-faz-nova-busca-em-investigacao-sobre-desvio-de-emendas-para-o-filme-dark-horse/"
+          "titulo": "Pão de queijo de liquidificador: receita fácil e rápida para o lanche da tarde",
+          "entradilla": "O pão de queijo de liquidificador é uma alternativa prática para quem deseja preparar um lanche da tarde caseiro sem passar muito tempo na cozinha. Com ingredientes simples e preparo rápido, a receita resulta em porções macias por dentro, levemente douradas por fora e com […]",
+          "enlace": "https://www.cartacapital.com.br/receitas/pao-de-queijo-de-liquidificador-receita-facil-e-rapida-para-o-lanche-da-tarde/"
         },
         {
-          "titulo": "Microsoft afasta ataque hacker como causa de pane global no Outlook",
-          "entradilla": "Interrupção também atingiu Teams e Copilot em 74 países; empresa identificou sobrecarga na infraestrutura e iniciou medidas para recuperar os serviços",
-          "enlace": "https://www.cartacapital.com.br/mundo/microsoft-afasta-ataque-hacker-como-causa-de-pane-global-no-outlook/"
+          "titulo": "Limão e sol: entenda por que essa combinação pode causar queimaduras",
+          "entradilla": "Espremer limão na praia, preparar uma caipirinha à beira da piscina ou temperar um peixe durante um dia de sol pode provocar queimaduras, bolhas e manchas escuras na pele. A combinação entre o contato com substâncias presentes em frutas cítricas e a exposição solar causa […]",
+          "enlace": "https://www.cartacapital.com.br/bem-estar/limao-e-sol-entenda-por-que-essa-combinacao-pode-causar-queimaduras/"
         },
         {
-          "titulo": "Brasil x Japão: prováveis escalações, arbitragem, onde assistir, retrospecto e palpites",
-          "entradilla": "Depois de perder para o Japão em 2025 e vencer de virada na Copa, o Brasil encara os japoneses pela terceira vez em pouco mais de um ano",
-          "enlace": "https://www.cartacapital.com.br/esporte/brasil-x-japao-provaveis-escalacoes-arbitragem-onde-assistir-retrospecto-e-palpites/"
+          "titulo": "Autoconhecimento e espiritualidade: a importância de olhar para si antes de cuidar do outro",
+          "entradilla": "“Você cuida de todo mundo. Mas quem cuida de você?” A pergunta traz à tona uma realidade vivida por muitas pessoas: aquelas que se tornam o principal apoio emocional da família, estão sempre disponíveis para ouvir, ajudam a resolver problemas e, quase sem perceber, deixam […]",
+          "enlace": "https://www.cartacapital.com.br/astrologia/autoconhecimento-e-espiritualidade-a-importancia-de-olhar-para-si-antes-de-cuidar-do-outro/"
         },
         {
-          "titulo": "Flamengo corre para recuperar trio antes de enfrentar Athletico no Brasileirão",
-          "entradilla": "Lateral voltou aos treinos no Ninho do Urubu, enquanto meia e zagueiro Danilo seguem em recuperação para a 35ª rodada do Brasileirão.",
-          "enlace": "https://www.cartacapital.com.br/esporte/flamengo-corre-para-recuperar-trio-antes-de-enfrentar-athletico-no-brasileirao/"
+          "titulo": "Sexta-feira 13 marca o fim de Mercúrio e Vênus retrógrados; saiba o que esperar",
+          "entradilla": "Nesta sexta-feira 13, Mercúrio e Vênus encerram seus movimentos retrógrados ao mesmo tempo. O fenômeno marca o fim de um período que, nas últimas semanas, envolveu questões relacionadas à comunicação, aos relacionamentos amorosos, às amizades e às finanças, áreas que passaram por questionamentos e r",
+          "enlace": "https://www.cartacapital.com.br/astrologia/sexta-feira-13-marca-o-fim-de-mercurio-e-venus-retrogrados-saiba-o-que-esperar/"
         },
         {
-          "titulo": "Congresso dos EUA convoca ex-CEO da Nvidia após caso com suposta espiã chinesa",
-          "entradilla": "O escândalo provocou a perda de quase meio trilhão de dólares e despertou temores sobre a segurança nacional dos Estados Unidos",
-          "enlace": "https://www.cartacapital.com.br/mundo/congresso-dos-eua-convoca-ex-ceo-da-nvidia-apos-caso-com-suposta-espia-chinesa/"
+          "titulo": "MP do Paraguai acusa Santiago Peña de liderar uma associação criminosa",
+          "entradilla": "Os promotores sustentam que o grupo teria trabalhado para proteger o Ueno Bank",
+          "enlace": "https://www.cartacapital.com.br/mundo/mp-do-paraguai-acusa-santiago-pena-de-liderar-uma-associacao-criminosa/"
         },
         {
-          "titulo": "Tarot do dia: previsão para os 12 signos em 13/11/2026",
-          "entradilla": "O tarot revela que a uma sexta-feira será marcada por oportunidades de crescimento, decisões importantes e situações que poderão transformar a maneira de enxergar o futuro. Enquanto alguns signos poderão celebrar conquistas, receber boas notícias e encontrar novos caminhos profissionais, outros prec",
-          "enlace": "https://www.cartacapital.com.br/astrologia/tarot-do-dia-previsao-para-os-12-signos-em-13-11-2026/"
+          "titulo": "EUA: inflação no atacado acelera e vai a 6,5%, o maior nível em 4 anos",
+          "entradilla": "O PPI funciona como um termômetro das pressões que costumam ser repassadas ao consumidor final no varejo",
+          "enlace": "https://www.cartacapital.com.br/economia/eua-inflacao-no-atacado-acelera-e-vai-a-65-o-maior-nivel-em-4-anos/"
         },
         {
-          "titulo": "Horóscopo do dia 13/11/2026: signos poderão rever planos e tomar decisões conscientes",
-          "entradilla": "Esta sexta-feira poderá trazer oportunidades para lidar com mais maturidade com as responsabilidades. Algumas situações pedirão paciência e organização, mas também poderão ajudar os nativos a enxergar com mais clareza suas prioridades. O dia favorecerá a resolução de pendências, a revisão de estraté",
-          "enlace": "https://www.cartacapital.com.br/astrologia/horoscopo-do-dia-13-11-2026-signos-poderao-rever-planos-e-tomar-decisoes-conscientes/"
+          "titulo": "Em 3 anos, Caixa amplia lucro, margem, patrimônio líquido e crédito imobiliário",
+          "entradilla": "O lucro recorrente de nove meses cresceu cerca de 40%, de 7,8 bilhões para 10,9 bilhões de reais",
+          "enlace": "https://www.cartacapital.com.br/economia/caixa-lucro-margem-credito-imobiliario-36-meses/"
         }
       ],
       "analisis": {
-        "resumen": "- El STF cierra el proceso por pérdidas en ahorros y mantiene hasta junio de 2027 el plazo para adherirse al acuerdo colectivo.\n- La defensa de Vorcaro cuestiona la gestión del caso Master y pide su libertad; la fiscalía se opone.\n- Brasil supera los mil casos confirmados de mpox en 2026, concentrados principalmente en Río de Janeiro y São Paulo.\n- La Policía Federal realiza una nueva búsqueda por el presunto desvío de enmiendas para una película; Microsoft descarta un ciberataque como causa de la caída de Outlook.\n- La portada incluye deportes, recetas, horóscopos y tarot, además de una noticia sobre Nvidia y una supuesta espía china.",
-        "populismo": 12,
-        "motivo_populismo": "Predomina un lenguaje informativo, aunque expresiones como «escándalo», «temores» y «corre para recuperar» aportan algo de dramatización; no se aprecia una oposición entre pueblo y élites.",
-        "sesgo": "La selección combina actualidad judicial y sanitaria con deportes, servicios y entretenimiento esotérico. En los titulares proporcionados no se aprecia un sesgo político definido."
+        "resumen": "- La justicia exige farmacéuticos presenciales durante toda la jornada y ordena inversiones para reparar la destrucción de Canudos, con posibilidad de recurso.\n- El Congreso cuestiona cambios de Dino sobre la transición para acabar con la jornada 6×1; Gilmar Mendes defiende el momento del archivo de la investigación sobre noticias falsas.\n- Fachin suspende plazos procesales tras fallos de Microsoft, a petición de la OAB.\n- La fiscalía paraguaya acusa a Santiago Peña de liderar una asociación criminal; en Estados Unidos se acelera la inflación mayorista y Caixa mejora sus resultados.\n- La portada incluye una receta, una advertencia sobre el limón y el sol, y contenidos de bienestar y astrología.",
+        "populismo": 8,
+        "motivo_populismo": "Los titulares son mayormente descriptivos y no apelan al pueblo contra las élites, aunque algunas fórmulas como «quemaduras» y «saiba o que esperar» buscan atraer la atención.",
+        "sesgo": "Predomina un enfoque institucional y judicial, combinado con economía y servicios. No se aprecia un sesgo político claro en la selección o la redacción presentada."
       }
     }
   ]

@@ -1,39 +1,39 @@
 {
   "pais": "Reino Unido",
   "fecha": "2026-11-13",
-  "turno": 8,
-  "generado": "13/11/2026 14:58",
+  "turno": 18,
+  "generado": "13/11/2026 22:49",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "La caída global de los servicios de Microsoft se repite en cuatro periódicos. También aparecen denuncias de conducta sexual, especialmente las relativas a Russell Brand y David Walliams, así como noticias de delitos violentos y del escándalo en Nvidia. Dos diarios informan de derrumbes de edificios distintos. Solo The Guardian destaca un programa de alimentación con verduras para personas con diabetes.",
-    "crispacion": 53,
-    "motivo_crispacion": "La crispación es moderada: el choque entre conservadores y Reform por el alojamiento de solicitantes de asilo refleja enfrentamiento político. También generan tensión las denuncias de conducta sexual y la investigación de un incendio provocado ante una sinagoga, descrito como incidente de odio antisemita. Las noticias sobre delitos violentos y la caída de Microsoft añaden preocupación, aunque no siempre implican confrontación política o social. Las informaciones sobre alimentación, deportes y ocio ofrecen un contrapunto más tranquilo."
+    "temas": "Se repiten la paralización de vuelos en Estados Unidos, la colisión de embarcaciones en Nueva Orleans y la caída mundial de servicios de Microsoft. También aparecen en varios periódicos la investigación por presuntos delitos sexuales contra David Walliams, el caso de Russell Brand y la actividad sospechosa de drones en una base británica. Solo The Guardian destaca los descubrimientos matemáticos en los cuadernos de Kurt Gödel gracias a la inteligencia artificial.",
+    "crispacion": 50,
+    "motivo_crispacion": "La tensión procede de las denuncias de delitos sexuales, la investigación por un posible ataque antisemita y otras noticias violentas. En política, destacan las críticas a las subidas de impuestos y las preguntas sobre la financiación de la seguridad de Nigel Farage, aunque hay pocos enfrentamientos directos entre partidos. El lenguaje de algunos titulares también es polarizador. En cambio, la cobertura de averías tecnológicas, transportes, rescates y descubrimientos científicos es principalmente informativa y modera la crispación del conjunto."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Hoy veo dos caras de una misma desigualdad. En Cornualles, participantes con diabetes cuentan que las cajas gratuitas de verduras y el apoyo para cocinar y cultivar les han ayudado a mejorar sus niveles de azúcar. Para mí, la lección es clara: comer bien y cuidar la salud no deberían depender del poder adquisitivo. Defiendo servicios públicos que garanticen ambos derechos.\n\nAl mismo tiempo, la caída de Microsoft ha afectado a millones de usuarios. Cuando herramientas esenciales para trabajar dependen de un gigante privado, una decisión empresarial o un fallo pueden extender sus consecuencias por toda la sociedad. No basta con esperar que el mercado lo resuelva: necesitamos alternativas públicas y propiedad colectiva de las infraestructuras digitales, bajo control democrático de quienes las usan y trabajan en ellas. La tecnología y la salud deben servir a la mayoría trabajadora, no al beneficio del gran capital."
+      "texto": "Me preocupa que el Gobierno estudie sustituir prestaciones por discapacidad por trabajo y formación, incluso para mayores de 25 años. Ofrecer oportunidades es necesario; convertir el sustento en una obligación laboral es otra cosa. Una sociedad decente garantiza ingresos y apoyos según las necesidades, no según la rentabilidad de cada persona para el mercado.\n\nLa caída de Microsoft, que ha afectado a hospitales, escuelas y policía, muestra otra dependencia: servicios esenciales apoyados en la infraestructura de una gran empresa privada. No sostengo que la propiedad pública elimine los fallos, pero sí que el control democrático y la inversión colectiva permitirían priorizar la seguridad, la continuidad y las necesidades comunes por encima del negocio. Para mí, la lucha de clases también se libra ahí: en quién controla los recursos de los que depende nuestra vida cotidiana."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "La caída de Microsoft, que afecta a millones de personas, me recuerda lo frágil que es depender de unas pocas empresas para comunicarnos y trabajar. No basta con esperar a que el gigante repare sus sistemas: quiero herramientas abiertas, descentralizadas y controladas por quienes las usan, no por accionistas ni gobiernos.\n\nTambién me interesa la experiencia de Cornualles, donde participantes con diabetes reciben verduras gratuitas y ayuda para cocinar y cultivar. No sé quién debería atribuirse el mérito; veo, sobre todo, una muestra de lo que puede hacerse cuando se comparten recursos y conocimientos. Me gustaría que iniciativas así pudieran ser gestionadas por las propias comunidades, sin convertir la alimentación en una limosna ni la salud en una cuestión de obediencia. Desconfío tanto del Estado como de los partidos: nuestra libertad crece cuando nos organizamos entre iguales."
+      "texto": "La caída de los servicios de Microsoft ha afectado a escuelas, consultas médicas y otros servicios esenciales. Me preocupa que necesidades compartidas dependan tanto de una sola empresa. No basta con esperar a que una corporación repare sus sistemas ni con pedir a los partidos que vigilen mejor: quiero herramientas abiertas, alternativas descentralizadas y control de quienes las utilizan y mantienen.\n\nTambién rechazo los planes que se estudian para sustituir prestaciones por discapacidad por trabajo y formación. Nadie debería tener que demostrar su empleabilidad para vivir con dignidad. Prefiero una sociedad donde las personas afectadas decidan qué apoyos necesitan y donde esos apoyos se organicen mediante la cooperación, no desde una jerarquía que administra la precariedad. La libertad individual necesita recursos compartidos; el apoyo mutuo, a su vez, necesita personas libres para organizarse."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "La caída de Microsoft, que ha afectado a millones de usuarios, recuerda que la comodidad de depender de un solo proveedor tiene riesgos. Yo no veo ahí una razón para que el Estado dirija la tecnología, sino para que empresas y consumidores exijan alternativas, diversifiquen sus herramientas y valoren la fiabilidad al contratar. La competencia necesita clientes capaces de elegir y proveedores responsables de cumplir.\n\nTambién me inquietan las advertencias sobre hogares que podrían recibir por error demandas del impuesto a las viviendas de lujo. Un tributo complicado no deja de ser injusto porque prometa recaer sobre los más ricos: obliga a defenderse ante la administración y erosiona la confianza. Prefiero impuestos bajos y sencillos, un Estado limitado a funciones esenciales y ciudadanos con mayor libertad para decidir cómo emplear su dinero."
+      "texto": "Las subidas de impuestos anunciadas, que según el Daily Mail elevarían la carga en 85.000 millones de libras anuales para 2031-32, me parecen una apuesta equivocada. Prefiero impuestos bajos que dejen a familias y empresas decidir cómo gastar, ahorrar e invertir. Para sostenerlos hace falta un Estado limitado, concentrado en sus funciones esenciales y responsable con el dinero ajeno.\n\nTambién veo con cautela la posible ampliación de la reforma de las prestaciones por discapacidad. El trabajo y la formación pueden abrir oportunidades, pero no deberían imponerse sin atender a las capacidades y circunstancias de cada persona.\n\nLa caída de Microsoft, que afectó a servicios públicos, recuerda otra lección: depender de un solo proveedor entraña riesgos. Quiero competencia y libertad para elegir alternativas, pero también responsabilidad de quienes contratan servicios esenciales. Libre mercado no significa ausencia de consecuencias cuando se toman malas decisiones."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Yo quiero un Reino Unido que gobierne sus fronteras y responda primero ante sus ciudadanos. El plan de alojar a solicitantes de asilo en el antiguo recinto militar cercano a Piddington exige algo más que una defensa desde Downing Street: exige escuchar a los vecinos y demostrar que existen controles rigurosos. Prefiero una política de inmigración estricta, decidida por el Parlamento británico, a la improvisación y las promesas de unas élites que rara vez soportan sus consecuencias.\n\nLa soberanía también se defiende cerrando el paso a las donaciones políticas extranjeras y reduciendo nuestra dependencia tecnológica: la caída de Microsoft muestra el coste de concentrar servicios esenciales en pocas manos. Y el recuerdo de nuestros caídos merece respeto, no convertirse en otra ocasión para el espectáculo partidista. Una nación segura necesita fronteras claras, instituciones responsables y tradiciones que no se avergüence de preservar."
+      "texto": "Hoy veo un país demasiado dispuesto a entregar el control de sus asuntos esenciales. La caída de Microsoft ha afectado a escuelas, médicos y policías: no podemos llamar soberanía a depender de una sola empresa para servicios de los que dependen nuestras comunidades. Exijo alternativas, capacidad propia y planes de emergencia.\n\nTambién apoyo endurecer las normas contra las donaciones políticas extranjeras y las empresas pantalla. La democracia británica debe responder ante los británicos, no ante intereses que operan desde fuera. Y la seguridad exige fronteras y controles de asilo estrictos: toda acusación debe probarse, pero las autoridades tienen el deber de evaluar los riesgos antes de conceder protección.\n\nLas élites hablan de modernización; yo les pediría algo más básico: proteger a nuestras familias, nuestras instituciones y la independencia nacional."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Hoy veo una lección de prudencia y de ambición pública. Los participantes del programa WellFed en Cornualles informan de mejores niveles de azúcar en sangre gracias a cajas gratuitas de verduras y ayuda para cocinar y cultivar. Yo apoyaría evaluar sus resultados y, si funcionan, extender iniciativas semejantes: prevenir enfermedades puede mejorar vidas sin sustituir la responsabilidad individual.\n\nTambién me preocupa que una caída de Microsoft afecte a millones de personas. La innovación privada aporta enormes beneficios, pero tanta dependencia exige planes de respaldo y una supervisión proporcionada. Y celebro que se estudien nuevas restricciones a las donaciones políticas extranjeras: la transparencia protege la confianza democrática, siempre que las reglas sean claras y se apliquen con imparcialidad.\n\nPrefiero estas reformas concretas, sujetas a evaluación y consenso, a las promesas grandiosas que terminan debilitando las instituciones."
+      "texto": "La caída de Microsoft, que afectó a hospitales, escuelas y policías, me recuerda que la eficiencia del mercado no sustituye a la responsabilidad pública. No propongo demonizar a las tecnológicas: sus servicios aportan valor. Pero sí exigir planes de contingencia, estándares de continuidad y una contratación pública que evite depender demasiado de un solo proveedor. La resiliencia cuesta, pero la interrupción de servicios esenciales también.\n\nMe preocupa, además, que se estudie sustituir prestaciones por discapacidad por trabajo y formación, y extender el cambio a personas de más edad. Apoyar a quien puede trabajar es una buena meta; convertir ese apoyo en condición para recibir protección, sin atender a las circunstancias individuales, sería otra cosa. Prefiero una reforma gradual, evaluada con las personas afectadas y acordada ampliamente: la confianza en las instituciones se gana cumpliendo, no prometiendo soluciones fáciles."
     }
   ],
   "periodicos": [
@@ -42,9 +42,29 @@
       "web": "https://www.theguardian.com/uk",
       "noticias": [
         {
-          "titulo": "‘Never thought I’d eat that’: how vegetable prescriptions are helping Britons with diabetes",
-          "entradilla": "WellFed participants in Cornwall report better blood sugar levels with help of free veg boxes, cooking and gardening The participants admitted that throughout their life, their food choices had been far from ideal: egg and chips, hearty roasts, raw fry – a Cornish one-pan dish of bacon, potatoes and",
-          "enlace": "https://www.theguardian.com/society/2026/nov/13/diabetes-wellfed-vegetable-prescriptions-cornwall"
+          "titulo": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
+          "entradilla": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems The Austrian logician Kurt Gödel was one of the most original thinkers of the 20th century. His two incompleteness theorems , published in 1931, transf",
+          "enlace": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+        },
+        {
+          "titulo": "Don’t just blame the culture for keeping powerful men’s dirty secrets. Blame the law too | Gaby Hinsliff",
+          "entradilla": "It is important to understand just how effectively perpetrators of abuse have used lawyers as their shields. A challenge to that can’t come soon enough There will be empty shelves in many bedrooms this weekend, where the David Walliams books once stood. For parents of a certain era, there was no esc",
+          "enlace": "https://www.theguardian.com/commentisfree/2026/nov/13/men-dirty-secrets-law-abuse-david-walliams"
+        },
+        {
+          "titulo": "Sheds, cakes and photos of me – Prince William’s Country Life, digested by John Crace",
+          "entradilla": "Saintly heir to the throne breaks his hectic schedule for a magazine lowdown on life in the country Country Life: Guest Edited by HRH the Prince of Wales Front Cover: Photo of me outdoors. I love the country, me. Continue reading...",
+          "enlace": "https://www.theguardian.com/books/2026/nov/13/sheds-cakes-and-photos-of-me-prince-williams-country-life-digested-by-john-crace"
+        },
+        {
+          "titulo": "The dark side of reselling apps: ‘If you include your pants, I’ll pay more’",
+          "entradilla": "Ministers consider banning under-16s from online marketplaces amid reported misuse of messaging functions and users’ photos In June, Hannah* listed her seven-year-old daughter’s pink swimming costume for sale on Vinted, hoping other parents surfing the reselling site would snap up the £1 offer. Her ",
+          "enlace": "https://www.theguardian.com/media/2026/nov/13/reselling-apps-dark-side-under-16s-social-media-ban-child-protection"
+        },
+        {
+          "titulo": "She gets 16 pelvic exams a day – so yours don’t hurt",
+          "entradilla": "Molly Callahan, a gynecological teaching assistant, helps medical students practice pap smears and breast exams On her busiest days, Molly Callahan, has 16 speculums inserted into her vagina. She works full-time as a gynecological teaching assistant ( GTA ) – a layperson who helps medical students p",
+          "enlace": "https://www.theguardian.com/wellness/ng-interactive/2026/nov/13/pap-smear-pain-medical-students"
         },
         {
           "titulo": "‘It was a train wreck! I was terrified’: how the new James Bond will be announced – and what can go wrong",
@@ -52,61 +72,41 @@
           "enlace": "https://www.theguardian.com/film/2026/nov/13/new-james-bond-announced-007"
         },
         {
-          "titulo": "Digested week: Do we really have to see Liz Truss at the Cenotaph for the next 30 years? | John Crace",
-          "entradilla": "At some point even Liz won’t remember why she’s there. Meanwhile, Nige wants more air time, and Boris Johnson couldn’t have made less effort Like most people, I assume, I had always thought the Remembrance Sunday service at the Cenotaph was a time to think of those who died in the two world wars and",
-          "enlace": "https://www.theguardian.com/uk-news/2026/nov/13/digested-week-liz-truss-cenotaph"
+          "titulo": "Police launch investigation into David Walliams over alleged serious sexual offences",
+          "entradilla": "Met police say allegations are separate from those made by multiple women in Guardian and ITV investigation The Metropolitan police have launched a criminal investigation into David Walliams over alleged serious sexual offences. Walliams, 55, was accused in reports by ITV and the Guardian this week ",
+          "enlace": "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation"
         },
         {
-          "titulo": "‘Would you breastfeed your own father?’ The goofy, spiky world of art-pop duo Charlotte Adigéry and Bolis Pupul",
-          "entradilla": "After wittily blending pop and politics on their debut, the Belgians are now processing their personal lives. We join them for a mindbending tour of their home city of Ghent Boris Kor Tom Zeebroek is staring up at a grey gothic building in the centre of Ghent, squinting through the late September su",
-          "enlace": "https://www.theguardian.com/music/2026/nov/13/interview-art-pop-duo-charlotte-adigery-and-bolis-pupul"
+          "titulo": "New Orleans boat crash: tanker collides with river cruise ship carrying more than 130 people – latest updates",
+          "entradilla": "Rescue efforts under way as American Heritage takes on water; governor confirms incident in Mississippi River Tanker collides with cruise ship on Mississippi River in New Orleans A video circulating around social media shows a different angle during the moment the ship was falling on its side into t",
+          "enlace": "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates"
         },
         {
-          "titulo": "Experience: I was disembowelled by a hippo on my honeymoon",
-          "entradilla": "A mother hippopotamus protecting her young is one of the most fearsome forces of nature. Luckily, I’d just married someone ready to meet it head-on Anna and I got married in Portugal in September last year. We had been together for 13 years. She said in her vows, “I don’t know what life is going to ",
-          "enlace": "https://www.theguardian.com/lifeandstyle/2026/nov/13/experience-disembowelled-hippo-honeymoon"
+          "titulo": "US air force responds to suspected drone activity at RAF Lakenheath",
+          "entradilla": "No personnel, aircraft or infrastructure at Suffolk site affected, says US military The US air force has said it responded to “suspected unauthorised drone activity” on Friday night at an airbase in the east of England. No personnel, aircraft or infrastructure were affected, the air force said. Cont",
+          "enlace": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath"
         },
         {
-          "titulo": "Progressives are still so pessimistic, but why? The populist right can and will be defeated | Andy Beckett",
-          "entradilla": "From the US midterms to Brazil and Hungary, extremists are floundering yet the left still overestimates their power. Reality is on our side From Brazil to Hungary and Britain to the US, why are so many people so surprised by the right’s election defeats? Flávio Bolsonaro, Viktor Orbán, Reform UK, th",
-          "enlace": "https://www.theguardian.com/commentisfree/2026/nov/13/progressive-pessimism-right-defeat-us-midterms-brazil-hungary"
+          "titulo": "Flights grounded at all US airports due to air traffic control ‘communication issue’, transport secretary says – live",
+          "entradilla": "Sean Duffy says technicians from Federal Aviation Administration are investigating the issue Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting mill",
+          "enlace": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer"
         },
         {
-          "titulo": "Microsoft outage live: millions still affected as disruption stretches beyond 18 hours",
-          "entradilla": "Microsoft reports it is seeing some ‘positive results’ in its efforts to get its services back online for millions of customers around the world. Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it",
-          "enlace": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news"
+          "titulo": "No 10 considering expanding under-25s benefits overhaul to older age groups",
+          "entradilla": "Exclusive: Plans to replace key disability benefits for young people with work and training could affect adults Downing Street is considering whether plans to replace key disability benefits with work and training for people under-25 should be expanded to older age groups, the Guardian has learned, ",
+          "enlace": "https://www.theguardian.com/society/2026/nov/13/no-10-considering-expanding-under-25s-benefits-overhaul-to-older-age-groups"
         },
         {
-          "titulo": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
-          "entradilla": "US commerce secretary faces sack as warnings emerge about alleged Chinese spy’s ties to Jensen Huang and delays in adding Megaspeed to trade blacklist Analysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached? One of Donald Trump’s top lieutenants reportedly could",
-          "enlace": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
-        },
-        {
-          "titulo": "Russell Brand accused of misconduct by six more women, according to report",
-          "entradilla": "Allegations of sexual misconduct and predatory behaviour made against ex-comedian who was jailed on Monday Russell Brand has been accused of sexual misconduct and predatory behaviour by a further six women, according to a report. The comedian, 51, is accused of having sex with a woman without her co",
-          "enlace": "https://www.theguardian.com/news/2026/nov/12/russell-brand-accused-of-misconduct-by-six-more-women-according-to-report"
-        },
-        {
-          "titulo": "UK ministers look at quick ways to limit NDAs after Walliams allegations",
-          "entradilla": "Government considers further curbs on non-disclosure agreements after Guardian investigation of TV personality Ministers are looking at ways to change the law quickly to expand protections that stop non-disclosure agreements being used to cover up harassment or discrimination in the wake of the alle",
-          "enlace": "https://www.theguardian.com/tv-and-radio/2026/nov/12/uk-ministers-look-at-quick-ways-to-limit-ndas-after-walliams-allegations"
-        },
-        {
-          "titulo": "Man charged after seven women sexually assaulted in 30 minutes on UK campus",
-          "entradilla": "Police called to Huddersfield University on Tuesday after women reported being ‘approached and grabbed’ A 29-year-old man has been charged after seven women reported being sexually assaulted on the Huddersfield University campus over a 30 minute period. West Yorkshire police said Sophan Akbash had b",
-          "enlace": "https://www.theguardian.com/uk-news/2026/nov/13/man-charged-women-sexually-assaulted-huddersfield-university"
-        },
-        {
-          "titulo": "Row breaks out between Tories and Reform at Piddington news conference – UK politics live",
-          "entradilla": "United front is short-lived as Zia Yusuf and Chris Philp bicker in front of residents and cameras Meanwhile, Downing Street has defended plans to convert the site at MoD Bicester near Piddington into asylum seeker accommodation. Responding to questions around public safety, a spokesperson said such ",
-          "enlace": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates"
+          "titulo": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+          "entradilla": "Tech firm says it is ‘deeply sorry’ for disruption and has now addressed the underlying issue Microsoft outage hits UK hospitals, GPs, schools and police Microsoft outage – live updates Tell us: have you been affected by the outage? Microsoft has said it is “deeply sorry” for a widespread outage tha",
+          "enlace": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
         }
       ],
       "analisis": {
-        "resumen": "- Una caída de Microsoft afecta a millones de usuarios durante más de 18 horas.\n- El secretario de Comercio de EE. UU. afronta presión por presuntas omisiones relacionadas con Nvidia.\n- Se publican nuevas acusaciones contra Russell Brand y el Gobierno británico estudia limitar los acuerdos de confidencialidad tras las acusaciones sobre Walliams.\n- Un hombre es acusado tras denuncias de agresiones sexuales a siete mujeres en un campus; conservadores y Reform discuten sobre un alojamiento para solicitantes de asilo.\n- La portada incluye salud y alimentación, opinión política y contenidos culturales y personales.",
-        "populismo": 35,
-        "motivo_populismo": "Aunque abundan los titulares informativos, aparecen expresiones impactantes como «me destripó un hipopótamo» y «fue un desastre», así como descalificaciones y lenguaje de confrontación en los artículos de opinión política.",
-        "sesgo": "La selección de opinión incluye una perspectiva progresista crítica con la derecha populista y una columna satírica sobre figuras políticas británicas. Las noticias informativas también destacan acusaciones de conducta sexual inapropiada y la respuesta institucional."
+        "resumen": "- La inteligencia artificial ayuda a descubrir teoremas en los cuadernos del matemático Kurt Gödel.\n- La policía investiga a David Walliams por presuntos delitos sexuales; una columna critica el papel de la ley ante los abusos.\n- Una avería paraliza vuelos en Estados Unidos y una caída de Microsoft afecta a servicios como Teams y Outlook.\n- El Gobierno británico estudia ampliar a mayores de 25 años una reforma de las prestaciones por discapacidad.\n- Otras noticias abordan los riesgos de las aplicaciones de reventa, una colisión de barcos y la enseñanza de exámenes ginecológicos.",
+        "populismo": 25,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «el lado oscuro» o «fue un desastre» aportan dramatismo y algunos titulares recurren a un lenguaje acusatorio.",
+        "sesgo": "La selección presta atención a los abusos, la seguridad y las consecuencias sociales de las decisiones públicas y los fallos tecnológicos. Incluye opinión crítica sobre la ley y una pieza satírica sobre el príncipe Guillermo."
       }
     },
     {
@@ -175,10 +175,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- Fallece Esther Rantzen, presentadora y fundadora de Childline, a los 86 años.\n- La policía investiga la muerte de una niña en Surrey y un apuñalamiento mortal en Northampton.\n- Antiterrorismo investiga el incendio de vehículos ante una sinagoga de Londres, supuestamente respaldado por Irán.\n- El Gobierno prepara restricciones a las donaciones políticas extranjeras y al uso de empresas pantalla.\n- La portada incluye previsiones sobre posibles amenazas en 2026 y un artículo crítico con la izquierda «woke».",
-        "populismo": 40,
-        "motivo_populismo": "Predominan titulares informativos, pero destacan el tono alarmista sobre una posible pandemia y la descalificación polarizadora de la «izquierda woke», que supuestamente «ha empezado a devorarse a sí misma».",
-        "sesgo": "La selección da mucho peso a sucesos violentos, delincuencia y amenazas a la seguridad. El artículo sobre la bandera adopta un enfoque explícitamente crítico con la izquierda «woke»."
+        "resumen": "- Muere a los 86 años Esther Rantzen, presentadora y fundadora de Childline.\n- Varias noticias recogen muertes violentas, apuñalamientos y una detención por sospecha de violación.\n- La policía investiga un incendio de vehículos frente a una sinagoga y un ciberataque contra una cadena de guarderías.\n- El Gobierno prepara restricciones a las donaciones políticas extranjeras; otro artículo critica a la izquierda «woke».\n- La portada aborda posibles riesgos para 2026 y promociona nominaciones del periódico y un juego de palabras.",
+        "populismo": 45,
+        "motivo_populismo": "Aunque muchos titulares son informativos, expresiones como «la izquierda woke ha empezado a devorarse a sí misma» y «nunca adivinarás qué pasó después» recurren a la descalificación y al sensacionalismo.",
+        "sesgo": "La selección da amplio espacio a sucesos violentos y amenazas. El artículo sobre la bandera adopta además un enfoque explícitamente crítico y polarizado hacia la izquierda «woke»."
       }
     },
     {
@@ -186,71 +186,71 @@
       "web": "https://www.independent.co.uk",
       "noticias": [
         {
-          "titulo": "Richard Osman says it’s ‘difficult not to feel shame’ over David Walliams allegations",
-          "entradilla": "David Walliams has been accused of sexual misconduct with girls as young as 15, which he denies",
-          "enlace": "https://www.independent.co.uk/arts-entertainment/tv/news/richard-osman-david-walliams-b3084340.html"
+          "titulo": "US ground stop live updates: FAA orders all planes grounded over ‘extraordinary circumstances’",
+          "entradilla": "Secretary of Transportation said updates will be provided ‘as we have them’",
+          "enlace": "https://www.independent.co.uk/travel/news-and-advice/ground-stop-us-flights-live-updates-b3084839.html"
         },
         {
-          "titulo": "The celebrities who’ve spoken out about David Walliams",
-          "entradilla": "Walliams has been accused of sexual misconduct and grooming girls as young as 15",
-          "enlace": "https://www.independent.co.uk/arts-entertainment/tv/news/david-walliams-allegations-celebrity-friends-b3083858.html"
+          "titulo": "France v South Africa LIVE: Springboks hit back after red card in huge Nations Championship clash",
+          "entradilla": "Antoine Dupont starts at fly half as France welcome the world champions to Paris",
+          "enlace": "https://www.independent.co.uk/sport/rugby/rugby-union/france-south-africa-live-score-result-springboks-nations-championship-b3082550.html"
         },
         {
-          "titulo": "Michael Carrick sends emotional message to fans after Manchester United sacking",
-          "entradilla": "Carrick posted a letter to supporters on his social media after being replaced as United head coach by Mauricio Pochettino",
-          "enlace": "https://www.independent.co.uk/sport/football/michael-carrick-manchester-united-fans-letter-sacking-b3084542.html"
+          "titulo": "Massive rescue effort underway after tanker crashes into New Orleans riverboat with 129 passengers on board",
+          "entradilla": "The American Heritage was docked near the Port of New Orleans Administration Building when it was struck by a tanker around 12:30 p.m. Friday, port officials said",
+          "enlace": "https://www.independent.co.uk/news/world/americas/new-orleans-river-boat-crash-129-passengers-b3084807.html"
         },
         {
-          "titulo": "Suspected Hamas member found guilty of violent knife attack in Birmingham",
+          "titulo": "FAA issues ‘ground stop’ for all flights across US due to ‘extraordinary circumstances and safety issues’",
+          "entradilla": "The agency stated, ‘All departing traffic should remain groundstopped until further notice’",
+          "enlace": "https://www.independent.co.uk/travel/news-and-advice/faa-ground-stop-nationwide-safety-issues-chicago-b3084833.html"
+        },
+        {
+          "titulo": "New Orleans crash updates: Dozens taken to hospital after tanker slams into riverboat carrying 129 people",
+          "entradilla": "The boat, named American Heritage, was left partially submerged in the Mississippi River after the collision Friday",
+          "enlace": "https://www.independent.co.uk/news/world/americas/new-orleans-crash-boat-tanker-rescue-b3084821.html"
+        },
+        {
+          "titulo": "Cruise line issues statement after boat carrying 129 hit by tanker in New Orleans",
           "entradilla": "",
-          "enlace": "https://www.independent.co.uk/bulletin/news/mohammed-alfatih-hamas-birmingham-terror-plot-b3084571.html"
+          "enlace": "https://www.independent.co.uk/bulletin/news/american-cruise-lines-new-orleans-boat-crash-b3084840.html"
         },
         {
-          "titulo": "Chantelle Cameron and Mikaela Mayer set for rematch after post-fight argument",
-          "entradilla": "Cameron took the WBC and WBA super-welterweight belts from Mayer in August, keeping the WBO title in the process",
-          "enlace": "https://www.independent.co.uk/sport/boxing/chantelle-cameron-mikaela-mayer-2-fight-jake-paul-b3084561.html"
+          "titulo": "Flights halted at airports across US due to air traffic control communications problems",
+          "entradilla": "The Federal Aviation Administration has grounded all flights nationwide because of communications issues at regional air traffic control centers",
+          "enlace": "https://www.independent.co.uk/news/federal-aviation-administration-washington-b3084842.html"
         },
         {
-          "titulo": "Sheffield casino player wins £324,000 jackpot from just 30p stake",
-          "entradilla": "The grand sum was won via a ThrillPots jackpot on BOYLE Casino",
-          "enlace": "https://www.independent.co.uk/games/sheffield-casino-player-wins-324k-jackpot-30p-stake-b3084401.html"
+          "titulo": "Burnham gives no ‘blanket assurance’ on accepting Neets recommendations in full",
+          "entradilla": "The Prime Minister said the detail of Alan Milburn’s youth unemployment review would come out next week.",
+          "enlace": "https://www.independent.co.uk/news/business/alan-milburn-andy-burnham-prime-minister-government-b3084725.html"
         },
         {
-          "titulo": "Microsoft issues update as mass outage sparks cyber attack fears",
-          "entradilla": "",
-          "enlace": "https://www.independent.co.uk/bulletin/news/microsoft-outage-update-outlook-cyber-attack-b3084157.html"
+          "titulo": "Family Dollar to pay $63 million to settle allegations that it routinely overcharged customers",
+          "entradilla": "Family Dollar will pay $63 million to settle state and federal allegations that it routinely charged customers more at the register than the prices displayed on its shelves or on its website and mobile app",
+          "enlace": "https://www.independent.co.uk/news/federal-trade-commission-michigan-alabama-kansas-arkansas-b3084835.html"
         },
         {
-          "titulo": "England thrashed by Australia in first ODI to provide welcome distraction to sandpaper scandal",
-          "entradilla": "England experienced more misery in Perth having thrown away the first Ashes Test in two days on the same ground 12 months ago",
-          "enlace": "https://www.independent.co.uk/sport/cricket/australia-england-odi-result-score-b3084360.html"
+          "titulo": "Son of former CIA Director John Brennan arrested on child sexual abuse images charge",
+          "entradilla": "The son of former CIA Director John Brennan is facing a federal charge related to child sexual abuse images, according to court papers unsealed Friday",
+          "enlace": "https://www.independent.co.uk/news/john-brennan-washington-cia-fbi-hillary-clinton-b3084834.html"
         },
         {
-          "titulo": "Jo Whiley says she ‘shudders’ at message Russell Brand once wrote her",
-          "entradilla": "The comedian has been jailed for 10 years after being found guilty of rape and sexual assault",
-          "enlace": "https://www.independent.co.uk/arts-entertainment/tv/news/jo-whiley-russell-brand-message-conviction-b3084548.html"
+          "titulo": "Watch Live: Rescue operation underway after tanker collides with river cruise boat in New Orleans",
+          "entradilla": "A rescue operation is underway on the Mississippi River Friday afternoon after a tanker struck a New Orleans river cruise boat .",
+          "enlace": "https://www.independent.co.uk/news/tanker-cruise-ship-new-orleans-live-b3084828.html"
         },
         {
-          "titulo": "Jensen Huang’s leather jackets turned out to be telling. What do other tech-bro uniforms reveal about them?",
-          "entradilla": "Jensen Huang, the Nvidia CEO who just resigned over his affair scandal, has turned heads with his trademark luxury leather jacket. Ellie Muir looks at the signature uniforms of billionaire tech overlords — from Mark Zuckerberg to Elon Musk – and what it says about them",
-          "enlace": "https://www.independent.co.uk/life-style/jensen-huang-nvidia-affair-leather-jacket-tech-style-b3084216.html"
-        },
-        {
-          "titulo": "Rory McIlroy shares lead at DP World Tour Championship",
-          "entradilla": "McIlroy will claim the Race to Dubai title on Sunday if he wins the tournament.",
-          "enlace": "https://www.independent.co.uk/sport/golf/rory-mcilroy-dubai-jon-rahm-sky-sports-b3084570.html"
-        },
-        {
-          "titulo": "Hamas terror suspect guilty of wounding bailiff in violent knife attack over wife’s unpaid parking fines",
-          "entradilla": "Mohammed Alfatih was found guilty at Birmingham Crown Court and is due to be sentenced in January",
-          "enlace": "https://www.independent.co.uk/news/uk/crime/mohammed-alfatih-hamas-bailiff-knife-attack-birmingham-b3084549.html"
+          "titulo": "US military responds to ‘suspected unauthorised drone activity’ at UK airbase",
+          "entradilla": "The US military said they had responded to the drone activity on Friday evening",
+          "enlace": "https://www.independent.co.uk/news/uk/home-news/raf-lakenheath-drones-us-military-suffolk-b3084825.html"
         }
       ],
       "analisis": {
-        "resumen": "- Richard Osman y otras celebridades reaccionan a las acusaciones de conducta sexual inapropiada contra David Walliams, que él niega.\n- Un presunto miembro de Hamás es declarado culpable de un ataque con cuchillo en Birmingham.\n- La portada recoge noticias deportivas sobre Michael Carrick, el boxeo, el críquet y Rory McIlroy.\n- Microsoft informa sobre una caída masiva que ha generado temores de ciberataque; otra noticia examina la vestimenta de multimillonarios tecnológicos.\n- Jo Whiley recuerda un mensaje de Russell Brand y un jugador de Sheffield gana 324.000 libras con una apuesta de 30 peniques.",
-        "populismo": 35,
-        "motivo_populismo": "Expresiones como «emocional», «más sufrimiento» y «señores supremos tecnológicos» aportan dramatismo o descalificación, aunque no se aprecia una apelación clara del pueblo contra las élites.",
-        "sesgo": "La selección favorece las celebridades, los sucesos violentos y los conflictos deportivos, con un enfoque en ocasiones dramático. No se aprecia un sesgo político definido en los titulares facilitados."
+        "resumen": "- La FAA paraliza las salidas aéreas en Estados Unidos por problemas de comunicaciones y seguridad.\n- Un petrolero choca con un barco fluvial en Nueva Orleans que transportaba a 129 personas; hay una operación de rescate y decenas de hospitalizados.\n- Francia y Sudáfrica se enfrentan en un partido de rugby marcado por una tarjeta roja.\n- El primer ministro no garantiza que acepte todas las recomendaciones de una revisión sobre desempleo juvenil.\n- También destacan un acuerdo de Family Dollar por cobros excesivos, una acusación contra el hijo de un exdirector de la CIA y actividad sospechosa de drones en una base británica.",
+        "populismo": 20,
+        "motivo_populismo": "Expresiones como «massive rescue effort», «slams into» y «extraordinary circumstances» aportan dramatismo, pero no aparecen apelaciones al pueblo contra las élites ni descalificaciones políticas.",
+        "sesgo": "La selección prioriza sucesos urgentes y noticias de última hora, sobre todo de Estados Unidos, con varios titulares dedicados a los mismos acontecimientos. No se aprecia un sesgo político claro en la redacción."
       }
     },
     {
@@ -258,29 +258,49 @@
       "web": "https://www.dailymail.co.uk",
       "noticias": [
         {
-          "titulo": "Horrific footage captures moment NYC building collapses as terrified resident rushes down newly exposed staircase",
-          "entradilla": "Frightening footage captured the moment a three-story building collapsed in Flatbush, Brooklyn, on Wednesday evening. Eight people died and dozens more were injured.",
-          "enlace": "https://www.dailymail.com/news/article-16288687/footage-new-york-city-flatbush-brooklyn-building-collapse.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-        },
-        {
           "titulo": "Microsoft says efforts to fix global outage 'not going as expected' with millions impacted worldwide",
           "entradilla": "Millions reported issues with Microsoft Outlook, the company's workplace messaging app, Teams, its AI assistant, Copilot, as well as other Microsoft 365 services.",
           "enlace": "https://www.dailymail.com/sciencetech/article-16289289/microsoft-outage-fix-struggles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
         },
         {
-          "titulo": "Microsoft is still DOWN: Firm says tools to fix global outage are 'not working as expected' with millions affected as Microsoft 365, Outlook, Teams, Copilot and OneDrive all hit",
-          "entradilla": "Monitoring website Downdetector first showed a spike in users reporting problems with Microsoft Teams in the UK at around 6.15pm on Thursday.",
-          "enlace": "https://www.dailymail.com/news/article-16289457/Microsoft-Firm-says-tools-fix-global-outage-not-working-expected-millions-affected-Microsoft-365-Outlook-Teams-Copilot-OneDrive-hit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+          "titulo": "Police launch criminal probe into David Walliams as victims come forward accusing him of sexual misconduct",
+          "entradilla": "The entertainer has been accused of using his fame to groom schoolgirls and pursue young women.",
+          "enlace": "https://www.dailymail.com/news/article-16290379/Police-launch-criminal-probe-David-Walliams-victims-come-forward-accusing-sexual-abuse.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
         },
         {
-          "titulo": "Outlook not so good! Office workers show sense of humour as they react to Microsoft meltdown with hilarious memes",
-          "entradilla": "Social media is rife with memes and reaction as the company struggles to resurrect its services after more than 18 hours of outages.",
-          "enlace": "https://www.dailymail.com/news/article-16289561/Outlook-not-good-Office-workers-sense-humour-react-Microsoft-meltdown-hilarious-memes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+          "titulo": "Lioness kills 19-year-old after it was let out of its cage for TikTok video",
+          "entradilla": "The big cat was let out on a private wildlife farm in the town of Kahna in Lahore, Pakistan, on Wednesday with the aim of filming social media content.",
+          "enlace": "https://www.dailymail.com/news/article-16289493/Lioness-kills-19-year-old-cage-TikTok-video.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
         },
         {
-          "titulo": "'I'm just a piece of sh**': Insiders 'reveal Jensen Huang's final hours as Nvidia CEO - 'he started saying he didn't care''",
-          "entradilla": "Huang resigned from his position as Nvidia faces an internal investigation into his extramarital affairs.",
-          "enlace": "https://www.dailymail.com/news/article-16289735/Im-just-piece-sh-Insiders-reveal-Jensen-Huangs-final-hours-Nvidia-CEO-started-saying-didnt-care.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+          "titulo": "Moment British Airways flight suffers double tail strike in aborted landing at Heathrow Airport",
+          "entradilla": "Flight BA431 (pictured) suffered a double tail strike, when the rear of an aircraft scapes along the runway surface, on Thursday as it attempted to land following a flight from Amsterdam.",
+          "enlace": "https://www.dailymail.com/news/article-16287825/British-Airways-flight-double-tail-strike-Heathrow-Airport.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+        },
+        {
+          "titulo": "Labour's 'crushing' tax hikes worth £85BILLION a year - after Healey's Budget added another £7.5bn to burden",
+          "entradilla": "Together, Rachel Reeves and John Healey have now announced increases projected to increase the burden by £85billion by 2031-32.",
+          "enlace": "https://www.dailymail.com/news/article-16289829/Labour-tax-Healey-Budget-Reeves-Starmer-Burnham.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+        },
+        {
+          "titulo": "Reform UK sees vote shares plunge in council by-elections as Nigel Farage's struggles mount",
+          "entradilla": "In six by-elections for local authorities in England on Thursday, Reform won three seats, Labour picked up two and the Tories won one.",
+          "enlace": "https://www.dailymail.com/news/article-16290015/Reform-UK-sees-vote-shares-plunge-council-elections-Nigel-Farages-struggles-mount.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+        },
+        {
+          "titulo": "Hamas chief's bodyguard 'plotted massacres on Jews in Europe' from terraced home in Birmingham after he was given asylum",
+          "entradilla": "Father-of-four Mohammed Alfatih Naim, also known as Mohammed Alfatih, is accused of transporting weapons including handguns and ammunition from Berlin to a storage facility in Vienna.",
+          "enlace": "https://www.dailymail.com/news/article-16281587/Suspected-Hamas-terrorist-allegedly-plotted-massacres-Jews-Europe-terraced-home-Birmingham.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+        },
+        {
+          "titulo": "Jo Whiley reveals message Russell Brand wrote to her calling her a MILF makes her 'shudder' in the wake of his rape and sexual assault conviction as she says she 'cried' for his victims",
+          "entradilla": "Jo Whiley has revealed a message Russell Brand wrote to her calling her a MILF makes her 'shudder' in the wake of his rape and sexual assault convictions.",
+          "enlace": "https://www.dailymail.com/tvshowbiz/article-16289521/Jo-Whiley-Russell-Brand-rape-sexual-assault-conviction.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+        },
+        {
+          "titulo": "Will Russell Brand end up at 'Monster Mansion' jail?: Rapist could face transfer to notorious HMP Wakefield where paedophile singer Ian Watkins was stabbed to death",
+          "entradilla": "The jail in West Yorkshire is known as 'Monster Mansion' for housing some of the UK's most dangerous criminals alongside a large population of sex offenders.",
+          "enlace": "https://www.dailymail.com/crime-desk/article-16289617/Will-Russell-Brand-end-Monster-Mansion-jail-Rapist-face-transfer-notorious-HMP-Wakefield-paedophile-singer-Ian-Watkins-stabbed-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
         },
         {
           "titulo": "Russell Brand's ex-girlfriend says he sexually assaulted her and made her brush her teeth until her mouth bled because he 'wanted her to taste anonymous'",
@@ -288,41 +308,21 @@
           "enlace": "https://www.dailymail.com/news/article-16289873/Russell-Brands-ex-girlfriend-sexually-assaulted-brush-teeth-mouth-bled.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
         },
         {
-          "titulo": "Pictured: Face of mystery woman found dead inside bin bag in Liverpool park after scientist reconstruction",
-          "entradilla": "Officers were called on Friday, August 28 after a member of the public made the grisly discovery in Stanley Park, Anfield, at around 5.25pm.",
-          "enlace": "https://www.dailymail.com/news/article-16290021/mystery-woman-dead-bin-bag-Liverpool-park.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+          "titulo": "Ousted Nvidia tycoon Jensen Huang accused of THIRD 'affair' as AI stock plunges and Trump aide tells Mail: 'World economy is f*****'",
+          "entradilla": "As the board was gathering for the meeting on Wednesday, news broke that Huang had strayed a second time.",
+          "enlace": "https://www.dailymail.com/news/article-16288671/nvidia-tycoon-Jensen-Huang-accused-affair-AI-stock-plunges.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
         },
         {
-          "titulo": "Is Burnham cooling on his dream of rejoining the EU? PM says 'reset' deal could be 'Brexit people voted for' - as he prepares for concessions at summit",
-          "entradilla": "Andy Burnham claimed he was implementing the result of the 2016 referendum as he prepares to make big concessions to seal the package at a crunch summit next week.",
-          "enlace": "https://www.dailymail.com/news/article-16289503/Andy-Burnham-rejoin-EU-PM-Brexit-Cabinet-Labour-referendum.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-        },
-        {
-          "titulo": "Italy's three biggest mafia clans form 'Hydra' alliance",
-          "entradilla": "The 'Ndrangheta faction from Calabria, the Camorra of Naples and the Sicilian-based Cosa Nostra clan have joined forces to make the powerful Mafia alliance.",
-          "enlace": "https://www.dailymail.com/news/article-16289541/Italys-three-biggest-mafia-clans-form-Hydra-alliance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-        },
-        {
-          "titulo": "More than 12,000 households will be wrongly hit with 'mansion tax' demands for thousands of pounds, officials admit",
-          "entradilla": "Forecasts by the Office for Budget Responsibility (OBR) show that one in five of the 156,000 households who are set to be hit by the levy will appeal against their assessments.",
-          "enlace": "https://www.dailymail.com/news/article-16289797/More-12-000-households-wrongly-hit-mansion-tax-demands-thousands-pounds-officials-admit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-        },
-        {
-          "titulo": "Muslim officer accused of making 'racist comments about white people' in police WhatsApp group as major Met probe sees 22 on restricted duties",
-          "entradilla": "The alleged message - which is said to have discussed 'white trash' at theme parks - is one of a staggering 40,000 comments being scrutinised by Met Police.",
-          "enlace": "https://www.dailymail.com/news/article-16289695/Muslim-officer-accused-racist-comments-white-WhatsApp-Met.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-        },
-        {
-          "titulo": "First person in nearly 60 years is killed by steam engine as locomotive hits them on its way to pick up passengers for Remembrance Day trip",
-          "entradilla": "The locomotive was on its way to London to pick up passengers for a Remembrance Day trip on Wednesday morning.",
-          "enlace": "https://www.dailymail.com/news/article-16289487/First-person-nearly-60-years-killed-steam-engine.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+          "titulo": "Matt Lucas is seen for first time since sex misconduct claims against his Little Britain co-star David Walliams emerged after he lost injunction bid",
+          "entradilla": "Matt Lucas was pictured out in London this morning, wearing a green puffa jacket, blue cap and sunglasses.",
+          "enlace": "https://www.dailymail.com/news/article-16290039/Matt-Lucas-seen-time-sex-misconduct-claims-against-Little-Britain-star-David-Walliams-emerged-lost-injunction-bid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
         }
       ],
       "analisis": {
-        "resumen": "- Ocho personas mueren y decenas resultan heridas al derrumbarse un edificio en Brooklyn.\n- Una caída global de Microsoft afecta a millones de usuarios; la portada también recoge memes sobre la interrupción.\n- Jensen Huang dimite como consejero delegado de Nvidia en medio de una investigación interna.\n- Destacan acusaciones contra Russell Brand, una investigación policial por comentarios racistas y noticias sobre un cadáver y la mafia italiana.\n- En política y economía, se abordan la relación con la UE y posibles errores en el impuesto a las mansiones.",
-        "populismo": 48,
-        "motivo_populismo": "Abundan el lenguaje alarmista y sensacionalista, como «horrific», «meltdown» y «grisly discovery», aunque no predomina una apelación explícita del pueblo contra las élites.",
-        "sesgo": "La selección privilegia sucesos, delitos y detalles impactantes. En las noticias políticas y fiscales destaca un enfoque crítico, centrado en las posibles concesiones a la UE y los efectos erróneos del impuesto."
+        "resumen": "- Una incidencia mundial afecta a millones de usuarios de servicios de Microsoft; también se informa de acusaciones contra Jensen Huang y de la caída de las acciones de Nvidia.\n- La policía investiga a David Walliams por presunta conducta sexual inapropiada. Varias noticias recogen reacciones y acusaciones relacionadas con Russell Brand, condenado por agresiones sexuales.\n- Una leona mata a una joven de 19 años durante la grabación de un vídeo para TikTok en Pakistán; un avión de British Airways golpea dos veces la pista con la cola en Heathrow.\n- La portada destaca las subidas de impuestos del Gobierno laborista y la caída del voto de Reform UK en elecciones locales parciales.\n- Un presunto guardaespaldas de un dirigente de Hamás es acusado de participar en un plan de ataques contra judíos en Europa.",
+        "populismo": 55,
+        "motivo_populismo": "El tono sensacionalista aparece en expresiones como «crushing» para los impuestos, «Monster Mansion» para una cárcel y el uso de mayúsculas y lenguaje alarmista, aunque no predomina una apelación explícita del pueblo contra las élites.",
+        "sesgo": "La selección prioriza delitos, escándalos sexuales y sucesos llamativos. En política, presenta las subidas de impuestos laboristas como una carga y destaca también el retroceso electoral de Reform UK; en otra noticia, subraya que un acusado había recibido asilo."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://www.mirror.co.uk",
       "noticias": [
         {
-          "titulo": "Eleven travel deals that most Blue Badge holders are entitled to",
-          "entradilla": "Lots of Blue Badge holders could be missing out on these discounts",
-          "enlace": "https://www.mirror.co.uk/news/uk-news/eleven-travel-deals-most-blue-37874809"
+          "titulo": "USA ground stop live: FAA grounds all flights over 'extraordinary circumstances'",
+          "entradilla": "A ground stop has been ordered at airports across the US - the Federal Aviation Administration says it is due to 'extraordinary circumstances'",
+          "enlace": "https://www.mirror.co.uk/news/us-news/ground-stop-flights-us-faa-37876557"
         },
         {
-          "titulo": "Microsoft outage live: Claude AI goes down for thousands as Outlook and Teams issues continue",
-          "entradilla": "Thousands of people across the UK have woken up to problems accessing Microsoft Outlook, Teams, Copilot and other services amid a global outage affecting millions of users",
+          "titulo": "New Orleans cruise crash live: Rescue launched as American Heritage capsizes",
+          "entradilla": "The tanker crashed into the side of the American Cruise Lines' American Heritage at the Port of New Orleans - a rescue mission has been launched on the Mississippi River",
+          "enlace": "https://www.mirror.co.uk/news/us-news/new-orleans-american-heritage-crash-37876493"
+        },
+        {
+          "titulo": "Russell Brand 'moves from isolation into main wing' and prisoners are 'excited'",
+          "entradilla": "Russell Brand has reportedly moved from an isolated unit to a main wing at HMP Wandsworth, where there is said to be 'anger' and 'excitement' brewing among inmates",
+          "enlace": "https://www.mirror.co.uk/news/uk-news/russell-brand-prison-hmp-wandsworth-37876509"
+        },
+        {
+          "titulo": "Goalkeeper involved in fatal Jesus de Miguel collision receives huge ban from football",
+          "entradilla": "After the tragic death of Tenerife forward Jesus de Miguel, the goalkeeper who was involved in the collision has been handed a huge ban from football",
+          "enlace": "https://www.mirror.co.uk/sport/football/news/jesus-de-miguel-death-goalkeeper-37846172"
+        },
+        {
+          "titulo": "American Cruise Lines ship capsizes after crash with oil tanker in New Orleans",
+          "entradilla": "The tanker hit the American Cruise Lines' American Heritage in New Orleans, sparking an urgent rescue effort for the almost 150 passengers on board",
+          "enlace": "https://www.mirror.co.uk/news/us-news/american-cruise-lines-new-orleans-37875357"
+        },
+        {
+          "titulo": "Crew member on Netflix show Dept Q dies after being found injured at film studio",
+          "entradilla": "A member of the crew for hit Netflix show Dept Q has died after emergency services were called to a report of a seriously injured man at FirstStage Studios in Edinburgh",
+          "enlace": "https://www.mirror.co.uk/news/uk-news/dept-q-edinburgh-film-studio-37876400"
+        },
+        {
+          "titulo": "Microsoft Outlook outage hits police and schools as 'underlying issue' explained",
+          "entradilla": "Microsoft online services are gradually returning but only after a global outage that impacted millions of users around the world",
+          "enlace": "https://www.mirror.co.uk/news/uk-news/microsoft-outlook-outage-update-down-37875440"
+        },
+        {
+          "titulo": "Paedo jailed for 30 years over 'incomprehensible' crimes while posing as child",
+          "entradilla": "Bilal Kazi, 27, posed as a 14-year-old boy called 'Reece' to manipulate more than 70 young girls into sending him sexually explicit videos and images of themselves",
+          "enlace": "https://www.mirror.co.uk/news/uk-news/paedo-jailed-30-years-over-37876286"
+        },
+        {
+          "titulo": "'Brits should not struggle to contact doctors or report crimes when one tech company suffers a breakdown'",
+          "entradilla": "GP surgeries, police forces, courts, schools and councils were caught out by today's Microsoft outage...",
+          "enlace": "https://www.mirror.co.uk/news/uk-news/brits-should-not-struggle-contact-37876184"
+        },
+        {
+          "titulo": "Microsoft outage updates: Outlook and Teams issues continue amid 'improvements'",
+          "entradilla": "Thousands of people across the UK faced problems accessing Microsoft services such as Outlook, Teams and Copilot today amid a global outage affecting millions of users",
           "enlace": "https://www.mirror.co.uk/news/world-news/microsoft-outage-live-teams-outlook-37872878"
         },
         {
-          "titulo": "GTA 6 worldwide release times confirmed as Rockstar reveals when fans can play",
-          "entradilla": "Grand Theft Auto VI will launch on PlayStation 5 and Xbox Series X|S on November 19, 2026, with Rockstar Games confirming the worldwide release schedule.",
-          "enlace": "https://www.mirror.co.uk/gaming/gta-6-worldwide-release-times-37874260"
+          "titulo": "Nigel Farage’s personal security paid for with Reform funds despite claim over £5million gift",
+          "entradilla": "Nigel Farage’s personal security has been paid for using Reform UK’s central funds despite him saying it would be covered by a £5million gift from a crypto billionaire",
+          "enlace": "https://www.mirror.co.uk/news/politics/nigel-farage-5million-gift-security-37875694"
         },
         {
-          "titulo": "BBC expert says 7 UK areas 'targeted' over pension credit mistake made by 1million - full list",
-          "entradilla": "Even if you're not part of these 7 areas, you are still being urged to check",
-          "enlace": "https://www.mirror.co.uk/money/bbc-expert-says-7-uk-37873982"
-        },
-        {
-          "titulo": "Boy, 2, who fell from window of Cyprus hotel died from multiple injuries as dad spared jail",
-          "entradilla": "Jaxon Foster, 2, died after he tumbled from a hotel window in Cyprus - a coroner described the case as 'particularly tragic'",
-          "enlace": "https://www.mirror.co.uk/news/uk-news/jaxon-foster-cyprus-boy-fall-37874106"
-        },
-        {
-          "titulo": "Homeowners to face '£1,500 mortgage rise' as 'considerable pressure’ warning issued",
-          "entradilla": "Homeowners are being warned of higher mortgage costs after the Bank of England raised interest rates",
-          "enlace": "https://www.mirror.co.uk/money/homeowners-face-1500-mortgage-rise-37873988"
-        },
-        {
-          "titulo": "Andy Burnham opens up about dad's death - and how he navigated tough times in emotional clip",
-          "entradilla": "'It was hard coming into office because I knew, as I was starting my journey as Prime Minister, he was ending his journey,' Burnham says of his dad in emotional video",
-          "enlace": "https://www.mirror.co.uk/news/politics/andy-burnham-dad-video-tea-37874309"
-        },
-        {
-          "titulo": "Six dead after eight-storey building collapses in Kenya as rescuers search rubble",
-          "entradilla": "Rescue workers are searching through debris in Mlolongo near Nairobi, Kenya, after a building collapse left at least six people dead and five injured.",
-          "enlace": "https://www.mirror.co.uk/news/world-news/kenya-nairobi-building-collapse-deaths-37874574"
-        },
-        {
-          "titulo": "Water bosses plead guilty over 'catastrophic' Avonmouth blast that killed four",
-          "entradilla": "The Health & Safety Executive charged Wessex Water as a corporate body under the Health and Safety at Work Act 1974 after the December 2020 blast",
-          "enlace": "https://www.mirror.co.uk/news/uk-news/wessex-water-blast-avonmouth-bristol-37873775"
-        },
-        {
-          "titulo": "Aldi will reduce vegetables to 8p in new major deal starting soon",
-          "entradilla": "Aldi is cutting the price of key Christmas vegetables to just 8p",
-          "enlace": "https://www.mirror.co.uk/money/shopping-deals/aldi-reduce-vegetables-8p-new-37874462"
-        },
-        {
-          "titulo": "World's first Harry Potter themed Christmas market opens this year just 2 hours from UK",
-          "entradilla": "Calling all fans of the wizarding world, a special Harry Potter Christmas market will be taking place for the first time ever this year for some sorcery during the festive season",
-          "enlace": "https://www.mirror.co.uk/travel/worlds-first-harry-potter-themed-37871869"
-        },
-        {
-          "titulo": "Fresh calls to 'end' adding 'synthetic' ingredient to bread, pasta, and cakes ahead of December 13 deadline",
-          "entradilla": "It has been branded 'unethical' and 'detrimental'",
-          "enlace": "https://www.mirror.co.uk/news/health/fresh-calls-end-adding-synthetic-37874123"
+          "titulo": "BBC Weather issues ‘unprecedented’ polar vortex verdict as snow forecast for UK",
+          "entradilla": "While snow and freezing temperatures are on the cards this weekend, weather forecasters say we have now seen the 'earliest major sudden stratospheric warming on record'",
+          "enlace": "https://www.mirror.co.uk/news/uk-news/bbc-weather-snow-polar-vortex-37875629"
         }
       ],
       "analisis": {
-        "resumen": "- Una caída global afecta a servicios de Microsoft y a Claude AI.\n- Se advierte de posibles subidas de hipotecas y de errores relacionados con el crédito de pensión; también se destacan descuentos para titulares de Blue Badge.\n- La portada informa de muertes en el derrumbe de un edificio en Kenia, de la explosión de Avonmouth y de la caída de un niño en Chipre.\n- Andy Burnham relata la muerte de su padre y las dificultades que atravesó.\n- Se anuncian la fecha de lanzamiento de GTA 6, ofertas de Aldi y un mercado navideño de Harry Potter, junto a peticiones sobre un ingrediente añadido a productos alimentarios.",
-        "populismo": 35,
-        "motivo_populismo": "Titulares como «considerable pressure», «catastrophic» y «unethical» recurren a la alarma o a la carga emocional, aunque apenas se aprecia una oposición entre el pueblo y las élites.",
-        "sesgo": "Predomina un enfoque de servicio al consumidor y de interés humano, con énfasis en costes domésticos, descuentos y sucesos trágicos. La redacción también favorece titulares llamativos para atraer la atención."
+        "resumen": "- La FAA ordena detener todos los vuelos en aeropuertos de EE. UU. por «circunstancias extraordinarias».\n- Un crucero vuelca tras chocar con un petrolero en Nueva Orleans y se inicia un rescate.\n- Russell Brand habría sido trasladado a un módulo común de prisión; un portero recibe una larga sanción tras una colisión mortal.\n- Mueren un miembro del equipo de la serie «Dept Q» y un hombre es condenado por delitos sexuales contra menores.\n- Una caída de Microsoft afecta a servicios públicos; también se informa sobre la financiación de la seguridad de Nigel Farage y la previsión de nieve en Reino Unido.",
+        "populismo": 45,
+        "motivo_populismo": "Hay sensacionalismo y lenguaje emotivo en expresiones como «enorme sanción», «crímenes incomprensibles» y «sin precedentes», aunque apenas aparece un enfrentamiento entre el pueblo y las élites.",
+        "sesgo": "La selección prioriza sucesos, emergencias y consecuencias impactantes, con varios titulares de tono dramático. También muestra una mirada crítica hacia la dependencia de Microsoft y la financiación de la seguridad de Nigel Farage, sin que ello permita establecer una orientación política general."
       }
     }
   ]

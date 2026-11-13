@@ -1,39 +1,39 @@
 {
   "pais": "China",
   "fecha": "2026-11-13",
-  "turno": 8,
-  "generado": "13/11/2026 14:58",
+  "turno": 18,
+  "generado": "13/11/2026 22:49",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "Se repiten la diplomacia y las relaciones internacionales, en particular las de China con Estados Unidos, así como la protección ambiental, la tecnología y la seguridad. Diario del Pueblo y CGTN también destacan el patrimonio ligado al té. Entre los asuntos propios de una portada, Xinhua dedica varias noticias a la COVID-19 y la vacunación.",
-    "crispacion": 40,
-    "motivo_crispacion": "La tensión procede sobre todo de las restricciones tecnológicas entre Estados Unidos y China, las discrepancias sobre seguridad de la inteligencia artificial y las fricciones regionales que implican a China, Japón y Filipinas. También aparecen protestas en Estados Unidos contra los ataques a Irán y denuncias de presuntas irregularidades en una universidad china. Las noticias sobre medio ambiente, salud, agricultura y patrimonio cultural compensan parcialmente ese clima. Las portadas incluyen contenidos de fechas diferentes, por lo que no reflejan necesariamente un mismo día."
+    "temas": "Se repiten la protección ambiental, la salud, las relaciones internacionales de China y la tecnología, en particular la inteligencia artificial y los chips. También aparecen la cultura tradicional y el té. Solo Xinhua destaca la vacunación y las medidas frente a la COVID-19.",
+    "crispacion": 38,
+    "motivo_crispacion": "La tensión se concentra en las restricciones tecnológicas y comerciales entre Estados Unidos y China, así como en las discrepancias sobre el comercio con la Unión Europea. Global Times recoge además críticas a un acuerdo entre Filipinas y Japón y protestas en Estados Unidos contra los ataques a Irán. Una denuncia de presuntas irregularidades universitarias añade tensión social. En contraste, predominan en otras portadas las noticias sobre salud, medioambiente y cooperación; las informaciones proporcionadas corresponden a fechas distintas."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "La protección ambiental y la seguridad alimentaria no son asuntos separados de la lucha de clases. Cuando el Diario del Pueblo recuerda las malas condiciones ambientales que padecían aldeas de Zhejiang y anuncia un nuevo censo agrícola, yo veo una pregunta fundamental: ¿quién decide sobre la tierra y quién disfruta de sus frutos? Un campo limpio y productivo exige inversión pública, derechos para quienes lo trabajan y propiedad colectiva capaz de frenar la subordinación de los recursos al beneficio del gran capital.\n\nTambién se habla de garantizar la equidad en el examen de acceso a la universidad. Pero la igualdad no empieza el día de la prueba: necesita escuelas públicas bien financiadas y oportunidades reales para las familias trabajadoras. Medir el progreso por los beneficios empresariales es insuficiente; debemos juzgarlo por la salud, la educación y la capacidad de decisión colectiva del pueblo."
+      "texto": "Veo en las noticias sobre el medio ambiente y la agricultura una misma cuestión de clase: quién decide sobre los recursos y quién paga el precio de su deterioro. La inspección de la ley de ahorro energético y el próximo censo agrícola pueden ser útiles, pero no bastan por sí solos. Yo defiendo servicios públicos capaces de proteger el campo, apoyar a quienes lo trabajan y garantizar alimentos sin subordinar la tierra y el agua al beneficio privado.\n\nTambién desconfío de que las disputas comerciales entre grandes potencias se presenten como defensa automática de sus pueblos. Si la política industrial solo protege los beneficios de las grandes empresas, los trabajadores acabarán enfrentados mientras otros deciden. Prefiero la propiedad colectiva y el control democrático de los sectores estratégicos: la riqueza y la tecnología deben servir a las necesidades comunes, no al gran capital."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "En el Día Mundial del Medio Ambiente, leo que la protección de ríos y montañas vuelve a presentarse como una tarea dirigida desde arriba. Comparto la urgencia ecológica, pero desconfío de que un partido o un Estado puedan sustituir la participación libre de quienes habitan y cuidan esos territorios. Una comunidad no debería ser mera ejecutora de planes ajenos: debería decidir cómo proteger el agua, producir alimentos y repartir sus recursos.\n\nTambién se anuncia un nuevo censo agrícola. Conocer el campo puede ser útil, pero los datos por sí solos no garantizan justicia. Yo prefiero una agricultura basada en la autogestión, las cooperativas voluntarias y el apoyo mutuo entre comunidades. La coordinación es necesaria; la obediencia a una jerarquía, no. Defender la naturaleza exige libertad colectiva y responsabilidad compartida, no convertir el futuro común en patrimonio de quienes gobiernan."
+      "texto": "Leo las noticias sobre protección ambiental y seguridad alimentaria y pienso que cuidar la tierra exige mucho más que planes dictados desde arriba. Quienes trabajan los campos y habitan las comunidades conocen sus necesidades y deberían decidir, mediante asambleas y cooperación voluntaria, cómo organizar la producción y proteger su entorno. La coordinación es necesaria, pero no tiene por qué confundirse con obediencia a un Estado o a un partido.\n\nTambién veo que se explica por qué dejaron de publicarse datos sobre infecciones asintomáticas. En materia de salud, yo defiendo información accesible y verificable: sin ella, la autonomía personal y la solidaridad comunitaria quedan debilitadas. El apoyo mutuo necesita conocimientos compartidos, no tutela. Una sociedad libre se construye cuando las personas pueden cuidar de sí mismas y de las demás sin entregar sus decisiones a una jerarquía."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "La protección del medio ambiente merece tomarse en serio: respirar aire limpio y disfrutar de ríos sanos también forma parte de la libertad. Pero no creo que una planificación cada vez más centralizada sea la única respuesta. Prefiero reglas claras contra la contaminación, derechos de propiedad seguros y espacio para que comunidades y empresas encuentren soluciones. Quien cause daños debe responder por ellos.\n\nLa posible exclusión de laboratorios chinos de las pruebas para el mercado estadounidense apunta en la dirección contraria a la cooperación comercial: levantar barreras puede encarecer productos y entorpecer las cadenas de suministro. Yo defendería mercados abiertos, impuestos bajos y un Estado limitado que proteja derechos en vez de sustituir las decisiones de productores y consumidores. La prosperidad duradera exige libertad, pero también responsabilidad personal."
+      "texto": "La protección ambiental merece algo más que consignas. Yo quiero ríos limpios y pueblos habitables, pero no creo que una planificación cada vez más amplia sea la única forma de conseguirlos. Un Estado limitado debe hacer cumplir reglas claras contra la contaminación y exigir a quien cause daños que responda por ellos. La propiedad bien protegida, la innovación y la iniciativa local también pueden cuidar recursos que pertenecen a generaciones futuras.\n\nMe preocupa, además, el plan estadounidense para excluir a laboratorios chinos de pruebas y la intención europea de proteger sectores frente a importaciones chinas. Las barreras pueden encarecer productos y privar a las empresas de proveedores competitivos. Prefiero comercio abierto, impuestos bajos y gobiernos que no pretendan escoger ganadores: así las personas conservan más libertad para trabajar, invertir y asumir las consecuencias de sus decisiones."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Creo que una nación que no puede alimentar a su población ni proteger sus recursos compromete su independencia. Por eso veo con interés la prioridad que China concede a la cosecha y a la seguridad alimentaria. Pero los anuncios oficiales no bastan: el campo necesita resultados verificables, no una prensa que confunda el interés nacional con la exaltación del poder.\n\nTambién considero acertado preservar el paisaje y los oficios tradicionales, como la elaboración del té de Longjing. Una patria no es solo una economía: es una herencia que tenemos el deber de transmitir. Y la seguridad exige capacidad de defensa y prudencia ante las tensiones internacionales, sin entregar decisiones estratégicas a élites que hablan de cooperación mientras olvidan sus responsabilidades nacionales. Dialogar con otras potencias es necesario; depender de su buena voluntad sería una imprudencia."
+      "texto": "Las noticias sobre la cosecha china y la protección de sus industrias me recuerdan una verdad que nuestras élites prefieren olvidar: una nación que no puede alimentarse ni fabricar lo esencial por sí misma acaba dependiendo de decisiones ajenas. Yo apoyo proteger la agricultura, asegurar la energía y defender los sectores estratégicos, aunque los mercados y los burócratas internacionales protesten.\n\nTambién celebro que se hable de preservar los paisajes rurales y los oficios tradicionales, como el del té Longjing. No son adornos para turistas: son una herencia que merece transmitirse. Pero desconfío de una prensa que convierte cada decisión del poder en motivo de alabanza. El patriotismo no exige obediencia ciega, sino instituciones que rindan cuentas y ciudadanos capaces de exigir resultados. La soberanía se defiende con fronteras seguras, producción propia y lealtad a la comunidad nacional."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Veo una oportunidad en la importancia que la prensa china concede al medioambiente y a la seguridad alimentaria. Proteger ríos y mejorar la vida rural no debería plantearse como alternativa al crecimiento: una economía próspera necesita recursos sostenibles y comunidades saludables. Pero los compromisos requieren controles efectivos, información pública y participación de quienes soportan los costes de la transición. La inspección de la ley de ahorro energético puede ser útil si sus resultados se examinan con rigor.\n\nTambién celebro el diálogo entre China y Estados Unidos. Las diferencias sobre seguridad de la inteligencia artificial muestran lo difícil que será alcanzar acuerdos, pero precisamente por eso conviene mantener canales abiertos. Prefiero avances graduales y verificables a gestos grandilocuentes: la cooperación entre rivales no elimina sus desacuerdos, pero puede reducir riesgos compartidos."
+      "texto": "Veo una oportunidad en la reunión del nuevo órgano bilateral de comercio entre Estados Unidos y China y en el diálogo sobre seguridad de la inteligencia artificial. Competir no obliga a renunciar a reglas comunes: acordar qué incidentes deben comunicarse podría reducir riesgos para ambos países. También examinaría con rigor el plan estadounidense para excluir a laboratorios chinos de pruebas. Proteger la seguridad importa, pero una restricción debe justificarse con pruebas y sopesar sus costes para consumidores y empresas.\n\nEn China, la inspección de la aplicación de la ley de ahorro energético apunta a una cuestión esencial: los compromisos ambientales necesitan controles verificables, no solo declaraciones. Yo apoyaría reformas graduales que combinen incentivos de mercado con protección para las comunidades afectadas y mecanismos públicos de rendición de cuentas. La prosperidad duradera exige tanto instituciones fiables como aire limpio."
     }
   ],
   "periodicos": [
@@ -103,10 +103,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- El Día Mundial del Medio Ambiente centra varias noticias sobre protección ecológica y desarrollo sostenible, con protagonismo de Xi Jinping.\n- Liu Guozhong supervisa la cosecha y la producción agrícola; el Consejo de Estado anuncia un censo agrícola para 2026.\n- Han Zheng se reúne con una delegación estadounidense de diálogo no gubernamental.\n- Se anuncian normas sobre instalaciones militares y disciplina del Partido, así como una inspección de la ley de ahorro energético.\n- Otras noticias abordan la organización del examen de acceso a la universidad, el patrimonio del té Longjing y la actividad de Xi en mayo.",
-        "populismo": 20,
-        "motivo_populismo": "Predomina un tono institucional, aunque expresiones como «proteger la naturaleza como los ojos» y «aldeas llenas de basura» aportan carga emotiva y cierta simplificación.",
-        "sesgo": "La selección da amplio protagonismo a las autoridades chinas y presenta sus iniciativas, especialmente las de Xi Jinping, en términos favorables. Apenas aparecen voces independientes o enfoques críticos en los textos facilitados."
+        "resumen": "- El Día Mundial del Medio Ambiente centra varias noticias sobre protección ecológica y las iniciativas de Xi Jinping.\n- La portada aborda la cosecha, la seguridad alimentaria y el censo agrícola previsto para 2026.\n- Han Zheng se reúne con una delegación estadounidense en el marco de un diálogo bilateral no oficial.\n- Se recogen medidas sobre instalaciones militares, disciplina del Partido, ahorro energético y organización de los exámenes de acceso a la universidad.\n- También destacan el patrimonio del té Longjing y un repaso de la actividad de Xi Jinping en mayo de 2025.",
+        "populismo": 25,
+        "motivo_populismo": "Predominan titulares informativos, aunque algunos recurren a expresiones emotivas y llamativas, como «cuidar montañas y aguas» o preguntar cómo el té Longjing conquista al mundo, sin plantear un enfrentamiento entre el pueblo y las élites.",
+        "sesgo": "La selección y la redacción muestran un enfoque institucional favorable a las autoridades chinas, con especial protagonismo de Xi Jinping y de sus iniciativas. Los textos destacan sus actuaciones y orientaciones sin incluir perspectivas críticas."
       }
     },
     {
@@ -175,10 +175,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- Reapertura de comercios y recuperación gradual de la actividad tras la optimización de las medidas contra la COVID-19.\n- Plan para una segunda dosis de refuerzo y consejos de vacunación y protección para mayores y pacientes cardiovasculares.\n- Explicaciones sobre los datos de contagios asintomáticos y sobre la variante BQ.1.\n- Noticias sobre la intervención de Xi Jinping en una conferencia de biodiversidad, la regulación financiera y los cambios en China.\n- Preparación de tres astronautas y previsión de una nueva ola de frío.",
-        "populismo": 18,
-        "motivo_populismo": "Predomina un tono informativo e institucional, aunque aparecen expresiones emotivas sobre cumplir el sueño de volar al espacio y lenguaje alarmista como «perro del infierno», citado como parte de un mensaje que circula en internet.",
-        "sesgo": "La selección destaca las políticas y explicaciones de las autoridades, así como una visión positiva de los cambios en China y de sus logros espaciales. Predominan las fuentes y perspectivas institucionales."
+        "resumen": "- La portada destaca la modernización de China y la reactivación comercial tras la optimización de las medidas contra la COVID-19.\n- Varias noticias abordan la vacunación, la protección de personas vulnerables y las dudas sobre datos y variantes del virus.\n- Se anuncia una intervención de Xi Jinping en una reunión sobre biodiversidad y se repasan sus actividades diplomáticas.\n- Una pieza relata los años de preparación de tres astronautas; otra informa de una próxima ola de frío.\n- Un artículo defiende el fortalecimiento de la supervisión financiera y la prevención de riesgos.",
+        "populismo": 15,
+        "motivo_populismo": "Los titulares son mayormente informativos, aunque expresiones como «nueva China» y la pregunta sobre los años de preparación de los astronautas recurren a un tono positivo y emocional.",
+        "sesgo": "La selección y la redacción dan protagonismo a las autoridades y presentan de forma favorable la modernización, las políticas sanitarias y las directrices del Partido. En las noticias sobre la pandemia predomina un enfoque práctico basado en fuentes institucionales."
       }
     },
     {
@@ -247,10 +247,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- Analistas advierten de que un plan de la FCC estadounidense sobre laboratorios chinos podría alterar las cadenas de suministro y elevar costes.\n- Un experto chino critica una declaración filipina sobre la delimitación con Japón; otro titular aborda el juicio de Tokio y el santuario de Yasukuni.\n- Se destacan protestas en Estados Unidos contra los ataques a Irán y las supuestas quejas del sospechoso de un tiroteo contra la administración estadounidense.\n- China anuncia un nuevo horario ferroviario, prepara otra misión lunar y destaca sus avances en inteligencia artificial y computación.\n- Otros temas incluyen la gobernanza en Sudáfrica, el multilateralismo, las visitas desde Taiwán y una propuesta de educación sexual.",
-        "populismo": 32,
-        "motivo_populismo": "Expresiones como «ulterior purposes», «notorious» y «more chaos» aportan dramatización y confrontación, aunque muchos titulares son informativos.",
-        "sesgo": "La selección presenta de forma favorable las iniciativas y capacidades de China, mientras destaca críticas o problemas asociados a Estados Unidos, Japón y Filipinas."
+        "resumen": "- Analistas advierten de que un plan de la FCC estadounidense para excluir a laboratorios chinos podría alterar las cadenas de suministro y elevar costes.\n- Expertos chinos cuestionan una declaración filipina sobre Japón y Filipinas; otro titular critica el relato del santuario Yasukuni sobre el juicio de Tokio.\n- En Estados Unidos, se informa de protestas contra los ataques a Irán y de los agravios escritos por un sospechoso de tiroteo.\n- China anuncia un nuevo horario ferroviario y prepara otra misión lunar; también se abordan la IA, la educación sexual y los viajes desde Taiwán.\n- Otros titulares destacan la gobernanza inclusiva en Sudáfrica y el interés de participantes en un foro de Bakú por el multilateralismo de China.",
+        "populismo": 35,
+        "motivo_populismo": "Expresiones como «propósitos ocultos», «notorio» y «más caos» aportan carga valorativa o alarmista, aunque predominan titulares informativos y no se aprecia una apelación explícita del pueblo contra las élites.",
+        "sesgo": "La selección ofrece una visión favorable de China en asuntos como la tecnología y el multilateralismo, y presenta perspectivas críticas sobre Estados Unidos, Japón y Filipinas. Varias de estas valoraciones se atribuyen a expertos o medios."
       }
     },
     {
@@ -319,16 +319,36 @@
         }
       ],
       "analisis": {
-        "resumen": "- China señala seis problemas en la candidatura de Bélgica y Chile para acoger la secretaría del BBNJ.\n- La portada aborda la protección de la salud respiratoria y un avance chino en exploración de gas marino ultraprofundо.\n- Xi Jinping asistirá a la reunión de líderes de APEC; también se destaca su discurso sobre sostenibilidad.\n- El ministro de Exteriores de Corea del Sur visitará China, que ha entregado restos de aviadores estadounidenses de la Segunda Guerra Mundial.\n- Otras noticias tratan sobre el té de Guizhou, la Ruta de la Seda, la Larga Marcha y los estereotipos sobre los productos chinos.",
-        "populismo": 12,
-        "motivo_populismo": "Predomina un tono informativo, aunque la pregunta sobre si los productos chinos son «solo baratos» recurre a un estereotipo y a una simplificación.",
-        "sesgo": "La selección ofrece un enfoque mayoritariamente favorable a China, destacando sus avances, su cultura y sus compromisos ambientales. La presencia de Xi Jinping y de iniciativas diplomáticas también da protagonismo a la perspectiva institucional china."
+        "resumen": "- China señala seis problemas en la candidatura de Bélgica y Chile para la secretaría del BBNJ.\n- Xi asistirá a la reunión de líderes de APEC en Shenzhen; un ex primer ministro neozelandés destaca el potencial innovador del foro.\n- La portada aborda la protección de la salud respiratoria y la entrega de restos de aviadores estadounidenses de la Segunda Guerra Mundial.\n- Destaca un avance chino en la exploración de gas ultraprofund está en alta mar y cuestiona estereotipos sobre los productos chinos.\n- Incluye contenidos sobre la Larga Marcha, la Ruta de la Seda, el té de Guizhou y el compromiso ambiental de Xi.",
+        "populismo": 15,
+        "motivo_populismo": "Predomina un tono informativo, aunque «romper estereotipos» y la pregunta sobre si los productos chinos son «solo baratos» introducen una formulación confrontativa y simplificadora.",
+        "sesgo": "La selección enfatiza avances, tradiciones y compromisos de China, junto con la actividad de sus dirigentes y sus relaciones internacionales. El enfoque es mayormente favorable a China, sin que se aprecien perspectivas críticas sobre esos temas."
       }
     },
     {
       "nombre": "South China Morning Post",
       "web": "https://www.scmp.com",
       "noticias": [
+        {
+          "titulo": "EU’s fixation on Chinese subsidies masks its own structural stagnation",
+          "entradilla": "The European Commission is moving to shield its industrial machinery and chemical sectors from Chinese imports, and is weighing a “kill switch” mechanism.\nTogether with Washington, Brussels has settled into a familiar narrative: a record trade deficit with China is framed as proof of its “overcapaci",
+          "enlace": "https://www.scmp.com/opinion/world-opinion/article/3373980/eus-fixation-chinese-subsidies-masks-its-own-structural-stagnation"
+        },
+        {
+          "titulo": "Bessent blames US Commerce Department for not restricting Nvidia chip exports to China",
+          "entradilla": "US Treasury Secretary Scott Bessent on Friday blamed the Commerce Department, led by Howard Lutnick, for delaying the blacklisting of Megaspeed, an Nvidia customer suspected of diverting advanced AI chips to China, days before US President Donald Trump and Chinese President Xi Jinping are expected t",
+          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3374409/bessent-blames-us-commerce-department-not-restricting-nvidia-chip-exports-china"
+        },
+        {
+          "titulo": "US-China Board of Trade holds first meeting days before Trump-Xi summit",
+          "entradilla": "The United States and China held the inaugural meeting of their bilateral Board of Trade on Friday, just days before US President Donald Trump is set to meet Chinese leader Xi Jinping in Shenzhen.\n“Today, the Office of the US Trade Representative, alongside the @USTreasury, held the first official U",
+          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3374407/us-china-board-trade-holds-first-meeting-days-trump-xi-summit"
+        },
+        {
+          "titulo": "Trump to press Southeast Asia nations to join Pax Silica at Asean summit in Manila",
+          "entradilla": "US President Donald Trump will press Southeast Asian economies to join Pax Silica, his campaign to China-proof AI and chip supply chains, when he attends the Asean summit in Manila next week.\nAccording to people familiar with the matter, artificial intelligence and critical minerals will top his age",
+          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3374393/trump-press-southeast-asia-nations-join-pax-silica-asean-summit-manila"
+        },
         {
           "titulo": "US-China AI safety talks face hurdle over how to define ‘serious’ incidents: analysts",
           "entradilla": "China and the United States have a shared interest in preventing artificial intelligence (AI) from being misused, but differing views over what constitutes a serious safety incident could complicate efforts to build a bilateral communication mechanism, according to analysts.\nUS Treasury Secretary Sc",
@@ -368,33 +388,13 @@
           "titulo": "Jensen Huang’s departure may signal tighter US controls on AI chip exports to China",
           "entradilla": "Nvidia chief executive Jensen Huang’s abrupt departure has raised fresh questions about the future of US-China technology ties, as observers weigh the potential fallout from Washington’s policy on advanced AI chip exports to China.\nThe timing is particularly sensitive, with US lawmakers debating an ",
           "enlace": "https://www.scmp.com/news/china/diplomacy/article/3374270/jensen-huangs-departure-may-signal-tighter-us-controls-ai-chip-exports-china"
-        },
-        {
-          "titulo": "As Japan looks to strengthen defences and security strategy, analysts warn of escalation",
-          "entradilla": "Japan aims to become harder to defeat militarily and less vulnerable to economic pressure from China under plans to overhaul its three key security documents by the end of the year.\nAnalysts said the proposed revisions could make it more difficult for China to achieve its military objectives or use ",
-          "enlace": "https://www.scmp.com/news/china/military/article/3374244/japan-looks-strengthen-defences-and-security-strategy-analysts-warn-escalation"
-        },
-        {
-          "titulo": "Nvidia’s hunt for Jensen Huang’s successor: insiders, rivals and a Trump pick",
-          "entradilla": "Nvidia is searching for its first new leader in 33 years after Jensen Huang quit on Thursday, with interim chief Colette Kress, veteran engineers, members of Huang’s own family and the bosses of rival chipmakers all touted as possible successors.\nThe AI chip giant was left without the only leader it",
-          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3374268/nvidias-hunt-jensen-huangs-successor-insiders-rivals-and-trump-pick"
-        },
-        {
-          "titulo": "US invests in Peru’s Callao as port battle with China’s Chancay megaport continues",
-          "entradilla": "The United States has paid to design a port infrastructure programme at Callao, the US State Department said on Thursday, as Peru moves its main naval base to expand the country’s busiest port, which rivals a Chinese-controlled megaport less than 80km up the coast at Chancay.\nThe US$4.5 million paym",
-          "enlace": "https://www.scmp.com/news/us/diplomacy/article/3374267/us-invests-perus-callao-port-battle-chinas-chancay-megaport-continues"
-        },
-        {
-          "titulo": "White House discussing Howard Lutnick’s future as commerce secretary, sources say",
-          "entradilla": "Senior White House officials are discussing whether Commerce Secretary Howard Lutnick should be pushed out amid a spy scandal surrounding Nvidia’s now-former CEO Jensen Huang, two people familiar with the situation said on Thursday.\nA growing number of lawmakers criticised Lutnick for the administra",
-          "enlace": "https://www.scmp.com/news/world/united-states-canada/article/3374266/white-house-discussing-howard-lutnicks-future-commerce-secretary-sources-say"
         }
       ],
       "analisis": {
-        "resumen": "- Las conversaciones entre China y EE. UU. sobre seguridad de la IA afrontan diferencias de criterio; la salida de Jensen Huang de Nvidia abre interrogantes sobre las exportaciones de chips y su sucesión.\n- Japón prepara una revisión de su estrategia de seguridad y Argelia prueba un misil aparentemente chino.\n- EE. UU. financia el diseño de un programa portuario en Callao, en Perú, frente a la competencia del puerto de Chancay, controlado por China.\n- Un biólogo deja Chicago por Hangzhou; también destacan la protección de una inscripción histórica y la denuncia póstuma de un pianista sobre su universidad.\n- La portada incluye un relato sobre un tiroteo en Washington y debates en la Casa Blanca sobre el futuro del secretario de Comercio.",
-        "populismo": 20,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «batalla portuaria» y «cruda realidad» aportan dramatismo y presentan algunos asuntos en clave de confrontación.",
-        "sesgo": "La selección privilegia las relaciones entre China y EE. UU. y la competencia tecnológica, militar y económica. También presta atención a controversias sociales y culturales vinculadas con China."
+        "resumen": "- La UE estudia medidas frente a importaciones chinas, mientras Washington debate restricciones a la exportación de chips.\n- Estados Unidos y China celebran una reunión comercial antes de la cumbre Trump-Xi; también afrontan diferencias sobre seguridad de la IA.\n- Trump buscará sumar a países del Sudeste Asiático a una iniciativa sobre cadenas de suministro de IA y chips.\n- El biólogo Zhao Yingming deja Chicago por Hangzhou; Argelia prueba un aparente misil chino y preocupa la protección de una inscripción Han.\n- Otras noticias abordan la nota póstuma de un pianista chino, un tiroteo en Washington y la salida de Jensen Huang de Nvidia.",
+        "populismo": 22,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «obsesión» por los subsidios chinos, que «oculta» el estancamiento europeo, o «cruda realidad» del tiroteo introducen énfasis valorativo y emocional.",
+        "sesgo": "La portada prioriza las relaciones comerciales y tecnológicas entre China y Estados Unidos. El titular sobre la UE adopta una postura crítica hacia la explicación europea de sus problemas industriales."
       }
     }
   ]
