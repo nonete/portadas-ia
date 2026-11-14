@@ -1,39 +1,39 @@
 {
   "pais": "Francia",
-  "fecha": "2026-11-13",
-  "turno": 18,
-  "generado": "13/11/2026 22:49",
+  "fecha": "2026-11-14",
+  "turno": 8,
+  "generado": "14/11/2026 09:21",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "Se repiten el partido de rugby Francia-Sudáfrica y el homenaje a las víctimas de los atentados del 13 de noviembre, así como la avería de Microsoft y la suspensión de vuelos en Estados Unidos. También aparecen en varios periódicos las noticias sobre Nvidia y la movilización de directivos escolares ante la violencia en los institutos. Solo Le Monde destaca la visita del papa León XIV a Perú.",
-    "crispacion": 48,
-    "motivo_crispacion": "La tensión se concentra en la violencia vinculada al movimiento de estudiantes de secundaria y en las protestas de los directivos escolares. Libération añade convocatorias de manifestaciones y una huelga de funcionarios tras el desacuerdo salarial con el Gobierno, mientras Le Parisien recoge el malestar de sindicatos policiales. También aparecen divisiones políticas y acusaciones de racismo en Francia y en el extranjero. En conjunto, las noticias deportivas, tecnológicas y culturales compensan parcialmente ese clima de conflicto."
+    "temas": "La victoria de Francia sobre Sudáfrica en rugby aparece en los cinco periódicos. También se repiten las movilizaciones sociales y los bloqueos en centros educativos, la suspensión de vuelos en Estados Unidos y la candidatura presidencial de Teddy Riner. Solo Ouest-France destaca el impacto de la sequía en la navegación por el Canal du Midi.",
+    "crispacion": 60,
+    "motivo_crispacion": "Las protestas contra la carestía y la convocatoria de huelga de los funcionarios reflejan tensión entre sindicatos y Gobierno, tras unas negociaciones sin acuerdo sobre la principal demanda salarial. Los bloqueos y episodios de violencia en centros educativos generan malestar entre los directivos, mientras se cuestionan las cifras oficiales de establecimientos afectados. El amplio despliegue policial previsto añade preocupación por posibles alteraciones del orden público. En contrapartida, abundan noticias deportivas, culturales y de interés local sin enfrentamiento político o social."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Veo una contradicción de clase en las decisiones sobre los salarios: el Gobierno anuncia una subida del salario mínimo, pero rechaza descongelar el índice que determina la remuneración de los empleados públicos. Celebrar lo primero no obliga a aceptar lo segundo. La sanidad, la educación y los demás servicios públicos necesitan trabajadores justamente remunerados, no una austeridad que los debilite. Apoyo la huelga convocada por sus sindicatos y la convergencia de las movilizaciones.\n\nLa caída de Microsoft también revela cuánto depende nuestro trabajo de las herramientas de una gran empresa privada, aunque su impacto haya sido limitado. No basta con esperar que el proveedor resuelva la avería: defiendo infraestructuras digitales públicas, interoperables y bajo control colectivo. La tecnología que sostiene la vida común debe responder a necesidades sociales y no quedar sometida a las prioridades del gran capital."
+      "texto": "Veo en las movilizaciones contra la carestía una respuesta de clase: quienes viven de su trabajo reclaman salarios y servicios capaces de sostener una vida digna. La negativa a descongelar el índice salarial de los funcionarios, seguida de una convocatoria de huelga, muestra que no basta con pedir sacrificios a quienes mantienen en pie lo público. Y cuando hay familias que no pueden calentarse, la urgencia social no admite discursos marciales como respuesta.\n\nLa avería de Microsoft también revela una dependencia que considero peligrosa: herramientas esenciales para empresas y trabajadores están concentradas en manos de un gigante privado. Aunque esta interrupción haya tenido un impacto limitado, defiendo alternativas digitales públicas y de propiedad colectiva, gestionadas democráticamente. Frente al poder del gran capital, necesitamos invertir en servicios públicos y dar a quienes trabajan voz efectiva sobre los recursos de los que depende la sociedad."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "La caída de Microsoft, aunque de impacto limitado, revela una dependencia que me inquieta: empresas y trabajadores quedan a merced de herramientas controladas por un gigante privado. No basta con cambiar de proveedor; necesitamos tecnologías abiertas, alternativas locales y decisiones compartidas por quienes las utilizan.\n\nTambién miro con interés la convocatoria de movilizaciones comunes y la huelga de la función pública. La subida del salario mínimo puede aliviar a quienes la reciben, pero no sustituye la capacidad de organizarse y decidir desde abajo. Los partidos pedirán confianza para administrar nuestras vidas; yo prefiero construirla entre vecinos, trabajadores y comunidades, mediante asambleas y apoyo mutuo. La libertad individual necesita esa solidaridad material, y la libertad colectiva exige que nadie concentre el poder de decidir por todos."
+      "texto": "Veo en las movilizaciones contra la carestía y en la huelga convocada por los trabajadores públicos una posibilidad que ningún partido debería apropiarse: la de decidir juntos cómo defender nuestras vidas. Las concesiones gubernamentales y el despliegue policial no sustituyen el poder de las personas para organizarse desde abajo. Quiero asambleas abiertas, decisiones compartidas y apoyo mutuo, no dirigentes que hablen en nuestro nombre sin rendir cuentas.\n\nLa dependencia de Microsoft, puesta en evidencia por la interrupción de sus servicios, me recuerda otro problema: cuando unas pocas empresas controlan herramientas esenciales, nuestra autonomía queda a su merced. Necesitamos alternativas gestionadas por quienes las usan y mantienen. La libertad individual no se opone a la colectiva: ambas crecen cuando compartimos recursos y nadie manda sobre los demás."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "La subida anunciada del salario mínimo responde a una preocupación legítima: que trabajar permita vivir mejor. Pero yo desconfío de que fijar salarios por decreto baste para crear prosperidad. Si contratar resulta más costoso, algunas empresas pueden reducir oportunidades, precisamente para quienes más necesitan acceder al empleo. Prefiero impuestos más bajos sobre el trabajo y un entorno en el que emprender y competir sea más sencillo.\n\nLa caída de los servicios de Microsoft también recuerda que la libertad exige responsabilidad. Las empresas deben poder elegir sus herramientas, pero asumir las consecuencias de concentrar sus riesgos y preparar alternativas. No hace falta convertir cada problema en una nueva misión del Estado: un gobierno limitado debe proteger derechos y hacer cumplir las reglas, dejando espacio a la iniciativa y a las decisiones individuales."
+      "texto": "Veo en las protestas contra la carestía una preocupación legítima: llegar a fin de mes es cada vez más difícil para muchas familias. Pero no creo que la respuesta sea confiar al Estado una porción aún mayor de sus ingresos. Prefiero impuestos más bajos, menos trabas a la actividad económica y competencia para que empresas y trabajadores puedan crear prosperidad.\n\nLa suspensión de vuelos en Estados Unidos también invita a exigir responsabilidades. Antes de aprobar los 50.000 millones de dólares solicitados, el Congreso debería examinar qué falló, cómo se ha administrado el sistema y qué alternativas ofrecen mejores resultados. Un Estado limitado no es un Estado indiferente: debe cumplir bien sus funciones esenciales y rendir cuentas. La libertad exige esa vigilancia sobre el poder público, pero también responsabilidad de ciudadanos y empresas por sus propias decisiones."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Veo en las violencias contra los directivos escolares algo más que un problema de convivencia: cuando quienes dirigen nuestros centros temen ejercer su autoridad, es la transmisión misma de conocimientos, disciplina y deberes la que se debilita. Defender la escuela exige sanciones efectivas y respaldo institucional, no excusas.\n\nLa caída de Microsoft recuerda, además, que una nación dependiente de herramientas ajenas no controla plenamente su destino. Quiero una Francia capaz de proteger sus servicios esenciales y desarrollar alternativas propias, sin entregar su autonomía a gigantes extranjeros ni esperar que otros decidan por ella. Lo mismo vale para la seguridad europea: cooperar no debe significar poner nuestro destino en manos de Moscú o Washington.\n\nEl homenaje a las víctimas del 13 de noviembre nos recuerda por qué importan la memoria común y la seguridad. Las élites deberían atender menos a sus disputas y más a esas obligaciones."
+      "texto": "Veo una Francia a la que se exige resignación mientras sus dirigentes vacilan. La carestía lleva a miles de personas a movilizarse; al mismo tiempo, directores de institutos denuncian bloqueos y violencia. Defender el derecho a manifestarse no obliga a tolerar que se impida estudiar. El Estado debe garantizar el orden y escuchar a quienes trabajan, no esconder la crisis detrás de cifras tranquilizadoras.\n\nLa caída de Microsoft y la avería aérea estadounidense recuerdan otra verdad: un país que descuida sus infraestructuras y depende de herramientas que no controla renuncia a una parte de su soberanía. Quiero inversiones nacionales, servicios esenciales protegidos y responsables que rindan cuentas.\n\nLa victoria del XV de Francia ofrece, por contraste, una imagen de disciplina y solidaridad. Esas virtudes también deberían inspirar a quienes gobiernan."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Me preocupa la violencia que denuncian los directivos de institutos. Proteger a quienes trabajan en la escuela y garantizar el derecho a estudiar es una obligación pública; también lo es escuchar a los alumnos sin confundir la protesta con la agresión. Hace falta diálogo, pero las agresiones deben tener consecuencias.\n\nLa subida del salario mínimo apunta a una necesidad real: trabajar debe permitir vivir con dignidad. Para que ese avance sea duradero, conviene acompañarlo con atención a sus efectos sobre el empleo y las pequeñas empresas. No veo contradicción entre un mercado dinámico y una protección social sólida: se necesitan mutuamente.\n\nTambién espero que el Gobierno vuelva a negociar con los sindicatos de funcionarios. Rechazar una demanda puede ser legítimo; cerrar el diálogo ante una movilización anunciada sería una oportunidad perdida."
+      "texto": "La movilización contra el alto costo de la vida no se resolverá con gestos de autoridad ni con promesas que las cuentas públicas no puedan sostener. Me preocupa que las conversaciones sobre la remuneración de los funcionarios hayan terminado sin acuerdo. Creo que el Gobierno debe volver a la mesa con los sindicatos y negociar mejoras graduales, financiadas de manera creíble. Defender el derecho a manifestarse es compatible con proteger a alumnos y docentes frente a la violencia.\n\nLa suspensión de vuelos en Estados Unidos también recuerda que una economía dinámica necesita instituciones capaces e infraestructuras fiables. Modernizarlas puede exigir inversión pública, pero pedir fondos no basta: el Congreso debe examinar las prioridades y exigir resultados. Para mí, el mercado y la protección social no son enemigos; ambos dependen de un Estado competente y responsable."
     }
   ],
   "periodicos": [
@@ -42,19 +42,14 @@
       "web": "https://www.lemonde.fr",
       "noticias": [
         {
-          "titulo": "La lente dérive terroriste de Kevin Tessier, l’auteur de l’attentat de Trappes, vue par ses proches : « Il s’énervait devant la télé, avec des insultes racistes »",
-          "entradilla": "Les auditions de ses parents et d’un ami, dont « Le Monde » a pris connaissance, racontent la radicalisation du tueur, entre enfance perturbée, fragilités psychologiques, obsessions racistes liées à l’actualité et altercations violentes.",
-          "enlace": "https://www.lemonde.fr/societe/article/2026/11/13/la-lente-derive-terroriste-de-kevin-tessier-l-auteur-de-l-attentat-de-trappes-vue-par-ses-proches-il-s-enervait-devant-la-tele-avec-des-insultes-racistes_6809375_3224.html"
+          "titulo": "Aux Etats-Unis, après la suspension des vols, l’administration Trump politise cette panne géante et réclame 50 milliards de dollars au Congrès",
+          "entradilla": "Un dysfonctionnement affectant les centres régionaux de contrôle aérien a conduit les autorités à clouer les avions au sol dans tout le pays, vendredi. Le secrétaire aux transports, Sean Duffy, a accusé du « vieux matériel » d’être responsable de l’incident.",
+          "enlace": "https://www.lemonde.fr/economie/article/2026/11/14/aux-etats-unis-apres-la-suspension-des-vols-l-administration-trump-politise-cette-panne-geante-et-reclame-50-milliards-de-dollars_6809689_3234.html"
         },
         {
-          "titulo": "Mouvement lycéen : le cri d’alarme des proviseurs, « à bout » face aux violences",
-          "entradilla": "Dans une trentaine de villes de France, des membres du personnel de direction se sont rassemblés vendredi. Une manifestation inédite depuis vingt ans, alors que plusieurs dizaines ont été blessés depuis la mi-septembre. Si le SNPDEN-Unsa a souhaité dire « stop » aux lycéens, le syndicat a aussi émis",
-          "enlace": "https://www.lemonde.fr/campus/article/2026/11/13/mouvement-lyceen-le-cri-d-alarme-des-proviseurs-a-bout-face-aux-violences_6809386_4401467.html"
-        },
-        {
-          "titulo": "Sollicitée par Donald Trump, la Russie jubile à l’idée de peser sur l’architecture de sécurité européenne",
-          "entradilla": "Pour reprendre langue avec les Etats européens, le Kremlin leur propose, entre autres, de signer des accords bilatéraux d’assistance mutuelle, à l’image de ceux qu’il a conclus avec la Biélorussie et la Corée du Nord.",
-          "enlace": "https://www.lemonde.fr/international/article/2026/11/13/sollicitee-par-donald-trump-la-russie-jubile-a-l-idee-de-peser-sur-l-architecture-de-securite-europeenne_6809368_3210.html"
+          "titulo": "Mobilisations sociales : entre concessions et discours martiaux, Sébastien Lecornu peine à sortir de la crise",
+          "entradilla": "Impuissant à désamorcer les colères sociales, le premier ministre a essuyé, vendredi, l’ire de la CFDT, à l’issue des discussions sur la fonction publique. Des milliers de manifestants sont attendus dans les rues, samedi, pour l’« acte V » de la mobilisation « contre la vie chère ».",
+          "enlace": "https://www.lemonde.fr/politique/article/2026/11/14/mobilisations-sociales-sebastien-lecornu-peine-a-sortir-de-la-crise_6809785_823448.html"
         },
         {
           "titulo": "La panne de Microsoft alerte entreprises et salariés sur leur dépendance aux outils numériques : « On a tous été un peu dans le même bateau que nos clients »",
@@ -62,9 +57,29 @@
           "enlace": "https://www.lemonde.fr/economie/article/2026/11/13/la-panne-de-microsoft-alerte-entreprises-et-salaries-sur-leur-dependance-aux-outils-numeriques-on-a-tous-un-peu-ete-dans-le-meme-bateau-que-nos-clients_6809369_3234.html"
         },
         {
-          "titulo": "EN DIRECT, France - Afrique du Sud : malgré le carton rouge, les Springboks réduisent l’écart",
-          "entradilla": "Les joueurs de Fabien Galthié, premiers de la poule Nord du Championnat des nations, affrontent les Springboks, doubles champions du monde en titre, vendredi au Stade de France. Un défi de taille pour le XV de France d’Antoine Dupont, miné par les blessures.",
-          "enlace": "https://www.lemonde.fr/sport/live/2026/11/13/en-direct-france-afrique-du-sud-suivez-le-choc-du-championnat-des-nations-de-rugby_6809376_3242.html"
+          "titulo": "Au procès de l’interpellation violente de Michel Zecler par des policiers, les neuf témoins oubliés : « On se dit que si on n’intervient pas, Michel va mourir »",
+          "entradilla": "Cinq jeunes hommes présents au sous-sol du studio du producteur de musique passé à tabac par trois policiers, à Paris, en 2020, se sont constitués partie civile. Ils ont témoigné à la barre des violences subies et de leurs traumatismes.",
+          "enlace": "https://www.lemonde.fr/societe/article/2026/11/14/au-proces-de-l-interpellation-violente-de-michel-zecler-par-des-policiers-les-neuf-temoins-oublies-on-se-dit-que-si-on-n-intervient-pas-michel-va-mourir_6809554_3224.html"
+        },
+        {
+          "titulo": "Face à Israël et aux Etats-Unis, l’Iran resserre ses liens avec la Russie",
+          "entradilla": "Les rencontres diplomatiques se multiplient entre Téhéran et Moscou, tandis que la mer Caspienne devient un axe stratégique pour leurs échanges commerciaux et militaires. Un rapprochement réel, mais qui se heurte aux limites de l’engagement russe.",
+          "enlace": "https://www.lemonde.fr/international/article/2026/11/14/face-a-israel-et-aux-etats-unis-l-iran-resserre-ses-liens-avec-la-russie_6809692_3210.html"
+        },
+        {
+          "titulo": "Porté par un Antoine Dupont omniprésent, le XV de France, héroïque, se défait de l’Afrique du Sud",
+          "entradilla": "Les joueurs de Fabien Galthié se sont imposés sur le fil (21-19), vendredi au Stade de France, face aux doubles champions du monde en titre, dans le choc de la cinquième journée du Championnat des nations de rugby.",
+          "enlace": "https://www.lemonde.fr/sport/article/2026/11/14/porte-par-un-antoine-dupont-omnipresent-le-xv-de-france-heroique-se-defait-de-l-afrique-du-sud_6809521_3242.html"
+        },
+        {
+          "titulo": "La Maison Blanche annonce une rencontre trilatérale entre Donald Trump, Vladimir Poutine et Xi Jinping, jeudi en Chine",
+          "entradilla": "Washington a précisé que les discussions des trois présidents, en marge du sommet de l’APEC à Shenzhen, porteraient sur le désarmement nucléaire. Selon un responsable américain, s’exprimant sous couvert d’anonymat, l’Iran sera aussi au menu de la rencontre, mais pas l’Ukraine.",
+          "enlace": "https://www.lemonde.fr/international/article/2026/11/14/la-maison-blanche-annonce-une-rencontre-trilaterale-entre-donald-trump-vladimir-poutine-et-xi-jinping-jeudi-en-chine_6809488_3210.html"
+        },
+        {
+          "titulo": "Ce que l’on sait des cyberattaques contre des réfrigérateurs de supermarchés",
+          "entradilla": "Ces dernières semaines, des centaines de réfrigérateurs de supermarchés en France et en Europe ont été piratés. Les hackers sont parvenus à prendre le contrôle des logiciels de gestion à distance des appareils.",
+          "enlace": "https://www.lemonde.fr/videos/video/2026/11/14/ce-que-l-on-sait-des-cyberattaques-contre-des-refrigerateurs-de-supermarches_6809687_1669088.html"
         },
         {
           "titulo": "Bono et The Edge, de U2 : « La démocratie n’est pas hors course. Le match n’est pas terminé »",
@@ -72,41 +87,26 @@
           "enlace": "https://www.lemonde.fr/culture/article/2026/11/13/bono-et-the-edge-de-u2-la-democratie-n-est-pas-hors-course-le-match-n-est-pas-termine_6809374_3246.html"
         },
         {
-          "titulo": "IA : Les Européens au défi de s’entendre pour rester dans la course et mieux la réguler",
-          "entradilla": "Réunis à Dublin, les Vingt-Sept se sont penchés sur les défis de l’intelligence artificielle, entre ambitions de souveraineté, régulation, et exigences budgétaires.",
-          "enlace": "https://www.lemonde.fr/international/article/2026/11/13/ia-les-europeens-au-defi-de-s-entendre-pour-rester-dans-la-course-et-mieux-la-reguler_6809387_3210.html"
+          "titulo": "EN DIRECT, guerre en Ukraine : pas de discussions prévues concernant l’Ukraine lors de la rencontre trilatérale entre Trump, Poutine et Xi annoncée par la Maison Blanche",
+          "entradilla": "Washington a précisé que les discussions, en marge du sommet de l’APEC à Shenzhen jeudi 19 novembre, porteraient sur le désarmement nucléaire. Selon un responsable américain, s’exprimant sous couvert d’anonymat, l’Iran sera aussi au menu de la rencontre entre les trois présidents, mais pas l’Ukraine",
+          "enlace": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-des-discussions-sur-l-ukraine-ne-sont-pas-prevues-lors-de-la-rencontre-trilaterale-entre-trump-poutine-et-xi-annoncee-par-la-maison-blanche_6808609_3210.html"
         },
         {
-          "titulo": "Nvidia : le secrétaire au Trésor des Etats-Unis rejette sur le ministère du commerce la responsabilité de la fuite des puces vers la Chine",
-          "entradilla": "La fuite de puces Nvidia vers la Chine relance les tensions entre services gouvernementaux américains sur le contrôle des exportations technologiques.",
-          "enlace": "https://www.lemonde.fr/international/article/2026/11/13/nvidia-le-secretaire-au-tresor-des-etats-unis-rejette-sur-le-ministere-du-commerce-la-responsabilite-de-la-fuite-des-puces-vers-la-chine_6809341_3210.html"
+          "titulo": "Après la Finlande et la Norvège, la Suède veut empêcher les athlètes russes de concourir sur son sol",
+          "entradilla": "Stockholm souhaite présenter prochainement une « solution consistant à refuser l’entrée de son territoire aux athlètes russes », a annoncé le ministre des affaires sociales et de la santé publique, Jakob Forssmed. La mesure devrait être effective avant les championnats du monde de ski nordique, en f",
+          "enlace": "https://www.lemonde.fr/sport/article/2026/11/14/apres-la-finlande-et-la-norvege-la-suede-veut-a-son-tour-empecher-les-athletes-russes-de-concourir-sur-son-sol_6809422_3242.html"
         },
         {
-          "titulo": "Au Pérou, le pape Léon XIV, de retour dans son ancien diocèse, acclamé par une foule gigantesque de fidèles",
-          "entradilla": "Le Vatican a estimé qu’un million de personnes s’étaient massées le long du parcours emprunté par le cortège du pape pour se rendre à l’office auquel 500 000 fidèles auraient assisté.",
-          "enlace": "https://www.lemonde.fr/international/article/2026/11/13/au-perou-le-pape-leon-xiv-de-retour-dans-son-ancien-diocese-acclame-par-une-foule-gigantesque-de-fideles_6809380_3210.html"
-        },
-        {
-          "titulo": "VIDEO Présidentielle 2027 : les gauches sont-elles vraiment irréconciliables ?",
-          "entradilla": "Dans ce deuxième épisode du vodcast « L’Heure de la présidentielle », les journalistes Sandrine Cassini, chargée de la couverture de la gauche, et Abel Mestre, éditorialiste, décrivent de quelles divisions idéologiques internes à la gauche sont issus les candidats à l’Elysée.",
-          "enlace": "https://www.lemonde.fr/videos/video/2026/11/13/presidentielle-2027-les-gauches-seront-elles-vraiment-irreconciliables_6809362_1669088.html"
-        },
-        {
-          "titulo": "Tout comprendre au smic, le salaire minimum que le gouvernement va revaloriser",
-          "entradilla": "L’exécutif a annoncé, lundi 9 novembre, une augmentation du smic à partir du 1ᵉʳ décembre. Près de 12 % des salariés du privé sont concernés, et les variations de leur rémunération ne sont pas sans effet sur la compétitivité des entreprises.",
-          "enlace": "https://www.lemonde.fr/les-decodeurs/article/2026/11/13/tout-comprendre-au-smic-le-salaire-minimum-que-le-gouvernement-va-revaloriser_6809379_4355770.html"
-        },
-        {
-          "titulo": "Israël : Gadi Eisenkot dénonce une « campagne raciste » de Benyamin Nétanyahou contre la minorité arabe",
-          "entradilla": "Les partis arabes israéliens, qui comptent 19 députés depuis les dernières élections législatives, sont au cœur des négociations pour former le futur gouvernement. La prise de position de M. Eisenkot est inhabituelle de la part d’un responsable politique juif majeur.",
-          "enlace": "https://www.lemonde.fr/international/article/2026/11/13/israel-gadi-eisenkot-denonce-une-campagne-raciste-de-benyamin-netanyahou-contre-la-minorite-arabe_6809358_3210.html"
+          "titulo": "L’armée américaine intervient pour une « suspicion d’activité de drone non autorisée » au-dessus d’une base militaire britannique",
+          "entradilla": "« Aucun membre du personnel, aucun avion ni aucune infrastructure n’a été touché », a fait savoir un porte-parole de l’armée de l’air américaine, une fois l’incident résolu. La base concernée se situe à Lakenheath, dans l’est de l’Angleterre.",
+          "enlace": "https://www.lemonde.fr/international/article/2026/11/13/l-armee-americaine-intervient-pour-une-suspicion-d-activite-de-drone-non-autorisee-au-dessus-d-une-base-militaire-britannique_6809392_3210.html"
         }
       ],
       "analisis": {
-        "resumen": "- La radicalización del autor del atentado de Trappes, relatada por sus allegados.\n- Directores de centros educativos alertan de la violencia durante el movimiento estudiantil.\n- Rusia busca influir en la seguridad europea; la UE debate cómo desarrollar y regular la inteligencia artificial.\n- Una avería de Microsoft expone la dependencia digital; también se explican la subida del salario mínimo y las tensiones por las fugas de chips Nvidia a China.\n- La portada recoge noticias sobre las izquierdas francesas, Israel, la visita del papa a Perú, U2 y el partido Francia-Sudáfrica.",
-        "populismo": 15,
-        "motivo_populismo": "El tono es mayoritariamente informativo, aunque expresiones como «grito de alarma» y «al límite» añaden carga emocional; no se aprecia una oposición sistemática entre pueblo y élites.",
-        "sesgo": "La selección prioriza asuntos políticos, sociales y tecnológicos, con especial atención a Francia y Europa. El enfoque combina testimonios y análisis institucional, sin que se aprecie un sesgo partidista claro en el conjunto."
+        "resumen": "- Una avería paralizó vuelos en Estados Unidos; la administración Trump pide 50.000 millones de dólares al Congreso.\n- En Francia continúan las movilizaciones sociales y las tensiones entre el Gobierno y los sindicatos.\n- Una caída de Microsoft expuso la dependencia digital de las empresas; también se registraron ciberataques a frigoríficos de supermercados.\n- En el juicio por la detención violenta de Michel Zecler declararon testigos que denuncian violencias y traumas.\n- La portada aborda el acercamiento entre Irán y Rusia, una reunión anunciada de Trump, Putin y Xi, y la victoria de Francia sobre Sudáfrica en rugby.",
+        "populismo": 18,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «panne géante», «impuissant» o «héroïque» aportan dramatización; no se aprecia una oposición explícita entre el pueblo y las élites.",
+        "sesgo": "La selección presta especial atención a las crisis, los conflictos internacionales y las tensiones sociales. La redacción muestra un enfoque crítico hacia la gestión de los gobiernos estadounidense y francés, sin que por ello pueda atribuirse una orientación política concluyente a toda la portada."
       }
     },
     {
@@ -114,71 +114,71 @@
       "web": "https://www.lefigaro.fr",
       "noticias": [
         {
-          "titulo": "États-Unis : le régulateur de l’aviation ordonne l’arrêt de tous les vols à cause d’un problème de communication",
-          "entradilla": "Le problème de communication «affecte tous les centres de contrôle du trafic aérien des routes aériennes», a annoncé le secrétaire aux Transports américain Sean Duffy. Près de 7000 vols ont été retardés ou annulés pour l’heure.",
+          "titulo": "Des milliers d’annulations, «du vieux matériel» en cause… Ce que l’on sait de la suspension des vols aux États-Unis après la reprise du trafic",
+          "entradilla": "Les États-Unis ont rouvert vendredi leur espace aérien après plusieurs heures de suspension des décollages, causée par un problème de communication.",
           "enlace": "https://www.lefigaro.fr/international/etats-unis-le-regulateur-de-l-aviation-ordonne-l-arret-de-tous-les-vols-a-cause-d-un-probleme-de-communication-20261113"
         },
         {
-          "titulo": "EN DIRECT – France-Afrique du Sud  : les Bleus en souffrance face aux Springboks réduits à 14, combat dantesque au Stade de France",
-          "entradilla": "Le XV de France reçoit, ce vendredi à Saint-Denis (21h10), les Springboks, sacrés champions du monde sur cette même pelouse il y a trois ans, pour la cinquième journée du Championnat des nations.",
-          "enlace": "https://www.lefigaro.fr/sports/rugby/live/championnat-des-nations/2026/949588/france-afrique-du-sud"
+          "titulo": "EN DIRECT - Colère sociale : entre 50 et 60 cortèges attendus dans tout le pays pour l’acte V, 70.000 policiers et gendarmes déployés",
+          "entradilla": "Protection des enfants et adolescents, opposition au «permis de tuer», salaires, moyens pour l’enseignement : différentes manifestations vont se tenir samedi en France et converger dans un seul cortège à Paris, pour l’acte V du mouvement contre la vie chère.",
+          "enlace": "https://www.lefigaro.fr/actualite-france/manifestations-mouvement-social-gilets-jaunes-policiers-corteges-paris-acte-v-20261114"
         },
         {
-          "titulo": "France-Afrique du Sud : Grandidier-Nkanang tout en vitesse, les essais des Bleus en vidéo",
-          "entradilla": "EN VIDÉO – Découvrez les essais du XV de France face aux doubles champions du monde sud-africains, ce vendredi, au Stade de France, en Championnat des nations.",
-          "enlace": "https://www.lefigaro.fr/sports/rugby/xv-de-france/france-afrique-du-sud-grandidier-nkanang-tout-en-vitesse-les-essais-des-bleus-en-video-20261113"
+          "titulo": "Manifestation du 14 novembre à Paris : le parcours entre République et Nation autorisé, selon les organisateurs",
+          "entradilla": "Ce parcours, passant par la place de la Bastille, avait été déposé mardi par la coordination des gilets jaunes mais d’autres organisations avaient participé aux discussions à la préfecture, comme les branches d’Île-de-France de la CGT, la FSU et FO.",
+          "enlace": "https://www.lefigaro.fr/actualite-france/manifestation-du-14-novembre-a-paris-le-parcours-entre-republique-et-nation-autorise-selon-les-organisateurs-20261113"
         },
         {
-          "titulo": "France-Afrique du Sud : énorme coup dur pour les Bleus avec le forfait de dernière minute de Julien Marchand",
-          "entradilla": "Le talonneur du Stade Toulousain, qui avait retrouvé la compétition la semaine dernière, a dû déclarer forfait pour le choc de ce vendredi face à l’Afrique du Sud.",
-          "enlace": "https://www.lefigaro.fr/sports/rugby/xv-de-france/france-afrique-du-sud-enorme-coup-dur-pour-les-bleus-avec-le-forfait-de-derniere-minute-de-julien-marchand-20261113"
+          "titulo": "« Quand le ministère annonce 50 lycées bloqués, nous en comptons 150 à 200 qui ne fonctionnent pas normalement » : le gouvernement minimise-t-il les chiffres des blocages ?",
+          "entradilla": "ENQUÊTE - Alors que l’exécutif qualifie de « résiduel » le nombre d’établissements touchés par les perturbations, les proviseurs martèlent qu’il faut « arrêter de mentir aux gens » et ne pas « minorer ce qu’ils vivent ».",
+          "enlace": "https://www.lefigaro.fr/actualite-france/quand-le-ministere-annonce-50-lycees-bloques-nous-en-comptons-150-a-200-qui-ne-fonctionnent-pas-normalement-le-gouvernement-minimise-t-il-les-chiffres-des-blocages-20261113"
         },
         {
-          "titulo": "13 novembre : le puissant hommage du Stade de France aux victimes des attentats",
-          "entradilla": "Des drones dans le ciel dyonisien, 132 performeurs lumineux pour commémorer les personnes disparues… Onze après, le sport revenait pour la première fois là où les terroristes avaient lancé leur tuerie de masse.",
-          "enlace": "https://www.lefigaro.fr/sports/rugby/xv-de-france/13-novembre-le-puissant-hommage-du-stade-de-france-aux-victimes-des-attentats-20261113"
+          "titulo": "«Ne pas baisser la garde» : Laurent Nuñez promet un gros dispositif «réactif et percutant» pour un nouveau samedi de colère sociale à hauts risques",
+          "entradilla": "INFO LE FIGARO - Alors que les services de renseignements anticipent des troubles à l’ordre public, 70.000 policiers et gendarmes seront à nouveau déployés à travers le pays. Dans une note aux préfets, le ministre anticipe des «troubles graves à l’ordre public».",
+          "enlace": "https://www.lefigaro.fr/actualite-france/ne-pas-baisser-la-garde-laurent-nunez-promet-un-gros-dispositif-reactif-et-percutant-pour-un-nouveau-samedi-de-colere-sociale-a-hauts-risques-20261113"
         },
         {
-          "titulo": "«Il faut rayer le macronisme de l’immobilier» : ce rapport qui étrille dix ans de politique du logement",
-          "entradilla": "DÉCRYPTAGE - L’économiste Robin Rivaton, qui a alerté sur le risque de «bombe sociale» en 2022, pointe du doigt deux erreurs du chef de l’État qui a provoqué la crise actuelle du logement.",
-          "enlace": "https://immobilier.lefigaro.fr/article/il-faut-rayer-le-macronisme-de-l-immobilier-ce-rapport-qui-etrille-dix-ans-de-politique-du-logement-20261113"
+          "titulo": "Un responsable d'université agressé à l'arme blanche dans son bureau, selon le ministre de l’Enseignement supérieur",
+          "entradilla": "Dans son message, Philippe Baptiste ne donne aucune précision sur les circonstances de l’agression ni sur son ou ses auteurs.",
+          "enlace": "https://www.lefigaro.fr/actualite-france/un-responsable-d-universite-agresse-a-l-arme-blanche-dans-son-bureau-selon-le-ministre-de-l-enseignement-superieur-20261113"
         },
         {
-          "titulo": "Chute des ventes, prix en baisse : la grande panne de l’immobilier",
-          "entradilla": "DÉCRYPTAGE - La récente flambée des taux de crédit complique le financement des projets. Un casse-tête pour les acquéreurs, dont le pouvoir d’achat est déjà mis à mal par le rebond de l’inflation, sur fond de climat politique qui inquiète.",
-          "enlace": "https://www.lefigaro.fr/economie/chute-des-ventes-prix-en-baisse-la-grande-panne-de-l-immobilier-20261113"
+          "titulo": "L’éditorial de Laurence de Charette : « École, université, un abandon d’État »",
+          "entradilla": "La situation devrait mobiliser toutes les forces de la nation pour un ressaisissement, mais elle ne suscite pour l’heure que de nouveaux et tragiques renoncements.",
+          "enlace": "https://www.lefigaro.fr/vox/societe/l-editorial-de-laurence-de-charette-ecole-universite-un-abandon-d-etat-20261113"
         },
         {
-          "titulo": "Un homme «brisé» et «anéanti» : le récit des dernières heures de Jensen Huang à la tête de Nvidia",
-          "entradilla": "RÉCIT - Après s’être évertué à nier les allégations d’infidélité à son encontre et à se battre pour conserver son poste de PDG du géant des puces électroniques, l’homme d’affaires américano-taïwanais a fini par avouer. Récit de la descente aux enfers du «parrain de l’IA».",
-          "enlace": "https://www.lefigaro.fr/secteur/high-tech/un-homme-brise-et-aneanti-les-dernieres-heures-de-jensen-huang-a-la-tete-de-nvidia-20261113"
+          "titulo": "«Il est anormal d’aller au travail la peur au ventre» : face aux blocages et violences, les proviseurs clament leur colère devant le rectorat de Paris",
+          "entradilla": "REPORTAGE - Une cinquantaine de chefs d’établissement, essentiellement parisiens, se sont réunis ce vendredi. Ils appellent à un sursaut face à une violence débridée.",
+          "enlace": "https://www.lefigaro.fr/actualite-france/il-est-anormal-d-aller-au-travail-la-peur-au-ventre-face-aux-blocages-et-violences-les-proviseurs-clament-leur-colere-devant-le-rectorat-de-paris-20261113"
         },
         {
-          "titulo": "Nvidia : le départ de Jensen Huang révèle d’inquiétantes failles de gouvernance chez le géant américain des puces électroniques",
-          "entradilla": "Le départ brutal du patron de Nvidia Jensen Huang après les révélations sur ses relations extraconjugales met à l’épreuve la gouvernance du géant des puces.",
-          "enlace": "https://bourse.lefigaro.fr/actu-conseils/nvidia-le-depart-de-jensen-huang-revele-d-inquietantes-failles-de-gouvernance-chez-le-geant-americain-des-puces-electroniques-20261113"
+          "titulo": "Procès des parents de la martyre de l’A10 : «J’ai été un mauvais père, je n’ai pas pu protéger ma petite Inass. J’accepte les conséquences»",
+          "entradilla": "RÉCIT D’AUDIENCE - Devant les assises de Blois, le père de la «martyre de l’A10» ne nie rien: il entendait les cris et les pleurs de sa fille, mais a laissé faire. «J’ai été lâche», «un vaurien», a-t-il répété à la barre.",
+          "enlace": "https://www.lefigaro.fr/faits-divers/proces-des-parents-de-la-martyre-de-l-a10-j-ai-ete-un-mauvais-pere-je-n-ai-pas-pu-proteger-ma-petite-inass-j-accepte-les-consequences-20261114"
         },
         {
-          "titulo": "Affaire Nvidia : qui est Colette Kress, la remplaçante par intérim de Jensen Huang ?",
-          "entradilla": "PORTRAIT - Directrice financière depuis 2013, cette Américaine de 59 ans assure désormais la direction générale par intérim du géant américain des puces. Elle succède à Jensen Huang, dont le départ a été annoncé le 12 novembre sur fond de scandale.",
-          "enlace": "https://www.lefigaro.fr/international/affaire-nvidia-qui-est-colette-kress-la-remplacante-par-interim-de-jensen-huang-20261113"
+          "titulo": "La classe de Dupont, des Bleus «énormes en défense», «une mêlée inquiétante» : Imanol Harinordoquy décrypte l’exploit du XV de France contre les Springboks",
+          "entradilla": "DÉCRYPTAGE - Le légendaire troisième-ligne centre international (82 sélections) analyse en exclusivité la performance des Bleus de Fabien Galthié, tombeurs de l’Afrique du Sud ce vendredi à Saint-Denis (21-19).",
+          "enlace": "https://www.lefigaro.fr/sports/rugby/xv-de-france/la-classe-de-dupont-des-bleus-enormes-en-defense-une-melee-inquietante-imanol-harinordoquy-decrypte-l-exploit-du-xv-de-france-contre-les-springboks-20261114"
         },
         {
-          "titulo": "L’ex-patron de Nvidia Jensen Huang soupçonné d’une troisième relation extraconjugale, avec une autre employée",
-          "entradilla": "L’agence de presse Reuters rapporte que l’homme d’affaires américano-taïwanais, contraint à la démission jeudi, aurait entretenu une relation intime avec une deuxième employée de Nvidia, selon deux sources proches du dossier.",
-          "enlace": "https://www.lefigaro.fr/secteur/high-tech/l-ex-patron-de-nvidia-jensen-huang-soupconne-d-une-troisieme-relation-extraconjugale-avec-une-autre-employee-20261113"
+          "titulo": "Les notes des Bleus après France-Afrique du Sud : Dupont en président, le sécateur Cros, le guerrier Verhaeghe",
+          "entradilla": "Découvrez les notes du XV de France après la folle victoire des hommes de Fabien Galthié contre l’Afrique du Sud (21-19), vendredi soir, au Stade de France.",
+          "enlace": "https://www.lefigaro.fr/sports/rugby/xv-de-france/les-notes-des-bleus-apres-france-afrique-du-sud-dupont-en-president-le-secateur-cros-le-guerrier-verhaeghe-20261113"
         },
         {
-          "titulo": "Panne mondiale de Microsoft et d’Outlook : le géant américain dit être «profondément désolé»",
-          "entradilla": "À la mi-journée, le géant américain évoquait des «améliorations» progressives chez une partie de ses clients mais soulignait à nouveau que la situation était instable, malgré ses efforts.",
-          "enlace": "https://www.lefigaro.fr/secteur/high-tech/en-direct-panne-mondiale-de-microsoft-et-d-outlook-les-difficultes-se-poursuivent-de-lourdes-consequences-rapportees-dans-le-monde-20261113"
+          "titulo": "France-Afrique du Sud : «Pas grand monde n’avait misé sa maison sur nous», savoure Louis Bielle-Biarrey après la victoire face aux Springboks",
+          "entradilla": "L’ailier des Bleus, auteur d’un essai et d’un plaquage décisif, revient sur la folle victoire des siens face aux doubles champions du monde en titre, à un an du prochain Mondial en Australie.",
+          "enlace": "https://www.lefigaro.fr/sports/rugby/xv-de-france/xv-de-france-pas-grand-monde-n-avait-mise-sa-maison-sur-nous-savoure-bielle-biarrey-apres-la-victoire-face-aux-springboks-20261114"
         }
       ],
       "analisis": {
-        "resumen": "- Una avería de comunicaciones paraliza los vuelos en Estados Unidos y afecta a miles de trayectos.\n- Francia se enfrenta a Sudáfrica en rugby; la portada también destaca un homenaje a las víctimas de los atentados del 13 de noviembre.\n- Varios artículos abordan la crisis inmobiliaria y critican la política de vivienda de Macron.\n- La portada informa de la salida de Jensen Huang de Nvidia, las alegaciones sobre sus relaciones y el relevo provisional.\n- Microsoft pide disculpas por una interrupción mundial de sus servicios, incluido Outlook.",
-        "populismo": 30,
-        "motivo_populismo": "Destacan expresiones emotivas y sensacionalistas como «borrar el macronismo» y «descenso a los infiernos», aunque no se aprecia una apelación explícita al pueblo contra las élites.",
-        "sesgo": "La selección da protagonismo a las crisis y a una valoración crítica de la política de vivienda de Macron. También recurre a un enfoque dramático y personalizado en la cobertura de Nvidia y del deporte."
+        "resumen": "- Protestas contra la carestía en Francia: se esperan decenas de marchas y se desplegarán 70.000 agentes.\n- Los bloqueos en centros educativos generan controversia sobre su alcance; directores denuncian violencia y un editorial habla de abandono estatal.\n- Estados Unidos reabre su espacio aéreo tras una suspensión de despegues causada por un problema de comunicación.\n- Un responsable universitario sufre una agresión con arma blanca; continúa el juicio a los padres de la niña conocida como la «mártir de la A10».\n- Varias noticias celebran y analizan la victoria de Francia sobre Sudáfrica en rugby por 21-19.",
+        "populismo": 35,
+        "motivo_populismo": "Expresiones como «abandono de Estado», «miedo en el estómago» y «mártir» aportan dramatismo y carga emocional, aunque no predomina una confrontación explícita entre pueblo y élites.",
+        "sesgo": "La portada presta especial atención al orden público, la violencia y las dificultades en la educación, y recoge críticas a la gestión gubernamental. También destaca la victoria deportiva francesa con un tono celebratorio."
       }
     },
     {
@@ -186,19 +186,19 @@
       "web": "https://www.liberation.fr",
       "noticias": [
         {
-          "titulo": "Dans les coulisses de l’improbable lancement de campagne présidentielle de Teddy Riner",
-          "entradilla": "Le quintuple champion olympique de judo s’est invité lundi 9 novembre dans la course à l’Elysée. Entre soupçons de pilotage par le gouvernement, équipe de campagne qui s’effrite déjà et sondages en roue libre, récit d’un démarrage chaotique.",
-          "enlace": "https://www.liberation.fr/politique/elections/teddy-ce-nest-pas-quelquun-de-teleguide-dans-les-coulisses-de-limprobable-lancement-de-campagne-presidentielle-de-riner-20261113_C2LFBFCUPVGYLA3MTH4NUYLAJI/"
-        },
-        {
-          "titulo": "La panne de Microsoft a fait chauffer les téléphones et ressortir les fax dans les entreprises",
-          "entradilla": "Face au bug qui a affecté la messagerie Outlook ou les appels de Teams ce vendredi, les travailleurs ont été contraints de piocher parmi les alternatives ou les technologies passées pour continuer de travailler.",
-          "enlace": "https://www.liberation.fr/economie/economie-numerique/la-panne-de-microsoft-a-fait-chauffer-les-telephones-et-ressortir-les-fax-dans-les-entreprises-20261113_GLHEPZPDXRFBNPLA4M3G26UD5M/"
-        },
-        {
           "titulo": "Parcours, dispositif policier, mobilisation : à quoi s’attendre pour les manifestations de ce samedi 14 novembre ?",
           "entradilla": "Plusieurs organisations (syndicats, gilets jaunes, associations) appellent à ce que des cortèges communs se tiennent partout pour que les colères convergent. «Libération» fait le point.",
           "enlace": "https://www.liberation.fr/economie/social/mouvement-social-les-differentes-mobilisations-prevues-ce-samedi-14-novembre-20261112_XMJHHCIKYFHGFHIQFQMLUNN5PM/"
+        },
+        {
+          "titulo": "Virevoltant puis solidaire, le XV de France se refait une santé contre l’Afrique du Sud",
+          "entradilla": "Bien que plombés par les blessures, les Bleus sont allés au bout du courage pour dominer les champions du monde en titre, 21-19, vendredi soir au Stade de France.",
+          "enlace": "https://www.liberation.fr/sports/rugby/virevoltant-puis-solidaire-le-xv-de-france-se-refait-une-sante-contre-lafrique-du-sud-au-bout-du-suspens-20261114_KVSZLTO6EZH2FFCT7UAW2XRLVA/"
+        },
+        {
+          "titulo": "Etats-Unis : totalement immobilisé pendant des heures, le trafic aérien reprend progressivement",
+          "entradilla": "Environ 6 000 vols et des centaines de milliers de passagers ont été affectés vendredi soir par un problème de communications et de radars dû à du matériel vieillissant.",
+          "enlace": "https://www.liberation.fr/international/amerique/les-avions-cloues-au-sol-aux-etats-unis-en-raison-de-circonstances-exceptionnelles-et-pour-des-raisons-de-securite-20261113_GLSL27DPABAHLC5GLVAFHUFNJI/"
         },
         {
           "titulo": "Mouvement lycéen : les personnels de direction mobilisés pour dire leur «boule au ventre» face aux blocages et aux violences",
@@ -206,9 +206,19 @@
           "enlace": "https://www.liberation.fr/societe/education/mouvement-lyceen-les-personnels-de-direction-mobilises-pour-dire-leur-boule-au-ventre-face-aux-blocages-et-aux-violences-20261113_H5ST6Y6U7ZBTRMBON56JLKGPKU/"
         },
         {
-          "titulo": "Flavie Flament, peser ses maux",
-          "entradilla": "L’animatrice, qui a porté plainte contre Patrick Bruel, analyse le coût de ses prises de parole sur les violences sexuelles, après le suicide de Julie Ollivier, 28 ans, qui avait accusé l’animateur Cauet d’un viol quand elle avait 16 ans.",
-          "enlace": "https://www.liberation.fr/societe/droits-des-femmes/flavie-flament-peser-ses-maux-20261113_XZJR22JKZFEOVCLEXX5ZPNJ5NE/"
+          "titulo": "Fonction publique : après une rencontre avec Lecornu, l’intersyndicale au complet appelle à la grève le 17 novembre",
+          "entradilla": "Reçus ce vendredi 13 novembre à Matignon pour évoquer la rémunération des agents publics, les syndicats de fonctionnaires ont obtenu une fin de non-recevoir concernant leur principale demande, le dégel du point d’indice et appellent à une nouvelle mobilisation des agents mardi.",
+          "enlace": "https://www.liberation.fr/economie/fonction-publique-apres-une-rencontre-avec-lecornu-lintersyndicale-au-complet-appelle-a-la-greve-le-17-novembre-20261113_JEU7XL4HUFFO3JAH62R3ESMLAQ/"
+        },
+        {
+          "titulo": "Dans les coulisses de l’improbable lancement de campagne présidentielle de Teddy Riner",
+          "entradilla": "Le quintuple champion olympique de judo s’est invité lundi 9 novembre dans la course à l’Elysée. Entre soupçons de pilotage par le gouvernement, équipe de campagne qui s’effrite déjà et sondages en roue libre, récit d’un démarrage chaotique.",
+          "enlace": "https://www.liberation.fr/politique/elections/teddy-ce-nest-pas-quelquun-de-teleguide-dans-les-coulisses-de-limprobable-lancement-de-campagne-presidentielle-de-riner-20261113_C2LFBFCUPVGYLA3MTH4NUYLAJI/"
+        },
+        {
+          "titulo": "Teddy Riner, un quintuple champion olympique toujours aux prises avec l’administration fiscale",
+          "entradilla": "Le judoka et ses sociétés se sont retrouvés à plusieurs reprises dans le viseur des autorités ces dernières années. La plus récente décision de justice est tombée il y a un mois, juste avant sa déclaration de campagne pour la présidentielle.",
+          "enlace": "https://www.liberation.fr/societe/police-justice/teddy-riner-un-quintuple-champion-olympique-toujours-aux-prises-avec-ladministration-fiscale-20261113_ZN2C56PQ5JAVDLUQ4S4OMGNVPQ/"
         },
         {
           "titulo": "Dans l’empire Nvidia, la délicate question de la succession",
@@ -221,24 +231,14 @@
           "enlace": "https://www.liberation.fr/international/asie-pacifique/zin-mar-aung-ministre-birmane-des-affaires-etrangeres-notre-pays-est-plonge-dans-une-instabilite-qui-gagne-toute-la-region-20261113_7U6VSZ3NWVBFPF64KQPFMRMBYU/"
         },
         {
-          "titulo": "Fonction publique : après une rencontre avec Lecornu, l’intersyndicale au complet appelle à la grève le 17 novembre",
-          "entradilla": "Reçus ce vendredi 13 novembre à Matignon pour évoquer la rémunération des agents publics, les syndicats de fonctionnaires ont obtenu une fin de non-recevoir concernant leur principale demande, le dégel du point d’indice et appellent à une nouvelle mobilisation des agents mardi.",
-          "enlace": "https://www.liberation.fr/economie/fonction-publique-apres-une-rencontre-avec-lecornu-lintersyndicale-au-complet-appelle-a-la-greve-le-17-novembre-20261113_JEU7XL4HUFFO3JAH62R3ESMLAQ/"
-        },
-        {
-          "titulo": "Paris Photo 2026 : oiseaux, corps dénudés, œuvres engagées… les stands à ne pas manquer",
-          "entradilla": "Au Grand Palais à Paris, la 29e édition de la foire internationale consacrée à l’image célèbre les 200 ans de la photographie, tout en interrogeant son avenir à l’heure du numérique et de l’IA.",
-          "enlace": "https://www.liberation.fr/culture/photographie/paris-photo-2026-oiseaux-corps-denudes-oeuvres-engagees-les-stands-a-ne-pas-manquer-20261113_2GWKK22SQFHWBG4T2M4PRCRBLM/"
+          "titulo": "Flavie Flament, peser ses maux",
+          "entradilla": "L’animatrice, qui a porté plainte contre Patrick Bruel, analyse le coût de ses prises de parole sur les violences sexuelles, après le suicide de Julie Ollivier, 28 ans, qui avait accusé l’animateur Cauet d’un viol quand elle avait 16 ans.",
+          "enlace": "https://www.liberation.fr/societe/droits-des-femmes/flavie-flament-peser-ses-maux-20261113_XZJR22JKZFEOVCLEXX5ZPNJ5NE/"
         },
         {
           "titulo": "Procès de l’agression de Michel Zecler : après le passage à tabac, le récit policier confine à l’absurde",
           "entradilla": "Ce vendredi à la cour criminelle de Paris, des agents venus en renfort des accusés lors de l’intervention ultraviolente contre le producteur de musique, en 2020, se sont retranchés derrière des justifications absconses et d’opportuns trous de mémoire.",
           "enlace": "https://www.liberation.fr/societe/police-justice/proces-de-lagression-de-michel-zecler-apres-le-passage-a-tabac-le-recit-policier-confine-a-labsurde-20261113_KCR3PKTDEFBGDBF7CZ5C2ZOQUE/"
-        },
-        {
-          "titulo": "Face au colosse d’Afrique du Sud, le XV de France cabossé se présente en outsider",
-          "entradilla": "Décimée par les blessures, au point de devoir faire jouer le capitaine Antoine Dupont à un autre poste que le sien, le XV de France défie la meilleure équipe du monde, ce vendredi 13 novembre au Stade de France, en Championnat des Nations.",
-          "enlace": "https://www.liberation.fr/sports/rugby/rugby-face-au-colosse-sud-africain-les-bleus-cabosses-se-presentent-en-outsiders-20261113_FXL5Q5ARMVEZXBFV54LBTCKT4E/"
         },
         {
           "titulo": "Paris : au procès de l’explosion de la rue de Trévise, la petite communauté soudée des rescapés",
@@ -247,10 +247,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- La candidatura presidencial de Teddy Riner arranca entre sospechas y dificultades de organización.\n- Una caída de servicios de Microsoft obliga a las empresas a buscar alternativas para trabajar.\n- Sindicatos y otras organizaciones convocan manifestaciones y una huelga de funcionarios; directivos escolares protestan por bloqueos y violencia.\n- La portada aborda las denuncias de violencia sexual, el juicio por la agresión a Michel Zecler y los testimonios de supervivientes de la explosión de la calle de Trévise.\n- También destaca la sucesión en Nvidia, la situación en Birmania, Paris Photo y el partido de Francia contra Sudáfrica.",
+        "resumen": "- Convocatorias de manifestaciones y de huelga en la función pública; directivos escolares protestan ante los bloqueos y la violencia.\n- La campaña presidencial de Teddy Riner arranca entre sospechas y dificultades, mientras se examinan sus antecedentes fiscales.\n- Francia vence a Sudáfrica en rugby; en Estados Unidos se reanuda gradualmente el tráfico aéreo tras una interrupción masiva.\n- Una entrevista aborda la situación en Birmania y otra, el coste de hablar sobre la violencia sexual; Nvidia afronta la sucesión de su fundador.\n- Los juicios por la agresión a Michel Zecler y la explosión de la calle de Trévise recogen relatos de policías y supervivientes.",
         "populismo": 25,
-        "motivo_populismo": "Expresiones como «arranque caótico», «relato policial próximo al absurdo» e «intervención ultraviolenta» aportan dramatismo y valoraciones, aunque no aparece una apelación al pueblo contra las élites.",
-        "sesgo": "La selección da espacio destacado a las movilizaciones sociales, las condiciones laborales y los testimonios de víctimas. La redacción adopta un tono crítico hacia la campaña de Riner y las explicaciones policiales en el caso Zecler."
+        "motivo_populismo": "Algunas expresiones valorativas o emocionales, como «arranque caótico», «conforme al absurdo» y «nudo en el estómago», contrastan con titulares mayormente informativos, sin una apelación sistemática al pueblo contra las élites.",
+        "sesgo": "La selección prioriza las movilizaciones sociales, las víctimas y el escrutinio de instituciones y figuras públicas. En algunos casos, la redacción adopta un enfoque crítico, especialmente hacia la campaña de Riner y las explicaciones policiales."
       }
     },
     {
@@ -258,71 +258,71 @@
       "web": "https://www.leparisien.fr",
       "noticias": [
         {
-          "titulo": "Équipe de France : présent à l’entraînement des Bleus, Kylian Mbappé sur le chemin du retour pour la Turquie ?",
+          "titulo": "Des rails vieux de 70 ans, plus de 3 km de voie dégradée… Le tram-train T14 menacé d’arrêt en Seine-et-Marne",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/sports/football/equipe-de-france/equipe-de-france-present-a-lentrainement-des-bleus-kylian-mbappe-sur-le-chemin-du-retour-pour-la-turquie-13-11-2026-JIDI7VAPYFCIFLF76FJ53RV3ME.php"
+          "enlace": "https://www.leparisien.fr/seine-et-marne-77/des-rails-vieux-de-70-ans-plus-de-3-km-de-voie-degradee-le-tram-train-t14-menace-darret-en-seine-et-marne-14-11-2026-SFEE737555C3DM7ZHUGPSYH234.php"
         },
         {
-          "titulo": "Football : après le licenciement de Yannick Cahuzac, Didier Digard nommé nouvel entraîneur du RC Lens",
+          "titulo": "États-Unis : spectaculaire collision entre un bateau de croisière et un porte-conteneurs à La Nouvelle-Orléans, des passagers à l’eau",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/sports/football/ligue-1/football-apres-le-licenciement-de-yannick-cahuzac-didier-digard-nomme-nouvel-entraineur-du-rc-lens-13-11-2026-C6IL73URU5GG7BQ3MZ42D3DRIA.php"
+          "enlace": "https://www.leparisien.fr/international/etats-unis/etats-unis-spectaculaire-collision-entre-un-bateau-de-croisiere-et-un-porte-conteneurs-a-la-nouvelle-orleans-des-passagers-a-leau-14-11-2026-R3AFXBTUUJEKNMMK63VHQDBNAY.php"
         },
         {
-          "titulo": "Policiers : Laurent Nuñez accepte de revaloriser leur prime de risque, les syndicats jugent la proposition « insuffisante »",
+          "titulo": "« J’en pense pas grand-chose », réagit Victor Wembanyama après la candidature de Teddy Riner à la présidentielle",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/politique/policiers-laurent-nunez-accepte-de-revaloriser-leur-prime-de-risque-les-syndicats-jugent-la-proposition-insuffisante-13-11-2026-FBNVNVAGEFAQROFRN3A4M7JV4M.php"
+          "enlace": "https://www.leparisien.fr/sports/basket/jen-pense-pas-grand-chose-reagit-victor-wembanyama-apres-la-candidature-de-teddy-riner-a-la-presidentielle-14-11-2026-RQZXMAAR6VETJMKBLZDYG3LJ2U.php"
         },
         {
-          "titulo": "États-Unis : tous les vols aériens suspendus dans le pays en raison de « circonstances exceptionnelles »",
+          "titulo": "Coupe de France : derby pimenté avec le Red Star, Versailles vise un exploit… Voici les affiches du 7e tour pour les clubs franciliens",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/economie/etats-unis-tous-les-vols-aeriens-suspendus-dans-le-pays-en-raison-de-circonstances-exceptionnelles-13-11-2026-NULQYINX7RFA3BN4RVAXAR3AB4.php"
+          "enlace": "https://www.leparisien.fr/sports/football/coupe-de-france-derby-pimente-avec-le-red-star-versailles-vise-un-exploit-voici-les-affiches-du-7e-tour-pour-les-clubs-franciliens-14-11-2026-3KWRAC7NLJDFLOCVKONJTW5OCQ.php"
         },
         {
-          "titulo": "Mort de Jesús de Miguel : le gardien d’Andorre Jesús Owono suspendu douze matchs par la fédération espagnole",
+          "titulo": "« Voir un peu de vie, cela fait juste du bien » : à Fleury-Mérogis, le nouveau marché séduit les clients",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/sports/football/mort-de-jesus-de-miguel-le-gardien-dandorre-jesus-owono-suspendu-douze-matchs-par-la-federation-espagnole-13-11-2026-RAYKQ6M4KJE2DIAVZYTXW7IFYE.php"
+          "enlace": "https://www.leparisien.fr/essonne-91/voir-un-peu-de-vie-cela-fait-juste-du-bien-a-fleury-merogis-le-nouveau-marche-seduit-les-clients-14-11-2026-QEACNR5QSVEOJNX32VSKMTYKFY.php"
         },
         {
-          "titulo": "« Je prends du recul » : l’ex-ministre de la Santé François Braun se retire déjà de la campagne présidentielle de Teddy Riner",
+          "titulo": "« On a toujours une bouillotte sur nous » : plongée dans le quotidien de ces Français qui n’ont pas les moyens de se chauffer",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/elections/presidentielle/je-prends-du-recul-lex-ministre-de-la-sante-francois-braun-se-retire-deja-de-la-campagne-presidentielle-de-teddy-riner-13-11-2026-2UNNANM4GRGVPFNKOCHANDORUU.php"
+          "enlace": "https://www.leparisien.fr/economie/on-a-toujours-une-bouillotte-sur-nous-plongee-dans-le-quotidien-de-ces-francais-qui-nont-pas-les-moyens-de-se-chauffer-14-11-2026-MQB5CSGHUVH3HJFGQFBDN7TYXQ.php"
         },
         {
-          "titulo": "Meurtre de Jimmy, égorgé dans son appartement à Paris : un suspect de 63 ans mis en examen et placé en détention provisoire",
+          "titulo": "Agression à l’université : un vice-président de la fac de Versailles-Saint-Quentin-en-Yvelines blessé à l’arme blanche",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/faits-divers/meurtre-de-jimmy-egorge-dans-son-appartement-a-paris-un-suspect-de-63-ans-mis-en-examen-et-place-en-detention-provisoire-13-11-2026-3HR245TEGFA7PDO7RRMS24C6WA.php"
+          "enlace": "https://www.leparisien.fr/yvelines-78/agression-a-luniversite-un-vice-president-de-la-fac-de-versailles-saint-quentin-en-yvelines-blesse-a-larme-blanche-WHEWSWCLABFZNNJCT2UAUOONTQ.php"
         },
         {
-          "titulo": "MaPrimeRénov’: dix hommes condamnés jusqu’à neuf mois sous bracelet pour avoir détourné près de 5 millions d’euros d’aides",
+          "titulo": "[1/2] Marion Wagon, la petite disparue des briques de lait",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/faits-divers/maprimerenov-dix-hommes-condamnes-jusqua-neuf-mois-sous-bracelet-pour-avoir-detourne-pres-de-5-millions-deuros-daides-13-11-2026-S4TP5HGBBBDH5HPSJM2QWXMAME.php"
+          "enlace": "https://www.leparisien.fr/podcasts/crime-story/12-marion-wagon-la-petite-disparue-des-briques-de-lait-14-11-2026-4D6PUUHPBRCZTETHDABDKDW7PY.php"
         },
         {
-          "titulo": "Un ancien footballeur champion du monde candidat de l’AfD pour l’élection fédérale allemande ?",
+          "titulo": "« Je me dis : fonce » : Bielle-Biarrey raconte son énorme plaquage à la dernière minute de France-Afrique du Sud",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/sports/un-ancien-footballeur-champion-du-monde-candidat-de-lafd-pour-lelection-federale-allemande-13-11-2026-KCXAVWAEQRAZFEHLSBYUBX467Y.php"
+          "enlace": "https://www.leparisien.fr/sports/rugby/xv-de-france/je-me-dis-fonce-bielle-biarrey-raconte-son-enorme-plaquage-a-la-derniere-minute-de-france-afrique-du-sud-14-11-2026-L7J27LEI6JDP5CWOLGMZXLMSKY.php"
         },
         {
-          "titulo": "Mort de trois jeunes à Tours : la conductrice de 19 ans mise en examen pour homicide routier",
+          "titulo": "Mosimann à « Star Academy » : quel premier bilan pour le nouveau directeur de la promo 2026 ?",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/faits-divers/mort-de-trois-jeunes-a-tours-la-conductrice-de-19-ans-mise-en-examen-pour-homicide-routier-13-11-2026-UHDLRNVDTVCRJBIS2M4RHJBPGQ.php"
+          "enlace": "https://www.leparisien.fr/culture-loisirs/tv/mosimann-a-star-academy-quel-premier-bilan-pour-le-nouveau-directeur-de-la-promo-2026-14-11-2026-ISXZYBM5LJBIBDM3OSDERZRTXQ.php"
         },
         {
-          "titulo": "Le compte militant de gauche « Marcel » lance deux cagnottes en ligne, Tribee les supprime et se justifie",
+          "titulo": "« Casser son établissement est une folie » : le plus grand lycée de Bretagne fermé pour une semaine après des débordements",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/societe/le-compte-militant-de-gauche-marcel-lance-deux-cagnottes-en-ligne-tribee-les-supprime-et-se-justifie-13-11-2026-6VOCDMN7UBD47PBY3E4OMB2S4Y.php"
+          "enlace": "https://www.leparisien.fr/ille-et-vilaine-35/casser-son-etablissement-est-une-folie-le-plus-grand-lycee-de-bretagne-ferme-pour-une-semaine-apres-des-debordements-14-11-2026-VYEL2WV2YBD3DOQOJWKUETJO4M.php"
         },
         {
-          "titulo": "France-Afrique du Sud : drones, danseurs et Marseillaise en lumière, le bel hommage aux victimes des attentats du 13 novembre",
+          "titulo": "Pi-POP, le vélo électrique autonome sans batterie, passe à la vitesse supérieure dans le Loiret",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/sports/rugby/xv-de-france/france-afrique-du-sud-drones-danseurs-et-marseillaise-en-lumiere-le-bel-hommage-aux-victimes-des-attentats-du-13-novembre-13-11-2026-C2FJUC5CDFES7BTN6GQ2CNNMG4.php"
+          "enlace": "https://www.leparisien.fr/loiret-45/pi-pop-le-velo-electrique-autonome-sans-batterie-passe-a-la-vitesse-superieure-dans-le-loiret-14-11-2026-ICHTE4C6BFD4XPOYHI75YCUV2A.php"
         }
       ],
       "analisis": {
-        "resumen": "- Fútbol: Mbappé vuelve a entrenar, el Lens cambia de entrenador y se sanciona al portero Jesús Owono.\n- Estados Unidos suspende todos los vuelos por «circunstancias excepcionales».\n- La policía recibe una propuesta de aumento de la prima de riesgo que los sindicatos consideran insuficiente.\n- La portada recoge un asesinato en París, tres muertes en Tours y condenas por fraude en ayudas a la renovación de viviendas.\n- También informa sobre movimientos políticos, la supresión de dos colectas de una cuenta de izquierda y un homenaje a las víctimas del 13 de noviembre.",
-        "populismo": 18,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «circunstancias excepcionales» y la descripción de una víctima como «degollada» aportan dramatismo.",
-        "sesgo": "La selección da bastante espacio al fútbol y a sucesos judiciales y policiales. No se aprecia una orientación política clara en la redacción de los titulares."
+        "resumen": "- El deterioro de las vías amenaza con paralizar el tranvía-tren T14 en Seine-et-Marne.\n- Una colisión entre dos barcos en Nueva Orleans deja pasajeros en el agua.\n- Un vicepresidente de la Universidad de Versailles-Saint-Quentin-en-Yvelines resulta herido con arma blanca.\n- La portada aborda las dificultades para pagar la calefacción y el cierre temporal de un instituto tras disturbios.\n- También incluye noticias locales, deportivas, de entretenimiento y sobre una bicicleta eléctrica sin batería.",
+        "populismo": 20,
+        "motivo_populismo": "Predomina un tono descriptivo, aunque expresiones como «espectacular colisión», «amenazado de cierre» o «enorme placaje» aportan dramatismo; no aparece una oposición entre pueblo y élites.",
+        "sesgo": "La selección favorece la actualidad local y los relatos de impacto humano, con presencia de sucesos, deporte y entretenimiento. No se aprecia un sesgo político claro en los titulares."
       }
     },
     {
@@ -330,61 +330,61 @@
       "web": "https://www.ouest-france.fr",
       "noticias": [
         {
-          "titulo": "Les décollages d’avions totalement suspendus aux États-Unis en raison de « circonstances exceptionnelles »",
-          "entradilla": "Le secrétaire aux Transports Sean Duffy indique qu’« un problème de communication affecte tous les centres de contrôle du trafic aérien » ce vendredi 13 novembre. « Le trafic aérien doit rester suspendu jusqu’à nouvel ordre », a indiqué l’autorité régulatrice du trafic dans un communiqué.",
-          "enlace": "https://www.ouest-france.fr/economie/aeronautique/les-decollages-davions-totalement-suspendus-aux-etats-unis-en-raison-de-circonstances-exceptionnelles-bb3af52a-dfa8-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Coupe de France. Le programme complet des matches du 7e tour samedi et dimanche",
+          "entradilla": "Le 7e tour de la Coupe de France se tient en métropole du jeudi 12 novembre au dimanche 15 novembre. Dates et horaires : on vous donne toutes les informations à savoir et le programme complet des matches.",
+          "enlace": "https://www.ouest-france.fr/sport/football/coupe-de-france/coupe-de-france-dates-horaires-le-programme-des-matches-du-7e-tour-pour-les-clubs-de-louest-et-de-ligue-2-9767d5ee-d9ec-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "Un pétrolier percute un bateau de croisière à La Nouvelle-Orléans, des opérations de sauvetage sont en cours",
-          "entradilla": "Un pétrolier a percuté ce vendredi 13 novembre un bateau de croisière à La Nouvelle-Orléans, en Louisiane (États-Unis). Le bateau avait plus d’une centaine de passagers à son bord et a été partiellement submergé. Des opérations de sauvetage sont en cours.",
-          "enlace": "https://www.ouest-france.fr/faits-divers/accidents/un-petrolier-percute-un-bateau-de-croisiere-a-la-nouvelle-orleans-des-operations-de-sauvetage-sont-en-cours-e444c26a-df81-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Histoires d’Ouest. Affaires Cadiou et Dreyfus : les visions des somnambules",
+          "entradilla": "En 1897, Léonie Leboulanger, du Calvados, détecte des pièces ignorées du dossier Dreyfus. En 1914, « Madame Camille » de Nancy localise le corps d’un industriel finistérien. L’Ouest extralucide.",
+          "enlace": "https://www.ouest-france.fr/culture/histoire/histoires-douest-affaires-cadiou-et-dreyfus-les-visions-des-somnambules-caf62f7c-dc13-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "Mort de Jesús de Miguel. Le gardien Jesús Owono suspendu 12 matches par la Fédération espagnole",
-          "entradilla": "Le gardien d’Andorre, impliqué dans le choc tragique qui a coûté la vie de l’attaquant de Tenerife, Jesus de Miguel, mardi 3 novembre, a été suspendu 12 matches par la Fédération espagnole de football.",
-          "enlace": "https://www.ouest-france.fr/sport/football/mort-de-jesus-de-miguel-le-gardien-jesus-owono-suspendu-12-matches-par-la-federation-espagnole-3dc35a6a-dfa3-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Réforme des études pour devenir infirmier : « On renforce notre culture scientifique »",
+          "entradilla": "Le cursus pour devenir infirmier dure toujours trois ans mais depuis septembre 2026, l’adossement systématique des instituts de formation à une université uniformise les contenus et relève le niveau théorique. La formation, très prisée sur Parcoursup, est dense.",
+          "enlace": "https://www.ouest-france.fr/formation/reforme-des-etudes-pour-devenir-infirmier-on-renforce-notre-culture-scientifique-e3f596c2-dc5c-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "Équipe de France espoirs. « Je suis dans un bon moment » : intéressant chez les Bleuets, Tidiam Gomis marque des points",
-          "entradilla": "Tidiam Gomis, formé au SM Caen, a montré de très belles choses avec l’équipe de France espoirs, ce vendredi 13 novembre à Laval. Malgré la défaite en amical contre l’Italie (2-1), l’attaquant de Leipzig a confirmé sa bonne forme actuelle, qui lui avait permis de marquer en Ligue des champions face a",
-          "enlace": "https://www.ouest-france.fr/sport/football/equipe-de-france-espoirs/equipe-de-france-espoirs-je-suis-dans-un-bon-moment-interessant-chez-les-bleuets-tidiam-gomis-marque-des-points-19957e84-df8a-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "K-pop, folklore modernisé, beatbox… Découvrez les 11 chansons du concours Eurovision Asie, qui a lieu ce samedi",
+          "entradilla": "Pour la toute première fois, onze pays d’Asie vont s’affronter ce samedi 14 novembre dans le cadre de « l’Eurovision Song Contest Asia », la version asiatique du célèbre concours européen. Alors que le show doit démarrer à 14 h 30, heure de France hexagonale, on vous présente les 11 chansons en lice",
+          "enlace": "https://programmetv.ouest-france.fr/divers/divertissement/eurovision/k-pop-folklore-modernise-beatbox-decouvrez-les-11-chansons-du-concours-eurovision-asie-qui-a-lieu-ce-samedi-7e1b4348-de9f-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "Hommage aux victimes du 13-Novembre et aux pompiers, retard… L’entraînement particulier des Bleus avant la Turquie",
-          "entradilla": "Au lendemain de sa défaite en Italie, l’équipe de France avait rendez-vous à Bordeaux pour un premier entraînement à deux jours d’affronter la Turquie. Une séance retardée d’une heure et placée sous le signe de l’émotion.",
-          "enlace": "https://www.ouest-france.fr/sport/football/equipe-de-france/hommage-aux-victimes-du-13-novembre-et-aux-pompiers-retard-lentrainement-particulier-des-bleus-avant-la-turquie-7ae3f36e-df9e-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Fermé en raison de la sécheresse : comment naviguera-t-on sur le Canal du Midi dans les années à venir ?",
+          "entradilla": "En fragilisant les ressources en eau, le dérèglement climatique menace la navigation. C’est tout un pan de l’activité touristique des départements de la Haute-Garonne, de l’Aude et de l’Hérault qui s’en trouverait bouleversé. Voies navigables de France (VNF) cherche des solutions.",
+          "enlace": "https://www.ouest-france.fr/meteo/secheresse/ferme-en-raison-de-la-secheresse-comment-naviguera-t-on-sur-le-canal-du-midi-dans-les-annees-a-venir-f50a787a-ddf0-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "VIDÉO. France - Afrique du Sud : Aaron Grandidier-Nkanang frappe le premier et donne l’avantage aux Bleus",
-          "entradilla": "Le XV de France reçoit l’Afrique du Sud, ce vendredi 13 novembre 2026, au Stade de France. Dans une chaude ambiance, quelques minutes après le vibrant hommage dédié aux victimes des attentats du 13-Novembre 2015, l’ailier Aaron Grandidier-Nkanang a montré la voie à Antoine Dupont et sa bande, en sig",
-          "enlace": "https://www.ouest-france.fr/sport/rugby/equipe-de-france/video-france-afrique-du-sud-aaron-grandidier-nkanang-frappe-le-premier-et-donne-lavantage-aux-bleus-c00cdb1a-dfa1-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Tennis. Numéro un mondial, Alexander Zverev à nouveau visé par une plainte liée aux violences conjugales",
+          "entradilla": "Brenda Patea, ex-compagne d’Alexander Zverev, aurait déposé une nouvelle plainte après des propos du joueur en marge de son titre à Roland-Garros cet été. L’Allemand avait assuré être innocent, ce qui n’a jamais été confirmé par un tribunal.",
+          "enlace": "https://www.ouest-france.fr/sport/tennis/alexander-zverev/tennis-numero-un-mondial-alexander-zverev-a-nouveau-vise-par-une-plainte-liee-aux-violences-conjugales-fd5a956c-dffa-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "EN IMAGES. Zappé par TF1, revivez l’hommage aux victimes des attentats de Paris avant France - Afrique du Sud",
-          "entradilla": "Depuis le 13 novembre 2015 et les attentats qui ont frappé Paris, aucune sélection nationale n’avait rejoué un 13 novembre au Stade de France. Ce vendredi, l’équipe de France de rugby recevait l’Afrique du Sud, pour la 5e journée du Championnat des nations. Pour l’occasion, un hommage intitulé « Fai",
-          "enlace": "https://www.ouest-france.fr/sport/rugby/equipe-de-france/en-images-zappe-par-tf1-revivez-lhommage-aux-victimes-des-attentats-de-paris-avant-france-afrique-du-sud-f2527f60-df94-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Biathlon. À quelle heure et sur quelle chaîne voir les courses de Geilo décisives pour les Français ?",
+          "entradilla": "Les biathlètes français sont réunis à Geilo (Norvège) pour les sélections, qui se disputent samedi 14 et dimanche 15 novembre. Objectif : gratter les cinq dernières places pour intégrer l’équipe de France qui disputera la première manche de la Coupe du monde à Kontiolahti (Finlande), du 26 au 29 nov",
+          "enlace": "https://www.ouest-france.fr/sport/biathlon/biathlon-programme-horaires-diffusion-tv-tout-savoir-sur-les-selections-francaises-a-geilo-en-norvege-2ecd6db6-dd28-11f1-a62b-776e3051b0df?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "France - Afrique du Sud. Pourquoi Julien Marchand a-t-il déclaré forfait à la dernière minute ?",
-          "entradilla": "Le talonneur du XV de France Julien Marchand, qui devait être titulaire contre l’Afrique du Sud, ce vendredi 13 novembre au Stade de France pour la 5e journée du Championnat des nations face à l’Afrique du Sud, a déclaré forfait à la dernière minute.",
-          "enlace": "https://www.ouest-france.fr/sport/rugby/equipe-de-france/france-afrique-du-sud-pourquoi-julien-marchand-a-declare-forfait-a-la-derniere-minute-4522612e-df9f-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Teddy Riner candidat à la présidentielle : Victor Wembanyama « n’en pense pas grand-chose »",
+          "entradilla": "Invité à réagir à la candidature de Teddy Riner à l’élection présidentielle, vendredi 13 novembre, Victor Wembanyama a été pour l’occasion un homme de peu de mots. Le joueur des San Antonio Spurs, qui a l’habitude de prendre la parole sur des sujets extra-sportifs, a cette fois été dans la retenue, ",
+          "enlace": "https://www.ouest-france.fr/sport/basket/victor-wembanyama/nba-je-nen-pense-pas-grand-chose-victor-wembanyama-reagit-a-la-candidature-de-teddy-riner-a-la-presidentielle-177c130e-dffa-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "Qui était Mary Ann Cotton, tueuse en série à l’arsenic de l’époque victorienne qui aurait éliminé 21 de ses proches ?",
-          "entradilla": "Quatre maris ou amants, onze de ses enfants, plusieurs de ses beaux-enfants, sa mère… fréquenter Mary Ann Cotton au XIXe siècle conduisait souvent à la mort.",
-          "enlace": "https://www.ouest-france.fr/leditiondusoir/2026-11-13/qui-etait-mary-ann-cotton-tueuse-en-serie-a-l-arsenic-de-l-epoque-victorienne-qui-aurait-elimine-21-de-ses-proches-e6051099-36f6-4127-a409-8f3ed35f5950?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Mercato cyclisme : le tableau des transferts 2026-2027",
+          "entradilla": "Le mercato du cyclisme professionnel est ouvert depuis le 1er août. Celui-ci se fermera à l’entrée dans l’année 2027. De nombreux mouvements ont déjà été annoncés. Ouest-France vous propose de retrouver la liste de tous les transferts annoncés, mise à jour en temps réel.",
+          "enlace": "https://www.ouest-france.fr/sport/cyclisme/cyclisme-mercato-le-tableau-des-transferts-2026-2027-e251f508-ddb6-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "Ligue des nations. Kylian Mbappé devrait être titulaire et de retour dans l’axe face à la Turquie à Bordeaux",
-          "entradilla": "Préservé face à l’Italie, le capitaine des Bleus Kylian Mbappé devrait être apte et titulaire, dimanche 15 novembre, à Bordeaux face à la Turquie (20 h 45), pour la dernière journée de la phase de groupe de Ligue des nations. Pour son deuxième match seulement sous les ordres de Zinédine Zidane, le m",
-          "enlace": "https://www.ouest-france.fr/sport/football/equipe-de-france/ligue-des-nations-kylian-mbappe-devrait-etre-titulaire-et-de-retour-dans-laxe-face-a-la-turquie-a-bordeaux-38d7f004-df96-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Rugby. Le classement du Championnat des Nations après la victoire des Bleus : la France première, les Blacks à l’affût…",
+          "entradilla": "La France a dominé l’Afrique du Sud (21-19), vendredi soir 13 novembre 2026 au stade de France, lors de la cinquième journée du tout nouveau Championnat des Nations. Leaders de leur poule, les Bleus ont pris une longueur d’avance. Le point sur les classements, alors que les finales se profilent le w",
+          "enlace": "https://www.ouest-france.fr/sport/rugby/rugby-le-classement-du-championnat-des-nations-apres-la-victoire-des-bleus-la-france-premiere-les-blacks-a-laffut-909e9d78-dff6-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         }
       ],
       "analisis": {
-        "resumen": "- Suspendidos los despegues en Estados Unidos por un problema de comunicación en el control aéreo.\n- Un petrolero choca con un crucero en Nueva Orleans; hay operaciones de rescate en curso.\n- El portero Jesús Owono recibe 12 partidos de suspensión tras el choque en el que murió Jesús de Miguel.\n- Varias noticias deportivas se centran en las selecciones francesas y en los homenajes a las víctimas del 13 de noviembre.\n- Un artículo repasa la historia de Mary Ann Cotton, presunta asesina en serie de la época victoriana.",
-        "populismo": 15,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «circunstancias excepcionales», «choque trágico» o «habría eliminado a 21 de sus allegados» aportan dramatismo; no se aprecia una oposición entre pueblo y élites.",
-        "sesgo": "La selección da gran peso al deporte y a las selecciones francesas, junto con sucesos de impacto. No se aprecia un sesgo político claro en los titulares."
+        "resumen": "- Deporte: programa de la Copa de Francia, selecciones de biatlón, fichajes ciclistas y clasificación de rugby.\n- Tenis: Alexander Zverev vuelve a ser objeto de una denuncia relacionada con violencia de pareja.\n- La sequía amenaza la navegación y el turismo en el Canal du Midi; se buscan soluciones.\n- La formación de enfermería refuerza su contenido teórico mediante su vinculación con universidades.\n- Cultura y actualidad: historias de sonámbulas, el concurso Eurovisión Asia y la reacción de Wembanyama a la candidatura de Riner.",
+        "populismo": 10,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «las visiones de las sonámbulas» o la amenaza al turismo aportan cierto interés llamativo, sin presentar un enfrentamiento entre pueblo y élites.",
+        "sesgo": "La selección da un peso destacado al deporte, especialmente francés, y combina noticias de servicio con asuntos culturales y locales. No se aprecia un sesgo político claro en los titulares."
       }
     }
   ]
