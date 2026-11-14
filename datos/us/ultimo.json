@@ -1,39 +1,39 @@
 {
   "pais": "Estados Unidos",
-  "fecha": "2026-11-13",
-  "turno": 18,
-  "generado": "13/11/2026 22:49",
+  "fecha": "2026-11-14",
+  "turno": 8,
+  "generado": "14/11/2026 09:26",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "La suspensión nacional de vuelos por problemas de comunicación aparece en tres periódicos, al igual que la salida de Jensen Huang de Nvidia y sus consecuencias. También se repiten la revisión judicial de la política de asilo de Trump, el choque entre un petrolero y un crucero en Nueva Orleans y las previsiones sobre El Niño. Solo el New York Post destaca las dificultades de los pasajeros neoyorquinos para pagar el transporte público.",
-    "crispacion": 55,
-    "motivo_crispacion": "La tensión se refleja en el desacuerdo entre Rusia y los países europeos sobre la seguridad en las negociaciones para poner fin a la guerra de Ucrania. En Estados Unidos, la política de asilo de Trump llega al Tribunal Supremo y sus asesores económicos discrepan sobre el caso Nvidia. Una demanda también denuncia discriminación y represalias contra trabajadores sanitarios judíos en Nueva York. Estas noticias conviven con coberturas más informativas sobre el tiempo, la cultura y el deporte."
+    "temas": "La paralización nacional de vuelos y sus consecuencias aparece en los cinco periódicos. También se repiten el escándalo en Nvidia, la pérdida del estatus de eliminación del sarampión, el derrumbe mortal en Brooklyn, la política de asilo, las elecciones en Alaska y la prohibición de impuestos sobre el patrimonio en California. Solo The Wall Street Journal destaca la censura del profesorado de Cornell a su presidente por su respuesta ante denuncias de agresión sexual.",
+    "crispacion": 49,
+    "motivo_crispacion": "La tensión procede de la competencia electoral entre republicanos y demócratas, las críticas a la redistribución de distritos y los insultos a un dirigente demócrata. La política de asilo de Trump llegará al Tribunal Supremo, mientras que el caso Nvidia incluye sospechas de espionaje y desacuerdos entre asesores económicos. También aparecen denuncias de acoso sexual e investigaciones sobre actuaciones oficiales. La cobertura de los vuelos, la salud pública y el tiempo aporta información práctica, aunque algunos de estos asuntos reflejan problemas graves."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Veo en las noticias de hoy una contradicción de clase. Uno de cada cinco usuarios del transporte de Nueva York dice que no puede pagar la tarifa actual, pero la autoridad planea subirla. Para quienes viven de su salario, desplazarse no es un lujo: es la condición para trabajar y participar en la vida de la ciudad. Yo defiendo un transporte público asequible, financiado de forma progresiva, no a costa de quienes menos tienen.\n\nMientras tanto, la salida del máximo responsable de Nvidia inquieta al mundo de la inteligencia artificial, en el que la empresa acumula participaciones multimillonarias. Esa concentración de poder privado debería llevarnos a discutir la propiedad colectiva y el control democrático de tecnologías que afectan a toda la sociedad. La innovación ha de servir a la mayoría trabajadora, no quedar subordinada a las decisiones del gran capital."
+      "texto": "Hoy veo una misma pregunta detrás de noticias distintas: ¿a quién sirve la riqueza que producimos? El fallo de telecomunicaciones que paralizó los vuelos revela la necesidad de modernizar una infraestructura pública esencial. La pérdida del estatus de eliminación del sarampión recuerda, por su parte, que la salud colectiva exige servicios públicos sólidos y prevención accesible.\n\nMientras tanto, California ha aprobado una prohibición de nuevos impuestos sobre el patrimonio, respaldada por una campaña financiada por multimillonarios. Yo la considero una victoria del gran capital: protege grandes fortunas cuando necesitamos recursos para atender necesidades comunes. No basta con reparar averías ni lamentar retrocesos. Defiendo que la clase trabajadora tenga poder sobre las decisiones económicas y que sectores estratégicos estén bajo propiedad y control colectivos. La seguridad y la salud de todos no deberían depender de prioridades dictadas por una minoría propietaria."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "Hoy veo dos caras de una misma concentración de poder. En Nueva York, uno de cada cinco usuarios del transporte dice que no puede pagar el pasaje, mientras se prepara otra subida. No acepto que una necesidad cotidiana se gestione sin que quienes dependen del servicio y quienes lo hacen funcionar decidan en pie de igualdad. La autogestión no elimina por arte de magia los costes, pero permite discutirlos desde las necesidades comunes, no desde una jerarquía distante.\n\nTambién me inquieta que la Corte Suprema vaya a decidir sobre el bloqueo del asilo en la frontera. La libertad de quienes huyen de la persecución no debería depender de la voluntad de un gobierno ni de unos jueces. Prefiero construir redes de acogida y apoyo mutuo: la solidaridad es más digna que convertir la protección en un privilegio administrado desde arriba."
+      "texto": "Veo en la paralización aérea algo más que un fallo técnico: una invitación a preguntarnos quién decide las prioridades de una infraestructura de la que dependen tantas personas. No basta con pedir más dinero; quiero que quienes la operan y quienes la usan puedan fiscalizar y decidir cómo se mantiene, sin depender de jerarquías distantes.\n\nEl derrumbe mortal en Brooklyn también exige algo más que confianza ciega en promotores y autoridades: comunidades y trabajadores necesitan poder real para vigilar las obras y exigir seguridad.\n\nLa pérdida del estatus de eliminación del sarampión me recuerda que la libertad no es indiferencia ante los demás. Defiendo la vacunación y la información accesible mediante redes de apoyo mutuo, no mediante obediencia ciega. Frente a los partidos que prometen resolverlo todo desde arriba, prefiero una sociedad capaz de coordinarse libremente y cuidarse desde abajo."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "La paralización de vuelos por fallos de comunicación me recuerda que un Estado limitado no es un Estado despreocupado. Garantizar la seguridad aérea es una función pública esencial; precisamente por eso exijo que se concentre en cumplirla bien y rinda cuentas cuando falla, en lugar de extenderse sin límite a tareas que ciudadanos y empresas pueden resolver.\n\nLa salida de Jensen Huang de Nvidia también muestra cuánto puede depender una empresa de su liderazgo. No corresponde al Gobierno escoger ganadores ni proteger a los inversores de toda incertidumbre: la competencia y la responsabilidad de accionistas y directivos son mejores correctivos que el favoritismo político.\n\nYo prefiero impuestos bajos que dejen más recursos a quienes los generan, junto con reglas claras y un Estado capaz de hacer pocas cosas, pero hacerlas bien."
+      "texto": "La paralización aérea muestra por qué un Estado limitado debe concentrarse en cumplir bien sus funciones esenciales. Si el sistema de control depende de equipos obsoletos, no basta con pedir más dinero: quiero saber cómo se gastará, quién rendirá cuentas y qué competencia privada puede acelerar la modernización sin comprometer la seguridad. Los pasajeros, además, merecen los reembolsos que les corresponden.\n\nEn California, celebro que los votantes hayan rechazado nuevos impuestos sobre el patrimonio. Gravar la propiedad acumulada penaliza el ahorro y la inversión, y ofrece a los gobiernos una excusa para evitar decisiones difíciles sobre el gasto. Prefiero impuestos bajos y reglas estables que permitan a las personas decidir qué hacer con sus recursos.\n\nLa libertad también exige responsabilidad: en el derrumbe de Brooklyn, corresponde investigar si se eludieron controles y exigir cuentas por las decisiones tomadas."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "La suspensión de vuelos en todo el país por fallos de comunicación me recuerda algo elemental: una nación que no puede garantizar el funcionamiento de sus servicios esenciales no debería presumir de fortaleza. Antes de financiar grandes promesas tecnológicas, nuestros dirigentes tienen el deber de asegurar la infraestructura de la que dependen los ciudadanos.\n\nTambién espero que el Tribunal Supremo reconozca el derecho del país a controlar estrictamente su frontera. El asilo debe responder a la persecución real, no convertirse en una vía que deje sin efecto las normas migratorias. Una comunidad política no puede conservar su soberanía si renuncia a decidir quién entra y bajo qué condiciones.\n\nDesconfío de unas élites que celebran la expansión de la inteligencia artificial mientras los servicios básicos fallan. Yo prefiero un gobierno que proteja las fronteras, respete la ley y preserve las instituciones y tradiciones que mantienen unido al país."
+      "texto": "Veo un país al que sus dirigentes exigen ambición global mientras descuidan sus obligaciones más elementales. El fallo que paralizó los vuelos revela lo que ocurre cuando se tolera una infraestructura anticuada: la seguridad y la vida cotidiana quedan a merced de un sistema vulnerable. Antes de prometer más grandeza, Washington debe modernizar lo indispensable y rendir cuentas por sus prioridades.\n\nTambién creo que una nación que no controla sus fronteras renuncia a una parte esencial de su soberanía. El Supremo examinará la política que bloquea a solicitantes de asilo; yo defiendo controles estrictos y procedimientos rápidos, con respeto a la ley, sin convertir el asilo en una vía general de inmigración. Y ante las sospechas de espionaje vinculadas a Nvidia, que aún se investigan, la seguridad tecnológica debe prevalecer sobre la comodidad de las élites empresariales."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Creo que una paz duradera en Ucrania no puede construirse a costa de la seguridad europea. La exigencia rusa de que la OTAN retroceda merece una respuesta firme, no un rechazo al diálogo: negociar es indispensable, pero también lo es que Europa tenga voz y que cualquier acuerdo preserve la capacidad de disuasión de sus aliados.\n\nEn casa, la suspensión de vuelos por problemas de comunicación recuerda que la seguridad y la prosperidad dependen de instituciones públicas capaces. Yo apoyaría inversiones responsables y una supervisión rigurosa, no consignas contra el gobierno. Lo mismo vale para la frontera: necesitamos una gestión ordenada y procedimientos de asilo justos, sin convertir esas prioridades en enemigos irreconciliables. Y si tantos usuarios del transporte neoyorquino no pueden pagar la tarifa, buscaría un consenso para financiar el servicio y proteger a quienes más dependen de él."
+      "texto": "La paralización aérea y la pérdida del estatus de eliminación del sarampión me recuerdan que la libertad y la prosperidad dependen de instituciones capaces de cumplir tareas básicas. Modernizar las telecomunicaciones del control aéreo exige inversión sostenida y supervisión rigurosa; proteger la salud pública requiere campañas de vacunación accesibles y confianza construida con información clara. Ninguna de las dos cosas se resuelve con consignas.\n\nTambién veo una lección en el derrumbe de Brooklyn: el mercado puede construir y crear empleo, pero necesita reglas eficaces que protejan vidas y una fiscalización que no deje resquicios peligrosos. No propongo rehacerlo todo de golpe. Prefiero acuerdos entre partidos, prioridades presupuestarias transparentes y reformas graduales cuyos resultados podamos evaluar. Un gobierno competente no sustituye a la iniciativa privada: establece las condiciones para que funcione sin trasladar sus riesgos a la sociedad."
     }
   ],
   "periodicos": [
@@ -42,19 +42,19 @@
       "web": "https://www.nytimes.com",
       "noticias": [
         {
-          "titulo": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
-          "entradilla": "The hard-line position of Russian officials in closed-door negotiations about ending the war thrusts European security into the heart of the talks.",
-          "enlace": "https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html"
+          "titulo": "What to Know About Friday’s Nationwide Ground Stop",
+          "entradilla": "The air traffic control system’s overloaded, antiquated telecommunications equipment sustained its latest widespread failure, prompting a call for more money to fuel faster upgrades.",
+          "enlace": "https://www.nytimes.com/2026/11/13/us/faa-ground-stop-flights-what-to-know.html"
         },
         {
-          "titulo": "Europe Agrees on a Team to Represent It in Talks With Russia",
-          "entradilla": "After coveting a seat in the Ukraine war discussions, Europe is poised to get one. The continent wants to fill it with a six-member team.",
-          "enlace": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html"
+          "titulo": "Flight Canceled During the FAA Ground Stop? Here’s What to Do.",
+          "entradilla": "Travelers are entitled to refunds if their flights are canceled, regardless of the reason, but airlines won’t guarantee other amenities, such as a hotel room or meal vouchers.",
+          "enlace": "https://www.nytimes.com/2026/11/13/us/ground-stop-flight-delays-cancellations-tips.html"
         },
         {
-          "titulo": "Jensen Huang’s Resignation From Nvidia Worries the A.I. Start-Up World",
-          "entradilla": "Mr. Huang championed start-ups, with Nvidia holding $48 billion worth of stakes in 229 private companies, including OpenAI and Anthropic, at the end of July.",
-          "enlace": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html"
+          "titulo": "Nvidia Scandal Prompts Questions of What It Means to Be a Spy",
+          "entradilla": "U.S. intelligence agencies believe a woman who had an affair with Jensen Huang was a Chinese asset. But there is much more that they are still assessing about her role.",
+          "enlace": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html"
         },
         {
           "titulo": "Why Jensen Huang Was Essential to Nvidia’s Rise",
@@ -72,19 +72,14 @@
           "enlace": "https://www.nytimes.com/2026/11/13/style/jensen-huang-nvidia-leather-jacket-ai.html"
         },
         {
-          "titulo": "Trump Signals New Strategy on Iran: A Waiting Game",
-          "entradilla": "The administration appears to be moving toward a long-term economic pressure campaign as President Trump expresses little urgency in securing a nuclear agreement.",
-          "enlace": "https://www.nytimes.com/2026/11/13/us/politics/trump-iran-strategy.html"
+          "titulo": "Alaska Senate Race Between Dan Sullivan and Mary Peltola Still Counting Votes",
+          "entradilla": "The race between Senator Dan S. Sullivan and Ms. Peltola, a former congresswoman, is the only Senate contest that hasn’t been called.",
+          "enlace": "https://www.nytimes.com/2026/11/14/us/alaska-senate-race-ranked-choice-tabulation.html"
         },
         {
-          "titulo": "Book Review: ‘Promise Me, America,’ by Joe Biden",
-          "entradilla": "The former president’s new memoir trumpets his achievements while justifying his decision to run for a second term and his embrace of Israel’s war in Gaza.",
-          "enlace": "https://www.nytimes.com/2026/11/13/books/review/promise-me-america-joe-biden.html"
-        },
-        {
-          "titulo": "Microsoft’s Global Outage and Fixes: What We Know",
-          "entradilla": "The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services.",
-          "enlace": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html"
+          "titulo": "A Democrat Wins the Alaska Governor’s Race for the First Time Since 1998",
+          "entradilla": "Jonathan Kreiss-Tomkins made a name for himself as a coalition builder willing to raise alarms about his state’s dire fiscal straits.",
+          "enlace": "https://www.nytimes.com/2026/11/14/us/elections/alaska-governor-winner-kreiss-tomkins-jkt.html"
         },
         {
           "titulo": "Lauren Boebert Loses Re-election Bid in Colorado House Race to Eileen Laubacher",
@@ -92,21 +87,26 @@
           "enlace": "https://www.nytimes.com/2026/11/09/us/lauren-boebert-colorado-house-election.html"
         },
         {
-          "titulo": "Meet Eileen Laubacher, the Navy Veteran Who Beat Lauren Boebert",
-          "entradilla": "Eileen Laubacher, a retired rear admiral, defeated one of the highest-profile supporters of President Trump in a deep-red district that she knows will be tough to hold.",
-          "enlace": "https://www.nytimes.com/2026/11/13/us/elections/eileen-laubacher-defeated-lauren-boebert.html"
+          "titulo": "Did the Redistricting Wars Backfire on Republicans? In a Word, No.",
+          "entradilla": "The G.O.P. was able to avoid more House midterm losses — on top of the advantage it already had from gerrymandering.",
+          "enlace": "https://www.nytimes.com/2026/11/13/upshot/gerrymanders-midterm-elections-republicans.html"
         },
         {
-          "titulo": "Hakeem Jeffries Pushes to Lock Down House Speakership, With No Challenger Emerging",
-          "entradilla": "Facing resistance from the left but no challenger, the Democratic leader is sewing up support from key coalitions as his allies say he deserves a unanimous vote.",
-          "enlace": "https://www.nytimes.com/2026/11/13/us/politics/jeffries-house-speaker-democrats.html"
+          "titulo": "Developer Avoided Stricter Oversight Before Fatal Building Collapse",
+          "entradilla": "By winning approval for a three-story building, then seeking to add more stories, the Brooklyn developer was not subject to the more rigorous oversight required for larger projects.",
+          "enlace": "https://www.nytimes.com/2026/11/13/nyregion/flatbush-building-collapse-oversight.html"
+        },
+        {
+          "titulo": "Book Review: ‘Promise Me, America,’ by Joe Biden",
+          "entradilla": "The former president’s new memoir trumpets his achievements while justifying his decision to run for a second term and his embrace of Israel’s war in Gaza.",
+          "enlace": "https://www.nytimes.com/2026/11/13/books/review/promise-me-america-joe-biden.html"
         }
       ],
       "analisis": {
-        "resumen": "- Rusia vuelve a exigir un repliegue de la OTAN en las negociaciones sobre Ucrania; Europa prepara un equipo para participar.\n- La salida de Jensen Huang de Nvidia suscita análisis sobre su liderazgo, su imagen y sus vínculos con las empresas emergentes de IA.\n- Trump apunta a una estrategia de presión económica prolongada sobre Irán.\n- Eileen Laubacher derrota a Lauren Boebert en Colorado, mientras Hakeem Jeffries busca asegurar la presidencia de la Cámara de Representantes.\n- Microsoft informa de avances ante una interrupción global de servicios; una reseña examina las memorias de Joe Biden.",
-        "populismo": 15,
-        "motivo_populismo": "Predomina el lenguaje informativo, aunque expresiones como «destituido», «poderoso negociador» e «imagen de inconformista» aportan dramatización y personalización.",
-        "sesgo": "La selección se centra en la política estadounidense y en el impacto empresarial de la salida de Huang, con varias noticias dedicadas a cada asunto. No se aprecia una orientación partidista inequívoca en el conjunto de los titulares."
+        "resumen": "- Un fallo en el control aéreo paralizó vuelos en todo el país; los viajeros afectados tienen derecho a reembolso.\n- El escándalo en torno a Nvidia plantea preguntas sobre espionaje y sobre el papel de Jensen Huang, destituido como director ejecutivo.\n- Las elecciones dejan victorias demócratas en Alaska y Colorado; sigue el recuento de la contienda al Senado de Alaska. Otro artículo examina las ventajas republicanas en la redistribución de distritos.\n- Una investigación señala que un promotor de Brooklyn evitó controles más estrictos antes de un derrumbe mortal.\n- Una reseña aborda las memorias de Joe Biden y sus justificaciones sobre su candidatura y la guerra de Israel en Gaza.",
+        "populismo": 18,
+        "motivo_populismo": "Predomina un lenguaje informativo, aunque expresiones como «escándalo» y «guerras de redistribución de distritos» aportan dramatismo a algunos titulares.",
+        "sesgo": "La portada presta atención a las victorias demócratas y presenta la redistribución de distritos como una ventaja para los republicanos. También adopta un enfoque crítico hacia los controles de seguridad y examina el escándalo de Nvidia desde varios ángulos."
       }
     },
     {
@@ -114,24 +114,34 @@
       "web": "https://www.washingtonpost.com",
       "noticias": [
         {
+          "titulo": "U.S. loses measles-elimination status, erasing a landmark public health achievement",
+          "entradilla": "The finding follows a resurgence that began with a major outbreak in West Texas in January 2025 and was followed by sustained outbreaks in Utah, Arizona and other states.",
+          "enlace": "https://www.washingtonpost.com/health/2026/11/13/us-loses-measles-elimination-status-erasing-landmark-achievement/"
+        },
+        {
+          "titulo": "FAA lifts ground stop at U.S. airports, leaving travel chaos",
+          "entradilla": "Thousands of aircraft were halted for more than four hours because of a “temporary telecommunications outage.” Officials were searching for the cause.",
+          "enlace": "https://www.washingtonpost.com/transportation/2026/11/13/faa-grounds-flights-all-us-airports-citing-communications-issue/"
+        },
+        {
+          "titulo": "For weeks, Brooklyn residents felt the shaking. Then came a deadly collapse.",
+          "entradilla": "Eight people were killed, prompting investigations and renewed scrutiny of building-code enforcement.",
+          "enlace": "https://www.washingtonpost.com/nation/2026/11/13/weeks-brooklyn-residents-felt-shaking-then-came-deadly-collapse/"
+        },
+        {
+          "titulo": "Tanker strike sinks cruise ship in New Orleans, plunging passengers into river",
+          "entradilla": "The incident sent 32 people to hospitals, but officials said there appear to be no fatalities.",
+          "enlace": "https://www.washingtonpost.com/nation/2026/11/13/tanker-collides-with-cruise-ship-new-orleans-sending-passengers-into-river/"
+        },
+        {
           "titulo": "Former death row inmate Richard Glossip pleads guilty to lesser charge",
           "entradilla": "The plea agreement is the latest twist in a decades-long saga that at one point led Oklahoma to review its lethal injection protocols.",
           "enlace": "https://www.washingtonpost.com/nation/2026/11/13/former-death-row-inmate-richard-glossip-pleads-guilty-lesser-charge/"
         },
         {
-          "titulo": "FAA grounds flights at all U.S. airports, citing communications issue",
-          "entradilla": "Transportation Secretary Sean Duffy said the nationwide ground stop was due to “a communication issue impacting all Air Route Traffic Control Centers.”",
-          "enlace": "https://www.washingtonpost.com/transportation/2026/11/13/faa-grounds-flights-all-us-airports-citing-communications-issue/"
-        },
-        {
           "titulo": "Supreme Court to review Trump policy blocking asylum seekers at border",
           "entradilla": "The case is the latest immigration issue the justices will weigh in the coming months.",
           "enlace": "https://www.washingtonpost.com/politics/2026/11/13/supreme-court-review-trump-policy-blocking-asylum-seekers-border/"
-        },
-        {
-          "titulo": "Tanker strikes cruise ship in New Orleans, sending passengers into river",
-          "entradilla": "A massive emergency response is underway that includes firefighters rescuing people from the Mississippi River.",
-          "enlace": "https://www.washingtonpost.com/nation/2026/11/13/tanker-collides-with-cruise-ship-new-orleans-sending-passengers-into-river/"
         },
         {
           "titulo": "Trump’s top economic advisers clash over Lutnick’s handling of Nvidia",
@@ -162,23 +172,13 @@
           "titulo": "Eight dead and at least 18 injured after Brooklyn building collapse",
           "entradilla": "A rescue operation continued Thursday as first responders sought anyone trapped beneath the rubble.",
           "enlace": "https://www.washingtonpost.com/nation/2026/11/12/brooklyn-building-collapse-kills-two-injures-17-new-york-city-officials-say/"
-        },
-        {
-          "titulo": "3 exonerated inmates urge Florida’s governor-elect to halt executions",
-          "entradilla": "Florida is poised to break its execution record for the second year in a row. Three men formerly on death row asked Byron Donalds to avoid the possibility of killing other innocent men when he takes office.",
-          "enlace": "https://www.washingtonpost.com/nation/2026/11/12/former-florida-death-row-inmates-appeal-governor-elect-halt-executions/"
-        },
-        {
-          "titulo": "San Francisco approves first gay bathhouse since AIDS epidemic",
-          "entradilla": "San Fransisco had as many as 20 gay bathhouses at their peak in 1982. Today there are none, but that may change soon.",
-          "enlace": "https://www.washingtonpost.com/nation/2026/11/12/san-francisco-approves-first-gay-bathhouse-since-aids-epidemic/"
         }
       ],
       "analisis": {
-        "resumen": "- Un antiguo condenado a muerte se declara culpable de un cargo menor en Oklahoma.\n- La FAA paraliza los vuelos en los aeropuertos de Estados Unidos por un problema de comunicaciones.\n- El Tribunal Supremo revisará una política de Trump que bloquea a solicitantes de asilo en la frontera.\n- Un petrolero choca contra un crucero en Nueva Orleans; también se informa de un derrumbe mortal en Brooklyn y del regreso a una escuela de Oregón tras un tiroteo.\n- La portada aborda disputas económicas, ejecuciones en Florida, una campaña electoral y la aprobación de un baño público gay en San Francisco.",
-        "populismo": 16,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «spy-sex scandal» y la referencia a un choque entre asesores aportan cierto sensacionalismo y dramatización.",
-        "sesgo": "La selección se centra en instituciones estadounidenses, sucesos graves y debates políticos y judiciales. No se aprecia una orientación partidista clara en la redacción proporcionada."
+        "resumen": "- EE. UU. pierde su estatus de eliminación del sarampión tras varios brotes.\n- Una avería de telecomunicaciones paraliza durante horas vuelos en aeropuertos estadounidenses.\n- Un edificio se derrumba en Brooklyn: mueren ocho personas y se investiga el cumplimiento de las normas de construcción.\n- Un choque con un petrolero hunde un crucero en Nueva Orleans; 32 personas son hospitalizadas y no se reportan fallecidos.\n- Destacan también casos judiciales y migratorios, disputas económicas sobre Nvidia y la inflación, y la vuelta a clases tras un tiroteo en Oregón.",
+        "populismo": 20,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «caos en los viajes» y «escándalo de espionaje y sexo» aportan dramatismo y sensacionalismo.",
+        "sesgo": "La selección prioriza sucesos trágicos, crisis y conflictos institucionales en Estados Unidos. No se aprecia una orientación política partidista clara en la redacción proporcionada."
       }
     },
     {
@@ -186,14 +186,19 @@
       "web": "https://www.wsj.com",
       "noticias": [
         {
-          "titulo": "Tanker Hits Cruise Ship With Over 100 People on Board in New Orleans",
-          "entradilla": "Rescue efforts were under way Friday afternoon, officials said. It wasn’t clear if there were any injuries or fatalities.",
-          "enlace": "https://www.wsj.com/us-news/tanker-hits-cruise-ship-with-over-100-people-on-board-near-port-of-new-orleans-480a901a?mod=rss_usnews"
+          "titulo": "FAA Lifts Nationwide Groundstop That Upended Flights",
+          "entradilla": "The disruption is still expected to create travel problems that persist through the weekend.",
+          "enlace": "https://www.wsj.com/us-news/faa-temporarily-halts-flights-across-u-s-b9b06e59?mod=rss_usnews"
         },
         {
-          "titulo": "FAA Issues Groundstop for Flights Across U.S.",
-          "entradilla": "Transportation Secretary Sean Duffy said the move followed communications outages at air-traffic control centers .",
-          "enlace": "https://www.wsj.com/us-news/faa-temporarily-halts-flights-across-u-s-b9b06e59?mod=rss_usnews"
+          "titulo": "U.S. Loses Measles-Elimination Status as Historic Resurgence Sickens Thousands",
+          "entradilla": "The Pan American Health Organization has revoked the coveted status, people familiar with the matter said—a stunning reversal for a country that for decades has kept the vaccine-preventable disease at bay.",
+          "enlace": "https://www.wsj.com/health/u-s-loses-measles-elimination-status-as-historic-resurgence-sickens-thousands-b95e8780?mod=rss_usnews"
+        },
+        {
+          "titulo": "A Tanker Lost Control and Hit a River Cruise Ship in New Orleans",
+          "entradilla": "The more than 100 people on board were rescued in a ‘miracle on the Mississippi,’ said the Louisiana governor.",
+          "enlace": "https://www.wsj.com/us-news/tanker-hits-cruise-ship-with-over-100-people-on-board-near-port-of-new-orleans-480a901a?mod=rss_usnews"
         },
         {
           "titulo": "Congress’s Top Doctor Resigns Amid IG Findings of Lax Drug Handling",
@@ -209,11 +214,6 @@
           "titulo": "Cravath Employee Is Charged With Insider Trading Using Confidential Deal Information",
           "entradilla": "Prosecutors said the employee netted $70,000 in profits related to client matters including Paramount’s acquisition of Warner Bros.",
           "enlace": "https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9?mod=rss_usnews"
-        },
-        {
-          "titulo": "One Person Is Killed and Four Are Injured in D.C. Shooting",
-          "entradilla": "Police said the suspect died from a self-inflicted gunshot wound in an apartment above the Logan Circle gym where gunfire erupted",
-          "enlace": "https://www.wsj.com/us-news/multiple-people-shot-in-washington-d-c-08db1e98?mod=rss_usnews"
         },
         {
           "titulo": "The Parents Suing Schools Because Their Kids Got Bad Grades",
@@ -241,16 +241,16 @@
           "enlace": "https://www.wsj.com/us-news/education/colleges-struggle-to-stop-melt-students-who-commit-then-dont-show-up-e80d4263?mod=rss_usnews"
         },
         {
-          "titulo": "Judge, Economist Richard Posner Dies at 87",
-          "entradilla": "The jurist wrote thousands of opinions as well as scholarly articles, more than 50 books.",
-          "enlace": "https://www.wsj.com/arts-culture/books/judge-economist-richard-posner-dies-at-87-26d35652?mod=rss_usnews"
+          "titulo": "California Voters Pass Ban on Wealth Taxes",
+          "entradilla": "The passage of the billionaire-funded ballot measure follows the failure of a high-profile billionaire tax.",
+          "enlace": "https://www.wsj.com/politics/california-voters-pass-ban-on-wealth-taxes-a045b6c1?mod=rss_usnews"
         }
       ],
       "analisis": {
-        "resumen": "- Un petrolero choca con un crucero en Nueva Orleans; hay labores de rescate y se desconoce si hay víctimas.\n- La FAA ordena detener vuelos en todo el país tras fallos de comunicación en centros de control aéreo.\n- El médico principal del Congreso dimite tras hallazgos sobre el manejo de medicamentos; un empleado de Cravath es acusado de uso de información privilegiada.\n- Un tiroteo en Washington deja un muerto y cuatro heridos; la policía afirma que el sospechoso murió por un disparo autoinfligido.\n- La portada aborda también El Niño y la temporada de esquí, conflictos y tendencias universitarias, y la muerte del juez y economista Richard Posner.",
+        "resumen": "- La FAA levantó la suspensión nacional de vuelos, aunque se esperan problemas durante el fin de semana.\n- Estados Unidos pierde su estatus de eliminación del sarampión, según personas familiarizadas con la decisión, en medio de un repunte de casos.\n- Un petrolero chocó contra un crucero fluvial en Nueva Orleans; las más de 100 personas a bordo fueron rescatadas.\n- El médico principal del Congreso dimitió tras hallazgos sobre el manejo laxo de medicamentos. En Cornell, profesores reprocharon a la presidencia su respuesta a denuncias de agresión sexual.\n- La portada también aborda educación, salud y deporte, una acusación de uso de información privilegiada y la aprobación en California de una prohibición de los impuestos sobre el patrimonio.",
         "populismo": 15,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «Super El Niño» y estudiantes «obsesionados» con la hidratación aportan cierto énfasis; no aparece una oposición explícita entre pueblo y élites.",
-        "sesgo": "La selección se centra en sucesos e instituciones de Estados Unidos, con especial atención a la educación superior y sus tendencias. No se aprecia una orientación política explícita en los titulares."
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «histórico resurgimiento», «sorprendente revés» y «milagro en el Misisipi» aportan dramatismo.",
+        "sesgo": "La selección da espacio a problemas institucionales, sanitarios y educativos, junto con asuntos de estilo de vida y economía. No se aprecia un sesgo político claro en la redacción presentada."
       }
     },
     {
@@ -258,9 +258,39 @@
       "web": "https://www.latimes.com",
       "noticias": [
         {
-          "titulo": "FAA issues nationwide ground stop due to 'extraordinary circumstances and for reasons of safety'",
-          "entradilla": "The Federal Aviation Administration, issued a ground stop Friday for all flights in the United States, according to an advisory from the agency.",
+          "titulo": "What caused the national ground stop? Here is what we know",
+          "entradilla": "For more than four hours, a ground stop of virtually all aircraft in the United States brought unprecedented chaos and delays that are expected to last days. Here is what we know about what went wrong.",
+          "enlace": "https://www.latimes.com/politics/story/2026-11-13/what-caused-national-ground-stop-here-is-what-we-know"
+        },
+        {
+          "titulo": "Nationwide ground stop lifted, but passengers remain stranded at airports",
+          "entradilla": "The Federal Aviation Administration issued a ground stop Friday for all flights in the United States, according to an advisory from the agency.",
           "enlace": "https://www.latimes.com/california/story/2026-11-13/faa-issues-nationwide-ground-stop"
+        },
+        {
+          "titulo": "Voters pass Proposition 42, barring new taxes on personal assets",
+          "entradilla": "The measure had just over 51% votes in favor and nearly 49% opposed, with about 96% of votes counted.",
+          "enlace": "https://www.latimes.com/california/story/2026-11-13/voters-pass-proposition-42-barring-new-taxes-on-personal-assets"
+        },
+        {
+          "titulo": "O.C. sheriff investigates whether employees alerted ICE before man's arrest",
+          "entradilla": "The Orange County Sheriff's Department has launched an internal investigation into whether two employees communicated with ICE agents who detained a man who was leaving the county jail.",
+          "enlace": "https://www.latimes.com/california/story/2026-11-13/orange-county-sheriff-ice-arrest-probe"
+        },
+        {
+          "titulo": "Thousands of flights affected by FAA ground stop. Here are your rights as a passenger",
+          "entradilla": "Thousands of flights across America were delayed, canceled and stuck on the tarmac Friday after the FAA announced a ground stop. Here's what to know if you are affected.",
+          "enlace": "https://www.latimes.com/california/story/2026-11-13/thousands-of-flights-impacted-by-faa-ground-stop-here-are-your-rights-as-passenger"
+        },
+        {
+          "titulo": "Three men, three agendas: Trump, Putin and Xi will meet in China",
+          "entradilla": "The competing agendas could make the summit little more than a spectacle, yet still produce images that harken back to the famous Yalta conference of 1945.",
+          "enlace": "https://www.latimes.com/politics/story/2026-11-13/trump-putin-xi-will-meet-in-historic-summit-heres-what-to-expect"
+        },
+        {
+          "titulo": "After scamming family and friends, California man murdered parents for inheritance",
+          "entradilla": "In their garage, prosecutors said, Mark Andre Tomas Navarrete, 46, struck both his mother and father on the head and then strangled them.",
+          "enlace": "https://www.latimes.com/california/story/2026-11-13/california-man-sentenced-to-life-in-prison-for-murdering-parents-for-inheritance-money"
         },
         {
           "titulo": "Supreme Court agrees to rule on Trump's asylum ban at the southern border",
@@ -268,61 +298,31 @@
           "enlace": "https://www.latimes.com/politics/story/2026-11-13/supreme-court-agrees-to-rule-on-trumps-asylum-ban-at-southern-border"
         },
         {
+          "titulo": "LAX, other airports filled with stranded passengers during nationwide ground stop: 'I might spend the rest of my life here'",
+          "entradilla": "A four-hour ground stoppage on all flights in the United States on Friday led to chaos for thousands of travelers at airports across California.",
+          "enlace": "https://www.latimes.com/california/story/2026-11-13/lax-other-airports-fill-with-stranded-passengers-i-might-spend-rest-of-my-life-here"
+        },
+        {
+          "titulo": "FBI disrupts crypto theft scheme by North Korean hacking group; billions stolen so far",
+          "entradilla": "The FBI said the North Korean hacking group is targeting cryptocurrency executives, Web3 industries, as well as people involved in the development and maintenance of open-source software.",
+          "enlace": "https://www.latimes.com/california/story/2026-11-13/fbi-disrupts-crypto-theft-scheme-by-north-korean-hacking-group-billions-stolen-so-far"
+        },
+        {
+          "titulo": "Driver in suspected DUI crash that killed North Hollywood vendors charged with murder",
+          "entradilla": "Ihor Demianenko, 61, of Valley Village, was charged with murder on Friday for a suspected drunk driving crash that killed three food vendors outside a North Hollywood Metro station.",
+          "enlace": "https://www.latimes.com/california/story/2026-11-13/north-hollywood-dui-crash-suspect-murder-charge"
+        },
+        {
           "titulo": "Rain, dangerous surf and snow could hit Southern California. Here's where and when storms are expected",
           "entradilla": "A storm series that arrived Thursday night was expected to be the first of three storms rolling through Southern California.",
           "enlace": "https://www.latimes.com/california/story/2026-11-13/storm-series-brings-rain-dangerous-surf-snow-to-southern-california-heres-where-when"
-        },
-        {
-          "titulo": "Even business-friendly Vernon is souring on data centers",
-          "entradilla": "Just south of downtown L.A., the anti-data center pushback has reached Vernon, amidst pressure from LAUSD and neighbors over diesel pollution.",
-          "enlace": "https://www.latimes.com/environment/story/2026-11-13/vernon-shift-against-data-centers-pollution"
-        },
-        {
-          "titulo": "Fearmongering or fair warning? A fierce debate over how bad California's El Niño winter will get",
-          "entradilla": "Scientists are highly confident about the risk of coastal seawater flooding and beach erosion. But when it comes to predicting the power of winter storms, there is far less consensus.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-13/fierce-debate-over-how-bad-californias-el-nino-winter-will-be"
-        },
-        {
-          "titulo": "Arellano: Mexican ambassador says 'it's business as usual' after the midterms and Miller's promotion",
-          "entradilla": "Ambassador Roberto Lazzeri Montaño was confident but clear-eyed, knowing he needs to keep el Norte happy — but not at the expense of his patria.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-13/roberto-lazzeri-montano-mexican-ambassador-to-us"
-        },
-        {
-          "titulo": "Surf legend's girlfriend said he was killed in a robbery. Authorities now suspect her in his murder",
-          "entradilla": "Kurt Van Dyke, a legendary Santa Cruz surfer, was found dead with stab wounds and signs of asphyxiation in February.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-12/slain-surf-legends-girlfriend-arrested-in-his-murder"
-        },
-        {
-          "titulo": "Savannah Guthrie extends contract with NBC News",
-          "entradilla": "After a turbulent year on air, Savannah Guthrie extends her contract with NBC's \"Today\" show.",
-          "enlace": "https://www.latimes.com/entertainment-arts/business/story/2026-11-13/savannah-guthrie-extends-her-contract-with-nbc-news"
-        },
-        {
-          "titulo": "10 showstoppers to see beyond Endeavour at the new Samuel Oschin Air and Space Center",
-          "entradilla": "From the Endeavour in launch position and Mars rovers to a two-decker 747, the Samuel Oschin Air and Space Center is primed to blow your mind.",
-          "enlace": "https://www.latimes.com/entertainment-arts/story/2026-10-28/what-to-see-beyond-endeavour-at-samuel-oschin-air-and-space-center"
-        },
-        {
-          "titulo": "12 mind-blowing experiences for kids (and kids at heart) at new L.A. Air and Space Center",
-          "entradilla": "Fly a drone, operate a remote-controlled Mars rover, step into a digital space suit and take a space slide: There are interactive exhibits galore at the new Samuel Oschin Air and Space Center.",
-          "enlace": "https://www.latimes.com/entertainment-arts/story/2026-10-28/interactive-exhibits-samuel-oschin-air-and-space-center"
-        },
-        {
-          "titulo": "Column: Only one of these Oscar contenders is likely to land a best picture nom. Which will it be?",
-          "entradilla": "With the race starting to take shape, the 'crowd-pleaser' lane is crowded indeed. Will 'Club Kid,' 'I Play Rocky,' 'Being Heumann' or 'Mr. Irrelevant' end up in the final 10?",
-          "enlace": "https://www.latimes.com/entertainment-arts/awards/story/2026-11-13/oscars-best-picture-nominations-i-play-rocky-club-kid-being-heumann-mr-irrelevant"
-        },
-        {
-          "titulo": "UFC's Tommy McMillen says he's ready to fight days after apparent overdose",
-          "entradilla": "Tommy McMillen was found unresponsive at an Arizona nightclub early Sunday morning and taken to a hospital. Days later, the undefeated UFC featherweight indicated he was ready to fight.",
-          "enlace": "https://www.latimes.com/sports/story/2026-11-13/tommy-mcmillen-overdose-ufc-scottsdale-nightclub-unresponsive"
         }
       ],
       "analisis": {
-        "resumen": "- La FAA ordena detener en tierra todos los vuelos en Estados Unidos por seguridad.\n- El Tribunal Supremo decidirá sobre la prohibición de asilo de Trump en la frontera sur.\n- El sur de California espera una serie de tormentas; persiste el debate sobre la intensidad del invierno de El Niño.\n- Vernon muestra rechazo a los centros de datos por la contaminación; el embajador mexicano habla de la relación con Estados Unidos.\n- La portada incluye sucesos, televisión, cine, UFC y recomendaciones para visitar el nuevo centro aeroespacial de Los Ángeles.",
+        "resumen": "- La paralización nacional de vuelos dejó miles de pasajeros afectados; se investigan sus causas y se explican los derechos de los viajeros.\n- Los votantes aprobaron la Proposición 42, que prohíbe nuevos impuestos sobre bienes personales.\n- Se investiga si empleados del sheriff del condado de Orange avisaron a ICE antes de una detención.\n- La portada aborda la próxima reunión de Trump, Putin y Xi y la revisión judicial de la prohibición de asilo de Trump.\n- Otras noticias tratan sobre delitos, robo de criptomonedas y tormentas previstas en el sur de California.",
         "populismo": 25,
-        "motivo_populismo": "Algunos titulares recurren al dramatismo o la promoción, como «oleaje peligroso» y «experiencias alucinantes», pero no se aprecia una apelación al pueblo contra las élites ni un enfrentamiento populista.",
-        "sesgo": "La selección tiene un claro enfoque local en Los Ángeles y California, con atención también al entretenimiento y los sucesos. No se aprecia un sesgo político definido en el conjunto de los titulares."
+        "motivo_populismo": "Predomina el tono informativo, aunque expresiones como «caos sin precedentes» y la cita «podría pasar aquí el resto de mi vida» aportan dramatismo; no se aprecia una apelación al pueblo contra las élites.",
+        "sesgo": "La selección da especial protagonismo a los efectos de la interrupción aérea sobre los pasajeros y a noticias de California. No se aprecia un sesgo partidista claro en el conjunto de titulares."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://nypost.com",
       "noticias": [
         {
-          "titulo": "1 in 5 NYC transit riders say they can’t afford fares as MTA plans another hike",
-          "entradilla": "One in five New York City transit riders say they can’t afford the $3 subway and bus fare -- yet the MTA is planning to raise fares again in a few months.",
-          "enlace": "https://nypost.com/2026/11/13/us-news/1-in-5-nyc-transit-riders-say-they-cant-afford-fares-as-mta-plans-another-hike/"
+          "titulo": "‘Saved by the Bell’ star Tiffani Thiessen says she needs hip replacement at 52 after painful diagnosis",
+          "entradilla": "Thiessen claimed her flexibility as a child, which helped her to dance, might have caused her hip issues.",
+          "enlace": "https://pagesix.com/2026/11/14/celebrity-news/saved-by-the-bell-tiffani-thiessen-needs-hip-replacement-after-diagnosis/"
         },
         {
-          "titulo": "Jewish NYC health workers say Mamdani’s hostility to Israel lead to discrimination, retaliation: suit",
-          "entradilla": "The seven plaintiff employees also claimed the agency under Mayor Zohran Mamdani opened a retaliatory investigation into them when they used their internal email to publicly mourn Jews murdered at a Hanukah gathering in Australia last year, according to the bombshell 110-page complaint filed in Manh",
-          "enlace": "https://nypost.com/2026/11/13/us-news/jewish-nyc-health-workers-say-mamdanis-hostility-to-israel-lead-to-discrimination-retaliation-suit/"
+          "titulo": "‘Saved by the Bell’ star Tiffani Thiessen says she needs hip replacement at 52 after painful diagnosis",
+          "entradilla": "Thiessen claimed her flexibility as a child, which helped her to dance, might have caused her hip issues.",
+          "enlace": "https://pagesix.com/2026/11/14/celebrity-news/saved-by-the-bell-tiffani-thiessen-needs-hip-replacement-after-diagnosis/"
         },
         {
-          "titulo": "Heartbreaking new details emerge about food vendor killed in horror North Hollywood crash — as it’s revealed she fed the needy for free",
-          "entradilla": "Teodora Villalobos, 57, died after an out-of-control minivan driver barreled onto a sidewalk near the North Hollywood Metro station.",
-          "enlace": "https://nypost.com/2026/11/13/us-news/family-honors-north-hollywood-vendor-killed-in-crash/"
+          "titulo": "Dear Abby: Am I wrong to deny my sister-in-law the money my husband left for me?",
+          "entradilla": "Dear Abby advises a woman who doesn't want to give her sister-in-law some of the money her late husband left her.",
+          "enlace": "https://nypost.com/2026/11/14/lifestyle/dear-abby-am-i-wrong-to-deny-my-sister-in-law-the-money-my-husband-left-for-me/"
         },
         {
-          "titulo": "Christian McCaffrey’s wife proudly shows herself breastfeeding during 49ers game",
-          "entradilla": "San Francisco 49ers star running back Christian McCaffrey had his second child, a son named Roman, at the end of September. McCaffrey and his wife, Olivia Culpo, now have two children under 2; they welcomed their daughter, Colette, in summer 2025. Christian McCaffrey and Olivia Culpo posing with the",
-          "enlace": "https://nypost.com/2026/11/13/sports/christian-mccaffreys-wife-shares-breastfeeding-video-from-49ers-game/"
+          "titulo": "Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
+          "entradilla": "His victory means Democrats will control the governor’s office in 30 states.",
+          "enlace": "https://nypost.com/2026/11/14/us-news/jonathan-kreiss-tomkins-becomes-first-democrat-since-1998-elected-governor-in-alaska/"
         },
         {
-          "titulo": "Chinese billionaire refuses to invest in Nvidia ‘without Jensen’ after CEO quits over affairs scandal",
-          "entradilla": "A Chinese billionaire says he's ceasing his investments in Nvidia over the resignation of CEO Jensen Huang.",
-          "enlace": "https://nypost.com/2026/11/13/business/chinese-billionaire-refuses-to-invest-in-nvidia-without-jensen-after-ceo-quits-over-affairs-scandal/"
+          "titulo": "Sean Duffy urges college football teams to reach out to FAA as schools scramble to travel after nationwide ground stop",
+          "entradilla": "False starts and delayed touchdowns.",
+          "enlace": "https://nypost.com/2026/11/14/sports/college-football-teams-urged-to-reach-out-to-faa-scramble-to-travel-after-nationwide-ground-stop-game-time-changes/"
         },
         {
-          "titulo": "Charlotte Tilbury’s early Black Friday deals include red carpet beauty favorites",
-          "entradilla": "Plus, the early deals include BOGO on Matte Revolution lipsticks.",
-          "enlace": "https://pagesix.com/?post_type=article&p=9350389"
+          "titulo": "Ohio school investigating after 10th grade girl punched, put in chokehold by boy",
+          "entradilla": "The video, apparently filmed by another student on the bus, showed a boy repeatedly punching and kicking a girl.",
+          "enlace": "https://nypost.com/2026/11/14/us-news/ohio-school-investigating-after-viral-video-shows-10th-grade-girl-punched-put-in-chokehold-by-boy/"
         },
         {
-          "titulo": "Charlotte Tilbury’s early Black Friday deals include red carpet beauty favorites",
-          "entradilla": "Plus, the early deals include BOGO on Matte Revolution lipsticks.",
-          "enlace": "https://pagesix.com/2026/11/13/style/charlotte-tilburys-early-black-friday-deals-include-pillow-talk/"
+          "titulo": "Rep. Hakeem Jeffries gets rude awakening at Democratic convention as heckler erupts: ‘Traitor!’",
+          "entradilla": "\"You are a f--king liar,\" one protester yelled at the New York Democrat.",
+          "enlace": "https://nypost.com/2026/11/14/us-news/ny-rep-hakeem-jeffries-gets-rude-awakening-at-democratic-convention-as-heckler-erupts/"
         },
         {
-          "titulo": "Photos of Rex Ryan’s alleged hit-and-run victim’s injuries emerge",
-          "entradilla": "The woman who was allegedly struck by Rex Ryan's truck last week had what appeared to be scratches and black marks on her leg in the immediate aftermath of the incident.",
-          "enlace": "https://nypost.com/2026/11/13/sports/photos-of-rex-ryans-alleged-hit-and-run-victims-injuries-emerge/"
+          "titulo": "Sean Durzi’s return will likely wait until after Rangers break",
+          "entradilla": "Sidelined for his seventh straight game Friday night as the Rangers beat the Canucks 5-1, Durzi continued to skate with the Rangers that morning in a red noncontact jersey.",
+          "enlace": "https://nypost.com/2026/11/14/sports/sean-durzis-return-will-likely-wait-until-after-rangers-break/"
         },
         {
-          "titulo": "Unauthorized drones at UK air force base prompt security response just weeks after Iran-linked plot against US planes",
-          "entradilla": "The US military is taking “all measures” to keep base installations, aircraft and service members safe, a spokesperson for US European Command said.",
-          "enlace": "https://nypost.com/2026/11/13/world-news/unauthorized-drones-at-uk-air-force-base-prompt-security-response-just-weeks-after-iran-linked-plot-against-us-planes/"
+          "titulo": "Journey drummer Deen Castronovo steps away from band over ‘personal health matters’",
+          "entradilla": "Castronovo was hospitalized after suffering a medical emergency in Tulsa, Okla., and was forced to leave the stage again in Boston Tuesday.",
+          "enlace": "https://pagesix.com/2026/11/14/entertainment/journey-drummer-deen-castronovo-steps-away-from-band-over-personal-health-matters/"
         },
         {
-          "titulo": "Stream It Or Skip It: ‘Murder In Galicia’ On Netflix, Where A Cop Investigates A Case Where Nothing Adds Up",
-          "entradilla": "Tristan Ulloa, Verónica Sánchez, and Miguel Borines star in the limited series, which is based on a real-life case in 2015.",
-          "enlace": "https://decider.com/2026/11/13/murder-in-galicia-netflix-review/"
+          "titulo": "Journey drummer Deen Castronovo steps away from band over ‘personal health matters’",
+          "entradilla": "Castronovo was hospitalized after suffering a medical emergency in Tulsa, Okla., and was forced to leave the stage again in Boston Tuesday.",
+          "enlace": "https://pagesix.com/2026/11/14/entertainment/journey-drummer-deen-castronovo-steps-away-from-band-over-personal-health-matters/"
         },
         {
-          "titulo": "Roseanne Barr’s ex Tom Arnold, 67, admits he hasn’t had sex in 10 years — because he thinks women his own age are ‘disgusting’",
-          "entradilla": "The \"True Lies\" actor and comedian exclusively opened up about his love life with Page Six, sharing that he is changing his opinions and is now willing to date a woman his age.",
-          "enlace": "https://pagesix.com/2026/11/13/celebrity-news/roseanne-barrs-ex-tom-arnold-67-admits-he-hasnt-had-sex-in-10-years-because-he-thinks-women-his-own-age-are-disgusting/"
+          "titulo": "Dems launch sexual harassment probe against newly elected Brian Poindexter — who ousted GOP Rep. Max Miller",
+          "entradilla": "The allegations against Poindexter, 47, were leveled by a campaign worker, Politico reported on Friday.",
+          "enlace": "https://nypost.com/2026/11/14/us-news/dems-launch-sexual-harassment-probe-against-newly-elected-brian-poindexter-who-ousted-gop-rep-max-miller/"
         },
         {
-          "titulo": "Roseanne Barr’s ex Tom Arnold, 67, admits he hasn’t had sex in 10 years — because he thinks women his own age are ‘disgusting’",
-          "entradilla": "The \"True Lies\" actor and comedian exclusively opened up about his love life with Page Six, sharing that he is changing his opinions and is now willing to date a woman his age.",
-          "enlace": "https://pagesix.com/2026/11/13/celebrity-news/roseanne-barrs-ex-tom-arnold-67-admits-he-hasnt-had-sex-in-10-years-because-he-thinks-women-his-own-age-are-disgusting/"
+          "titulo": "UCLA endures injury scare, gets heroic return to stay unbeaten",
+          "entradilla": "After taking a shot in the arm, Ty Dieffenbach delivered one.",
+          "enlace": "https://nypost.com/2026/11/14/sports/ucla-withstands-injury-and-plenty-of-drama-to-stay-unbeaten/"
         }
       ],
       "analisis": {
-        "resumen": "- Uno de cada cinco usuarios del transporte de Nueva York dice no poder pagar la tarifa, mientras se prepara otra subida.\n- Una demanda de trabajadores sanitarios judíos denuncia discriminación y represalias y las vincula con la postura del alcalde hacia Israel.\n- Una vendedora de comida murió tras ser atropellada en North Hollywood; la noticia destaca que alimentaba gratis a personas necesitadas.\n- Drones no autorizados provocaron una respuesta de seguridad en una base aérea británica; otra noticia informa de lesiones atribuidas a un presunto atropello por Rex Ryan.\n- La portada incluye noticias de famosos, una recomendación de una serie y ofertas de cosméticos.",
-        "populismo": 45,
-        "motivo_populismo": "Expresiones como «heartbreaking», «horror» y «bombshell» recurren al dramatismo y al sensacionalismo, aunque no hay una apelación explícita al pueblo contra las élites.",
-        "sesgo": "La selección combina problemas locales y acusaciones políticas con sucesos, celebridades y consumo. La redacción de varios titulares privilegia el impacto emocional y los detalles llamativos."
+        "resumen": "- Tiffani Thiessen afirma que necesita un reemplazo de cadera tras un diagnóstico doloroso.\n- Un demócrata gana la gobernación de Alaska; otras noticias políticas abordan una investigación por acoso y una protesta contra Hakeem Jeffries.\n- Una escuela de Ohio investiga la agresión de un alumno a una alumna en un autobús.\n- La portada recoge noticias deportivas sobre UCLA, los Rangers y los problemas de viaje de equipos universitarios.\n- El batería de Journey se aparta por motivos de salud y un consultorio aborda una disputa familiar por una herencia.",
+        "populismo": 30,
+        "motivo_populismo": "Expresiones como «rude awakening», «heckler erupts» y «heroic return» aportan dramatismo, aunque no se aprecia una apelación sostenida al pueblo contra las élites.",
+        "sesgo": "La selección favorece sucesos, celebridades y conflictos, con un enfoque de interés humano y cierta dramatización. No se aprecia un sesgo político concluyente en el conjunto presentado."
       }
     }
   ]

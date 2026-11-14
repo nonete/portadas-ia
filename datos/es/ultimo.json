@@ -1,39 +1,39 @@
 {
   "pais": "España",
-  "fecha": "2026-11-13",
-  "turno": 18,
-  "generado": "13/11/2026 22:49",
+  "fecha": "2026-11-14",
+  "turno": 8,
+  "generado": "14/11/2026 09:26",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "Se repiten el arranque de la campaña del 29-N, las perspectivas electorales y las intervenciones de los candidatos, incluidas sus entrevistas con Jordi Wild. También aparecen en varias portadas la investigación sobre la compra del ático de la Comunidad de Madrid y la suspensión de vuelos en Estados Unidos. Otros asuntos compartidos son la colisión de un buque con un crucero y la sanción al portero Owono. Solo El País destaca los premios de Rosalía en los Latin Grammy.",
-    "crispacion": 70,
-    "motivo_crispacion": "La campaña concentra enfrentamientos entre partidos, con acusaciones y mensajes polarizadores, como la descalificación de Sánchez como dictador y el choque entre Martín Caparrós y una portavoz de Vox. La investigación sobre el ático de la Comunidad de Madrid y la denuncia del PSOE contra el PP y otras partes añaden tensión institucional y judicial. La cobertura también incluye la huelga general y cuestiones de corrupción. Compensan parcialmente estas noticias otras sobre cultura, tecnología, recetas y vida cotidiana."
+    "temas": "El asunto más repetido es la suspensión del tráfico aéreo en Estados Unidos. También destacan la campaña electoral española, las estrategias y posibles pactos de los partidos, y las informaciones sobre investigaciones y presuntas irregularidades políticas. Solo Público destaca la caída global de Microsoft y la dependencia de las grandes tecnológicas.",
+    "crispacion": 68,
+    "motivo_crispacion": "La campaña electoral concentra buena parte de la tensión, con competencia entre partidos, posibles pactos y debates sobre inmigración, sanidad y derechos. Las informaciones sobre presunta corrupción y actuaciones judiciales alimentan el enfrentamiento político, con titulares y expresiones especialmente polarizadores en algunas portadas. También aparecen protestas sindicales en el sector ferroviario y reivindicaciones por la vivienda. Frente a ello, las noticias sobre la incidencia aérea, cultura, ciencia y asuntos cotidianos aportan contenidos menos conflictivos."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "La campaña arranca con la derecha fuerte y con una propuesta que me parece reveladora: retirar el Ingreso Mínimo Vital a inmigrantes residentes que no trabajan. No combate la pobreza; selecciona a quién se abandona. Dividir a la clase trabajadora por su origen beneficia a quienes prefieren que disputemos las migajas antes que cuestionar la concentración de la riqueza.\n\nLa caída global de servicios de Microsoft también invita a preguntarse por nuestra dependencia de infraestructuras digitales privadas. No conozco todas las causas del fallo, pero sí defiendo que herramientas esenciales estén bajo control público y democrático, no subordinadas al beneficio de unas pocas empresas.\n\nFrente al gran capital, quiero pensiones dignas, sanidad pública y propiedad colectiva de los sectores estratégicos. La seguridad de la mayoría no se construye recortando derechos, sino repartiendo poder y riqueza."
+      "texto": "Veo una misma pregunta detrás de varias noticias: ¿quién decide sobre los recursos de los que dependemos y en beneficio de quién? La suspensión del tráfico aéreo en Estados Unidos muestra la importancia de mantener infraestructuras públicas fiables. Modernizarlas exige inversión sostenida y control democrático, no dejar servicios esenciales a merced de la rentabilidad privada.\n\nEn España, que muchos salarios sigan siendo bajos pese a las subidas del salario mínimo me parece una razón para fortalecer la negociación colectiva y ampliar la propiedad social, de modo que quienes producen la riqueza también decidan cómo se reparte. Las protestas sindicales en Renfe y Adif recuerdan que los trabajadores deben tener voz en los servicios públicos.\n\nFrente a la propuesta de Vox de revisar nacionalidades y gravar remesas, defiendo una clase trabajadora unida: sus derechos no pueden depender del origen."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "La caída de los servicios de Microsoft y la suspensión de despegues en Estados Unidos me recuerdan hasta qué punto dependemos de sistemas concentrados. No sé cómo se habrían evitado esos fallos, pero sí creo que necesitamos infraestructuras más transparentes, diversas y controladas por quienes las usan y las mantienen. La seguridad exige coordinación; no exige obediencia ciega a una jerarquía.\n\nMientras los partidos disputan escaños, el PP propone retirar el Ingreso Mínimo Vital a inmigrantes residentes que no trabajen. Rechazo que se condicione la dignidad al origen o al empleo: la necesidad no pide pasaporte. Frente a esa política de exclusión, defiendo redes de apoyo mutuo abiertas a todas las personas y espacios de decisión desde abajo. No espero que ningún Gobierno nos regale la libertad: quiero construirla con otros, sin renunciar a la autonomía de nadie."
+      "texto": "El colapso aéreo en Estados Unidos muestra lo vulnerables que somos cuando sistemas esenciales dependen de estructuras opacas y concentradas. Modernizarlos es necesario, pero no basta con entregar más dinero a quienes deciden desde arriba: quienes trabajan en ellos y quienes los utilizan deberían participar en su control, con información accesible y responsabilidades compartidas.\n\nMientras los partidos convierten la campaña en una disputa por el voto útil, yo prefiero preguntarme qué poder conservaremos después de votar. La lucha por la vivienda apunta a otra posibilidad: organizarnos desde abajo, apoyarnos mutuamente y decidir sobre nuestras vidas sin delegarlo todo en gobiernos o propietarios.\n\nPor eso también rechazo la pretensión de Vox de revisar la ciudadanía de españoles de origen marroquí: la libertad no puede depender de que el Estado considere aceptable nuestro origen."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "Me preocupa que la campaña convierta los impuestos en una promesa aplazada y el gasto en una competición sin factura. Si las cuentas públicas dificultan bajar impuestos, como advierte Feijóo, la respuesta debería ser revisar el gasto y explicar qué se va a eliminar, no renunciar a que las familias y las empresas dispongan de más de lo que ganan. Un Estado limitado, que deje espacio a la iniciativa privada, favorece la inversión y la libertad de elegir.\n\nTambién creo que las ayudas deben proteger a quien las necesita sin castigar el trabajo ni establecer discriminaciones por origen. La responsabilidad personal importa, pero también la igualdad ante la ley. Y cuando el Tribunal de Cuentas detecta indicios de uso indebido de fondos, corresponde investigar a fondo, sin anticipar culpabilidades: cada euro público exige rendición de cuentas."
+      "texto": "Me preocupa que la subida del salario mínimo conviva con tantos sueldos bajos. Yo no creo que decretar salarios baste para crear prosperidad: hacen falta inversión, productividad y empresas capaces de competir. Prefiero impuestos más bajos y menos trabas para contratar y emprender, junto con trabajadores y empresarios que asuman sus responsabilidades.\n\nTambién rechazo la propuesta de Vox de revisar la nacionalidad de cientos de miles de españoles de origen marroquí y gravar las remesas. La ciudadanía no debería quedar bajo sospecha por el origen, ni el Estado castigar a quien ayuda a su familia con su dinero. El fallo del control aéreo estadounidense recuerda, además, que un Estado limitado no es un Estado indiferente: debe cumplir bien sus funciones esenciales, rendir cuentas y gastar con eficacia, en lugar de convertir cada problema en una excusa para crecer."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Veo en esta campaña una oportunidad para reclamar algo elemental: que España vuelva a decidir por sí misma. Que nuestro país quede fuera del equipo europeo de negociación con Rusia debería obligarnos a exigir una política exterior que defienda con firmeza nuestros intereses, en lugar de aceptar que otros hablen por nosotros.\n\nTambién quiero un control estricto de la inmigración y unas ayudas públicas que den prioridad a los españoles necesitados. La solidaridad exige reglas y una comunidad capaz de sostenerlas. Defender nuestras fronteras, nuestras tradiciones y la seguridad no debería ser motivo de vergüenza.\n\nY desconfío de quienes piden confianza mientras administran dinero ajeno sin suficiente transparencia. Los indicios señalados por el Tribunal de Cuentas sobre el ático de Madrid deben investigarse a fondo, sin prejuzgar responsabilidades. Ninguna sigla merece un cheque en blanco."
+      "texto": "Yo no quiero que esta campaña se reduzca a una competición de consignas sobre el voto útil. Quiero saber quién está dispuesto a defender la soberanía de España, controlar estrictamente sus fronteras y exigir que la nacionalidad se conceda con rigor. Si existen sospechas de fraude, deben investigarse caso por caso, con pruebas y garantías; la ciudadanía no puede convertirse en una etiqueta que se retira por el origen de una persona.\n\nTambién me preocupa que Vox modere sus compromisos en asuntos como el aborto o las autonomías para facilitar acuerdos. Un partido conservador debe explicar qué principios está dispuesto a defender y cuáles considera negociables. Mientras tanto, las élites políticas se disputan escaños y muchos trabajadores siguen viendo cómo sus salarios apenas mejoran. Yo exijo menos cálculos electorales y más lealtad a la nación y a sus tradiciones."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Me preocupa que la campaña convierta la protección social en una competición de exclusiones. El Ingreso Mínimo Vital debe evaluarse y mejorarse, también para favorecer el empleo, pero retirarlo a inmigrantes residentes por no trabajar puede castigar precisamente a quienes más necesitan apoyo para encontrarlo. La responsabilidad fiscal importa: prometer rebajas de impuestos sin cuentas creíbles sería tan imprudente como comprometer gastos sin financiación.\n\nTambién espero que la investigación del Tribunal de Cuentas sobre el ático de la Comunidad de Madrid siga su curso con transparencia y sin condenas anticipadas. Defender las instituciones exige dejar que investiguen, no usarlas como armas partidistas.\n\nLa suspensión de vuelos en Estados Unidos y la caída de servicios de Microsoft recuerdan, además, nuestra dependencia de sistemas complejos. Yo apostaría por cooperación entre autoridades y empresas para reforzar su resiliencia. Mercado y Estado funcionan mejor cuando comparten responsabilidades."
+      "texto": "La suspensión del tráfico aéreo en Estados Unidos me recuerda que las instituciones también se defienden invirtiendo en su capacidad de funcionar. Modernizar sistemas esenciales exige recursos, pero también planes verificables, supervisión y rendición de cuentas: aprobar una cifra no basta para garantizar mejores servicios.\n\nEn España, me preocupa la propuesta de Vox de revisar la nacionalidad de españoles de origen marroquí. Si hay indicios de fraude, deben examinarse individualmente y con garantías, no bajo una sospecha colectiva basada en el origen. La igualdad ante la ley no debería depender de la campaña electoral.\n\nTambién creo que subir el salario mínimo puede proteger a quienes menos cobran, pero no sustituye una estrategia para mejorar la productividad y los salarios en general. Prefiero reformas graduales, acordadas con empresas y trabajadores, que combinen oportunidades de mercado con protección social."
     }
   ],
   "periodicos": [
@@ -42,71 +42,71 @@
       "web": "https://elpais.com",
       "noticias": [
         {
-          "titulo": "La FAA ordena una suspensión nacional de los vuelos debido a “circunstancias extraordinarias y motivos de seguridad”",
-          "entradilla": "El secretario de Transporte de EE UU informa de que la paralización se debe a un “problema de comunicación que afecta a todos los centros de control de tráfico aéreo”",
-          "enlace": "https://elpais.com/us/2026-11-13/la-faa-ordena-una-suspension-nacional-de-los-vuelos-debido-a-circunstancias-extraordinarias-y-motivos-de-seguridad.html"
+          "titulo": "Estados Unidos reanuda el tráfico aéreo después de un parón de más de cuatro horas y 6.000 vuelos cancelados",
+          "entradilla": "Problemas en el sistema informático que gestiona las comunicaciones provocaron la suspensión. Hay cientos de miles de personas afectadas por las cancelaciones y retrasos de sus viajes",
+          "enlace": "https://elpais.com/us/2026-11-14/estados-unidos-reanuda-el-trafico-aereo-despues-de-un-paron-de-mas-de-cuatro-horas-y-6000-vuelos-cancelados.html"
         },
         {
-          "titulo": "Los servicios de Microsoft retoman la normalidad tras una caída global de más de 18 horas",
-          "entradilla": "La compañía pide disculpas por el “problema técnico” y descarta que haya un ciberataque o agentes de IA detrás de los fallos que han tumbado el correo electrónico Outlook, la plataforma Teams o Copilot. No se han notificado incidencias reseñables en España",
-          "enlace": "https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-servicios-tras-una-caida-global-de-mas-de-12-horas.html"
+          "titulo": "“Los parches no funcionan”: el Gobierno de EE UU culpa al “anticuado” sistema de control aéreo por la suspensión de vuelos",
+          "entradilla": "El secretario de Transporte, Sean Duffy, ha exigido al Congreso al menos 30.000 millones de dólares para actualizar los mecanismos actuales: “Es una cuestión de seguridad nacional”",
+          "enlace": "https://elpais.com/us/2026-11-14/los-parches-no-funcionan-el-gobierno-de-ee-uu-culpa-al-anticuado-sistema-de-control-aereo-por-la-suspension-de-vuelos.html"
         },
         {
-          "titulo": "La campaña arranca con la derecha en el horizonte de los 190 escaños",
-          "entradilla": "El primero de los ‘trackings’ diarios de 40dB. para EL PAÍS y la SER confirma la fortaleza de Vox, cuyo líder compite en popularidad con el del PP",
-          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-13/la-campana-arranca-con-la-derecha-en-el-horizonte-de-los-190-escanos.html"
+          "titulo": "Caos en los aeropuertos de EE UU por la suspensión de vuelos: “Nadie va a ir a ninguna parte”",
+          "entradilla": "Miles de pasajeros en todo el país se quedaron varados en espera de información oficial sobre la reprogramación de sus vuelos",
+          "enlace": "https://elpais.com/us/2026-11-14/caos-en-los-aeropuertos-de-ee-uu-por-la-suspension-de-vuelos-nadie-va-a-ir-a-ninguna-parte.html"
         },
         {
-          "titulo": "Feijóo enfría las bajadas de impuestos por el estado de las cuentas públicas: “No me creo los datos”",
-          "entradilla": "El líder del PP anuncia su intención de suprimir el Ingreso Mínimo Vital a los inmigrantes que residen en España si no trabajan",
-          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-13/feijoo-pone-en-duda-que-pueda-bajar-los-impuestos-por-el-estado-de-las-cuentas-publicas-no-me-creo-los-datos.html"
+          "titulo": "El PSOE pelea las elecciones en 18 provincias que tiene identificadas como prioritarias",
+          "entradilla": "Los socialistas aspiran a lograr casi una veintena de escaños en juego apelando al voto útil y por el tirón de Vox en detrimento del PP",
+          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-14/el-psoe-pelea-las-elecciones-en-18-provincias-que-tiene-identificadas-como-prioritarias.html"
         },
         {
-          "titulo": "Las seis horas de Jordi Wild con Sánchez, Feijóo, Colau (y el Fary) en su casa: “Esto es una vez en la vida”",
-          "entradilla": "La líder del Frente Amplio se lleva la conversación más larga, el presidente del PP habla otra vez de su foto con el narco y su mal inglés; y Sánchez: “Pongo la mano en el fuego por José Luis [Rodríguez Zapatero]”",
-          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-13/las-seis-horas-de-jordi-wild-con-sanchez-feijoo-colau-y-el-fary-en-su-casa-esto-es-una-vez-en-la-vida.html"
+          "titulo": "La diferencia entre PP y PSOE se estrecha, según el ‘tracking’ diario de 40dB.",
+          "entradilla": "Colau gana enteros entre los suyos mientras la campaña anima la participación",
+          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-14/la-diferencia-entre-pp-y-psoe-se-estrecha-segun-el-tracking-diario-de-40db.html"
         },
         {
-          "titulo": "Sánchez insta a una participación del 75% el 29-N para reeditar un Gobierno progresista que llegue “más lejos y antes en las conquistas sociales”",
-          "entradilla": "El presidente ironiza con que Abascal le llame dictador y al mismo tiempo diga que no tiene una opinión formada para no pronunciarse sobre Franco",
-          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-13/sanchez-insta-a-una-participacion-del-75-el-29-n-para-reeditar-un-gobierno-progresista-que-llegue-mas-lejos-y-antes-en-las-conquistas-sociales.html"
+          "titulo": "Vox quiere revisar la nacionalización de 300.000 españoles de origen marroquí",
+          "entradilla": "El partido ultra considera su ciudadanía “fraudulenta” y quiere gravar con impuestos las remesas que los inmigrantes envían a sus familias como hace Trump",
+          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-14/vox-considera-fraudulenta-la-nacionalizacion-de-mas-de-300000-espanoles-originarios-de-marruecos.html"
         },
         {
-          "titulo": "El Tribunal de Cuentas aprecia indicios de indebido uso de fondos en la compra del ático de la Comunidad de Madrid",
-          "entradilla": "La denuncia supera el primer filtro y pasará a una investigación a fondo",
-          "enlace": "https://elpais.com/espana/madrid/2026-11-13/el-tribunal-de-cuentas-aprecia-indicios-de-indebido-uso-de-fondos-en-la-compra-del-atico-de-la-comunidad-de-madrid-y-nombra-un-instructor.html"
+          "titulo": "Las elecciones miden el techo de la derecha en Andalucía y la fortaleza del PSOE en su bastión de Sevilla",
+          "entradilla": "La movilización y el voto útil serán determinantes para decantar los equilibrios de bloques, en un territorio donde irrumpe Adelante y Frente Amplio no obtiene representación",
+          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-14/las-elecciones-miden-el-techo-de-la-derecha-en-andalucia-y-la-fortaleza-del-psoe-en-su-bastion-de-sevilla.html"
         },
         {
-          "titulo": "Tensión entre Martín Caparrós y una portavoz de Vox en un acto sobre la ELA en el Congreso: “No sabía que venían xenófobos, no habría venido”",
-          "entradilla": "El escritor argentino ha interrumpido a María Ruiz, de la ejecutiva del partido ultraderechista, al hacer referencia a la prioridad nacional en un evento sobre la Ley ELA",
-          "enlace": "https://elpais.com/sociedad/2026-11-13/tension-entre-martin-caparros-y-una-portavoz-de-vox-en-un-acto-sobre-la-ela-en-el-congreso-no-sabia-que-venian-xenofobos-no-habria-venido.html"
+          "titulo": "El fulgor de Nvidia se oscurece sin su rey Midas: así es el tortuoso camino que le espera a la empresa clave para la IA",
+          "entradilla": "La salida de Jensen Huang, envuelto en un escándalo de infidelidades y un supuesto espionaje, abre un futuro incierto en el fabricante de chips y tendrá consecuencias en toda la industria de la inteligencia artificial",
+          "enlace": "https://elpais.com/economia/negocios/2026-11-14/el-fulgor-de-nvidia-se-oscurece-sin-su-rey-midas.html"
         },
         {
-          "titulo": "Ramoncín: “Tener hijos es una preocupación constante y lo más importante es darles una capacidad intelectual fuerte”",
-          "entradilla": "En el séptimo episodio de esta temporada de ‘Tercer Acto’, el cantante habla de aprovechar el tiempo, la educación de los hijos, su amor por la música, la polémica de la SGAE que marcó su vida y cómo proteger la cultura",
-          "enlace": "https://elpais.com/eps/2026-11-13/ramoncin-mi-mayor-miedo-es-que-se-pierdan-derechos-adquiridos.html"
+          "titulo": "Kyle Eastwood, hijo de Clint Eastwood: “Mi padre ha interpretado a muchos tipos duros, pero no es tan duro como parece”",
+          "entradilla": "El contrabajista actuará en el Festival Internacional de Jazz de Madrid, donde interpretará las bandas sonoras de las películas de su progenitor. “Ahora mismo la política es una cosa deprimente”, asegura el músico",
+          "enlace": "https://elpais.com/cultura/2026-11-14/kyle-eastwood-hijo-de-clint-eastwood-mi-padre-ha-interpretado-a-muchos-tipos-duros-pero-no-es-tan-duro-como-parece.html"
         },
         {
-          "titulo": "Rosalía, reina de los Latin Grammy: gana el premio a disco del año por ‘Lux’ y a canción del año por ‘La Perla’",
-          "entradilla": "La cantante catalana inauguró la gala y se llevó cinco de los siete galardones a los que optaba. El argentino Milo J. logró cuatro, entre ellos, el de mejor grabación del año por ‘Niño’. Karol G recogió el de mejor álbum de música urbana por ‘Tropicoqueta’",
-          "enlace": "https://elpais.com/us/entretenimiento/2026-11-13/rosalia-reina-de-los-latin-grammy-gana-el-premio-a-disco-del-ano-por-lux-y-a-cancion-del-ano-por-la-perla.html"
+          "titulo": "Diez obras maestras escritas por Rafael Azcona: de ‘El pisito’, ‘Plácido’ y ‘El verdugo’ a ‘El bosque animado’ y ‘Belle époque’",
+          "entradilla": "El guionista de guionistas trabajó con los mejores directores italianos y españoles, como Luis García Berlanga, Marco Ferreri, Carlos Saura, Fernando Trueba, José Luis García Sánchez o José Luis Cuerda",
+          "enlace": "https://elpais.com/babelia/2026-11-14/diez-obras-maestras-escritas-por-rafael-azcona-de-el-pisito-placido-y-el-verdugo-a-el-bosque-animado-y-belle-epoque.html"
         },
         {
-          "titulo": "Todos los ‘looks’ de la alfombra roja de los Latin Grammy 2026",
-          "entradilla": "Los 27º premios de la Academia Latina de la Grabación se celebran en el MGM Grand Garden Arena de Las Vegas. Repasamos los estilismos de la noche, de una Rosalía angelical vestida de Matières Fécales al vestido con estampado de serpiente de Bad Gyal creado por Salih Balta",
-          "enlace": "https://elpais.com/smoda/moda/2026-11-12/todos-los-looks-de-la-alfombra-roja-de-los-latin-grammy.html"
+          "titulo": "Marian Dacal, la voz de ‘Flying Free’: “Lo máximo que cobraba eran 300 euros. Las ganancias de mi carrera habían sido casi nulas”",
+          "entradilla": "27 años después de su grabación, ‘Flying Free’ sigue siendo un himno intergeneracional. El estreno de un documental sobre la historia de la canción nos permite recuperar la trayectoria de Marian Dacal, la mujer que puso voz y letra a un fenómeno que acabó superando todas las expectativas. Hablamos c",
+          "enlace": "https://elpais.com/smoda/2026-11-14/marian-dacal-la-voz-de-flying-free-lo-maximo-cobraba-eran-300-euros-las-ganancias-de-mi-carrera-habian-sido-casi-nulas.html"
         },
         {
-          "titulo": "Las memorias de Nacho Duato desencadenado: entre el novio que dejó por ver una película de Torrente y el lado duro de la vida",
-          "entradilla": "El coreógrafo inicia en su ciudad natal, Valencia, la promoción del libro ‘Habla como un hombre’ escrito con su amiga de la infancia y poeta, Lupe Bohorques",
-          "enlace": "https://elpais.com/cultura/2026-11-13/las-memorias-de-nacho-duato-desencadenado-entre-el-novio-que-dejo-por-ver-una-pelicula-de-torrente-y-el-lado-duro-de-la-vida.html"
+          "titulo": "Dentro de la grabación del disco sinfónico de Pablo Alborán: “Ahora entiendo canciones que escribí con 12 años”",
+          "entradilla": "El malagueño se ha ido a los míticos estudios de Abbey Road para grabar, junto con la Orquesta Sinfónica de Londres, una veintena de sus grandes éxitos. Es también un regalo a sí mismo",
+          "enlace": "https://elpais.com/eps/2026-11-14/dentro-de-la-grabacion-del-disco-sinfonico-de-pablo-alboran-ahora-entiendo-canciones-que-escribi-con-12-anos.html"
         }
       ],
       "analisis": {
-        "resumen": "- Una suspensión nacional de vuelos en EE UU se atribuye a un problema de comunicación entre centros de control; Microsoft recupera sus servicios tras una caída global.\n- La campaña electoral arranca con la derecha cerca de los 190 escaños según un sondeo y con Vox fortalecido.\n- Feijóo modera sus propuestas fiscales y plantea retirar el Ingreso Mínimo Vital a inmigrantes residentes que no trabajen; Sánchez llama a movilizar el voto progresista.\n- El Tribunal de Cuentas investigará indicios de uso indebido de fondos en la compra de un ático de la Comunidad de Madrid. Un acto sobre la ELA registra una discusión entre Martín Caparrós y una portavoz de Vox.\n- La portada incluye entrevistas políticas y culturales, el triunfo de Rosalía en los Latin Grammy y las memorias de Nacho Duato.",
-        "populismo": 20,
-        "motivo_populismo": "Predomina un lenguaje informativo, aunque expresiones como «tensión», la descalificación citada «xenófobos» y el tono celebratorio de «reina de los Latin Grammy» aportan dramatización.",
-        "sesgo": "La selección dedica amplio espacio a la campaña y presta especial atención a Vox, las propuestas de Feijóo y la investigación sobre fondos de la Comunidad de Madrid. También recoge la llamada de Sánchez a formar un Gobierno progresista, sin que ello baste por sí solo para atribuir una orientación editorial concluyente."
+        "resumen": "- EE UU reanuda los vuelos tras un fallo informático que causó miles de cancelaciones; el Gobierno reclama fondos para modernizar el sistema.\n- La campaña electoral centra varias noticias: se estrecha la diferencia entre PP y PSOE y se analizan las provincias prioritarias y la pugna en Andalucía.\n- Vox plantea revisar la nacionalización de 300.000 españoles de origen marroquí y gravar las remesas de inmigrantes.\n- La portada aborda la incertidumbre sobre Nvidia tras la salida de Jensen Huang.\n- En cultura destacan entrevistas y noticias sobre Kyle Eastwood, Rafael Azcona, Marian Dacal y Pablo Alborán.",
+        "populismo": 30,
+        "motivo_populismo": "Predomina la información, aunque expresiones como «caos», «rey Midas» y «tortuoso camino» aportan dramatización y sensacionalismo; no destaca una apelación al pueblo contra las élites.",
+        "sesgo": "La selección da especial peso a la incidencia aérea en EE UU y a la campaña electoral española. En política, destaca el enfoque en la competición entre bloques y la descripción de Vox como «partido ultra»."
       }
     },
     {
@@ -114,71 +114,71 @@
       "web": "https://www.elmundo.es",
       "noticias": [
         {
-          "titulo": "La izquierda no encuentra revulsivo y PP y Vox crecen en votos hasta el 50,7% tras la huelga general",
-          "entradilla": "La campaña se mueve poco en su arranque, pese a que la movilización para el 29-N apunta a ser masiva y se prevé ya en el 76,9% Leer",
-          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af73a35fdddffb36c8b45a0.html"
+          "titulo": "Sánchez favoreció la reactivación de la trama corrupta en el PSOE",
+          "entradilla": "Su cita de 35 minutos en 2023 con el detenido Corvillo apunta al presidente del Gobierno, cada vez más vinculado a los manejos del grupo Leer",
+          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af7793ffdddffc5748b45ba.html"
         },
         {
-          "titulo": "Sánchez fija en el 75% el umbral de participación el 29-N para tener alguna opción de poder gobernar",
-          "entradilla": "El candidato socialista hace parada en La Rioja por la necesidad de movilizar a los suyos ante la lucha con el PP por el cuarto escaño que reparte esta comunidad Leer",
-          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af7458dfc6c83f4658b4575.html"
+          "titulo": "Últimos fusibles de Sánchez",
+          "entradilla": "Que España haya dejado de funcionar es el legado del primer presidente que completa una legislatura sin presupuestos Leer",
+          "enlace": "https://www.elmundo.es/espana/2026/11/14/6af75bf0fc6c837f278b4595.html"
         },
         {
-          "titulo": "El Gobierno inicia el camino para revalorizar las pensiones en el primer día de campaña electoral",
-          "entradilla": "Elma Saiz, portavoz del Ejecutivo y ministra para la Seguridad Social, anticipa que estas retribuciones \"subirán en una horquilla entre el 3% y el 4%\". Leer",
-          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af6fb2121efa0c94b8b457a.html"
+          "titulo": "Vox también se quiere parecer al PP: modera sus metas en aborto, eutanasia, autonomías y LGTBI",
+          "entradilla": "Arranca la campaña en Colón agitando una \"bandera unitaria\" y con Abascal arropado por una decena de líderes internacionales: Meloni, Le Pen, Orban, Milei, Bolsonaro... Leer",
+          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af72340e4d4d8ce338b459d.html"
         },
         {
-          "titulo": "Estados Unidos ordena suspender los vuelos en todo el país por razones de seguridad",
-          "entradilla": "Ningún avión puede despegar y el ministro de Transporte habla de \"un problema de comunicación que afecta a todos los Centros de Control de Tráfico Aéreo de Rutas Aéreas\" Leer",
+          "titulo": "El Pedro Sánchez que votará a Feijóo: \"Estos socialistas no son de fiar\"",
+          "entradilla": "No lleva mal la coincidencia de su nombre con el del líder socialista, aunque ideológicamente está en las antípodas. Si se va de vacaciones deja un cartel en el bar que regenta: \"Cerrado del 17 al 30 para pensar; también me llamo Pedro Sánchez\" Leer",
+          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af7462ffdddff31748b456e.html"
+        },
+        {
+          "titulo": "El otro Alberto Feijóo no sabe a quién votar: \"Lo decidiré a última hora\"",
+          "entradilla": "Lo encontramos buscando su nombre al azar en redes sociales y resulta que, aunque no conoce al líder del PP, sus abuelos eran hermanos y ellos, por tanto, primos segundos Leer",
+          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af746efe9cf4a53428b459a.html"
+        },
+        {
+          "titulo": "El puesto europeo de mayor poder en la historia de España: la semana clave para que Hernández de Cos sea presidente del BCE",
+          "entradilla": "El próximo miércoles es el día límite para presentar todas las candidaturas a la cúpula del organismo, y tras eso se desencadenará el proceso de renovación. El sello final se pondrá en la cumbre de finales de mes, pero la decisión se tomará antes Leer",
+          "enlace": "https://www.elmundo.es/economia/2026/11/13/6af7302721efa0dc708b4598.html"
+        },
+        {
+          "titulo": "En busca del chivo: tensión en la administración Trump  por la crisis de Nvidia y la exportación de chips",
+          "entradilla": "Jensen Huang criticó este verano a su sustituta por las dudas por la estrategia de financiación circular de la IA: \"es como un ciervo deslumbrado\" Leer",
+          "enlace": "https://www.elmundo.es/economia/empresas/2026/11/14/6af76498fdddffc5458b4575.html"
+        },
+        {
+          "titulo": "Cuerpo entierra la herencia de Puente en Renfe y Adif: así son los nuevos responsables de perfil técnico a los que ha encomendado apaciguar el malestar interno",
+          "entradilla": "Los sindicatos aplauden los avances, pero mantienen las protesas: este sábado se manifiestan en Madrid y hay dos huelgas convocadas para los días 17 y 23 Leer",
+          "enlace": "https://www.elmundo.es/economia/2026/11/14/6af756e321efa0c94b8b458f.html"
+        },
+        {
+          "titulo": "Estados Unidos reabre sus aeropuertos cinco horas después tras cancelar miles de vuelos  por un fallo en los sistemas de control",
+          "entradilla": "El Gobierno culpa de la incidencia a \"un sistema de control de tráfico aéreo increíblemente antiguo\" que se cayó durante una actualización Leer",
           "enlace": "https://www.elmundo.es/economia/2026/11/13/6af7806bfc6c83c8238b456e.html"
         },
         {
-          "titulo": "Sánchez pierde la memoria con Jordi Wild: \"No me fui de vacaciones\" tras la crisis de Ceuta",
-          "entradilla": "El presidente del Gobierno y candidato socialista explica que vino al mundo \"de penalti\", que no sabía que Ábalos \"consumía prostitución\", que \"pone la mano en el fuego por Zapatero\" y, al final, zanja: \"Los políticos también tenemos derecho a cambiar de opinión\" Leer",
-          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af6ee63fc6c83fa038b4580.html"
+          "titulo": "La inquietante expansión del anarcocapitalismo: \"La democracia nos desagrada a gran escala\"",
+          "entradilla": "Miguel Anxo Bastos es el gran referente de una teoría que cree que una sociedad sin Estado es posible y deseable. Hoy pesca en el descontento con la política tradicional: \"El contrato social suena bien, pero hay que contar en qué consiste\" Leer",
+          "enlace": "https://www.elmundo.es/papel/historias/2026/11/13/6af5db47e85eceec0a8b4585.html"
         },
         {
-          "titulo": "Feijóo se pone la capa de 'Anotop At' frente a Jordi Wild para conquistar a la Generación Z: \"Yo no sé inglés, pero sé gobernar\"",
-          "entradilla": "El líder del PP aprovecha la 'espantá' de Abascal para lanzarse a por el voto joven y hasta habla del narco Marcial Dorado: \"Cada uno es responsable de sus fotos\" Leer",
-          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af6e315fdddff705e8b4593.html"
+          "titulo": "El juego de alcobas y las trampas de miel de los espías de Xi Jinping",
+          "entradilla": "El servicio secreto de Pekín, sospechoso de reclutar a la amante del fundador de Nvidia, ha tejido una red mundial de informantes para robar secretos políticos, militares y tecnológicos Leer",
+          "enlace": "https://www.elmundo.es/internacional/2026/11/14/6af4461ce85ece4e6f8b45b4.html"
         },
         {
-          "titulo": "Jensen Huang menospreció a la ejecutiva que ahora le sustituye al frente de Nvidia antes de su destitución",
-          "entradilla": "Colette Kress, consejera delegada interina de Nvidia, había cuestionado algunas de las operaciones financieras impulsadas por Huang. Él llegó a describirla como «un ciervo deslumbrado por los faros de un coche» Leer",
-          "enlace": "https://www.elmundo.es/economia/empresas/2026/11/13/6af6ef2ffdddff96118b4581.html"
-        },
-        {
-          "titulo": "Abascal se apoya en Meloni, Le Pen, Milei y Bolsonaro en el arranque a unas elecciones \"existenciales\": \"Estamos levantando una bandera unitaria\"",
-          "entradilla": "\"Somos herederos de una patria que merece la pena\", lanza el líder de Vox, que busca votantes de todas las afinidades de cara al 29-N Leer",
-          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af6e4befc6c838d7f8b45b6.html"
-        },
-        {
-          "titulo": "El Tribunal de Cuentas ordena investigar el caso del ático al detectar indicios de perjuicio a fondos públicos",
-          "entradilla": "La Comunidad ha aportado una segunda tasación más alta y realizada hace un mes para argumentar que no se pagó de más por el piso Leer",
-          "enlace": "https://www.elmundo.es/madrid/2026/11/13/6af7022afdddff3a7f8b45fa.html"
-        },
-        {
-          "titulo": "España no estará en el \"equipo europeo\" de negociación con Rusia y es la única gran economía de la UE que se queda fuera",
-          "entradilla": "El grupo estará formado por Alemania, Francia, Italia y Polonia, además de Reino Unido y representantes de las instituciones. Los líderes han sido incapaces de elegir una sola voz y han optado por este formato Leer",
-          "enlace": "https://www.elmundo.es/internacional/2026/11/13/6af754ecfdddff742b8b45ca.html"
-        },
-        {
-          "titulo": "Vuelca un crucero con 129 personas a bordo tras el choque con un buque en Nueva Orleans",
-          "entradilla": "Varios pasajeros del crucero fluvial ya han sido rescatados, Leer",
-          "enlace": "https://www.elmundo.es/internacional/2026/11/13/6af77764e4d4d8f7558b458d.html"
-        },
-        {
-          "titulo": "La Federación sanciona con 12 partidos a Owono por la acción que acabó con la muerte de Jesús de Miguel",
-          "entradilla": "El Comité de Disciplina impone al portero del Andorra el máximo castigo previsto en el reglamento por su entrada al delantero del Tenerife. Leer",
-          "enlace": "https://www.elmundo.es/deportes/futbol/segunda-division/2026/11/13/6af778ee21efa0c94b8b45a5.html"
+          "titulo": "Emilio Delgado: \"Debemos volver a ser un paraguas para cuando caen chuzos de punta\"",
+          "entradilla": "El 'número uno' de Frente Amplio por Madrid asegura que el PSOE no va a ser \"suficiente\" por sí solo para revalidar el Gobierno y que la \"única garantía\" contra la derecha es que Ada Colau tengan \"fuerza\" Leer",
+          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af75cd0fc6c830f298b45a9.html"
         }
       ],
       "analisis": {
-        "resumen": "- La campaña electoral se centra en la movilización del 29-N y el avance conjunto de PP y Vox.\n- Sánchez fija un objetivo de participación y el Gobierno inicia la revalorización de las pensiones.\n- Los candidatos protagonizan entrevistas y actos de campaña; Vox reúne apoyos internacionales.\n- El Tribunal de Cuentas investiga posibles perjuicios a fondos públicos en el caso del ático.\n- Destacan la suspensión de vuelos en Estados Unidos y la ausencia de España en el equipo europeo de negociación con Rusia.",
-        "populismo": 35,
-        "motivo_populismo": "Predominan los titulares informativos, aunque expresiones como «pierde la memoria», «espantá» y elecciones «existenciales» aportan carga valorativa o emocional.",
-        "sesgo": "La portada prioriza la campaña electoral y presenta con tono crítico algunas actuaciones de Sánchez y del Gobierno. También emplea un registro informal y valorativo al abordar a Feijóo y Abascal."
+        "resumen": "- La portada relaciona a Sánchez con una presunta trama corrupta y critica su gestión y la falta de presupuestos.\n- Vox inicia su campaña con objetivos moderados en varios asuntos y apoyo de líderes internacionales.\n- Dos reportajes recogen los testimonios de personas que comparten nombre con Sánchez y Feijóo.\n- Hernández de Cos afronta una semana clave en la carrera por la presidencia del BCE; en España, Renfe y Adif estrenan responsables entre protestas sindicales.\n- También destacan el fallo aéreo en Estados Unidos, las tensiones por Nvidia, el anarcocapitalismo, el espionaje chino y una entrevista a Emilio Delgado.",
+        "populismo": 50,
+        "motivo_populismo": "Expresiones como «últimos fusibles», «España haya dejado de funcionar» y «la inquietante expansión» aportan dramatización y simplifican asuntos complejos, aunque otros titulares mantienen un tono más informativo.",
+        "sesgo": "La selección y la redacción muestran un enfoque especialmente crítico hacia Sánchez y su Gobierno, con afirmaciones contundentes sobre corrupción y gestión. También se emplea un encuadre inquietante para presentar el anarcocapitalismo, mientras se da espacio a posiciones políticas diversas."
       }
     },
     {
@@ -186,54 +186,54 @@
       "web": "https://www.abc.es",
       "noticias": [
         {
-          "titulo": "Un petrolero choca y hunde un crucero con más de 130 persona en Nueva Orleans",
-          "entradilla": "Un tanquero colisionó y derribó este viernes a un crucero que estaba amarrado al muelle en Nueva Orleans, donde se calcula que estaban alojadas más de 130 personas.El incidente ocurrió hacia las doce y media del mediodía en la principal ciudad de Luisiana -siete y media de la tarde en España, cuando",
-          "enlace": "https://www.abc.es/internacional/petrolero-hude-ferry-129-personas-bordo-rio-20261113213950-nt.html"
+          "titulo": "El SMI se dispara... ¿por qué mi sueldo no?",
+          "entradilla": "España se ha convertido en un país donde la mayor parte de los sueldos han pasado a ser bajos o muy bajos a pesar de las subidas del salario mínimo interprofesional (SMI) que ha autorizado por decreto ley el Gobierno de Pedro Sánchez desde que llegó al poder en 2018. Es la gran paradoja que deja est",
+          "enlace": "https://www.abc.es/economia/cuentas-corrientes/smi-dispara-sueldo-20261114024212-nt.html"
         },
         {
-          "titulo": "EE.UU. paraliza todos los vuelos del país por «circunstancias extraordinarias» y «razones de seguridad»",
-          "entradilla": "La Administración Federal de Aviación de Estados Unidos (FAA) ha decretado este viernes una suspensión nacional de despegues de aviones «debido a circunstancias extraordinarias y por motivos de seguridad», después de que la agencia informara anteriormente de graves problemas en las comunicaciones de",
+          "titulo": "Caos aéreo en EE.UU.: todos los vuelos cancelados durante más de cuatro horas por la saturación del sistema de control",
+          "entradilla": "﻿ ﻿EE.UU. ha sufrido un caos absoluto en el tráfico aéreo este viernes por la tarde -entre la noche del viernes y la madrugada del sábado en España- después de que las autoridades ordenaran la suspensión de la gran mayoría de los vuelos en todo el país durante más de cuatro horas. Las autoridades de",
           "enlace": "https://www.abc.es/internacional/suspendidos-vuelos-eeuu-debido-circunstancias-extraordinarias-motivos-20261113222039-nt.html"
         },
         {
-          "titulo": "Abascal se conjura con sus socios internacionales para el 29N: «Estas elecciones son existenciales para España»",
-          "entradilla": "Santiago Abascal ha dado el pistoletazo de salida a la campaña electoral del 29N desde la Plaza de Colón, con continuas referencias a la Reconquista y a la Guerra de Independencia y el respaldo de sus aliados internacionales . El líder de Vox ha reunido a la cúpula de su partido para arengar a sus s",
-          "enlace": "https://www.abc.es/espana/abascal-conjura-socios-internacionales-29n-elecciones-existenciales-20261113220250-nt.html"
+          "titulo": "Camino de Invierno: la ruta jacobea más joven cumple diez años",
+          "entradilla": "El Camino de Invierno, el más joven de los caminos a Santiago, ha cumplido diez años. Con 260 kilómetros y reconocido oficialmente en 2016, hoy es una de las rutas jacobeas preferidas por los peregrinos. Y lo es porque no está masificado, sino que brinda calma y tranquilidad; por su hospitalidad -la",
+          "enlace": "https://www.abc.es/viajar/destinos/espana/camino-invierno-ruta-jacobea-joven-cumple-diez-20261114075446-nt.html"
         },
         {
-          "titulo": "El portero Owono, suspendido doce partidos por «infracción un grave» tras la muerte de Jesús de Miguel",
-          "entradilla": "El portero del Andorra Jesús Owono ha sido castigado con doce partidos de suspensión por la entrada que acabó provocando la muerte del delantero del Tenerife Jesús de Miguel, según ha informado este viernes el Comité de Disciplina la Federación Española de Fútbol (RFEF), que ha optado por imponer «l",
-          "enlace": "https://www.abc.es/deportes/futbol/portero-owono-suspendido-doce-partidos-tras-muerte-20261113215340-nt.html"
+          "titulo": "Elon Musk renuncia a recuperar la primera etapa del Starship y lo jugará todo a la parte más difícil: atrapar la nave a su vuelta",
+          "entradilla": "Elon Musk tiene prisa. Apenas mes y medio después de que Starship consiguiera alcanzar por primera vez la órbita terrestre , SpaceX ya prepara un nuevo ensayo de su gigantesco cohete. Este viernes 13 de noviembre, si no hay cambios de última hora (y sin miedo a la superstición), la compañía intentar",
+          "enlace": "https://www.abc.es/ciencia/previa-starship-vuelo-20261113182525-nt.html"
         },
         {
-          "titulo": "Cómo preparar tocinillo de cielo casero",
+          "titulo": "Paloma Esteban: «Feijóo lo fía todo a su perfil gestor y la 'reconstrucción nacional' contra Sánchez»",
           "entradilla": "",
-          "enlace": "https://www.abc.es/recetasderechupete/tocino-o-tocinillo-de-cielo-un-postre-celestial/6117/"
+          "enlace": "https://www.abc.es/espana/feijoo-fia-perfil-gestor-reconstruccion-nacional-acabar-20261114025329-nt.html"
         },
         {
-          "titulo": "Almendrados de Allariz, un postre típico gallego",
-          "entradilla": "",
-          "enlace": "https://www.abc.es/recetasderechupete/almendrados-de-allariz-postre-tradicional-gallego/10205/"
+          "titulo": "ABC se infiltra en Núcleo Nacional (I): «Así entré en la organización nazi más grande de España»",
+          "entradilla": "A Isabel Peralta le castañean los dientes. Es una noche lluviosa de enero, y la joven espera a que llegue su turno para dirigirse a los cincuenta neonazis de Núcleo Nacional que se manifiestan frente a la sede madrileña de la gestora de activos Blackrock. A su derecha, Juan, otro de los portavoces. ",
+          "enlace": "https://www.abc.es/espana/infiltrado-nucleo-nacional-grupo-nazi-grande-espana-20261114025136-nt.html"
         },
         {
-          "titulo": "Risotto al Barolo con funghi, receta para el otoño",
-          "entradilla": "",
-          "enlace": "https://www.abc.es/recetasderechupete/risotto-al-barolo-con-funghi-receta-para-el-otono/180837/"
+          "titulo": "Los programas electorales de PP y Vox allanan el futuro acuerdo de Gobierno",
+          "entradilla": "Lo dicen la mayoría de las encuestas . PP y Vox pueden verse abocados a una negociación para el futuro Gobierno después del 29 de noviembre. Dejando a un lado la posibilidad de que haya coalición o no –un Consejo de Ministros integrado por ambos partidos–, lo que tendrán que acordar es un programa c",
+          "enlace": "https://www.abc.es/espana/programas-electorales-pp-vox-allanan-futuro-acuerdo-20261114025204-nt.html"
         },
         {
-          "titulo": "Zorongollo extremeño, ensalada tradicional con pimientos asados",
-          "entradilla": "",
-          "enlace": "https://www.abc.es/gastronomia/falsa-rechupete-20240712032340-nt.html"
+          "titulo": "Cuerpo pasa factura a Puente y «limpia» los perfiles políticos de su equipo en Transportes",
+          "entradilla": "«Es una buena noticia». Con esta frase resumen múltiples fuentes de Adif y Renfe consultadas por ABC los nombramientos de Joaquim Hortalà e Inmaculada Gutiérrez como nuevos presidentes de Adif y Renfe , por parte del Consejo de Ministros. Un movimiento del vicepresidente Carlos Cuerpo que supone el ",
+          "enlace": "https://www.abc.es/espana/cuerpo-pasa-factura-puente-limpia-perfiles-politicos-20261114025149-nt.html"
         },
         {
-          "titulo": "Colau tiene «tolerancia cero con la corrupción», pero justifica que Sumar siguiese en el Gobierno",
-          "entradilla": "La primera de las tres entrevistas que el 'podcaster' Jordi Wild le ha hecho a los candidatos a la presidencia del Gobierno la ha protagonizado Ada Colau . La exalcaldesa de Barcelona -candidata por Frente Amplio- y el influencer han mantenido una charla de dos horas en la que Colau ha reivindicado ",
-          "enlace": "https://www.abc.es/espana/colau-afirma-tener-tolerancia-cero-corrupcion-justifica-20261113100247-nt.html"
+          "titulo": "La UCO desmiente a la Moncloa: el exchófer de Sánchez se paseaba por Ferraz",
+          "entradilla": "Reuniones en Ferraz, encuentros con Pedro Sánchez o colocación de amigos dentro de las listas al Congreso de los Diputados. Cristian Corvillo no era un simple militante del PSOE. El último informe de la Unidad Central Operativa (UCO) de la Guardia Civil sobre el caso Koldo revela que el cordobés man",
+          "enlace": "https://www.abc.es/espana/corvillo-movia-hilos-psoe-reuniones-ferraz-amigo-20261114025054-nt.html"
         },
         {
-          "titulo": "Sánchez reivindica su «buena política» desde Navarra, la cuna del 'caso Koldo'",
-          "entradilla": "La última vez que Pedro Sánchez había hablado directamente a la militancia socialista en Pamplona Santos Cerdán se sentaba en primera fila escuchándole. Era el 22 de marzo de 2025, cierre del XIII Congreso del Partido Socialista de Navarra (PSN), y el actual candidato a la presidencia del Gobierno e",
-          "enlace": "https://www.abc.es/espana/navarra/sanchez-reivindica-buena-politica-navarra-cuna-koldo-20261113212059-nt.html"
+          "titulo": "Málaga, vivienda y trenes entre vinos y pringá",
+          "entradilla": "Arranca una campaña electoral peculiar debido, sobre todo, al impacto e influencia de las redes sociales sobre la masa poblacional. El 86% del total de ciudadanos en España entre 12 y 74 años (40,1 millones) son usuarios de RRSS, según el Estudio sobre RRSS 2026 de IAB Spain. Los más mayores (Boomer",
+          "enlace": "https://www.abc.es/espana/rebeca-argudo-barra-barra-20261114025006-nt.html"
         },
         {
           "titulo": "¿Ahora empieza la campaña?",
@@ -241,16 +241,16 @@
           "enlace": "https://www.abc.es/espana/empieza-campana-20261113191554-nt.html"
         },
         {
-          "titulo": "Europa designa a un equipo de cinco países para negociar con Rusia sobre la guerra de Ucrania",
-          "entradilla": "Una vez que Rusia ha aceptado, al menos parcialmente, la posibilidad de que los europeos participen en las conversaciones de paz sobre Ucrania , la reunión informal del Consejo en Dublín se desvió este viernes hacia las discusiones para decidir quién o quiénes serían esos representantes. En cabeza d",
-          "enlace": "https://www.abc.es/internacional/ue-busca-representante-negociacion-rusia-sobre-guerra-20261113184434-nt.html"
+          "titulo": "PSOE y Vox se disputan el favor de los nuevos votantes",
+          "entradilla": "Son los grandes desconocidos. Mucho se ha escrito sobre ellos; sus problemas, su lenguaje -tan particular-, su manera de consumir información y de habitar el espacio digital. Nacieron entre 2006 y 2008, al calor de una crisis económica que arrasó la vida de millones de españoles. Y tienen pocos -o n",
+          "enlace": "https://www.abc.es/espana/psoe-vox-entran-empate-tecnico-millones-nuevos-20261114024935-nt.html"
         }
       ],
       "analisis": {
-        "resumen": "- En Nueva Orleans, un petrolero choca con un crucero amarrado en el que había más de 130 personas.\n- EE. UU. suspende los despegues en todo el país por razones de seguridad.\n- Abascal inicia la campaña del 29N con apoyo internacional; la portada también recoge intervenciones de Colau y Sánchez.\n- Europa designa a cinco países para negociar con Rusia sobre Ucrania; el portero Owono recibe doce partidos de sanción.\n- La portada incluye recetas de postres y platos tradicionales.",
-        "populismo": 28,
-        "motivo_populismo": "Predomina un tono informativo, aunque la cita «elecciones existenciales» aporta dramatismo y el contraste entre «tolerancia cero con la corrupción» y el Gobierno introduce un enfoque confrontativo.",
-        "sesgo": "La selección y redacción de las noticias políticas muestran un enfoque crítico hacia Colau y Sánchez, al relacionar sus declaraciones con la corrupción y el caso Koldo. También se destaca el carácter épico del discurso electoral de Abascal."
+        "resumen": "- El aumento del SMI contrasta con la persistencia de salarios bajos.\n- Una suspensión de vuelos por la saturación del control aéreo provoca trastornos en EE. UU.\n- La campaña electoral centra varias noticias: posibles acuerdos entre PP y Vox, nuevos votantes y estrategia de Feijóo.\n- Otros titulares abordan cambios en Transportes, un informe de la UCO y una infiltración en Núcleo Nacional.\n- La portada incluye el décimo aniversario del Camino de Invierno y los planes de SpaceX para Starship.",
+        "populismo": 35,
+        "motivo_populismo": "Expresiones como «se dispara», «caos absoluto», «pasa factura» y «desmiente a la Moncloa» aportan dramatización y confrontación, aunque no predominan las apelaciones al pueblo contra las élites.",
+        "sesgo": "La selección da amplio protagonismo a la política electoral y presenta varios asuntos relacionados con el Gobierno de Sánchez desde un enfoque crítico. También incluye temas sociales, tecnológicos y de viajes."
       }
     },
     {
@@ -263,66 +263,66 @@
           "enlace": "https://www.publico.es/politica/tribunales/fiscalia-lleva-dos-meses-aclarar-juzgado-debe-investigar-compra-atico-gobierno-ayuso.html"
         },
         {
+          "titulo": "EEUU reanuda el tráfico aéreo tras cuatro horas de suspensión y miles de vuelos cancelados",
+          "entradilla": "",
+          "enlace": "https://www.publico.es/internacional/eeuu/eeuu-reanuda-trafico-aereo-cuatro-horas-suspension-miles-vuelos-cancelados.html"
+        },
+        {
+          "titulo": "La caída global de Microsoft revela la fragilidad de un mundo dependiente de las grandes tecnológicas",
+          "entradilla": "",
+          "enlace": "https://www.publico.es/ciencias/tecnologia/caida-global-microsoft-revela-fragilidad-mundo-dependiente-grandes-tecnologicas.html"
+        },
+        {
+          "titulo": "La lucha por la vivienda no baja el telón: la cultura se cita en Vistalegre en una gran fiesta reivindicativa",
+          "entradilla": "",
+          "enlace": "https://www.publico.es/sociedad/lucha-vivienda-baja-telon-cultura-cita-vistalegre-gran-fiesta-reivindicativa.html"
+        },
+        {
+          "titulo": "El PSOE se prepara ante movimientos judiciales: \"Es la máxima expresión de 'el que pueda hacer que haga' de Aznar\"",
+          "entradilla": "",
+          "enlace": "https://www.publico.es/politica/gobierno/psoe-prepara-movimientos-judiciales-maxima-expresion-pueda-haga-aznar.html"
+        },
+        {
+          "titulo": "El fantasma de Marcial Dorado reaparece ante Feijóo en el inicio de campaña",
+          "entradilla": "",
+          "enlace": "https://www.publico.es/politica/fantasma-marcial-dorado-reaparece-feijoo-inicio-campana.html"
+        },
+        {
           "titulo": "Begoña, Zapatero y Marlaska: el 'perrosanxe' cierra filas con su camada en campaña",
           "entradilla": "",
           "enlace": "https://www.publico.es/politica/begona-zapatero-marlaska-perrosanxe-cierra-filas-camada-campana.html"
         },
         {
-          "titulo": "El día que fui palmero de Abascal en 'La Revuelta'",
+          "titulo": "Recortes en educación con menos centros y profesores y un fiasco en la enseñanza trilingüe",
           "entradilla": "",
-          "enlace": "https://www.publico.es/opinion/columnas/dia-palmero-abascal-revuelta.html"
+          "enlace": "https://www.publico.es/politica/recortes-educacion-centros-profesores-fiasco-ensenanza-trilinguee-gallego-baja.html"
         },
         {
-          "titulo": "El Tribunal de Cuentas ve indicios de que el ático de Ayuso se compró mediante una operación \"carente por completo de justificación legal\"",
+          "titulo": "El poder electoral de Jordi Wild, Ibai o El Xocas: ¿pueden influir en el voto de millones de seguidores?",
           "entradilla": "",
-          "enlace": "https://www.publico.es/politica/tribunales/tribunal-cuentas-ve-indicios-atico-ayuso-compro-mediante-operacion-carente-completo-justificacion-legal.html"
+          "enlace": "https://www.publico.es/sociedad/gran-poder-electoral-jordi-wild-ibai-xocas-pueden-influir-voto-millones-seguidores.html"
         },
         {
-          "titulo": "Joaquim Hortalá, nuevo presidente de Adif, e Inmaculada Carrizo, de Renfe",
+          "titulo": "El modelo sanitario de PP y Vox bajo la lupa: negocio privado, listas de espera y derechos amenazados",
           "entradilla": "",
-          "enlace": "https://www.publico.es/politica/gobierno/joaquim-hortala-nuevo-presidente-adif-e-inmaculada-carrizo-renfe.html"
+          "enlace": "https://www.publico.es/sociedad/sanidad/modelo-sanitario-pp-vox-bajo-lupa-negocio-privado-listas-espera-derechos-amenazados.html"
         },
         {
-          "titulo": "El PSOE denuncia al PP, Eduardo Inda y la editora de 'Okdiario' por los pagos de la defensa de Koldo García",
+          "titulo": "Figaredo, el niño bien que salió regular",
           "entradilla": "",
-          "enlace": "https://www.publico.es/politica/tribunales/psoe-denuncia-pp-eduardo-inda-editora-okdiario-pagos-defensa-koldo-garcia.html"
+          "enlace": "https://www.publico.es/opinion/columnas/figaredo-nino-bien-salio-regular.html"
         },
         {
-          "titulo": "El escándalo del ático le explota a Ayuso el primer día de campaña y otras cuatro noticias importantes de hoy",
+          "titulo": "María Botto: \"Vox plantea claramente que ellos van a regular las decisiones sobre el cuerpo de las mujeres\"",
           "entradilla": "",
-          "enlace": "https://www.publico.es/politica/ponte-dia-escandalo-atico-le-explota-ayuso-primer-dia-campana-cuatro-noticias-importantes-hoy.html"
-        },
-        {
-          "titulo": "El NO-DO en tiempos de YouTube: las polémicas con Broncano y Jordi Wild anticipan el control mediático que promueve Vox",
-          "entradilla": "",
-          "enlace": "https://www.publico.es/politica/do-tiempos-youtube-polemicas-broncano-jordi-wild-anticipan-control-mediatico-promueve-vox.html"
-        },
-        {
-          "titulo": "¡Primer hito conseguido! Ya somos 150 socios y socias más en 'Público'",
-          "entradilla": "",
-          "enlace": "https://www.publico.es/comunidad/primer-hito-conseguido-somos-150-socios-socias-nuestra-comunidad.html"
-        },
-        {
-          "titulo": "Adiós al 'decreto Maricarmen' y a la Ley de Vivienda: lo que está en juego si PP y Vox llegan a la Moncloa",
-          "entradilla": "",
-          "enlace": "https://www.publico.es/economia/vivienda/adios-decreto-maricarmen-ley-vivienda-juego-pp-vox-llegan-moncloa.html"
-        },
-        {
-          "titulo": "Trece años de privatizaciones, recortes y promesas incumplidas en la sanidad gallega",
-          "entradilla": "",
-          "enlace": "https://www.publico.es/politica/trece-anos-privatizaciones-recortes-promesas-incumplidas-sanidad-gallega.html"
-        },
-        {
-          "titulo": "Dos noticias de Feijóo se entienden mejor juntas: de hablar del \"esfuerzo de la gente\" a decir a Jordi Wild que no ha hecho \"ningún esfuerzo\" para hablar inglés",
-          "entradilla": "",
-          "enlace": "https://www.publico.es/tremending/dos-noticias-feijoo-entienden-mejor-juntas-hablar-esfuerzo-gente-decir-jordi-wild-hecho-esfuerzo-hablar-ingles.html"
+          "enlace": "https://www.publico.es/culturas/cine-tv/maria-botto-vox-plantea-claramente-regular-decisiones-sobre-cuerpo-mujeres.html"
         }
       ],
       "analisis": {
-        "resumen": "- La Fiscalía aún no ha aclarado quién debe investigar la compra del ático del Gobierno de Ayuso; el Tribunal de Cuentas aprecia indicios de falta de justificación legal.\n- La campaña electoral centra varios titulares sobre Ayuso, Sánchez y sus colaboradores.\n- El PSOE denuncia al PP, Eduardo Inda y la editora de 'Okdiario' por los pagos de la defensa de Koldo García.\n- Otros titulares examinan el discurso de Feijóo, el control mediático atribuido a Vox y las posibles consecuencias de un gobierno de PP y Vox.\n- La portada también aborda la sanidad gallega, los nombramientos en Adif y Renfe y una campaña de socios del medio.",
-        "populismo": 60,
-        "motivo_populismo": "Expresiones como «el 'perrosanxe' cierra filas con su camada», «palmero de Abascal» y «el escándalo del ático le explota a Ayuso» recurren a la descalificación y al lenguaje emocional, aunque otros titulares son informativos.",
-        "sesgo": "La selección y la redacción muestran un enfoque especialmente crítico con Ayuso, el PP y Vox, al destacar polémicas y posibles consecuencias de sus políticas. También aparece un titular despectivo sobre Sánchez y su entorno."
+        "resumen": "- La Fiscalía lleva dos meses sin aclarar quién debe investigar la compra del ático vinculado al Gobierno de Ayuso.\n- EEUU reanuda el tráfico aéreo tras cuatro horas de suspensión y miles de cancelaciones; una caída de Microsoft expone la dependencia tecnológica.\n- La campaña electoral reúne noticias sobre el PSOE, Feijóo y la posible influencia de creadores digitales en el voto.\n- La vivienda protagoniza una fiesta reivindicativa en Vistalegre.\n- Otros titulares cuestionan los recortes educativos y el modelo sanitario de PP y Vox, y recogen declaraciones sobre Vox y los derechos de las mujeres.",
+        "populismo": 65,
+        "motivo_populismo": "Aparecen descalificaciones y expresiones emotivas como «perrosanxe», «su camada», «el fantasma», «fiasco» y «derechos amenazados», aunque otros titulares mantienen un tono informativo.",
+        "sesgo": "La selección y la redacción muestran un enfoque crítico hacia PP y Vox, especialmente en sanidad, educación y derechos de las mujeres, junto con una perspectiva favorable a las reivindicaciones por la vivienda. También se incluyen titulares críticos sobre el PSOE."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://okdiario.com",
       "noticias": [
         {
-          "titulo": "Espectacular colisión en el Misisipi: un buque cisterna embiste un crucero de pasajeros",
-          "entradilla": "El buque cisterna Atlantic Asphalt, con bandera de las Islas Marshall, de unos 160 metros de eslora y cargado de asfalto/betún, ha embestido al crucero fluvial American Heritage, de la compañía American Cruise Lines, en el río Misisipi este viernes. El American Heritage estaba atracado cerca del edi",
-          "enlace": "https://okdiario.com/internacional/espectacular-colision-misisipi-buque-cisterna-embiste-crucero-pasajeros-20897063"
+          "titulo": "«Te pagaré veinte, cincuenta euros»: detenido un marroquí tras perseguir y agredir a una mujer en Manacor",
+          "entradilla": "Momentos de auténtico terror vivió una mujer en las calles de Manacor después de que un hombre la persiguiera, la agarrara por la fuerza e intentara agredirla sexualmente tras ofrecerle dinero a cambio de mantener relaciones. El individuo, que además aprovechó la situación para robarle el dinero que",
+          "enlace": "https://okdiario.com/baleares/te-pagare-veinte-cincuenta-euros-detenido-marroqui-perseguir-agredir-mujer-manacor-20897820"
         },
         {
-          "titulo": "EEUU ordena la suspensión de vuelos nacionales por razones de seguridad",
-          "entradilla": "La Administración Federal de Aviación (FAA) de Estados Unidos ha ordenado detener el tráfico aéreo de salida en todos los aeropuertos del país debido a «circunstancias extraordinarias y por motivos de seguridad». Así lo ha informado el secretario de Transporte, Sean Duffy. «Hay emitida una orden de ",
-          "enlace": "https://okdiario.com/internacional/eeuu-ordena-suspension-nacional-todos-vuelos-razones-seguridad-20897091"
+          "titulo": "Por qué hay que botar a Sánchez, quedan 15 días: los pagos en metálico en Ferraz",
+          "entradilla": "El 3 de octubre de 2025, un informe de la Unidad Central Operativa (UCO) de la Guardia Civil puso bajo el foco los pagos en efectivo del PSOE a José Luis Ábalos, ex ministro de Transportes y antiguo secretario de Organización de Pedro Sánchez. Los investigadores detectaron indicios de entregas de di",
+          "enlace": "https://okdiario.com/espana/que-hay-que-botar-sanchez-quedan-15-dias-pagos-metalico-ferraz-20778513"
         },
         {
-          "titulo": "Disciplina sanciona con 12 partidos a Owono por la acción que le causó la muerte a Jesús de Miguel",
-          "entradilla": "El Comité de Disciplina de la Real Federación Española de Fútbol (RFEF) ha sancionado con 12 partidos a Jesús Owono, portero del Andorra, por la falta que causó la muerte de Jesús de Miguel. La decisión se había pospuesto hasta fecha indeterminada dada la relevancia y la excepcionalidad de los hecho",
-          "enlace": "https://okdiario.com/deportes/disciplina-sanciona-12-partidos-owono-falta-que-causo-muerte-jesus-miguel-20897075"
+          "titulo": "Predicción del horóscopo para Capricornio hoy, sábado 14 de noviembre de 2026",
+          "entradilla": "Capricornio, tu horóscopo predice un día en el que deberás aprender a escuchar más que a hablar. Las confidencias que se compartan a tu alrededor pueden resultar delicadas, así que muéstrate prudente al ofrecer tus opiniones. Al final, el silencio puede ser tu aliado, ayudándote a crear un espacio s",
+          "enlace": "https://okdiario.com/horoscopo/prediccion-del-horoscopo-para-capricornio-hoy-sabado-14-de-noviembre-de-2026-20897823"
         },
         {
-          "titulo": "Los psicólogos lo aclaran: «Quienes guardan bolsas dentro de otras bolsas no sólo ahorran dinero sino que también mantienen una sensación de utilidad, organización y control»",
-          "entradilla": "La recopilación de los objetos en nuestros hogares es una de las prácticas más buscadas y se ha convertido en algo imprescindible para que los objetos no perjudiquen la funcionalidad del espacio. Esto se visualiza a la hora de guardar las bolsas. Numerosas personas optan por dejarlas en el coche, o ",
-          "enlace": "https://okdiario.com/curiosidades/psicologos-lo-aclaran-quienes-guardan-bolsas-dentro-otras-bolsas-no-solo-ahorran-dinero-sino-que-tambien-mantienen-sensacion-utilidad-organizacion-control-20456810"
+          "titulo": "El misterio de las galaxias «imposibles» que el telescopio James Webb encontró en tiempo récord desafiando la cosmología",
+          "entradilla": "Cuando el telescopio espacial James Webb desplegó su espejo bañado en oro a millón y medio de kilómetros de la Tierra, la comunidad astrofísica guardaba una lista muy concreta de expectativas. Esperábamos ver las primeras luces del cosmos rompiendo la niebla de hidrógeno, sí, pero bajo la premisa de",
+          "enlace": "https://okdiario.com/ciencia/misterio-galaxias-imposibles-que-telescopio-james-webb-encontro-tiempo-record-desafiando-cosmologia-20723315"
         },
         {
-          "titulo": "Joan Manuel Serrat (82), cantante español: «Es un buen momento para que nosotros podamos decir lo que pensamos de todo esto»",
-          "entradilla": "La sociedad española se encuentra en estos momentos extremadamente polarizada debido a la inestabilidad política. La legislatura de Pedro Sánchez está dejando a su paso un sinfín de escándalos, siendo el último el accidente ferroviario de Urda, con la consiguiente dimisión de Óscar Puente, que está ",
-          "enlace": "https://okdiario.com/curiosidades/joan-manuel-serrat-82-cantante-espanol-buen-momento-que-nosotros-podamos-decir-lo-que-pensamos-todo-esto-20715325"
+          "titulo": "Los expertos en veterinaria coinciden: si tu perro se pone a correr en círculos después del baño, no le pasa nada; es su forma de liberar energía",
+          "entradilla": "Los perros tienen comportamientos que pueden desconcertar a sus dueños, especialmente durante sus primeros meses de vida. Uno de los más habituales aparece justo después del baño. Algunas mascotas empiezan a correr de un lado a otro, dan vueltas sobre sí mismos y parecen incapaces de quedarse quieta",
+          "enlace": "https://okdiario.com/mascotas/expertos-veterinaria-coinciden-si-tu-perro-pone-correr-circulos-despues-del-bano-no-pasa-nada-forma-liberar-energia-20740803"
         },
         {
-          "titulo": "Expertos en adiestramiento canino lo aclaran: «Los perros que tiran de la correa en casa tienen una falta de normas»",
-          "entradilla": "El momento paseo puede convertirse en una desesperación para numerosos dueños. La correa es el factor detonante que provoca una sensación de limitación, desembocando en una tensión notable entre dueño y animal. Por eso, el resultado es el de un paseo repleto de tirones, desesperación, jadeos o ladri",
-          "enlace": "https://okdiario.com/mascotas/expertos-adiestramiento-canino-lo-aclaran-perros-que-tiran-correa-casa-tienen-falta-normas-20187783"
+          "titulo": "Los chefs italianos lo tienen claro: «Al tomate frito no le quita la acidez el azúcar, mejor añade una pizca de bicarbonato»",
+          "entradilla": "Durante generaciones, añadir una cucharadita de azúcar a la salsa de tomate se ha considerado el remedio infalible para corregir su acidez. Sin embargo, la cocinera italiana Roberta Cipri cuestiona esta práctica tan popular y sostiene que, además de ser innecesaria, puede alterar su sabor. «El azúca",
+          "enlace": "https://okdiario.com/gastronomia/chefs-italianos-lo-tienen-claro-tomate-frito-no-quita-acidez-azucar-mejor-anade-pizca-bicarbonato-20883263"
         },
         {
-          "titulo": "Qué quiere decir el famoso proverbio alemán: «Una valla dura 3 años, un perro dura 3 vallas, un caballo dura 3 perros y un hombre dura 3 caballos»",
-          "entradilla": "A primera vista, parece un sencillo acertijo matemático. «Una valla dura 3 años, un perro dura 3 vallas, un caballo dura 3 perros y un hombre dura 3 caballos». Esta frase esconde una profunda reflexión sobre la naturaleza efímera de la existencia. Transmitido durante generaciones en el ámbito rural,",
-          "enlace": "https://okdiario.com/curiosidades/que-quiere-decir-famoso-proverbio-aleman-valla-dura-3-anos-perro-dura-3-vallas-caballo-dura-3-perros-hombre-dura-3-caballos-19118318"
+          "titulo": "Predicción del horóscopo para Sagitario hoy, sábado 14 de noviembre de 2026",
+          "entradilla": "La predicción para Sagitario revela un día en el que la responsabilidad financiera será clave. Evita las compras impulsivas y reflexiona si lo que deseas realmente te acerca a tus metas. Mantén un presupuesto realista y destina una parte de tus ingresos al ahorro automático; así, las inversiones que",
+          "enlace": "https://okdiario.com/horoscopo/prediccion-del-horoscopo-para-sagitario-hoy-sabado-14-de-noviembre-de-2026-20897751"
         },
         {
-          "titulo": "El lema vital de David Beckham sobre sus hijos: «Nunca verás a mis hijos entrar en una habitación y no dejar que una mujer pase primero»",
-          "entradilla": "Nunca vas a ver a mis hijos entrar en una habitación y no dejar que una mujer pase primero, la reflexión de David Beckham sobre sus hijos. El papel de padre o de madre es de los más difíciles de ejercer que existe. Famosos o no, educar a los hijos es una tarea que nuestros … Continuar leyendo \"El le",
-          "enlace": "https://okdiario.com/cool/lema-vital-david-beckham-sobre-sus-hijos-nunca-veras-mis-hijos-entrar-habitacion-no-dejar-que-mujer-pase-primero-20196355"
+          "titulo": "Los expertos en climatización coinciden: Para evitar tener humedades en casa, evita ducharte o tender por la noche, porque es cuando más cuesta ventilar",
+          "entradilla": "Con el frío cerramos las ventanas de casa, subimos la calefacción y seguimos con la rutina de siempre: ducha, cocina, colada. Todo eso libera vapor de agua, y cuando no se ventila bien acaba convertido en manchas negras de humedad en las esquinas y en un ambiente cargado. Algo que sucede mucho más c",
+          "enlace": "https://okdiario.com/curiosidades/expertos-climatizacion-coinciden-evitar-tener-humedades-casa-evita-ducharte-o-tender-noche-porque-cuando-mas-cuesta-ventilar-20655425"
         },
         {
-          "titulo": "Tere vive aislada en un pueblo asturiano cuyos últimos vecinos se fueron en 1991: «Yo tengo tienda, pero es para mí sola»",
-          "entradilla": "Hace tiempo que Tere vive en un pueblo abandonado y no tiene vecinos, pero todavía conserva fotografías que demuestran que su aldea no siempre fue así. Ella todavía puede señalar quién vivía en cada casa y a qué se dedicaba cada persona. Gracias al canal de YouTube Hilux_Aventura hemos podido conoce",
-          "enlace": "https://okdiario.com/curiosidades/tere-vive-aislada-pueblo-asturiano-cuyos-ultimos-vecinos-fueron-1991-yo-tengo-tienda-pero-sola-20626335"
+          "titulo": "Alfonso Muñoz, trabajador de la Seguridad Social: «Por retrasar 6 años la jubilación, a Wyoming podría corresponderle una indemnización de unos 81.700 euros»",
+          "entradilla": "El Gran Wyoming ha anunciado que se jubila a los 71 años después de dos décadas al frente del programa de LaSexta, El Intermedio. Su despedida de la televisión ha abierto también otra cuestión que tiene que ver con cuánto puede cobrar una persona que retrasa varios años su jubilación después de habe",
+          "enlace": "https://okdiario.com/economia/alfonso-munoz-trabajador-seguridad-social-retrasar-6-anos-jubilacion-wyoming-podria-corresponderle-indemnizacion-unos-81-700-euros-20797913"
         },
         {
-          "titulo": "La reflexión de Arturo Pérez-Reverte (74 años): «No sé lo que me queda de vida, pero presenciar el final de Occidente es un espectáculo muy interesante»",
-          "entradilla": "Arturo Pérez-Reverte acaba de cumplir 74 años y asegura que la edad le ha cambiado algo fundamental, que es su manera de mirar el mundo. El escritor reconoce que en su juventud tenía muchas certezas y que ahora convive con muchas más dudas. Desde esa perspectiva, observa con especial interés la tran",
-          "enlace": "https://okdiario.com/cool/famosos/reflexion-arturo-perez-reverte-74-anos-no-lo-que-queda-vida-pero-presenciar-final-occidente-espectaculo-muy-interesante-20170246"
+          "titulo": "Virginia y Andrea se mudan a una aldea asturiana para restaurar la casa de sus bisabuelos tras 7 años cerrada: «No hace falta saber de albañilería ni de construcción, aprendes poco a poco»",
+          "entradilla": "Muchos sueñan con irse a vivir a una aldea asturiana, pero pocos se atreven a dar el paso. Virginia tenía los recuerdos de la casa de sus bisabuelos, cuando su familia recogía la miel y ella se alejaba de la ciudad. Años después ha regresado con Andrea para vivir allí. Según ha contado en el … Conti",
+          "enlace": "https://okdiario.com/curiosidades/virginia-andrea-mudan-aldea-asturiana-restaurar-casa-sus-bisabuelos-7-anos-cerrada-no-hace-falta-saber-albanileria-ni-construccion-aprendes-poco-poco-20715614"
         },
         {
-          "titulo": "De 79 a 12 GiB de memoria y la mitad de espera: Cloudflare reforma el sistema DNS que recibe 700 cambios de registros por segundo",
-          "entradilla": "Cloudflare ha reducido un 85 % el pico de memoria del programa que alimenta su sistema DNS, de 79 a 12 GiB. El retraso mediano al publicar un cambio ha bajado de unos 7,7 a unos 3,3 segundos. La compañía lo detalló el 2 de noviembre en su blog técnico, en una entrada firmada por … Continuar leyendo ",
-          "enlace": "https://okdiario.com/techy/sistema-dns-cloudflare-memoria-79-12-gib-20738155"
+          "titulo": "EEUU reabre su espacio aéreo tras suspender todos los vuelos por un fallo en las comunicaciones",
+          "entradilla": "La Administración Federal de Aviación (FAA) de Estados Unidos ha levantado la orden que suspendía todos los vuelos en el país tras cuatro horas de paralización que han provocado miles de retrasos y cancelaciones alegando «problemas en las telecomunicaciones». «En estos momentos hemos abierto el espa",
+          "enlace": "https://okdiario.com/internacional/eeuu-reabre-espacio-aereo-suspender-todos-vuelos-fallo-comunicaciones-20897708"
         },
         {
-          "titulo": "La frase que le gustaría a Harrison Ford que le dijera Dios a su llegada al cielo: «Eres más guapo en persona»",
-          "entradilla": "¿Qué le gustaría escuchar a una persona de Dios cuando llegue al cielo? Esta fue una de las preguntas más curiosas a las que tuvo que enfrentarse Harrison Ford durante una entrevista televisiva. Lejos de ofrecer una respuesta trascendental o ponerse filosófico, el actor estadounidense recurrió a su ",
-          "enlace": "https://okdiario.com/cool/famosos/frase-que-gustaria-harrison-ford-que-dijera-dios-llegada-cielo-eres-mas-guapo-persona-20826960"
+          "titulo": "La importante lección de vida de Albert Einstein para los adultos: «La madurez comienza a manifestarse cuando sentimos que nuestra preocupación es mayor por los demás que por nosotros mismos»",
+          "entradilla": "Cumplir años no implica necesariamente haber alcanzado la madurez emocional. Según una reflexión atribuida al físico alemán Albert Einstein, el auténtico crecimiento personal llega cuando dejamos de centrarnos únicamente en nuestras propias necesidades y empezamos a preocuparnos por el bienestar de ",
+          "enlace": "https://okdiario.com/curiosidades/importante-leccion-vida-albert-einstein-adultos-madurez-comienza-manifestarse-cuando-sentimos-que-nuestra-preocupacion-mayor-demas-que-nosotros-mismos-20570469"
         }
       ],
       "analisis": {
-        "resumen": "- Un buque cisterna colisiona con un crucero en el Misisipi y EEUU suspende los vuelos nacionales por seguridad.\n- La RFEF sanciona con 12 partidos al portero Jesús Owono por la acción que causó la muerte de Jesús de Miguel.\n- La portada recoge declaraciones de Joan Manuel Serrat y Arturo Pérez-Reverte sobre la actualidad y el mundo.\n- Varias noticias abordan hábitos domésticos, adiestramiento canino y la vida aislada de una mujer en Asturias.\n- También aparecen contenidos sobre Beckham, Harrison Ford, un proverbio alemán y una mejora técnica de Cloudflare.",
-        "populismo": 25,
-        "motivo_populismo": "Predominan titulares informativos, aunque expresiones como «espectacular colisión» y la cita sobre «el final de Occidente», junto con fórmulas como «lo aclaran», aportan dramatismo y atractivo sensacionalista sin una apelación clara al pueblo contra las élites.",
-        "sesgo": "La selección combina sucesos y actualidad con abundantes contenidos de curiosidades, celebridades y consejos cotidianos. En el texto que acompaña a la noticia de Serrat se presenta la situación política de forma negativa, pero el conjunto no permite atribuir una orientación ideológica definida a la portada."
+        "resumen": "- Detenido un hombre tras perseguir y agredir a una mujer en Manacor.\n- Un titular pide «botar a Sánchez» y aborda los pagos en efectivo del PSOE a Ábalos.\n- Estados Unidos reabre su espacio aéreo tras una suspensión de vuelos por un fallo de comunicaciones.\n- Otras noticias tratan sobre galaxias observadas por el James Webb y la posible indemnización por jubilación demorada de Wyoming.\n- La portada incluye horóscopos, consejos para el hogar y mascotas, una mudanza a una aldea asturiana y una reflexión atribuida a Einstein.",
+        "populismo": 45,
+        "motivo_populismo": "La llamada directa a «botar a Sánchez», la referencia a «auténtico terror» y fórmulas como «los expertos coinciden» aportan un tono movilizador o sensacionalista, aunque varios titulares son informativos.",
+        "sesgo": "Se aprecia un enfoque crítico hacia Sánchez y el PSOE, expresado mediante una llamada explícita a apartarlo. En la noticia de Manacor se destaca la nacionalidad del detenido; la selección también da amplio espacio a contenidos de servicio y entretenimiento."
       }
     }
   ]
