@@ -47,7 +47,9 @@ if (proxima && window.HORAS_LECTURA) {
       .format(new Date())
   );
   const siguiente = window.HORAS_LECTURA.find(function (hora) { return hora > horaMadrid; });
+  // Los textos vienen escritos en el idioma de la página (web/textos.py).
+  const textos = window.TEXTOS_LECTURA || { hoy: "Hoy a las {hora}:00", manana: "Mañana a las {hora}:00" };
   proxima.textContent = siguiente
-    ? "Hoy a las " + siguiente + ":00"
-    : "Mañana a las " + window.HORAS_LECTURA[0] + ":00";
+    ? textos.hoy.replace("{hora}", siguiente)
+    : textos.manana.replace("{hora}", window.HORAS_LECTURA[0]);
 }

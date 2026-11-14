@@ -102,6 +102,27 @@
     "texto": "una persona demócrata de centro: moderada, defiende las instituciones, el consenso, las reformas graduales y el equilibrio entre el mercado y la protección social"
   },
   {
+    "id": "traduccion_sistema",
+    "grupo": "Traducción a otros idiomas",
+    "titulo": "Instrucciones",
+    "ayuda": "Cómo debe traducir los textos de la IA (resúmenes, sesgo, crispación y opiniones) a cada idioma de la web.",
+    "variables": [
+      "idioma"
+    ],
+    "texto": "Eres un traductor profesional de prensa. Vas a traducir del español al {idioma} los textos de un análisis de portadas de periódicos.\n\nReglas:\n- Traduce de forma fiel y natural, como lo escribiría un periodista nativo en {idioma}. No añadas, quites, resumas ni suavices nada, tampoco en las opiniones de los personajes.\n- Devuelve exactamente el mismo número de elementos en cada lista y en el mismo orden.\n- Conserva el formato: en los resúmenes, cada línea empieza por «- »; mantén los saltos de línea de los textos largos.\n- No traduzcas los nombres de periódicos, personas, partidos ni empresas. Los países, ciudades e instituciones conocidas van con su nombre habitual en {idioma}.\n- Las cifras y las fechas no cambian de valor."
+  },
+  {
+    "id": "traduccion_usuario",
+    "grupo": "Traducción a otros idiomas",
+    "titulo": "Petición",
+    "ayuda": "El mensaje con los textos que hay que traducir. {contenido} son los textos en español, en formato JSON.",
+    "variables": [
+      "idioma",
+      "contenido"
+    ],
+    "texto": "Traduce al {idioma} los textos de este contenido:\n\n{contenido}"
+  },
+  {
     "id": "discapacidad_filtro_sistema",
     "grupo": "Sección Discapacidad",
     "titulo": "Filtro de titulares",

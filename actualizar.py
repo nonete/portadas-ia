@@ -13,6 +13,9 @@ Pasos que sigue:
        - ultimo.json     → lo que enseña la web
        - historial.json  → un registro por día con la crispación
 
+  4. Traducir los textos de la IA a los demás idiomas de la web y guardarlos
+     en datos/<país>/traducciones/<idioma>/ (ultimo.json e historial.json).
+
 Los pasos se repiten para cada país de la lista PAISES.
 """
 
@@ -329,6 +332,20 @@ OPINADORES = [
     {"id": "extrema_derecha", "nombre": "Uno de extrema derecha"},
     {"id": "centro", "nombre": "Una demócrata de centro"},
 ]
+
+# Idiomas a los que se traducen los textos de la IA (además del español, que
+# es en el que se escriben). La clave es la carpeta de la web (/en/, /de/…) y
+# el valor, el nombre del idioma que se le dice a ChatGPT. Tienen que ser los
+# mismos idiomas que IDIOMAS de web/textos.py.
+IDIOMAS_TRADUCCION = {
+    "de": "alemán",
+    "en": "inglés",
+    "pt": "portugués de Brasil",
+    "fr": "francés",
+    "zh": "chino simplificado",
+    "ru": "ruso",
+}
+DIAS_HISTORIAL_POR_TRADUCIR = 40   # como mucho, comentarios de días pasados por llamada
 
 HORAS = [8, 18]                # horas (de Madrid) a las que se actualiza
 MAX_TITULARES = 12              # noticias de cada portada que se envían a ChatGPT
@@ -681,6 +698,135 @@ def actualizar_pais(codigo: str, ahora: datetime, turno: int, forzar: bool) -> N
     print(f"{pais['nombre']}: guardado. Crispación: {general['crispacion']} / 100")
 
 
+# ----------------------------------------------------------------------
+# PASO 4 · TRADUCIR A LOS DEMÁS IDIOMAS
+# ----------------------------------------------------------------------
+
+class PeriodicoTraducido(BaseModel):
+    """Los tres textos de un periódico, ya traducidos."""
+
+    resumen: str = Field(description="El resumen traducido, con las mismas líneas que empiezan por '- '.")
+    motivo_populismo: str = Field(description="El motivo de la nota de populismo, traducido.")
+    sesgo: str = Field(description="El texto del sesgo, traducido.")
+
+
+class Traduccion(BaseModel):
+    """La respuesta de ChatGPT al traducir un país a un idioma. Las listas
+    llevan los mismos elementos, y en el mismo orden, que las que se le envían."""
+
+    temas: str = Field(description="Los temas del día, traducidos.")
+    motivo_crispacion: str = Field(description="El motivo de la crispación, traducido.")
+    periodicos: list[PeriodicoTraducido] = Field(description="Un elemento por periódico, en el mismo orden.")
+    opiniones: list[str] = Field(description="Una opinión traducida por cada opinión recibida, en el mismo orden.")
+    historial: list[str] = Field(description="Un comentario traducido por cada comentario recibido, en el mismo orden.")
+
+
+PROMPT_TRADUCCION = ChatPromptTemplate.from_messages(
+    [("system", TEXTOS["traduccion_sistema"]), ("human", TEXTOS["traduccion_usuario"])]
+)
+
+
+def archivo_traduccion(codigo: str, idioma: str, nombre: str) -> Path:
+    """datos/fr/traducciones/en/ultimo.json, datos/fr/traducciones/en/historial.json…"""
+    return CARPETA / codigo / "traducciones" / idioma / nombre
+
+
+def traducir_pais(codigo: str) -> list[str]:
+    """Traduce los textos de la última lectura de un país a cada idioma que lo necesite.
+
+    Se guarda en datos/<país>/traducciones/<idioma>/:
+      - ultimo.json     → los textos de la IA traducidos. Lleva una marca
+                          ("origen") con la fecha, el turno y la hora de la
+                          lectura traducida: la web solo usa la traducción si
+                          coincide con la lectura que está enseñando.
+      - historial.json  → {fecha: comentario de crispación de ese día}
+
+    Solo se traduce lo que falta: si un idioma ya tiene traducida esta lectura,
+    no se vuelve a pedir. Devuelve la lista de idiomas que han fallado.
+    """
+    ultimo = leer_json(archivo_ultimo(codigo), None)
+    if not ultimo:
+        return []
+    nombre_pais = PAISES[codigo]["nombre"]
+    origen = [ultimo["fecha"], ultimo["turno"], ultimo["generado"]]
+    pendientes = [
+        idioma for idioma in IDIOMAS_TRADUCCION
+        if leer_json(archivo_traduccion(codigo, idioma, "ultimo.json"), {}).get("origen") != origen
+    ]
+    if not pendientes:
+        print(f"{nombre_pais}: las traducciones de esta lectura ya están hechas.")
+        return []
+
+    con_analisis = [p for p in ultimo["periodicos"] if p.get("analisis")]
+    opiniones = ultimo.get("opiniones") or []
+    historial = leer_json(archivo_historial(codigo), [])
+
+    # Lo que se envía a cada idioma. Es casi igual para todos; solo cambia la
+    # lista de comentarios de días pasados que a ese idioma le faltan.
+    peticiones, fechas_pedidas, historiales = [], {}, {}
+    for idioma in pendientes:
+        historiales[idioma] = leer_json(archivo_traduccion(codigo, idioma, "historial.json"), {})
+        # El comentario de hoy es el motivo de la crispación, que ya va aparte.
+        faltan = [
+            dia for dia in historial
+            if dia["fecha"] != ultimo["fecha"] and dia["fecha"] not in historiales[idioma] and dia.get("comentario")
+        ][-DIAS_HISTORIAL_POR_TRADUCIR:]
+        fechas_pedidas[idioma] = [dia["fecha"] for dia in faltan]
+        contenido = {
+            "temas": ultimo["general"]["temas"],
+            "motivo_crispacion": ultimo["general"]["motivo_crispacion"],
+            "periodicos": [
+                {clave: p["analisis"][clave] for clave in ("resumen", "motivo_populismo", "sesgo")}
+                for p in con_analisis
+            ],
+            "opiniones": [opinion["texto"] for opinion in opiniones],
+            "historial": [dia["comentario"] for dia in faltan],
+        }
+        peticiones.append({
+            "idioma": IDIOMAS_TRADUCCION[idioma],
+            "contenido": json.dumps(contenido, ensure_ascii=False, indent=1),
+        })
+
+    print(f"{nombre_pais}: traduciendo a {', '.join(pendientes)}…")
+    modelo = ChatOpenAI(api_key=leer_secreto("OPENAI_API_KEY"), model=leer_secreto("OPENAI_MODEL"))
+    cadena = PROMPT_TRADUCCION | modelo.with_structured_output(Traduccion)
+    # return_exceptions=True: si un idioma falla, los demás se guardan igual.
+    respuestas = cadena.batch(peticiones, return_exceptions=True)
+
+    fallos = []
+    for idioma, respuesta in zip(pendientes, respuestas):
+        if isinstance(respuesta, Exception):
+            print(f"  {idioma}: ERROR: {respuesta}")
+            fallos.append(idioma)
+            continue
+        # Si ChatGPT devuelve listas de otro tamaño no se puede saber qué texto
+        # es de quién: esa traducción se descarta.
+        if (len(respuesta.periodicos) != len(con_analisis) or len(respuesta.opiniones) != len(opiniones)
+                or len(respuesta.historial) != len(fechas_pedidas[idioma])):
+            print(f"  {idioma}: ERROR: la traducción no tiene los mismos elementos que el original.")
+            fallos.append(idioma)
+            continue
+
+        guardar_json(archivo_traduccion(codigo, idioma, "ultimo.json"), {
+            "origen": origen,
+            "idioma": idioma,
+            "general": {"temas": respuesta.temas, "motivo_crispacion": respuesta.motivo_crispacion},
+            "periodicos": {
+                periodico["nombre"]: traducido.model_dump()
+                for periodico, traducido in zip(con_analisis, respuesta.periodicos)
+            },
+            "opiniones": {opinion["id"]: texto.strip() for opinion, texto in zip(opiniones, respuesta.opiniones)},
+        })
+        comentarios = historiales[idioma]
+        comentarios.update(zip(fechas_pedidas[idioma], respuesta.historial))
+        comentarios[ultimo["fecha"]] = respuesta.motivo_crispacion
+        guardar_json(archivo_traduccion(codigo, idioma, "historial.json"), dict(sorted(comentarios.items())))
+    hechos = [idioma for idioma in pendientes if idioma not in fallos]
+    if hechos:
+        print(f"{nombre_pais}: traducido a {', '.join(hechos)}.")
+    return fallos
+
+
 def main() -> None:
     ahora = datetime.now(MADRID)
     turno = turno_actual(ahora)
@@ -710,6 +856,15 @@ def main() -> None:
         except Exception as error:
             print(f"{PAISES[codigo]['nombre']}: ERROR: {error}")
             fallos.append(PAISES[codigo]["nombre"])
+        # Después se traduce a los demás idiomas lo que falte. Va aparte para
+        # que un fallo al traducir no estropee la lectura en español.
+        try:
+            idiomas_fallidos = traducir_pais(codigo)
+            if idiomas_fallidos:
+                fallos.append(f"{PAISES[codigo]['nombre']} (traducción a {', '.join(idiomas_fallidos)})")
+        except Exception as error:
+            print(f"{PAISES[codigo]['nombre']}: ERROR al traducir: {error}")
+            fallos.append(f"{PAISES[codigo]['nombre']} (traducción)")
 
     if fallos:
         sys.exit("Ha fallado la actualización de: " + ", ".join(fallos))

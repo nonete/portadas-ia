@@ -15,6 +15,16 @@ Qué muestra:
 - **Periódico a periódico**: resumen, nivel de populismo (0-100) y sesgo de cada uno.
 - **Crispación día a día**: una tabla con un registro por día.
 
+## Idiomas de la web
+
+`portadas-ia.com` se puede leer en español, alemán, inglés, portugués, francés, chino y ruso. Arriba de cada página hay un selector de idioma.
+
+- El español está en la raíz (`/`, `/francia/`) y cada idioma en su carpeta (`/en/`, `/en/france/`, `/de/frankreich/`…).
+- Los textos fijos (títulos, rótulos, la página de metodología) están traducidos a mano en `web/textos.py`.
+- Los textos de la IA (resúmenes, sesgo, crispación y opiniones) se escriben en español y `actualizar.py` los traduce con ChatGPT: una llamada por país e idioma, que se guarda en `datos/<país>/traducciones/<idioma>/`. Solo se traduce lo que falta.
+- Si falta la traducción de una lectura, esa página enseña los textos de la IA en español.
+- Las páginas fijas por día (`/francia/2026-11-12/`) solo existen en español.
+
 ## Sección Discapacidad
 
 Arriba del todo hay un selector de sección: **Portadas** y **Discapacidad** (también `?seccion=discapacidad` en la dirección).
