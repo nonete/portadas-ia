@@ -1,39 +1,39 @@
 {
   "pais": "Alemania",
   "fecha": "2026-11-15",
-  "turno": 8,
-  "generado": "15/11/2026 14:28",
+  "turno": 18,
+  "generado": "15/11/2026 21:50",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "La guerra en Ucrania aparece en Süddeutsche Zeitung, Die Welt y taz. También se repiten las protestas juveniles, tratadas por Die Welt y Der Spiegel, y las noticias sobre el exjefe de Nvidia, presentes en Süddeutsche Zeitung, Die Welt y Bild. Die Welt y Der Spiegel abordan además el mercado inmobiliario. Solo taz destaca la multa impuesta a Meta en Italia por una infracción de protección de datos.",
-    "crispacion": 62,
-    "motivo_crispacion": "La guerra entre Rusia y Ucrania ocupa varias portadas y aporta un fuerte componente de confrontación. En Alemania, las protestas juveniles suscitan debate sobre sus participantes y dejaron detenciones en Berlín, aunque Der Spiegel señala que fueron mayoritariamente pacíficas. También hay tensión por la disputa sobre el liderazgo del SPD y por las críticas a la propuesta de cobrar por acceder antes al especialista. Las noticias deportivas, culturales y de salud ofrecen un contrapunto más tranquilo."
+    "temas": "El partido de la NFL en Múnich aparece en cuatro periódicos. También se repiten las tensiones en la coalición alemana, las protestas por la reforma de la radiodifusión en Chequia y la guerra en Ucrania. Varios diarios abordan además la muerte de Lisa, el conflicto dentro de La Izquierda berlinesa y los pagos por citas médicas. Solo taz destaca el debate sobre agricultura ecológica y técnicas genéticas.",
+    "crispacion": 65,
+    "motivo_crispacion": "La crispación es considerable por los desacuerdos entre Unión y SPD sobre el presupuesto y el impuesto eléctrico, así como por el enfrentamiento entre Bodo Ramelow y Vanessa Emde dentro de La Izquierda. Las protestas en Chequia reflejan preocupación por la independencia de los medios, mientras la guerra en Ucrania y las sospechas de sabotaje elevan la tensión internacional. También hay acusaciones contra los habitantes del pueblo donde fue encontrada Lisa. Las noticias deportivas, culturales y científicas aportan asuntos menos conflictivos."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "La propuesta de cobrar por conseguir antes una cita con el especialista revela, a mi juicio, la lógica de clase que amenaza la sanidad: quien tiene dinero compra tiempo; quien vive de su salario espera. La salud no puede organizarse como un privilegio. Necesitamos servicios públicos con personal y recursos suficientes, financiados solidariamente, no una cola preferente para quien pueda pagar.\n\nTambién la inteligencia artificial plantea una disputa: no basta con celebrar el progreso si sus beneficios quedan en manos de grandes propietarios mientras la clase trabajadora soporta la pérdida de empleos. Defiendo la propiedad colectiva y el control democrático de tecnologías e infraestructuras esenciales, para repartir sus frutos y reducir la jornada sin reducir salarios. Las movilizaciones por el clima recuerdan, además, que la transición debe proteger a quienes trabajan, no dejarles pagar la factura de decisiones tomadas por el gran capital."
+      "texto": "Hoy veo una misma disputa detrás de dos noticias: quién paga los servicios esenciales y quién controla sus beneficios. La propuesta de permitir que pacientes con seguro público paguen de su bolsillo para acceder a más citas médicas abre la puerta a una sanidad donde la capacidad de pago compre ventaja. Yo defiendo una sanidad pública financiada solidariamente, con atención según la necesidad, no según la cartera.\n\nEl auge de los parques solares en Baviera plantea otra cuestión de clase. Necesitamos energías renovables, pero también proteger la tierra y escuchar a las comunidades afectadas. Si la transición queda en manos del gran capital, sus prioridades serán la rentabilidad y la acumulación, no el interés común. Prefiero la propiedad colectiva y el control democrático de la energía: que quienes trabajan y viven en cada territorio decidan cómo producirla y compartan sus beneficios."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "Hoy vuelvo a desconfiar de la política que reduce los problemas colectivos a quién ocupa la jefatura de un partido. Cambiar de dirigente en el SPD no altera por sí solo la distancia entre quienes deciden y quienes viven las consecuencias. Prefiero una democracia practicada desde abajo: asambleas abiertas, decisiones revocables y personas capaces de organizarse sin entregar su autonomía a una cúpula.\n\nLa propuesta de cobrar por acceder antes al especialista revela otra jerarquía: la de quienes pueden pagar frente a quienes deben esperar. La salud no debería depender ni del dinero ni de la obediencia a un aparato burocrático; defendamos cuidados universales, gestionados con participación de pacientes y trabajadores. Las movilizaciones juveniles y climáticas recuerdan que la libertad colectiva se construye actuando juntos, no esperando permiso. Mi alternativa es apoyo mutuo y autogestión, no nuevos jefes."
+      "texto": "La disputa de la coalición alemana por la electricidad y las prestaciones sociales confirma mi desconfianza en los partidos: deciden desde arriba qué necesidades enfrentar entre sí, mientras la gente queda reducida a esperar el resultado. Tampoco acepto que quienes tienen seguro público deban pagar de su bolsillo para acceder a más citas médicas. La salud no debería depender de la capacidad de pago. Prefiero una atención universal, gestionada con participación directa de pacientes y profesionales, y sostenida por la solidaridad.\n\nLas protestas en Chequia por la independencia de los medios recuerdan que la libertad necesita organización colectiva. No basta con confiar la información al Estado ni al mercado: hacen falta medios autónomos, sostenidos por sus comunidades y libres de jerarquías que dicten qué puede decirse. La autogestión no promete soluciones mágicas; devuelve a las personas el poder de buscarlas juntas."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "Las protestas juveniles y la advertencia sobre los riesgos hipotecarios me recuerdan que una sociedad libre necesita oportunidades, pero también responsabilidad. No condenaría a todos los manifestantes por los incidentes de unos pocos: protestar pacíficamente es un derecho. Del mismo modo, asumir una hipoteca exige que compradores y prestamistas valoren los riesgos, sin dar por hecho que el contribuyente cubrirá cualquier pérdida.\n\nEn educación, comparto la ambición de reforzar el alemán y las matemáticas, pero no creo que gastar más baste por sí solo. Prefiero dar a las familias más capacidad de elección y exigir resultados a los centros. Un Estado limitado debe concentrarse en sus funciones esenciales, permitir que la competencia impulse mejores servicios y dejar más dinero en manos de quienes lo ganan. Impuestos más bajos y reglas claras favorecen la inversión y la autonomía personal."
+      "texto": "La discusión sobre la rebaja del impuesto a la electricidad muestra una política demasiado acostumbrada a repartir antes que a revisar sus prioridades. Yo quiero que hogares y empresas conserven más de lo que ganan: bajar impuestos no es un privilegio, sino una forma de devolver capacidad de decisión a quienes pagan la factura. Para hacerlo de manera sostenible, el gasto también debe examinarse sin convertir cada partida en intocable.\n\nLo mismo vale para el debate social: ayudar a quien lo necesita es compatible con exigir responsabilidad personal y reconocer que un Estado limitado no puede resolver todas las circunstancias de la vida. En Baviera, el auge solar plantea otra tensión legítima: producir energía y preservar el paisaje. Prefiero reglas claras que protejan los derechos de propiedad y permitan competir a las tecnologías, antes que imponer una solución única desde el poder."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Yo quiero una Alemania que vuelva a decidir sobre sus fronteras, sus recursos y su futuro. La discusión sobre las prestaciones por hijos residentes en otros países de la UE plantea una cuestión legítima: ¿por qué no debería nuestro Parlamento poder limitar ese gasto? Si la normativa europea lo impide, hay que impulsar su reforma. La solidaridad no puede sustituir a la responsabilidad de un Estado ante sus propios ciudadanos.\n\nLa propuesta de reforzar el alemán, las matemáticas y la enseñanza apunta en la dirección correcta: sin una lengua común ni una educación exigente, no hay comunidad nacional duradera. Y la controversia sobre Starshield recuerda cuánto depende la seguridad europea de tecnologías controladas desde fuera. Prefiero invertir en capacidades propias antes que confiar nuestra soberanía a empresas o gobiernos extranjeros. Las élites deben rendir cuentas, no pedir fe ciega."
+      "texto": "La llegada de 1.580 migrantes a Canarias en un solo día debería recordarnos que una frontera que el Estado no controla deja de ser una frontera. Yo defiendo controles estrictos y decisiones soberanas sobre quién entra y permanece en Europa. Eso es compatible con auxiliar a quienes han arriesgado la vida en el mar; precisamente por eso necesitamos reglas claras, no improvisación.\n\nTambién me preocupa el avance de los parques solares sobre el paisaje bávaro. La transición energética no puede servir de excusa para sacrificar tierras y tradiciones locales sin escuchar a quienes viven allí. Entretanto, la coalición alemana se enreda en disputas sobre impuestos y pensiones. Yo espero de sus dirigentes menos cálculos de poder y más responsabilidad: proteger el territorio, la seguridad y los recursos de nuestra nación."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Me preocupa la propuesta de cobrar a los pacientes del seguro público por conseguir antes una cita con el especialista. Entiendo la urgencia de reducir las esperas, pero convertir la rapidez en un privilegio debilitaría la confianza en un sistema que debe atender según la necesidad. Prefiero reformas graduales: mejorar la organización y evaluar dónde hacen falta más recursos, con transparencia sobre sus costes.\n\nTambién creo que las protestas juveniles merecen algo más que etiquetas. La mayoría de las últimas movilizaciones fue pacífica; los posibles delitos deben investigarse sin descalificar a toda una generación. Escuchar no significa aceptar cualquier demanda, sino abrir un debate serio sobre las oportunidades que ofrecemos a los jóvenes. La inteligencia artificial puede crear prosperidad, pero sus beneficios no llegarán solos a quienes vean amenazado su empleo. Necesitamos innovación y competencia, acompañadas de formación y protección social."
+      "texto": "La crisis de la coalición alemana me preocupa menos por el desacuerdo en sí que por la dificultad de convertirlo en decisiones confiables. La disputa entre aliviar el impuesto eléctrico y preservar la pensión para madres exige explicar costes y prioridades, no presentar cada concesión como una derrota. Gobernar en coalición requiere compromisos verificables y finanzas responsables.\n\nTambién veo una elección falsa en la transición energética bávara: necesitamos más energía solar, pero no a cualquier precio para el paisaje y los suelos. Yo favorecería reglas claras, planificación local y participación vecinal para orientar la inversión privada hacia soluciones aceptables.\n\nY ante la propuesta de pagar por más citas médicas, defendería una sanidad donde la rapidez de atención no dependa cada vez más del bolsillo. Las reformas deben mejorar la oferta sin sacrificar la igualdad de acceso."
     }
   ],
   "periodicos": [
@@ -42,71 +42,71 @@
       "web": "https://www.sueddeutsche.de",
       "noticias": [
         {
-          "titulo": "Krieg in der Ukraine: Selenskij fordert Ende der Starshield-Drosselung – US-Senatoren wollen Untersuchung",
-          "entradilla": "Russland habe Erfolg mit Angriffen, weil Starshield nicht die volle Leistung habe, sagt der ukrainische Präsident. Auf Space-X kommt derweil aufgrund der Drosselung des Satelliteninternets für die Ukraine eine parlamentarische Untersuchung zu.",
-          "enlace": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-starshield-drosselung-selenskij-li.3571967"
+          "titulo": "Getötete Lisa T.: Ein Dorf wird angegriffen",
+          "entradilla": "Eine 13-Jährige wird verschleppt, man findet sie tot in einem Dorf in Brandenburg. Die Anteilnahme ist riesig, doch dann beginnen Schuldzuweisungen an die Dorfbewohner.",
+          "enlace": "https://www.sueddeutsche.de/panorama/lisa-t-altglietzen-brandenburg-entfuehrung-trauergottesdienst-li.3579868"
         },
         {
-          "titulo": "Promis: „Es war, als wäre ein großer Schleier gelüftet worden“",
-          "entradilla": "Johnny Depp sieht klarer, Wilson Gonzalez Ochsenknecht daddelt fast 12 000 Stunden „GTA“, und Affe Punch hat einen Artgenossen adoptiert.",
-          "enlace": "https://www.sueddeutsche.de/panorama/punch-johnny-depp-gta6-kate-wilson-gonzalez-ochsenknecht-li.3579899"
+          "titulo": "NFL in München: Football-Fans übernehmen Münchens Wirtshäuser und die Fußball-Arena",
+          "entradilla": "Blaue Löwen-Dirndl, selbst komponierte Lieder vor dem Stadion, Gronk-Trikots – und schließlich eine einseitige Partie: Der NFL-Besuch hat München fest im Griff.",
+          "enlace": "https://www.sueddeutsche.de/muenchen/nfl-muenchen-american-football-detroit-lions-new-england-patriots-li.3578833"
         },
         {
-          "titulo": "Eurovision Song Contest: Bitte, kommen Sie nach Asien",
-          "entradilla": "Der größte Musikwettbewerb der Welt hat einen Ableger fernab von Europa: Die erste Gewinnerin des Eurovision Song Contest Asia kommt von den Philippinen. Doch die Show ruckelt noch.",
-          "enlace": "https://www.sueddeutsche.de/medien/eurovision-song-contest-asien-thailand-philippinen-esc-li.3580243"
+          "titulo": "Nachruf: Ozan Ata Canani: Alle wollen glücklich sein",
+          "entradilla": "Ata Canani hat in seinen Liedern die türkische und die deutsche Kultur zusammengebracht. Jetzt ist der zu spätem Ruhm gekommene Musiker unerwartet früh gestorben.",
+          "enlace": "https://www.sueddeutsche.de/kultur/ozan-ata-canani-gestorben-musiker-deutschland-tuerkei-li.3580871"
         },
         {
-          "titulo": "Ski-Alpin-Saison 2026/27: Von Slalom bis Abfahrt: der Weltcup-Kalender zu allen Rennen",
-          "entradilla": "Mehr als 40 Rennen, rund 20 Weltcup-Stationen und eine WM: Die neue Ski-Alpin-Saison startet Ende Oktober in Sölden. Wir geben einen Überblick, wann wo welcher Wettbewerb stattfindet.",
-          "enlace": "https://www.sueddeutsche.de/sport/ski-alpin-kalender-saison-2026-27-rennen-weltcup-ueberblick-li.3557187"
+          "titulo": "Krieg in der Ukraine: Estland schließt nach mutmaßlichem Sabotageangriff alle Grenzübergänge zu Russland",
+          "entradilla": "Mehrere Männer werden verdächtigt, ein Feuer bei einem Drohnenhersteller geplant zu haben, dessen Produkte auch von der Ukraine eingesetzt werden. Wie lang die Grenzen dicht bleiben sollen, ist unklar.",
+          "enlace": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-estland-russland-grenzuebergaenge-li.3571967"
         },
         {
-          "titulo": "SPD: Lars Klingbeil braucht eine Stütze, keinen Sturz",
-          "entradilla": "Hubertus Heil bringt sich in Stellung für den Parteivorsitz. Doch mit einem Wechsel an der Spitze wäre nichts gewonnen. Sinnvoller wäre es, dem Parteichef eine starke Frau an die Seite zu stellen.",
-          "enlace": "https://www.sueddeutsche.de/meinung/spd-vorsitz-lars-klingbeil-manuela-schwesig-kommentar-li.3579386"
+          "titulo": "Solarpark-Boom in Bayern: Zerstört die Energiewende die Landschaft?",
+          "entradilla": "In Bayern boomt die Photovoltaikbranche. Doch mit der Zahl der Anlagen wächst auch der Widerstand gegen die Technisierung der Landschaft und den Verlust von Böden.  Ginge es auch anders?",
+          "enlace": "https://www.sueddeutsche.de/bayern/solarparks-bayern-energiewende-landschaftsschutz-photovoltaik-li.3564688"
         },
         {
-          "titulo": "Lehren aus der deutsch-französischen Geschichte: Wie sich Europa vor Extremisten schützen kann",
-          "entradilla": "Der letzte Band der Deutsch-Französischen Geschichte über die Zeit von 1933 bis 1945 zeigt bei allen konfliktreichen Unterschieden viele Gemeinsamkeiten auf. Die Historikerin Alya Aglan über den Wert nachbarschaftlicher Freundschaft.",
-          "enlace": "https://www.sueddeutsche.de/politik/deutsch-franzoesische-geschichte-zweiter-weltkrieg-interview-alya-aglan-li.3551655"
+          "titulo": "Ski alpin: Emma Aicher ist jetzt Rentier-Patentante",
+          "entradilla": "Die deutsche Topfahrerin gewinnt in Abwesenheit von Mikaela Shiffrin den Slalom in Levi und nährt die Hoffnung auf eine starke Saison. Auf der Piste tut sie sich leichter als bei der Rentierfütterung.",
+          "enlace": "https://www.sueddeutsche.de/sport/ski-alpin-emma-aicher-levi-rentier-sieg-slalom-li.3580690"
         },
         {
-          "titulo": "Vorschlag eines ehemaligen Bildungspolitikers: Mehr Deutsch, mehr Mathe, mehr Lehrer",
-          "entradilla": "Glaubt man Hamburgs ehemaligem Bildungssenator Ties Rabe, ist die Bildungskrise erstaunlich leicht zu lösen. Immerhin kann er ja klare Erfolge für seine Stadt vorweisen. Nur billig würde es nicht.",
-          "enlace": "https://www.sueddeutsche.de/politik/bildungskrise-ties-rabe-hamburg-schulreformen-pisa-studie-li.3551493"
+          "titulo": "Schwarz-Rot: Merz und Klingbeil unter Druck, Koalition in der Krise",
+          "entradilla": "Bundeskanzler und CDU-Chef Friedrich Merz wird zu große Nachgiebigkeit gegenüber den Sozialdemokraten vorgeworfen. Derweil kämpft auch der SPD-Chef um seine Macht.",
+          "enlace": "https://www.sueddeutsche.de/politik/schwarz-rot-friedrich-merz-lars-klingbeil-spd-machtkampf-hubertus-heil-li.3580696"
         },
         {
-          "titulo": "USA: Republikanerin Lauren Boebert verliert in Colorado",
-          "entradilla": "Die Republikanerin unterliegt der Demokratin Eileen Laubacher. Boebert gilt als Symbolfigur der Bewegung um Trump und war zuvor dreimal gewählt worden.",
-          "enlace": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-colorado-boebert-li.3578585"
+          "titulo": "Historischer Gipfel: Warum sich Trump mit Putin und Xi trifft – und was die Welt befürchtet",
+          "entradilla": "Donald Trump will mit Chinas Staatschef und Russlands Präsident über Atomwaffen und den Iran-Krieg sprechen. Bei Europäern und Analysten löst der Gipfel der Großmächte vor allem eine Sorge aus.",
+          "enlace": "https://www.sueddeutsche.de/politik/trump-putin-xi-jinping-gipfel-shenzhen-li.3580616"
         },
         {
-          "titulo": "SPD-Vorsitz: Ziemlich beste Feinde",
-          "entradilla": "Hubertus Heil war jahrelang an allen Entscheidungen der SPD beteiligt und präsentiert sich nun als Mann für einen neuen Aufbruch. Nun hängt vieles an Manuela Schwesig, auch für Lars Klingbeil.",
-          "enlace": "https://www.sueddeutsche.de/politik/spd-vorsitz-heil-kandidatur-klingbeil-schwesig-li.3580594"
+          "titulo": "Nationalmannschaft: Den Sechser, den Klopp sucht, gibt es vielleicht gar nicht in Deutschland",
+          "entradilla": "Kimmich auf der Sechs, Pavlovic auf der Acht – das muss mit Blick auf die EM 2028 nicht so bleiben. Um das Viertelfinale der Nations League zu erreichen, ist es die Lösung, die keine Unruhe bringt.",
+          "enlace": "https://www.sueddeutsche.de/sport/dfb-mittelfeld-klopp-kimmich-pavlovic-kommentar-li.3580700"
         },
         {
-          "titulo": "Papst in Lateinamerika: „Padre Roberto“ ist zurück in Peru",
-          "entradilla": "Hier war er Missionar und Bischof: Papst Leo XIV. wird in der peruanischen Stadt Chiclayo emotional empfangen. Aber auch ein dunkles Kapitel der Kirche begleitet ihn bis hierher.",
-          "enlace": "https://www.sueddeutsche.de/politik/papst-leo-xiv-peru-li.3577629"
+          "titulo": "Elektronikhandel: Was die Mediamarkt-Saturn-Übernahme für Kunden bedeutet",
+          "entradilla": "Die EU-Kommission hat grünes Licht für den Verkauf an das chinesische Unternehmen JD.com gegeben. Was sich bei Filialen, Sortiment, Preisen und Kundendaten ändern könnte.",
+          "enlace": "https://www.sueddeutsche.de/wirtschaft/mediamarkt-saturn-jd-com-uebernahme-faq-li.3575497"
         },
         {
-          "titulo": "USA: Toxische Bekanntschaft",
-          "entradilla": "Die Nähe zum früheren Nvidia-Chef Huang belastet US-Präsident Trump, seit die Affäre mit einer mutmaßlichen Spionin aus China aufgeflogen ist. Noch gefährlicher wird der Skandal jedoch für Handelsminister Lutnick.",
-          "enlace": "https://www.sueddeutsche.de/politik/nvidia-tech-chips-megaspeed-lutnick-trump-spionage-china-li.3580148"
+          "titulo": "Schwarz-Rot: Wie man eine Koalition vor die Wand fährt",
+          "entradilla": "Die Unionsfraktion ist unzufrieden mit ihrem Kanzler Friedrich Merz, die SPD hadert mit ihrem Vizekanzler Lars Klingbeil. Man möchte fragen: Merkt ihr selber, oder?",
+          "enlace": "https://www.sueddeutsche.de/meinung/schwarz-rot-friedrich-merz-lars-klingbeil-koalition-kommentar-li.3580067"
         },
         {
-          "titulo": "Bundespolitik: Hubertus Heil kandidiert für SPD-Vorsitz",
-          "entradilla": "Der 54-Jährige will sich beim Parteitag Mitte Januar zur Wahl stellen. Er ist der erste, der seine Kandidatur offiziell verkündet hat.",
-          "enlace": "https://www.sueddeutsche.de/politik/spd-hubertus-heil-li.3580581"
+          "titulo": "Russland und die USA: Putins Diesel will keiner in den USA",
+          "entradilla": "Trump überrumpelte die Welt mit seiner Ankündigung, die USA würden Millionen Tonnen russischen Diesel kaufen. Doch die in See gestochenen Tanker drehten ab – sie fanden keine Abnehmer. Moskau profitiert trotzdem.",
+          "enlace": "https://www.sueddeutsche.de/politik/russland-usa-trump-putin-diesel-deal-oeltanker-li.3578803"
         }
       ],
       "analisis": {
-        "resumen": "- Ucrania pide el fin de la limitación de Starshield; senadores estadounidenses plantean investigarla.\n- Hubertus Heil anuncia su candidatura a la presidencia del SPD; varios artículos abordan la situación de Lars Klingbeil y Manuela Schwesig.\n- En Estados Unidos, Lauren Boebert pierde unas elecciones en Colorado y se examina un escándalo que afecta a Trump y a Lutnick.\n- La portada trata propuestas educativas, lecciones de la historia franco-alemana y la visita del papa a Perú.\n- También incluye noticias de famosos, Eurovisión Asia y el calendario de esquí alpino.",
-        "populismo": 20,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «mejores enemigos», «relación tóxica» y «capítulo oscuro» dramatizan algunas noticias; no se aprecia una apelación al pueblo contra las élites.",
-        "sesgo": "La portada presta especial atención a la política del SPD, con un artículo de opinión que defiende apoyar a Klingbeil en lugar de sustituirlo. Algunos titulares políticos y religiosos destacan conflictos y escándalos."
+        "resumen": "- Una adolescente es hallada muerta en Brandeburgo y los habitantes del pueblo reciben acusaciones.\n- Estonia cierra sus pasos fronterizos con Rusia tras un presunto intento de sabotaje.\n- Merz y Klingbeil afrontan presiones internas en medio de una crisis de coalición.\n- Una cumbre de Trump con Putin y Xi suscita preocupación entre europeos y analistas.\n- La portada también aborda el impacto de los parques solares, la NFL en Múnich y la muerte del músico Ozan Ata Canani.",
+        "populismo": 25,
+        "motivo_populismo": "Expresiones como «un pueblo es atacado», «cómo estrellar una coalición» y «¿destruye la transición energética el paisaje?» dramatizan los temas, aunque no se aprecia una apelación al pueblo contra las élites.",
+        "sesgo": "La selección destaca conflictos y tensiones políticas, con un enfoque crítico hacia la coalición y atención a los posibles costes paisajísticos de la energía solar. Los titulares también incluyen noticias deportivas y culturales de tono más ligero."
       }
     },
     {
@@ -114,71 +114,71 @@
       "web": "https://www.welt.de",
       "noticias": [
         {
-          "titulo": "Handwerker, Zahnersatz, Krypto – Wo Sie noch vor 2027 handeln sollten",
-          "entradilla": "Viele Steuervorteile lassen sich nur noch bis Jahresende nutzen. Manche Ausgaben sollten vor Silvester erfolgen, andere lassen sich gezielt bündeln. Wer jetzt geschickt handelt, kann Hunderte Euro sparen.",
-          "enlace": "https://www.welt.de/finanzen/plus6af44f00c45061d752ba62e8/steuertipps-bis-jahresende-handwerker-zahnersatz-krypto-wo-sie-noch-vor-2027-handeln-sollten.html"
+          "titulo": "„Aufgabe vom Sozialstaat ist es, den Leuten in allen Lebenslagen zur Seite zu stehen“, sagt Kipping",
+          "entradilla": "Jan Fleischhauer fordert Einsparungen im Sozialstaat. Die Geschäftsführerin des Paritätischen Wohlfahrtsverbandes, Katja Kipping, will Leistungen bündeln – und mehr Geld ins System geben.",
+          "enlace": "https://www.welt.de/vermischtes/article6af9ea909849eea0701e3d58/keine-talkshow-eingesperrt-mit-jan-fleischhauer-aufgabe-vom-sozialstaat-ist-es-den-leuten-in-allen-lebenslagen-zur-seite-zu-stehen-sagt-kipping.html"
         },
         {
-          "titulo": "Was Sie von Ihren toten Eltern ein Leben lang aufbewahren sollten: Ihre Trauer",
-          "entradilla": "„Nehmen Sie sich alle Zeit, die Sie brauchen“: Wer die Beileidsfloskel wörtlich nimmt und allein die Wohnung der verstorbenen Eltern ausräumt, weiß, was „Trauerarbeit“ bedeutet. Er lernt seine Familie neu kennen – vor allem aber sich selbst.",
-          "enlace": "https://www.welt.de/kultur/plus6af59da85596369bf0edca3e/haushaltsaufloesung-was-sie-von-ihren-toten-eltern-ein-leben-lang-aufbewahren-sollten-ihre-trauer.html"
+          "titulo": "„Ein Traum, der wahr wird“ – St. Brown führt Lions mit zwei Touchdowns zum Sieg",
+          "entradilla": "Amon-Ra St. Brown hat einen perfekten Auftritt in der Heimat seiner Mutter hingelegt. Der Deutsche überragte beim Sieg der Detroit Lions über die New England Patriots in München. Nun soll er die einstige Loser-Truppe der NFL in die Playoffs führen.",
+          "enlace": "https://www.welt.de/sport/article6afa01749849eea0701e3e63/nfl-in-muenchen-ein-traum-der-wahr-wird-st-brown-fuehrt-lions-mit-zwei-touchdowns-zum-sieg.html"
         },
         {
-          "titulo": "„Keine Lust zu haben, ist ja nicht automatisch ungesund“",
-          "entradilla": "Er sagt, er wolle seine Frau zu nichts drängen. Und fühlt sich trotzdem ungeliebt, wenn sie keinen Sex möchte. Paar- und Sexualtherapeutin Julia Henchen erklärt, warum Männer ein Nein so persönlich nehmen – und Frauen oft am falschen Problem arbeiten.",
-          "enlace": "https://www.welt.de/iconist/partnerschaft/plus6af5c8385596369bf0edd44c/partnerschaft-keine-lust-zu-haben-ist-ja-nicht-automatisch-ungesund.html"
+          "titulo": "Als es um Infantino geht, wird Jürgen Klopp deutlich",
+          "entradilla": "Deutschland trifft in der Nations League am Montag auf die Niederlande. Es geht um das Weiterkommen. Am Abend zuvor sprach Bundestrainer Klopp nicht nur über den Gegner. Er findet klare Worte, als er nach dem Fifa-Chef gefragt wird.",
+          "enlace": "https://www.welt.de/sport/fussball/article6af9e8a19849eea0701e3d36/fifa-als-es-um-infantino-geht-wird-juergen-klopp-deutlich.html"
         },
         {
-          "titulo": "Erstes Endspiel für Klopp",
-          "entradilla": "Als Bundestrainer steht Jürgen Klopp am Montagabend unter Druck. Gegen die Niederlande geht es um das Weiterkommen in der Nations League. Bei einer Niederlage droht Deutschland sogar der Abstieg.",
-          "enlace": "https://www.welt.de/sport/fussball/article6af9713a9849eea0701e35c5/nationalmannschaft-erstes-endspiel-fuer-klopp-gegen-die-niederlande-droht-der-abstieg.html"
+          "titulo": "„Es treibt uns die Fassungslosigkeit um“ – Menschen gedenken der getöteten 13-jährigen Lisa",
+          "entradilla": "Nach dem gewaltsamen Tod der 13-jährigen Lisa trauert Altglietzen. Der Fund des Mädchens in einem leerstehenden Haus hat die Dorfgemeinschaft erschüttert.",
+          "enlace": "https://www.welt.de/vermischtes/kriminalitaet/article6afa0b359849eea0701e3ecb/altglietzen-in-schockstarre-es-treibt-uns-die-fassungslosigkeit-um-menschen-gedenken-der-getoeteten-13-jaehrigen-lisa.html"
         },
         {
-          "titulo": "„Generationenvertrag ist gebrochen“ – Grünen-Chef verteidigt Gen-Z-Demonstrationen",
-          "entradilla": "Felix Banaszak warnt nach den Jugendprotesten davor, junge Demonstranten wegen einzelner Ausschreitungen pauschal zu verurteilen. Sie dürften nicht als Krawallmacher und Chaoten abgestempelt werden.",
-          "enlace": "https://www.welt.de/politik/deutschland/article6af9914a9849eea0701e37f1/20-festnahmen-in-berlin-generationenvertrag-ist-gebrochen-gruenen-chef-verteidigt-gen-z-demonstrationen.html"
+          "titulo": "Stromsteuer gegen Mütterrente? „Da machen wir uns dann ehrlicherweise lächerlich“, warnt Söder",
+          "entradilla": "CSU-Chef Markus Söder will die beschlossene Mütterrente nicht für eine Stromsteuersenkung kürzen. Im Koalitionsausschuss beraten Union und SPD über die Entlastung für alle.",
+          "enlace": "https://www.welt.de/politik/article6afa07c54495f9bd85b815ca/berlin-direkt-stromsteuer-gegen-muetterrente-da-machen-wir-uns-dann-ehrlicherweise-laecherlich-warnt-soeder.html"
         },
         {
-          "titulo": "Warum Bauchfett mehr über Ihr Sterberisiko verrät als Ihr Gewicht",
-          "entradilla": "Wie gefährlich Übergewicht ist, lässt sich nicht allein an der Zahl auf der Waage ablesen. Forscher zeigen, warum der BMI wichtige Gesundheitsrisiken übersehen kann und welcher bislang oft vernachlässigte Faktor wirklich Klarheit schafft.",
-          "enlace": "https://www.welt.de/wissenschaft/article6af9848a4468a1e3991a30b9/bmi-warum-bauchfett-mehr-ueber-ihr-sterberisiko-verraet-als-ihr-gewicht.html"
+          "titulo": "„Das zerstört jedes Vertrauen“ – Ramelow fordert Emde zum Fraktionsaustritt auf",
+          "entradilla": "Linken-Politiker Bodo Ramelow fordert die Berliner Abgeordnete Vanessa Emde zum Fraktionsaustritt auf. Er sieht das Vertrauen nach ihrer Abkehr vom Sondierungspapier zerstört.",
+          "enlace": "https://www.welt.de/politik/article6af9e24a9849eea0701e3ce2/berliner-regierungsbildung-das-zerstoert-jedes-vertrauen-ramelow-fordert-emde-zum-fraktionsaustritt-auf.html"
         },
         {
-          "titulo": "„Es ist feucht, es ist dunkel, es stinkt, überall liegen Leichen herum“",
-          "entradilla": "Die neue Front gegen Russland verläuft unterirdisch, im riesigen Netz von stillgelegten Gaspipelines. Soldaten berichten exklusiv von unglaublichen Szenen. Strategen befürchten, dass dies erst der Anfang ist.",
-          "enlace": "https://www.welt.de/politik/ausland/plus6af5e106d2f851d14ad018c2/gaspipelines-in-der-todeszone-es-ist-feucht-es-ist-dunkel-es-stinkt-ueberall-liegen-leichen-herum.html"
+          "titulo": "„Hoch bezahlter Lobbyist“ – Lauterbach attackiert Kassenärzte-Chef Gassen",
+          "entradilla": "Karl Lauterbach weist den Vorschlag zu Selbstzahlerterminen für Kassenpatienten zurück. Den Vorstoß von Kassenärzte-Chef Gassen bezeichnet der frühere Gesundheitsminister als den Versuch, die Not von Patienten auszunutzen.",
+          "enlace": "https://www.welt.de/gesundheit/article6af9db246b444af68d4ad75a/termine-bei-fachaerzten-hoch-bezahlter-lobbyist-lauterbach-attackiert-kassenaerzte-chef-gassen.html"
         },
         {
-          "titulo": "„Wirklich peinlich“ – Auch bei Pressekonferenz zu US-Flugchaos kommt es zu technischer Panne",
-          "entradilla": "Tausende Flüge fielen in den USA wegen technischer Probleme aus. Als dann US-Verkehrsminister Sean Duffy vor Journalisten auftrat, um die Sache zu erklären, lief auch nicht alles glatt.",
-          "enlace": "https://www.welt.de/vermischtes/article6af9810e9849eea0701e36bd/historisches-startverbot-wirklich-peinlich-auch-bei-pressekonferenz-zu-us-flugchaos-kommt-es-zu-technischer-panne.html"
+          "titulo": "Das versteckte Risiko des KI-Booms – und die doppelte Gefahr für Anleger",
+          "entradilla": "Der KI-Boom hat Amerika reich gemacht, jetzt droht die große Abrechnung. Sollte die KI‑Blase platzen, müssten Anleger ihre klassische Krisenstrategie überdenken. Denn ein Crash hätte noch eine weitere, ungewöhnliche Konsequenz.",
+          "enlace": "https://www.welt.de/finanzen/plus6af6e8cf5a72dceba1d6145d/nvidia-skandal-das-versteckte-risiko-des-ki-booms-und-die-doppelte-gefahr-fuer-anleger.html"
         },
         {
-          "titulo": "Der KI-König ist gefallen – und sein Imperium erzittert",
-          "entradilla": "Nach 33 Jahren ist die Ära Jensen Huang bei Nvidia abrupt zu Ende gegangen. Sein Sturz vernichtete 800 Milliarden Dollar Börsenwert – und offenbart ein grundsätzliches Risiko der Tech-Welt.",
-          "enlace": "https://www.welt.de/wirtschaft/plus6af82e1d53bfd3fb2fb17f78/ceo-sturz-der-ki-koenig-ist-gefallen-und-sein-imperium-erzittert.html"
+          "titulo": "1580 Menschen an einem Tag – Kanaren melden neuen Rekord von ankommenden Migranten",
+          "entradilla": "Unter den angekommenen Migranten befinden sich 120 Frauen und 173 Minderjährige. Sie waren tagelang auf See unterwegs, um an der Küste Europas zu landen. Am stärksten betroffen war dieses Mal die Insel El Hierro.",
+          "enlace": "https://www.welt.de/politik/ausland/article6af9c3f04495f9bd85b81076/spanien-1580-menschen-an-einem-tag-kanaren-melden-neuen-rekord-von-ankommenden-migranten.html"
         },
         {
-          "titulo": "Kindergeld ins EU-Ausland – „Das tragen wir nicht mehr mit“",
-          "entradilla": "Die Union stört sich an hohen Kindergeld-Zahlungen nach Osteuropa – und rüttelt an der Regelung. Allerdings steht einer Änderung eine hohe rechtliche Hürde im Weg.",
-          "enlace": "https://www.welt.de/politik/deutschland/plus6af484eadb4e2fa8f6eb7a73/sozialleistungen-kindergeld-ins-eu-ausland-das-tragen-wir-nicht-mehr-mit.html"
+          "titulo": "„Niemand könnte diese Konstellation schlagen“ – Landeschef fordert Doppelspitze Heil und Schwesig",
+          "entradilla": "Sachsen-Anhalts SPD-Chef Schmidt spricht sich für Hubertus Heil und Manuela Schwesig als Parteichefs aus. Die Union attackiert er scharf. Sollte AfD-Politiker Siegmund mit CDU-Stimmen zum Ministerpräsidenten gewählt werden, hätte das weitreichende Folgen.",
+          "enlace": "https://www.welt.de/politik/deutschland/article6af98a7d4468a1e3991a312c/spd-parteivorsitz-niemand-koennte-diese-konstellation-schlagen-landeschef-fordert-doppelspitze-heil-und-schwesig.html"
         },
         {
-          "titulo": "Immobilienkäufe auf Pump – Jetzt schlägt sogar die Bundesbank Alarm",
-          "entradilla": "Hohe Zinsen treffen auf Jobverluste und sinkende Immobilienpreise. Ausgerechnet jetzt offenbaren neue Zahlen ein unterschätztes Risiko in Deutschlands Baufinanzierungen.",
-          "enlace": "https://www.welt.de/wirtschaft/plus6af604a650175c81de7a44dc/immobilienkaeufe-auf-pump-jetzt-schlaegt-sogar-die-bundesbank-alarm.html"
+          "titulo": "Deutschlands letzte Chance gegen eine „DDR 2.0“",
+          "entradilla": "Zwei Jahrzehnte lebte Thomas Mayer im Ausland. Nun ist der Ökonom zurück in Deutschland und hat sich entschieden: Statt innerer Emigration wählt er den politischen Widerspruch.",
+          "enlace": "https://www.welt.de/wirtschaft/article6aef249e798c07f951a8f28d/wahl-in-berlin-deutschlands-letzte-chance-gegen-eine-ddr-2-0.html"
         },
         {
-          "titulo": "„Der Kanzler ist nicht wirklich fähig zu mutiger Führung“",
-          "entradilla": "„Merz hat seinem Koalitionspartner deutlich gemacht: Ich bin von dir abhängig“, kritisiert „Denkfabrik R21“-Gründer Andreas Rödder: „Der einzige Ausweg aus diesem tödlichen Dilemma für die Union ist, in die Offensive zu gehen.“",
-          "enlace": "https://www.welt.de/politik/deutschland/video6af97abb9849eea0701e3636/andreas-roedder-der-kanzler-ist-nicht-wirklich-faehig-zu-mutiger-fuehrung.html"
+          "titulo": "CDU noch stärkste Kraft in NRW – Grüne, AfD und Linke legen zu",
+          "entradilla": "Gut fünf Monate vor der NRW-Landtagswahl verliert Schwarz-Grün in Umfragen zwar an Zustimmung, bleibt aber relativ stabil. Grüne, AfD und Linke legen zu. Die SPD fällt auf Platz vier zurück.",
+          "enlace": "https://www.welt.de/politik/deutschland/article6af9b9f86b444af68d4ad562/landtagswahl-im-april-cdu-noch-staerkste-kraft-in-nrw-gruene-afd-und-linke-legen-zu.html"
         }
       ],
       "analisis": {
-        "resumen": "- La portada presenta testimonios de soldados sobre combates subterráneos contra Rusia.\n- En política alemana, se recogen críticas al canciller, el debate sobre las ayudas por hijos enviadas a otros países de la UE y la defensa de las protestas juveniles por un dirigente verde.\n- En economía, se advierte de riesgos en las hipotecas y se informa de la salida de Jensen Huang de Nvidia; también se ofrecen consejos para aprovechar ventajas fiscales.\n- Las noticias de salud y vida personal tratan sobre la grasa abdominal, el duelo y el deseo sexual en pareja.\n- En deporte, se destaca la presión sobre Klopp ante Países Bajos; en Estados Unidos, el caos aéreo y un fallo técnico durante una rueda de prensa.",
-        "populismo": 48,
-        "motivo_populismo": "Destacan expresiones alarmistas y dramatizadas como «el rey de la IA ha caído», «la Bundesbank da la voz de alarma» y la descripción de cadáveres en la guerra, aunque apenas aparecen apelaciones al pueblo contra las élites.",
-        "sesgo": "La selección favorece los conflictos políticos, los riesgos económicos y la presentación dramática de algunas noticias. Las críticas al canciller y a las ayudas enviadas al extranjero se atribuyen a sus protagonistas, por lo que no bastan por sí solas para establecer una posición editorial."
+        "resumen": "- Debate sobre el Estado social, las pensiones de las madres y una posible rebaja del impuesto eléctrico.\n- Tensiones en Die Linke y la SPD; en Renania del Norte-Westfalia, la CDU sigue primera en los sondeos.\n- La muerte violenta de Lisa, de 13 años, conmociona a la localidad de Altglietzen.\n- Las Canarias registran la llegada de 1.580 migrantes en un día; otro artículo advierte de riesgos para los inversores por el auge de la IA.\n- St. Brown destaca en la victoria de los Lions en Múnich y Klopp habla antes del partido contra Países Bajos.",
+        "populismo": 45,
+        "motivo_populismo": "Expresiones como «última oportunidad» frente a una «RDA 2.0» y «doble peligro» para los inversores son alarmistas, mientras que «lobista muy bien pagado» introduce una descalificación; otros titulares son más informativos.",
+        "sesgo": "La selección y la redacción dan protagonismo a los conflictos políticos, los riesgos económicos y las declaraciones polémicas. Se recogen posturas diversas, aunque algunos titulares usan un enfoque crítico y dramatizado."
       }
     },
     {
@@ -186,71 +186,71 @@
       "web": "https://www.spiegel.de",
       "noticias": [
         {
-          "titulo": "Vergewaltigungen: Warum Männer öfter vergewaltigen als sie glauben",
-          "entradilla": "Zwei prominente Männer wurden jüngst wegen Vergewaltigung verurteilt. Viele Vergewaltigungen bleiben aber ungesühnt – auch, weil Opfer nicht erkennen, dass sie eine erleben. Und Täter wohl manchmal nicht wissen, dass sie eine begehen.",
-          "enlace": "https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben-a-1681c8a9-ab06-4680-9680-76e8956640ad#ref=rss"
+          "titulo": "Lesen: Warum Jugendliche Bücher meiden und ihr Denken leidet",
+          "entradilla": "Vor allem in Deutschland sinkt die Lesekompetenz drastisch, zeigen Studien. Der Sprachpsychologe Falk Huettig erklärt, warum Jugendliche Bücher meiden und das sogar ihr Denkvermögen gefährden kann.",
+          "enlace": "https://www.spiegel.de/wissenschaft/lesen-warum-jugendliche-buecher-meiden-und-ihr-denken-leidet-a-ab18da3b-3fae-403a-87c7-a7b77c40cb03#ref=rss"
         },
         {
-          "titulo": "Sabrina Hoffmann: »Mütter sollen Chefinnen sein, aber dennoch dauerpräsent und verfügbar sein«",
-          "entradilla": "Ihre Zwillinge waren zwei Jahre alt, als Sabrina Hoffmann Chefredakteurin bei der »Frankfurter Rundschau« wurde. Nach sieben Monaten schmiss sie hin und beklagte zu wenig Rückhalt in der Redaktion. Hier spricht sie über die Hintergründe.",
-          "enlace": "https://www.spiegel.de/kultur/sabrina-hoffmann-muetter-sollen-chefinnen-sein-aber-dennoch-dauerpraesent-und-verfuegbar-sein-a-fc3ee322-d9ab-48db-9165-b5aa09215720#ref=rss"
+          "titulo": "X von Elon Musk: Die Zone, die Donald Trumps Jünger mit Shit fluteten, war ihr eigener Garten",
+          "entradilla": "Als Tesla-Chef Elon Musk Twitter kaufte und zu einem Naherholungsgebiet für Nationalisten umbaute, jubelte das Trump-Lager. Dann wiederholten die Rechten den Fehler der Linken: Sie vergaßen die echte Welt.",
+          "enlace": "https://www.spiegel.de/kultur/x-von-elon-musk-die-zone-die-donald-trumps-juenger-mit-shit-fluteten-war-ihr-eigener-garten-a-20633e1f-eaca-4127-af23-0ef57a0bf4de#ref=rss"
         },
         {
-          "titulo": "Vanessa Emde: Die frühen Gedichte der Skandal-Linken",
-          "entradilla": "Vanessa Emde, die israelfeindliche Aktivistin aus Neukölln, dominiert seit Wochen die Berliner Koalitionsgespräche. Früher inszenierte sie am Theater und schrieb Lyrik. Was verrät ihr Werk über sie?",
-          "enlace": "https://www.spiegel.de/politik/deutschland/vanessa-emde-die-fruehen-gedichte-der-skandal-linken-a-33089a48-bd29-4ed2-b624-03370da8e383#ref=rss"
-        },
-        {
-          "titulo": "»Gen Z regelt«-Proteste: Weniger Zulauf, 22 Festnahmen in Berlin",
-          "entradilla": "Die erneuten Gen-Z-Proteste am Samstag haben an Zulauf verloren. Meist blieb es friedlich, nur in Berlin gab es 22 Festnahmen. Am Freitag soll ein europaweiter Jugendstreik folgen.",
-          "enlace": "https://www.spiegel.de/panorama/gen-z-regelt-proteste-weniger-zulauf-22-festnahmen-in-berlin-a-bd129e26-8004-4562-a07a-ecee3e5ea39d#ref=rss"
-        },
-        {
-          "titulo": "»Sarajevo-Safaris«: »Ein Fall, der einem das Blut in den Adern gefrieren lässt«",
-          "entradilla": "Reiche Europäer sollen im Bosnienkrieg dafür bezahlt haben, auf Zivilisten zu schießen. Erstmals sprechen die Mailänder Staatsanwälte über ihre Ermittlungen. Eine Zeugin erinnert sich an Gäste mit Nachtsichtgeräten.",
-          "enlace": "https://www.spiegel.de/ausland/sarajevo-safaris-ein-fall-der-einem-das-blut-in-den-adern-gefrieren-laesst-a-33ccf20d-2774-4108-aa96-f78dcbabd759#ref=rss"
+          "titulo": "Russland: Ukraine schießt großes Industriegebiet in Brand",
+          "entradilla": "Angriffsdrohnen haben ein wichtiges russisches Industriegebiet 1000 Kilometer östlich von Moskau getroffen. US-Präsident Trump bereitet sich derweil auf einen Gipfel mit Putin und Xi vor. Mit bei der Reise: Elon Musk.",
+          "enlace": "https://www.spiegel.de/wirtschaft/ukraine-schiesst-grosses-russisches-industriegebiet-in-brand-a-6fbf0df7-642d-47c8-a121-4f68d281d873#ref=rss"
         },
         {
           "titulo": "Spanien vor der Wahl: Verliert Linken-Posterboy Pedro Sánchez sein Land an die Rechten?",
-          "entradilla": "Weil er sich gegen den Irankrieg stellte, feiert ihn die globale Linke. Daheim liegt Pedro Sánchez vor der Wahl am 29. November deutlich zurück. Weggefährten erzählen, warum er trotzdem noch eine Chance hat.",
+          "entradilla": "Weil er sich gegen Trumps Irankrieg stellte, wurde Pedro Sánchez weltweit zum Held der Linken. Doch nun droht ausgerechnet dem gefeierten Spanier ein schneller Absturz – mit schwerwiegenden Folgen.",
           "enlace": "https://www.spiegel.de/ausland/spanien-vor-der-wahl-verliert-linken-posterboy-pedro-sanchez-sein-land-an-die-rechten-a-e06b9c16-b930-4208-bf10-cb7631de5c6a#ref=rss"
         },
         {
-          "titulo": "Guatemala ruft Ausnahmezustand in Drogenhochburg Zacapa aus",
-          "entradilla": "In Guatemalas Grenzregion Zacapa wurden zuletzt mindestens 17 Menschen bei bewaffneten Angriffen getötet. Nun handelt die Regierung. Die USA haben die herrschenden Kartelle zu Terrorgruppen erklärt.",
-          "enlace": "https://www.spiegel.de/ausland/guatemala-ruft-ausnahmezustand-in-drogenhochburg-zacapa-aus-a-40fe25c5-5d39-420e-b71c-60e4a270f0a3#ref=rss"
+          "titulo": "The Goodforces: Diese Agentur will Rot-Rot-Grün an die Macht bringen",
+          "entradilla": "Bis 2029 will The Goodforces eine Mehrheit für SPD, Grüne und Linke mobilisieren. Noch sprechen die Umfragen dagegen. Die Berliner Agentur aber prägt längst etliche Debatten.",
+          "enlace": "https://www.spiegel.de/panorama/gesellschaft/the-goodforces-diese-agentur-will-rot-rot-gruen-an-die-macht-bringen-a-a48eab23-fe3c-4493-9b10-fd8af9137538#ref=rss"
         },
         {
-          "titulo": "Wolf Biermann: Warum der Liedermacher die DDR verlassen musste",
-          "entradilla": "Erich Honecker bewahrte ihn vor dem Knast, dessen Ehefrau Margot besuchte seine Ost-Berliner Wohnung im Pelzmantel. Dann wurde der Liedermacher Wolf Biermann in den Westen verbannt – für viele der Anfang vom Ende der DDR.",
-          "enlace": "https://www.spiegel.de/geschichte/wolf-biermann-warum-der-liedermacher-die-ddr-verlassen-musste-a-9130a254-b30e-40b1-8016-dde193358350#ref=rss"
+          "titulo": "Union und SPD: Der nächste Showdown steht schon bevor",
+          "entradilla": "Der Haushalt steht – aber große Teile der Union wollen sich mit dem Ergebnis nicht abfinden. Es geht unter anderem um die Stromsteuer, die nicht gesenkt wird. Wird die Entscheidung am Dienstag umgeworfen?",
+          "enlace": "https://www.spiegel.de/politik/deutschland/union-und-spd-der-naechste-showdown-steht-schon-bevor-a-94ccfbd7-9b7a-44a4-912d-22ff94e88a6c#ref=rss"
         },
         {
-          "titulo": "Arbeitsmarkt: Was der KI-Umbruch mit den Weberaufständen gemeinsam hat",
-          "entradilla": "Technischer Fortschritt hat in der Geschichte immer wieder Jobs gekostet. Wie können wir dafür sorgen, dass die künstliche Intelligenz uns frei macht – statt neuer Abhängigkeiten zu schaffen?",
-          "enlace": "https://www.spiegel.de/karriere/arbeitsmarkt-was-der-ki-umbruch-mit-den-weberaufstaenden-gemeinsam-hat-a-a860ca80-19fc-4192-92ee-d5b26126a47e#ref=rss"
+          "titulo": "Linke in Berlin: Bodo Ramelow wirft Vanessa Emde Vertrauensbruch vor",
+          "entradilla": "Der Druck auf die umstrittene Berliner Linkenpolitikerin Vanessa Emde wächst: Auch Parteigenosse Bodo Ramelow drängt Emde dazu, die Fraktion im Abgeordnetenhaus der Hauptstadt zu verlassen.",
+          "enlace": "https://www.spiegel.de/politik/deutschland/streit-um-berliner-linke-bodo-ramelow-wirft-vanessa-emde-vertrauensbruch-vor-a-67d8cd65-ef4e-4350-a7e6-d3282ce950ec#ref=rss"
         },
         {
-          "titulo": "Cartoons der Woche von Thomas Plaßmann, Klaus Stuttmann, Julian Fiebach",
-          "entradilla": "Merz’ neues Problem mit der Stromsteuer, Putins Sicherheitsarchitektur und warum Nvidias Chips gerade nervös sind. Sehen Sie hier gesammelt die Cartoons der Woche.",
-          "enlace": "https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach-a-41dd4cff-d659-4efc-bbbf-0cfdd66ea94f#ref=rss"
+          "titulo": "Kinderdoping: Wie Eltern ihre Kinder mit Wachstumshormon dopen lassen",
+          "entradilla": "Millionen Minderjährige weltweit werden offenbar gedopt. Viele von ihnen kommen über Trainer oder Betreuer an die Substanzen. Hier schildert ein Arzt, welche Rolle dabei auch Eltern spielen.",
+          "enlace": "https://www.spiegel.de/sport/kinderdoping-wie-eltern-ihre-kinder-mit-wachstumshormon-dopen-lassen-a-03cbcd02-0697-4019-b41c-b7d192f2c044#ref=rss"
         },
         {
-          "titulo": "Immobilien: Der Babyboomer-Effekt – wo die Hauspreise bald sinken könnten",
-          "entradilla": "Wenn die Gesellschaft altert und die Bevölkerung schrumpft, dürften viele Immobilien bald günstig zu haben sein. Hier erfahren Sie, welche Regionen zum Schnäppchen werden und wo die Preise weiter steigen.",
-          "enlace": "https://www.spiegel.de/wirtschaft/service/immobilien-der-babyboomer-effekt-wo-die-hauspreise-bald-sinken-koennten-a-00557592-2697-44a8-a607-7060fe84e1a0#ref=rss"
+          "titulo": "VW ID. Polo im Test: Taugt der neue Elektro-Polo im Alltag?",
+          "entradilla": "Mit dem ID. Polo will Volkswagen zeigen: Ein bezahlbares Elektroauto kann in allen Lebenslagen genügen. Unser Autor hat es ausprobiert.",
+          "enlace": "https://www.spiegel.de/mobilitaet/auto/vw-id-polo-im-test-taugt-der-neue-elektro-polo-im-alltag-a-50ee1751-c3e4-4641-8152-bef8fdde5dd3#ref=rss"
         },
         {
-          "titulo": "Mandy Kunze: 50-Jährige aus Sachsen gewinnt »Mensch ärgere Dich nicht«-WM",
-          "entradilla": "Würfelglück und Strategiegeschick – Mandy Kunze hat beides. In Berlin verteidigte sie ihren WM-Titel im Gesellschaftsspiel »Mensch ärgere Dich nicht«. Das Finale war eine deutliche Angelegenheit.",
-          "enlace": "https://www.spiegel.de/panorama/gesellschaft/mandy-kunze-50-jaehrige-aus-sachsen-gewinnt-mensch-aergere-dich-nicht-wm-a-4a6b3dd3-4041-414f-8aa4-4a77e797c33b#ref=rss"
+          "titulo": "Immobilien und Erbe: Was tun mit dem Elternhaus?",
+          "entradilla": "Sanieren und vermieten oder doch einfach verkaufen – wer ein Haus erbt, steht oft auch emotional vor einer schwierigen Entscheidung. Ein rationaler Blick auf die Zahlen hilft da.",
+          "enlace": "https://www.spiegel.de/wirtschaft/service/immobilien-und-erbe-was-tun-mit-dem-elternhaus-a-7711823a-072e-44d8-a7e4-76ec610115de#ref=rss"
+        },
+        {
+          "titulo": "Tschechien: Massenproteste gegen Rundfunkreform",
+          "entradilla": "Die tschechische Regierung will den öffentlich-rechtlichen Rundfunk künftig aus Staatsmitteln statt durch Rundfunkgebühren finanzieren. In Prag kam es nun zu Massenprotesten gegen die Pläne.",
+          "enlace": "https://www.spiegel.de/ausland/tschechien-massenproteste-gegen-rundfunkreform-a-a936f58f-3277-403f-b795-591524b7a9de#ref=rss"
+        },
+        {
+          "titulo": "Amon-Ra St. Brown beim NFL-Spiel in München: Deutschland hat ein neues Football-Idol",
+          "entradilla": "Beim NFL-Spiel in München war der beste deutsche Footballspieler der Geschichte dabei: Amon-Ra St. Brown. Der Offensivstar zeigte seine Weltklasse – und welche Bedeutung er für deutsche Footballfans hat.",
+          "enlace": "https://www.spiegel.de/sport/american-football/amon-ra-st-brown-beim-nfl-spiel-in-muenchen-deutschland-hat-ein-neues-football-idol-a-64c79fa3-60be-4541-8bc3-1394a65c485e#ref=rss"
         }
       ],
       "analisis": {
-        "resumen": "- Un reportaje aborda las violaciones no reconocidas por víctimas o agresores y los casos que quedan impunes.\n- Sabrina Hoffmann explica su salida de la dirección de un periódico y las exigencias que afrontan las madres directivas.\n- La portada examina la obra de la activista Vanessa Emde y recoge el descenso de participación en las protestas de la generación Z.\n- La fiscalía de Milán investiga denuncias de que europeos ricos pagaron por disparar contra civiles durante la guerra de Bosnia.\n- Otras noticias tratan sobre las elecciones en España, la violencia en Guatemala, la inteligencia artificial, la vivienda y la cultura.",
-        "populismo": 30,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «la izquierda del escándalo», «la sangre se hiela en las venas» y «pierde su país ante la derecha» recurren a la descalificación, el dramatismo o la polarización.",
-        "sesgo": "La selección da peso a los conflictos políticos y sociales y a las desigualdades de género. Algunas formulaciones presentan a protagonistas políticos mediante etiquetas valorativas o un encuadre de confrontación."
+        "resumen": "- Estudios alertan de una caída de la competencia lectora juvenil, especialmente en Alemania.\n- Un artículo critica la transformación de X bajo Elon Musk y la relación de la derecha con la plataforma.\n- Ucrania ataca una zona industrial rusa, mientras Trump prepara una cumbre con Putin y Xi.\n- La portada aborda la situación política en España y los conflictos entre partidos alemanes.\n- También trata el dopaje infantil, las protestas en Chequia y noticias de consumo y deporte.",
+        "populismo": 42,
+        "motivo_populismo": "Conviven titulares informativos con otros de tono sensacionalista o confrontativo, como «discípulos de Trump», «caída rápida» y «el próximo enfrentamiento».",
+        "sesgo": "La selección da mucho peso a la política y a sus conflictos. Algunos titulares usan expresiones valorativas, especialmente sobre Trump, la derecha y Pedro Sánchez, aunque se presentan asuntos desde distintos ámbitos políticos."
       }
     },
     {
@@ -258,71 +258,71 @@
       "web": "https://www.bild.de",
       "noticias": [
         {
-          "titulo": "Mitarbeiter berichten von Wutanfällen - Ex-Nvidia-Chef soll „ich hoffe, du stirbst“ geschrien haben",
-          "entradilla": "Nach Rücktritt von Huang berichten Beschäftigte von Wutausbrüchen und Demütigungen.",
-          "enlace": "https://www.bild.de/news/ausland/ex-nvidia-chef-mitarbeiter-berichten-von-wutanfaellen-und-demuetigungen-6af992499849eea0701e3805"
+          "titulo": "Amazon-Mission gescheitert! - Vulcan-Rakete verfehlt Umlaufbahn",
+          "entradilla": "Eine Anomalie verhindert, dass die ULA die Amazon-Mission ins All bringt.",
+          "enlace": "https://www.bild.de/leben-wissen/amazon-mission-gescheitert-us-rakete-versagt-nach-dem-start-6afa15574495f9bd85b81697"
         },
         {
-          "titulo": "Kaum zu glauben - Diese 4 Mainzer sind Gewinner des Krisen-Starts",
-          "entradilla": "Mainz 05 schwächelt: Aber 4 seiner Profis dürfen sich trotzdem als Gewinner feiern lassen!",
-          "enlace": "https://www.bild.de/sport/fussball/kaum-zu-glauben-vier-profis-von-mainz-05-sind-krisen-gewinner-6af98af06b444af68d4ad296"
+          "titulo": "„Einer der bestaussehenden Menschen“ - Schöner Fußballer bringt Klopp aus dem Konzept",
+          "entradilla": "Jürgen Klopp schwärmt vom Aussehen und der Stimme DIESES Spielers",
+          "enlace": "https://www.bild.de/sport/fussball/einer-der-bestaussehenden-menschen-schoener-fussballer-bringt-klopp-aus-dem-konzept-6afa16449849eea0701e3f72"
         },
         {
-          "titulo": "Schauen Sie mal! - Cheerleader lachen sich im Deutsch-Test kaputt",
-          "entradilla": "Auf das große NFL-Spiel zwischen den Lions und den Patriots in München bereitet sich jeder anders vor: Die Cheerleader der beiden Te...",
-          "enlace": "https://www.bild.de/sport/mehr-sport/deutschkentnisse-im-test-cheerleader-bueffeln-fuer-das-nfl-spektakel-6af9aa0d6b444af68d4ad45e"
+          "titulo": "2:4 gegen Schwenningen - Eisbären stürzen von der Spitze",
+          "entradilla": "Der Berliner Meister kassiert gegen Schwenningen die dritte Niederlage in Folge.",
+          "enlace": "https://www.bild.de/sport/mehr-sport/eisbaeren-berlin-dritte-pleite-in-folge-und-tabellenfuehrung-weg-6afa18254495f9bd85b816d6"
         },
         {
-          "titulo": "Nach 1. DFB-Nominierung - Kramer schwärmt von Gladbach-Talent Mohya",
-          "entradilla": "2014-Weltmeister Christoph Kramer (35) schwärmt von Gladbach-Talent Wael Mohya (17)",
-          "enlace": "https://www.bild.de/sport/fussball/borussia-moenchengladbach-christoph-kramer-schwaermt-von-wael-mohya-6af968f39849eea0701e3571"
+          "titulo": "Hunderttausende auf der Straße - Riesen-Proteste gegen Rundfunk-Pläne in Tschechien",
+          "entradilla": "Bis zu 450.000 Menschen werfen der Regierung Angriffe auf die Pressefreiheit vor.",
+          "enlace": "https://www.bild.de/politik/ausland-und-internationales/rechte-regierung-in-der-kritik-proteste-gegen-rundfunkplaene-in-tschechien-6afa035b9849eea0701e3e71"
         },
         {
-          "titulo": "Drei Tore in zwei Spielen - Köln-Star Heskey schießt sich in Form",
-          "entradilla": "Reigan Heskey liefert bei der englischen U19-Nationalmannschaft, sammelt Selbsvertrauen.",
-          "enlace": "https://www.bild.de/sport/fussball/1-fc-koeln-heskey-trifft-in-zwei-spielen-fuer-englands-u19-dreimal-6af961024495f9bd85b8082d"
+          "titulo": "Neuer BSW-Landesvorsitzender - Verhilft Deutschlands jüngster Parteichef der AfD zur Macht?",
+          "entradilla": "Ein 21-Jähriger führt das BSW in Sachsen-Anhalt und beeinflusst dort Abstimmungen.",
+          "enlace": "https://www.bild.de/politik/inland/neuer-landesvorsitzender-des-bsw-in-sachsen-anhalt-verhilft-deutschlands-juengster-parteichef-der-afd-zur-macht-6af89452389d31d8c8a8077f"
         },
         {
-          "titulo": "„Ich verfolge das intensiv“ - Ex-Boss Mann tut Hannover-Krise weh",
-          "entradilla": "Ex-Boss Marcus Mann blickt mit Sorge auf 96. Wie bewertet er die aktuelle Situation?",
-          "enlace": "https://www.bild.de/sport/fussball/2-bundesliga-ex-boss-mann-tut-krise-von-hannover-96-weh-6af993cc9849eea0701e3822"
+          "titulo": "Wo sie ab Montag deutlich günstiger sind - Schoko-Weihnachtsmänner im Preis-Check",
+          "entradilla": "Eine Erhebung zeigt die Preise für Schoko-Weihnachtsmänner. Doch es gibt sie billiger.",
+          "enlace": "https://www.bild.de/news/inland/schoko-weihnachtsmaenner-im-preis-check-wo-sie-jetzt-deutlich-guenstiger-sind-6af989a89849eea0701e377c"
         },
         {
-          "titulo": "Ausgerechnet vorm Topspiel - Erfurt-Trainer macht Abflug nach Litauen",
-          "entradilla": "Warum Fabian Gerber nach Litauen muss und wer jetzt übernimmt.",
-          "enlace": "https://www.bild.de/sport/fussball/ausgerechnet-vorm-topspiel-rwe-trainer-macht-abflug-nach-litauen-6af992d64495f9bd85b80c27"
+          "titulo": "„Nicht gedacht, dass …“ - Auch Klopp will Fifa-Boss Infantino weghaben",
+          "entradilla": "Ein ganz klares Statement zur Fifa-Präsidentenwahl 2027 von unserem Bundestrainer.",
+          "enlace": "https://www.bild.de/sport/fussball/juergen-klopp-mit-klarem-statement-ueber-fifa-boss-infantino-nicht-gedacht-6af9e92b4495f9bd85b81321"
         },
         {
-          "titulo": "Sie gelten ab sofort - Neue Regeln in Kroatien können 1900 Euro kosten",
-          "entradilla": "Es drohen sehr hohe Bußgelder. Urlauber sollten wissen, was sie jetzt beachten müssen.",
-          "enlace": "https://www.bild.de/leben-wissen/reisen/sie-gelten-ab-sofort-neue-regeln-in-kroatien-koennen-1900-euro-kosten-6af839764495f9bd85b7fb2b"
+          "titulo": "Nach Vergewaltigungs-Urteil - Russell Brands Frau bricht ihr Schweigen",
+          "entradilla": "Der verurteilte Sexualstraftäter ist in einer YouTube-Show mit seiner Ehefrau zu sehen.",
+          "enlace": "https://www.bild.de/news/ausland/nach-urteil-russell-brand-taucht-ploetzlich-in-youtube-show-auf-6af9f7c64468a1e3991a3778"
         },
         {
-          "titulo": "Der Big-Boss wusste es - Wie viele Punkte die SVE noch braucht",
-          "entradilla": "Klein, bescheiden, bloß nicht zu viel erwarten! So wurde man vor der Saison eingeschätzt.",
-          "enlace": "https://www.bild.de/sport/fussball/der-big-boss-wusste-es-wie-viele-punkte-die-sve-noch-braucht-6af9a13c4468a1e3991a32e9"
+          "titulo": "Nordpol im Wohnzimmer - Weihnachtsmann-Sammlung sprengt alle Grenzen",
+          "entradilla": "Allison Nebel staunte über die mehr als 160 Figuren ihres Freundes.",
+          "enlace": "https://www.bild.de/leben-wissen/nordpol-im-wohnzimmer-mein-mann-ist-ein-weihnachtsmann-messi-6afa0d534495f9bd85b81621"
         },
         {
-          "titulo": "Schande 81 Jahre nach Massaker - Häuser-Bau auf deutschem Massengrab",
-          "entradilla": "In Tschechien wurden Knochen entdeckt, die vermutlich aus dem Jahr 1945 stammen.",
-          "enlace": "https://www.bild.de/news/ausland/haeuser-bau-auf-deutschem-massengrab-in-tschechien-6af2f4077ad3511ee835ece6"
+          "titulo": "NFL-Spektakel in München - Jetzt wird sogar Silbereisen zum Football-Fan",
+          "entradilla": "Die NFL lockte 70.000 Zuschauer zum Spiel Patriots gegen Lions nach München.",
+          "enlace": "https://www.bild.de/unterhaltung/stars-und-leute/nfl-spektakel-in-muenchen-jetzt-wird-sogar-silbereisen-zum-football-fan-6af9cea14468a1e3991a358a"
         },
         {
-          "titulo": "„Wenn wir losgehen, wird es teuer!“ - Sabia Boulahrouz zeigt ihre Tochter",
-          "entradilla": "Moderatorin Sabia Boulahrouz zeigt ihre älteste Tochter erstmals öffentlich.",
-          "enlace": "https://www.bild.de/unterhaltung/stars-und-leute/sabia-boulahrouz-erster-roter-teppich-mit-tochter-katharina-6af6cd62559aca3d9f9927fb"
+          "titulo": "Trotz Mini-Durststrecke - Saarbrücken verlängert mit Trainer Giannikis",
+          "entradilla": "Der Drittligist bindet seinen Coach bis 2029 und setzt auf Kontinuität.",
+          "enlace": "https://www.bild.de/sport/fussball/1-fc-saarbruecken-trainer-giannikis-verlaengert-bis-2029-6afa0b314495f9bd85b81600"
         },
         {
-          "titulo": "Erkennen Sie diesen Rockstar? - Auch als Weihnachtsmann ’ne scharfe Chili!",
-          "entradilla": "Ein Rockstar in ungewohntem Look! Erkennen Sie, wer hinter dem weißen Bart steckt?",
-          "enlace": "https://www.bild.de/unterhaltung/stars-und-leute/erkennen-sie-den-rockstar-scharfe-chilis-mit-weissem-bart-6af980aa4495f9bd85b80a5e"
+          "titulo": "Kari Ann Peniche - E-Bike-Feuer zerstört Haus von Playboy-Star",
+          "entradilla": "Ein explodierter E-Bike-Akku zerstörte das Haus eines TV-Stars; alle überlebten.",
+          "enlace": "https://www.bild.de/news/ausland/playboy-star-kari-ann-peniche-feuer-durch-e-bike-akku-zerstoert-ihr-haus-6afa098f4495f9bd85b815dd"
         }
       ],
       "analisis": {
-        "resumen": "- Empleados denuncian presuntos ataques de ira y humillaciones del exjefe de Nvidia tras su dimisión.\n- Varias noticias deportivas abordan la crisis del Mainz, el talento de Gladbach, el Köln y la situación del Hannover.\n- En Chequia se han hallado huesos que podrían proceder de una fosa común alemana de 1945, en una zona de construcción.\n- Nuevas normas en Croacia podrían acarrear multas de hasta 1.900 euros.\n- La portada incluye asuntos de entretenimiento sobre animadoras de la NFL, Sabia Boulahrouz y un músico disfrazado de Papá Noel.",
-        "populismo": 40,
-        "motivo_populismo": "Expresiones como «Schande» y «Kaum zu glauben», junto con las alertas sobre multas y los titulares de intriga, aportan sensacionalismo, aunque no se aprecia una apelación al pueblo contra las élites.",
-        "sesgo": "La selección favorece el deporte, las celebridades y los conflictos personales, con una redacción orientada a captar la atención. No se aprecia un sesgo político claro."
+        "resumen": "- Una anomalía impide que un cohete Vulcan complete una misión de Amazon.\n- Hasta 450.000 personas protestan en Chequia contra los planes gubernamentales para la radiodifusión.\n- El nuevo líder regional del BSW, de 21 años, influye en las votaciones en Sajonia-Anhalt.\n- Klopp protagoniza dos noticias; los Eisbären pierden el liderato y la NFL reúne a 70.000 espectadores en Múnich.\n- La portada incluye noticias sobre precios navideños, famosos y un incendio causado por la batería de una bicicleta eléctrica.",
+        "populismo": 35,
+        "motivo_populismo": "Abundan expresiones sensacionalistas y de intriga como «fracasa», «enormes protestas» o «¿ayudará a la AfD a llegar al poder?», aunque no se aprecia una apelación explícita al pueblo contra las élites.",
+        "sesgo": "La selección favorece los deportes, los famosos y los sucesos, con titulares llamativos y centrados en personas. La noticia política alemana plantea en forma de pregunta una posible relación entre el BSW y el acceso de la AfD al poder."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://taz.de",
       "noticias": [
         {
-          "titulo": "Weltklimakonferenz in Antalya: „Ich bin auf der Klimakonferenz, weil ich hier sein muss“",
-          "entradilla": "Große Erfolge verspricht die Weltklimakonferenz in diesem Jahr nicht. Drei junge Menschen erzählen, warum sie trotzdem hinfahren. mehr...",
-          "enlace": "https://taz.de/Weltklimakonferenz-in-Antalya/!6229786/"
+          "titulo": "Haartransplantationen bei Männern: Bruder, es ist so weit",
+          "entradilla": "Die Zahl der Männer, die sich für volleres Haar unters Messer legen, steigt seit Jahren. Zu Besuch an einem Ort, an dem gestanzt und verpflanzt wird. mehr...",
+          "enlace": "https://taz.de/Maenner-Haartransplantationen-Zu-Besuch-an-einem-Ort-an-dem-gestanzt-und-verpflanzt-wird/!6224503/"
         },
         {
-          "titulo": "Klimakonferenz in Antalya: Laut werden fürs Klima, laut werden gegen die Regierung",
-          "entradilla": "Umweltgruppen, Gewerkschaften und linke Parteien bringen in Antalya Tausende auf die Straße – zu einer riesigen regierungskritischen Demo. mehr...",
-          "enlace": "https://taz.de/Klimakonferenz-in-Antalya/!6230066/"
+          "titulo": "Urs Niggli über Agrarökologie: „Bio kann nicht die Welt ernähren“",
+          "entradilla": "Urs Niggli leitete lange das Forschungsinstitut für biologischen Landbau. Heute sagt er, Bio allein reiche nicht. Man müsse auch Gentechnik nutzen. mehr...",
+          "enlace": "https://taz.de/Urs-Niggli-ueber-Agraroekologie/!6224391/"
         },
         {
-          "titulo": "AfD-Kandidat für Bundespräsidentenwahl: Der Fußball ist auch rechts",
-          "entradilla": "Die AfD möchte Thomas Berthold als Kandidaten für das höchste Staatsamt aufstellen. Das sagt uns auch, wie sehr im Sport rechtsextreme Positionen um sich greifen. mehr...",
-          "enlace": "https://taz.de/AfD-Kandidat-fuer-Bundespraesidentenwahl/!6230059/"
+          "titulo": "Nato-Mitgliedschaft für Gebietsverzicht?: Die Nebelkerze vom Donbass",
+          "entradilla": "US-Unterhändler suggerieren, bei Rückzug aus dem Donbass könne die Ukraine in die Nato. Sie sollten lieber der Ukraine helfen, im Krieg zu bestehen. mehr...",
+          "enlace": "https://taz.de/Nato-Mitgliedschaft-fuer-Gebietsverzicht/!6230163/"
         },
         {
-          "titulo": "Infektionen in Zeiten der Trump-Ära: USA verlieren Status „masernfrei“",
-          "entradilla": "Deutschland war noch nie als masernfrei eingestuft, die USA waren es hingegen seit mehr als 25 Jahren. Nun wird der Status wohl aberkannt. Wie konnte es dazu kommen? mehr...",
-          "enlace": "https://taz.de/USA-verlieren-Status-masernfrei/!6230230/"
+          "titulo": "Quote für deutschsprachige Musik: 1Live nicht gut genug",
+          "entradilla": "Das Produktionsduo KitschKrieg wettert gegen den Radiosender „1Live“ und fordert eine Quote für deutsche Musik. Guter Vorschlag oder nur eigene Promo? mehr...",
+          "enlace": "https://taz.de/Quote-fuer-deutschsprachige-Musik/!6230171/"
         },
         {
-          "titulo": "+++ Nachrichten im Ukrainekrieg +++: Ukraine greift russische Industrieanlagen an",
-          "entradilla": "Ukrainische Drohnen haben einen der größten Komplexe der petrochemischen Industrie Russlands attackiert. Frankreichs Präsident Macron warnt vor einer Kürzung der Militärhilfe für Kyjiw. mehr...",
-          "enlace": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6230067/"
+          "titulo": "Botanische Forschung: Mit Pflanzen musizieren",
+          "entradilla": "Ob Baum oder Blume, Pflanzen erzeugen elektrische Potenziale, die man in Töne übersetzen kann. Ihre Fähigkeiten zur Kommunikation gehen noch weiter. mehr...",
+          "enlace": "https://taz.de/Botanische-Forschung/!6224453/"
         },
         {
-          "titulo": "Empörung über Vorstoß zu Facharzttermin: Klingbeil gegen zusätzliche Kosten für Kassenpatienten",
-          "entradilla": "Der Vorstoß von Kassenärzte-Chef Gassen, Geld für schnellere Termine beim Facharzt zu verlangen, stößt einhellig auf Kritik. Grüne warnen vor „Paywall-Medizin“. mehr...",
-          "enlace": "https://taz.de/Empoerung-ueber-Vorstoss-zu-Facharzttermin/!6230151/"
+          "titulo": "Otto Mühl, nicht Künstler, sondern Täter: Wiener Aktionistendämmerung",
+          "entradilla": "Das neue Wiener Aktionismus Museum wollte Otto Mühl eigentlich als Künstler rehabilitieren. Doch es scheitert jetzt an Mühl als Missbrauchstäter. Zusammenfassung einer fiesen Geschichte. mehr...",
+          "enlace": "https://taz.de/Otto-Muehl-nicht-Kuenstler-sondern-Taeter/!6229218/"
         },
         {
-          "titulo": "Sicherheit in Syrien: Explosion in einem Vorort von Damaskus",
-          "entradilla": "In Syrien tötet ein Sprengstoff-Attentat im drusisch geprägten Jaramana zwei Menschen. Der Vorfall löst Spekulationen aus und fördert spaltende Narrative. mehr...",
-          "enlace": "https://taz.de/Sicherheit-in-Syrien/!6230076/"
+          "titulo": "Grenzschließung in Estland: Tallinn macht dicht",
+          "entradilla": "Estland macht den russischen Geheimdienst für Sabotage auf einen Drohnenhersteller verantwortlich – und schließt ab 1. Dezember die Grenzen zu Russland. mehr...",
+          "enlace": "https://taz.de/Sabotageversuch-in-Estland/!6230290/"
         },
         {
-          "titulo": "Argentiniens „Kettensägen“-Präsident: Javier Milei will noch einmal antreten",
-          "entradilla": "Milei strebt eine zweite Amtszeit an und rühmt den wirtschaftlichen Aufschwung unter seiner Ägide. Doch seine Politik bringt erhebliche soziale Härten mit sich. mehr...",
-          "enlace": "https://taz.de/Argentiniens-Kettensaegen-Praesident/!6230090/"
+          "titulo": "Demonstrationen in Tschechien: „Keine Freiheit, keine Zukunft“",
+          "entradilla": "In Tschechien sind am Sonntag Tausende Menschen auf die Straße gegangen. Der Grund für den Protest: Sie sorgen sich um die Unabhängigkeit der Medien. mehr...",
+          "enlace": "https://taz.de/Demonstrationen-in-Tschechien/!6230176/"
         },
         {
-          "titulo": "Behörden in Sachsen-Anhalt: Wenn der Dienstherr blau wird",
-          "entradilla": "In einem Monat könnte in Sachsen-Anhalt die AfD regieren. Wie geht es damit Polizist:innen, Leh­re­r:in­nen und Mit­ar­bei­te­r:in­nen von Behörden? mehr...",
-          "enlace": "https://taz.de/Behoerden-in-Sachsen-Anhalt/!6224530/"
+          "titulo": "Krieg in Nahost: Angriffe auf Schiffe und einen US-Stützpunkt",
+          "entradilla": "Der Konflikt am Persischen Golf zieht wieder an: Zwei Tanker laufen in der Straße von Hormus auf Minen, Iran beschießt erneut den Golfstaat Bahrain. mehr...",
+          "enlace": "https://taz.de/Krieg-in-Nahost/!6230278/"
         },
         {
-          "titulo": "Italien bittet Meta zur Kasse: 805 Millionen Euro Strafe für Datenschutzverstoß",
-          "entradilla": "Die „hohe Zahl von Betroffenen“ spielte eine Rolle bei der Festsetzung der Betragshöhe, so die Datenschutzbehörde. Der Konzern will gegen die Strafzahlung vorgehen. mehr...",
-          "enlace": "https://taz.de/Italien-bittet-Meta-zur-Kasse/!6230189/"
+          "titulo": "Richard Weize von Bear Family ist tot: Der Mann, der dem Pop eine Vergangenheit gab",
+          "entradilla": "Als Pop in reiner Gegenwärtigkeit schwelgte, begann der Musikarchäologe Richard Weize damit, Klassiker wiederzuveröffentlichen. Ein Nachruf. mehr...",
+          "enlace": "https://taz.de/Richard-Weize-von-Bear-Family-ist-tot/!6230091/"
         },
         {
-          "titulo": "Spitzenspiel der Frauen-Bundesliga: Die mit dem Kopf",
-          "entradilla": "Bernadette Amani trifft gleich zweimal für den FC Bayern gegen VfL Wolfsburg. Mit 4:1 endet das Spitzenspiel einseitig zugunsten der Meisterinnen. mehr...",
-          "enlace": "https://taz.de/Spitzenspiel-der-Frauen-Bundesliga/!6230060/"
+          "titulo": "Veranstaltungsort bUm in Berlin: Googles rebellische Er­b:in­nen",
+          "entradilla": "Häkelkurse, Co-Working und einer der letzten Zufluchtsorte der palästinasolidarischen Szene: Der Veranstaltungsort bUm muss zum Ende des Jahres schließen. mehr...",
+          "enlace": "https://taz.de/Veranstaltungsort-bUm-in-Kreuzberg/!6229211/"
         },
         {
-          "titulo": "Jugendtheater an der Parkaue: Das Unbehagen weicher Hände",
-          "entradilla": "Zehra Sönmez lässt in ihrer ersten Inszenierung an der Berliner Parkaue vier Jugendliche zu Wort kommen. Ein ambivalentes Unterfangen über das Theater an sich. mehr...",
-          "enlace": "https://taz.de/Jugendtheater-an-der-Parkaue/!6230130/"
+          "titulo": "Selbstzahlen in Arztpraxen: Der Weg in die Dreiklassenmedizin",
+          "entradilla": "Gesetzlich versicherte könnten zukünftig auf mehr Arzttermine zugreifen, wenn sie dafür selbst zahlen. Eine Zeitenwende der Gesundheitspolitik. mehr...",
+          "enlace": "https://taz.de/Selbstzahlen-in-Arztpraxen/!6224540/"
         }
       ],
       "analisis": {
-        "resumen": "- La conferencia climática de Antalya reúne testimonios de jóvenes y una manifestación crítica con el Gobierno.\n- La AfD propone a Thomas Berthold como candidato a la presidencia alemana; otra noticia examina una posible llegada del partido al Gobierno de Sajonia-Anhalt.\n- Estados Unidos podría perder su estatus de país libre de sarampión; en Alemania se critica cobrar por citas más rápidas con especialistas.\n- Ucrania ataca instalaciones industriales rusas y una explosión deja dos muertos en un suburbio de Damasco.\n- Milei busca la reelección en Argentina; también destacan una multa a Meta, la victoria del Bayern femenino y una obra de teatro juvenil.",
+        "resumen": "- Crecen los trasplantes capilares entre hombres; un reportaje visita un centro especializado.\n- El experto Urs Niggli sostiene que la agricultura ecológica no basta para alimentar al mundo y propone usar también ingeniería genética.\n- Un artículo cuestiona la propuesta de vincular el ingreso de Ucrania en la OTAN con la cesión del Donbás.\n- Estonia cerrará sus fronteras con Rusia tras acusar a sus servicios secretos de sabotaje; en Chequia hay protestas por la independencia de los medios.\n- La portada también aborda el conflicto en Oriente Próximo, la cultura musical, la investigación botánica y el pago de citas médicas.",
         "populismo": 25,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «presidente de la motosierra» y «medicina con muro de pago», así como el énfasis en la indignación, aportan un tono sensacionalista y de confrontación.",
-        "sesgo": "La selección da protagonismo a la movilización climática y a las consecuencias sociales de las políticas. La redacción adopta un enfoque crítico hacia la AfD y Milei, y relaciona la candidatura de Berthold con el avance de posiciones de extrema derecha en el deporte."
+        "motivo_populismo": "Expresiones como «cortina de humo» y «medicina de tres clases» aportan dramatismo y simplifican debates complejos, aunque predominan los titulares informativos y no se aprecia una apelación al pueblo contra las élites.",
+        "sesgo": "Algunos textos adoptan una posición explícita: defienden ayudar a Ucrania a resistir y presentan el pago por citas médicas como una posible fuente de desigualdad. La selección también presta atención a derechos, cultura y cuestiones sociales."
       }
     }
   ]

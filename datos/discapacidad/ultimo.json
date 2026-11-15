@@ -1,30 +1,30 @@
 {
   "fecha": "2026-11-15",
-  "turno": 8,
-  "generado": "15/11/2026 14:38",
+  "turno": 18,
+  "generado": "15/11/2026 21:59",
   "modelo": "gpt-6.1-terra",
   "resumen": {
-    "resumen": "La información más reciente aborda el deporte inclusivo, con carreras y fútbol sala, y las dificultades de un deportista para llegar a los Juegos Paralímpicos. También aparecen iniciativas de empleo, experiencias de personas autistas y propuestas sobre accesibilidad, vivienda y asistencia personal. En la Comunidad de Madrid se prepara una nueva ley de accesibilidad.\n\nEn las últimas semanas, la accesibilidad ha centrado la atención en las elecciones, el transporte, la vivienda y la cultura. La entrada en vigor de la reforma de discapacidad y dependencia ha dado paso a preguntas sobre su aplicación y financiación. Las personas afectadas por la ELA denuncian desigualdades en la atención, mientras las familias y asociaciones plantean necesidades de cuidados y rehabilitación. También se habla de empleo, adaptación de puestos de trabajo, deporte y participación cultural de las personas con discapacidad.",
+    "resumen": "Entre los asuntos más recientes destacan la accesibilidad al voto y las propuestas sobre vivienda y asistencia personal. También se habla de las listas de espera y las diferencias territoriales en dependencia, así como de las dificultades para obtener prestaciones. En el ámbito laboral aparecen experiencias de personas con discapacidad que trabajan o preparan oposiciones. El deporte inclusivo está presente con carreras en Albacete y Guadalajara y una competición de fútbol sala.\n\nEn las últimas semanas, la atención se ha centrado también en la reforma de las leyes de discapacidad y dependencia y en la necesidad de garantizar su financiación y aplicación. Se recogen reclamaciones para mejorar los cuidados, la rehabilitación y la atención a personas con ELA y otras enfermedades. La accesibilidad en edificios, ciudades, transporte y espacios culturales, junto con las oportunidades de empleo y emprendimiento, completa el panorama.",
     "temas": [
       {
         "titulo": "Accesibilidad y participación",
-        "explicacion": "Se habla de barreras en ciudades, viviendas, transporte y espacios culturales, así como de accesibilidad electoral y cognitiva."
+        "explicacion": "Se abordan las barreras en ciudades, edificios y transporte, además del acceso al voto, la cultura y la información."
       },
       {
-        "titulo": "Dependencia y cuidados",
-        "explicacion": "La reforma de discapacidad y dependencia, su financiación, las esperas y las necesidades de las personas cuidadoras ocupan un lugar destacado."
+        "titulo": "Dependencia, prestaciones y cuidados",
+        "explicacion": "Se habla de la reforma legal, las listas de espera, las diferencias territoriales y las necesidades de las personas cuidadoras."
       },
       {
         "titulo": "Empleo y oportunidades laborales",
-        "explicacion": "Aparecen iniciativas de empleo inclusivo, adaptación de puestos, oposiciones y emprendimiento."
+        "explicacion": "Aparecen proyectos de inclusión laboral, oposiciones, empleo protegido y emprendimiento."
+      },
+      {
+        "titulo": "Salud y rehabilitación",
+        "explicacion": "Personas y asociaciones reclaman mejor acceso a la rehabilitación y atención coordinada para distintas enfermedades."
       },
       {
         "titulo": "Deporte y ocio inclusivos",
-        "explicacion": "Carreras, fútbol, pádel y ciclismo adaptado muestran distintas formas de participación deportiva."
-      },
-      {
-        "titulo": "Salud y atención especializada",
-        "explicacion": "Se abordan el autismo, las enfermedades neuromusculares y la ELA, con demandas de rehabilitación y atención coordinada."
+        "explicacion": "Carreras, torneos y otras iniciativas reúnen a personas con y sin discapacidad."
       }
     ]
   },
@@ -103,7 +103,6 @@
     "Hoy",
     "Hoy Aragón",
     "https://www.mundolapalma.es/",
-    "HuffPost",
     "Ideal",
     "Información",
     "Infosalus",
@@ -111,7 +110,6 @@
     "La Noción",
     "La Nueva España",
     "La Opinión de Murcia",
-    "La Opinión de Zamora",
     "La Provincia",
     "La Razón",
     "La Rioja",
@@ -131,6 +129,7 @@
     "MiCiudadReal.es",
     "Navarra Sur",
     "Navarra.com",
+    "Neeo",
     "Noticias de Navarra",
     "Noticias Obreras",
     "Novaciencia",
@@ -289,6 +288,13 @@
       "entradilla": ""
     },
     {
+      "titulo": "RNE Audio estrena el pódcast «Cómo nos lo montamos», para que la discapacidad no te sorprenda",
+      "medio": "Neeo",
+      "enlace": "https://www.neeo.es/2026/11/15/rne-audio-estrena-el-podcast-como-nos-lo-montamos-para-que-la-discapacidad-no-te-sorprenda/",
+      "fecha": "2026-11-15T09:42+00:00",
+      "entradilla": "RNE Audio estrenó el martes «Cómo nos lo montamos», un pódcast original de siete capítulos escrito y presentado por la periodista Ana Gómez Quintana, que se adentra con humor y sin tópicos en la vida ..."
+    },
+    {
       "titulo": "Planeta fácil - Cuidados y vida personal | Escuchar",
       "medio": "RTVE",
       "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMkpMOE5vU2FWWDFCYk5qSWFaUDQ0UFBkVEk4eGJRNUE3aXlYQWJRcUM0Skl6OHNvS2c4Q0lMb2xHcm5xTjhqZHBsZDJFZmpIc09pYWVwOVoyQWJ1eXVtazdXQnF5NG9pd19sSGVya3FLNDJtUHo5eEhBZks1bnUyQ3RyOVk?oc=5",
@@ -329,6 +335,13 @@
       "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT2hkeE1jMEYzVWxPTDdPTVo1QUxPR1dnSm9hdERIZWxaQ0F1VWw4dnFDa3BLZVZOTW8zMFRxaTBLM19yRFRxaFYwdlV0cTlfekxsUVc2NXZkYmF4QUlwenBCbS1NbzI0LW5KbDN3TVppQktLWllrMTYwNGJCamNHREN4UnVuSUY4WmtRY0FiQjgyRDJqanNMQnEzUW5OMVhyODhEb2I3akNYS2RI0gGyAUFVX3lxTE53VGtUSl9FTGgyWVV3YVBSalc2c3lrNGZOcWhuc040WXhURV9wanVpOENiX2dVVkk5RGhodHA0OTRfbkpzbC1RcmRUNXFqZi0xdERKMUdPSXZvNV9lRFdpMWJYS3h3bXJxR0RISzBEd2ZsSGRCN2xtZWpXZHJEQTROMjYxaXF5X3Vkc1dXR1lLWW1Ma3E3SU1mN0JyVGR3R0I1eHpFNko5X0ZWbFZRdFhBVUE?oc=5",
       "fecha": "2026-11-15T09:00+00:00",
       "entradilla": ""
+    },
+    {
+      "titulo": "3 de cada 10 solicitudes de dependencia de La Rioja, País Vasco y Extremadura se quedan sin prestación: la media nacional de concesión es del 81%",
+      "medio": "Tododisca",
+      "enlace": "https://tododisca.es/discapacidad/solicitudes-dependencia-denegadas-rioja-pais-vasco-extremadura/",
+      "fecha": "2026-11-15T08:48+00:00",
+      "entradilla": "Fedea revela que en La Rioja, País Vasco y Extremadura casi 3 de cada 10 solicitudes de dependencia valoradas no logran prestación, frente al 19% de media."
     },
     {
       "titulo": "SIFU, una empresa con 201 puestos de trabajo en Navarra refuerza su dirección en la comunidad foral y aspira a ganar más peso",
@@ -387,13 +400,6 @@
       "entradilla": ""
     },
     {
-      "titulo": "Alberto, el santjoaner con discapacidad que se presenta a unas oposiciones: \"Solo quiero las mismas oportunidades que los demás\"",
-      "medio": "Información",
-      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTQxRXdzSEtKekIxSnJGV2Q0LTZ2M3NzckNiQTNZd0RzdmdySEs5MW4wSHkwNHlSV3BJb0ZyV2FFVG9wUzI4VFpCZGdZb2pJZzJ5Q0ljbG1QQi1Ta0owUm9hcDF6OWRNX2hUdjJVZjdKak5tQW5wVDVwNjY5SVZNXzd0eUZQQzZNLVdMNU9xMmRrWk02UmhvVkZsUU1DV2pKMUZPd1VLYy11SHJQY0lpT19EVUJkOFp6OW9QQkl1UmFXWGlpVHBweFI4UGFNcGVf0gHWAUFVX3lxTE5aV3FDMngzaV82N1E0X0trRlpDQ09SM0xGc1IzUFZEcVNkbFdPY2s1SXR6Vjk4bUlUOW1sYUdpRGs5T0Joa3p4ZmVXNmlzTW5uSmYwUVZ4TGxGRzFNUlN3OXYxdG14NUROVDZkNXhsUlJEdDlsTE9JaXd3NFBuc004UmZMekFvZmYwSjZEdW5XYUNEOXhDaWJTeW9ZbklVZG9hZmNlTF8zeVVuX3FObG1PdUI0ZzdRVk16MzRQbE1vNGJVdVVTdFl6bGRabjdpcVNLdnRQUUE?oc=5",
-      "fecha": "2026-11-15T05:00+00:00",
-      "entradilla": ""
-    },
-    {
       "titulo": "Marc Rueda, un barman con Síndrome de Down: “Algún día montaré mi propio restaurante”",
       "medio": "La Vanguardia",
       "enlace": "https://www.lavanguardia.com/vida/20261115/11664300/marc-rueda-barman-excepcional-sindrome-down-dia-montare-mi-propio-restaurante-llamare-the-brothers-brl.html",
@@ -406,6 +412,13 @@
       "enlace": "https://www.lavanguardia.com/vida/20261115/11664300/marc-rueda-barman-excepcional-sindrome-down-dia-montare-mi-propio-restaurante-llamare-the-brothers-brl.html",
       "fecha": "2026-11-15T05:00+00:00",
       "entradilla": "Este joven, sincero, espontáneo y trabajador, ejemplifica el verdadero valor de una sociedad inclusiva"
+    },
+    {
+      "titulo": "Alberto, el santjoaner con discapacidad que se presenta a unas oposiciones: \"Solo quiero las mismas oportunidades que los demás\"",
+      "medio": "Información",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTQxRXdzSEtKekIxSnJGV2Q0LTZ2M3NzckNiQTNZd0RzdmdySEs5MW4wSHkwNHlSV3BJb0ZyV2FFVG9wUzI4VFpCZGdZb2pJZzJ5Q0ljbG1QQi1Ta0owUm9hcDF6OWRNX2hUdjJVZjdKak5tQW5wVDVwNjY5SVZNXzd0eUZQQzZNLVdMNU9xMmRrWk02UmhvVkZsUU1DV2pKMUZPd1VLYy11SHJQY0lpT19EVUJkOFp6OW9QQkl1UmFXWGlpVHBweFI4UGFNcGVf0gHWAUFVX3lxTE5aV3FDMngzaV82N1E0X0trRlpDQ09SM0xGc1IzUFZEcVNkbFdPY2s1SXR6Vjk4bUlUOW1sYUdpRGs5T0Joa3p4ZmVXNmlzTW5uSmYwUVZ4TGxGRzFNUlN3OXYxdG14NUROVDZkNXhsUlJEdDlsTE9JaXd3NFBuc004UmZMekFvZmYwSjZEdW5XYUNEOXhDaWJTeW9ZbklVZG9hZmNlTF8zeVVuX3FObG1PdUI0ZzdRVk16MzRQbE1vNGJVdVVTdFl6bGRabjdpcVNLdnRQUUE?oc=5",
+      "fecha": "2026-11-15T05:00+00:00",
+      "entradilla": ""
     },
     {
       "titulo": "Accesibilidad cognitiva",
@@ -466,9 +479,9 @@
     {
       "titulo": "Mar Ortega, cuidadora de un gran dependiente: \"Perdí a mi familia, a mis amigos y mi trabajo cuando tuve a mi hijo\"",
       "medio": "Heraldo de Aragón",
-      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWTE1Z2ltUW0wQWMtT1ZJWkxwMG9pMWVobmxFYkNjYXVMS0ZGcVZVeXJSY3hRWm5iaXNnNkhuLWVMNl9scGJFb3NyXzlWaVBrTkJ3V0JfY3JHaVVPamV1VW9ObTJVdTNtSG0wRkdZY2h1YWI0d1pBdUF5VnR5YXNuNmdBeHpaNnZwUkVtOG8wcU9mdmx4c3FRNTlxSXp3ZE00Q01ZOVUtODBES3Z0bU9pVmpqM2NpY2dsTEgyckU4YTc2ZDJZZkU3ZjlFR2g4VENmcW9QNjVBb1ZWeHo3aS1uVm41UnBFTi1IR3NiWGxYRy0?oc=5",
+      "enlace": "https://www.heraldo.es/noticias/aragon/2026/11/14/mar-ortega-cuidadora-gran-dependiente-perdi-mi-familia-mis-amigos-mi-trabajo-cuando-tuve-mi-hijo-2068224.html",
       "fecha": "2026-11-14T21:00+00:00",
-      "entradilla": ""
+      "entradilla": "Esta zaragozana es madre de un joven de 23 años con parálisis cerebral severa que tiene absolutamente limitada la movilidad. Pide al Gobierno que salga de las urnas que cumpla la normativa que fija los derechos de los cuidadores no profesio"
     },
     {
       "titulo": "Resultados del Sueldazo de la ONCE de hoy sábado, 14 de noviembre: 300.000 euros al contado y 5.000 euros al mes durante 20 años",
@@ -1122,11 +1135,11 @@
       "entradilla": ""
     },
     {
-      "titulo": "Los pacientes reconocen avances, pero denuncian una aplicación muy desigual de la ley ELA dos años después de su aprobación",
+      "titulo": "Los pacientes reconocen avances pero denuncian una aplicación muy desigual de la ley ELA dos años después",
       "medio": "20minutos",
-      "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZGhwcV9FZ2hpOXk5MF9IMnhtU0UxLXVTMVhXakRLTEM2M21hcHFkUzFIQlZoY3QwY2tSLTVyb3BmSERyNFpYYzZTaFQwYnVnVWRFVU5DaC02SUJTUE9icld3Q0VoeXFmdzQ0MzBZaWUwamJteTVGOW5UUG9fSGZ4c3ZnV29yTTQtQ1JnUDNlVkpOVEZ6R0c2NGpYelg4YUFvLWhBaEIwMzVySWhlN2hIWWtZOTlSckRUQllXa05IaWZsa3pYSDlDVVJha2FXY3E1T2VUYXIwcklaM1UwQ1VETTh2ZU5jb2VWZ2RrN09ScVI5YWs?oc=5",
+      "enlace": "https://www.20minutos.es/capaces/los-pacientes-reconocen-avances-pero-denuncian-una-aplicacion-muy-desigual-ley-ela-dos-anos-despues-su-aprobacion_7060712_0.html",
       "fecha": "2026-11-13T11:36+00:00",
-      "entradilla": ""
+      "entradilla": "La Confederación Nacional de Entidades de ELA (ConELA) también alerta de que continúan incompatibilidades, y servicios que siguen sin existir, como la fisioterapia"
     },
     {
       "titulo": "Dos jóvenes con síndrome de Down entrevistan al seleccionador español, Luis de la Fuente: \"Las personas con discapacidad intelectual tienen voz propia\"",
@@ -1308,111 +1321,6 @@
       "medio": "Servimedia",
       "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWkpPSGlJX0FnVkdYSW5CNkpMc1V5N0FMT3BOcUt5aWlXa1h2YTgxSXdCeV9sMHVBakRxNUJMaTViTVBBRF94bWowVGZTQko4RmlEVUVFcXdPRHZxWkdVamJoaVIxTXVWUm1TYVk1cnNYeDRhbEhMMlFOWlJna0szc1gzT0tlTGYwcGgxbkY2Y2FYYjV1b3o2QVczTVhnVEdwLVo2VVMteWJUTl9zajFFR0RfMXd1RTRCWV9yUnR5TW1yVTlsTG13S3lObi1xUGRpVE5r?oc=5",
       "fecha": "2026-11-13T07:11+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Alberto Casañal visita AMIBIL en Calatayud para estudiar un encargo a sus artistas con discapacidad intelectual",
-      "medio": "El Alto Jalón",
-      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPd2lVMlhFd3duTnNJb1V2WHJaV0dhVG9sWXpCbEFEc3RsYXdyZERkTDV2elBqaklEZlhwcVU1aGxndnRSWFhqbHpIOUhOUkREX3EyV0lFM3otSVoxY081ODB3QUZnQVV5cm1Za1pJeG1nU0pXVEJMWnpDTEFUdHg4eTNIY3lyNHc1SHlGSFlCWDM2bmJ0TEJDT3RSc0xmUGk2QUlSUXQ4VTFxY2F2aEMtcm0zVTZ4bUs1U3F4SnFqWWstVUVHVTc3THpnMTBVaUdlbFRWSVAtOXp1MUJYYms0?oc=5",
-      "fecha": "2026-11-13T06:50+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Fernando, con paraplejia y un 88% de discapacidad: \"aparca en la plaza adaptada del garaje porque dice que es de la comunidad y no de nadie\"",
-      "medio": "Tododisca",
-      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVjBkajdBTzlCcnBLU3N4R1E3TzZ3Tmh4N2ZCVGJDTmg1NFJMaTRCZnp3WFgzekpub284cHlPY1pXa0tPZV9zU0xmQkJTN3BiYVFWRlVqZWZqc2pjRlRFQkp3cUdGazhBUHZYYWxQVzA1cEVMcVM3OWN2cUdCS3VOWGdTTzNVMWVHRFFRZW9WX1BSN3laOEstSExVMV9vZHVCLUdGdDFaYy1vSnBpa1ZrNQ?oc=5",
-      "fecha": "2026-11-13T06:49+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Desestiman indemnizar a los padres de un joven que falleció tras atragantarse en un centro de discapacidad",
-      "medio": "La Rioja",
-      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOczZNNHJVSVVSb3JYZ3ZuMjBLUGZhVXpHSUdMRXpMaUxXd0Rid3FhVmZURkhGTmtQWWd4WlpLQVg2aHBiX085bVZBaFl4bWxTX2taSUFiMDY4bUQyeWNwQ1V4QlFabVZQM2Y5VnI2eTN1S2I2bUpzX0lGYUx2S2FTNnQxZ2lGXzJoTDctV2hZRFFRYlZPdjBOMUl5cTdTY3M3alI0RUx2ak5pa3ZLSjFQRVJqZm9KQ0Z00gG-AUFVX3lxTE9ra3JfTkgzZlZaQ2FCdDJpeEF5QllHZEdMbEpYeEphUjdGMjZFY3VYcU5SbWgxaG4yOWVfSmZ4NlJvdHZyNlgzaWY3Yi1lSm1xc1haMGJnX3c2cVlpY0pkS2ZIS3VYWjZNOHVxbHo4cDdJRzh1MHNEQ2FyWlI2ZC1GVjdqLWpnbzlhcmpyVkdZcUtZeE5aSXdyblZUTWwtN1NXYk9xcXFFRGd2M3A1UUN3NTcxUzU2dXVid2lQYVE?oc=5",
-      "fecha": "2026-11-13T06:40+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Lorenzo Pérez, abogado de Fidelitis: \"Los problemas de memoria pueden derivar en el reconocimiento de una incapacidad permanente\"",
-      "medio": "Tododisca",
-      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdk9vYjFabERHRXdMWlJLSVpZWUxwRkw0NW93aG5MZFJHc0RNaEtoZWZQZk1lUU83dVRnaGFJTV8zVWc1dW1GZ0tscjJrMmZxZG9XY2ZBTVJRS0lnN05rS1JyejNldEgwMXo0SlFMQzh3aFcySjdYbi0zLTBJaVdJZnRKVElDRjlKUU5xY0hVczJxczVDeHZKbVV6SFpJZDVsR2Jxdmo2aW9CMHJjTmliaXpuNmdRVkhoaEtQcUhNMDlMMkpiZGdPNGRzbnpJSjQ2RVd3?oc=5",
-      "fecha": "2026-11-13T06:33+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Mabel Lozano lleva el cine como \"herramienta de denuncia de la violencia contra las mujeres que tienen discapacidad\"",
-      "medio": "20minutos",
-      "enlace": "https://www.20minutos.es/capaces/mabel-lozano-lleva-almeria-cine-como-herramienta-denuncia-violencia-contra-las-mujeres-con-discapacidad_7060548_0.html",
-      "fecha": "2026-11-13T06:30+00:00",
-      "entradilla": "Mabel Lozano lleva más de dos décadas dedicada al cine social y a la defensa de los derechos humanos, con especial atención a la denuncia de la trata"
-    },
-    {
-      "titulo": "Ni niños eternos ni personas sin sexualidad: los prejuicios que persisten sobre las personas con discapacidad",
-      "medio": "La Opinión de Zamora",
-      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa29wbGZVdXdWaWZSNGQzVWl3V1VXWVFWelFmbkRlem5hV1pWbFJ2dGMwQWRDR3Y3ekVrUmlWUm0zSEFKenV5QTRhV29XbnBMTTAxNno0bVJjVDUzM0xXbXV3bkl2NGJNSzE1ZUJveFVDV251X3FSZ0xiajJLZ3hkbjJ3WnVwZ2xlNndnTjFnRDI3RllPRGNJWC1PdVMzb1RyUmtGMmRKYkhzNHVrbFdV0gG0AUFVX3lxTE5Pa20xSHBtQ2JNT19WMVRrNU5FLVBuM2YxTVJtMVlER3ZtR1RRUTVLS2l5ODFONnExWC1IT0o3QWtNS0F2MDlSLWFHMklpQXBHU2FvWkRIemppd2RfUUtzOWZqdTdaQTB4RWY4Tkw0NHlVVHZ3b1pObHFVQVR3OW9XdEdEVV8zY1NTRUczeVhpWXN6ajl5M3hnR1FwazN3VHFhaVdmbW1ZVWRFUWp4MDNKaXl4dA?oc=5",
-      "fecha": "2026-11-13T06:01+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Humor negro contra los trapos sucios de la CIA, la lucha de las personas con discapacidad, terror victoriano y otros estrenos",
-      "medio": "Cadena SER",
-      "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOWt0czNYZGRNRVk1LWdBd252XzY5UE42Vkw2STVkWHRZbElBUm5MOE5paGU4VmJiU05zYk1HZWhjMXJSZnNxUGRTbkVkV3ZqVzNDU2IzQzlMMXQxR292ZmFWdVFQOUljZWVCd0xINWR0TEpNdEMzY01Nd1RjaUMwZlFOVnBXU216eFZOUHNKTHpMUm0tUjFWdGhnaUdSVU1XY09JUlhaYks4NVJERk84ZDRHbmdxZ0p5ZDdOWm9aSmY1UWktTEd0VktoSmVpQngyR2stelg2WU9hZnRXckhILW02R2syYnBEZzBXM19tSUt4OUhuVTM0TEhmd080UVhZNkk2bVh0QmbSAZwCQVVfeXFMT2tNNG9uWGFuZmZMWjJWeE9rT2RnX3dVaEpzRmxpQVdGVFBlazlRMjF6SzliRlBnRm4zWEVwd2FvR0wzcm91Z2dBS3FlSEFuMmNDTXR1bXhraFlGNkZHSXZLQXlLb1cwUzdVNUhwZktSdmlNUEZjd1dURUVPNEdSVE5temFHLXRjU3c5TzdSMUtoQXlEa0VfaTQwbVBXVmRfajZoeHhMQ1dLckM4TEtaclEwOUc0dG1yRWh1VlhWWGRIeVR2eGJqNDNKYkp5X0d5UWNPdDR6V180T3RuNWFpZ2wtV1JrZjFlOGhnZm5yTFlEbkRlcl80T1lhY19TNHdJVkVhcmhuZXlKSUo3bXp4aXluUGlxTmREZWR2bUU?oc=5",
-      "fecha": "2026-11-13T06:00+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Un colegio de Mos y una entidad de atención a personas con discapacidad, premiados por promover la igualdad",
-      "medio": "La Voz de Galicia",
-      "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObFlQQlNoMXIycjFFMmptaHFlVkRoeFhqVmJkalJleDFTVW1faEV1Tnd3Z2xPZ1A0OEVTNnJqVGJBaXhGZllzWXlqY1R6eHpCdS1qVUdsa2RlYnFFMVR4Q2ZXQ0FiYzZKcFd4MkxDbEFOOEhCSmt6UDRYWXZOYnZOVUR3TVc2aEZma2hFQndNd1lUaXViR0lqbGZNTnVWU1dxUEdFa21pZ2xQR1NlQmVVdnNCOXFqcEhfTDY5OUwzeDBqcG1oVUppRzAzZlRGM1BwdDZiTjdLeDdZNzFrUXIxYVBXQjc4M1BienozOWIyRkVpRVh5bHlJ0gGTAkFVX3lxTFBMQUJkZ2c1cXBzT1BFcmNuMnhtMTBtQmZ3TUVYMzN2cFg2azdGeENNS3hQX2FDaWNENUJyVkpydi00Szlsek1SR0RGZjl1cFdKLUhna3BZOTJDdlFKVE1KODd2RXJrTHFJQVRNY0VyN0FBUVdLLUVaQlIxdHY1VlB6TmYwam1Sbi03TjM4N2kxX2FQTTFaaUs3a0VQWE1URXFsNEcwMjlxVVIzbGhIeGl0QndMRW5NdFNUOWtxNDliTjUzMzJhTHYwWWJGOFcwSm9nNDhXU3ZWeHlGUFAxTUlYZ09RdkpmZFpXRnIyZ0pNOGFRdzFtMDhkeWdRSjB5SWRJdWlMaV9sZXA2Q2lqbmVrTjVN?oc=5",
-      "fecha": "2026-11-13T05:26+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Quién es Pablo Bustinduy: el ministro de Derechos Sociales que ha reforzado la ley de dependencia y que detecta pisos turísticos ilegales",
-      "medio": "HuffPost",
-      "enlace": "https://www.huffingtonpost.es/politica/quien-pablo-bustinduy-ministro-derechos-sociales-refuerza-ley-dependencia-detecta-pisos-turisticos-ilegales-f202611.html",
-      "fecha": "2026-11-13T05:05+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Enric Botí, delegado de la ONCE en Catalunya: \"Nuestro mejor premio es la confianza de la ciudadanía\"",
-      "medio": "El Periódico",
-      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObW52WGgtMjF2dWZRc2ROOUZmdklESGF6OHZzRUZJcFFlbU9NM3AyWE9TbE90SDN5SC1zSVhSd3BlZy0zWWRiWnRjNzJUVkF5WmFXMVZRTDFNRnVNOEt3c2sxanpxQ3ZtNjVBcUdMcnozbXl5alhlYnhqQ0hUZy13ZDFHeVlEbUQ1eDlZWmtaZVQ1MVVFZHdTSdIBmAFBVV95cUxPQUctQm9SamUtbS1Rc2hHcjVGYkFrNlpQbFlyTU45VkIxYXdjRUlVLTNBakpnQlJBUVJUMHVkN0ZZdjJGeEYxOXVrdXNXLVhsMDh3cFFyS05uRk4tcHN3VE02WlNXM2hJeG04VU9vTDJJcW1HOVFVZTN0UUtWdmF2dXA0V0xkUE81NVBoNVNHRkFjYzZwVXd6dA?oc=5",
-      "fecha": "2026-11-13T05:00+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Cogami mejora el equipamiento de su centro de Medelo gracias a una ayuda de la Fundación ONCE y la casilla solidaria de la Renta",
-      "medio": "Faro de Vigo",
-      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT3RSNW5ONWp6MUtxSlQ5ZG1kcFdNZ2Q4VzdnZjl6NkFYWFdERTBzMHBmb0hOWE0tV2FYcVJqV29jZkd4T2RtWDVTRFM3VUk4SU1WbjV1bWtMcXF0VlRMMUxGRnVyOHlqX252ak9iLVhFVkFMRHp6STRmeXVySFpQV09fRWQ0b01rQWZsZzI3M04zRUJ5R0xzRFFRMnNiemJHcWo4T0l3SklKUmJrLVBWV3k5UdIBuAFBVV95cUxOcENhNWwzbGk3eU9HeHFKUDBIell6b0hpNWVyUFEyMy1zZEt1R2NwVm8zOEdLVGtKS2dsbGdNUjY3RXlKbXYtMGZoaXVhd0dFV0VhUUVnNFA1VWdrVWJlSGlFRmt4cTN3RVVRaVFOUGJQN1RhMVk3S0dHakExang3bU42QjcyLWd2UUd3dy1EckVUcW9zV0FlQk43eUJJbjMyTFFyWjM5X0d4WlA2NUtrMzhqdlZVU3lJ?oc=5",
-      "fecha": "2026-11-13T05:00+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Nigrán licita por 164.000 euros al año la atención temprana a 81 familias",
-      "medio": "La Voz de Galicia",
-      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNazBUSmxpd0RObG1YSUItRkJiYy16eUYteFlUVmtGbmk0RXZkb09BMURuaEJzWWxlenVWQVJiYkRjS3dFMVNiNkNmaGFkZ3BFNE5OUVR2b1JNa3o1SzNBNEg1ZHJwYW0wd2phaFhWbHVIZ3NxQnZkeFIzamI0YXR2WjJWT1VlSTJxT3pvc0hHZmQyaGt4SXhjcGNyM3dIRXNZLWw3MHIwM2hEWVcydFBVeWFtZ015cV9FRWNOUGdmbHQzY3N5SkQ1VWxobGNqMlhlaTBQd05KTnRTYThrWXc3c2tnQdIB_wFBVV95cUxNcVF3a2J1dnJ4SnBpUUtVR01RNTZpWnFBd0YxT1JwZGUxV0pqV1FGVDJLOEZZaVFzYXp4eC1LeFUySTZVSXJSbHIyMi1tejhINXJnTUxvNGhCMUFEd3lJWXEzX1FBa1AyX01RVXhCcXlRZG43dFJubUJVcmt1Ym5nQVk4XzR5NWl1MW9XLVY3V2RsaGhHdHkycEdRN0JmOXd1MmlQOUpXQUtPczZqZlM2UGd1YWljZlB5S1dkY0VwYS05YnA2NDFmd0NqWWVJOEI0WDdROEM5Mm1qSDJxU1FvWG1RSFV5LVBUazhnVnBTZy1zZHVjM0thOVpBcUhycW8?oc=5",
-      "fecha": "2026-11-13T04:27+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Entrevista | Susana Álvarez, presidenta de Atades: \"Acompañamos a las personas toda su vida, desde los primeros meses hasta el envejecimiento\"",
-      "medio": "20minutos",
-      "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaDdYaEV5aXN1VDVOQWpsQlNmVzZfMVRDSWU5cXdHci03S2RLSnotY2RURjhXZzlxRkk0Y2lqZnNoSVRJNjBYT0ZKeWZiWGwxWHV5SVotdDNmUWVHUFFvdHpvdllJbVhWWHo2WHg0RHdBdWJlOVhNMFBUcG16U0xVTkQwTG81M2xFQ0c0c25WSmRhMFpQRnE2Q0M0bC1sME4yaGVnWG9ySEIxLTNlTUs2S0tCc2tlcHB1SklSbEdCSTRYQ0dVdmpieEI4eFEtc0pjU2ZzWDRPMi1JdjJRU2tSanEtTlZyN2dDQmtYRnFVcFRLSEdSdkhVNjNjYi1JSUJjdThNVV9R?oc=5",
-      "fecha": "2026-11-13T04:02+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Susana Álvarez, presidenta de Atades: \"Acompañamos a las personas hasta el envejecimiento\"",
-      "medio": "20minutos",
-      "enlace": "https://www.20minutos.es/capaces/entrevista-susana-alvarez-presidenta-atades-acompanamos-las-personas-toda-su-vida-desde-los-primeros-meses-hasta-envejecimiento_7060035_0.html",
-      "fecha": "2026-11-13T04:02+00:00",
-      "entradilla": "La presidenta de Atades, Premio Acción Social de 20minutos, reivindica el papel de entidades como la suya, con más de 60 años de historia, en el avance de los derechos de las personas con discapacidad intelectual y sus familias."
-    },
-    {
-      "titulo": "Señales que se entienden sin leer: así diseña Atadi una ciudad accesible para la comprensión",
-      "medio": "Heraldo de Aragón",
-      "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVzZhSTZBUnBIaEdIbV9UU0t3ekNUWklzel9fVE1iSUxzd1NkNHppWWNuTFQwR3RGTmtvYTVjSkNmeDZzT3VzYjhYNEYwRUhKQjFYWDl1VTdQYWxpS0xsWldsUkgtOEdmQmxqX0ZIZlNLX1ZzQ3VZR01DV3R4clNsMUhuc213bWpIUHBzc2dWRzdhNVZ1aEtTb3hHVXVSYm9mVVNoRUlucmxfTmFLYzdzN1ZaM3N2LWNlbVRMZ1J4RnBEaHM4NHJ6cVROdHcxOWNoSVpvUmVrVUxnNnNuT2tXakNUQ3VTd9IB6wFBVV95cUxPXzNRMTE5MlJuRHBMUWI3aXBxbDJpTGFYcVVFRXZjejdoVkY3eEJ5NjR4NE9XUEwtOWtOU0tiSDcwTjNoR0g1WkM5N0pTaGNPTlBBZVRmV0tNX3c4NmZONnY4VUxmdkY5VVBsUXdOVHlMemNMQ0ZqYllvM3lMTGxfMEctOXNVWkUxZjk4d00ySld0UFBEZ3Z0dHlFSlhNME1rd20yODRlTzF1dHdiU3ptZUM4d0FUUVlJTjBkanU5M1FONkk4LWxWNDBoUGF1aFdicmhtVVB1RDBpWFpiQ1RueXgybnY5amtjRjlv?oc=5",
-      "fecha": "2026-11-13T04:00+00:00",
       "entradilla": ""
     },
     {
