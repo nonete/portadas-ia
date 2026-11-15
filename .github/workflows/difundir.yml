@@ -50,6 +50,13 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # difundir.py solo crea la carpeta difusion/ cuando hay plan. Si no ha
+          # hecho nada (por ejemplo, porque faltan los Secrets de Bluesky), no
+          # hay nada que guardar y el paso termina bien.
+          if [ ! -d difusion ]; then
+            echo "No hay plan que guardar."
+            exit 0
+          fi
           git add difusion
           if git diff --cached --quiet; then
             echo "Sin cambios."
