@@ -1,38 +1,41 @@
 {
-  "fecha": "2026-11-14",
-  "turno": 18,
-  "generado": "14/11/2026 21:36",
+  "fecha": "2026-11-15",
+  "turno": 8,
+  "generado": "15/11/2026 14:38",
   "modelo": "gpt-6.1-terra",
   "resumen": {
-    "resumen": "En la información más reciente destacan los cuidados y la dependencia: Aspace pide mejores condiciones laborales y apoyo para quienes cuidan, mientras una persona con lesión medular cuestiona el sistema de valoración. También se habla de cine y teatro inclusivos, deporte adaptado y ocio. En Huelva, la Justicia ha ordenado instalar un videoportero para una vecina con discapacidad auditiva.\n\nComo contexto de las últimas semanas y del mes, aparecen la entrada en vigor de la reforma de las leyes de discapacidad y dependencia y las quejas por la aplicación desigual de la ley ELA. La accesibilidad ocupa espacio en el voto, el transporte, las viviendas y la información en lectura fácil. Se abordan además el empleo, la participación de menores con discapacidad y el apoyo a las familias.",
+    "resumen": "La información más reciente aborda el deporte inclusivo, con carreras y fútbol sala, y las dificultades de un deportista para llegar a los Juegos Paralímpicos. También aparecen iniciativas de empleo, experiencias de personas autistas y propuestas sobre accesibilidad, vivienda y asistencia personal. En la Comunidad de Madrid se prepara una nueva ley de accesibilidad.\n\nEn las últimas semanas, la accesibilidad ha centrado la atención en las elecciones, el transporte, la vivienda y la cultura. La entrada en vigor de la reforma de discapacidad y dependencia ha dado paso a preguntas sobre su aplicación y financiación. Las personas afectadas por la ELA denuncian desigualdades en la atención, mientras las familias y asociaciones plantean necesidades de cuidados y rehabilitación. También se habla de empleo, adaptación de puestos de trabajo, deporte y participación cultural de las personas con discapacidad.",
     "temas": [
       {
-        "titulo": "Cuidados, dependencia y apoyos",
-        "explicacion": "Se habla de la reforma de la dependencia, la financiación del sistema y las necesidades de las personas cuidadoras. Las entidades también reclaman una aplicación más igualitaria de la ley ELA."
+        "titulo": "Accesibilidad y participación",
+        "explicacion": "Se habla de barreras en ciudades, viviendas, transporte y espacios culturales, así como de accesibilidad electoral y cognitiva."
       },
       {
-        "titulo": "Accesibilidad en la vida cotidiana",
-        "explicacion": "Los titulares abordan barreras y mejoras en viviendas, transporte, espacios públicos y acceso al voto. También aparecen iniciativas de lectura fácil y señalización comprensible."
+        "titulo": "Dependencia y cuidados",
+        "explicacion": "La reforma de discapacidad y dependencia, su financiación, las esperas y las necesidades de las personas cuidadoras ocupan un lugar destacado."
       },
       {
-        "titulo": "Deporte, cultura y ocio inclusivos",
-        "explicacion": "Se recogen actividades de teatro, cine, deporte adaptado y ocio inclusivo para personas con discapacidad."
+        "titulo": "Empleo y oportunidades laborales",
+        "explicacion": "Aparecen iniciativas de empleo inclusivo, adaptación de puestos, oposiciones y emprendimiento."
       },
       {
-        "titulo": "Derechos y participación social",
-        "explicacion": "Las entidades plantean la defensa de derechos y la participación de personas con discapacidad, incluidos niños, niñas y adolescentes. También se aborda la violencia contra las mujeres con discapacidad."
+        "titulo": "Deporte y ocio inclusivos",
+        "explicacion": "Carreras, fútbol, pádel y ciclismo adaptado muestran distintas formas de participación deportiva."
       },
       {
-        "titulo": "Empleo y condiciones laborales",
-        "explicacion": "Aparecen proyectos de orientación y adaptación de puestos de trabajo, junto con reivindicaciones sobre las condiciones laborales en centros de atención."
+        "titulo": "Salud y atención especializada",
+        "explicacion": "Se abordan el autismo, las enfermedades neuromusculares y la ELA, con demandas de rehabilitación y atención coordinada."
       }
     ]
   },
   "medios": [
     "20minutos",
+    "5 más el descuento",
     "ABC",
     "Agencia Local de Desarrollo - ImpulsAlicante |",
     "Ahora Marina Baixa",
+    "Alicante Plaza",
+    "Andalucía Informa",
     "Andalucía Información",
     "Antena 3",
     "Aragón Play",
@@ -58,10 +61,9 @@
     "Demócrata",
     "Diari ARA",
     "Diari de Tarragona",
-    "Diario de Almería",
     "Diario de Burgos",
-    "Diario de Cádiz",
     "Diario de Navarra",
+    "Diario de Sevilla",
     "Diario de Teruel",
     "Diario Palmero",
     "Diario Siglo XXI",
@@ -78,7 +80,6 @@
     "El Diario Vasco",
     "El Economista",
     "El Español",
-    "El Faro de Ceuta",
     "El Faro de La Palma",
     "El Independiente",
     "El Mundo",
@@ -118,7 +119,6 @@
     "La Tribuna de Talavera",
     "La Vanguardia",
     "La Verdad",
-    "La Voz de Almería",
     "La Voz de Galicia",
     "La Voz de Puertollano",
     "Las Provincias",
@@ -127,20 +127,25 @@
     "Libertad Digital",
     "Madridiario",
     "Manzanares | Fortaleza empresarial",
+    "marinabaixadigital",
     "MiCiudadReal.es",
     "Navarra Sur",
     "Navarra.com",
     "Noticias de Navarra",
     "Noticias Obreras",
     "Novaciencia",
+    "Objetivo CLM Noticias",
     "OKdiario",
+    "ONCE",
     "Onda Regional de Murcia | ORM",
     "Partido Popular",
     "Plena inclusión",
     "Prensa Social",
+    "PressDigital",
     "Qué!",
     "Radio Espinosa Merindades",
     "Radio Sirena Cope Benidorm",
+    "Revista Grada",
     "RFEF",
     "RTVE",
     "Servimedia",
@@ -154,10 +159,324 @@
     "Vanitatis",
     "Versión Radio",
     "vivirEdiciones",
-    "VOX España",
     "yecla.es"
   ],
   "noticias": [
+    {
+      "titulo": "Manuel Afonso, deportista español con discapacidad, pide ayuda para poder llegar a los Juegos Paralímpicos de Los Ángeles 2028",
+      "medio": "Tododisca",
+      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcWNzUVVVVWV3RWJ4aEoyM2lmQ3RvZzZtdEljNEo3VUV4ZFdDd1RpWHhvaVBaNEZXLWdFeDZjY0NrQ2g3Z3F2M3RnbUF3OElDYUVWMnJrMmJJalFxYTVZWDlzeWhEWG1VVWNqVW81U3VRSHM1MzZSd3lvLU9wRG1HS25PdzVpNFM4aTUtT2x4WWpiTW0ySlU2R2VSZzFiQy1SejVZa2ltV3N5aXRiZXd2UmZ5Rm14dEdJdk8wcWp4eTBlUFFvb2ZzdmJXQXpaYktXRTd5RV9jUE1scGw0Vnc?oc=5",
+      "fecha": "2026-11-15T13:30+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "La Carrera Solidaria Policial reúne a 750 inscritos en Guadalajara en apoyo a personas con discapacidad auditiva",
+      "medio": "Objetivo CLM Noticias",
+      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQY0JYN2xFZ1ozUms1Ul9GNEFwVUF3Z280a0tNaW80X0duS1Q3a25EYndDVTlpWEMyTlhQTlZVRkZ4Wlh3QVRhNlIxcTRLLVBTUHJJYjdNRWR2ZkFIWjV4Q1paajNHYS02M3NlYWhaazJrX2xmQUVCZ3IxNDNRNkV3dG1pM1VKSm5rai0wdzZmQ0d4Y1k5RG9pRndZd1BlWGpLVE5mdjNlX29Vdk9GZ0ZoamtIMThWVEJNQUM1OEo4OVZvZVJuYlVaWEJ3TkYwcW04M05CNXZwdllBLUh0T3B2OU5QQktFY3M?oc=5",
+      "fecha": "2026-11-15T13:05+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "La Carrera Inclusiva Metasport reúne en Albacete a cerca de 800 participantes",
+      "medio": "Objetivo CLM Noticias",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdThxNUtZMkhzeWNhaGhGbHVsWHVKNGx0eFJ1MEc0cE11ano0Z3VVc1hDMW1hTWVKcDdtWUJ3elpKaURJZlJoeHlFNTAtblRBOG5JMUY2bml5dm9ZaG94eFVrQ2FsOU44UE9nYkwyd2tST2I4alE3dDdLSWVoRTBRaGNfWXQzdjNqZHRYd0NtS2FBX1UyeEdJaU5nc3lnOUpxZEFqNkdsdnVFZ2c4U3o3czQtRk5URHA5OE5xUw?oc=5",
+      "fecha": "2026-11-15T13:01+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "La dramática situación de Paula Solís, una asturiana con una enfermedad degenerativa a la que no conceden la incapacidad laboral: \"¿Esperamos a que muera en el trabajo?\"",
+      "medio": "La Nueva España",
+      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVWpmTU9hYlVFS1pXQzJRMjFRazh0MnBKdXc4NTRrVFlhWEZQNW9yWHc0cm9Vd005S0hRZmtYT1MtX1BoTENTdFBDRUh0dXV2VmpUZnBiSWE0NjRNZk1CUnpjREpPRkZYLUZPOFRxYk1UWDFIdDBEQ0pjNU1sUHZCVzV0elBfeUZ2MzNPTUpKMkVXR2dSbFIxYlliSdIBoAFBVV95cUxNS2o2T0lMX1hBT1ltN2MwdlZQQXZudC13bHFYeUQ3eS1XME5YT2JfeVVWXzg0dDdERHpLbmpDQ093STRKdnFaWDdxUGs3QlZtd0dWTDJJMzlfRVZIbTlGbi1adEVLcklMUlhzM1czVFRnbUtRM1l5bEJuUGhsRTRuWm13ODFpZjJORzY2Wl9UU0JNUVFYckRiRkQ0MkZHcTY0?oc=5",
+      "fecha": "2026-11-15T12:52+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Cerca de 800 corredores con y sin discapacidad se suman a la octava edición de Carrera Inclusiva Metasport en Albacete",
+      "medio": "Europa Press",
+      "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUllwYUxRa1Y1cmo4TlBTTklIWEhlLUY3NVBOaFRVTVFBUC1Fa2pJT2dXbE53X2w0Z1BQZVJuMG9ITzYwV3diMHFQaVNsMjFwYk94MXdzRHhjUy1DZHdCc2c3el9yRGpMYUtGT3JuTkVDV09nQzVKSWNmN2ZaS3U2T3RUTENaQ0N2SDZuLXFwa0l4MFNDV1ZVS2tJUnAyZWd1QkZOenhVMzR0eW1jMXUtNlg5ZG9HbUljbmFDZWJ6MHVha25Td01TRzVhN1J0ak9DYnB6LV83YkZ0ZmpDU21hcURORTViNkFGZjk3MndLaGxwNGRnOFlZ?oc=5",
+      "fecha": "2026-11-15T12:46+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Villena convierte 600 toneladas de residuos plásticos en mobiliario urbano con trabajadores con discapacidad",
+      "medio": "Alicante Plaza",
+      "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNeVVEbnd6c1ZyYkFsVFFHVEQxYkJRZm1VamRVTmFZcHFwTXZCdkJqaWRMRmVjWFR3UWhYVU8zdmxZS013WE9ySVd4NzJfcG13YWlZcXpJckE2bUttbFZMT196SnVGelJtVnNtb29kSGlMRUZrQWFWVjRVTnlGZ0UyTGhHV2RWeVNBUFFxcmlMZWZTTG5HSG9xZm9kRjFBVTdOTDl5WmxCYU9MR19TcmFvc3BtRFVsdDRHdjhKRnFFZFZNMi1Uc0FRZktTUWNqQ0ZNQVZoenJ0d0d2NjFaNW1PZTdLM1lPQ0F6VFZMWjl5alBSM1NOOXc?oc=5",
+      "fecha": "2026-11-15T12:26+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Rosana Victoria descubre que es autista con 38 años de edad: \"El diagnóstico me ha salvado la vida, literalmente\"",
+      "medio": "Tododisca",
+      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX25IWmNjdURTNHAycHo4ZjdkM19fbGtlUFZIQmlRN2pZY2Jhd3J4WTlLUy1xMW5CN3h3eThjQ2NmRzkzejRpTnFtdGI0dDdjdHNoZXI2cjNLT2xEOEpaZzdJMWpsZ3dZTm9mUnhHVmpUZGhsS0plUThpZXdDWkNtY1kxMmlubkhrZEdIV1pVTWl1Z1Z0OGFzeVVrLU40THFlN3hZY1ZpSkdoNnB0WlBJdXJZYw?oc=5",
+      "fecha": "2026-11-15T11:30+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Tres años y medio de cárcel por vaciar las cuentas de su madre dependiente y dejar una deuda de 8.400 euros en la residencia donde vivía, en un pueblo de Cáceres",
+      "medio": "El Periódico Extremadura",
+      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdHl4SkFYYkw4NUw1aW5nOWtSTzRwaUVyOFhJcWhZMzdnbERjYnc4aHNvdFk1TUFfYU5KdGZCNUkyZlZkMkdLbUxjR29UV1prUzZPZ1NkZTRyWlluM29WLVZERms0VnA3VkxCLVYwSlg1MXhGT1NfczhUNm1fdUNxcE1DZlVIcDByazdKNy1aQkhhVnhfRW1SWmxCQWRTa1V2Z3NzWXNPNzN2UnRiYXM2YlUyMXlSUdIBuwFBVV95cUxOaHBlMGtuUkJkcU1lY2RJeGtWZFZ1blREWEJ4NjRFZ293R05YVXQ1dEdPU1UyUzYyU1RBQkpmUGZzNE5WbWc2OE5qbHZIQzd5V1hoQzU0RTBZbldLWWl6Ynp6VDhjOUg1bloyX180czZGZ2IyQXJXYWpUdHBoX19VN1FjUW5rZnRDUmVKeWJPZVZxa2xscmR1aDVxV0piX1N2dk85QW1FNlBKQ2hOYVpRT2RHc2ZoYTgxZHA4?oc=5",
+      "fecha": "2026-11-15T11:26+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Frente Amplio propone que la \"familia elegida\" pueda tener permisos retribuidos por cuidados",
+      "medio": "Europa Press",
+      "enlace": "https://www.europapress.es/nacional/noticia-frente-amplio-propone-familia-elegida-pueda-tener-permisos-retribuidos-cuidados-20261115121612.html",
+      "fecha": "2026-11-15T11:16+00:00",
+      "entradilla": "Frente Amplio ha propuesto este domingo que la \"familia elegida\", como amigos y vecinos cercanos, puedan tener permisos retribuidos por cuidados en casos de enfermedad, hospitalización, dependencia o crianza de menores."
+    },
+    {
+      "titulo": "Villaescusa afirma en la clausura de la Superliga de fútbol sala para jugadores con discapacidad intelectual que “Albacete es pionera y ejemplo en la práctica del deporte inclusivo”",
+      "medio": "5 más el descuento",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNc0dlM2ZRWGlhRVA0X2QyLUhiYVJIbDFZQ3JGcHhVR3kwYVpNV0wweERVVFVQOGlzRlQ1bW9hSzhNdm94YlVPbkdlWjVRQkRwdVRaMmYyaXFyblo2RFlFaUl0UENUTndvVkxNcEl2SlpUY01QRkoyd3RKZjAzTzdETF9aNHJINS1hQWNLSDcxcVZRbUVXRXRnajFzejNLQnYzOUZQeWhKMFNZVVY4cFpUZDlnR1VaMjlQa1dBQS1sM2pTaHpHVWtwZ05tUlIzU2c0Tm1SZkIwZTZlU0d0UkVYVThoUXk4MFZLcEZXaVJHSjVmbERJUXFtZ2h6ZVI1Um5MTG80VDQ5dXhZcnRWOTRIYlRnVmc5bzhUSkdRQkdJOXFBN3d1UDRMU1gwRHh6aXc2cndGRE55aG5KVTh5NjU0dQ?oc=5",
+      "fecha": "2026-11-15T10:46+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "La Generalitat reconoce la labor social de ACOFEM-13 en Xàtiva",
+      "medio": "vivirEdiciones",
+      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTkNtWmR5aGNtbDJIOGEwbkhyUVZPUktJTTFOQVRYN2tLY0g4cVFyVkNSSTRVRnBxWEFlcG81NDlWR0VGazNUaU1zNEtNSVczMlNvZEF2OWpNNVl5Q09fdG9YVE04UG5GLWVVUHBLQm9ZaDJTM3QxMXJ6aE5jTjRnekpiWQ?oc=5",
+      "fecha": "2026-11-15T10:38+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Las 106 propuestas de COCEMFE para garantizar la accesibilidad, la vivienda y la asistencia personal ante el 29N",
+      "medio": "Europa Press",
+      "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOU25mZTdpOVN4SlpOTWtPWndsZ1pPbUpJeGNRT1BTWVJhT1pZUTNHaDZMMUMyWFplQU1VZGRKOHJPeFFqc3FYMlZYUVE4eTJXc0FpeDJmOXVMUHpUSkRRVk5ONHU2am91cnl1UmpRS2twbVBMRVZuaEVlV2RoX3c1TF9lYmNFVzg2cGVmWVQ1elZfV2RsZkhzRVpTaWJpQzd6a0NkZFgzTXVQYzEtOTdsd3c0d2t5ak1Qbk5FUVJCMFBSN3JCZ2lQSXV1ZHY0QkNLeHBfRlJiUXFmTTdVUmtnc0k2d2xlMTEz?oc=5",
+      "fecha": "2026-11-15T10:32+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "El Gobierno de Ayuso tiene \"muy avanzada\" la nueva Ley de Accesibilidad y la aprobará en 2027",
+      "medio": "Servimedia",
+      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLVNFbHQzVlZ4UUxYTkdoTjdXa1dNMW5kOVFTRlYxb3dDQ1RkME1qc1lqZ0ZrZDJTR3pEYkt5a1FSSlVhWG41eWlFbVJmeEpTLWN3VGU1TU0tU040cHZBaUZkZlhqUGp0MkxSS09ZTHVnTnVLcEU5Q1JFeHBETTNubUZacmhqNDlXSnZhaEVDQWVWcUViSUdOemVHWm5NNGpMVnE0Y0RNdFBQRmJDLTlyWWt4OWUzMFdr?oc=5",
+      "fecha": "2026-11-15T10:11+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Piden en Jaén 17 años de prisión para un acusado de violar a una menor con discapacidad tras darle cocaína",
+      "medio": "Europa Press",
+      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbERyeFZhRjZPc2hINlY5cmdNLU43VmREZGhmOENxaDVsZldLZFNZa2QtQWN6czI0bzhxYVBqMG1id29qZ2owZ0UzdUFGbUpKdFk3eGdBakIxVDY2QlNvd25NR3VMSmdjeEN0aHgzbmtFYXJEZkJzRC1KRTdPNFd4eEhMYXlDYk1RdE02Mm11VVNBeVQ5dE1tUDlxbFdpVU4yQ3UxcllsQlZITWZGLVpMZVctZXdNdjAtdDQ5RFI3RTVjZXdoZmhwTWE4cGtfREtmNlUtSHBn?oc=5",
+      "fecha": "2026-11-15T10:09+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "'El sastre del Manaslu' recuerda a Jaime García Orts, que enseñó montañismo a los ciegos",
+      "medio": "Servimedia",
+      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMUQ4MGlMcWx2ZTlUdTFIY0NCNUdVOEZFME01aVdzWWpJQUREM1Jza0lYcjFxbXV4Umk0cDYxM3N5b1VETUQxbFVuVTdySFRfZjY1MkVMUEpKSFRJLVUtMmtEc0dvN3BXazVmNGJMbHNsdGFJQW5HanFGWWxrcTdXaVFpaXVhQ0duTGpEY0YzUGFwVllFRmRWV2pwRkVodU9JSGNYcEVPSm9aSFZwcEpCTVhB?oc=5",
+      "fecha": "2026-11-15T10:06+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "El PP publica su programa electoral en audiolibro para personas con discapacidad visual",
+      "medio": "PressDigital",
+      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWTVRUkxsd1hzSXI0Njhub3hma0NORzdjWVBnVWE4a3hYMzlVNmJPUXpPcTdGS3g2VGlTbGtoMmhIRmhZNkpBd1Q2Z0tBZG5EcF9xek9yUllQWmZEQmJMR1BCQ1libnd3V2VEWTFLb3ZreG9zMjFfTFZEcUgyVHBxdWdxLXk4TlZneldVVk1WUjBpT3c0Y1ZqeDNFOGhNbmFPaXc4bzd1ay1UNUswZlJSaE9GMk0wQ0JJTC10b0dEVmlSRkMtUXRKYktjUGI2OWc?oc=5",
+      "fecha": "2026-11-15T09:59+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "El PP publica el programa electoral en audiolibro para las personas con discapacidad visual",
+      "medio": "Europa Press",
+      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS0YwVG1iYTAxYm1lZl85WmlvS1BFQWZ3bWxRS2tmOEh6RHhOa2lRbUQwVUtMNTNHZmtwQk1hbklLdXljNWJIREhEaEZDTHVGYmFCX3I4aGVEQldISzRTYmotSmthQkpZenBpUGxkS04wdTNQenBjeVc2T00yOXVKQ2VsVGQ1UzRKZWNGdERQLTdFaU1Kc3d1b0R5Mi1LbHFFZGFRcGNqWkd0LXhBMm03dTNOeUxuVlA4VldHM2VhUjB6WjFMWUhqdlp5eEhJdw?oc=5",
+      "fecha": "2026-11-15T09:54+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "El PP lanza su programa electoral en formato audiolibro para personas con discapacidad visual",
+      "medio": "Demócrata",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWEdQRjJzM2VTeURWRzZ2WksxUXpUZkpKam1TQ1lodzM5Wk54MGFhelNybmhhWWpDLVpfLXN3NVh5NmdJcC15aENyWTB5SUxMYUVlU2FHdnZHa0N4NnAyS3BDYXIzZWJPb1BWMlhpa2NXdXBHeF8yd0hTS0xWZmdRdm1CV1dabEt6NkRncWk4Mkc2UmlVOTFmMGVvbXNfU1VYelNURkpxbUM0YkdpODVHVFktWmd0SGJDWVl2OF9QSkk0Y255YXRz0gHMAUFVX3lxTE9LQ2VMSGIwVHhXbW1NazFnWHByXzl3eXktWC1kTTR5cUZCenZtNFQ0UmRkV2tzMHRtMWxtWDBZVXhadk9JOEhNZjhyemhsNE5PdzdGaW12QlVMaW1WNmNmNDdzbWVUVEFDOHRaRlN4UW5PamVqMXNCVHNxUmtJR3NmQVMyM3VPa1htOUJLUXhTemxPUjNfRXZWNXdfaXgycVVxRVdkZ0RUY0hWRmgxcTM0U2xQLVRfd2UyaDhZQ1ZTZlEtaDBRNjJPWDMwbQ?oc=5",
+      "fecha": "2026-11-15T09:54+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Planeta fácil - Cuidados y vida personal | Escuchar",
+      "medio": "RTVE",
+      "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMkpMOE5vU2FWWDFCYk5qSWFaUDQ0UFBkVEk4eGJRNUE3aXlYQWJRcUM0Skl6OHNvS2c4Q0lMb2xHcm5xTjhqZHBsZDJFZmpIc09pYWVwOVoyQWJ1eXVtazdXQnF5NG9pd19sSGVya3FLNDJtUHo5eEhBZks1bnUyQ3RyOVk?oc=5",
+      "fecha": "2026-11-15T09:35+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "El PP publica su programa electoral en audiolibro para las personas con discapacidad visual",
+      "medio": "Servimedia",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLURVNzlNVDY0NnZjLVFETFd4RTFOXzd4b1pjdklXUTVzbnYzeXQwTUh3MFNkUzZycGZHSWxEeVFNYWFZVFFhUER1UnN0SklXX0pNallRdlhlV0xyS08yZm5mbGljWWk1S0FfVG12bkdDUWR4NktzVExWY1U0eXBjYW51SFR4ME9IY1hkOEwtMU9EYy10OGRjWW94UXliOW1YRFdWSjBCWWhDUWtEeHJ6OFFxNDhEZXlGaTIxTg?oc=5",
+      "fecha": "2026-11-15T09:11+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Alberto, con discapacidad intelectual, oposita para ser subalterno",
+      "medio": "Información",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdE8zeFJ5d1Z6RG1kdEVSWlU2eUhzby00ZGY3SlNRdjJfMlp6NHNKOG5yWmxsR3ZKRmpoaHN4VXJqempZbTNDZlQ4MGtmeWdQMDRWRXFIV0VIeXVQdDllLUE1cmx6aXFUUkRJSDh0YndfejRTOHBkbE1vRHh0X0o1cTZhQUcwWm1QdHpXSW5rWE9zaVBhU0dJcm1sRFFQNEpaZlRzMDI4cGpQd2M0UVhOQ24ySXgzd3Y0b0Y0MdIBwgFBVV95cUxQOUlKY3JHQVBLS3NVLXc0RlJabzByaUhkb1B1RmMxU3JEZE01Y2FQeXYxQkxpMDF3RGVmVnNvZmw0dm1iTHNzVFZ3WnRIREpfVUNDTlFISmZRbnZQX1UzMTQ2TGw2UFlieG5Zd1V2YW9mNkNGTzdGUkhEWTBnWUJSOHk3UGpBMzhkS0FMa3dtZDVxemJSWlVqVXBYNjR2SVBJWS1DcFNiU2c2MkhRV1ptaExzVDZFRmFGc05GQzJYQXk5Zw?oc=5",
+      "fecha": "2026-11-15T09:04+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Carlos Gómez, asesor sobre prestaciones: \"Dos niños con un porcentaje de discapacidad del 65% pueden tener acceso a ayudas diferentes\"",
+      "medio": "Tododisca",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdHVLVU1hZy12R2JERzk4THB0RHJZR1ZRQ3ZmTHhfUUIwRVpILUlWY2ZIWEpma2t2WVVIbXVPRFEySnZvNHNxR0hON0RjWnhjUGVLNG9uU0p6cmNUN0F2OVk3VVU5NmZLN2Z2ZlpldG9NSGgwQy12aDJ5X1VWYnFiRWxyV1pKS3RiZkppODNidGlaeDFDa2ZpOTBPU2kwXzhiaVJIcHV3RWQ2Zk1LRnI0ZkhnWkVBaERPM25FelMyWVM2cnBVVHRla3pGU3dFZkZD?oc=5",
+      "fecha": "2026-11-15T09:00+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "29N: ¿Cómo votan las personas ciegas? \"¡Es tan importante poder ejercer tu voto como cualquier ciudadano, con tus propias manos!\"",
+      "medio": "COPE",
+      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa082TmNGbUJNYkdmWkVjN0Flcy1IUTB1VDdRZ1lYWS1aaVpYcnBQN0cwWGVILU9QbFVUS2lfTFZLenl2YVVfNGtZQ2dMYW8wYUpYMkZDV2dsNVFaZ2VETldySDFLUUhaZWd4SDBEaTVsYmE0WFA4LWl0U2xmMG9GQ1U3MWdSSTAtSGxwRlhhOXVkaHI3Tkc5WW1YUGZQT18yVFU2RWwyczh3X1FXVlVPNzhQS1ZSQlgzM01zdl90SG9FRHVodl9aZmRFazRUNEE2U0RfbHVUcTBBQl9lTVHSAeMBQVVfeXFMTnNLRF9fZHBfUWxpWXBwODk5ZzYyTENDYmVXVW95QU5fRlI1RFgxZEtrSlhjSDFfdGtvbmdLa3ZKMUhvWHNtTXJNR0R1c0xxd0NISTY5a0lpSC12ZlJ4RUNQa1VJNEcxUTdncVRrcGxsYzVjTnFzNHBSaUFsVnBKZkExeFR0Q2E2Qk5oRE1IMnpTRXlKZThqakJmc3Eza3RUdy1QUmpMc2locEJDOENxdnlnRXhuS0pRX2JBYTJnQlNYUXJOdkM4ZFhPTFE2RHNmSVlTQkFqaWhwTjlBRFV6aklPbVE?oc=5",
+      "fecha": "2026-11-15T09:00+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Investigadoras de la ULPGC desarrollan un programa para detectar el autismo a edades tempranas mediante dibujos",
+      "medio": "La Provincia",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT2hkeE1jMEYzVWxPTDdPTVo1QUxPR1dnSm9hdERIZWxaQ0F1VWw4dnFDa3BLZVZOTW8zMFRxaTBLM19yRFRxaFYwdlV0cTlfekxsUVc2NXZkYmF4QUlwenBCbS1NbzI0LW5KbDN3TVppQktLWllrMTYwNGJCamNHREN4UnVuSUY4WmtRY0FiQjgyRDJqanNMQnEzUW5OMVhyODhEb2I3akNYS2RI0gGyAUFVX3lxTE53VGtUSl9FTGgyWVV3YVBSalc2c3lrNGZOcWhuc040WXhURV9wanVpOENiX2dVVkk5RGhodHA0OTRfbkpzbC1RcmRUNXFqZi0xdERKMUdPSXZvNV9lRFdpMWJYS3h3bXJxR0RISzBEd2ZsSGRCN2xtZWpXZHJEQTROMjYxaXF5X3Vkc1dXR1lLWW1Ma3E3SU1mN0JyVGR3R0I1eHpFNko5X0ZWbFZRdFhBVUE?oc=5",
+      "fecha": "2026-11-15T09:00+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "SIFU, una empresa con 201 puestos de trabajo en Navarra refuerza su dirección en la comunidad foral y aspira a ganar más peso",
+      "medio": "Navarra.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbGZ0Z0t0Ti1vcVljZUZmWkhNaWt1dDBhU3YwSnFITEZFS1NGQWlJMURabkg3ZDZmNkduZTZ2MHZDZk1mRjFwcmwwRjRMOXQ4ZEVxUnhsZ2NDWnFjUjJ1QTFPeTNnck1KYVNXaVltcnJmOHpQSW1lYnEtMm9zdG1ud2M4dUNTdzVPaUFleEFUQVR6dDZYVHhWYk9VSy1uY3M4M1JoTlk0aGFIQm00SGwySldTdmYzU3AyYzZibUl5S3pEWHpISG1nY3k3RFJDLTE2Q0FBZmZQVGU3SFFDamFGbUF30gHnAUFVX3lxTE5KVmJwbmVEOGgyenMxWGx1Si02YUs3RVFrLUpqZHJVZ3BLYnRSS0JXLWkxSjA5UHl1enE3SzRPVHNQMnR1TnljRTZqSWZmWjd3QVRpQzNvTTZlUTFaRG1Ydkh6MFQ4b1RRYUNKQVozMkF2MWx0UzVVVTlVRWFPSUhjYUdqMnZSWENHcnotWXJXNG96VFBnY2NBci15OGw2N2x3U2xUQWRRbExweXF4dVE0alJaSlVTUjA1aGxoVnhIM2l1U3RhUnhxY1JPNGdPNUNBbXc5b0RtLW51Z21YNUhKcDlqZ2hSWQ?oc=5",
+      "fecha": "2026-11-15T08:36+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Paxaea Alejandra, con discapacidad motriz: \"Asumen que por ir en silla de ruedas no puedo\"",
+      "medio": "ABC",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdHQ4aVNMRHNRa19pVVZBOElpZEdkRXQyLXlTWXg5czIyNnFKYnE0NzN6UU9SQlFWSlZYaTlGXzZHTktqOVhHQmgtMXMyeDBreG5RaXk3d2x3bDhpYjVZR0Rybl9SdWYzNGR0YkpTS2xVaHpTeFdfRm5URGNwUkRPVWU2cnlUOXl0R2U2YURzZjFTbkhSMVFXd0xjbjE2ZnZkSnNCVkR2QlZFTmfSAbABQVVfeXFMTkRjVnlGWlZseUtlbVc5ZjFlbGxVMlFwOUZBTnplWUpYdktYRHpRX2VhVDlab1dHYUJGVjdzdEEtc3dvWGwxVGU0czREY2RFMDY0M2tnWm8tel90WkNvcTJxY0tXeXduX2l3M2lZelZpUkZ5bGpHX1drbzhIb2EtRU1EQW9MQ2VXWDk1RU5tbDF0cjdMb1dybHoxX0Z5R3kwME5uZ2lOMVMzOE1Ocm1lTWw?oc=5",
+      "fecha": "2026-11-15T08:30+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Adiós al uso indebido: la UE blinda con QR las nuevas tarjetas de discapacidad mientras España prepara su llegada",
+      "medio": "El Independiente",
+      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMG1NZElveWJRQUstOHZjcXl4NDVHT1hlRENJb0hBMTd4X0VKLV9Wc2hNbmJzRzZkUzhIQWNuemNSMGFuLUJ2U0pVSU1PNXNzLU5GWFlkVUFUeXdSTkY4NHR2NHZWbGc5eWgyMi1iLWw1UUljRmVBcVc2TkFjaDBoMGdqM0hOVHp1XzZpUUdKa19Wb0lpd1ZXNTY2VGRadTlrMGRhbGhBZ0tjOUgyZ3ZLc3hEUVJpZ9IBtgFBVV95cUxOMG1NZElveWJRQUstOHZjcXl4NDVHT1hlRENJb0hBMTd4X0VKLV9Wc2hNbmJzRzZkUzhIQWNuemNSMGFuLUJ2U0pVSU1PNXNzLU5GWFlkVUFUeXdSTkY4NHR2NHZWbGc5eWgyMi1iLWw1UUljRmVBcVc2TkFjaDBoMGdqM0hOVHp1XzZpUUdKa19Wb0lpd1ZXNTY2VGRadTlrMGRhbGhBZ0tjOUgyZ3ZLc3hEUVJpZw?oc=5",
+      "fecha": "2026-11-15T08:30+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Listas de espera, infrafinanciación y desigualdad territorial en dependencia: necesidades y soluciones de cara al 29N",
+      "medio": "RTVE",
+      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWXFkN0pkRUtGTjJQSGVIWWFFMTVCbHhkRjREN2JDYnJRTUM3YktocEY1X3FTX0FIdFg0b3NoTTBDeWl2azJ4SF8zSTh2UVR2VkFINVZuVUVra3g5MGRZV2M1TGZiTEFCdlJTMUx2MkhDUEJ5WHF3Q3plYmJsOUR4Z2txUVR5cnZ2NVEtN2lxOXNUOVBCX1VjRWh1cTZKaUJUX1lJZENrUG1tX3Rjbno0cUJ4eElMSFpwaU1PRjY3Y2hzNTBhRVVnZWJ6UEJUM1RrN2NUa2dyNjFsUHZLdWliU0NxOWd4WUE?oc=5",
+      "fecha": "2026-11-15T08:05+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Begoña Martín, directora de ASEM: \"En las enfermedades neuromusculares, la rehabilitación debería ser un derecho\"",
+      "medio": "20minutos",
+      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQjlEcGNlMUdIRm05VktiSjE1REdhenRFWF9XaU1FY2t3TEYzTmMzZWVfV1JKSXhkVmlNV1hYQnM5NU9VMHdZSVpUSGxmUXEtQlhTek9wQlRRY01zNXppendUOGc4am1rMndDMzF2NnU2LU1wYV9NendoWkp6NkpwNlhNRV9iWmVxSnlvNmFaS1FkSTFUT2YyUzdRTFhEZ0xZR3c5Yk1NTlVCdmNCOHgzM05CeVlLU3dDMEdUend4T19rSGVRb3V5Z3FtNnpDYzF3XzQxZ3NmZUROSzRqQnFraA?oc=5",
+      "fecha": "2026-11-15T07:30+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Tener una incapacidad permanente también permite librarse de una mesa electoral en las elecciones generales en España",
+      "medio": "Tododisca",
+      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOWU2X3pfT094S3RSX2hqTy10MzBmZjZreWZGb29rMGFfelhTMXZaV1BqUE5ZdzE5NHdhSnQtNGRnR1VnclZGR1VIVDdFYlI3eWNka0djZHF4ZXJoZ2RFUHlNSWtiZ2dwOGNKc1J2WE5ES0dsT3hmTE5TTjhoQThhRFY3cWd1ZmxqTGVrNlA3aldlbWhmbUUydm5xZE1xWHM0QnF4d1VoUkNZUlpSX3dHUFdabDVDVU05R1BIOU13?oc=5",
+      "fecha": "2026-11-15T07:00+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Ayudas a proyectos de vida independiente y asistencia personal",
+      "medio": "Revista Grada",
+      "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWmdUUlFSZXo3X01kYTk2S2NPMVZXc0ZQRC1qeF9Ic3ppdHl5UmtqN1RHWWM2M2UxSnBXMlRyTU5OMWhETEVhYXdjckh1YnJRckZBNGotalVsamNvejRDemd0RFdvNmVSYVU3ME9OTmR2ZnNDajE3LWE0UTRuSDZDb3c3YU1SaGVmVDJHWTNDWkNRTFdHNnAzSFFwUE02V0p2VExkOC1hRU5aZk5BZi1Bb3ZvZmJXRDZMVjIya0ZFU1dXcGZ4Z1ZPMlFqaERhcEhBRlNEZzFjMkREU0xEYzdzbDl3R2gwQQ?oc=5",
+      "fecha": "2026-11-15T05:34+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Sara Campo, joven viguesa con distrofia miotónica de Steinert: «No quiero dar pena, quiero que comprendan mis dificultades»",
+      "medio": "Faro de Vigo",
+      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUlVjS0FpUEJHTW82RW5GeERYeFJ3aWZuRXRDdmtDY1c1NVozVzF2bWNkRjRGQUJRemd0QVBXRDllX3R0VGJydTZwcTZVLTBvVWlETnNpazNtUUR6dktBcjY3UTlEUUZVUTlETVl3dWlaZWlVM1BfbktEOHJZTHRNTDlMRUV5ZTY5SGR5ZnQzbFBjcUR4WXJNZ1h6QdIBoAFBVV95cUxQeWxoWkp4TnN3a1lQZXJOZ0VyalJUWlU1ZkY2cXVLdXd1SERiSTJMNkhfa1dOajZIYWZ1NlFwRTZiaTNWNUxpTGlxNDhxTEZVQ0JhS0FtZl9sQU9Gb1FpWS11ZFByUm13TnZGT0x1XzFVOUNJN3lwOUlrd0J0a1ozQnVKT1U3aWxuQ1lVb05aUG1lOXJhYXJXM0gxUjcxOVZu?oc=5",
+      "fecha": "2026-11-15T05:08+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Alberto, el santjoaner con discapacidad que se presenta a unas oposiciones: \"Solo quiero las mismas oportunidades que los demás\"",
+      "medio": "Información",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTQxRXdzSEtKekIxSnJGV2Q0LTZ2M3NzckNiQTNZd0RzdmdySEs5MW4wSHkwNHlSV3BJb0ZyV2FFVG9wUzI4VFpCZGdZb2pJZzJ5Q0ljbG1QQi1Ta0owUm9hcDF6OWRNX2hUdjJVZjdKak5tQW5wVDVwNjY5SVZNXzd0eUZQQzZNLVdMNU9xMmRrWk02UmhvVkZsUU1DV2pKMUZPd1VLYy11SHJQY0lpT19EVUJkOFp6OW9QQkl1UmFXWGlpVHBweFI4UGFNcGVf0gHWAUFVX3lxTE5aV3FDMngzaV82N1E0X0trRlpDQ09SM0xGc1IzUFZEcVNkbFdPY2s1SXR6Vjk4bUlUOW1sYUdpRGs5T0Joa3p4ZmVXNmlzTW5uSmYwUVZ4TGxGRzFNUlN3OXYxdG14NUROVDZkNXhsUlJEdDlsTE9JaXd3NFBuc004UmZMekFvZmYwSjZEdW5XYUNEOXhDaWJTeW9ZbklVZG9hZmNlTF8zeVVuX3FObG1PdUI0ZzdRVk16MzRQbE1vNGJVdVVTdFl6bGRabjdpcVNLdnRQUUE?oc=5",
+      "fecha": "2026-11-15T05:00+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Marc Rueda, un barman con Síndrome de Down: “Algún día montaré mi propio restaurante”",
+      "medio": "La Vanguardia",
+      "enlace": "https://www.lavanguardia.com/vida/20261115/11664300/marc-rueda-barman-excepcional-sindrome-down-dia-montare-mi-propio-restaurante-llamare-the-brothers-brl.html",
+      "fecha": "2026-11-15T05:00+00:00",
+      "entradilla": "Este joven, sincero, espontáneo y trabajador, ejemplifica el verdadero valor de una sociedad inclusiva"
+    },
+    {
+      "titulo": "Marc Rueda, un barman excepcional con Síndrome de Down: “Algún día montaré mi propio restaurante. Lo llamaré The Brothers”",
+      "medio": "La Vanguardia",
+      "enlace": "https://www.lavanguardia.com/vida/20261115/11664300/marc-rueda-barman-excepcional-sindrome-down-dia-montare-mi-propio-restaurante-llamare-the-brothers-brl.html",
+      "fecha": "2026-11-15T05:00+00:00",
+      "entradilla": "Este joven, sincero, espontáneo y trabajador, ejemplifica el verdadero valor de una sociedad inclusiva"
+    },
+    {
+      "titulo": "Accesibilidad cognitiva",
+      "medio": "Revista Grada",
+      "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMM2p5NU9OM1AwcG5Ta2Y3V3RtU2EwbFlTZEVab19US2RwdlNZT2s4Qy1iUzBKNElWOWtRbm9IRXdyQklvWjFRTGVlbTdYNDh1ZEpndUdIRVV4dEhMUG10SUpBME5SMWcwUmFuUzdnalJaZ0Z4b2dv?oc=5",
+      "fecha": "2026-11-15T04:30+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Salvar al leal Bautista: Ayuso cierra filas con el alcalde de Móstoles",
+      "medio": "El País",
+      "enlace": "https://elpais.com/espana/madrid/2026-11-15/salvar-al-leal-bautista-ayuso-cierra-filas-con-el-alcalde-de-mostoles.html",
+      "fecha": "2026-11-15T04:30+00:00",
+      "entradilla": "La presidenta cree en la inocencia de Bautista, imputado por acoso sexual y laboral, y lo mantendrá en su entorno con un cargo alto"
+    },
+    {
+      "titulo": "Aumenta el fraude en el uso de plazas para personas con movilidad reducida en Pontevedra",
+      "medio": "La Voz de Galicia",
+      "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQajNXU29BX3pwZXVBbFdEeUQ2Q2x5dGJyQTdxb2E5Ny1FeHhLZGtQOVRmQVNnSjNvbEQ2S01yTUlqaGE5RDFqWGZ1cG9WelE4eDRQLVhGelM5R1BsNXNlblprUXJWY1VnSS1iZHhFX3poWnNjYUlIdUZ5dElNUjFPdEdjMS1IWm5lMnpwUTF3TGpWcWlsZlVjQl9GaE00ckpBTEw1ZkZtaWhCc3ltTHl1OVpmNWE2VzJtanFLdno2R0FzRk5TNXNyMXJuODlraEFwYkoxY0xZcDFWOHVfY2tmQTFB0gH-AUFVX3lxTFBJczBwNl9tRzBWLUxCdFVFcEkzUVFlRjhOdHVCT29vU05FcFFHUkZEV3B5Zm9aczFlbTFJUHN0Q0FrWUx5UlQ2UWJPcTBmU01SNFJnMW10dlV1and6UDl1bUhtMlU2alBqNjBwa2U2WXVfSWdPLTJvVzN3NjVUXzVTc2FhQWVLcnF4cVpoUTdCdGVOLWp0UE1rQUc0d2NDUl9tM1c3ejZveGNmNnl1c0F2V09yR1dEODItQm0yN1pnQzdsR1JnUEhnVkExUVJQXzAwS2NodE1TSGFmYkpaN2lfLWg2bDhhTWZ4RU5FcWNzMTV3MkcwZmVsMW0xRUdB?oc=5",
+      "fecha": "2026-11-15T04:02+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Pilar Fernández, delegada de la Asociación Galega de Fibromialxia: «Me dijeron que iba a quedar en una silla de ruedas y que no podría criar a mi hijo»",
+      "medio": "La Voz de Galicia",
+      "enlace": "https://www.lavozdegalicia.es/noticia/barbanza/2026/11/15/me-dijeron-iba-quedar-silla-ruedas-criar-hijo/0003_202611B15C4991.htm",
+      "fecha": "2026-11-15T04:00+00:00",
+      "entradilla": "Denuncia el maltrato médico y de la sociedad ante una dolencia incomprendida"
+    },
+    {
+      "titulo": "Cuando la diabetes te condena a la discapacidad: «Mi código postal me pasó factura, nadie me enseñó a gestionar mi enfermedad»",
+      "medio": "ABC",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMGxoeGxMOUIzcFB0Z2I2djJ3N1FOSDlpQlpIbGw0cGtYZXZ1UWhpNFFYeUZBM3pNbjhMZ2d3NmluRDh1MDRCUjc5bGVZUm1NYUxGNzVNUEtvNDFITG5Hamh5YTh2b0FGb3BmcXczMUVmaGstbUxia1NkLWo5YVZHQnEyUkV4cWVHRlZuSXZrWWJUNW01MDB3VFpkTVp5QXViQmxZSGtxQUVwTHfSAbABQVVfeXFMUHBrWTh1Ykx3NnZuRndQdV9vM2ttbGRvbHJUN2NCNjRYZU9oMUlITGcyUHFhSGhiMWZGWVdrVnNHdDBMWjlBVDJFU19EYUdfWEI1VDljaVVab0dENWRqUUFISXcxR2t6OUFqSVhkdjJ5MGgzRHZSVGdscFBtOUVwS1hYYU9UN3YxZFFwVDBOSTQ2ODdBSGFLM3p3MWU4WW5JcXQyV29hRWZLWk9wdHBTbG8?oc=5",
+      "fecha": "2026-11-15T01:09+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Accesibilidad en los conciertos: mucho más que una entrada PMR",
+      "medio": "El Español",
+      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMFlLNC1TbzdyV2RFc2NqdlZSV0RSdFJwUTFyY05hYWZZWldjZkllVC1SS2o3VThqc2xUNEl6dzY2QkJHY09mQzIzbS1uaFR0NkN3V2hCaXhxLWtEVlpVbHVNUXVKcHdKSjZtTUwwQjZIS3c5UXc5TkJLM05UNWlkTEU4ZW5oNVljNFRxNWlrX290aVoxd19ycnB0d0FVUmZhcHpuWFVxdEdZV1U1M0tYSUM0c9IBuAFBVV95cUxPbC1pdUh0NmszX2FibXVVaWdqUlZpc25XbmlTZkpnRXFEVTFMb2hCYWw5NFBhRjJYZWpZN2N2QW5KSmN3TTYzSEM2dzBYbkZjOV9McUQ5R2dwZ1ljUjV3QmM0czBBcnExd3hBNGZoVjdpVndQVjItS0JMbFZ6dHc1Ty1qdGZDcGFPSVlmaEVWYmhJRUxKWld4bnlGTEtSa0tRT0V2bU84ZHhkbkxSWVk0eHR5Y1FDZU1F?oc=5",
+      "fecha": "2026-11-15T01:00+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "La Ley de Economía Social cambia las reglas del empleo protegido: \"Tenemos que ser rentables por nosotros mismos\"",
+      "medio": "El Español",
+      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdGRVRUU4enlPN1J1RUFvMUowdk5fVUdjRnFvemRuWUlnMlc0YkRkSzgxTXU1WjhLeC1fdmtZcF9jU0FYcU1ibDJGR1o0MXVHSlBDeUVtcUI0cE8tYkVVLUs1YW5fR3R5dTNXS3pGTm4yOGVjNXNxOW01ak90RHRIZ2xITE5DNTFIUG5Fc1daak00cHlMaDlwcU5fR2tnLVRWdzVoNmRJaUNrOEZEeGRidkx5RUN5NW1CYjEyZG5LSUxESmotNnpYek5OOG1tbUhad3dqNkxWSUx5cHhTalHSAeMBQVVfeXFMTVFfNWtQWExMS1NhbzJ3RmpieGhWTHEzU0JGNzVFRkN4UW5FbkVRcnpzS0JlTEtiZzR4Y0JzSWVfXzJRTW5ldHJJeGtBaXFucWJNSS10NEwtcVd2Sm1qM2ZER1BMSVhwU2RhZnZNU1JHa1c3VFpSbWJnbGFlTDlMSTU1TWk4dnR0d3ZHVUo0NXJPaDgzR3lONWNhbTRpVTVONmdmNTM5S0hXa1c3V1UzZjhvWExJZzVZczYtTVNjbDNVdFJwNC1NQVpwVGs5N0xoVEtnUlJzaGVpdTdQMEZrLXh4dWc?oc=5",
+      "fecha": "2026-11-15T01:00+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Nueve jóvenes con discapacidad elaboran una guía turística para descubrir Villajoyosa sin barreras de comprensión",
+      "medio": "marinabaixadigital",
+      "enlace": "https://marinabaixadigital.es/art/7567/villajoyosa-guia-turistica-lectura-facil-apsa",
+      "fecha": "2026-11-14T23:15+00:00",
+      "entradilla": "El Ayuntamiento de Villajoyosa y la asociación APSA han presentado una nueva herramienta de información turística adaptada a personas con dificultades lectoras. Sus autores han participado directament ..."
+    },
+    {
+      "titulo": "Mar Ortega, cuidadora de un gran dependiente: \"Perdí a mi familia, a mis amigos y mi trabajo cuando tuve a mi hijo\"",
+      "medio": "Heraldo de Aragón",
+      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWTE1Z2ltUW0wQWMtT1ZJWkxwMG9pMWVobmxFYkNjYXVMS0ZGcVZVeXJSY3hRWm5iaXNnNkhuLWVMNl9scGJFb3NyXzlWaVBrTkJ3V0JfY3JHaVVPamV1VW9ObTJVdTNtSG0wRkdZY2h1YWI0d1pBdUF5VnR5YXNuNmdBeHpaNnZwUkVtOG8wcU9mdmx4c3FRNTlxSXp3ZE00Q01ZOVUtODBES3Z0bU9pVmpqM2NpY2dsTEgyckU4YTc2ZDJZZkU3ZjlFR2g4VENmcW9QNjVBb1ZWeHo3aS1uVm41UnBFTi1IR3NiWGxYRy0?oc=5",
+      "fecha": "2026-11-14T21:00+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Resultados del Sueldazo de la ONCE de hoy sábado, 14 de noviembre: 300.000 euros al contado y 5.000 euros al mes durante 20 años",
+      "medio": "Las Provincias",
+      "enlace": "https://www.lasprovincias.es/sorteos/la-once/resultados-sueldazo-once-hoy-sabado-noviembre-300000-20261114213605-nt.html",
+      "fecha": "2026-11-14T20:48+00:00",
+      "entradilla": ""
+    },
     {
       "titulo": "Ciegos, jubilados y en la universidad",
       "medio": "Hoy",
@@ -168,7 +487,7 @@
     {
       "titulo": "Una película unipersonal, skaters con discapacidad y chinos en Linares: el cine andaluz más insólito visto en Sevilla",
       "medio": "elDiario.es",
-      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVU9WeDRNcG5QV0F5OWVwWWJLR3JqdjB6WWdpTE1US1VUU0plQWM5VHJ4WG94V1VXYmFvZUVtMzhZb2M4YVNTUFktTlNvdHlMTWNFWmtsd2ZiN0dTVnpWZzBURHJiaWhLMTVrUnpXUHE3UkQzY2Y1M1JRWjRlV0tIbkpWOUIxMzFQQVdFRkdTRzV3c0xJdGRrZTF3T3J2elprTUdSTmgyZEFYQVdOUUxoSXYtOTNkQTFSdElIRjRKZ0tIOTNncGJnLWNSeFhLM09uS3V3SUY2RdIB3AFBVV95cUxOVnlZOS1McEpITUc0eFJxU0x1OGtPelRPazZPZ2xxRVhDaVd5bmRPRnpnUkdWUlh2SThoV291X1duNzhwdkk1dUUxNXdxWXo1SHN6eWNEMHMxd0xyaF9UZF9wM3VxNG9CT215V1AxMVctYWxNYlpjV1B0cEMySFNNekNiaW1uYjRVS3E2RDZxUXRfR2N0bER1TjhkU1FVWm9xNUtDb1hUMHlndnViTEh1S1A2Q0J4bVcyYXllUlhHbzM3MEhkc201MmRfY0FxUmJlVDB0aktxR1ZvblJP?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVnlZOS1McEpITUc0eFJxU0x1OGtPelRPazZPZ2xxRVhDaVd5bmRPRnpnUkdWUlh2SThoV291X1duNzhwdkk1dUUxNXdxWXo1SHN6eWNEMHMxd0xyaF9UZF9wM3VxNG9CT215V1AxMVctYWxNYlpjV1B0cEMySFNNekNiaW1uYjRVS3E2RDZxUXRfR2N0bER1TjhkU1FVWm9xNUtDb1hUMHlndnViTEh1S1A2Q0J4bVcyYXllUlhHbzM3MEhkc201MmRfY0FxUmJlVDB0aktxR1ZvblJP0gHcAUFVX3lxTE5WeVk5LUxwSkhNRzR4UnFTTHU4a096VE9rNk9nbHFFWENpV3luZE9GemdSR1ZSWHZJOGhXb3VfV243OHB2STV1RTE1d3FZejVIc3p5Y0QwczF3THJoX1RkX3AzdXE0b0JPbXlXUDExVy1hbE1iWmNXUHRwQzJIU016Q2JpbW5iNFVLcTZENnFRdF9HY3RsRHVOOGRTUVVab3E1S0NvWFQweWd2dWJMSHVLUDZDQnhtVzJheWVSWEdvMzcwSGRzbTUyZF9jQXFSYmVUMHRqS3FHVm9uUk8?oc=5",
       "fecha": "2026-11-14T19:54+00:00",
       "entradilla": ""
     },
@@ -208,6 +527,13 @@
       "entradilla": ""
     },
     {
+      "titulo": "Claves de la mejora en la jubilación anticipada para trabajadores con discapacidad igual o superior al 45%",
+      "medio": "Prensa Social",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUGl5MEpLX2tLbm5GOFluTW03QlJtSjA3QjZkclRoaUd2Z1ZIS2RUZ2tWSl9pR0h5YnBqYnlUb3BCOUVxZU9uSUs4bU1xR3NkUk5KSXN6UXNmY29WYmRDeDJhMUliU0swcFRzSU5pdUtZYTl5alo3OEY2TGw2MTM2OVJMLTRkWFpqc3kyakZ6WHozbGVxNF9JR3IzSU9NXzJMakxfbjBRNWNkZXAyTHBGRHE0T21lMEFjQjlleFQ0WWgwZXRvMW96V0NB?oc=5",
+      "fecha": "2026-11-14T16:54+00:00",
+      "entradilla": ""
+    },
+    {
       "titulo": "La Federación Bizkaina de Pádel impulsa el deporte adaptado en Derio",
       "medio": "Deia",
       "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQXgxTjlib1FRTU5za3pyc1pkcDY1aXBIclRibV82SXE2MGREWmZQY3RqYlVCZUtwbjdfVFh2SnZBTXVPMVJTcEJ4Yk84OTB3RFN1Sm80d2xmOU9qQ1E5RVljNDVYZFBJNTVWM2xLRWYtanhEamN2MnhpR1JpcldxalZ4YTZzTGxkOXQ0RUk4SV9GOEtqaURBZDc1MzN4ZEFr0gGmAUFVX3lxTE5MZmJwTjU1Q09ianJXVG5KdFZXdElET0Q5Z2hIQlRiTG9iS3pYWi1oYTNja09RX0tBNTBNS0VNM0x0MXA4d3ZGZVB4d2JfMTNXSDdwZkVELW1DdzJWaHQ0dTFIOU5QcFh1dmJJWDhVUXRwTDl0blE1RmxiZ2lrN01ienB2WVVzTmtjOUphZGo1NEFSMkczbEFUQWlxLTdHcUp1NnR6N2c?oc=5",
@@ -219,6 +545,13 @@
       "medio": "https://www.mundolapalma.es/",
       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcWVrTTkyMWNSYW95ZEJnVjhpUlpVMzRFZjdhc3pGTE8tbGpjT24yOURCSTd4R05RdTVhMUFmN2tGTlNhcVkzeno4dkdKa2NFWGN2Y2piQ1BzLVdSblpfWFU0eVZrbHQwcEE4VHhnNGg3WEUtVF96dG82WWQ1cDc4dmxZaWh0N0NOM09WXzRDRmZQYy1CQ0ExNHFvNkpmeEZoa0hDb1JvWHg2ZVdzVWFDSEl5VjJaejRl?oc=5",
       "fecha": "2026-11-14T15:19+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Bicicletas adaptadas: cómo el ciclismo se ajusta a personas con discapacidad",
+      "medio": "vivirEdiciones",
+      "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82S3VaRUNZaVp0elQ3ZmZsMENnVnJONXowRmgzM0RWQUZBX09uTm1PVF9pWUdfaWdIYXRFdzRSTnQ1S2hQSHh5N01QRjNnYlNxVkRzbGhFbXhiUkdJNndVelhjZWFQU2VlRXBMYnc2Wk50ZUctR1Fz?oc=5",
+      "fecha": "2026-11-14T15:08+00:00",
       "entradilla": ""
     },
     {
@@ -341,16 +674,16 @@
       "entradilla": ""
     },
     {
-      "titulo": "El Consejo de Participación de Niñas y Adolescentes con Discapacidad de Cermi Mujeres recibe el Patuco de Honor de Aprem",
+      "titulo": "Políticos de PP, PSOE y Más Madrid juegan un partido de fútbol por la discapacidad en plena campaña electoral",
       "medio": "Servimedia",
-      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd1B5aVVlVUpkSWF1SmNWVFhaVjNpdVJSVTlBWWpta2NGNmdlOTdjNmY3ZVZDOFREQzdWV0ZyNjl6LVlLWEtud0Rab1Uza2RQbjZVU2VKTUhZU2F0enkyX1RnYVhrdzRJTGVHYWJsOFVIQTltdzJYWFc0OW9KZDBheDBpLXIwSVNHU3FqdmVCVVB4bEU2QTE0RHhJczNRbFpSZXAyZ0RzWk5XY0U0UnByaDJKMHVBTkliaXp6cHlXd2pubW5jY0NHZHJsdnJXYXZjZ0tFejB3?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNDdkV09JR0dOc2d1d0FBX01ueUR3MUVOQ2xKbTNPM1FuTDNsUnVzcE9LRVlmcHhQUTUteUpRaTBSOEFNTjJFa2c3U0o4STNSbEJQd2d0RzMyXzVGUFNlcTh0ZFEydmRFT3RSX1d4czdQRHptQlZiYk9TWFRkWHNYTlFmTEFMVjAtYzZaR2dMU2dLbS1uOWhtdGdDMTlkV0cxdC0taWRndzFhVGRJVWF2MmdVRklQRnpKTkg3ampOYWg1NDRla2xodFIya18wZw?oc=5",
       "fecha": "2026-11-14T08:11+00:00",
       "entradilla": ""
     },
     {
-      "titulo": "Políticos de PP, PSOE y Más Madrid juegan un partido de fútbol por la discapacidad en plena campaña electoral",
+      "titulo": "El Consejo de Participación de Niñas y Adolescentes con Discapacidad de Cermi Mujeres recibe el Patuco de Honor de Aprem",
       "medio": "Servimedia",
-      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNDdkV09JR0dOc2d1d0FBX01ueUR3MUVOQ2xKbTNPM1FuTDNsUnVzcE9LRVlmcHhQUTUteUpRaTBSOEFNTjJFa2c3U0o4STNSbEJQd2d0RzMyXzVGUFNlcTh0ZFEydmRFT3RSX1d4czdQRHptQlZiYk9TWFRkWHNYTlFmTEFMVjAtYzZaR2dMU2dLbS1uOWhtdGdDMTlkV0cxdC0taWRndzFhVGRJVWF2MmdVRklQRnpKTkg3ampOYWg1NDRla2xodFIya18wZw?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd1B5aVVlVUpkSWF1SmNWVFhaVjNpdVJSVTlBWWpta2NGNmdlOTdjNmY3ZVZDOFREQzdWV0ZyNjl6LVlLWEtud0Rab1Uza2RQbjZVU2VKTUhZU2F0enkyX1RnYVhrdzRJTGVHYWJsOFVIQTltdzJYWFc0OW9KZDBheDBpLXIwSVNHU3FqdmVCVVB4bEU2QTE0RHhJczNRbFpSZXAyZ0RzWk5XY0U0UnByaDJKMHVBTkliaXp6cHlXd2pubW5jY0NHZHJsdnJXYXZjZ0tFejB3?oc=5",
       "fecha": "2026-11-14T08:11+00:00",
       "entradilla": ""
     },
@@ -380,13 +713,6 @@
       "medio": "Tododisca",
       "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWE5ETG1uMndadklfUGN3cWtLWlRRRW5kU3duTnRVU3I2cTRTTmQwX0R0OWdKdlJSeGZsU3NMZVdVNHJVTHZ5V3lwTjEtRkRvVUllZk9wbDJMWmJSc1FFV19wX0RiSGg3Rm5GSWw4bFZSd2pyeXJ0ZE83eEloR0ZYSWh1Z1FHUXJIWm1FSnpxbXBocDcxaHJZUkROWGh4Z2lLQ2FZd2s5c1hSc1ozQmNibTdnYmRuSjZ0bG9nNFpNQUpCeG5QX0h1SUQwQURGSHd3ZW1KMTJWYw?oc=5",
       "fecha": "2026-11-14T07:00+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Claves de la mejora en la jubilación anticipada para trabajadores con discapacidad igual o superior al 45%",
-      "medio": "Prensa Social",
-      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUGl5MEpLX2tLbm5GOFluTW03QlJtSjA3QjZkclRoaUd2Z1ZIS2RUZ2tWSl9pR0h5YnBqYnlUb3BCOUVxZU9uSUs4bU1xR3NkUk5KSXN6UXNmY29WYmRDeDJhMUliU0swcFRzSU5pdUtZYTl5alo3OEY2TGw2MTM2OVJMLTRkWFpqc3kyakZ6WHozbGVxNF9JR3IzSU9NXzJMakxfbjBRNWNkZXAyTHBGRHE0T21lMEFjQjlleFQ0WWgwZXRvMW96V0NB?oc=5",
-      "fecha": "2026-11-14T06:53+00:00",
       "entradilla": ""
     },
     {
@@ -432,9 +758,16 @@
       "entradilla": ""
     },
     {
+      "titulo": "Cena sorpresa el día 27 en Villar del Rey a beneficio de Adifisa",
+      "medio": "Hoy",
+      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR3lMT05OeEtfVVFZVkh5aHZHT2wyTzlwcmUtaV9lRWEwZG50clhwRE8zMEZYSG5DSDlmekxkd0NOM0hRTGFOV0NfVFl3aDNxbF9lbEYzUFlCZ0hNVVFxSDB3SHFHZ3lhd1ZOTGd2LXNFd1FrV0ZLWmoxc3I3RmtkWnNnNXRVMFZtRWZtOEJxa25fMHo3eERwS1lyQmNmV2hNSy1B0gGoAUFVX3lxTE9vdS1QNHZYLUdYNmZFcUx0MnByc0JIX255VklBV1JWRzl2dVllZHJKM3lzcjRoQ19rcHZxV242bElZOHZpQzRVMWhXcjFKUXVUdENUV0dtbzhQbElQZjNVdHdjMGtDZmZVNVNVMGxVY0FROC1JMzBydkRmZUk1VnNWVm8tcVFEU0lRYkpLdWVvTlhZZVFnRTBJLTFMV2hQWHRyQ2pqaEd2TA?oc=5",
+      "fecha": "2026-11-14T00:00+00:00",
+      "entradilla": ""
+    },
+    {
       "titulo": "Reconocen el derecho de un vasco a cobrar a la vez la incapacidad y la jubilación parcial",
       "medio": "El Correo",
-      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeVhZOEVEUlVUR1VtbVpwcW1JS0NOMUhsWnhlVGRMZWV3VlYtMzUyZHV5TERaZTBBd1BlOXdfQVZOcmtvb0RvZGpnWk5wRjRGT1MxZ2NQcDJhLWFTT1F3dG5LS0tQRGxqU2hKSXh0YWxZZ2pBMGhwTzBQUmNYZEZoUHR6ZVFGUnB6SVRLdEl2NmVLLWdsdVpaTUxUZzRNU2JwaUd4NF9NSDc1YTJMeE4wejJudGU?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeVhZOEVEUlVUR1VtbVpwcW1JS0NOMUhsWnhlVGRMZWV3VlYtMzUyZHV5TERaZTBBd1BlOXdfQVZOcmtvb0RvZGpnWk5wRjRGT1MxZ2NQcDJhLWFTT1F3dG5LS0tQRGxqU2hKSXh0YWxZZ2pBMGhwTzBQUmNYZEZoUHR6ZVFGUnB6SVRLdEl2NmVLLWdsdVpaTUxUZzRNU2JwaUd4NF9NSDc1YTJMeE4wejJudGXSAboBQVVfeXFMT1VjOWkxSDVZVVZJZncySWpGa0NDN183ZkRTbXROTWJqVm03QzlkNWNzUEpDZ3BuSmp5YnpmUnF5OXg4RXpuTjYzeFhxeWdOckF3LXVLbmhFZFNBVFBpSHBUazdET0hPRjE2Q0Z3TG1uTFJRRTk4b2RYR2dtZjlMNks4XzhmWHdTOFdSemwwSWxYQjZwU3pSQkNrVFQyelVBVVE0MDliZEN0QVdhM3VfMl9MZGNsdXAzd3hn?oc=5",
       "fecha": "2026-11-13T23:09+00:00",
       "entradilla": ""
     },
@@ -761,16 +1094,16 @@
       "entradilla": ""
     },
     {
-      "titulo": "El movimiento asociativo de personas sordas se reúne en Santander para abordar sus retos de futuro",
+      "titulo": "Plena inclusión hace más accesible el voto a personas con discapacidad intelectual con señales en los colegios electorales",
       "medio": "Servimedia",
-      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMFFqYlZmTjFTSDdESG0tdmk2eUg1VkVhT1R2WEFma3UybklMaWdXVW9hSTVLZU1TVHJISzNIOVFiQ3FkVEh1Vl9jVUNObTh6RmJWd2dpQzJCemhmcV9xTEdWSjVwakJFM1dLVWphdVBic3RHSEYyMjg2R0REU0FtNGtEZy1YaG5KempNeW93b1VHa2tobVZYUU1ZT0Q3RzJGQ0pYLTJyamQ2M3MwY3pvWnhocE51NEVhMGRSLW1tbmZUMXc?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUGlYcUlOZWlxUDRqYnFWMUN4bFJHTXh4VVVsZnNrcTZCZmRBMHM1TmVZYTdpSjFRd2QzSmJGbHNqbFFsQXgzY3drdzVxT3VSdGFHc21Vb3VQcFZKWjB6Tm1GOXJxejE5c1FNUTVkU2lHTXByVnV6bEtoQzQzRktldmRLTUhsRVI5aU5KREd2LXJ1YjlHajVHRjB6eWVNemVfbkZqbjFyeFlGRFRJbFlJNDBvSzkzOHY3RHluYkU5Q3hLblBxZVVmQ0RlQjRJQld3YXRya3NUZV90NWJabVlEdkJB?oc=5",
       "fecha": "2026-11-13T12:11+00:00",
       "entradilla": ""
     },
     {
-      "titulo": "Plena inclusión hace más accesible el voto a personas con discapacidad intelectual con señales en los colegios electorales",
+      "titulo": "El movimiento asociativo de personas sordas se reúne en Santander para abordar sus retos de futuro",
       "medio": "Servimedia",
-      "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUGlYcUlOZWlxUDRqYnFWMUN4bFJHTXh4VVVsZnNrcTZCZmRBMHM1TmVZYTdpSjFRd2QzSmJGbHNqbFFsQXgzY3drdzVxT3VSdGFHc21Vb3VQcFZKWjB6Tm1GOXJxejE5c1FNUTVkU2lHTXByVnV6bEtoQzQzRktldmRLTUhsRVI5aU5KREd2LXJ1YjlHajVHRjB6eWVNemVfbkZqbjFyeFlGRFRJbFlJNDBvSzkzOHY3RHluYkU5Q3hLblBxZVVmQ0RlQjRJQld3YXRya3NUZV90NWJabVlEdkJB?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMFFqYlZmTjFTSDdESG0tdmk2eUg1VkVhT1R2WEFma3UybklMaWdXVW9hSTVLZU1TVHJISzNIOVFiQ3FkVEh1Vl9jVUNObTh6RmJWd2dpQzJCemhmcV9xTEdWSjVwakJFM1dLVWphdVBic3RHSEYyMjg2R0REU0FtNGtEZy1YaG5KempNeW93b1VHa2tobVZYUU1ZT0Q3RzJGQ0pYLTJyamQ2M3MwY3pvWnhocE51NEVhMGRSLW1tbmZUMXc?oc=5",
       "fecha": "2026-11-13T12:11+00:00",
       "entradilla": ""
     },
@@ -873,16 +1206,16 @@
       "entradilla": ""
     },
     {
-      "titulo": "La Justicia confirma la incapacidad permanente total para un empleado por sufrir depresión",
+      "titulo": "El TSJ valida una indemnización si la empresa no responde a tu solicitud de adaptación del puesto tras una incapacidad",
       "medio": "La Razón",
-      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPenJEYU9fdTVzM3VYVDR1aElQXzdRYTlSeXluUFowUklGTHN5QnE1dUVPNC1PTWFqZTdZQXdFMEVwbUsxSloyWlpjczFPZXlRWW54RW1hMUdvUUxScTFSMVdhcFlNVEpCazUyOXhIaGRtajZsY2YxcmRzeTRXQWl5ZGY2SEg2UVczbXRDOFN4MFF4SlQxY3FqOWk4U0Qzb0pRRkYtOURXbEE0VjdNOFdTUENlLVRROHFfYW9YaGExZ2lQWVVnMF9oUjdyMlhFcnRkUDBSRWltTWpHaXFYMVNzLdIB9AFBVV95cUxPanB0Uk1hanJQRm5WTlk3TE9TQThXZU0wS3RMbjZQRnNtRFBFaEJIRXF5dzFPMTlVTjEtQUdldDdwREJhXzhUQ0pEb1dVV1plNERtSWtLalNQY1ItT1lsN1Uwb0JjZWVKWVJrdHd2anYzMk5qal9wUnh1LXhMcVZsa3NKQjZDbU03UzdQejJVaWZLT3lYX3lwMVgzQlFWdHR2Y0NNS2xPbGh0dEd5dWNadWZDZXRnVERMQ3ZRbGJWdmZjNUNFaWNwcExGaFM2bXZSZXJBNWQtX1pQaFlxVjJDSkV6cDVJV3BwVTM5UUxjRlhDQjlk?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMmdodWpCUWVUVW9DM29iS3ZkMi1JYlZCUnRNTFNqX2hORlV0WmtnenItWTV4c1YzNVU3OVdiR1NaVE5PNTVMd3BZbHp3dXFycGNFbENoMVQxby1vb0FoWmRzUE5jNjdhekh5MHRWbnhJRmJhNzFPc2YzZlo1X2VhRjU4NDVZai1ENDZxY3VveWtmaDU3MklhaFp0SW01cVZPVmdYakVNQVZNOVpReTB0Y1NURlZ1Mm5RSVU1WHZoaUI5UHQ3dUZXa1BMRVpLQzJWNUp2MXBpZlJYLUVBeFA3b2gtaUFibXZLVGxJ0gH_AUFVX3lxTE5vaXUyLUhrTmZYZHV0ci02MXpJenNzLXpmQXVNQWpzSmdsc0YxZF9fYTJwQXFnNEh4eENNWHktTVdha2pGQTM4aXI1YUItNlYwMlVYR2prd1BNZGNmbkUtaXp5amk3YllHcjlZM3lRWW56TWs3X2k5eWk0cW1MT2I1NGNsa0tWR2dPTXdieXlyWUhFclZzRC1sQ0YwMTVtT1laYTM4NU8tMFdMWWxrLWZxa3dFWGE4STZFMkYxcVBvN181aWtKR3dFRmpnbFlKTzlQWDhLVjJzbzlZdE9PeHdDdzR4WVZVeTVHczctU1NxX3VZbHo2TW5EM0QwVVBXaw?oc=5",
       "fecha": "2026-11-13T10:23+00:00",
       "entradilla": ""
     },
     {
-      "titulo": "El TSJ valida una indemnización si la empresa no responde a tu solicitud de adaptación del puesto tras una incapacidad",
+      "titulo": "La Justicia confirma la incapacidad permanente total para un empleado por sufrir depresión",
       "medio": "La Razón",
-      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMmdodWpCUWVUVW9DM29iS3ZkMi1JYlZCUnRNTFNqX2hORlV0WmtnenItWTV4c1YzNVU3OVdiR1NaVE5PNTVMd3BZbHp3dXFycGNFbENoMVQxby1vb0FoWmRzUE5jNjdhekh5MHRWbnhJRmJhNzFPc2YzZlo1X2VhRjU4NDVZai1ENDZxY3VveWtmaDU3MklhaFp0SW01cVZPVmdYakVNQVZNOVpReTB0Y1NURlZ1Mm5RSVU1WHZoaUI5UHQ3dUZXa1BMRVpLQzJWNUp2MXBpZlJYLUVBeFA3b2gtaUFibXZLVGxJ0gH_AUFVX3lxTE5vaXUyLUhrTmZYZHV0ci02MXpJenNzLXpmQXVNQWpzSmdsc0YxZF9fYTJwQXFnNEh4eENNWHktTVdha2pGQTM4aXI1YUItNlYwMlVYR2prd1BNZGNmbkUtaXp5amk3YllHcjlZM3lRWW56TWs3X2k5eWk0cW1MT2I1NGNsa0tWR2dPTXdieXlyWUhFclZzRC1sQ0YwMTVtT1laYTM4NU8tMFdMWWxrLWZxa3dFWGE4STZFMkYxcVBvN181aWtKR3dFRmpnbFlKTzlQWDhLVjJzbzlZdE9PeHdDdzR4WVZVeTVHczctU1NxX3VZbHo2TW5EM0QwVVBXaw?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPenJEYU9fdTVzM3VYVDR1aElQXzdRYTlSeXluUFowUklGTHN5QnE1dUVPNC1PTWFqZTdZQXdFMEVwbUsxSloyWlpjczFPZXlRWW54RW1hMUdvUUxScTFSMVdhcFlNVEpCazUyOXhIaGRtajZsY2YxcmRzeTRXQWl5ZGY2SEg2UVczbXRDOFN4MFF4SlQxY3FqOWk4U0Qzb0pRRkYtOURXbEE0VjdNOFdTUENlLVRROHFfYW9YaGExZ2lQWVVnMF9oUjdyMlhFcnRkUDBSRWltTWpHaXFYMVNzLdIB9AFBVV95cUxPanB0Uk1hanJQRm5WTlk3TE9TQThXZU0wS3RMbjZQRnNtRFBFaEJIRXF5dzFPMTlVTjEtQUdldDdwREJhXzhUQ0pEb1dVV1plNERtSWtLalNQY1ItT1lsN1Uwb0JjZWVKWVJrdHd2anYzMk5qal9wUnh1LXhMcVZsa3NKQjZDbU03UzdQejJVaWZLT3lYX3lwMVgzQlFWdHR2Y0NNS2xPbGh0dEd5dWNadWZDZXRnVERMQ3ZRbGJWdmZjNUNFaWNwcExGaFM2bXZSZXJBNWQtX1pQaFlxVjJDSkV6cDVJV3BwVTM5UUxjRlhDQjlk?oc=5",
       "fecha": "2026-11-13T10:23+00:00",
       "entradilla": ""
     },
@@ -1055,6 +1388,13 @@
       "entradilla": ""
     },
     {
+      "titulo": "Nigrán licita por 164.000 euros al año la atención temprana a 81 familias",
+      "medio": "La Voz de Galicia",
+      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNazBUSmxpd0RObG1YSUItRkJiYy16eUYteFlUVmtGbmk0RXZkb09BMURuaEJzWWxlenVWQVJiYkRjS3dFMVNiNkNmaGFkZ3BFNE5OUVR2b1JNa3o1SzNBNEg1ZHJwYW0wd2phaFhWbHVIZ3NxQnZkeFIzamI0YXR2WjJWT1VlSTJxT3pvc0hHZmQyaGt4SXhjcGNyM3dIRXNZLWw3MHIwM2hEWVcydFBVeWFtZ015cV9FRWNOUGdmbHQzY3N5SkQ1VWxobGNqMlhlaTBQd05KTnRTYThrWXc3c2tnQdIB_wFBVV95cUxNcVF3a2J1dnJ4SnBpUUtVR01RNTZpWnFBd0YxT1JwZGUxV0pqV1FGVDJLOEZZaVFzYXp4eC1LeFUySTZVSXJSbHIyMi1tejhINXJnTUxvNGhCMUFEd3lJWXEzX1FBa1AyX01RVXhCcXlRZG43dFJubUJVcmt1Ym5nQVk4XzR5NWl1MW9XLVY3V2RsaGhHdHkycEdRN0JmOXd1MmlQOUpXQUtPczZqZlM2UGd1YWljZlB5S1dkY0VwYS05YnA2NDFmd0NqWWVJOEI0WDdROEM5Mm1qSDJxU1FvWG1RSFV5LVBUazhnVnBTZy1zZHVjM0thOVpBcUhycW8?oc=5",
+      "fecha": "2026-11-13T04:27+00:00",
+      "entradilla": ""
+    },
+    {
       "titulo": "Entrevista | Susana Álvarez, presidenta de Atades: \"Acompañamos a las personas toda su vida, desde los primeros meses hasta el envejecimiento\"",
       "medio": "20minutos",
       "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaDdYaEV5aXN1VDVOQWpsQlNmVzZfMVRDSWU5cXdHci03S2RLSnotY2RURjhXZzlxRkk0Y2lqZnNoSVRJNjBYT0ZKeWZiWGwxWHV5SVotdDNmUWVHUFFvdHpvdllJbVhWWHo2WHg0RHdBdWJlOVhNMFBUcG16U0xVTkQwTG81M2xFQ0c0c25WSmRhMFpQRnE2Q0M0bC1sME4yaGVnWG9ySEIxLTNlTUs2S0tCc2tlcHB1SklSbEdCSTRYQ0dVdmpieEI4eFEtc0pjU2ZzWDRPMi1JdjJRU2tSanEtTlZyN2dDQmtYRnFVcFRLSEdSdkhVNjNjYi1JSUJjdThNVV9R?oc=5",
@@ -1076,248 +1416,24 @@
       "entradilla": ""
     },
     {
-      "titulo": "Special Olympics Aragón, 35 años cambiando miradas",
-      "medio": "Heraldo de Aragón",
-      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWTFQMUNIUktDT3BwY0haZHpGVFQtNHdDOG5iN0tIYWk4SmdVZTN6Vmw1ck1yWkJFbWlaQmlHNnpNVUx5cVJrRVNQLU84RWVXYWd1VE1lZ0tEemhwQmJMQkFWX2VDYjZSMVBlempTaEFlWGhGUGFmVWJoZ1VzYUxESmZsYUhpMFhWMWRfODFtOXNldWozbzVkb0Q0Q3I1UDRHeDlYcUxtajc2WkdZR1Z5SkZB0gG3AUFVX3lxTE03WXBtT3FqQURmQmxJd0JjV2k4RVctSGkxcERBbTF5OC1GdlVpZTZLNDFqbENfUTk2d0ZDdlB5RXR5bVdEejZwb1BMMF9yR1ROMk9fZy0tWTY2ZWZScVBCOS1pbHZQbnI1Mlg1aC1ycm4tMUhWS3BxV2t3aFpibWlWa18wRlYyY3Rpdmp3WjBSSnk5WWZCa0o5dlNOY1ZIVjZSSHBPNWRJZF84SGtUUUtZa0VhZXlFSQ?oc=5",
-      "fecha": "2026-11-13T04:00+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Viola a su ex novia con discapacidad en una azotea de Palma tras saltarse la orden de alejamiento: piden 11...",
-      "medio": "OKdiario",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWnM5NWJLMlNtdWNmMUZHdy04Vlg4N1hwY2NOUW9tNmFNYmFVdkZSMlM4RmExUDhRZF9IRVVJSG5Jc2ZSY3pHM1RJc1ZrZm5IUFNZVkRiVHhFY2FpYWFHOEpoT0hDLVVHYmliYnRVcWRyNWFRRFY0QndxT0VnSldCR0ZpNWpicjhyVzNlZGFGZElWdlhyMmo5SWRwdlc0dmJLUEE5bkltaWZMVWI1aDRzbWdNQTJ2Y3FIbFQyaG80YnNMMkMxR3JR0gHMAUFVX3lxTE9pSC1KZGhBVlZNY0o4UnZ4MERMY3dMREYzS2NpVDNrejVkclVIMENJR2VRNURfSGV1UG5KaElSeW41NmpvdWI3WWR6N3Rkb2N1RHJuWUxreGtwcFVydkljcllvTHpTd1JjNlB5TzdiV3N6ektjY0ltVlNOU1Jva3NKeC1GSGRuSTc0YmctWW9FTnpsajlmb09MazNSamlmS2xIa01veEJoX0M0YWpad3Q5eTlyQlVjRlFRNUdVYnkyVElqRkhsdGlTV0x4UQ?oc=5",
-      "fecha": "2026-11-13T03:00+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Las pensiones de discapacidad cambiarán al llegar a los 65 años",
-      "medio": "Prensa Social",
-      "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUVRtZHJ0S2lyd2pZWlROU2YzRlBkTzlaTlByT3J3UFhjNjFnbHE2aXptNEF5QjYyZUNkXzNLd2JGNngta3d4YjlTdklRdUJra2wybHhvcTZhd1cwNmZoUVQxWkpiOUFvQlFxZEtqaUtZMEFVcko2bXZGdzlSSlpkMnAyN19tNlA5UWt5ZEhJNDI5dw?oc=5",
-      "fecha": "2026-11-13T00:54+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Campaña Electoral: la CNSE exige que haya debates accesibles en televisión",
-      "medio": "Prensa Social",
-      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbld2S25BZGZqcVJET3hrNFZuSm5FdzR0Z0pjNVlKc1JuTDVkRmdrSVdfcE5UN2trLURXeVVqNFVUdmJ2cXZiLXl4MkRXOC1NV0NHQmkwQTFDQW5CVTc0ZnRyTTludTItVFFIdV9oczJhelRDQy03cG5Kbmx4ejhpUTV0NXptUUxDakFmTWtFTHNWSXVlVTI1QjRxTEthTlE?oc=5",
-      "fecha": "2026-11-12T23:52+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Las personas con discapacidad buscan verse representadas en la IA y acceder a nuevas oportunidades de empleo",
-      "medio": "La Verdad",
-      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ0VodGRFY2FsMUkxX00ybTFKNEJDczE5aTkybTNsSE95OGg2N3F4QkQ3UWJPek1EQ05PajBUenRwNlpwblA4RndWMzRxeWR4UHpPR09NakRBcHFETHNCUl9JZDdnc3p0Z1N2MzhaaGIxd21CeUxrVlVwWktWX2xKVHkyQzVHQW9lMHBhRkNnVTRtZDA1cF96QzFUaC1CQXV1b1BtRGZVcDZSOXJJNERsWGtBTHVpZ9IBuwFBVV95cUxPTmMwZnpoanpjWmRWRnJCUFVMQW5BYy1Rc0xNMlNsSDlCZ1pqS0hWSGVmVTRCR0VsVDdqQjFRVU5YVmZPSkVQZERxSlRsQzVpc090NFh2cjF1TWpTNVlFZEVka0dQSkhuU1hvdDg2aDBTT2cyU2dyckRsbmlwRENpMkY3bHMzQ1l0TF9WMlZqc3VDTTM4ZGsyY09MdlFINllLM1BLRF95aW1rUFpobWYwTldRdDZ2ek5CRDRZ?oc=5",
-      "fecha": "2026-11-12T23:20+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "El informe municipal exigirá al Mirandés ajustes de accesibilidad en la nueva Tribuna de Anduva",
-      "medio": "El Correo",
-      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSGtQY3dFRzdfSjRiYXlmY0V0M3JncENMcThDaTB5eFNUNkJnVkVmQWJ0R3pMMHRxanpQRURvNlpsX1lydm5kUWNpUXN1eGJ0WHVhbTREUkRBOV9VWVZKMWdKamZPemdYWVIwSlJiYlptRDBfcktsd3B3aG95dDNsYzlOMUt3bVNwUGVUdHJzZGQ3QUdxUGR5VXBhdlJlc2tLQWdLNXdCd2o1eWdEVm0xRXl4X09oNFZJNUlN0gHAAUFVX3lxTE40QU5JQzFKcTZqM2Z0NDFuVEx4YldqcWlocDl2MzRYNmpuSDd2UVQtdUYxWmhLQ1FUODNUTFQ1WXpxZW5DVzFMbVQ5MlZ0VTh5TG9sMlUyYVJ0VmFlRXpsdWlzSFdJekpzelNuSk02M3dwX1Y4OTB6QzZSNjVzamdpSzdBUWNEdTg4d1FZWjRCdGM5ZDZIZWJzUHc5OUN4ZTdlQzg4NW4xa1ZyVFNLd3BieTk0aUZfNkRFUjFxSHduVQ?oc=5",
-      "fecha": "2026-11-12T21:51+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "El Tercer Sector extremeño reclama una inteligencia artificial más accesible e inclusiva",
-      "medio": "Cadena SER",
-      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZFBFeUhQeENnaTRrdVpSVS1OSVVYMXFuRV90Z3FqMXJsWV9FXzQweDR2VTJUT21KTDJSSS1kQnBEZEZJX2d2WmJTVXpqd2hqUnBES0xQYUVjZzh2ZkZaTEVabVo4QVNzTThNUzdMaGVSVk9ZUVQxX1pSNDJnYXRKMG0tbWI2QXFhbjItXzZFWjlqTE90TWRXajdqZEVfWjJuT0ZrM3NRVnVIWjZYVk5jeUJMQjNIUE43c3FHMVlBQ2tEWkJVNW04andXTTd0Nlktd0xoc2otRlJzMG9MTmp5d2xXb0F3eTTSAfsBQVVfeXFMUDhlQXdnVktvWlpPaVM4Wkxhb29uQWdWQ3NwWFFHaWRuRWFFMU5aLUFRMklfQnUyYVJuRmUwUnJPSm9XX3UyYXdDYk1GQldwbE5aVVZwZlRQRTIxQmpDT2hHZVk5N01hdWtiOTdDRlhIdVdsTDFQc1dXc05uc255NkNObjZ2U1g1Y201N1lXRm1oRmJsLTFCZnN4Q2R5TG41ZTJYU0UtS1hjZFlHOGpBbHQ1eFVIZlRlWHl0RWwyemtnZjhtdGxENjFMZHhvTnREX0JpTmw1OUJGSEFWSlBaUHFIQ0FjLTNxZm0xTW5JYlFpaU04Rm1IY1RJT0k?oc=5",
-      "fecha": "2026-11-12T20:54+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "PROI CEUTA y Miradas muestran el deporte inclusivo a través de la fotografía",
-      "medio": "El Faro de Ceuta",
-      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUHVDRFBpRW0zNmhybU5xdXRPM0twQTJ1ZzBkbW1kdEZpN1NFUk8xbGthaUUzaFAxeHFzbVNXak5hUm9zcjUwVEtDZE16MUZRSHZWQldxUXIxM0tkQnltVGNzX1RoLUMyMDBlenROZ1Z1WFdnellVZHN5eHU1VEs3eVdmbHB6U2dUYUpTRWE2ejhYUFZGN1dZQg?oc=5",
-      "fecha": "2026-11-12T20:37+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Deportistas con discapacidad intelectual se dan cita en el 'Special Olympics EU Day' en Bruselas",
-      "medio": "ABC",
-      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1M0bVdFamM2cUxZVHJLbE1FYko2ckFKYURrQTZZTC1UZjExQlR3Qi1QcWFmdUI2Nk5xZkVFbTNPSTlMdVBVdW8tMVpkd2JDVFB2SEVwUnJOMzNkV2dSNFEtTmNlZzktdlNBd0V3NHM1YVlQcmNlTWcycW4taUhYRXhZYm1KRnlzdWRmY1A1UXpiVU1HY1pwX1ZUMkxVOVpTb0hmTXJIRWV6RldEazFLd0J3QdIBuAFBVV95cUxNdEEzeG1UZUVWaE91bVdDM3NHUFMyWVR6M3RzXzBUSE9CWmFpb0xxc2hpSDFqLXdraXdsRnJhaThwLXdhQXEwQjhydWZNV1JjWGx2dnJDM3RQQjR1TFVJdE9oczBpVjE4ZVc1TU4tZWFpdHN4QUh3SzR1UjZRU21FSnRhRTZwTG1ySWlzaHBNLTBpc3k3Z1NMdW8yT1VKZk1JWkp4cGVXd1Q4Qzctajhrdy1HWjNtRmRV?oc=5",
-      "fecha": "2026-11-12T19:34+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Móstoles promueve participación de menores con discapacidad",
-      "medio": "vivirEdiciones",
-      "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbkdTNzQxMGlrMVl2TjV6WlpSaVhJTjBjV3IxcXJJamNfcl9QcVJYb0NhQU1QbEQxRVJ5QTZGTXo5enNMOFJUTVdVOE5BUFp4OElWbm1xcjhrQkNkMGQ1TDVtem9OVXdvS2FYS2N0bzh0MW95emxXUWFNMk1SdDNHTnd4RWNQakIzRjJpeXZXaXg1WVZhazlPNlJwSlQ?oc=5",
-      "fecha": "2026-11-12T19:04+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Ángeles Blanco, abogada: \"La Seguridad Social está discriminando a las personas con discapacidad severa en los procesos de jubilación\"",
-      "medio": "Tododisca",
-      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRWF4QkNZS0xDaGJ5d1lsTXZodGNDclRHcnh5Rjlldms4SUd3ZDZWTU1reHp4Q2VqRlAySlpVNVNpUEhEM0JCNkRBRjh3TnJqZ19rUEdLV3h3RnNPd2l3SnFxUUtqbGxtMVhxX2VCc0JKNmlVRF8xUGVhdzA1SmZqSEdWZ2RkejIxN1Itblpfb2hqLWVkTHlHcjFNWERuNTBBbDNsR3l1WmUzUXI2dE1Pa0FxeWY4RmFSc24wTVIzbnFOeWlQTnZtZk5QeHpZUGlnMnhB?oc=5",
-      "fecha": "2026-11-12T19:00+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "El Saliente ofrece orientación laboral personalizada a personas con discapacidad física desempleadas",
-      "medio": "Ideal",
-      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMXh5NTY5aEozVzVES0xRYk03WTNYU1VyUjF0ZG9MM1d0T3plRWdGWTZzM2lYVnhVMmNhOXV2dXhwUVp6WEwyRGc4bThwdVRUTlBEc3h0UVowY25wRFU4UVZmbDdVUnNnQTJRRUVYM19sTnMyU1ZObEpZcTZlZzRGVGdfWU1fOUVFTzVITE9TZzFQaFZNbzRTOXhRZ1pBdnkxU2NJYlZ2emFPWUtsS0VQQ0ZOTnJMQkhpQWpLZ285OFBrU2xtVUc2MWtqM1JGT213WmhWcDJiZkjSAd4BQVVfeXFMTUVBR0dEUHNYUi1Jc0lpY2w3OHg3SFJLWThDUm95VEZJejlib1hwR1RzbjZXdE5VZHpSeDZSc1dWSmtIR01BRnhNWUhoZllxNmpqbEVIQXpMMVVHMGsxbkhzU2FPdUlCekY1UFpLMnYwUnJuLXdzZTFIRGR5MkZQTnlDT0U5LVJoM1ZqYm5Ra1FDTkhSZ2NvMGhTX0lZSG9ybXozSEpvUFdsNDNOUWhKdHU4OHJiaU40UV9XNWJfOFhvckJlTDlNV01sbFFITEFFMGU4dlJBaDJXSmg5M3B3?oc=5",
-      "fecha": "2026-11-12T18:41+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Ocio, deporte, cultura y formación para conmemorar el XIV Mes de la Discapacidad de El Ejido",
-      "medio": "Ideal",
-      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUkpvM2FLVHRYdTJSMFlMWDFhMlptb19fc3hYZVk4NEltXzAtUDh3dWRQZ240NGE2NFlPbHd0bWhCNUZISW0zRFQxYkN2N2h4Y29hS2ZkdzRrRl8xUDJWbE9Ldy00VFF1dDhVdVZOUkxZNE13UzU3U01mUjJZUGZXQzhybXZ4eTIxRDVkdnFHRWpZUTQtVzNrMzI5dGFuU2FQejFDRjJ5d2_SAa4BQVVfeXFMUEcxZ0U4VUNNaXJyWVRvLWxpTGxFWEl2SXpVYk9nb3lTcE9hczc1NWszVXMwUGdWWEpvcUxGUkNBUkNnWXVtTkVGZm9NTndaMThOcm81NUhQdEhXZk1mT2s5NEVqc3pXUlJTY2NaOEt2cnBpWjItYlhHU2o5OEYyRFJTdk1XU2w1S21NOFBhSzFqVGwwRWhPbXlMMFZmblBjNkRiVmc3dmdWNjJqSm9B?oc=5",
-      "fecha": "2026-11-12T18:12+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "DOWN Andalucía denuncia a una discoteca de Sevilla por negar la entrada a un joven de 24 años con síndrome de Down: \"La discriminación no es derecho de admisión\"",
-      "medio": "Tododisca",
-      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLVdydjdVWHVKbGw0dEtzUTBycHJkU3h1b0tfVFh3elpFSWdxV0RDdzA4SmZMNWRfaWhwbWVPUWZ1SU1SaEVPbXVSU2VCMU1NNXQ1V0g2bnhoSXVSMkhzd3h3Mzl5c2JiYzFlUEhUQ3lsS2RySmtYQW9Cd0FncWhERXpEbzlLZk1WODZlWFo0N1Z0Q0ZEV3JBd0pRUzhyeUpCZDBxbVROUVdBRDB3cVhmdmhCWHhNN0dob1FtTnM4WElrUmlEVUNaVkhEWlN0YkNQU05UWHk5UGhra1lsQ2ZQWWV2NF9rSURxa04tOQ?oc=5",
-      "fecha": "2026-11-12T18:00+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "'El Circo de la Vida' de Upace: 14 años de teatro inclusivo en San Fernando",
-      "medio": "Diario de Cádiz",
-      "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOXFIUDFFMUN6TEhpMWZCU0pfR0VoVUc3VEpnWHBNNW1qYktpSVRYZlFBbDRfQmxfdEFGYnNRQkxjazYwZkFsbkRsVU5JNFM2WGtkR2RWdFJsblFjaGwtOW5rVFQxQ2Q0VTZzT1JwT3hmeXlzOTZGZ0pjdXMxRW5xX2RUV1p1TEg5d1JR0gGQAUFVX3lxTE5VbFpoajlfTHB0bERWaXI1Ukp6R3ZORkk5ejd6T1pYSDgzcWFFMTBtMTl3YVhiR3NDVHRSWkVwMXhaRV9WVXJjT0NSRUMyRzkyOWxkUnpWZWRVNEJGcVFnSFc4ZFgxczVIWlkxN3RiaWJFdXNUYXBKVjlwN2tJeUQweF9VU3F0UmNTQmlaUkVSaw?oc=5",
-      "fecha": "2026-11-12T17:20+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "ASPAYM lleva a Roquetas un servicio innovador de nutrición para personas con lesión medular y movilidad reducida",
-      "medio": "La Voz de Almería",
-      "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTkM0Zl9HTzB6UG9jX0FJZzAwU19tdmhHclhtc2dHU2g2cEpqcFhRZ3hPdlRzbkE4LVZwendOQkFoMm01NHcycU9oM25RR0lzLVNRWnVvSVpWZjJVMjAtWlpOdGdxY3RZeGctQmx4aTdQcFhMQkh2cF9vN3JQbS1QOGdkWlNLNGpFNUNIeWxlell4bEMyS1ZtWV9iQ29ucHJ6bjV6dmQ4ZEtMeEoyS0xaQkd4SGF5aXM1WThCSk04bk5HU01YenAtSm0wZTJoc2FkODQ4Qks4U2hyQ3RSUDNxR20xYW1VSmhJamdSV2prTzdLTk5r?oc=5",
-      "fecha": "2026-11-12T17:10+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "La reina Letizia conocerá este viernes un centro de Amica en Valencia",
-      "medio": "El Diario Montañés",
-      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQkpzbGRVcG5oTmMyWFRrZS13Y1FaS0xzUHAzVDdielRoNGM3WEZkRWxwTWM5YzNZbWlMeHFNLW9wWnNSMm8ydW5iUl9zTEJEcXFWZmJhYTBESDh6Q0oyb2w3YjR3OUVRbGlNWVhqUnpEZ09nQjNSVHhjNEZ1S1l0dDlvd2dTMVpyempON2tyNF95QWZFX25CUU12cmxXaWlkbmhrLW40ZXB2R1BhREhibzdNZFFZMEFM?oc=5",
-      "fecha": "2026-11-12T16:28+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "La infanta Elena lleva a Toledo la iniciativa 'Cambia el filtro' para transformar la mirada a la discapacidad intelectual: todas las fotos",
-      "medio": "El Español",
-      "enlace": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxONFVjNlhIQVVWcG8taUtJVm1CTUMxc1cxcFFzNmpFblJ6U2xEV1JJZDF5a2VpV0FXX0hHaFNGeTg3THBoMl9sZ2FrWWV4RTlqd2xpSDdDdnhnXzFCUGY3cXZMZ0VwUXppT1Z1TGtjR1ltdkU1VHIyS1JJdDZLYTZmc0tTaUR3WHZaVkNnUzhwZXcyLWVla0dnMUtjV3V1V1FxZU02SkdxOVpFSXJKcXVpV1VDbkxQSld3bF9mVXRKLVl5WGdIZS1JRGRqaWV2enp4ZW5XcXNhT1ZJcGRBeXBHaTc4MkZWem5xdVBVanJIR2tmSG0xUHBnMmRkNHVyM3ZPckhRTDZ4TGhnYVB1RHNqeEcxbGRuS3lTZEhObWZzYm4yWmJGa3ZZbE5kMURjbGtLNUZUQUZlMkZBN056aXYxS1p30gHHAkFVX3lxTFBybWVwdVpXY0ZycmVvaTNpcjFoSVVxTWRySEhDX19YLTQ0MDZfMC1BZlhxbVEzMk9YZS0zOU05cFpYUnBQVnVMY2d1RkhaN1FnSFJ2MEoyeHo3SkVTVlViZ2pRSThpRVZ3bFRmZ2RTWkJ3bjQwRnRhN0o1a0V3X3FFMngzaW1PSzlycno3OW0yMUpUaVByMzQyNGwxNjdZNFZxOEx3bFJQa0IzcEJPZV9zcGM0U2QyUGowbl9tdGNVX2RWVk9mV3ZWWG1HSGJraWJDa3ZfU3RSUGdkQ09VMG8yZ0txckRvQzUyb3lXYlVuU2hVMlpYSnRjSkdtc294VkJPUXE2QWNseGstVzJPd1J5a1JwY01ZbkFkZUJXVkhKNDRTaWM3c3hlOHdCc0tjU0FaVjhjZnd6aTJkM2FUWkRsRUNPcmZlbw?oc=5",
-      "fecha": "2026-11-12T16:24+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Creado el mayor mapa del área cerebral clave en párkinson, alzhéimer, esquizofrenia y autismo",
-      "medio": "El País",
-      "enlace": "https://elpais.com/ciencia/2026-11-12/creado-el-mayor-mapa-del-area-cerebral-clave-en-parkinson-alzheimer-esquizofrenia-y-autismo.html",
-      "fecha": "2026-11-12T16:00+00:00",
-      "entradilla": "Un consorcio internacional presenta el atlas celular más detallado de los ganglios basales, donde hay claves ocultas de las principales dolencias cerebrales"
-    },
-    {
-      "titulo": "El Gobierno aprueba un Real Decreto-Ley para garantizar 7.240 millones de euros para el sistema de la dependencia en 2027",
-      "medio": "Tododisca",
-      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR2E3aFctZk55YzRUVFpxR2FKVTN2NFB6OTJIbUM1WHRTeGR4UkhJZTRHMVZqMElyMWJQUHFXZ3JDSU45bTFFYk05cU9lUEhvRlZ6SnRKQUZaN1g4NW9fWU1JNXlDSFB5WDNRd0xhek1LYXFVRnNDeUozalpwNjBwaG5vWS1faGs0MktrWXhjQ2ZESGFVNVVqU2JLWWJFeTdDdHg5UHhSbklXWEtrNUhJSlQ5ZEVmaExmT0VEZWFwMk9vTmFXeWNlbXlDSm1QdlBx?oc=5",
-      "fecha": "2026-11-12T15:50+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "¿Da el TDAH derecho a un grado de discapacidad? Lo que dice el baremo y en qué casos se reconoce",
-      "medio": "Tododisca",
-      "enlace": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94QVRDcDBGcUVISTN3QUdjQWpwUFJYTkVKb2YwZDR1LXZ0Q3JRSTR0WHgxYmN0S0NfZ0pub0g4Vk5QUURHakVfVFVVdVZ1NGFzRWYzQTc2RjF0MmxpYkVYeTNmandZWkIwa1E?oc=5",
-      "fecha": "2026-11-12T15:45+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "El Dicorpebal Logroño necesita a su afición",
-      "medio": "La Rioja",
-      "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV2o3M0oxYTc1SEZyV3Jzbmh6SW40Zmg2TEp4aWQ0ZEdwM3hFakFuVjJLSGo1bzlTTnJKU3Y1R2l3NWdvcGluel9SSUk2RDVuT2FfOFZMQTY3bjRjTVQxY3V1UFFjYjMyMkFBOExETU81N1Myc0tpeVhzRzBxbnlYVVoyZFU5QWtwalgzWEJhSdIBlAFBVV95cUxPZmlCb0ktbzRBeGY3ZWN5THhvZ0ZTZzIydHVRVHQyTjhwbVltSG91VC1XRXRGeldyVDFpSVJfM1VaSi1XZ1hnMjZMekR4YXFiN3M1MWd0a0lIcVJWWWlMTWRDZUJndlFlelVYaWl0YlNralk2SjFlRGpkN1k0QnFJSk5CWUlVd1RpTkgxc1RJS3JmV3V0?oc=5",
-      "fecha": "2026-11-12T15:42+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Ciudad Real: Almida forma a más de diez personas con discapacidad en un programa de 300 horas",
-      "medio": "La Tribuna de Ciudad Real",
-      "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaFI4SzdSMmNLbVVhcVJiOWJ1a0EyVGx3cGdoTGFnRGtFd1N1bUh3NVEyX2RUb0NiTmVHeDk2X0pxYVRETzV4RGhVd1ZLRXl6QTdBS3lsUU9DVzItZnRQTU9kM1ZOT1Atb01WOVY0dmRkdl9idFBranpYaDRJR2dScjVFRVBsSFBNdHB2ZzZiTGt1T2JYZEVlSjRoR1p4bkpPZ2lIVF9FTFlrM0F5X3BjS2tqa185Yi13LWJkZm1ZMmF6T0dzMjhVS0ZFQjBSSHNDTkVtWUwzbnFPWHg2a2wwcGJn?oc=5",
-      "fecha": "2026-11-12T15:33+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Las 8as Jornadas Salud y Deporte reúnen a jóvenes para fomentar el deporte inclusivo y hábitos saludables",
-      "medio": "Europa Press",
-      "enlace": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOa0ZFRzN3VmFfQlFCM2luRXEzN0VEOHZSSHJMSEdXaTBaN2hBT3VnSHVBMlJ2b3dCaW14dW1RNTFwczFUa1ppZnZLOGN5WXRmaUxNYjJ2ZXBsWW9Kc21fMnZjTGU5cmNpZktIUnVPclFMTmxYSjQxWWphcW1rNlFpclZDVU9WdDFHcnlReG1CVHVVSDdCMDlZalBsYktUMHpSQ1Z1RTFYSm1iREgxQ0FIbS1JQk8yM2doblBHVkNqZE9ocnVucGZmQndiSnpxaFpzcTE3X1pRc2tmMDc2ZXlxZ3J4SHozdGVPOXdieEhjd2JCRmEwYkNMMkI2RkRWQnNZaXRySDFlRGxCUEs2?oc=5",
-      "fecha": "2026-11-12T15:09+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Ayuso anuncia que no aplicará \"en su margen de competencias\" el decreto de vivienda y su espaldarazo a Manuel Bautista",
+      "titulo": "Intérpretes de lengua de signos y accesibilidad en el 29-N: cómo solicitar la asistencia en colegios y mesas electorales",
       "medio": "Libertad Digital",
-      "enlace": "https://www.libertaddigital.com/madrid/2026-11-12/ayuso-anuncia-que-no-aplicara-en-su-margen-de-competencias-el-decreto-de-vivienda-y-su-espaldarazo-a-manuel-bautista-7490545/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
-      "fecha": "2026-11-12T14:40+00:00",
-      "entradilla": "El alcalde de Móstoles tendrá un cargo relevante en el PP de Madrid que salga del congreso que el partido celebrará tras las elecciones."
+      "enlace": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNOGVPN2ctVTM3d2ZWVzVxYTZ4cnlTaUU5cThzd01RQmNwd2ZuZ2dFa0NmVWlEU3N1VGZiVWVCWWNaZ2EwWGNCVVl5UERGdzBPX3pLREVtcWVZTFFJbTNPLUlaajdiZUg2a3RZak5YYUNwbGt6eDZSWlM4R2NBQlZjaVhPaFBUeS1MME5GaVVlQ0huNW1fZ1F2bXJNYTlfVEhWUjNfcVd0S1p5RUhVVTZlWnJxcFlLbFNSV1RCMV9xZlNIaU1RalpSZzdvWlRDQm94YXk0SmFvbkJjNFFUZFJ1N3c3STRvd25SRlpiVld0UndQX0xJaUljRmhmR0xpWHZNdDEyZ0czOTRiSmhmazFVZkJHRmpyZ9IBoAJBVV95cUxQQWctbE41dVB2NXhxMXE2LTFZNHQzM1R3cTFFeU9UTUpQUHJETEFtMkpEQ3ExaVlpbEZRTXZwSzRMZEdqZXZETFV6aWF4MEtFY1FUMVpCQTRPdG1fT1BQR0RnZTF4dmRWNEthYzBIRWhXRHF5UVQ3MzJIWjlzRkVlVWhBSzg5d2lOV2Nsc3JNMi1aWGlxSi1aWjRJNmZBMGRCbTM5OHdtT1dueW1qME5ZbTZyVDllbHhBVTVyUk0yU0tpdnZUN1NUQkhCNU1JbWZkQ0xXNng0clI3aXhUS3o5N3FQRTB0elJTb1phaFg2Y1NyRGl4Q1p2enRuaXFXdW9XTFpJSFd0dG5VVVFfZmhGYmRoejhGa0pPTVFIT1RYTGc?oc=5",
+      "fecha": "2026-11-01T07:00+00:00",
+      "entradilla": ""
     },
     {
-      "titulo": "Un camión aparcado sobre la acera bloquea el paso a una mujer con movilidad reducida: \"No puedo pasar con la silla y me provoca dependencia\"",
+      "titulo": "Los ayuntamientos tendrán que ofrecer toda su información en formatos accesibles y comprensibles: la ley de discapacidad cambia la Ley de Bases del Régimen Local",
       "medio": "Tododisca",
-      "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRGRDZ1lYU0lfSlBrQXVic2FLSjlRbnhCckpjRjBvRTZvUDlGSnk5NmZnZ3ZKSzBFS0Y4Y0hXangyUUkxUUFPWUtpb0hkb2V0LVNaVnl5WVRma0VCWFcwcTN2WG5zQWQ1V2dsaFhiTXVDVXN4bDdqMnl3Q3RTaHdWa0hwbkI2SUxtYlhDUHJyNXFnUQ?oc=5",
-      "fecha": "2026-11-12T14:28+00:00",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU0NQdTdGNVEzd0N6RFhsVWplblg4Ymh4b1U1RXhvNVEwRmxFLUg0N3FKWlZ6dmhpTmZTU3ZUUXE0eU9fVU1KN1huXzdvZ0VBNUNxWlFVMFFqUFRXQUFIZDV0SVpJbnl4TGMxLU8ya25BMTJPdzFTeENZQkFGUWdQNTJaY2NDSXBaamN1VEpyRDlsaU5xdWM0NDk3dXVOeDB3QlZZVS1ER09VNWg2?oc=5",
+      "fecha": "2026-11-01T07:00+00:00",
       "entradilla": ""
     },
     {
-      "titulo": "Vivas, Estopa y la asociación Atades, galardonados en los Premios 20minutos 2026",
-      "medio": "La Rioja",
-      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONmg0UWRWM1ZMRUlWcHIyUGo2TFNzdGFLTDMzZFZEUF9YRzZ2dHQ5VlRMSkdjRmkyTnJFc01ZV3JnUnhoR2g0VURrZlR0THZOczJHXzhyWEp5M3hFa3o3Y1NqbzRJak9yeHlkZ1Yta3lLZVZkbG5CMVhONU5pZlBLUjNDMXlQRWhkLXpQT29Md1NHWmVuVlc2RTJ6aWJiNENzVlF1MTFhTVljWE9RZTRyU21EOTNUVTjSAbwBQVVfeXFMUDR1aW5Ka3lJdFJYZDNDZHhiYW83WFFPcWhtSkVTMkJzZTl0dFJlX2hWXzJxVTE4Tm1KYXlnb0xjUFFBdFkyVTEyeHVqNjA0V1ZwNjYzWnA1bHE2ZUdHX1l0SzVRRlNzX3AxQV9GbWhYdlVBWnUwLW1zSzYxQ0IxS3VYWU1nWDVYb1hrT3E3OTBTZmFlbmZjbXZZSmVEMTdhbEV0UDVpRExOQzRiVXJBT3FVMzVIT0ozZlR6Mnk?oc=5",
-      "fecha": "2026-11-12T14:05+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "José de Luna, actor con discapacidad: \"El rodaje de 'Campeones 3' ya está en marcha y no puedo estar más ilusionado\"",
-      "medio": "Tododisca",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNTctT3NTTjA4VEpUbHFmLVBGNEJtSGkwWnRBem1nYnNhZDZDcFFoYllZdHRhSDB4QUJLc2NmTkMwRV9LNWhhQ2sxSERSZ092Y2xBRWdoVkhBLVp6aFhoQlJ2WGJ6dUZZU3duaHJIUWJVWGlDVEJKTUFoSGUtUTVQTW10eml4OFpMdFh6QVFCaDEybUVoU0poaXZJUDBtOGthaGJmQmhTQlhFSnlwcjJiSElaVHdERnl3MWxUYVNSVGFfTHF2UlE?oc=5",
-      "fecha": "2026-11-12T14:00+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Con VOX en el Gobierno, las personas con discapacidad de Almería tendrán menos burocracia, más empleo y un apoyo real a sus familias",
-      "medio": "VOX España",
-      "enlace": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNnk5VlBWbHJQYXdDNUtmSmZZWUlOMmwxclQzSFBzQWdCU3E4a05NVFJTT0ZFY0lfVEFzSG5DS1NwZnFKZnBtUk1HaDN3V1ZxR0huUkNReWFCM3k5T1d4N3dyUlV6dS1EOFk5WTM4ZWJseEx1V0tsTlRNZG1HUFppRFRDdmF3OVR4cU01QWtXTmUxQjRvU1FXUGNCb0trOTdmOUJ5TFhhTFBMejV2ZmN5UzlXU3JoYjJrSGI3RmpHQkxKZlhBQ0p0ZV9GOUZtM2kybVEwcXZKZUZSMm9vODY5QmJ6YWNCSTMwWDlCOWZadTNLdHFkT0w2eG5CcTM3WW1pXzY0YzA3WTBiM2ZWR0ZKTkpQelZGbGdTcVhr0gGgAkFVX3lxTE5fRjY3Rkx4ckgzM2hDdUdtZ0tNcjBEbkV0ZzJVdGlyMlpfQURqMHE2bkNuaFVONl8tTk5ieTZ2ZzlKZGUxbVhfdnEzNVowVk1yWEhqcjU4el9zaGxYb0JyNEd3bWRqcG8wbF9TSzFrb3hvdVcwUl9YVVRxenFtYjBDVFo2ei1fdlgyYzdpekdUdWNIWklCTzZfZ1ppYkZvaFhNeWpuX0dobnZVVDFHVmMxTlNLd2ZMR3hnSXZCRGpLRllBRWFTYlpaZUUxTUVza3ZqclBGbjVqSGFlMFlCSnpKZ2UwQ1g4MG96VktGN2dKaUk1Ry1Yb0dUd1BnQ1gyb0kzWXJDT1IwbWlOckVROTVzYnRCc0xBMFp1UjI2VWxiWQ?oc=5",
-      "fecha": "2026-11-12T13:41+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Ocio, deporte, cultura y una campaña de sensibilización para conmemorar el XIV Mes de la Discapacidad de El Ejido",
-      "medio": "Diario de Almería",
-      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa3lTbEtrZHJqWVcyTy1Pd2M3NjZMRmtxVEY5Z1NnVmxpUmQ0Rzk2UnBjNjVYVnNIR1d6RnZFczkzcjZ3RGpJWXBtdTlrMHpkWWF3ZkRldjRZZWpOXzlWNHZJV19RMlM3TnVfU1pZNTJ6MHAtTkJuY3FSWVhISGo5bWlKb2RnWEVLRE41UVJuWVRxakJDOTlMaE0wX0g1OFVJSVhRMzBDSzFJSG9sZkFoV2d4WFFyR0pCWUNHMVkzeFgwZ2tp0gHKAUFVX3lxTFBMRExmY3Q1ejVEbmNreHNJWlRPUkczd1F5UmJDU1h6TURLdXlDSGowaTVfVm1uRXVyU0xPVmhtblgzdjNPN2hpd1hYeXNuemVQY0ppdUZ1VEhVMl8zQXJMQWQwT0g0ZF9BOFczTUZCZmM3RWJrd3dVQmhZNFRSWFpjakYteDVHYjV4NlgzN29PY01oenVmNDJmNUw2aWlXMDU2QURNUjhsWjdqbXlnWWRReUg3bzRaS3RnMlF0OFVwSmlUSVlTRldGOXc?oc=5",
-      "fecha": "2026-11-12T13:33+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Cinco imputados por desórdenes públicos, atentado a la policía y amenazar a un vendedor de la ONCE durante la huelga en Valencia",
-      "medio": "Las Provincias",
-      "enlace": "https://www.lasprovincias.es/sucesos/cinco-imputados-desordenes-publicos-atentado-policia-amenazar-20261112142618-nt.html",
-      "fecha": "2026-11-12T13:26+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Susana Álvarez, presidenta de Atades, tras recibir el Premio Acción Social de 20minutos: \"Nos hace sentirnos orgullosos de nuestra labor ​y nos estimula a seguir esforzándonos\"",
-      "medio": "20minutos",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQcUxzWXkxNkxVY1Q0VUtaTjQ2WVdDQXgxUHY1NDhJaENMdjBBQ1BlZW1iTGRPMEJHLWFvcDdSOTBWeVo3ZU1OZVZDZkZ6MHpUdDR4Yy1qc1BUaFpjRHpMM3UwTV94RkZkd1JKbEJ4TVBZdE44TV9fSDQwR3dQYjdFSHJZMlVwLWE3MjhGb1NaTEZSSGhvcDN5ZnE4YU5HOHEwNUhzbVZ1RV9rRTgzdU10dU9yNnFZQW96M0lhX25rVjBYOUd2MjVndE0zNEc4cGFQaFVBcFY0Z2FFcG0yMkFhcTRVYlpHVVFKR3dSMnRpakZWUjNXMEZzeE1sOW5ubGRlVjVUSXh5UVFEdUZPTzExQjF3dFczVThueUplLVVrUU1XSWVkck9MOGF3?oc=5",
-      "fecha": "2026-11-12T13:15+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "La Fundación También celebra el domingo su XV Carrera Popular Madrid También Solidario",
-      "medio": "Servimedia",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLTVneDQtc3RvQ3BjVGxhenFhaVZZaHBDRlpNb1U3WEpiTnFQcjM2RHZMMGUzaWlYbnRPV3RGWS1fM1oyRXQ0NUVVNWt5YnRJdC14bE1lWkdQcjFzSUJ4S1l0WXl2Q3p0MW5aQWk0ODBhbUhCZU9ndngteGFuNzlRLV9BdlB3UVZ6RVpYeDY2eDc4Zy16UUFyWlFZMFVtamNUeEdQUmRpT2FzcXRfcTFDRGsxVkRwUG1OMlZjeklVcVU?oc=5",
-      "fecha": "2026-11-12T13:11+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "El Observatorio de Igualdad de RTVE pone el foco en la explotación sexual de mujeres con discapacidad",
-      "medio": "Servimedia",
-      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYl92dG5zX1NLODd4cmJScXZIbEc4ZzVwdkl0b0pjUkNyNU5PYTF0dXUwRWJIWExvMjBqMG16YjBqSDF1R3I5aldHZHlVMV80S3ZWSUJZVmdmZTZUNnE2eFhUWTdEblZBZlhWUEtsQ0tfSF9XcFVMTzJ6dm9PN1Rma1o1eWItNDgzNm45eVFDdHBMUTg5TjROT3pZakxqNDFQV1BZVXNQOXktSDRqQ19FVTN1TzNOam1tcXhaV2lPYw?oc=5",
-      "fecha": "2026-11-12T13:11+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "La Comunidad reivindica inversiones en dependencia hasta llegar a 590 millones en prestaciones",
-      "medio": "Europa Press",
-      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWGpJN094UU5DQ3gtMUR6WE5PTXNMNmJiSkFqTVhaTWZMWm93aHhJbndlQVk2TmVQR1lNU0VEWEg5N09ldXMxWjdUeXpUTnZhaDNRbzJ5Q2ZIS0tvY0s2ZVYwV2RocWNRelA2aE9EemFfZUlCT1BnZVpYdkw1NXE1eG5FNW1fcFNTRkhkUE1TZm1NSFBiME5vdjhiU0NqZ0dRSzcyVmZvSEhDbHlpV1E5Z2VsZ1loZnFzYzFjZVUwXzd1ZVFETFBJYlhJVVBFbDVLb2ZUeGx3?oc=5",
-      "fecha": "2026-11-12T13:01+00:00",
+      "titulo": "El TSJA niega la gran incapacidad a un vendedor de la ONCE de Granada con un 89% de discapacidad",
+      "medio": "Andalucía Informa",
+      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSkkzc1BlUjV5aDh0bnFrNTFKa1V1by1BWGY3akJXdjRJZHYzNUViQTh1ZXJWODdQUjcyU2JlOXdCaHdvNGVmeGFPNGg4bTA2M29DX1FxRV9UZ1gyNDZiZUgzanZidGhuVjhFZDBWUkRhOWtqWURXMkJ5M09MWGc4dm1fa2xlcEZCTjNRa1hvTFdsbDcxdjF0dTFnZ0tBQkF0N0VJZGNYUVZsRGV1T0dEcW1pVkRXTkRnZ0psMnU1aXo5a3RqYkc0ZmJYSVV5c1NxQzVv?oc=5",
+      "fecha": "2026-11-01T07:00+00:00",
       "entradilla": ""
     },
     {
@@ -1325,6 +1441,13 @@
       "medio": "RTVE",
       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQU8tV2ZzRmZtaU5ELXZiV1RhSTY1VzZHNzkyejJheS12REJ0enQybFE3M21EMXpoYWFDQ0pLRWQtRXZfLWRaZzdCQldMMVdsVDl2SlRRbTUwWVhBZnNhQXhnelBheVg5X09pUmRYaVo2cHk2dlFNVDYtejRSTlBscDc1R2hlRkMxVVQ3eHAzUzN3T0ZWM0oyT0kxSmQ0SWtRMEM5WTJWR1Z3QlJlQThIamhvSTkzbUM4TEE?oc=5",
       "fecha": "2026-10-31T11:30+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Hermanos Pueyo, la carnicería para personas ciegas, sordas o con movilidad reducida",
+      "medio": "Heraldo de Aragón",
+      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMEp4NTRjSm1GeDhOWnZKWlZEaTQxRzNDMlY0RzdCVXV6a3g3cEl6UjIzcTdfa3M1ZE90c1hneHA0ZnNPaFNnYjhZbW9LNjU0enFFTXJweWItM1o5RGZ3UjhUVmNTREJyRThhcnhRWTdObVRCQnFhWExSekkxN2ZfeDZGNHpENjFnYUx6bWJxdEFCai1uQzV3M1VVcFEzY3dNMEVCM1YweG9vVmNTT0NqZDJRbjl1M0V0X2xXeXRtRUdtR2V2S0IwV2JwS19BaXdZcFRLVkF3?oc=5",
+      "fecha": "2026-10-31T07:00+00:00",
       "entradilla": ""
     },
     {
@@ -1391,30 +1514,9 @@
       "entradilla": ""
     },
     {
-      "titulo": "La red de atención social de Madrid creará 2.000 plazas para residencias, discapacidad y menores, mientras se implantan ayudas",
-      "medio": "20minutos",
-      "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONDgwcll1ODNldXpxb3JBNDFjektKckxSZHBZM0stUFFxUG5HNkZNN0RqNnExU2hjVVh2cWpCd1lSVVlqQ1M5dUE0T0tWZkVtS2JOWE5jMVdfQlE1YXFDUzhwanpjc3V1YWxpWUVvZHlnMGJ4bEdQYlZNN3d5Nm1Eb1JBbEJfcjBUQ3l5cVF3TmVXZVNjN0c3ZEZqdnVnQlM1ck9tQXUzNEgtejVaV3dqUHRmeWRJY0tzQmYyTHUzcjJtNHFmNERwalhxZWduOXQwaEdPTUVwMVNxYWxmbUw3MWhnMTdkMUNjTm5OWHllRmlzZw?oc=5",
-      "fecha": "2026-10-30T07:00+00:00",
-      "entradilla": ""
-    },
-    {
       "titulo": "Chivite deja para 2029 la revisión de un centro que atiende a grandes discapacitados sin aseos adaptados",
       "medio": "Navarra.com",
-      "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPd0FZLUZpZmc1ZzBaa0wyM3pTX3N6amI3LTJLak5mVmIxT2FKSEZybHF3UlJnZnpPWkw2SmVPZ2JOT3pDQUpzS3BBNERGOVcwNDk4MmMzSFFjNnk4bGktYzhwNFJNQ1dUV0ZyWmVuNzZ1RElBUlhNZUxBSzlHVV95dU1nYTNoRnVKODBMcFo1Um5peHl1dFJHc0VrTnlIX3lsZEpET0Y3WDJOSnBvTXNoemRxWGJ3U181aDIzR1VZaXZJUmVsTWVSd3pxMVFva0xKZnYxZGtVSmxBb3F6NEVIRjdMUDBkVXBGU2hQcnFB0gHzAUFVX3lxTE5aNHlvbk9aVHdoOTRmUnByTWQtNWlMeVB4VllVRng3Qkl0TjdTY2hSR293R1JLVC11dVdZSWRIOE9ia0R6YjJrUWszM1dFMC1LVUktWWZPUk1nblV3RlQxUi1QTkxXLVhqN3FDazAyQzZLeHdrVUd6eDN6UG04TTFNMnFlX1BDaHh6RFlUWm5JLXRQbHAyWUdsekwxWGpiUHJCNk45ZDR0bUl0WENlT3BYMHZyWUhqZXFDZ1pXWVE2QW5RSUNpU09SMlMyYWluU0VDR2d1cmdRamtVNDVuNEF3T1hBR3ZEdm1pNjZ2RHBWUEE3Zw?oc=5",
-      "fecha": "2026-10-30T07:00+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Cristina Clemente, notaria: \"Si en una comunidad de propietarios hay algún vecino con discapacidad o mayor de 70 años que solicita la ejecución de obras para mejorar la accesibilidad del edificio, es la propia comunidad la obligada a solicitar es",
-      "medio": "El Confidencial",
-      "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdDB4LXlzTWV5cFB2WHFfMWdRbFl0dVVmNTVFaHRmT05HdXc1bnBtVzYzb0ZhRTBqMHVteDV1TDkwanl2c2kyWDhod3kyc3Axb3NoN3pYLVNCWXE5Z09ZRmtwLWZpZDRSa3NUdUMzY2ZNajFGMmt5RzR3WUFGS3duLTlxSFhTd3FaR1JjZFBB?oc=5",
-      "fecha": "2026-10-30T07:00+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "La Ley de Dependencia permite saltarse la lista de espera: los expedientes de personas en especial vulnerabilidad se tramitarán de urgencia",
-      "medio": "Tododisca",
-      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNenFlaTFGOFlTRGRwWHREQ3Rqc0tnVE9xdG9COFpwa0p4UnUtd25wYndOMndlY2ctb1k5VDJYZkNST2pfdXNtVmhUMHE4Q2VNUmtVTVdiekZZZktSMXBPbENGVFRUSnl1Y1l5bUFIRjQ4WEMyM0xjM1RfU3luNWtCT3JxNUhOTW1JS2k5Yi1TRXJ4a18zdHZuMXFBajRVNEVtYnU4?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPU21GYkVESlVHWnNQUGZQaEFkTG5MalB0OGE4Z3VIT2VBejgzN004ZHRweTJwaDhUVTloeDlYSkNqaXB5TldWVGVkbzRMOFpfR1QwdDRmRV95Nk12Q2FQZFRIWGdDV2FiWXE0Z05LeDZSeDNWN2taZG0wXzBMOGxDaVJFN0VYTHZuYnlydmxYU05vVmJ0S3FfQVNGdVdva1dRSUlQUFJLU3BtSC1MTGpIZEhnSWI2dUlpR3AtVzZ4SllCNzVyaWlha2tyV3N1M0huVGpzSGw3RHRrVUdPSzFHUDVOam9SOEJ3b0RaVdIB8gFBVV95cUxOOE9hTGR6d2dRQ24tbklCTzdfMVRjZnZ1OFBXWnBQemRRMnV0dmY0RG9WblMyT1Z4dTZfb1RheHA2LTBpazc4QU0zNm1HZG9YeWxaUjdnRnhsd0Z3Ykktc0R4RUc2RlU0TDBNVldLeGJPalV6aHEwbnJlQUpPeHlrU2p1RTQ2dTBvUGJZLXFVVDVkRHFhblNKVThQMTBGTGhqTXFKVk9ZUlllN2pkdnZrMkNTQzBvSHM1ZmhPQmFNc2hIU2oxV0U4aHBMR1ZZdk9yel9USWhYc09NYzgzT211dFl4bjFIbGVxT1lsU1p3UjUwUQ?oc=5",
       "fecha": "2026-10-30T07:00+00:00",
       "entradilla": ""
     },
@@ -1429,6 +1531,27 @@
       "titulo": "Cuatro menores con discapacidad se incorporan al Consejo Estatal de Participación de la Infancia y la Adolescencia",
       "medio": "Servimedia",
       "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOVpETTV3T2pIRTZQcGw2dGJ0ZGVrR1ZIMXRoVUVlZmRESUNEeDdkVUhLT2lMR3RBNWFGeURhb3NVMkM4eDUxOVN3VEo4UE00VFNWMWoydkhIQmRIUDhPMUpMbklvU3Z2LUdXTHJ0bFJGdk5uMXhXNzFJalY5cE5KbHdRYnRaQkR3T0NLRGJ6MW1UaDBfN2Vpa0NuS2Z6X3Y5UmVyeVpPakhrZF9qa3hXZXNvbnhvQmx2R01ybk5jR2QxQnZUTzZvTWxOQ3oxbHU5dmc?oc=5",
+      "fecha": "2026-10-30T07:00+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "La red de atención social de Madrid creará 2.000 plazas para residencias, discapacidad y menores, mientras se implantan ayudas",
+      "medio": "20minutos",
+      "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONDgwcll1ODNldXpxb3JBNDFjektKckxSZHBZM0stUFFxUG5HNkZNN0RqNnExU2hjVVh2cWpCd1lSVVlqQ1M5dUE0T0tWZkVtS2JOWE5jMVdfQlE1YXFDUzhwanpjc3V1YWxpWUVvZHlnMGJ4bEdQYlZNN3d5Nm1Eb1JBbEJfcjBUQ3l5cVF3TmVXZVNjN0c3ZEZqdnVnQlM1ck9tQXUzNEgtejVaV3dqUHRmeWRJY0tzQmYyTHUzcjJtNHFmNERwalhxZWduOXQwaEdPTUVwMVNxYWxmbUw3MWhnMTdkMUNjTm5OWHllRmlzZw?oc=5",
+      "fecha": "2026-10-30T07:00+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Cristina Clemente, notaria: \"Si en una comunidad de propietarios hay algún vecino con discapacidad o mayor de 70 años que solicita la ejecución de obras para mejorar la accesibilidad del edificio, es la propia comunidad la obligada a solicitar es",
+      "medio": "El Confidencial",
+      "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdDB4LXlzTWV5cFB2WHFfMWdRbFl0dVVmNTVFaHRmT05HdXc1bnBtVzYzb0ZhRTBqMHVteDV1TDkwanl2c2kyWDhod3kyc3Axb3NoN3pYLVNCWXE5Z09ZRmtwLWZpZDRSa3NUdUMzY2ZNajFGMmt5RzR3WUFGS3duLTlxSFhTd3FaR1JjZFBB?oc=5",
+      "fecha": "2026-10-30T07:00+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "La Ley de Dependencia permite saltarse la lista de espera: los expedientes de personas en especial vulnerabilidad se tramitarán de urgencia",
+      "medio": "Tododisca",
+      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNenFlaTFGOFlTRGRwWHREQ3Rqc0tnVE9xdG9COFpwa0p4UnUtd25wYndOMndlY2ctb1k5VDJYZkNST2pfdXNtVmhUMHE4Q2VNUmtVTVdiekZZZktSMXBPbENGVFRUSnl1Y1l5bUFIRjQ4WEMyM0xjM1RfU3luNWtCT3JxNUhOTW1JS2k5Yi1TRXJ4a18zdHZuMXFBajRVNEVtYnU4?oc=5",
       "fecha": "2026-10-30T07:00+00:00",
       "entradilla": ""
     },
@@ -1485,6 +1608,13 @@
       "titulo": "La reforma de la discapacidad y la dependencia debe convertirse en mejoras reales para las personas",
       "medio": "Autismo España",
       "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVHBNdW9JakN1a1MwS0hvMzczRHdlMkc0cmR5MTh5d3k2R0ZTUkgtZ2VqamRRT2tKNmlzOHpteGpIbjNTQWJ2TGxFVHhQVDNnQlM1TjhTVjdjdkdnTXdUQWxab1ZQd09ESlhIcFpzRlc2ejQtdjNLOTh5VnFPMU14akZqNHZvUEk?oc=5",
+      "fecha": "2026-10-29T07:00+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Más del 80% de las mujeres con enfermedades reumáticas y discapacidad ha sufrido violencia institucional en la sanidad",
+      "medio": "20minutos",
+      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaVBUOWpNNFhGX2MyUklqa28xMy1IbklmUmxZd3dxa09LYi0wbGEyRXFORXVOdW9iZTN0d0Q1SHk0eW1KdUpmNW5WZzVmbVczZGJFUk9JY0JKS3BHUzQtRGdfc1hreEFmUmxOUGZqQ3ZKcWtqTk5BbGJKM1BOblZoNlNvY1UwamtCNWxtNEgxbll4dy1BWWlIMktjNG1CeWdJRUlfSmJzQlRTSG9KWjA5bmw2ejBBeHloVW1xR2xoX1dJa0hDV1REemFKZUowd0otSHJTQ3I2Tll4TUtZQzdrWUZuYzA?oc=5",
       "fecha": "2026-10-29T07:00+00:00",
       "entradilla": ""
     },
@@ -1573,16 +1703,16 @@
       "entradilla": ""
     },
     {
-      "titulo": "El Cermi aborda la creación del futuro Sistema Estatal de Información de Discapacidad",
+      "titulo": "Cermi Mujeres reclama una justicia accesible para las mujeres con discapacidad víctimas de violencia",
       "medio": "Servimedia",
-      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNHRyZFlvLVhWaEpfZ0FtRDhuSEd1VTRtT2V3Zm45ZzFVWkZpLS1va1lBZzVySXJxSjl2RzRHSUJNYnRfNnVGS2Y0TFo1MGNtLXBGSlVFMl8yeG5pbUpmYURHeXh0dWY0cDQ3a3F0TnlHYXl1NnNkZWJfOFVuYmtJUnpEWHU4Q01ReHY0SmtCNXBrY2ZrTTh3alVIY3Etdlh0NEZNTHpTV015dkdGV3BWSFZaa19RQQ?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQlVHTDg4WnMzTHB3YWNGd2QtamFUdHZ1emdvS05LWi1xYnhNeTk5MWJNak5TVUNtdjZnYlRDNjVfdkRCWVpfRVZjaHVtWk1DbjRramdqaFJ5TW1jNEpDOUhWZndIMy1UN0JjUGJRZEVKM2gyWExWcDIwZzYwSGhjeVJ1RVc5R3RHU3NBaVZLOW4tazQ2Q2tic2JSUDFveFFlWS01aXZPSFg2S3lETnZ0eWFiSVhORVhGUHB2NHU4VkNuczRlNWFlUVItSC1WdWlk?oc=5",
       "fecha": "2026-10-28T07:00+00:00",
       "entradilla": ""
     },
     {
-      "titulo": "Cermi Mujeres reclama una justicia accesible para las mujeres con discapacidad víctimas de violencia",
-      "medio": "Servimedia",
-      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQlVHTDg4WnMzTHB3YWNGd2QtamFUdHZ1emdvS05LWi1xYnhNeTk5MWJNak5TVUNtdjZnYlRDNjVfdkRCWVpfRVZjaHVtWk1DbjRramdqaFJ5TW1jNEpDOUhWZndIMy1UN0JjUGJRZEVKM2gyWExWcDIwZzYwSGhjeVJ1RVc5R3RHU3NBaVZLOW4tazQ2Q2tic2JSUDFveFFlWS01aXZPSFg2S3lETnZ0eWFiSVhORVhGUHB2NHU4VkNuczRlNWFlUVItSC1WdWlk?oc=5",
+      "titulo": "València Sostenible refuerza la protección energética de las personas con discapacidad y párkinson",
+      "medio": "Levante-EMV",
+      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR0xEM2VwdW9jM2NGV3lEN3U0RVNnMHNwZmZzQ3hvUkVWbkJDdzZqdk54UE1yY0xmSFY1a2pWTGpnMUs3U1pKOG1zejNxbE5uenVwUl80NEZ1enAzQ1ExeURCUDl2NkNxSUI2SkhZc2lzUF83RUt2dlVUZmxYVkNaQmRqZHlZRVpEdUt3ZmJldExBUjJoc3c2c2VIU3J2OUcwUFYxZ2VyQmVrTWYxTU5WZi1jQkJTZUNVNTN1U1J2WdIBxAFBVV95cUxQMW1ycE4taV9CaC1xbDQ2aFhKX2tyMmxyYkhDTFZHVFo5Z3JSUVpOa3QyenJQVGlERkQ0LWxGNHJ1OEtwZWo3Y29NbGRYWVZGa1Q3MW9wNlVscnpHUGM0ZWQxQlBib1VrUHRxdTl4Y1l6OUdsTThDQnJhYmJOQlU0bjZhamxTQ1ZzRkxXSWVFNldoUEpHRDBvY0VFOThRQlBrQ2U1LXVMeERCOGJ1V1dvOVBMSTRkNHc0OEU4UmtyVm5wRUk3?oc=5",
       "fecha": "2026-10-28T07:00+00:00",
       "entradilla": ""
     },
@@ -1597,6 +1727,13 @@
       "titulo": "COCEMFE documenta las vulneraciones de derechos de las mujeres y niñas con discapacidad física y orgánica",
       "medio": "Cocemfe",
       "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTzNLVDZCM3RjRTRnM1FzdjRGODQ2Um52Sms2ZWhtVlNPdk9hRXBscTFhbnVDc3BNcVFhbVZ1QnVJbTVicDRpLVRjazBzRXZ6MEN5M2NfU19PbGpybkhOU012eURjaFFBbmNlZGFRTG9lNnpMSVB3UUExMnVKYXUxRHJpRkZHblE1ZDBnZWxNUVlRcUdkM0lTeTNLZTd6VlVXRzN6bFlhaDQ4UTg4ZWp1MDNnSjBEVmZlbThBSEwwdTlBdU5zV0s4bGoxT2RWWWttUHFLTTFpVlFpd2NEYWkzZGdB?oc=5",
+      "fecha": "2026-10-28T07:00+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "El Cermi aborda la creación del futuro Sistema Estatal de Información de Discapacidad",
+      "medio": "Servimedia",
+      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNHRyZFlvLVhWaEpfZ0FtRDhuSEd1VTRtT2V3Zm45ZzFVWkZpLS1va1lBZzVySXJxSjl2RzRHSUJNYnRfNnVGS2Y0TFo1MGNtLXBGSlVFMl8yeG5pbUpmYURHeXh0dWY0cDQ3a3F0TnlHYXl1NnNkZWJfOFVuYmtJUnpEWHU4Q01ReHY0SmtCNXBrY2ZrTTh3alVIY3Etdlh0NEZNTHpTV015dkdGV3BWSFZaa19RQQ?oc=5",
       "fecha": "2026-10-28T07:00+00:00",
       "entradilla": ""
     },
@@ -1769,20 +1906,6 @@
       "entradilla": ""
     },
     {
-      "titulo": "Dictan una orden de busca y captura a Vito Quiles en la causa abierta por mofarse de una mujer con discapacidad",
-      "medio": "laSexta",
-      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQlVuUUZWV2JGSklWVWdSc1dZcGx2ZVBQTGNuS1hXcmhUQ0dsd0o5RUwwS041Z1RIZklBMnFJNm83M2Y2cjNjakN6am9BMjVDQnJhVy1qMWR4a3BncHVmOFFaaWpnRFVFMUN0ZDJtd1JxNllNanB5eFhWR3BYWTdFMDZ3bUNway03elEwaGIyYVdmZmFzdzU0M1RQa2ZZMXV2bjRVemFLSG1QUnlzMzI2ci1ianJoQjBGQUMzUmwyMDZsZ1BqNmFzX0ZZTUJjS1lXLUZHQjNWSEhlaTh3QmxyWkZBckl4UmFEU2RwdVJsVGLSAfABQVVfeXFMT18ySjVuaEljVTNfM1hfcG9INGZtUlBDemRpdVd5dUVXaWpyVzVFOFREbS1mNHlPRzd0bTMxNUhOX1lDOXZMb3F5cmU5Z1p6eUJpZUcxNEdmcnFkUWNhVU9BdXhqR09mVmlCZTRqSUtJZjBSWFRYZWdwRGstNERudTZiZnkyak9vLUFNRWozY292dzF6TjRwVXhKbEo3N1hGSDVQbDdCWFFRcGtpaS1rWEM4UVB4a0hhdHJrYkI1QnpNbWkzbUd1S2RxM2VjXzdIbzJfNk9EX0JnQUc5NjNJVGdoWnNxcHg1a3hIZlBHWlJs?oc=5",
-      "fecha": "2026-10-26T07:00+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "El juez ordena detener a Vito Quiles en la causa por denigrar a una mujer con discapacidad",
-      "medio": "Diari de Tarragona",
-      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQklqY2d2QnVZZkZReklWbThGRmNoSmV0SDljUGV3Y0xKZ2dORW9qdHk3LWZhcmZTSU9fdGV4WllCdElzel8tVVNnMzNNS2U1bGV3am1BTmp1V2dNanU1RUQxZF95NG5VbHBLSTFJMFEyZEF1UzZoeGhrZVNVNGxWalNmcF9NOGZxRWs5blhRRVMzTXFxTWEyaUQ5MVVIT2VzMFNnc1hkM0JCb182YUxtaHZvV0ZzSVBo0gG-AUFVX3lxTE1sVjFKblZ0UU1XY2dobV9XMlEzQVRKbF9HT0RRcnpkcjQ5OEZHakNhbzJaaTVob3hPUVIxZDdHX2twckJuS1M5Y0F1bUVJeXFkWUpzRmhaNm9tRW16TXl2WWxacUlVLVVIOGxaVDViT2dWcTdEN1h5bEs0OWl5a1RtVS1kc00td2l3NEVNOXZicHFPMzFDTno1MFJEMUwwNzFiOUszQ2lORE9ENnRwZDRac0MwUHplUjVpR0VxWlE?oc=5",
-      "fecha": "2026-10-26T07:00+00:00",
-      "entradilla": ""
-    },
-    {
       "titulo": "La historia de superación de Carlota: \"Las personas con discapacidad no somos diferentes\"",
       "medio": "Antena 3",
       "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdFVMYzZDRzVGTlFzOXJDQURaZXdFV3pvMWJYWFgyQ0xwV1o2bzBGRlFFWUtqdHZ6UGtTeW5TeUstV05xdFJOVDJkWktDcW44N2lMMm9URWJqNVZLOHYzM2xiWnJGa09KSG9PQzJwNlV4VzlkQlFwWGV2UE92WmVyMGFmTUUxLURVUEF6MVhXa3JHZjdCc0J3bUlCWjVQQ3YyNUlYOWZjcGd0YV83RlhIT1JUY2xEcFowbXBaeThpbUJpakx3cXFXY0N2MGtxMmpHZUFiRmpsQVVWd3o5MUcyVzV5ejdNNUs1MFlz0gHrAUFVX3lxTE5QejI4YWVBZ2dCMnlqR055eU52SGZyQVZ3amEtOGJkYmhnUldEWjhrSENJLUZ1cFlqRnNIMWdSaENqRllvaHk1LVZXQnlOY3RxUFZIMmxIaXRieGVuSXBPSTZJVzFfZF85NFN6SG1ia1h0cG56Vzl4eUxkZVlZeV9DN29id3N0OUZUQThEbVpCOWtPQmNZcUNRYzczamxXNlZqd3Vjb0hpM2ZsRHdCNmFRQkZqTEZyMzdxcjFQd0VEOGs4YUVIdWl6YkNYYVV6MzZrZVhLdUZHclRRVUVPc21YQkZzQ1pQS2FMMUU?oc=5",
@@ -1793,6 +1916,13 @@
       "titulo": "El Ayuntamiento de Palma de Mallorca aprueba la instalación de 12 nuevos semáforos sonoros en distintos puntos de la ciudad para mejorar la accesibilidad de las personas con discapacidad visual",
       "medio": "La Razón",
       "enlace": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPelU3MnFDaG1BVUlDcFRYXzA4SHd2VkRvTjRaN01Cb2FjalVnd2w4WHU2RTM3dzVsYTBfZ1VwUTI5MzFoWUdOaHI1VEsyb2VXMEhLLWdHbU1SS1lXM0xpRkZnT0RpY3Mwa2hWYkE1R1hsN0hDd1JLdTdhdThrVDVkOEF2azF4Qy0xdk42d2g4V3I1eGszcjNwVTRlc1V0aFpWTXB0N2ozX2YxR3U1NTRsWlhLeDhwd2I1dVltYlR0RGN6VFNwcXZxb0tNbUZrRzNCSTJKWURSNEtJQk8yMnhzYk5BU1ltN0oycTZFM1hmWWtvMHpYV2RMM0lnazNvUUxSbVlTUWlVcmVjUURGcTd2ZVkzMklJSTFZRFJEdjVPSTFLN2tmN3FyLS1fY2JwcUxtSUFlek9FTjFWaEc3V2h2cW9B0gHWAkFVX3lxTE5tVURMcF8yanhQQTkzcWlXYVg0U3NmOWhqUkNqeWdfNFZmYWYyc2ktX2ctdEhzN0h2dUxDUFVnRDBBcXpxR3E0a0NZaDBTX0pZSEF5NVVuSzNreHdMXy1SZGczQjd0a2VkaWljX19BMHlkanlyclBDZUk1eDNCQWNEZmVOUlVEaEtSVmVFR1RDVVFBdzh3MVl1RTYyYjdia3NaQ2JKN1JHN3QwdzVNVHNtanBPcW1yRGQ5cTF3d2tNVDNwUHVvY0tILWIzWDY3eTZHOF9RajQzZUYwMGtTWXdwYjJqNEhVVXRkTUR5V3NWUE9WOVM0dFhicFNhZ2I5N1Fwclk2MDF2d1BMVHdSSHVOOEtqZHYwbmxaQzRpMnJjbDZtMFVlQ2puak4xMVFrZGlLSU9nYnJpc0hVUWtDRnZ1bi10czdfM3JNSG52SDFCaFBfb2RtUQ?oc=5",
+      "fecha": "2026-10-26T07:00+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "CEDDD aplaude la nueva Ley de discapacidad y dependencia, pero avisa: «No podemos seguir aprobando derechos sin garantizar la financiación»",
+      "medio": "Tododisca",
+      "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWFhWTF9KNFJ4U1FwN0NtbGFZTzRjQjB6OGJjQVhaaGphQTlKaUhMRzA5UXgzUHZEdkNmX2x6dHpvclRjSktWY3daSXpnbi1kVWNDUmZOT19rbWZEdUg0WkJlMFpjeFhNZkpjOUFEbHppbjMwYUgtNWZ4NWJBZk9oYzcxaWl0aFV1VllMQ2xZVQ?oc=5",
       "fecha": "2026-10-26T07:00+00:00",
       "entradilla": ""
     },
@@ -1818,16 +1948,23 @@
       "entradilla": ""
     },
     {
-      "titulo": "Jornada ‘Longevidad y dependencia’",
-      "medio": "Somos Pacientes",
-      "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JSFRVYjFmYTVPX1o4ZFRzZXhzZGFTYWpFTkc4dHdtNndkZlhYOE1XSzl1eHhmSlQ4aTZrYk9tTnZ5amJIUnVhS3hYRVlKZXVRRVo3RkZvWFFoQTZDaEg5dGpINy0wc3pHSGI1QUJrTVFoS2p3NERrb01sZw?oc=5",
+      "titulo": "Dictan una orden de busca y captura a Vito Quiles en la causa abierta por mofarse de una mujer con discapacidad",
+      "medio": "laSexta",
+      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQlVuUUZWV2JGSklWVWdSc1dZcGx2ZVBQTGNuS1hXcmhUQ0dsd0o5RUwwS041Z1RIZklBMnFJNm83M2Y2cjNjakN6am9BMjVDQnJhVy1qMWR4a3BncHVmOFFaaWpnRFVFMUN0ZDJtd1JxNllNanB5eFhWR3BYWTdFMDZ3bUNway03elEwaGIyYVdmZmFzdzU0M1RQa2ZZMXV2bjRVemFLSG1QUnlzMzI2ci1ianJoQjBGQUMzUmwyMDZsZ1BqNmFzX0ZZTUJjS1lXLUZHQjNWSEhlaTh3QmxyWkZBckl4UmFEU2RwdVJsVGLSAfABQVVfeXFMT18ySjVuaEljVTNfM1hfcG9INGZtUlBDemRpdVd5dUVXaWpyVzVFOFREbS1mNHlPRzd0bTMxNUhOX1lDOXZMb3F5cmU5Z1p6eUJpZUcxNEdmcnFkUWNhVU9BdXhqR09mVmlCZTRqSUtJZjBSWFRYZWdwRGstNERudTZiZnkyak9vLUFNRWozY292dzF6TjRwVXhKbEo3N1hGSDVQbDdCWFFRcGtpaS1rWEM4UVB4a0hhdHJrYkI1QnpNbWkzbUd1S2RxM2VjXzdIbzJfNk9EX0JnQUc5NjNJVGdoWnNxcHg1a3hIZlBHWlJs?oc=5",
       "fecha": "2026-10-26T07:00+00:00",
       "entradilla": ""
     },
     {
-      "titulo": "CEDDD aplaude la nueva Ley de discapacidad y dependencia, pero avisa: «No podemos seguir aprobando derechos sin garantizar la financiación»",
-      "medio": "Tododisca",
-      "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWFhWTF9KNFJ4U1FwN0NtbGFZTzRjQjB6OGJjQVhaaGphQTlKaUhMRzA5UXgzUHZEdkNmX2x6dHpvclRjSktWY3daSXpnbi1kVWNDUmZOT19rbWZEdUg0WkJlMFpjeFhNZkpjOUFEbHppbjMwYUgtNWZ4NWJBZk9oYzcxaWl0aFV1VllMQ2xZVQ?oc=5",
+      "titulo": "El juez ordena detener a Vito Quiles en la causa por denigrar a una mujer con discapacidad",
+      "medio": "Diari de Tarragona",
+      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQklqY2d2QnVZZkZReklWbThGRmNoSmV0SDljUGV3Y0xKZ2dORW9qdHk3LWZhcmZTSU9fdGV4WllCdElzel8tVVNnMzNNS2U1bGV3am1BTmp1V2dNanU1RUQxZF95NG5VbHBLSTFJMFEyZEF1UzZoeGhrZVNVNGxWalNmcF9NOGZxRWs5blhRRVMzTXFxTWEyaUQ5MVVIT2VzMFNnc1hkM0JCb182YUxtaHZvV0ZzSVBo0gG-AUFVX3lxTE1sVjFKblZ0UU1XY2dobV9XMlEzQVRKbF9HT0RRcnpkcjQ5OEZHakNhbzJaaTVob3hPUVIxZDdHX2twckJuS1M5Y0F1bUVJeXFkWUpzRmhaNm9tRW16TXl2WWxacUlVLVVIOGxaVDViT2dWcTdEN1h5bEs0OWl5a1RtVS1kc00td2l3NEVNOXZicHFPMzFDTno1MFJEMUwwNzFiOUszQ2lORE9ENnRwZDRac0MwUHplUjVpR0VxWlE?oc=5",
+      "fecha": "2026-10-26T07:00+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Jornada ‘Longevidad y dependencia’",
+      "medio": "Somos Pacientes",
+      "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JSFRVYjFmYTVPX1o4ZFRzZXhzZGFTYWpFTkc4dHdtNndkZlhYOE1XSzl1eHhmSlQ4aTZrYk9tTnZ5amJIUnVhS3hYRVlKZXVRRVo3RkZvWFFoQTZDaEg5dGpINy0wc3pHSGI1QUJrTVFoS2p3NERrb01sZw?oc=5",
       "fecha": "2026-10-26T07:00+00:00",
       "entradilla": ""
     },
@@ -1874,6 +2011,13 @@
       "entradilla": ""
     },
     {
+      "titulo": "Nuevas ayudas para acercar el empleo a las personas con discapacidad en la Región de Murcia",
+      "medio": "La Opinión de Murcia",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNWR2VFlLWU5LREx2QVJFSEd3ZjhHbGNqclVDM0wwT1R2WE5tdjViN1h0Q28yamIzRUNONFJUdXlXemYzS0tORVlPVmR3cHllTk1OMTZYWXVndEVXbGI3WVc5aUVBVDZqT3U4Q1hlTXlXVklwb0tWMm1pLWhzUV9TZHQyczJVQ1gwRFJKbi1qeDl1ZDBsVm9LZ2JhVTgxdHZzMW1RT2g3T1ZYd9IBrwFBVV95cUxPakVVVmhQcGRaVkRGRkJZZDVlQk9pcXJOLWpSWUxMdUdNSXlmSTNONXdybWM4SmxmU0x1ZFRGb1kxSVk5cklFN0xOY3Y2RVhhWUoyNzdNaGhLUWF2elZUZ2pFWTlqTmxocUNqVUQ2X3ptY2tGaDMxaFdCTjNXN3ZYdUlkYlRadldwOUJxYlpzbFBzVERZcWpYUDl6a1IyeTFxR2JZb21VMzlFVm43N3Y4?oc=5",
+      "fecha": "2026-10-24T07:00+00:00",
+      "entradilla": ""
+    },
+    {
       "titulo": "Discapacidad y dificultades en la accesibilidad",
       "medio": "Somos Pacientes",
       "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdUJzLUNyV2RBLVdIdGw5TGh6UnoxYzdqVUpRWTNpTTFPVVJVdElDcWdQMFR6WlFvLUVQcVJYOUZDSGhrODJ4M05VZW5EMDBlVEhjTk9lZDhfQjc4Slg3TEJXRjdhbFBrMUJaaW5yaFpMS0JaVjJqaFJINm9WLVo3OWZndzhXdDY4ZUZOMnlPTF91Z3ZJN3gzTW1rU084dkxaUlNXS1BlSV9WdHpjX1RUeXhydnZkSjBJQzJJT2QwQTJqSHl2RWFGUGVwTVBzTlFjWk9RZUVYWFdPSU5uN3JiaWpyWUZ6Zy1vOEJ1d0tR?oc=5",
@@ -1891,13 +2035,6 @@
       "titulo": "El Cermi \"espera\" de los partidos políticos \"un compromiso firme con la discapacidad\"",
       "medio": "Servimedia",
       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUjc5b24tald5ZU02ZWViMURiTUR5YVg2NkdCTUk3VWd0UmpubzV1bXVKbEZHTHpGX2VlTHBJZC1ZYTI0bFBSMXRMN0ZtS00zd1JfX01XcUxWeGtEUU5mMWJsa2sxb1dYS21GRDFBS0tIbjB2S09jVHJINDNGVnh5ZU4zQmJJMjkzemZvVGJwT2FPUWVsU3ZTY0lzbEMyUzdQWHJSYVVWbmdjY28?oc=5",
-      "fecha": "2026-10-24T07:00+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Nuevas ayudas para acercar el empleo a las personas con discapacidad en la Región de Murcia",
-      "medio": "La Opinión de Murcia",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNWR2VFlLWU5LREx2QVJFSEd3ZjhHbGNqclVDM0wwT1R2WE5tdjViN1h0Q28yamIzRUNONFJUdXlXemYzS0tORVlPVmR3cHllTk1OMTZYWXVndEVXbGI3WVc5aUVBVDZqT3U4Q1hlTXlXVklwb0tWMm1pLWhzUV9TZHQyczJVQ1gwRFJKbi1qeDl1ZDBsVm9LZ2JhVTgxdHZzMW1RT2g3T1ZYd9IBrwFBVV95cUxPakVVVmhQcGRaVkRGRkJZZDVlQk9pcXJOLWpSWUxMdUdNSXlmSTNONXdybWM4SmxmU0x1ZFRGb1kxSVk5cklFN0xOY3Y2RVhhWUoyNzdNaGhLUWF2elZUZ2pFWTlqTmxocUNqVUQ2X3ptY2tGaDMxaFdCTjNXN3ZYdUlkYlRadldwOUJxYlpzbFBzVERZcWpYUDl6a1IyeTFxR2JZb21VMzlFVm43N3Y4?oc=5",
       "fecha": "2026-10-24T07:00+00:00",
       "entradilla": ""
     },
@@ -1937,16 +2074,16 @@
       "entradilla": ""
     },
     {
-      "titulo": "Una panadería defiende a una aprendiz de 16 años con discapacidad tras las críticas de los clientes por retrasos en el cambio: \"Todos merecen una oportunidad\"",
-      "medio": "La Razón",
-      "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNSkpvaWxUUUpTSndjbHlReDhVUUdzWE55eXlCNXpldmRNSGpUeFZUWWVnSjVmZFAzbVhkWk4yYUNHMi1HV2hRUDhRYTdYa3BFQXVWZkZ3S1owNWdjSmhfZVdod0YyUXJVbnBjclRZZlA1R3BUX0F3dGJpWTdmLXBFYTJHZ0hZbzFMbnVjUmZyWjlXVURKb1QtNzZrTlpsYkI4aVR6d1BOWHlmdVZxNU5kNzRJaGE4enhaWHBLVzJHMVZESThOX3VLRWJsbDZTV1k0Y2dadXVmVjQ1X0lydEtTVjRjYzJUOFRmVlVvdUtPb2dsb0J4aFZTem1wSnFkQl9BblViLVBQWUd2ZE5MaWVzYmJxMNIBpwJBVV95cUxQVkU5Wm9kdmRLUUhDMi1aNFl0V3dDSnZlYWdBT09Gcjd4NmNreV9OSHN1UHkwOXFmeHBfTE1Ga1ktQndCdm4yQ1RSTEZpYVRxcEd2aGhIMDJhVkZoRDhnUmFXaGc5bW9BUEJaSXZIc09JejYyMDdQQVBOUXJ1aFoybXFLVmgtRW41dUFSb3dOTktkQ2xtMkF5bnVFUE56VEQzRUF3YWo4eFJfblJ0N0RESXVxdlVfU1VyVEdURDNHQlY1eGphWTZURnZTWWV3UWw5TWVUczZ5ZWJUUlhtZmVxSTlFaWZhalFkOWpISHB1WFBMeHVGdDlRQkJkSTcyOHhjbWNoZXZzREQ4OE5kMnRabE43em44djZsWXcwSDJpM0NoR1RlaExN?oc=5",
+      "titulo": "Las ayudas al empleo de personas con discapacidad crecen un 42% en Pontevedra",
+      "medio": "Faro de Vigo",
+      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQmdzWWhrdFdTN1B3N0JET04zeGRlV08xUF8xNXNLUDVhRnRwNnhvOER5Y1RrSjdESHV4ZVR0Y0F5bmFVQ3NTcjZocUo2VGxjdS00alhneW9McEc4a2pwS2ZSb2FKUDF2QUhVRTh4LWhLTUswREhuWlR1Mzl6bWlZbURJdE00cGhPMnJJeXRnVTU1RnlhUzhrRHlzR0lHZEJ3ZHI0RUdaT1HSAa4BQVVfeXFMT0ZTQkp3dy1BUWk3RFhscU9CU1pmQXd2LXNDUHI4QzB3UzNkZEpINmpuNmpLeHZENll1RGV6VU9IQWpkOG5JS2ViMnJyQXNCclRzRVlFX2Q5YndNajhZcUZDR0FpdnRRRFRKU21fLUw4LU04SmQ1YTcxUGtZRUZMN2hLUGg2eHprMnhNYnZjdHVoQVJMNGs5UlJTNzVTcFFPeXhia0Ywd3lORzEyQktn?oc=5",
       "fecha": "2026-10-23T07:00+00:00",
       "entradilla": ""
     },
     {
-      "titulo": "Las ayudas al empleo de personas con discapacidad crecen un 42% en Pontevedra",
-      "medio": "Faro de Vigo",
-      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQmdzWWhrdFdTN1B3N0JET04zeGRlV08xUF8xNXNLUDVhRnRwNnhvOER5Y1RrSjdESHV4ZVR0Y0F5bmFVQ3NTcjZocUo2VGxjdS00alhneW9McEc4a2pwS2ZSb2FKUDF2QUhVRTh4LWhLTUswREhuWlR1Mzl6bWlZbURJdE00cGhPMnJJeXRnVTU1RnlhUzhrRHlzR0lHZEJ3ZHI0RUdaT1HSAa4BQVVfeXFMT0ZTQkp3dy1BUWk3RFhscU9CU1pmQXd2LXNDUHI4QzB3UzNkZEpINmpuNmpLeHZENll1RGV6VU9IQWpkOG5JS2ViMnJyQXNCclRzRVlFX2Q5YndNajhZcUZDR0FpdnRRRFRKU21fLUw4LU04SmQ1YTcxUGtZRUZMN2hLUGg2eHprMnhNYnZjdHVoQVJMNGs5UlJTNzVTcFFPeXhia0Ywd3lORzEyQktn?oc=5",
+      "titulo": "El Vino de la Amistad de Atades cumple quince años impulsando oportunidades para personas con discapacidad",
+      "medio": "El Mundo",
+      "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uT0dFUEtjSUMzc2ZiWGE5SkowbTlsSmN2S1NWWUNPV0VmaVdmZVZyVXBIRjM0V3k2M1pmempod0w2ZGE1OWlTd2E0enpWMjVBd05lMEE4Yl9LVnhhNHJoN0ZKWnhTUkZMUllZZ2pybkZMUkRtN1RWVWFR0gF6QVVfeXFMTkVkRE9FTmVYdDBXSTdibW0tREdSMFRaeUtPNmd6VF8xYjJJUWtuREV6am1iNFJCVHM2eEctWUNMb0xYVXlUQlQwTUp6bzNZaVN0X0NnZF9IS0RjSmVoSDlYQllsemZmWkh3RVVRV1JwVW44TkNvUlZoTHc?oc=5",
       "fecha": "2026-10-23T07:00+00:00",
       "entradilla": ""
     },
@@ -2014,6 +2151,13 @@
       "entradilla": ""
     },
     {
+      "titulo": "Una panadería defiende a una aprendiz de 16 años con discapacidad tras las críticas de los clientes por retrasos en el cambio: \"Todos merecen una oportunidad\"",
+      "medio": "La Razón",
+      "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNSkpvaWxUUUpTSndjbHlReDhVUUdzWE55eXlCNXpldmRNSGpUeFZUWWVnSjVmZFAzbVhkWk4yYUNHMi1HV2hRUDhRYTdYa3BFQXVWZkZ3S1owNWdjSmhfZVdod0YyUXJVbnBjclRZZlA1R3BUX0F3dGJpWTdmLXBFYTJHZ0hZbzFMbnVjUmZyWjlXVURKb1QtNzZrTlpsYkI4aVR6d1BOWHlmdVZxNU5kNzRJaGE4enhaWHBLVzJHMVZESThOX3VLRWJsbDZTV1k0Y2dadXVmVjQ1X0lydEtTVjRjYzJUOFRmVlVvdUtPb2dsb0J4aFZTem1wSnFkQl9BblViLVBQWUd2ZE5MaWVzYmJxMNIBpwJBVV95cUxQVkU5Wm9kdmRLUUhDMi1aNFl0V3dDSnZlYWdBT09Gcjd4NmNreV9OSHN1UHkwOXFmeHBfTE1Ga1ktQndCdm4yQ1RSTEZpYVRxcEd2aGhIMDJhVkZoRDhnUmFXaGc5bW9BUEJaSXZIc09JejYyMDdQQVBOUXJ1aFoybXFLVmgtRW41dUFSb3dOTktkQ2xtMkF5bnVFUE56VEQzRUF3YWo4eFJfblJ0N0RESXVxdlVfU1VyVEdURDNHQlY1eGphWTZURnZTWWV3UWw5TWVUczZ5ZWJUUlhtZmVxSTlFaWZhalFkOWpISHB1WFBMeHVGdDlRQkJkSTcyOHhjbWNoZXZzREQ4OE5kMnRabE43em44djZsWXcwSDJpM0NoR1RlaExN?oc=5",
+      "fecha": "2026-10-23T07:00+00:00",
+      "entradilla": ""
+    },
+    {
       "titulo": "Inserta Empleo acercará oportunidades laborales a más de 350 personas con discapacidad",
       "medio": "Canal Extremadura",
       "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRkNCY0MtaXJGNzZvVHc3dVd2MmRybEpzRzkyZ3ZLV0JZSVVvb1lCQS1OZUlqRTVwU09kdWxGd3V6eC03NDYtenozY2dYaVBla04wMVRrTkxVZEdxQUJiQ25rQWk0MEJEcUFPSkJZdWdrUmcwSWo4Y3YtbC1XV0NRSkxXZDBNeUZjMGJQNVJrRTN1bnZ6RmY2X1R0U0t1TVNLUTNpellQYTRHNTlUZzg5QklubUp5VXhjSUpNWmJRVzc?oc=5",
@@ -2053,13 +2197,6 @@
       "medio": "Diario Siglo XXI",
       "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPODE2RkRsbTc4Y1FYdEl3ZWxvYzJPQ0VuQ1RNLTJTdmhfNFp4WW1BbmlGSDJ0VUVzQWt2YTY5cFJNR0dLaHY2WDFiRUtxNHNGRUo5TVJ0ZnJZeWo2czNTR0hmWUZqd2hPNklUcEtjLVcwVHZ4QXc4WnRsd0Z4R05IMW1rNEI0Q05CMU1qbmRsaVY3RlhWaXhQUTdVTWlqdXFIa0xVX0FZZG9ERmZFUDRmYTk3UDhjSE5EMk15WmFJaEJGcDJtWWdTTnR2U2FTemtocDh3UHF1UWNJLUkzMWI0LUV3?oc=5",
       "fecha": "2026-10-22T10:50+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Gijón analizará la realidad de las personas con discapacidad para mejorar los recursos municipales",
-      "medio": "La Nueva España",
-      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT1FLeFRmcGtZMkJWVkpvaFlab2JoY3BOdG5zYmloazJXeUx4SjJTUlJlX3o1S1p6ZURpdVFGazVDRzlpTzdlaDJ5Tm5tTWRWaDVpZ01HUmhJaXVfTlVPclVFdV9zQ2Q3LU1wYm5CeVVlcDdNUm9FZDVDUENKVXM1aWRVb2dZTGwtOWw3cGhyYzlCTVBsa3B5NHhlWE8wd9IBowFBVV95cUxNSl9iTUhYaklUaVVEZEUzMll4bi0wVHdOVUNFRWs5NlQ2X2s4ZUtnQi1MdGdicjRXRW9GcEtSZ1BzQWtnT0Vob2R4cW1lbzc4U0dZNXdTWENJclFxR3lDaGlwVDI0R0VlcDB3MWUwZnFub1ZQOTdBZG84TUdlWGFWTWZldWdxY3FWeU5wRnh0Mm0zMkxydng5d1JfVnRKd0Rselhv?oc=5",
-      "fecha": "2026-10-22T07:00+00:00",
       "entradilla": ""
     },
     {
@@ -2119,58 +2256,37 @@
       "entradilla": ""
     },
     {
-      "titulo": "Cerca de 50.000 trabajadores con discapacidad podrán anticipar su jubilación a los 56 años: \"Cada dolencia que entra en la lista es una alegría\"",
+      "titulo": "Familiares de personas con discapacidad intelectual de toda España se reúnen en Alcalá de Henares para fortalecer redes de apoyo y defender derechos",
+      "medio": "Plena inclusión",
+      "enlace": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPNmVnTUxkaW9CYnhhdW9Jd0poVUtiM2oxVk90TGU3cnlra2o3NVoyZTRYTnhiNmJXMFRaVm5iMUttUXVXbjBrd2hTd1hJRjFJVWM1WDJKdVB0OE94M1p0SDBHR1BTbTc1NEd2TE1nSHRVOG1PWi02Y00xcHV1b2lpR0JnZTlpbG1kNDJqTGhSZjlrWU11ajFDb2FBRUtaVF9ydWVtS0lPTVAzb3ByTkFSNFlYZGw1bEF2RHlSYWFoQjVHU1BCYXgzb0xPQUxwdURzVENwc2JqV0tYZnFacjVHai1lcnFuakNrT0w2TnN2d0hnSFNYV0Z2bU92N0tjSk1Rczk5d3hXaE1CZ3VhMlhsTkZDbjNFTTJx?oc=5",
+      "fecha": "2026-10-16T07:00+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "TMB y COCARMI firman un acuerdo para mejorar la accesibilidad de las personas con discapacidad en el transporte público",
       "medio": "El Periódico",
-      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTXNZdkxwSDlfd2FJa1hwa3hlZXQtd0tDdHJMUWdubWpWRmNfM2pZOVZyTFdDMVlZWFdTM0w0WmZoVjFxbGpJREJVb0ZkMUZfM0g3MHV5QjhJT1I5dmJjcFlwNUtvdDgwZEM0U1FDbmg4a0JVb29fVlJwLXRmR1N5dGFGM0Q2eUhjcVBqWDJBYXVNbmFySTJxR3d2d3BtdUFmUUJ2cDdUVlFsLWUwQ0ZEYXQyUUQ5eWJ5VUpCRkRQU05RenBVc3k5OUtWek9NUDFvaGN4QUxwc0JBUdIB2gFBVV95cUxQWUY1SE11UzhJckdPX2p6dWNHdXQyOHA4UWRTc0xQV0ZlX0EyUFJHYVJHaVA4SU40RUZFcVVENENOLTVFZjhkaS1obEJicWtfSlVxUlRDMExVY2Y4d1VubFJicC00QmFRRjRoR2hkT0tCNG5QNEY5TWIwTkx6cjBiS2J4ZGVRbmNobDBJbWUxTDV2c1U5cF8ycmczb0NjVWRtbFI2RlFFM1RvcW1SeWU4cGdTOFVselVUU1VvNW5OaHNoaW5NbV84RDhBRzBXeGI5WjBnREphMEVyQQ?oc=5",
-      "fecha": "2026-10-22T07:00+00:00",
+      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM0VzM1RnQjcxU1B4NEZ1ZWxYTXZMNFVpc1d1cl9hVjB6RzlDWGR5UkRfVktqSkJ1MzN2VXlxRUQ5dTF1eVhqQkVKX3M0aFVVcWVfWlh5Vjc5aUg0NkpYZVBSQl9iUFY2T3g2c2Z0OWNXWE9KT1ZhUzFxTDJzdHpMWTN6T3FrWmNDYm9wRDVfT0h2bXpPNndEVExR0gGaAUFVX3lxTE5DTlJGTEQwZGdtcHpja1drRDA3WlNCZHgxOHhlUUlteFk3LVNDb3ZJTk5mWnFDY0lpZEQ4ZFQzTGIwOTlkSl9LT2FRZlowaWlNZUN2dFJuNWU1VWsyVTlucHVSX1BWLVJMU2swOFN5SFhJUTJIX1p4ZWtzd0hjY2IzZ2xBdlpPbXpORnVpX2FRVHBaVk5ldHJHQnc?oc=5",
+      "fecha": "2026-10-16T07:00+00:00",
       "entradilla": ""
     },
     {
-      "titulo": "Entra en vigor la reforma de la Ley de Dependencia: \"No resuelve el modelo de vivienda ni el apoyo a los cuidadores\"",
+      "titulo": "Dependencia de grado III: el Estado ya paga 660 euros por persona, pero cada comunidad decide cuándo llega a las familias",
       "medio": "Tododisca",
-      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWHdYNXNWRzc4dk1wUUdLNUdpQ2llR3FneG5VSkVyYm53Q1phWFhFcXVOb2MzV25rTnFXa2R4Y1VuZXczUnlHNTZLMVczX1FvWEZPWDNJMEpKNFFHdjl2MTA0MVNjQUhqcWZqNlJzckN6RWdwZnBwY0hycHZiUnlZRWpJNzh0eHBsLWhqcnhNWnFMRm5YMFpRYUdkNkltNVRhenBDWm5aUWFLT0gzNG9IZDBvTUNzd0ZYTFhQUnVB?oc=5",
-      "fecha": "2026-10-22T07:00+00:00",
+      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeWZNeVhma05JdUUtaE1zM1VMNGpJV011MHhCbm56Mnl2YkhVanhzTEFfQ0NsV2s4UHk1UmlhM2NQS3BzUzdiOGkweFFSRnU2TTNlTjVmanA2ZTgtNm55cjBRemNqWnBTdGRyRnoxWHhHX3RkNm55SDdlTjRacHRmMWxpTDNxSlNGMllIc2lUSk9QXzBDQzA0ajRHNTV1Mk9Nc2trc0FRakFsQVM2bTQtM0tsZUtuZnp6YzhDaFpjbEFoUmNkQmxHbmlHUmNaMU1PeDB6Q0pHZnA0emhRQm9pSWU3dWJkdlpDcFE?oc=5",
+      "fecha": "2026-10-16T07:00+00:00",
       "entradilla": ""
     },
     {
-      "titulo": "Loli, madre con discapacidad a punto de perder su hogar, a Pedro Sánchez: \"No te pongas medallitas con los desahucios\"",
-      "medio": "El Español",
-      "enlace": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPUE41Qi1LQzdzN3BOc3o1TEJORzBnUEFTRzd1d2VJZEJKT0pJWUZfbmxENXhBZ2dKMVE0S3ZDNUVsdkplTmNzSXY0dHFFalNhQnZpVG9DUUlnUjU5azdrdTdGN2VJYlRJTWlBMFRkc3ludFRvZHNINnB6Q3FHQkhGU3o0Vk5FVjZTam9ZODEyVzJXVHhFZjJtb3c4b080MkRWdHBEbHhWSldXWkJjaGs3eDliWG5XZTdRV2NDOXN5UVhET2F4a3dsQ1ZSU1BTalY3YjI4V1ZraU9OMC1NV2xzMHJBd2JEY1JFWk1HeGQ0aU9IX1dXTmNNNWxzSUpfOWxKWnBaanV1YW9GZ9IBjwJBVV95cUxOZGw2RGFCNmdVQWFNVHNhZy1PeVh4VTRwZEZfMWwtTGFyYUZlVko2OTBGSm02SEp2NFU5SDlDa19ySUp5d3pIT2VTSHc5eHpXVlZmbVpOeEduUGhjOGRyZk55MVNmZU1SM3R1Mi1KN0tBTG13bUFJYWx2WUZPUlVSYXRZeTZMSWQyeEd2NXlWNEJING9SWVlITGZZMDBWZElRRmdFSVJRVnZOdHQ4ajR4VGt3WndjOWh0bVRvUGZzMlZic01rOGgyN0F3UkVqazhha3BQc2V4anNLXzFvQVYyUkpqYTRsTDhrNG9yWE15TUVoWFR0NEROSUtaMWxfRHd0eXhGa1QwVXp4OFZWOUh3?oc=5",
-      "fecha": "2026-10-22T07:00+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Confirmado por el BOE y la Ley de Discapacidad y Dependencia: las personas con ELA y enfermedades irreversibles no perderán sus ayudas mientras se revisa su grado de discapacidad",
-      "medio": "Tododisca",
-      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNHh4bXpfY0xJc05QcHFBMlVhTW9kWnZ2RTVQUXcwckN1WnNXakhMM3ZUNUpuT3llWkFSaUZ3c0JrZFVUZlZjTHJVWjNyMFR0dWRfemZsMGl6WGg1dUhDVWsxNDZTTnRWZFNRa1BkWVJtU2Z3ak5FU2xZMTd4TWF3R3FSUnVXM1llU21ONWlGTmM0MXBDUjd1NVpQdGIxa1gxUWhSSkpaUDRHNHlPWWg4Sw?oc=5",
-      "fecha": "2026-10-22T07:00+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Milei cede en el Congreso con un proyecto de discapacidad en vísperas de la visita del Papa",
-      "medio": "El País",
-      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd1llb0VVNndyUGI0R1MzaEx3UFpqTndvSjRoOVZHaTF0UlJOclpvLWVFcEo2UnFldEtRemQzQUtHeHYxV0NUVENsajd5MVRSaUNxcHhWZmF4ZGZZamhLNHZkNWxwc04xT3hEYXFsbG1mNlFpcURRZUVxRmtSaXB5NkFjYkg3YUl4eWlXSnBSazJ6S3F0bzhaUHRuUkdSeS1ZRVEwZkhrRE1EVTRmTWk3blo4VmpqV0o3b2lsTTgzUmpqdVhndTdmZTVjWTBndGQ3WHfSAeYBQVVfeXFMUEIxWUZ0Yl9ONS0wRTBNOWZ6NDRVYTZ5MXBZMlItdk55cHpFdkpoSkZIcWgtRUpuUHFJNURBcWxvN3lIZks2TklqM3BGVkNJSjZfMFRGU3RGaVhRQ3ZLUm5tV2pXQWhuaE1wblRfdExiaVh6WDJMa0VSenBiYTJZanI0eVF3Z3BTSU41cmZNbDJTR1MzT1VpWnIwcERXQm1xTzM3ejlNazVWWExmVTVXZmphQmxuOTJVdEgwVFhVRmVtLXBHejZ4R19BdG1sR2lBOW9hUVJLTUNickhKc1dObmgxRVcwbVE?oc=5",
-      "fecha": "2026-10-22T07:00+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "Discapacidad visual: causas, diagnóstico y prevención",
-      "medio": "Discapnet",
-      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWkZvTTJfRzdPbThrdnRPUnhIemRTeWoxQVZCbXQybG1kajhwdmV5QVNkSzRwNU95QVoxRW02dHBadG9tWlNudkkzZV8wSUFLRnBWOXZYbEI2TXhtNXJkZ1lZUHdkR0laV1hHdkxudFgxc0dUaDViTVJuTy1NZE1HbGl2em1nUUdkZVJTLVctRldBMGZlSkFjNDNBUHV0ZU5kem5LZg?oc=5",
-      "fecha": "2026-10-22T07:00+00:00",
+      "titulo": "Presupuestos de 2027: empresas y CERMI, a la espera",
+      "medio": "Canal Extremadura",
+      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdXlIMVhyY1ZrZUxRN0NVdUM5UDE1OFBMd24yUDBiY21NOGpCelhYeXpmaGRESWxXc3B2WnJWUUhyS0RHdWg2Z1E2TkRpTXJ6VDVMMVZxQmhJMEpramVoMWp4MXNyYTVFWVZseHppdmhxZEhEMXlFN3BQdmFoUExEVHRkMkRKMHJiNDVYVHlHcXdoSktfYmo3c2ozeG5VS0xp?oc=5",
+      "fecha": "2026-10-16T07:00+00:00",
       "entradilla": ""
     },
     {
       "titulo": "Loli, a punto de ser desahuciada con sus tres hijos: \"Mi marido en paro, yo con una discapacidad del 71% y un bebé de 18 meses\"",
       "medio": "COPE",
       "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWXZNdUJ2SUtmRUZDTVNyUGRFeEhzWlRDem1iRmxYLWhYbXJpQ0ljQlQwbEVWQkEteDVRY3RQeERPS1M4ZTY1NmtyaGd4RkJzcm9zU01odUNRT3AwTXhMN2tOcDBBTmI4T2wtSS1DeHJ5N3VkOHNIeHI2N3lYcGt2THhqV3ZnTGpQUnRJcHNQTFhNUDJ0a2ZfVklUMktTV3pQT3RZU1JBT1BEUDd3eWRkTkZNczVYNHNjU0hTeEgtdlJZSmVNSHFqZEtUZlcwYjJKbV95dVVFTGVUd3BjeXBVY0JUX2lEX0130gHuAUFVX3lxTE5jb3A0b0VfTm5adFBxdTZmYlU3OE5RSXVBZUY0RFc5eTVXdEdWTkdLSFlpOVM5R0xSXzN1dFNZSXpReWtHMG5tNXNWWlh5LTFxUkphSGJpSEhDTi1DOTdpakFpRHNNYlozRldaTlNJYWlSa1NMeXFsUHR1VXJPaXhJbkt0U1BpSlVNVHJuTVEyT29XeXFVRHZCdkJwOFBLRUNpQk90U3k0THVrM2NGVlg1VU1xcFF1NERpZzNycjYxa3ZHLWxaREVUaXZFcGxMN2MxOV9sVmJ2SWZ0enU3bHBfY1B1SXRORmlacEdoaXc?oc=5",
-      "fecha": "2026-10-15T07:00+00:00",
-      "entradilla": ""
-    },
-    {
-      "titulo": "La UFV da la bienvenida a 17 jóvenes con discapacidad intelectual en la quinta edición del programa Unidiversidad",
-      "medio": "UFV",
-      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMkhzQ2t6QUZHN1V4WmtXMFlJVWNHYTlfUElDTDJuT3MtdVJHR3E0MUM2NDh4bTF0S2pKY3ZlQ2FQU3NucTFkLVpQY2pmbnNWVy1idU1sN1kzNVgxSUJ3RGk1M0lHQ3FyY1F2aWYtR0I3eXBQSl9aZ0VMaTMwcGY3Z29tZGg4VjZjRGhUbFN4dHhndWZYaVVXMkpORGxKd2hsaF9jTWlySTRTTzZpcHkzOFBBeXdzM1k4VVVMUExGSll6SVpyOGJDdl9xcG5VQQ?oc=5",
       "fecha": "2026-10-15T07:00+00:00",
       "entradilla": ""
     },
@@ -2182,16 +2298,23 @@
       "entradilla": ""
     },
     {
-      "titulo": "La apoyo de la infanta Elena a personas con discapacidad, entre brindis de cerveza y un bonito discurso: \"Sentíos muy orgullosos\"",
-      "medio": "Vanitatis",
-      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUkR3cWhtYnVaQzEtV002THlBUXFWZXpzTU5DTDVLYWw0VkZySjBDRWpvNktYd2VFRi1UY0htSkg1M0ZjYTM0NzI2NUJmNlgxRUJ0Q1FlQWxyOHlHYWFET2FydW45Mjkwb3RyblhsMlI5M0FtaEk0dmNRekl4Wmg3eW5GcWRRNHZPUVlKc1A3LTVBcXNuRXl0RERKVkZLcUNRZEZ5SXpEZVdsZmtYTzZKMGw3MV9FMUoyaWl3TG9ZbVBRc3NLWHdaYUxYZzdaNmVCVFZGZ25BMElfR1U?oc=5",
+      "titulo": "Cermi advierte de que a las democracias les falta \"calidez\" para garantizar los derechos de las personas con discapacidad",
+      "medio": "20minutos",
+      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNFNBSTVEMVRGVlFrSlhMN1BQSzhJYmd4SWlJTWVpNzFhWjZNMGtwdmVKUTluVlpPUWdfUW15WXJoVEFfbHMxVFIzVXFWLXhtWGJvWV9LTVhRZ3RIdE5fN0V6bFNhM3hqcV9jbkZPTjFYZXUwTG03WFEzS1E4YklDLVYxRVQySHYtNlkxb1lKQ1VfRVo0SFBXbXdDQ1RFbkxRT3hWRlpvdlRNdE5ydWhWSDNYOVRrUElkNlVHZDYzc0NMMFFhb0JmWnpOVWtKM0lWNHIwNWMyWmI0V0hrNDNuVmNNZFlPTEMtTVVRZEpSaFI?oc=5",
       "fecha": "2026-10-15T07:00+00:00",
       "entradilla": ""
     },
     {
-      "titulo": "Cermi advierte de que a las democracias les falta \"calidez\" para garantizar los derechos de las personas con discapacidad",
-      "medio": "20minutos",
-      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNFNBSTVEMVRGVlFrSlhMN1BQSzhJYmd4SWlJTWVpNzFhWjZNMGtwdmVKUTluVlpPUWdfUW15WXJoVEFfbHMxVFIzVXFWLXhtWGJvWV9LTVhRZ3RIdE5fN0V6bFNhM3hqcV9jbkZPTjFYZXUwTG03WFEzS1E4YklDLVYxRVQySHYtNlkxb1lKQ1VfRVo0SFBXbXdDQ1RFbkxRT3hWRlpvdlRNdE5ydWhWSDNYOVRrUElkNlVHZDYzc0NMMFFhb0JmWnpOVWtKM0lWNHIwNWMyWmI0V0hrNDNuVmNNZFlPTEMtTVVRZEpSaFI?oc=5",
+      "titulo": "La UFV da la bienvenida a 17 jóvenes con discapacidad intelectual en la quinta edición del programa Unidiversidad",
+      "medio": "UFV",
+      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMkhzQ2t6QUZHN1V4WmtXMFlJVWNHYTlfUElDTDJuT3MtdVJHR3E0MUM2NDh4bTF0S2pKY3ZlQ2FQU3NucTFkLVpQY2pmbnNWVy1idU1sN1kzNVgxSUJ3RGk1M0lHQ3FyY1F2aWYtR0I3eXBQSl9aZ0VMaTMwcGY3Z29tZGg4VjZjRGhUbFN4dHhndWZYaVVXMkpORGxKd2hsaF9jTWlySTRTTzZpcHkzOFBBeXdzM1k4VVVMUExGSll6SVpyOGJDdl9xcG5VQQ?oc=5",
+      "fecha": "2026-10-15T07:00+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "La apoyo de la infanta Elena a personas con discapacidad, entre brindis de cerveza y un bonito discurso: \"Sentíos muy orgullosos\"",
+      "medio": "Vanitatis",
+      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUkR3cWhtYnVaQzEtV002THlBUXFWZXpzTU5DTDVLYWw0VkZySjBDRWpvNktYd2VFRi1UY0htSkg1M0ZjYTM0NzI2NUJmNlgxRUJ0Q1FlQWxyOHlHYWFET2FydW45Mjkwb3RyblhsMlI5M0FtaEk0dmNRekl4Wmg3eW5GcWRRNHZPUVlKc1A3LTVBcXNuRXl0RERKVkZLcUNRZEZ5SXpEZVdsZmtYTzZKMGw3MV9FMUoyaWl3TG9ZbVBRc3NLWHdaYUxYZzdaNmVCVFZGZ25BMElfR1U?oc=5",
       "fecha": "2026-10-15T07:00+00:00",
       "entradilla": ""
     },
@@ -2220,6 +2343,13 @@
       "titulo": "La reforma de las leyes de dependencia y discapacidad pone el foco en los cuidados en casa, blinda el presupuesto estatal y amplía servicios",
       "medio": "Civio",
       "enlace": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNZThXREVsYVZVRFVtSnhMVXZnNklYeWZoS3NRbDQ2YVBwR0YzakdidE8zQVZ4MEhMeG9JMEM4UVNMN19WOUlWNFh6eGFBQnFRUjlHS0xqM1FKT19QZzljUzVMY25FZjBDdmVSRFNjd2VneGNYbFVGdjc1YU1ZeU1HdVNfOFRleWdNNjl4YThzX3hKLVNYQ3BhVU4waWJqalNrVnZFbnZWQmM2THF5N1RKZ3o4OFJmZGFnQ19hSVhXd0Q0MU50Y2ExbTE5RHV0VjYybkZPN1JFOG5HdFAtT0xpU2oxcjd1UW5ab0MtQW1lakpMOEROdTlsYjQzb1l6am90alItNmpUcEhydERJU1Yxbm9mdFJvb1NoSVN3RnhYZ2M?oc=5",
+      "fecha": "2026-10-13T07:00+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "El acusado de violar grupalmente a una mujer con discapacidad alega que fue sexo consentido",
+      "medio": "El Norte de Castilla",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYVVsMmtua0lsLVRWc2xVSFVGZS1kblhURU5Cd2pvelp3OVpTeGNQWk5FaG84ZEtpTm9GQmRWR190NDlBaHpienl4NDZaZXBNVkhjZE1Ec2ZJdG9DelRqS0t3V0Jmd2QzaUhEWG8wX2FUMUxDMTdlR3lxVW45cnVVVXZJSXpxT3N2cUVMejV4dUwtanNNc0szVmFSWjVkWmJPdkQzSzloVnd4TG5WeHhiTVZ5LU9PQ0pjMFpLTDlSY1HSAcYBQVVfeXFMTjg0d3c3TmE5cFptRjdZeXNVcEpqc00tbkllNVQtN280akZkbmJEWHFQN1REd244amN3ZlREV2w4SlhGLUMyaHVMRXBhMF9uOEpWa3FRMnZYOEU4WFF5UFZSbElqZUMtOWhlLXZ5ZGV4ekdWZHpJcW82ZTVzSGxvZlJtUm4tNmlfdkRPWmM4TjlnYU1mUWJTdjJ3ei1kWWdQcUt1emlnS0RoYzNtYTVyZFRWbUZxNFFZRjlCMmViTk1pZGN3aEd3?oc=5",
       "fecha": "2026-10-13T07:00+00:00",
       "entradilla": ""
     },
@@ -2539,16 +2669,16 @@
       "entradilla": ""
     },
     {
-      "titulo": "Miles de estudiantes con discapacidad intelectual y del desarrollo retornan a las aulas reclamando una inclusión educativa que todavía no es real",
-      "medio": "Plena inclusión",
-      "enlace": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQcmRNb3p2TlhnRk9iT0N5cGJsWkJ0andTblZnYnN3QVhkekt4Y3dvUEIyUVJZMmJ5WHhBU3h3Tnl2bFc0eDBHU1NaLWJpOUVrWDhHclhVbDBJeUZxNDZSZ1BpTXRRTTEwZ1JLUGM0WEd4eTlZYVEzY1lHUnFuYmFrd0x0UXVZWl9LdFF2VmlvOHdJNEN3djFER1dlUUMyQVp5cXBKYWZoT0RHZ2pBT3JJOENjTjA4dFdvUWNaU09OOGhPcDJsbkpjQnVjc3dvQ1JXNDh5aU5CanYwWVBqWklUUmpsZk9TaGtJdUhkWGhkU1pTZlk4eWtQSHVBQmRzMVlMQ3g2VVZkeWxuMWFJemZDMFBQLUg?oc=5",
+      "titulo": "Un marroquí abusa de una mujer con gran discapacidad en Pamplona: la fiscalía pide que le expulsen del país",
+      "medio": "Navarra.com",
+      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcmFkZG1Wc01HVnJ4VC1zLV9WcHFYNHVGcm4wUVRyZXQxZWdKejdiZHJKLWc0WlE1Um5tbXREYUpwQnZkemJNR1VPUV9pbVphVTdtbGg2amc0Tm1OaWFkbnZiY3RSUzRxMFZMdW8zOXh6TUFKckFJQmdEMG1LekRpZTU2Szd4YmdncW9Nbjh3OWViUE4tbDFJenlHV29qM1hoVlJNSF9tQmNZdl94U2ZBRlVlcldqV2ZXVEl5Z0NB0gHDAUFVX3lxTE5iRjVKVWhhOVhzdTNzMkNzYjNGZ054YloycDA5ZHgwSWp0ejJ6S3JUcVVraTNhRzhzN1hjakJQYkpScU9DaGVFNEl5SGh0aXppN2Z1UzNtM2s5b0dvV2RNVEJIRUN5N0VzMXlKRkJMX2VGRFprZFh1ekdxWGE3SGVadE9sNzJ3Uzg2aTE5SWxGYjFudkI0X0JNdU9oRmlWWmF6czVXX2t4T2NfR1d6aThXLWhrV1JHSGp4RTdNcGYtb2M3Zw?oc=5",
       "fecha": "2026-09-08T07:00+00:00",
       "entradilla": ""
     },
     {
-      "titulo": "Un marroquí abusa de una mujer con gran discapacidad en Pamplona: la fiscalía pide que le expulsen del país",
-      "medio": "Navarra.com",
-      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcmFkZG1Wc01HVnJ4VC1zLV9WcHFYNHVGcm4wUVRyZXQxZWdKejdiZHJKLWc0WlE1Um5tbXREYUpwQnZkemJNR1VPUV9pbVphVTdtbGg2amc0Tm1OaWFkbnZiY3RSUzRxMFZMdW8zOXh6TUFKckFJQmdEMG1LekRpZTU2Szd4YmdncW9Nbjh3OWViUE4tbDFJenlHV29qM1hoVlJNSF9tQmNZdl94U2ZBRlVlcldqV2ZXVEl5Z0NB0gHDAUFVX3lxTE5iRjVKVWhhOVhzdTNzMkNzYjNGZ054YloycDA5ZHgwSWp0ejJ6S3JUcVVraTNhRzhzN1hjakJQYkpScU9DaGVFNEl5SGh0aXppN2Z1UzNtM2s5b0dvV2RNVEJIRUN5N0VzMXlKRkJMX2VGRFprZFh1ekdxWGE3SGVadE9sNzJ3Uzg2aTE5SWxGYjFudkI0X0JNdU9oRmlWWmF6czVXX2t4T2NfR1d6aThXLWhrV1JHSGp4RTdNcGYtb2M3Zw?oc=5",
+      "titulo": "Miles de estudiantes con discapacidad intelectual y del desarrollo retornan a las aulas reclamando una inclusión educativa que todavía no es real",
+      "medio": "Plena inclusión",
+      "enlace": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQcmRNb3p2TlhnRk9iT0N5cGJsWkJ0andTblZnYnN3QVhkekt4Y3dvUEIyUVJZMmJ5WHhBU3h3Tnl2bFc0eDBHU1NaLWJpOUVrWDhHclhVbDBJeUZxNDZSZ1BpTXRRTTEwZ1JLUGM0WEd4eTlZYVEzY1lHUnFuYmFrd0x0UXVZWl9LdFF2VmlvOHdJNEN3djFER1dlUUMyQVp5cXBKYWZoT0RHZ2pBT3JJOENjTjA4dFdvUWNaU09OOGhPcDJsbkpjQnVjc3dvQ1JXNDh5aU5CanYwWVBqWklUUmpsZk9TaGtJdUhkWGhkU1pTZlk4eWtQSHVBQmRzMVlMQ3g2VVZkeWxuMWFJemZDMFBQLUg?oc=5",
       "fecha": "2026-09-08T07:00+00:00",
       "entradilla": ""
     },
@@ -2714,6 +2844,13 @@
       "entradilla": ""
     },
     {
+      "titulo": "Un dispositivo permitirá a personas con discapacidad visual experimentar el eclipse",
+      "medio": "Ideal",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT041WkFWcHdVTFdlaWpIXzNKTGxxV1lpYXpfbUktZUk1YTRuUUlPRVRCQzMwb0k4RWRiVFBucTcwemdOUVF1Nk5yN245dW5MTmFsQmxZSDYyeklva1IyVGw3WEpGNkF1U3U1RUxRbDllQzhYcWRwa0dsWnFDaEFvMHA0N09iVFpjQ2ZoZ2pOcGZVMGdCMXJzdmN0U24yRkVDQ2lQSkRIV0FndnhVcjgwWFdRTmZ3bE5PdlRtZlRWaXPSAcYBQVVfeXFMTTJFcGdLUUswSW85OG12aHJhRmVISjEtaVpyMndZRjl2TkpvRkhKWXF6WnM2cWV0NTNaVTAtNjJlenBGcV9CMXVYdWlhVERJSTZKZzlOXzktdmdiV3NMOURXYzNjZmFnVFBmLU1uMHNwdENyTkNRWEpRbzVPQTdXOXJkZllzMWFSRDFpcjNnalVFUXBaY0VHUkZPeU9hbE9ibUpEQXZHT1ZORjVDbFUzT3dBN1FRYzYwenNXZ2JBbHlFN3lYVExR?oc=5",
+      "fecha": "2026-08-12T07:00+00:00",
+      "entradilla": ""
+    },
+    {
       "titulo": "300 personas con discapacidad viven el eclipse de forma inclusiva",
       "medio": "Noticias de Navarra",
       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdmZpUlpXeFhiTHh4SWlFQThNdjI4RjZTRS1CeDNfNVd2YnI4R0pqTk5LVFE2ekJDV0xiQ2tMYTVhbERGUkdtcDFsUHd3dzY4c0NWZTZaV3p6R1gxVnFtWkdVRndKLTNyQWJHZndFRUVnZkYtYndkYkptX3BFNDdnZTdKRW1ucmk0ZWpiMlNmMmFKeVF3ZElJUzhoN1pTcmhzWHNreHFnUUNFZ3PSAbABQVVfeXFMT01heWd4bldyQW9yN1F2ZEVWU05vQ1R2aGJWdVlTRHliRlY2SUx5OWtBWkxnRUxOMUYwOTJQVV9OVEYtbjRsMVlqRFY2WV81ak1VaDlnM3lKZHRfZEFpeU1HVW9RR0VxaHo5eTloTHNBODVxdG5vcWc1WUh5OVlBY05fVVpLc0RFZ08taTZuajFNU2U3VVRNUkVKUFhVcHpBMXRqd3BwWGhXQ0pObFFhSHU?oc=5",
@@ -2760,6 +2897,20 @@
       "medio": "El País",
       "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUEh6eXlOWGFQTTBmbGo2LV9iblpIcW5kZHdrMnpMT0hYNm1NdjY5NDRsdjJZbDNMYm9kdjlMRFlIb09ZVmFqM1p0eDVYTDAzTFRzU3hqWExBSVZ3V1JWVnZOSC1XN25reVFkTDh6bjB4ZEd3eUNZSjZEaUZLbEItNEVSWlNVMFU5YjVKSXVmX0ZUd3BzZmJVdlRJNXQ3aUU3ZDNqeXhncU9TY28xOVBJTFZYWXpUZWQ5cFpxWnhyWmc4ZlZCXy1iNWt0ZTF3eFFERzJv0gHnAUFVX3lxTE9TTXZSMkRvNk9pWW5RT0E4WVpBNXF4dUViNEE4M09YOW5uNjdReGktd2h0MXl2MjhfUjF2c2h3a1ZZU0ttRllqbV9vZGs0MXhJVG4yMVQ5ZlNqYkZySGRyMzdEcjJEVlNmaERrZXRMN3U1ZVJuTG45YlZMbm43LWFMUWtqSzBLc0xPak00Q3hXWGFudFZ3RUh0bWRReWVBbjZaVmoybDRhTDhOVXRUOXVxbV9zNDM1YzdZSlM5V2hmaVpIc3E4ZU5iRFFkOENxR0tKSFMwNDFiS1FrR0N1aEYtOGktZkdTbw?oc=5",
       "fecha": "2026-07-31T07:00+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Desesperante espera en Navarra para la valoración de la discapacidad",
+      "medio": "Diario de Navarra",
+      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRVZUMl9xa0FIdG5ob1B6RWphd25IOTZJUjg4cThSNmpobV8tQTdiTUp3MFhDSUpaaFBSNWZqWmZuejNoYnVwN1JhVFRwUXlhU2dtOHFCY2hxWC10bmxhR2dGeXpRLTF3QVpDWkJqMVdST19JR0VRTU45UC02ckdGS3lib3pxaURHbWY1bksycGJlUUJwWHg0cng5ZHhseTZPcjZkM1V6TERjTzBWUkxEamh0Y1R5RWxV?oc=5",
+      "fecha": "2026-07-30T07:00+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "El Gobierno amplía la jubilación anticipada por discapacidad con 11 nuevas enfermedades: a quién beneficia y qué requisitos exige",
+      "medio": "Diario de Sevilla",
+      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZXNzZS1IUG5NVHd3V3FtMVV4b3NJSVB1cjlDQ1A5THJUdGpsMHR6Wkh2U3FnVjJDUkpnSm1wcWhwczAtNjFkNEJObDFPT3h5Wkx4TmNGZ2VJU2JnYVk1OVRVeUlKeTZEdVh5SS16TzhPbDFRdW9CcHBkaXZ4VGVyTnZuOTZTY2UyQUVnenNQUW5rSU9BX3pzXzg2REp6YUZ1d2JoZG0xQVBQbDkzTFFmbDRrbC1yZldPc1RwWldRRUNMN0V2dml0NklwTnB0eG9GMU5VTFlB0gHbAUFVX3lxTFBkSUFBQ2FLc1RPcHY0ZDBla0RtQmFNR25JMU5tZVhJZERiWW13WndyT1ZvaE5YSTRBa3VQcFFLQXpfNXhwbFBHRjN1dTBRVXlycEM1aUxXdnAwR0I4TWJzVlNveHVxZVRLTU5LWEhINFFqNk1SRDJsY3o4UWZVNGFYTExPaHc3TW5BZDVTOUYzbk9GcE05MUVZeDQ5dWo1VHVVcVIyamNOWnJOVDlfVzliTEI0d3FPR2ZUMW0tbVBUOU1kNTNpRlpnal93eHN4TTE0bmJQa3dNRGxmdw?oc=5",
+      "fecha": "2026-07-29T07:00+00:00",
       "entradilla": ""
     },
     {
@@ -2924,16 +3075,16 @@
       "entradilla": ""
     },
     {
-      "titulo": "Inclusión personas con discapacidad",
-      "medio": "Defensor del Pueblo",
-      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFhybkR2Z2xleXpkSjgzU3RSTnJBNF8tekhKUTh6TW42QWpKZWh2WjQydjZGNEpEczR5cFBxRy1SSDlKRlAzbTM5Q3djVzcxbmR3NTZVRVJsSzh5Y2NkMEx3ejdkekVteXNQUVRVVzBNZEpDcVdpMm4tMUQ5MlJRRlRVUVVxQmpIeEVqWEtBNUY4a2s5SmNkSmxvYnlfYUU?oc=5",
+      "titulo": "Más de cien personas se suman en Pamplona a un proyecto que promueve la participación de personas con discapacidad",
+      "medio": "Navarra.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOalk5elA2cmJ3d1Q0c2YtcUgtRUZYMkRiaXJDa053dDVDd3BqTjhEUzN5ZXgzREd5S3R4N0IxRWVSVVVSMFBHTGIwSzNxZHJJdXg1aERnNjJhdTBQbkRDTnE3dTNXVTFLSEhuenJkdnBGWnFUNU0yQTRHeHY1OFZVRWd3T2h2aGxXcVdER3pJcldvbHJ2dmZ1UjNzUy1MRnpyYmpNVGhZR1JDWVVTNGRDdDVRdkRKekZGVHRjd05WR0hPQ2NURElGb2RuRDVoaXZCOFIzZnQ5eWFoeHVhV2xWSmdZZ1FhanQ2ZXZxWUVNWldQVjNDckVBSXdR0gH_AUFVX3lxTFB0UldnazJRcm9qQzhOZ3MwZFBWOTdNRHF1WGlHT0xNaEZOR0JRSFZZV0RLNTBHc2VYM0tOYVJvZ21PWlBSSHJ0R0NCX0ZKNjZzN0Z0dnZfekUwZlJVTGVDV0lNbGl6QlJaUXMybVo3dlVjOXhHbGFZX2VMcDJ1S0lHSVlNY2xxUUNtNXhOUWg3TllsTnlLQkNJeC1jdDFzaHZRS0Vqb01qWXhFcWRPbU40ajdQUmNGX0JSUDdPODk3NDRYQkx2bE1vZFc4c2JpTFdtTU1STXdvSmlwQkdMYl9PNnNWYzRIc1dGeDd0LWxWaUl2YUs2ZUEtR0xqVUxEUQ?oc=5",
       "fecha": "2026-06-11T07:00+00:00",
       "entradilla": ""
     },
     {
-      "titulo": "Más de cien personas se suman en Pamplona a un proyecto que promueve la participación de personas con discapacidad",
-      "medio": "Navarra.com",
-      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOalk5elA2cmJ3d1Q0c2YtcUgtRUZYMkRiaXJDa053dDVDd3BqTjhEUzN5ZXgzREd5S3R4N0IxRWVSVVVSMFBHTGIwSzNxZHJJdXg1aERnNjJhdTBQbkRDTnE3dTNXVTFLSEhuenJkdnBGWnFUNU0yQTRHeHY1OFZVRWd3T2h2aGxXcVdER3pJcldvbHJ2dmZ1UjNzUy1MRnpyYmpNVGhZR1JDWVVTNGRDdDVRdkRKekZGVHRjd05WR0hPQ2NURElGb2RuRDVoaXZCOFIzZnQ5eWFoeHVhV2xWSmdZZ1FhanQ2ZXZxWUVNWldQVjNDckVBSXdR0gH_AUFVX3lxTFB0UldnazJRcm9qQzhOZ3MwZFBWOTdNRHF1WGlHT0xNaEZOR0JRSFZZV0RLNTBHc2VYM0tOYVJvZ21PWlBSSHJ0R0NCX0ZKNjZzN0Z0dnZfekUwZlJVTGVDV0lNbGl6QlJaUXMybVo3dlVjOXhHbGFZX2VMcDJ1S0lHSVlNY2xxUUNtNXhOUWg3TllsTnlLQkNJeC1jdDFzaHZRS0Vqb01qWXhFcWRPbU40ajdQUmNGX0JSUDdPODk3NDRYQkx2bE1vZFc4c2JpTFdtTU1STXdvSmlwQkdMYl9PNnNWYzRIc1dGeDd0LWxWaUl2YUs2ZUEtR0xqVUxEUQ?oc=5",
+      "titulo": "Inclusión personas con discapacidad",
+      "medio": "Defensor del Pueblo",
+      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFhybkR2Z2xleXpkSjgzU3RSTnJBNF8tekhKUTh6TW42QWpKZWh2WjQydjZGNEpEczR5cFBxRy1SSDlKRlAzbTM5Q3djVzcxbmR3NTZVRVJsSzh5Y2NkMEx3ejdkekVteXNQUVRVVzBNZEpDcVdpMm4tMUQ5MlJRRlRVUVVxQmpIeEVqWEtBNUY4a2s5SmNkSmxvYnlfYUU?oc=5",
       "fecha": "2026-06-11T07:00+00:00",
       "entradilla": ""
     },
@@ -2973,16 +3124,16 @@
       "entradilla": ""
     },
     {
-      "titulo": "Personas con discapacidad lideran en Pamplona una jornada por un mundo más justo y sostenible",
+      "titulo": "El estudio de la Universidad de Navarra que quiere cambiar la forma de entender el liderazgo en la discapacidad intelectual",
       "medio": "Navarra.com",
-      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLWJOaTVkbzhSY1ZWQ3JEMVhoQ2hvNkpadS1wU3BBR25CaHpodlFkLTFwSU5ObTVZb2UwZ2xCNkNkM291VzdNS3FwaTFZOXB1dWVBN2dGRUZRTld2T2RSaWJlR0paRmNwVHlrX202eHV5SUJia2VIRTVLTXN3VkxFY3VjZ0JYeDlseUp2eEpLY2VkV3FuTVFLclVtbGtCUWxiUjlxRUZHNFNDR1Z3RTUwRzJCS1hHYjNTYVdUemJiNTl5aVZ0Zy1SamhSR0JabF9pSmJ2RlpSTXhEN3M1WkHSAeMBQVVfeXFMUDJBNG1PTDNwZE5oRVFCUmZJVk5hTE9lTnJJcnJfQUtxM3BTNWNjQUlMRU5PckN5VkhaUGhLQ0p2b09ha2ljMmhHRWFtQTBhVVc3QkhHMGVoRnNCZUN2WTZjRFJKVkYxRWVSX0VLOFBmZTZfU0hDVk02ak4zZk1kMXRJRTBob3dxQktGME1HOE44dWZiRTB3UGhpcUJ5eFg0WlBWQ3JwallwNHZNN1NrZEVVOUI1eVBTeFRBN1J2YXF5NkFEQ0hGd0RGVGhVTG5jZ0c3NkNPcHB1RkZISW5aTFZZTUU?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZEVkbUFpdmRGMl96YUpNa0N1WldDaERvZENPdHBSeWwydGNRRGp0YXJvb0hHME9saDBQVzBfZHBId2VWZlpHaEFEVENudVdLaERQWlk0N2JISjB3dFZxREN2bllQcERheHpFWWlkOVhFVlRBc3hNVVp0Rld3bGktMGtjUTNxZFZZYnhJQjlpT3Zoa1F0bkRmM0k3a3hNelRzM3lFVjFvM3V5dG5RaGp1VXhiU1g0MG5GS1Jnc1FmWFNCdWZrX2JxeUcxSlJTdm4zYVVnWmRFLTRQcVRRSUFiRGpMaUlDNXRDMFkxUNIB8gFBVV95cUxQUmFpWlBrNnV5ZHhQSkFIc1VOUnVBQkRncW1PNk5LQ1lFNGhqaXdIc3dkNkpVSGlTRG9hOVBiX3UyUkFRT3cyd3dybDkwajVGbzBFN0IwQUZZSGh4UVREeHRVRXJXR1lUZ3k3b1ZfYnVBbmlXLVhmQU5VT1dTeFdRMllURWlQUTRrYWExdk9Nd0VCRlQ5UkNIN2U5djVsek9YQWd6ZHBYQ0ZwQWJVUC1NRGJjQ0NOU2Iwckh2cXFCaF9HLXg3UHQzcHVPQmVCVjZ2dGhQcnZZZ3d1Q19BZGliazg2RDBocENEcHA1LWFjZVo1QQ?oc=5",
       "fecha": "2026-06-05T07:00+00:00",
       "entradilla": ""
     },
     {
-      "titulo": "El estudio de la Universidad de Navarra que quiere cambiar la forma de entender el liderazgo en la discapacidad intelectual",
+      "titulo": "Personas con discapacidad lideran en Pamplona una jornada por un mundo más justo y sostenible",
       "medio": "Navarra.com",
-      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZEVkbUFpdmRGMl96YUpNa0N1WldDaERvZENPdHBSeWwydGNRRGp0YXJvb0hHME9saDBQVzBfZHBId2VWZlpHaEFEVENudVdLaERQWlk0N2JISjB3dFZxREN2bllQcERheHpFWWlkOVhFVlRBc3hNVVp0Rld3bGktMGtjUTNxZFZZYnhJQjlpT3Zoa1F0bkRmM0k3a3hNelRzM3lFVjFvM3V5dG5RaGp1VXhiU1g0MG5GS1Jnc1FmWFNCdWZrX2JxeUcxSlJTdm4zYVVnWmRFLTRQcVRRSUFiRGpMaUlDNXRDMFkxUNIB8gFBVV95cUxQUmFpWlBrNnV5ZHhQSkFIc1VOUnVBQkRncW1PNk5LQ1lFNGhqaXdIc3dkNkpVSGlTRG9hOVBiX3UyUkFRT3cyd3dybDkwajVGbzBFN0IwQUZZSGh4UVREeHRVRXJXR1lUZ3k3b1ZfYnVBbmlXLVhmQU5VT1dTeFdRMllURWlQUTRrYWExdk9Nd0VCRlQ5UkNIN2U5djVsek9YQWd6ZHBYQ0ZwQWJVUC1NRGJjQ0NOU2Iwckh2cXFCaF9HLXg3UHQzcHVPQmVCVjZ2dGhQcnZZZ3d1Q19BZGliazg2RDBocENEcHA1LWFjZVo1QQ?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLWJOaTVkbzhSY1ZWQ3JEMVhoQ2hvNkpadS1wU3BBR25CaHpodlFkLTFwSU5ObTVZb2UwZ2xCNkNkM291VzdNS3FwaTFZOXB1dWVBN2dGRUZRTld2T2RSaWJlR0paRmNwVHlrX202eHV5SUJia2VIRTVLTXN3VkxFY3VjZ0JYeDlseUp2eEpLY2VkV3FuTVFLclVtbGtCUWxiUjlxRUZHNFNDR1Z3RTUwRzJCS1hHYjNTYVdUemJiNTl5aVZ0Zy1SamhSR0JabF9pSmJ2RlpSTXhEN3M1WkHSAeMBQVVfeXFMUDJBNG1PTDNwZE5oRVFCUmZJVk5hTE9lTnJJcnJfQUtxM3BTNWNjQUlMRU5PckN5VkhaUGhLQ0p2b09ha2ljMmhHRWFtQTBhVVc3QkhHMGVoRnNCZUN2WTZjRFJKVkYxRWVSX0VLOFBmZTZfU0hDVk02ak4zZk1kMXRJRTBob3dxQktGME1HOE44dWZiRTB3UGhpcUJ5eFg0WlBWQ3JwallwNHZNN1NrZEVVOUI1eVBTeFRBN1J2YXF5NkFEQ0hGd0RGVGhVTG5jZ0c3NkNPcHB1RkZISW5aTFZZTUU?oc=5",
       "fecha": "2026-06-05T07:00+00:00",
       "entradilla": ""
     },
@@ -3005,6 +3156,13 @@
       "medio": "El Periódico Extremadura",
       "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRXhDRGVIcnJpR1F4NlVBRl8tQ1hzRVNQSTlOdV9UUnlybWpLLUVCdnZwdlNuZTdna3lPTE1YeERmbHBGOVlVQ1FvUG5DNlN2RHlSbmN3Wjl1cXNEVjgySmRENVVQWW5CS0t4QTY3S2IzSXpPcTFhQ2FFMkpXOHpTdlFDdmhBVkhVWDZ5eG90ZUFaUS1ROTVoUWZVLUF6TTB1RXAyLThqVkVheVJ2dVdqbUNWMDJWN1FXb3pxOXQ1dXgzdWRqWmJPZ2p1VFByeHd4MFhER005SXBsTHM10gHiAUFVX3lxTE5LQUwxX0FBX094TUxiYVRoamVyZGxSV1FtYTAxTl9iZWhQS3E2XzJadmU0QjZNaEZuZTMzSV91ZHlyZ0w2dUppbHItNFlHYXV4NWNGOTBDaURnMDZVeHdPeWxWMURRNnA3MFczSWc1eFFQT0dWTVlCZGVyZGVGVE94TGE2d1k2VThSNlRNa2hqV0VlWFZMN3VtQnprQmhFajJxcTZVUThaNWdkaGVaU21pUzYyT1JLcklxTXZ4OTBhMjcxTUNTcE9EbzNXRXljajgwUXowOUw3X0NOYWltVGdfbUE?oc=5",
       "fecha": "2026-06-01T07:00+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Sacarse el carné de conducir con discapacidad en la única autoescuela adaptada de Valladolid: «Ahora soy independiente",
+      "medio": "El Norte de Castilla",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQURGQU9GRjY5Qm95aFdrX29LTzJ6cnRmQVJNanNtZS1Qak5VbTE0c0JmZGlpczVoX1BKX25sWVlzVlhtclRmLXFwNXF2cmZQN3ZVSG94QV94Sk8ybWsxUXVfd1Zpa2VVV0J5NmhNVXhiN2pvY25pbUM4RV95aXRqM0ttRDdFdXozWlVzTUppNFhIbzROY1RVTk04NW5TVTRQanRwX0tTZExESGhWUF9jNlkwa2ZmbjhNRVVjRV9JMlI2andtRVZ0dQ?oc=5",
+      "fecha": "2026-05-31T07:00+00:00",
       "entradilla": ""
     },
     {
@@ -3148,6 +3306,13 @@
       "entradilla": ""
     },
     {
+      "titulo": "La herramienta que impulsa Isterria en Navarra para personalizar la atención a pacientes con discapacidad intelectual",
+      "medio": "Navarra.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNX2lBekM2RnQ1b3ZiXzU0aUVLMS03OHN2VkNHUUlGUjNreUlFbVlrUnFBMk82ajBIRnBuLWJteXhKZ093U2ZHUl9CeWlzQzN1YkJQR2JIYkN3NThmNGRCODd6SzZHRlBnWkE0Z1VKaW1lWkhPLV90emp3THZjMVdrS2xyVG9fZUdJVnB5WDFFRDJLZUpDbGNUQWg2dTBobENKejM2SGRNV2ZmTWhQQkVHQnEyN3NDUjV3LXFEOTJIX0J4YUhJc0hISXNHajNCQ2o5aThNeUxndmYxVHV2a1VZbThtSWJ6Q1hfU1U4cm1Zc0xjd9IB9wFBVV95cUxQUEotS0lSUkNDZnMwMXlKaHpTVExVOGRnaUVuamN2TWFpNU9QNUhFcmtTTHhHalNjNWM5amhWS1BsUVlNZm00TTByUkN6VmFmM2tUNm5vUXRGN0V0R3J2a3RQQzdZY2tvZThmN1ZaWWRXUEtUYmRtNWxKTUhsNFdFSnp6SzUxR3lBSGNyOU1NUUZBOERKd2FKVmFJWFBLRFJhV1BkV2FhQkx2dmc0VG9VcFFETFJVekdrNDVWUl9NMUhkdjJ2UDJFWENpVFBfZ1FnUGJZbEFIWVM3V0dwMzF1S3FVMGFGSEwxOE9KLWRzQkh2OGxmT0Nr?oc=5",
+      "fecha": "2026-04-04T07:00+00:00",
+      "entradilla": ""
+    },
+    {
       "titulo": "Extremadura destina más de 10,2 millones de euros en 2026 a servicios para personas con discapacidad",
       "medio": "El Periódico Extremadura",
       "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbks2VWdYZU5pMXNnQ1pDcWhLeUY5NU9acF9hRTBsX1lEUEszY3dEVEN0dWdYdS1FOUUwc2ZsUTNHdlRKWjRVcXZQa3h6d2NSWkkwSHdORjR0NVAwbUpfS3pVVzNobmFUVHRjU01pNF9MeDJpRGxYOEV3cjF6OGVEVk5IOUU0NzA3TU00eUQ5dU1LQXgyNFhRQmpsQXktelplUFR2U2ZESXpRc1cxMlJiMHBtV2tCeEdKcjNKdjFsLUJLQlRpeC1hTEp1MVc5cDRkOGFCRjRWMFlYcmstUjhybNIB5gFBVV95cUxNdHZFSkE2czllZ0o0TFVDZHM3VlF1dE5JNUxVbnh0RFZxblYtbEIwb2U2akUyUTZoR3FSdktaRTZNcDNSSDR0ZC1naUQwU09XRUtuOFRnX2ZXdGJxQTY1WDlVdGVhU0ZlbHBDLTNmX3dYRm1VS1lvenpYWW5KTy1icXcySEszdTRQcEI1WG1kdVZoVjFYekFrTkQ1bnJUTmtEV3h0NVpsZ3I1czh6ZkZ1ZDlOWU5GcnJIOHcwdmNmaG9UZ3ByMFk0TWpmX0V4RUVhaXVCbDZPM3h3ZG4wajZhZV9ZQVZkdw?oc=5",
@@ -3190,6 +3355,20 @@
       "entradilla": ""
     },
     {
+      "titulo": "Vanesa San Juan, solicitante de discapacidad: \"Siento impotencia y rabia; pedimos la valoración en 2024\"",
+      "medio": "Diario de Navarra",
+      "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNX0ttLUhqd0F6Q0FqNHptMkpLbkE3ajlvVzNsTjdnQzVuOVRxTHNqaV83ZzgtaXhHb3V1dF96T09GZzFRMUhqbElCckJjdDRZb2FrTXpfemtBTTNuUzIxM1FaUF9HcWpqcW5RSmtoUEZXYmlCMmJXX0U0NFZXQkZQQW1FQzExRjdwTm1DMjR0a0VGTHEtYjFFeVR4ODZzT1RPbjVTMXZNOXo4UFJJTExXM001RXFRYXp6Wk00QW0xZEFSUFc4YlZzODhIcDl5TGxGRXhjSmpEUW5RMjk2ZFVWRk16ZUhMVE5VQ0lxTzFTNExZdVE?oc=5",
+      "fecha": "2026-03-15T07:00+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "María Oca 'Oki', ejemplo a seguir para las mujeres con discapacidad intelectual",
+      "medio": "El Diario Vasco",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRTBNVDRFUkc4NEFabDd4QUx6bEU2N29XSF9pcjRzMmVhaElFTVltQl9rRnpDVjBuRHFQNzVDYXJ6b2NWbnhVdXl2RUF1OWM1Z0dDaG9idlFXNGZjVGJVNkFReEtEaGJWbVVEczdaRnpOenJ6S2RPSzhTeTN0YmZNNlAwc1BvQVMxQ3lrZGJPTDh3MjdLY2V3OF9oZlQ5RkVVUjRQVUNqblluNDNaQVZOVE5PbUlld29JTUJmedIBwgFBVV95cUxNc1dyTlVMWjdiVzNXSm9MVlFYMlZXaDJGVF9odjQ3VW5NSWJjUjFhV0ZmaEdPZmpOcTV5RzRONVBEXzJreGFYYjdiZ3VvQTFnUC1qRW9kcXgxcWJJUGNhc09yQm1rUG9tSF9FNUtnb09EM29aVGR1UDR2amJ4NVE2YnJ0aXpZR3NxRU9DTE83VnRHWWtMRThTOXUtWlU4NFRIRk1LZkU0dHdMeFFMZ2lfdmI3alZQRnduVEthNlhCYmF3UQ?oc=5",
+      "fecha": "2026-03-12T07:00+00:00",
+      "entradilla": ""
+    },
+    {
       "titulo": "Las universidades catalanas, cada vez más accesibles para todos",
       "medio": "Diari ARA",
       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSkt6NUgyTEhtSVc2NGpReHNjWU92bHBRTjBYY0hxSkZyV3pvNUJPTjFhQ19GYkw5U1dwS2hnX2Y0WmdrZ0J6bzR5d19ObjFUbkhEVTRmWVJDSTV3RTJoMkh2aE40MGxvVkdvbDFsTlNKNExsMmVVOGtOTi1XVWVpQ1FEMng1YjN2U2Iw?oc=5",
@@ -3200,6 +3379,13 @@
       "titulo": "La feminización de los cuidados en cifras: las mujeres son el 83% de quienes apoyan a las personas con discapacidad intelectual y del desarrollo en las familias",
       "medio": "Plena inclusión",
       "enlace": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPaG41RW4weko2aHVUMFkzTV93RkxvUkZacXFkZUZkRmFrU1UzM1NlSFZ6SDJzVmdQaEw4NE9BWE1GakdmV0VpN3p4bURDTllXcEl4RkI4ckIyQlNGNUwwSTQxVGxOWHRBc2VkYkFrcUtla2ZRM0lJRTJaVldacXZyYzllYlh3SHhrYTVQeWl0MTVFelVrdGNfZ2ZWbTZKblptMTl6X0R2NXJXc3JQN1NBTmZINFpNTFZCbndEQkFoeUhUUGNodHh4bHlpRkx5ajRWVGVPUWFibmx5c0NGeGpvMldiSGtBUG95bzBBYnZmVFFvVW5JNFMtNFZ1TWZ0Ynd4NnRDQ2pULUhiMGdMV0RPU1lJOFlVV253enZKVXJKdzVRTDh5cFE?oc=5",
+      "fecha": "2026-03-05T08:00+00:00",
+      "entradilla": ""
+    },
+    {
+      "titulo": "Inserta Empleo apoya a jóvenes con discapacidad para encontrar trabajo, formarse y emprender en Pamplona",
+      "medio": "Diario de Navarra",
+      "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZEs2VlM1LXV1VWpTMFlqOHQ0RzFWRk4xa0ktYTc1M216S1NucUpPX1BJT29adU92akhCanlfc3BJNUxaOG5XNGtOUENxRGQ4aU5lTlV4eEJaSlFWR1FLYmhsaWFGcUtHanpYcEJCVzdkOEZIUkEzYk9CYzVYLWZNWDVRelBma3Q4OEszZVRtcHVpaEVPZms4R3hRRjdsWGFsLTZ1MXNRdEVoSWhOQ3BSM28ycXRBb2pNQXMtWTc1Zy1Ia2VvWUl4YUpyU3NBaE1YQjVDblRZbExfbjkwLXdwWWtKTjBlRm83TGpUMFNObnlqOEk?oc=5",
       "fecha": "2026-03-05T08:00+00:00",
       "entradilla": ""
     },
@@ -3400,6 +3586,13 @@
       "entradilla": ""
     },
     {
+      "titulo": "Juegos para regalar a personas ciegas o con discapacidad visual",
+      "medio": "ONCE",
+      "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcVdHSFRUZnpmNy1aazMtUnFaUmFBalZabmx6RWt0eWtWRTBuR3JzemJoQWRoTmY5REVUZm9IeFNDa0VDRElyVGlxcGg5bVBUVURxNC1EREE3ZWdFelMtOFljMXJ0VW01SWpCQks5bkQtLWZQUDQ3SVpVWVN6NGtFTE4tdk5hbVZ2NEtnTFJmMTN2NUxmSFBv?oc=5",
+      "fecha": "2025-12-18T08:00+00:00",
+      "entradilla": ""
+    },
+    {
       "titulo": "Apostando por la inclusión real: itinerarios laborales para personas con discapacidad intelectual en La Palma",
       "medio": "Cruz Roja",
       "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ3RyUnR4OXhyXzRZQzg4OFdFSGY2bzRCclZ5UDUyTVVfYWRNQlNsZlJORndrck4xYThSTUcybWlFYTQzSWxtQzMwRHRmN2Q0RDFyaXJWbnZMdTlKbGlFVTlJYTg4Uk9hQ2M5a3NRXzFvVjkwYUhHN3oyWFl3RGdwa0J3OGdaSG1yUFYybS1IVEV6T21lUXZLNGVfSDBXVDRXM2Q2cmM2X1ZCdGdIZ3lfYmlaeGYzaHU1R010c0I4cjFfTndKM1JvSVd5d19CRHc2U2lJTXRlTQ?oc=5",
@@ -3442,16 +3635,16 @@
       "entradilla": ""
     },
     {
-      "titulo": "Más de 100 hermanos de personas con discapacidad intelectual debaten sobre el reto del relevo generacional en las familias",
-      "medio": "Plena inclusión",
-      "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaWppX0swSkJndjNDc0l3emw5MXQtdUpPRmoyazZqVkhvbHp5dzNXbWFiNGhfMkMtUHVEdUpHcjV3WlN6bTFmTmFrcWloSGZYUmlDSVVjT1dBTHJUVDIxal9NZmZrM1JuaWE4SC10bGtPTHFYeVpldnV2bkZ4VjFRRFdBb20yWkl4eDBnVjcxcWpzUlhPTk8tbHkwdTE3Vy1iZTR0NUtuSURpdS1rMTVwbGdSTXRoWlpsV3Brd3M0WEs5eTlCTWtkWDd5ZWRwZExRNngtVzZFSzRvdFhCelVfMTAxVllMR2lhdUpWX3JnV2Fla0ZDcmc?oc=5",
+      "titulo": "Ni disminuidos ni campeones: todo lo que seguimos haciendo mal con las personas con discapacidad",
+      "medio": "El País",
+      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRzRBSmY5NVExcWNxeUVFd1ZPN0w0b2E2ZE42SEFwdGR5aWZRN1BSelFZWG84NnFSTk01STlRay1iTFA3cktLUF9IV2M2ZUR3TGVDc1FIVmpMVmhSM1FmeVh2el9KS1g2c2c5anVaa3hsd1F0Q3NNMEo2bl9xdnEzNHotTzFWX05Qa3plZFVVMENBUFhFaHlNZWFFN1lPT1NVUEtrWWVWWnV5aDdyc0xvcjF3MUN0NzN5dExERGFFdzhoS2dldUUzTXU4WVhmeXB0cUFF0gHnAUFVX3lxTE16X1I5V2poNzIwRWtmeTg5Z0JzWXljbFpLRGdSVjdfWTdScGVnNkRjalF3RE53Y0hITkxUSkRKWWJfUkJKampNbDZjUnJ1cGpiTkZ4MVQyWEtnVFJjTXJvNzBGVndKWHVDTms1V0c0TGVyM0ZDdVk1aFJON2Q2NWFZaTFoTnNwNkR6ZXBZLXFfQ1RxSGI0SGliLWRiVktxeGJPRG0xZnpsd1RkWUM0ZzdPU0ZpM3JnNUxPWG9EQm1QTVE0WnNpR2NqSzItc3o3N1VtOFVtUUtRbzNrSlhGTWJqcDRKX1ZjTQ?oc=5",
       "fecha": "2025-12-02T08:00+00:00",
       "entradilla": ""
     },
     {
-      "titulo": "Ni disminuidos ni campeones: todo lo que seguimos haciendo mal con las personas con discapacidad",
-      "medio": "El País",
-      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRzRBSmY5NVExcWNxeUVFd1ZPN0w0b2E2ZE42SEFwdGR5aWZRN1BSelFZWG84NnFSTk01STlRay1iTFA3cktLUF9IV2M2ZUR3TGVDc1FIVmpMVmhSM1FmeVh2el9KS1g2c2c5anVaa3hsd1F0Q3NNMEo2bl9xdnEzNHotTzFWX05Qa3plZFVVMENBUFhFaHlNZWFFN1lPT1NVUEtrWWVWWnV5aDdyc0xvcjF3MUN0NzN5dExERGFFdzhoS2dldUUzTXU4WVhmeXB0cUFF0gHnAUFVX3lxTE16X1I5V2poNzIwRWtmeTg5Z0JzWXljbFpLRGdSVjdfWTdScGVnNkRjalF3RE53Y0hITkxUSkRKWWJfUkJKampNbDZjUnJ1cGpiTkZ4MVQyWEtnVFJjTXJvNzBGVndKWHVDTms1V0c0TGVyM0ZDdVk1aFJON2Q2NWFZaTFoTnNwNkR6ZXBZLXFfQ1RxSGI0SGliLWRiVktxeGJPRG0xZnpsd1RkWUM0ZzdPU0ZpM3JnNUxPWG9EQm1QTVE0WnNpR2NqSzItc3o3N1VtOFVtUUtRbzNrSlhGTWJqcDRKX1ZjTQ?oc=5",
+      "titulo": "Más de 100 hermanos de personas con discapacidad intelectual debaten sobre el reto del relevo generacional en las familias",
+      "medio": "Plena inclusión",
+      "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaWppX0swSkJndjNDc0l3emw5MXQtdUpPRmoyazZqVkhvbHp5dzNXbWFiNGhfMkMtUHVEdUpHcjV3WlN6bTFmTmFrcWloSGZYUmlDSVVjT1dBTHJUVDIxal9NZmZrM1JuaWE4SC10bGtPTHFYeVpldnV2bkZ4VjFRRFdBb20yWkl4eDBnVjcxcWpzUlhPTk8tbHkwdTE3Vy1iZTR0NUtuSURpdS1rMTVwbGdSTXRoWlpsV3Brd3M0WEs5eTlCTWtkWDd5ZWRwZExRNngtVzZFSzRvdFhCelVfMTAxVllMR2lhdUpWX3JnV2Fla0ZDcmc?oc=5",
       "fecha": "2025-12-02T08:00+00:00",
       "entradilla": ""
     },

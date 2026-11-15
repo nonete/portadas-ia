@@ -1,39 +1,39 @@
 {
   "pais": "Italia",
-  "fecha": "2026-11-14",
-  "turno": 18,
-  "generado": "14/11/2026 21:26",
+  "fecha": "2026-11-15",
+  "turno": 8,
+  "generado": "15/11/2026 14:28",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "Se repiten la guerra en Ucrania y la propuesta estadounidense sobre el Donbás, así como el debate sobre la participación alemana en el proyecto europeo de caza GCAP. También aparecen las manifestaciones enfrentadas en Parma, los mensajes de bots dirigidos a políticos y la multa a Meta. Solo Corriere della Sera destaca la investigación sobre Giovanni Toti y los encuentros con el empresario Spinelli.",
+    "temas": "El asunto más repetido es la relación entre Rusia y Europa, con referencias a la guerra en Ucrania y a las amenazas del Kremlin. También aparecen disputas políticas italianas, el Superbonus, la clasificación de calidad de vida, el tenis y un incidente en un vuelo entre Islandia y Milán. Solo Corriere della Sera destaca los encuentros entre Giovanni Toti y el empresario Spinelli, y las acusaciones sobre los datos de la pandemia en Liguria.",
     "crispacion": 68,
-    "motivo_crispacion": "La tensión es alta por la guerra en Ucrania y las discrepancias sobre posibles condiciones para ponerle fin. En Italia, las manifestaciones enfrentadas en Parma, las acusaciones relacionadas con los bots políticos y la polémica sobre el fascismo reflejan polarización social y partidista. También generan fricción las diferencias dentro de la mayoría sobre el Superbonus y las sospechas en torno al gobierno de Liguria. Las informaciones deportivas, tecnológicas y de consumo aportan asuntos más tranquilos que compensan parcialmente ese clima."
+    "motivo_crispacion": "La tensión es elevada por las amenazas atribuidas al Kremlin hacia Europa y las noticias sobre la guerra en Ucrania. En Italia, el Superbonus enfrenta a partidos de la mayoría, mientras otras portadas recogen acusaciones y polémicas políticas, incluidas las relacionadas con Liguria. También aparecen denuncias de presuntas irregularidades electorales en Campania y disputas dentro de partidos. Las noticias sobre tenis, calidad de vida y consejos de ahorro ofrecen un contrapunto más tranquilo."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Hoy leo las noticias desde la lucha de clases. En Prato, la denuncia de un obrero ha sacado a la luz jornadas de doce horas, sin descanso ni vacaciones. No es una anomalía que pueda despacharse con indignación: cuando el beneficio manda sobre el trabajo, la explotación encuentra terreno fértil. Hacen falta sindicatos fuertes, inspecciones y poder efectivo para quienes producen la riqueza.\n\nMientras se discuten miles de millones para un nuevo caza europeo, yo defendería invertir en sanidad, educación e infraestructuras públicas. Y frente a la sanción a Meta por el uso de fotos y vídeos sin consentimiento, no basta con multar: necesitamos control democrático y propiedad colectiva de las plataformas esenciales. En Parma, quienes se manifestaron contra la extrema derecha recuerdan que la solidaridad entre trabajadores no puede detenerse ante ninguna frontera."
+      "texto": "Me preocupa una Italia en la que Bolzano encabeza la calidad de vida y Taranto queda última. La brecha entre norte y sur no se corrige pidiendo a cada familia que invierta mejor sus ahorros: exige empleo digno y servicios públicos capaces de garantizar derechos allí donde el mercado ofrece menos rentabilidad.\n\nTambién leo que seis de cada diez oncólogos sufren frecuentemente agotamiento profesional. Defender la sanidad pública significa cuidar a quienes la sostienen, con personal suficiente y apoyo efectivo. No acepto que la salud dependa de la resistencia individual de los trabajadores.\n\nFrente a la llamada de Confindustria para que la política escuche a los empresarios, yo reclamo que escuche primero a la clase trabajadora. Necesitamos propiedad colectiva y control democrático de los sectores estratégicos, para orientar la riqueza hacia las necesidades comunes y no hacia el beneficio del gran capital."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "Veo en las noticias de Prato algo más que un caso de explotación: jornadas de doce horas, sin descanso ni vacaciones, muestran lo que ocurre cuando quienes trabajan carecen de poder frente a quienes mandan. No basta con esperar que el Estado castigue después; necesitamos organización autónoma, sindicatos independientes y apoyo mutuo para que nadie tenga que afrontar esas condiciones en soledad.\n\nEn Parma, miles de personas han salido a rechazar la remigración. Ahí reconozco una fuerza distinta: la libertad colectiva ejercida en la calle frente a un proyecto de exclusión. No confío en que los partidos la defiendan por nosotros. Una sociedad libre se construye desde abajo, con comunidades capaces de decidir, acogerse y cuidarse sin delegar su destino en jerarquías políticas o económicas."
+      "texto": "Veo en la distancia entre Bolzano y Taranto algo más que una clasificación: la libertad vale poco cuando las condiciones para ejercerla dependen de dónde se vive. No espero que los partidos resuelvan esa desigualdad desde arriba. Prefiero comunidades que decidan directamente sobre sus necesidades, compartan recursos y construyan redes de apoyo mutuo sin someterse a jerarquías.\n\nLa expulsión de un joven nacido en Italia tras una agresión me recuerda también el poder arbitrario de las fronteras. La agresión debe afrontarse sin excusas, pero responder con la expulsión convierte el derecho a permanecer en una concesión estatal. Quiero una justicia que repare el daño sin separar a las personas entre quienes pertenecen y quienes pueden ser expulsados. La libertad individual y la colectiva se defienden juntas, o quedan a merced del poder."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "Veo en el debate sobre el impuesto a las bebidas y los beneficios fiscales para muebles una misma tentación: que el Estado decida qué debemos consumir y qué sectores merecen apoyo. Prefiero impuestos bajos y reglas generales. Así, las familias conservan más de lo que ganan y las empresas compiten por satisfacerlas, no por conseguir privilegios.\n\nTambién celebro que se discuta aliviar la carga de los autónomos: quien arriesga su propio dinero debería poder recoger los frutos de su esfuerzo. Pero la libertad exige responsabilidad. Acumular deuda sin atender a quién la pagará traslada las decisiones de hoy a los contribuyentes de mañana. Quiero un Estado limitado, capaz de cumplir sus funciones sin gastar como si los recursos fueran inagotables."
+      "texto": "El debate sobre el Superbonus y el impuesto a las bebidas revela un problema recurrente: la política promete beneficios, cambia las reglas y después busca nuevas fuentes de ingresos. Yo prefiero impuestos bajos y estables, que permitan a familias y empresas planificar sin depender de favores ni temer cambios retroactivos.\n\nTambién me preocupa la deuda acumulada sin pensar en quién la pagará. Gastar hoy no es gratis: trasladar la factura a las generaciones futuras no es solidaridad, sino una forma de eludir responsabilidades. Un Estado limitado debería concentrarse en sus funciones esenciales, rendir cuentas y dejar más espacio a la iniciativa privada. La libertad económica no elimina la responsabilidad personal; la exige. Ahorrar, invertir y asumir las consecuencias de nuestras decisiones son parte de una sociedad de ciudadanos autónomos, no de súbditos pendientes de la próxima subvención."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Veo en las marchas de Parma algo más que una disputa de cifras. La inmigración no es un destino inevitable: Italia tiene derecho a decidir quién entra, quién permanece y bajo qué condiciones. Defiendo fronteras estrictas, expulsiones efectivas de quienes no tengan derecho a quedarse y una integración que exija respetar nuestras leyes y tradiciones. No aceptaré que las élites mediáticas conviertan esa posición en un tabú.\n\nLa soberanía también exige seguridad y un Estado digno de confianza. Las sospechas sobre los datos de la pandemia en Liguria deben esclarecerse sin prejuicios ni impunidad: si el poder manipula información, traiciona a los ciudadanos. Y la cooperación en el futuro caza europeo solo tendrá sentido si protege la capacidad industrial y la libertad de decisión italianas. Primero, los intereses de Italia."
+      "texto": "La amenaza del Kremlin y la perspectiva de una nueva Yalta me recuerdan que la soberanía no se mendiga: se defiende con instituciones fuertes y una política exterior que anteponga los intereses de Italia. No quiero que nuestro futuro se decida en una mesa de grandes potencias, ni que las élites presenten la dependencia como si fuera prudencia.\n\nLa agresión a un rabino exige justicia y protección efectiva para nuestras comunidades. Defiendo un control estricto de la inmigración y expulsiones conforme a la ley cuando procedan: nacer o vivir aquí no puede convertirse en un argumento para eludir las consecuencias de los propios actos. Al mismo tiempo, el abismo entre Bolzano y Tarento revela una nación demasiado desigual. Antes de repartir favores y acumular deuda, la política debería proteger a las familias, la seguridad y las tradiciones que nos mantienen unidos."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Veo en las noticias una prueba de que la moderación no es indiferencia. La propuesta que, según Zelenski, Estados Unidos hizo a Ucrania sobre el Donbás y la OTAN merece un debate honesto, pero ninguna paz será legítima si se impone a los ucranianos. Apoyo la negociación y la seguridad europea, sin confundir el deseo de un acuerdo con la obligación de aceptar cualquier acuerdo.\n\nEn Parma, la movilización contra la remigración muestra el valor de una sociedad civil activa. Yo defiendo el derecho a manifestarse y también rechazo las propuestas que convierten a colectivos enteros en un problema. La convivencia exige instituciones firmes y normas iguales para todos. En economía, revisaría los incentivos a muebles y electrodomésticos si favorecen sobre todo a rentas medias y altas: el mercado necesita reglas estables, y el gasto público debe llegar a quienes más lo necesitan."
+      "texto": "Me inquieta que la brecha de calidad de vida entre el norte y el sur siga siendo tan marcada. No se cerrará con promesas ni con deuda acumulada sin pensar en quién la pagará. Yo apostaría por inversiones evaluables en servicios, formación e infraestructuras, y por crear condiciones para que las empresas generen empleo. Mercado y protección social no son enemigos: necesitan instituciones eficaces y cuentas sostenibles.\n\nTambién creo que las noticias sobre Liguria exigen transparencia y una investigación rigurosa, sin sustituir a los jueces ni prejuzgar responsabilidades. Defender las instituciones implica pedirles explicaciones, no blindarlas frente al escrutinio.\n\nEn Europa, las amenazas del Kremlin refuerzan mi convicción de que debemos apoyar a Ucrania y mantener una posición común. La diplomacia es indispensable, pero una paz duradera no puede construirse aceptando que la fuerza decida el destino de otros países."
     }
   ],
   "periodicos": [
@@ -103,10 +103,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- La portada cuestiona que los cambios en el código de circulación reduzcan las víctimas.\n- Varias noticias abordan encuentros en un yate y presuntas irregularidades en Liguria, incluida la manipulación de datos de la pandemia; el alcalde de Génova pide explicaciones y niega acusaciones.\n- Fedez ha sido denunciado en el caso Iovino y niega haber estado presente; Camila Giorgi afronta actuaciones fiscales.\n- Se destaca el desacuerdo en la mayoría gubernamental sobre el Superbonus y la tasa a las bebidas, junto a críticas al endeudamiento y consejos de ahorro.\n- Las tropas rusas avanzan hacia Járkov; Zelenski reconoce que la situación es muy difícil.",
-        "populismo": 28,
-        "motivo_populismo": "Predomina la información, pero expresiones como «estalla el caso», «ataque» o «juego de masacre» enfatizan el conflicto y dramatizan algunos asuntos.",
-        "sesgo": "La selección prioriza investigaciones y controversias que afectan a responsables públicos, con atención a sus declaraciones y defensas. También muestra un enfoque crítico hacia la reforma vial y el endeudamiento, sin que se desprenda una orientación partidista clara."
+        "resumen": "- La portada aborda los cambios en el código de circulación y cuestiona que reduzcan las víctimas.\n- Varias noticias se centran en Liguria: encuentros de Toti con Spinelli, imágenes del yate, declaraciones del alcalde de Génova y presunta manipulación de datos de la pandemia.\n- Se informa de la denuncia contra Fedez y de una actuación fiscal sobre ingresos de Camila Giorgi.\n- Se destacan las tensiones en la mayoría de Gobierno por el Superbonus y el impuesto a las bebidas, junto con una crítica al aumento de la deuda.\n- En el exterior, se recoge el avance ruso hacia Járkov; también se ofrecen planes de inversión y ahorro.",
+        "populismo": 25,
+        "motivo_populismo": "Expresiones como «estalla el caso», «perseguida por Hacienda» o «blindar las conversaciones» aportan dramatismo, aunque no se aprecia una apelación al pueblo contra las élites.",
+        "sesgo": "La selección concede especial atención a posibles irregularidades vinculadas a dirigentes de Liguria y a las divisiones del Gobierno. También adopta un enfoque crítico sobre la deuda y la eficacia de la reforma vial, sin que pueda deducirse una alineación política clara."
       }
     },
     {
@@ -114,71 +114,71 @@
       "web": "https://www.repubblica.it",
       "noticias": [
         {
-          "titulo": "Nuovo caccia europeo, l’Italia smentisce le voci sulla contrarietà alla partecipazione di Berlino",
-          "entradilla": "Fonti a Repubblica: è il Regno Unito a frenare l’ingresso tedesco nel maxi progetto Gcap",
-          "enlace": "https://www.repubblica.it/esteri/2026/11/14/news/gcap_italia_smentisce_le_voci_sulla_contrarieta_a_germania-425724153/"
+          "titulo": "Qualità della vita, a Bolzano si vive meglio, Taranto ultima. Ancora forte divario tra Nord e Sud",
+          "entradilla": "Milano scalzata dal primo posto. Il Nord-Est si attesta come l'area trainante del Paese",
+          "enlace": "https://www.repubblica.it/cronaca/2026/11/15/news/qualita_vita_classifica_bolzano_taranto_divario_nord_sud-425725178/"
         },
         {
-          "titulo": "Zelensky svela la proposta Usa: “La Nato in cambio del Donbass, ma deve decidere il popolo”",
-          "entradilla": "Kiev nell’Alleanza e stop alla guerra, il leader scettico: “Il Cremlino bara”. I media avvertono: “Lo zar ha revocato il tabù dell’eliminazione di Volodymyr”",
-          "enlace": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_ingresso_nato_usa_zelensky_in_cambio_del_donbass-425724112/"
+          "titulo": "Scontro tra due auto in galleria nel Cosentino, chi sono le cinque vittime",
+          "entradilla": "Hanno perso la vita l’imprenditore Alfredo Spizzirri, di 50 anni, la compagna Barbara Beltrano, di 44, la mamma e la zia dell'uomo, Annamaria e Carmela Sicilia, di 84 e 86 anni. Nell’altra vettura l’82enne Anna Caterina Pollacci",
+          "enlace": "https://www.repubblica.it/cronaca/2026/11/15/news/scontro_galleria_fiego_vittime_chi_sono-425725111/"
         },
         {
-          "titulo": "Mancini: “Bello giocarci i quarti contro il Belgio, siamo qui per vincere”",
-          "entradilla": "Le parole del ct dell’Italia alla vigilia della sfida che può regalare agli azzurri la qualificazione ai quarti di Nations League",
-          "enlace": "https://www.repubblica.it/sport/calcio/nazionale/2026/11/14/news/mancini_belgio_italia_conferenza_oggi-425724097/"
+          "titulo": "Scende dall’auto dopo tamponamento, è travolto da un altro veicolo: Valeriu Marinuta muore a 36 anni",
+          "entradilla": "La tragedia all’altezza di Libiola, nel Mantovano. L’uomo stava discutendo con l’altro autista quando è stato investito da una Panda in arrivo nel senso opposto, guidata da un ottantacinquenne",
+          "enlace": "https://milano.repubblica.it/cronaca/2026/11/15/news/incidente_mantova_morto_valeriu_marinuta-425724990/"
         },
         {
-          "titulo": "Accuse a Sabalenka. Per la federtennis di Kiev ha offeso Svitolina: “Maledetta ucraina, vaff...”",
-          "entradilla": "L’account X della federazione ha postato il video del labiale della bielorussa, sconfitta nelle Finals di Indian Wells",
-          "enlace": "https://www.repubblica.it/sport/tennis/2026/11/14/news/sabalenka_offese_svitolina_ucraina-425724026/"
+          "titulo": "“Mio fratello ha chiesto scusa al rabbino. Ma non si può cacciare così un ragazzo nato in Italia”",
+          "entradilla": "Dopo l’aggressione a un religioso a Milano, un ragazzo è stato espulso e un altro è al Cpr. Il terzogenito della famiglia, di origine tunisina, dice: “Mia mamma è distrutta. Noi studiamo e lavoriamo, non conosciamo nemmeno l’arabo. Deluso per non avere la cittadinanza”",
+          "enlace": "https://milano.repubblica.it/cronaca/2026/11/15/news/aggressione_rabbino_intervista_fratello_cpr_espulso_mouthanna-425724940/"
         },
         {
-          "titulo": "Ciro Grillo: “Bongiorno nel processo contro di me dopo caduta governo giallo-verde”. Lega smentisce",
-          "entradilla": "Fonti del Carroccio precisano: “La ricostruzione non corrisponde alla cronologia dei fatti”",
-          "enlace": "https://www.repubblica.it/politica/2026/11/14/news/processo_ciro_grillo_giulia_bongiorno_lega-425723809/"
+          "titulo": "Attacchi hacker, l’esperto: “Cittadini sempre più a rischio, ma basta poco per proteggersi”",
+          "entradilla": "Secondo Consumers' Forum almeno una casa su tre è a rischio intrusione informatica. Per Gabriele Faggioli il fattore umano pesa quanto evoluzione di attacchi e debolezza di sistema. Ma manca formazione",
+          "enlace": "https://www.repubblica.it/cronaca/2026/11/15/news/attacchi_hacker_domestici_gabriele_faggioli_esperto_intervista-425724847/"
         },
         {
-          "titulo": "Foto e video utilizzati senza consenso: il Garante privacy sanziona Meta per 805 milioni",
-          "entradilla": "Sotto accusa la funzione che propone spunti da pubblicare pescando dal rullino dello smartphone, accesa di default. Coinvolti quasi venti milioni di utenti italiani. E ora Meta annuncia ricorso.",
-          "enlace": "https://www.repubblica.it/cronaca/2026/11/14/news/sanzione_multa_meta_garante_privacy_galleria_foto-425723784/"
+          "titulo": "Ubriaco, un coltello da cucina in mano: paura sul volo dall’Islanda a Milano",
+          "entradilla": "I piloti di easyJet allertano la Polizia italiana che aspetta il passeggero molesto al suo arrivo in Italia. L’utensile ammesso a bordo se non è pericoloso. Il vettore: non tolleriamo simili comportamenti a bordo, equipaggio sa gestire le emergenze",
+          "enlace": "https://www.repubblica.it/economia/2026/11/15/news/ubriaco_un_coltello_da_cucina_in_mano_paura_sul_volo_dall_islanda_a_milano-425724883/"
         },
         {
-          "titulo": "Il riarmo europeo nasce dalla paura pesa la vicinanza della Russia",
-          "entradilla": "Le industrie Ue devono allearsi e cambiare passo. Droni e Intelligenza artificiale si impadroniranno \nsempre di più dei campi di battaglia",
-          "enlace": "https://www.repubblica.it/dossier/economia/a-f-live-2026/2026/11/16/news/il_riarmo_europeo_nasce_dalla_paura_pesa_la_vicinanza_della_russia-425719042/"
+          "titulo": "Tennis's season finale takes centre stage in Turin",
+          "entradilla": "The Piedmont capital has turned the ATP Finals, running from today until 22 November, into a citywide celebration. Only the world's top eight players qualify to compete for the final trophy of the year",
+          "enlace": "https://www.repubblica.it/en/europe/sport/2026/11/15/news/atp_finals_2026_turin_tennis_events_city-425721478/"
         },
         {
-          "titulo": "Portogallo, il numero 7 cambia per omaggiare Ronaldo: un trattino per rendere unico quello di CR7",
-          "entradilla": "Un dettaglio grafico pensato per rendere unico e inconfondibile il numero indossato da CR7 nel corso della sua straordinaria carriera con la maglia della nazionale",
-          "enlace": "https://www.repubblica.it/sport/calcio/2026/11/14/news/portogallo_numero_7_cristiano_ronaldo-425723598/"
+          "titulo": "Verso l’espulsione un altro degli aggressori del rabbino: “Ma noi siamo nati in Italia”",
+          "entradilla": "Il giudice ha confermato il trattenimento nel Cpr: ora iniziano le procedure. Nelle settimane scorse era toccato al fratello",
+          "enlace": "https://milano.repubblica.it/cronaca/2026/11/15/news/conferma_cpr_espulsione_aggressore_rabbino_nato_italia-425724278/"
         },
         {
-          "titulo": "Brasile ko con il Giappone, furia Romario contro Ancelotti: “Prepara le tue cose e vattene”",
-          "entradilla": "Sudamericani battuti 3-2 nell’amichevole di Singapore. L’ex attaccante durissimo con il ct: “Non ne possiamo più”",
-          "enlace": "https://www.repubblica.it/sport/calcio/esteri/2026/11/14/news/ancelotti_espulsione_brasile_giappone-425723447/"
+          "titulo": "Chi era Nicola Re, il vedovo gentile ucciso per aver smascherato la truffa del finto carabiniere",
+          "entradilla": "Ex operaio all’Alfa Romeo, 92 anni, era stato trovato in fin di vita nella sua casa di via Muratori: fermati ieri due giovani per omicidio aggravato e rapina. Era appassionato di meccanica e aveva in cantina un laboratorio",
+          "enlace": "https://milano.repubblica.it/cronaca/2026/11/15/news/nicola_re_vedovo_ucciso_truffa_finto_carabiniere_muratori_milano-425724135/"
         },
         {
-          "titulo": "Parma, oltre 20mila sfilano contro il corteo per la remigrazione. Guerra: “Segnale forte”",
-          "entradilla": "La Questura ha studiato un piano di sicurezza per tenere distanti le due manifestazioni. La risposta della società civile alla manifestazione dell’estrema destra: migliaia sfilano cantando “Bella ciao”, tra stendardi e tricolori",
-          "enlace": "https://bologna.repubblica.it/cronaca/2026/11/14/news/parma_corteo_remigrazione_antifascisti-425723382/"
+          "titulo": "La lettera di Maicol ai genitori: “Scusatemi per questo dolore”",
+          "entradilla": "Sequestrata con un altro messaggio per il ragazzino di cui era innamorato. Indaga anche la procura dei minori. Sentito il padre",
+          "enlace": "https://roma.repubblica.it/cronaca/2026/11/14/news/lettera_genitori_maicol_suicidio_15_anni_cambio_sesso-425724331/"
         },
         {
-          "titulo": "Bonus mobili ed elettrodomestici. Il rischio di misure che avvantaggiano solo i redditi medio-alti",
-          "entradilla": "La manovra conferma, per il quattordicesimo anno consecutivo, la detrazione. Per gli elettrodomestici si ripropone il voucher. Costi, benefici e caratteristiche: difficile vedere una logica economica se non nell’efficacia delle lobby che rappresentano i settori interessati.",
-          "enlace": "https://www.repubblica.it/economia/2026/11/14/news/bonus_mobili_ed_elettrodomestici_il_rischio_di_misure_che_avvantaggiano_solo_i_redditi_medio-alti-425723148/"
+          "titulo": "Putin rivuole il controllo dell’Europa orientale. A Shenzen una Yalta con Trump e Xi",
+          "entradilla": "Il documento consegnato agli americani: “Il Patto atlantico deve ritirarsi ai confini del 1997”. Il ritorno alle sfere di influenza",
+          "enlace": "https://www.repubblica.it/esteri/2026/11/15/news/putin_russia_nato_europa_orientale_shenzen_yalta_con_trump_e_xi-425724196/"
         },
         {
-          "titulo": "Rivolta dei bot contro i politici italiani: messaggi da account sospetti per i guasti Microsoft e IA",
-          "entradilla": "Il risultato imprevisto dei malfunzionamenti dei giorni scorsi. La Lega: «Inquietante, noi sotto attacco». Avs: «Manipolazione della destra, la magistratura apra un’inchiesta»",
-          "enlace": "https://www.repubblica.it/politica/2026/11/14/news/rivolta_bot_contro_politici_italiani_guasti_microsoft_ia-425723249/"
+          "titulo": "Psicologia dei dittatori: il nuovo totalitarismo da Xi Jinping a Trump",
+          "entradilla": "La massa si affida al dittatore come il credente a Dio: è la lezione di Freud sul culto della personalità. Oggi vale ancora per Mosca e Pechino. Con Trump, invece, l’uomo della provvidenza si fa ribelle, despota e vittima insieme",
+          "enlace": "https://www.repubblica.it/cronaca/2026/11/15/news/psicologia_dittatori_totalitarismo_xi_jinping_putin_trump_massimo_recalcati-425723710/"
         }
       ],
       "analisis": {
-        "resumen": "- Zelenski expone una propuesta estadounidense sobre la OTAN y el Donbás; Italia desmiente su oposición a que Alemania participe en el proyecto de un caza europeo.\n- Una información relaciona el rearme europeo con el temor a Rusia y destaca el papel futuro de los drones y la inteligencia artificial.\n- El regulador italiano de privacidad sanciona a Meta con 805 millones de euros por el uso de fotos y vídeos sin consentimiento; la empresa recurrirá.\n- Más de 20.000 personas marchan en Parma contra una manifestación de extrema derecha. También se informa de mensajes de cuentas sospechosas a políticos italianos.\n- La portada aborda el riesgo de que las ayudas para muebles favorezcan a rentas medias-altas, una disputa sobre el caso Ciro Grillo y varias noticias deportivas.",
-        "populismo": 35,
-        "motivo_populismo": "Predominan los titulares informativos, aunque expresiones como «el zar», «furia» y «revuelta de los bots» aportan dramatización, y algunas noticias presentan enfrentamientos mediante declaraciones citadas.",
-        "sesgo": "La portada destaca la amenaza rusa y presenta la marcha de Parma como una respuesta de la sociedad civil a la extrema derecha. También adopta un enfoque crítico con las ayudas para muebles y el papel de los grupos de presión."
+        "resumen": "- Bolzano encabeza la clasificación de calidad de vida y persiste la brecha entre el norte y el sur de Italia.\n- Dos accidentes de tráfico causan varias muertes; la portada también recoge un homicidio y un incidente en un vuelo.\n- Dos noticias abordan la expulsión de jóvenes tras una agresión a un rabino y recogen la postura de su familia.\n- En política internacional, se trata la influencia rusa en Europa oriental y el liderazgo de Xi Jinping y Trump.\n- Un experto alerta sobre los riesgos informáticos y Turín acoge las finales de la ATP.",
+        "populismo": 30,
+        "motivo_populismo": "Predomina la información descriptiva, aunque expresiones como «paura sul volo», «dittatori» y «despota e vittima» aportan dramatización y etiquetas fuertes.",
+        "sesgo": "La selección presta atención a sucesos violentos y a la dimensión humana de las expulsiones, dando voz a un familiar de los afectados. En política internacional se aprecia un enfoque crítico hacia varios dirigentes, expresado con etiquetas contundentes."
       }
     },
     {
@@ -186,71 +186,71 @@
       "web": "https://www.lastampa.it",
       "noticias": [
         {
-          "titulo": "Zelensky: “Gli Usa hanno proposto di cedere il Donbass e in cambio entreremmo nella Nato”",
-          "entradilla": "Nyt: la Russia propone il ritiro della Nato a posizioni pre-1997, il modello è il Patto Varsavia. Il documento: si allontani da Polonia e Baltici, mappa Guerra Fredda garantiva equilibrio",
-          "enlace": "https://www.lastampa.it/esteri/2026/11/14/diretta/guerra_russia_ucraina_news_oggi-15797901/"
+          "titulo": "Un bagno di folla per Sinner: “Mi manca questo torneo, spero di tornare presto in forma”",
+          "entradilla": "Il campione altoatesino ha ricevuto il premio Giulio Onesti con il presidente della Federazione Binaghi e il capitano della Nazionale di Coppa Davis Volandri",
+          "enlace": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/15/news/un_bagno_di_folla_per_sinner_mi_manca_questo_torneo_spero_di_tornare_presto_in_forma-15798895/"
         },
         {
-          "titulo": "Roma apre a Berlino nel GCAP, il super-caccia da miliardi. Smentito il Financial Times: nessun veto",
-          "entradilla": "Il ministero della Difesa ribatte che l’Italia ha sempre espresso piena disponibilità ad accogliere la Germania",
-          "enlace": "https://www.lastampa.it/cronaca/2026/11/14/news/gcap_jet_italia_germania-15798284/"
+          "titulo": "Il programma: la festa dei tifosi e le sfide di oggi",
+          "entradilla": "All’Inalpi Arena code scorrevoli e grande entusiasmo per la prima giornata. ifosi arrivati anche dall'estero per vivere lo spettacolo.",
+          "enlace": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/15/news/atp_finals_2026_torino_inalpi_arena_prima_giornata-15798860/"
         },
         {
-          "titulo": "Farage ufficializza la rottura con Putin: “È la più grande minaccia per il Regno Unito”",
-          "entradilla": "Da sempre accusato di simpatie filo-putiniane il leader della destra anti-immigrazione prende posizione contro Mosca",
-          "enlace": "https://www.lastampa.it/esteri/2026/11/14/news/farage_ufficializza_la_rottura_con_putin_e_la_piu_grande_minaccia_per_il_regno_unito-15798097/"
+          "titulo": "Errani e Paolini nella storia, prime italiane in finale alle Finals: “Ora sarà durissima”",
+          "entradilla": "Le azzurre hanno superato in semifinale la cinese Hanyu Guo e la francese Kristina Mladenovic in due set (6-3, 6-4). Nella notte la sfida per il titolo contro la ceca Katerina Siniakova e l'americana Taylor Townsend",
+          "enlace": "https://www.lastampa.it/sport/tennis/2026/11/15/news/errani_e_paolini_nella_storia_prime_italiane_in_finale_alle_finals_ora_sara_durissima-15798850/"
         },
         {
-          "titulo": "Le voci della disillusione ucraina: “Negoziati farlocchi, bene sololo scambio dei prigionieri”",
-          "entradilla": "Da Kharkiv a Kiev, gli ucraini abituati alle bombe non si fidano delle trattative e aspettano l’inverno",
-          "enlace": "https://www.lastampa.it/esteri/2026/11/14/news/le_voci_della_disillusione_ucraina_negoziati_farlocchi_bene_sololo_scambio_dei_prigionieri-15798571/"
+          "titulo": "Il Cremlino: “Se non ci sarà un accordo con l'Europa useremo la forza”",
+          "entradilla": "Lavrov sui negoziati: «Gli europei vogliono salire sull’ultimo treno». Abbordata una petroliera della «flotta ombra» russa nel Mediterraneo",
+          "enlace": "https://www.lastampa.it/esteri/2026/11/15/diretta/guerra_russia_ucraina_news_oggi-15798722/"
         },
         {
-          "titulo": "“Non posso insultare quel partito”: così l’AI svela i bot della politica sui social",
-          "entradilla": "Messaggi automatici in inglese compaiono sotto i post di Salvini e di altri politici italiani. I sistemi AI rifiutano le richieste, ma i bot pubblicano ugualmente le risposte. La Lega: “Vogliamo sapere chi si nasconde dietro questi account”",
-          "enlace": "https://www.lastampa.it/tech/2026/11/14/news/non_posso_insultare_quel_partito_cosi_l_intelligenza_artificiale_ha_svelato_i_bot_della_politica-15798267/"
+          "titulo": "Lo spot che ha fatto vincere l’America dem",
+          "entradilla": "Lo spot “Scegli un’altra proteina”, che ha mandato in vantaggio un afroamericano in uno stato repubblicanissimo, mostra come una società multi-tutto possa rigenerarsi. E recuperare quel soft ...",
+          "enlace": "https://www.lastampa.it/specchio/rubriche/cose-brutte/2026/11/15/news/lo_spot_che_ha_fatto_vincere_l_america_dem-15796104/"
         },
         {
-          "titulo": "Microsoft, anatomia di un blackout:perché Outlook e Teams non hanno funzionato per un giorno e mezzo",
-          "entradilla": "Un aggiornamento della rete ha messo in crisi Microsoft 365. I server tornavano online, ma smettevano nuovamente di funzionare quando ricevevano traffico. La cronologia del guasto, dalle prime anomalie al difficile ripristino.",
-          "enlace": "https://www.lastampa.it/tech/2026/11/14/news/microsoft_anatomia_di_un_blackout_perche_outlook_e_teams_non_hanno_funzionato_per_un_giorno_e_mezzo-15798083/"
+          "titulo": "Alice Huang spia o asset dei cinesi, la guerra nell’intelligence Usa tra Dem e trumpiani",
+          "entradilla": "L’altra guerra è nella Silicon Valley: con gli oligarchi tech guidati da Musk che si mettono a firmare petizioni. Per reinstallare al suo posto l’ex ceo di Nvidia",
+          "enlace": "https://www.lastampa.it/esteri/2026/11/15/news/alice_huang_spia_o_asset_dei_cinesi_la_guerra_nell_intelligence_usa_tra_dem_e_trumpiani-15798526/"
         },
         {
-          "titulo": "Sinner ai ragazzi: “State lontani dai social network”",
-          "entradilla": "Il tennista a Torino dialoga con Paolo Maldini: «A me non è mai fregato di quello che pensano gli altri, ma bisogna stare attenti. Meglio andare in un bar, prendere un caffè e conoscere una persona dal vivo»",
-          "enlace": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/14/news/sinner_ai_ragazzi_state_lontani_dai_social_network-15798268/"
+          "titulo": "Fugge nei boschi dello spaccio, giovane muore precipitando per 200 metri",
+          "entradilla": "E’ successo in frazione Bei. La vittima ha 29 anni, ferito un altro ragazzo di 24 anni. Erano inseguiti da polizia e guardia di finanza",
+          "enlace": "https://www.lastampa.it/verbano-cusio-ossola/2026/11/15/news/domodossola_fuga_boschi_spaccio_morto-15798862/"
         },
         {
-          "titulo": "Sinner a Torino: \"Ecco cosa mi è successo davvero agli Internazionali di Roma\"",
-          "entradilla": "«State lontani dai social», il consiglio di Jannik Sinner ai giovani che cominciano a giocare a tennis. Il campione ha dialogato con l'ex calciatore Paolo Maldini in un evento organizzato dallo sponsor Nike a Torino. Davanti a una ventina di bambini e ragazzi delle scuole tennis torinesi, Sinner ha ",
-          "enlace": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/14/video/sinner_a_torino_ecco_cosa_mi_e_successo_davvero_agli_internazionali_di_roma-15798585/"
+          "titulo": "Cade dal tettuccio di un'auto in corsa per riprendere il raduno clandestino: morto 23enne",
+          "entradilla": "L'incidente lo scorso 11 ottobre nel Trevigiano. L’amico che guidava dovrà ora rispondere di omicidio colposo",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/15/news/manuel_bertuol_caduto_dal_tettuccio_di_un_auto_in_corsa-15798839/"
         },
         {
-          "titulo": "Atp Finals, Binaghi: “Torino ha capito il valore del tennis, è un successo indiscutibile”",
-          "entradilla": "Il presidente della Federazione italiana tennis e padel all’evento «Profumo di tennis» organizzato da La Stampa",
-          "enlace": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/14/news/atp_finals_angelo_binaghi_profumo_di_tennis-15798353/"
+          "titulo": "Bologna, fan di Elisa muore a 35 anni a due passi dal palco: la cantante in lacrime annulla lo show",
+          "entradilla": "Un malore nelle prime file, i soccorsi, poi la notizia data dal palco a mille persone. La cantante annulla la serata del raduno del fan club: «Mi stringo attorno a tutti i miei fan».",
+          "enlace": "https://www.lastampa.it/spettacoli/2026/11/15/news/concerto_elisa_bologna_morte_fan_35_anni_estragon-15798843/"
         },
         {
-          "titulo": "L'abbraccio di Torino alle Finals: cosa significa l'evento per la città",
-          "entradilla": "Dalle code nel fango del 2021 al Blue Carpet in piazza San Carlo, passando per le proiezioni su Palazzo Reale e un Fan Village sempre più grande. In cinque anni, le ATP Finals hanno cambiato il volto di Torino e il rapporto della città con il grande tennis internazionale. Alla vigilia dell'edizione ",
-          "enlace": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/14/video/atp_finals_torino_trasformazione_citta_2021_2026-15798063/"
+          "titulo": "Ubriaco con un coltello semina il panico su un volo dall'Islanda a Milano",
+          "entradilla": "L'equipaggio è riuscito a gestire la situazione durante il volo, evitando che il comportamento del passeggero avesse conseguenze sulla sicurezza degli altri viaggiatori",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/15/news/ubriaco_con_coltello_sul_volo_islanda-milano_nessun_ferito-15798878/"
         },
         {
-          "titulo": "Caos nei cieli Usa: più di 16mila voli cancellati tra ieri e oggi. Disagi anche a Malpensa",
-          "entradilla": "Il blocco dei voli negli Stati Uniti è scattato in seguito a un guasto ai sistemi di comunicazione dei centri di controllo del traffico aereo",
-          "enlace": "https://www.lastampa.it/esteri/2026/11/14/news/caos_negli_aeroporti_usa_prima_fermati_tutti_i_voli_poi_l_agenzia_dell_aviazione_revoca_il_blocco-15797921/"
+          "titulo": "Trump e Putin alla corte di Xi: perché i tre leader non parleranno di Ucraina",
+          "entradilla": "Giovedì lo storico incontro a Shenzhen dei leader mondiali, dopo il caso Nvidia. Sull’aereo Usa salirà anche Musk: «Ha interessi commerciali, è una risorsa utile»",
+          "enlace": "https://www.lastampa.it/esteri/2026/11/15/news/vertice_trump_xi_putin_sul_tavolo_disarmo_nucleare_no_ucraina-15798703/"
         },
         {
-          "titulo": "“Il blocco dei voli in America? Colpa di un’infrastruttura obsoleta”",
-          "entradilla": "L’analista Alegi: «Da dieci anni i Repubblicani in Congresso dicono no alle spese per gli ammodernamenti. Un modulo di intelligenza artificiale inserito in un sistema vecchio può aver bloccato tutto. E i controllori possono essere stati presi dalla paura degli hacker anche in assenza di minacce»",
-          "enlace": "https://www.lastampa.it/esteri/2026/11/14/news/blocco_voli_aerei_america_alegi-15798002/"
+          "titulo": "Bolzano è la miglior provincia d’Italia dove vivere. Tra quelle del Nord maglia nera ad Alessandria",
+          "entradilla": "La classifica di ItaliaOggi: Taranto fanalino di coda. Tra le città del Sud la migliore è Isernia",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/15/news/bolzano_e_la_miglior_provincia_d_italia_dove_vivere_tra_quelle_del_nord_maglia_nera_ad_alessandria-15798880/"
         }
       ],
       "analisis": {
-        "resumen": "- Zelenski expone una propuesta estadounidense sobre el Donbás y la OTAN; también se recogen las exigencias atribuidas a Rusia y la desconfianza de ucranianos hacia las negociaciones.\n- Italia abre la puerta a Alemania en el programa del caza GCAP, mientras Farage califica a Putin de amenaza para el Reino Unido.\n- Mensajes generados por inteligencia artificial revelan la presencia de bots bajo publicaciones políticas; un fallo de red interrumpe servicios de Microsoft.\n- Sinner aconseja a los jóvenes alejarse de las redes sociales, y varios titulares destacan el impacto de las ATP Finals en Turín.\n- Un fallo de comunicaciones provoca miles de cancelaciones aéreas en Estados Unidos; un analista apunta a la obsolescencia de la infraestructura.",
-        "populismo": 20,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «caos en los cielos» y «negociaciones falsas» aportan dramatismo; esta última se atribuye a voces ucranianas.",
-        "sesgo": "La selección da especial relevancia a la guerra en Ucrania y recoge perspectivas críticas con Rusia, así como una valoración favorable del impacto del tenis en Turín. También incluye una explicación crítica con los republicanos estadounidenses, atribuida a un analista."
+        "resumen": "- El tenis ocupa un lugar destacado: Sinner recibe un premio y Errani y Paolini alcanzan la final de las Finals.\n- El Kremlin advierte de que recurrirá a la fuerza si no hay acuerdo con Europa; se aborda un petrolero ruso en el Mediterráneo.\n- La portada aborda la política estadounidense, las tensiones en la inteligencia y un encuentro entre Trump, Putin y Xi.\n- Varias noticias recogen muertes en distintos incidentes y un episodio de pánico en un vuelo hacia Milán.\n- Una clasificación sitúa a Bolzano como la mejor provincia italiana para vivir y a Taranto en último lugar.",
+        "populismo": 25,
+        "motivo_populismo": "Expresiones como «siembra el pánico» y «la guerra en la inteligencia» aportan dramatismo, aunque no predomina una apelación al pueblo contra las élites.",
+        "sesgo": "La portada prioriza el deporte, especialmente el tenis italiano, y las noticias internacionales. En la política estadounidense aparece un enfoque valorativo en la referencia a la capacidad de una sociedad diversa para «regenerarse» y en la expresión «oligarcas tecnológicos»."
       }
     },
     {
@@ -258,71 +258,71 @@
       "web": "https://www.ilgiornale.it",
       "noticias": [
         {
-          "titulo": "Nuovo corteo contro carovita e riarmo: a Milano 1500 in piazza, in maggioranza pro Pal Perquisizioni in 13 città. Denunciato un minorenne a Torino: in casa trovati machete e pistola a piombini",
+          "titulo": "Conte sta con gli hacker",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/diretta/nazionale/milano-al-via-un-nuovo-corteo-dei-pro-pal-e-dei-collettivi-in-piazza-contro-carovita-riarmo-e-repressione/"
+          "enlace": "https://www.ilgiornale.it/news/interni/conte-sta-con-gli-hacker/"
         },
         {
-          "titulo": "ESCLUSIVO - La Russa al Giornale dopo la polemica sul fascismo: “Non sdogano il regime”",
+          "titulo": "Campania nel caos, brogli dopo le tangenti. Firme false per le liste",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/intervista/interni/il-fascismo-fu-votato-ma-il-popolo-si-sbaglio-non-sdogano-il-regime/"
+          "enlace": "https://www.ilgiornale.it/news/interni/campania-nel-caos-brogli-dopo-le-tangenti-firme-false-per-le-liste/"
         },
         {
-          "titulo": "Le parole del presidente del Senato che hanno fatto infuriare la sinistra",
+          "titulo": "Nella Regione di Fico i dipendenti sotto stress: stanziati 160mila euro per corsi contro l’ansia",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/interni/la-russa-la-volonta-del-popolo-e-imperfetta-ha-voluto-il-fascismo/"
+          "enlace": "https://www.ilgiornale.it/news/societa/regione-campania-oltre-il-50-dei-dipendenti-e-stressato-e-litiga-finanziamenti-per-introdurre-corsi-che-allentino-le-ansie/"
         },
         {
-          "titulo": "Avs lo mette alla gogna, Lo storico: “Dittatura. Ma all’inizio fu votata”",
+          "titulo": "Un corso per gli imam. E spunta l’ombra dei Fratelli musulmani",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/governo/avs-lo-mette-alla-gogna-lo-storico-dittatura-ma-allinizio-fu-votata/"
+          "enlace": "https://www.ilgiornale.it/news/politica/un-corso-per-gli-imam-e-spunta-lombra-dei-fratelli-musulmani/"
         },
         {
-          "titulo": "L’Italia apre alla Germania sul GCAP: Roma smentisce le indiscrezioni del Financial Times",
+          "titulo": "Imprenditori e mafie, l’evasione è un affare da 1 miliardo e mezzo",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/politica-internazionale/litalia-apre-alla-germania-sul-gcap-roma-smentisce-le-indiscrezioni-del-financial-times/"
+          "enlace": "https://www.ilgiornale.it/news/interni/frodi-fiscali-che-business/"
         },
         {
-          "titulo": "Kiev: “Gli Usa propongono la cessione del Donbass in cambio dell’ingresso nella Nato”. Zelensky: “Chiederò agli ucraini che cosa ne pensano” Putin e il nodo Donbass: perché potrebbe dire di \"no\" al piano americano",
+          "titulo": "Manovra, dalla scuola alle pensioni: tutte le modifiche sul tavolo Sul dossier Superbonus il governo cerca un compromesso",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/guerra/kiev-gli-usa-propongono-la-cessione-del-donbass-in-cambio-dellingresso-nella-nato-zelensky-chiedero-agli-ucraini-che-cosa-ne-pensano/"
+          "enlace": "https://www.ilgiornale.it/news/politica-economica/manovra-dal-superbonus-alle-pensioni-tutte-le-modifiche-sul-tavolo/"
         },
         {
-          "titulo": "Sembrava un malore, era un omicidio: dietro la morte del 92enne due egiziani finti carabinieri Truffa del finto carabiniere: cos’è e come difendersi",
+          "titulo": "Ultima chiamata di Confindustria: “La politica ci ascolti”",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/cronaca-nera/sembrava-un-malore-era-un-omicidio-dietro-la-morte-del-92enne-due-egiziani-finti-carabinieri/"
+          "enlace": "https://www.ilgiornale.it/news/interni/ultima-chiamata-di-confindustria-la-politica-ci-ascolti/"
         },
         {
-          "titulo": "Ciro Grillo rompe il silenzio: “Nessun patteggiamento, piuttosto in galera da innocente”",
+          "titulo": "Padri separati, gli ammessi agli aiuti sono 7.400",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/cronaca-giudiziaria/ciro-grillo-rompe-il-silenzio-nessun-patteggiamento-piuttosto-in-galera-da-innocente/"
+          "enlace": "https://www.ilgiornale.it/news/governo/padri-separati-gli-ammessi-agli-aiuti-sono-7400/"
         },
         {
-          "titulo": "L’imam di Segrate e il mistero sui fondi per gli ospedali E l’Ucoii punta il dito contro i media: “Preoccupati da questa islamofobia”",
+          "titulo": "Il Cremlino minaccia l’Ue: “Senza accordo costretti a ricorrere a forza”. Blitz di forze europee contro una nave della “flotta ombra” russa nel Mediterraneo Avanzata russa ferma: perché il conflitto ora è in stallo",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/interni/limam-di-segrate-e-il-mistero-sui-fondi-per-gli-ospedali/"
+          "enlace": "https://www.ilgiornale.it/diretta/guerra/blitz-di-forse-europee-contro-una-nave-della-flotta-ombra-russa-nel-mediterraneo-lue-navigava-con-bandiera-falsa/"
         },
         {
-          "titulo": "“Vuoi una seconda moglie? Si può fare”: l’inchiesta choc in Svezia che smaschera gli imam della poligamia",
+          "titulo": "Trump-Putin-Xi, ecco la “nuova Yalta” che disarma l’Europa e la mette all’angolo",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/cronaca-internazionale/vuoi-una-seconda-moglie-si-puo-fare-linchiesta-choc-in-svezia-che-smaschera-gli-imam-della-poligamia/"
+          "enlace": "https://www.ilgiornale.it/news/politica-estera/trump-putin-xi-ecco-la-nuova-yalta-che-disarma-leuropa-e-la-mette-allangolo/"
         },
         {
-          "titulo": "“Accesso a foto e video su Facebook senza consenso”: multa da 805 milioni a Meta",
+          "titulo": "Sicurezza stradale, Meloni: “Priorità è impedire altre vite spezzate”",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/aziende/accesso-a-foto-e-video-su-facebook-senza-consenso-multa-da-805-milioni-a-meta/"
+          "enlace": "https://www.ilgiornale.it/news/interni/sicurezza-stradale-meloni-priorita-e-impedire-altre-vite-spezzate/"
         },
         {
-          "titulo": "Forfettario a 100mila euro, Meloni rilancia sulle partite Iva: “Aiutiamo chi rischia in proprio” \"Per la sinistra autonomi di serie B\" - VIDEO",
+          "titulo": "“Sul nuovo reddito non c’è l’accordo”. Gli alleati in rivolta contro Patuanelli",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/politica-economica/forfettario-a-100mila-euro-meloni-rilancia-sulle-partite-iva-aiutiamo-chi-rischia-in-proprio/"
+          "enlace": "https://www.ilgiornale.it/news/interni/sul-nuovo-reddito-non-ce-laccordo-gli-alleati-in-rivolta-contro-patuanelli/"
         }
       ],
       "analisis": {
-        "resumen": "- Manifestación en Milán contra la carestía y el rearme; registros en 13 ciudades.\n- Polémica por las palabras de La Russa sobre el fascismo y las críticas de la izquierda.\n- Ucrania debate una propuesta estadounidense sobre el Donbás y la OTAN; Italia desmiente informaciones sobre el programa GCAP.\n- Noticias sobre una estafa mortal con falsos policías e investigaciones relacionadas con imanes y poligamia.\n- Meloni propone elevar a 100.000 euros el umbral del régimen fiscal simplificado para autónomos; Meta recibe una multa de 805 millones.",
-        "populismo": 65,
-        "motivo_populismo": "Expresiones como «lo ponen en la picota», «investigación choc» y «autónomos de segunda para la izquierda» combinan dramatización, sensacionalismo y confrontación política.",
-        "sesgo": "La selección y la redacción muestran un enfoque favorable a La Russa y Meloni y crítico con la izquierda. También destacan sucesos e investigaciones vinculados a personas egipcias y a imanes."
+        "resumen": "- Conte es vinculado con los hackers y se denuncian presuntas irregularidades en las listas electorales de Campania.\n- Se destacan cursos contra la ansiedad para empleados regionales, un curso para imanes y la evasión ligada a empresarios y mafias.\n- Se repasan los cambios presupuestarios, el posible compromiso sobre el Superbonus y la petición de Confindustria a los políticos.\n- La portada aborda las amenazas rusas a la UE, el estancamiento de la guerra y una supuesta «nueva Yalta» que debilitaría a Europa.\n- También trata el desacuerdo sobre una nueva renta, las ayudas a padres separados y la seguridad vial.",
+        "populismo": 49,
+        "motivo_populismo": "Expresiones como «caos», «sombra de los Hermanos Musulmanes», «pone a Europa contra las cuerdas» y «aliados en revuelta» aportan dramatismo, aunque otros titulares son informativos y no hay una apelación explícita al pueblo contra las élites.",
+        "sesgo": "La selección y la redacción enfatizan conflictos políticos, irregularidades, inseguridad y amenazas, con un enfoque crítico y alarmista en algunos titulares. Con estos textos no puede determinarse una orientación política inequívoca."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://www.ilfattoquotidiano.it",
       "noticias": [
         {
-          "titulo": "Attacco informatico alle Poste francesi: rubati i dati di 22 milioni di persone",
-          "entradilla": "Un attacco informatico alle poste francesi ha portato al furto dei dati di contatto di 22 milioni di persone. A essere colpita è stata Maileva, una filiale del gruppo francese La Poste, è l’attacco – come riferito dallo stesso gruppo – è avvenuto a metà settembre. Maileva “ha notificato l’accaduto a",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/14/attacco-informatico-poste-francia-rubati-dati-notizie/8572387/"
+          "titulo": "“Dieci militari a Beirut mi hanno puntato il mitra per una foto. In Italia la mia libertà è limitata, così vivo metà dell’anno in Florida”: così Bruno Barbieri",
+          "entradilla": "Bruno Barbieri il suo primo viaggio per lavoro l’ha fatto a diciassette anni, quando salì su una nave per raggiungere gli Stati Uniti, dove avrebbe iniziato la sua carriera partendo dal ruolo di terzo cuoco. Già da quando era piccolo, però, Barbieri aveva capito che lavorare in cucina gli avrebbe pe",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/15/oggi-in-italia-la-mia-liberta-e-limitat-per-questo-vivo-meta-dellanno-in-florida-a-los-roches-voglio-che-siano-disperse-le-mie-ceneri-la-confessione-di-bruno-barbieri/8572677/"
         },
         {
-          "titulo": "A Parma ventimila antifascisti sfilano contro i 1.500 pro-remigrazione. Il sindaco: “Quando i fascisti arrivano nella nostra città, bisogna scendere in strada”",
-          "entradilla": "Parma, sabato pomeriggio. Nella zona nord della città sfila il corteo per la remigrazione. Millecinquecento persone arrivate da tutta Italia per il corteo promosso da Casapound, Veneto Fronte Skinheads e Rete dei Patrioti. “Siamo più di loro” urla dal palco il leader di Casapound Luca Marsella. Ma s",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/14/corteo-remigrazione-parma-antifascisti-notizie/8572329/"
+          "titulo": "“Gasperini spintonò Massara davanti alla squadra, lo fece per agevolare i suoi amici. L’avrei preso a pugni”: così Sabatini",
+          "entradilla": "“Gasperini? È bravissimo ma è diverso da come appare“. Senza giri di parole, come sempre durante le interviste, Walter Sabatini ha parlato dell’attuale tecnico della Roma. Gli elogi per le sue capacità tecniche, ma anche una critica per il suo modo di essere, in particolare in un episodio dell’anno ",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/15/sabatini-gasperini-spintono-massara-lavrei-preso-a-pugni/8572741/"
         },
         {
-          "titulo": "Processo Aemilia, confermati gli ergastoli a tre uomini della ‘ndrangheta di Cutro. Accolta la richiesta d’appello per quarto imputato",
-          "entradilla": "Bastano poche righe alla Corte di Cassazione per mettere un punto fermo nella storia processuale sugli omicidi di mafia commessi in Emilia Romagna nel 1992. La sentenza datata 13 novembre arriva un anno dopo quella della Corte d’Appello di Bologna che aveva condannato all’ergastolo uomini importanti",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/14/processo-aemilia-ergastoli-ndrangheta-notizie/8572328/"
+          "titulo": "“Quella sera è stato il nostro primo bacio, poi l’incendio l’ha portata via”: i racconti dei ragazzi sopravvissuti alla tragedia di Crans-Montana",
+          "entradilla": "Le vite da ricostruire, i ricordi di una notte che continua a fare male, la rabbia per ciò che è successo e il dolore di chi non è tornato a casa. A Crans-Montana, dopo la strage di Capodanno al Constellation, restano le storie di chi è sopravvissuto. Storie diverse, legate dalla stessa tragedia, ch",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/15/incendio-crans-montana-sopravvissuti-italiani-notizie/8572691/"
         },
         {
-          "titulo": "Il consigliere leghista marcia insieme a Casapound a Parma: “Non mi imbarazza, vedo solo tricolori”. Ma spuntano saluti romani e cori per il Duce",
-          "entradilla": "A Parma oltre millecinquecento persone marciano per la remigrazione. Un corteo promosso dal comitato “Remigrazione e Riconquista” fondato da Casapound, Rete dei Patrioti e Veneto Fronte Skinheads. “Italia nazione, remigrazione” gridano i militanti di estrema destra durante il comizio finale del lead",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/14/marcia-remigrazione-parma-casapound-lega-duce-notizie/8572314/"
+          "titulo": "“Gestisce ragazze su OnlyFans, lede l’immagine del partito”: polemica in Futuro Nazionale per la nomina del referente di Castelnovo Monti",
+          "entradilla": "I malumori interni a Futuro Nazionale continuano a creare qualche problema a Roberto Vannacci, con le prime nomine del nuovo partito che hanno già provocato defezioni da Nord a Sud. Questa volta il caso è esploso a Castelnovo Monti, comune di 10mila abitanti nell’Appennino Reggiano. Alla base però n",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/15/futuro-nazionale-polemica-castelnovo-monti-onlyfans-notizie/8572736/"
         },
         {
-          "titulo": "Biden accusa Netanyahu nel suo memoir: “Non ha mai rispettato le promesse di ridurre le vittime civili”. Da Bibi un altro appello per l’unità nazionale",
-          "entradilla": "Le divergenze tra i due erano note. Ora però le accuse e le recriminazioni di Joe Biden nei confronti di Benjamin Netanyahu vengono messe nero su bianco in un libro di memorie scritto dell’ex presidente degli Stati Uniti e letto in anteprima da alcune testate americane. In alcuni estratti di Promise",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/14/biden-netanyahu-memoir-israele-usa-notizie/8572299/"
+          "titulo": "Il serpente nel water? È una bufala. L’immagine generata con l’AI da un bambino di 9 anni",
+          "entradilla": "Ha beffato tutti con una fotografia di un serpente che usciva dal water realizzata grazie all’intelligenza artificiale: vigili del fuoco, carabinieri e persino i mezzi di informazione (e la storia sembrava essere reale). Ma dietro quella vicenda che aveva suscitato curiosità e preoccupazione c’era s",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/15/serpente-water-foto-falsa-intelligenza-artificiale-notizie/8572745/"
         },
         {
-          "titulo": "L’Italia contro l’adesione della Germania al progetto dei super-caccia? La Difesa smentisce ma ribadisce: “Berlino partecipi come osservatore”",
-          "entradilla": "C’è un possibile scontro in corso tra Italia e Germania sul tema della difesa? A riportare la notizie è stato Financial Times secondo cui Roma si sarebbe mostrata contraria all’adesione di Berlino come partner paritario nel progetto internazionale per lo sviluppo di un super-caccia di sesta generazi",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/14/gcap-italia-germania-super-caccia-notizie/8572237/"
+          "titulo": "Ora Mosca vuole ridisegnare la sicurezza in Europa: “Da questa dipenderà la pace in Ucraina”",
+          "entradilla": "“Probabilmente capiscono che il treno sta partendo e vogliono provare a saltare sui gradini dell’ultimo vagone“. Con il consueto registro sarcastico – alternativo a quello più minaccioso che è solito utilizzare nei confronti dell’Europa – Sergey Lavrov ha commentato volontà dell’Ue di partecipare ai",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/15/negoziati-ucraina-mosca-sicurezza-europea-notizie/8572654/"
         },
         {
-          "titulo": "“Per la Russia via libera all’uccisione di Zelensky e dei vertici politico-militari di Kiev”: la decisione durante il Consiglio di sicurezza",
-          "entradilla": "La Russia ha dato il via libera all’eliminazione del presidente ucraino, Volodymyr Zelensky, e dei vertici politico-militari di Kiev. La notizia è riportata dai media di Mosca e ripresa anche da RBC-Ucraina, che cita il sito del Moskovskij Komsomolets – uno dei quotidiani più diffusi e popolari dell",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/14/russia-via-libera-morte-zelensky-consiglio-sicurezza/8572275/"
+          "titulo": "La nave di Emergency: “Salvate 8 persone costrette a buttarsi in mare da un’imbarcazione non identificata. Noi seguiti per un’ora da sconosciuti”",
+          "entradilla": "Una barca non identificata a distanza ravvicina per circa un’ora. Poi, poco dopo, il ritrovamento del corpo senza vita di una donna, in avanzato stato di decomposizione, che galleggiava alla deriva. E infine il salvataggio di 8 persone costrette a buttarsi in acqua. È quanto denunciato dall’equipagg",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/15/life-support-emergency-corpo-donna-mediterraneo-notizie/8572611/"
         },
         {
-          "titulo": "Turni di dodici ore al giorno, senza ferie o riposi: tre arresti per sfruttamento a Prato. Catturato latitante nascosto in una scatola",
-          "entradilla": "Un gruppo di lavoratori costretti a turni massacranti di dodici ore al giorno per sette giorni la settimana, senza ferie e con decurtazioni di 50 euro per ogni assenza. Fino a quando uno di loro, un operaio pakistano, ha deciso di denunciare. Così si è arrivati all’arresto di tre cittadini di origin",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/14/prato-sfruttamento-lavoro-arresti-notizie/8572271/"
+          "titulo": "“Vivevamo sotto la soglia della povertà. La mia famiglia era composta da sei persone e andavamo avanti con 24mila dollari l’anno”: così Ben Napier",
+          "entradilla": "Un’ora di studi sociali, un calcolo fatto a mente e una scoperta che a un ragazzino non dovrebbe toccare. Ben Napier, volto di Home Town su HGTV, ha raccontato di aver capito a scuola che la sua famiglia viveva con un reddito inferiore alla soglia di povertà. Lo ha fatto durante un’ospitata, insieme",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/15/vivevamo-sotto-la-soglia-della-poverta-la-mia-famiglia-era-composta-da-sei-persone-e-andavamo-avanti-con-24mila-dollari-lanno-cosi-ben-napier/8572711/"
         },
         {
-          "titulo": "Pasolini schermo del suo “Vangelo”, una modella nuda come denuncia del fascismo: i cent’anni di Fabio Mauri, l’avanguardia delle performance",
-          "entradilla": "Artista, scrittore, drammaturgo, ma anche editore. Si interessò di teatro, cinema e letteratura. Un personaggio eclettico, tra i più brillanti dell’avanguardia italiana del secondo dopoguerra, movimento che ha segnato con le sue performance attraverso l’azione dal vivo, il corpo e lo schermo cinemat",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/14/fabio-mauri-centenario-avanguardia-italiana-notizie/8572084/"
+          "titulo": "Droni iraniani contro una base militare Usa in Bahrein: scattano le sirene di allarme. Media: “Teheran possiede ancora fino a 2500 missili”",
+          "entradilla": "In un contesto di stallo diplomatico che non mostra segnali di sblocco e un formale stop ai combattimenti, la tensione sull’asse Teheran-Washington resta alta. Questa notte la base militare Usa in Bahrein è stata di nuovo presa di mira dalle Guardie della Rivoluzione. Proseguono quindi quelle che l’",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/15/droni-iraniani-contro-una-base-militare-usa-in-bahrein-scattano-le-sirene-di-allarme-media-teheran-possiede-ancora-fino-a-2500-missili/8572601/"
         },
         {
-          "titulo": "Gli Stati Uniti perdono lo status di Paese libero dal morbillo. Solo nel 2026 segnalati oltre 5400 casi: mai così tanti in 35 anni",
-          "entradilla": "Dopo il Canada, anche gli Stati Uniti hanno perso lo status di Paese morbillo-free, a seguito di anni di calo dei tassi di vaccinazione e aumento dei casi di infezione. La revoca è arrivata dall’Organizzazione Panamericana della Sanità (Ops), riporta Cnn citando il Wall Street Journal. Nel 2026 negl",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/14/morbillo-usa-perdono-status-eliminazione-5400-casi-morti/8572216/"
+          "titulo": "“È stato orribile dire ai passeggeri di lasciare le cabine dopo aver speso cifre ingentissime. Il rincaro del carburante era insostenibile”: parla il comandante dell’Odyssey",
+          "entradilla": "Ha destato scalpore la vicenda del viaggio della “Villa Vie Odyssey”, la nave da crociera residenziale che prometteva un giro del mondo di tre anni e mezzo. Il 27 ottobre scorso la nave ha sospeso, a sorpresa, l’attività a Sihanoukville, in Cambogia, e ai residenti sono state concesse circa sette or",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/15/e-stato-orribile-dire-ai-passeggeri-di-lasciare-le-cabine-dopo-aver-speso-cifre-ingentissime-ma-il-carburante-era-insostenibile-parla-il-comandante-dellodyssey/8572681/"
         },
         {
-          "titulo": "L’ex sindaca Virginia Raggi a La7: “Sto ragionando sulla candidatura alle prossime politiche con il M5s, è casa mia”",
-          "entradilla": "Si candiderà alle prossime elezioni politiche? “Sì, stiamo ragionando in quella direzione con il M5s, che è il mio partito, è casa mia“. Lo ha detto Virginia Raggi, ex sindaca di Roma, ospite di Omnibus su La7. E sul Movimento delle origini di Beppe Grillo, sottolinea. “Quella fase è stata important",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/14/virginia-raggi-candidatura-m5s-politiche-notizie/8572187/"
+          "titulo": "Frana sulla statale amalfitana: Positano isolata per detriti e fango – video",
+          "entradilla": "È stata sufficiente qualche ora di pioggia intensa per ridurre la statale amalfitana (video di positanonews.it). Di fatto da qualche ora Positano è irraggiungibile per chi proviene dalla costiera sorrentina, a causa di un dilavamento di detriti e massi sul tratto di Tordigliano. La sede stradale è o",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/15/frana-statale-amalfitana-positano-isolata-notizie/8572685/"
         },
         {
-          "titulo": "“Sono stata truffata. Mi ha chiesto un saluto per sua figlia, poi mi ha svuotato il conto. Sono rimasta con 4 euro e non recupererò nulla”: così Veronica Peparini",
-          "entradilla": "Ospite di Silvia Toffanin nella puntata di oggi, sabato 14 novembre, Veronica Peparini a “Verissimo” ha parlato per la prima volta in tv della truffa telefonica di cui è stata vittima nei giorni scorsi, un episodio che aveva già raccontato in una storia sui social “perché può essere d’aiuto a tantis",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/14/sono-stata-truffata-mi-ha-chiesto-un-saluto-per-sua-figlia-poi-mi-ha-svuotato-il-conto-sono-rimasta-con-4-euro-e-non-recuperero-nulla-cosi-veronica-peparini/8572190/"
+          "titulo": "Sei oncologi su dieci soffrono di burnout: i risultai dell’indagine condotta da Aiom e Fiaso",
+          "entradilla": "Sei oncologi su dieci soffrono frequentemente di burnout. Quasi due su tre hanno ricevuto minacce o subito violenze verbali da parte di pazienti e loro familiari, mentre più della metà denuncia difficoltà nell’accesso ai servizi di supporto psicologico. È il quadro che emerge dall’indagine condotta ",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/15/burnout-oncologi-indagine-aiom-fiaso-notizie/8572152/"
         }
       ],
       "analisis": {
-        "resumen": "- Un ciberataque a una filial de Correos franceses expuso los datos de contacto de 22 millones de personas.\n- En Parma, una manifestación antifascista respondió a una marcha por la remigración; otra noticia destaca la participación de un concejal de la Liga.\n- La justicia confirmó tres cadenas perpetuas en el proceso Aemilia y se practicaron tres detenciones por explotación laboral en Prato.\n- Biden critica a Netanyahu en sus memorias; también se informa de una decisión rusa contra Zelenski y de diferencias entre Italia y Alemania sobre un proyecto de cazas.\n- La portada incluye noticias sobre el sarampión en Estados Unidos, la posible candidatura de Virginia Raggi, el artista Fabio Mauri y una estafa sufrida por Veronica Peparini.",
-        "populismo": 30,
-        "motivo_populismo": "Algunos titulares recurren al contraste y al impacto, como los «veinte mil antifascistas» frente a los «1.500» asistentes a la otra marcha o la víctima de una estafa que quedó «con 4 euros», aunque predominan formulaciones informativas sin apelaciones al pueblo contra las élites.",
-        "sesgo": "La portada presta especial atención a la movilización antifascista y presenta críticamente la marcha por la remigración, al destacar los saludos romanos y los cánticos a Mussolini. La selección combina ese enfoque político con noticias internacionales, judiciales, sanitarias y culturales."
+        "resumen": "- Bruno Barbieri relata episodios de su vida y su estancia en Florida; Walter Sabatini critica al entrenador Gasperini.\n- Supervivientes del incendio de Crans-Montana recuerdan la tragedia; una nave de Emergency denuncia el rescate de ocho personas.\n- Una polémica por un nombramiento agita al partido Futuro Nazionale; una imagen de una serpiente en un inodoro resulta ser falsa.\n- Moscú plantea cambios en la seguridad europea y se informa de drones iraníes contra una base estadounidense en Baréin.\n- Un corrimiento de tierras aísla Positano, seis de cada diez oncólogos sufren agotamiento y el comandante del Odyssey explica la suspensión del viaje.",
+        "populismo": 25,
+        "motivo_populismo": "Algunos titulares destacan citas emotivas o conflictivas, como «lo habría golpeado» y «el incendio se la llevó», pero no se aprecia una apelación al pueblo contra las élites.",
+        "sesgo": "La selección favorece relatos personales, sucesos dramáticos y polémicas, aunque también incluye noticias internacionales y de salud. No se aprecia un sesgo partidista claro en el conjunto."
       }
     }
   ]
