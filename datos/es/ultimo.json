@@ -1,39 +1,39 @@
 {
   "pais": "España",
-  "fecha": "2026-11-15",
-  "turno": 18,
-  "generado": "15/11/2026 21:50",
+  "fecha": "2026-11-16",
+  "turno": 8,
+  "generado": "16/11/2026 15:53",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "La campaña electoral domina las portadas, con atención al programa del PSOE, las encuestas y las propuestas sobre vivienda y cuidados. También se repiten la agresión durante un acto del PP en Hernani, las llegadas de migrantes a El Hierro y el partido España-Inglaterra. Solo Público destaca la subcontratación de consultoras y abogados para redactar pliegos de contratos de hospitales madrileños.",
-    "crispacion": 75,
-    "motivo_crispacion": "La campaña presenta un enfrentamiento intenso entre partidos, con acusaciones y declaraciones polarizadoras sobre inmigración y racismo. La agresión durante un acto del PP en Hernani añade tensión y provoca reproches de Feijóo a Sánchez y a sus socios. También aparecen desacuerdos sobre vivienda, financiación autonómica y derechos sociales, junto a titulares de tono muy crítico. En contraste, las noticias deportivas y culturales, como el ingreso de Sergio Ramírez en la RAE, aportan asuntos menos conflictivos."
+    "temas": "La campaña electoral domina varias portadas, con las propuestas de Frente Amplio, la ley de nietos del PP y el encuentro entre Sánchez y Lula. También se repiten la investigación sobre Begoña Gómez, la versión de la Guardia Civil sobre las alertas previas a la entrada masiva en Ceuta, las nominaciones de Rosalía y la victoria de Alcaraz. Público destaca en solitario el regadío ilegal en Granada.",
+    "crispacion": 69,
+    "motivo_crispacion": "La campaña electoral concentra buena parte de la tensión, con la competencia entre partidos y la movilización de la izquierda frente a la derecha. La agresión al candidato del PP en Guipúzcoa y la petición de escolta añaden un componente de confrontación y preocupación por la seguridad. También hay discrepancias institucionales sobre las alertas previas a la entrada masiva en Ceuta y atención a la causa judicial de Begoña Gómez. Las noticias deportivas, culturales y de vida cotidiana moderan el balance."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "La vivienda vuelve al centro de la campaña, y con razón. Veo en la propuesta del PSOE de destinar el 1% del PIB a vivienda social y gravar la especulación un reconocimiento del problema, pero no una solución suficiente. Mientras el suelo y las viviendas sigan siendo, ante todo, activos para obtener rentas, el derecho a un hogar dependerá de los intereses del gran capital. Necesitamos un parque público amplio y permanente, junto a formas de propiedad colectiva bajo control democrático. La movilización del Sindicato de Inquilinas apunta a la fuerza necesaria para exigirlo.\n\nTambién me preocupa que hospitales madrileños subcontraten la redacción de contratos a consultoras y despachos externos. Los servicios públicos necesitan capacidad propia y personal suficiente, no una dependencia creciente de empresas privadas. La lucha de clases también se libra en quién decide sobre los recursos comunes."
+      "texto": "Veo en la propuesta de jornada de 32 horas y jubilación a los 65 una pregunta de clase: ¿quién disfruta de la riqueza que produce el trabajo? Reducir la jornada sin recortar salarios significa repartir tiempo y poder, no solo empleo. También apoyo el límite a las grandes herencias: ninguna fortuna debería otorgar a sus descendientes un poder económico desmedido por el mero hecho de nacer.\n\nPero redistribuir no basta. La noticia de que hospitales madrileños subcontratan la redacción de pliegos me recuerda que los servicios públicos necesitan capacidad propia, personal y control democrático, no una dependencia creciente de intereses privados. Yo defiendo ampliar la propiedad colectiva de sectores estratégicos para que las decisiones respondan a las necesidades comunes y no al beneficio del gran capital. La subida anunciada del salario mínimo es bienvenida; convertir esos avances en derechos duraderos exige organización de la clase trabajadora."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "La vivienda vuelve a la campaña: el PSOE promete destinarle el 1% del PIB y el Sindicato de Inquilinas se moviliza para que la crisis no desaparezca del debate. Yo no desprecio ninguna mejora que alivie a quien no puede pagar el alquiler, pero desconfío de que un derecho quede a merced de gobiernos, presupuestos y propietarios. Prefiero una fuerza vecinal capaz de decidir y gestionar colectivamente dónde y cómo vivir, sin esperar permiso a los partidos.\n\nTambién rechazo que se vincule inmigración y delincuencia con datos falsos. Convertir a quienes llegan en chivos expiatorios divide a personas que podrían defender juntas sus necesidades. La libertad no consiste solo en escoger una papeleta: exige apoyo mutuo, autonomía y poder real frente a quienes concentran la riqueza y la autoridad."
+      "texto": "La jornada de 32 horas y el límite a las grandes herencias que propone Frente Amplio apuntan a problemas reales: trabajamos demasiado y la riqueza se concentra en pocas manos. También celebro la subida del salario mínimo. Pero no confío mi libertad a un programa electoral ni a quienes administran el Estado: una mejora concedida desde arriba puede retirarse desde arriba.\n\nPrefiero que construyamos fuerza propia en sindicatos independientes, asambleas de barrio y cooperativas donde quienes trabajan y usan los servicios decidan cómo organizarlos. La protección de una familia frente al desahucio recuerda que la vivienda no debería depender del poder de un propietario ni de una sentencia excepcional. Frente a la ultraderecha, defiendo la solidaridad entre vecinos, sin distinción de origen, y la libertad de cada persona para vivir sin tutelas ni jerarquías."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "La vivienda merece soluciones, no solo anuncios de gasto. Me preocupa que el PSOE proponga destinar el 1% del PIB a vivienda social y sumar un impuesto a grandes propietarios: gravar la inversión puede reducir la oferta que necesitamos. Yo prefiero facilitar la construcción, agilizar licencias y proteger la seguridad jurídica para que más personas puedan elegir dónde vivir.\n\nTambién veo con buenos ojos la propuesta del PP de eximir del IRPF el primer año del primer empleo, aunque aspiraría a una reducción más amplia y duradera. Ganar un sueldo debe permitir conservar una parte mayor del fruto del propio trabajo, no depender cada vez más de prestaciones. Un Estado limitado debe proteger derechos y atender a quienes lo necesitan, pero sin sustituir la responsabilidad personal ni convertir cada dificultad en una excusa para subir impuestos."
+      "texto": "La propuesta de Frente Amplio de limitar las herencias y fijar una jornada de 32 horas parte, a mi juicio, de una premisa equivocada: que la prosperidad se decreta. Quien ahorra e invierte debe poder decidir qué deja a sus hijos; gravar al cien por cien una parte de ese legado convierte al Estado en dueño de lo que no ha creado. Y reducir la jornada por ley no aumenta por sí solo la productividad: puede encarecer la contratación y perjudicar a quienes buscan empleo.\n\nTambién desconfío de que la subida del salario mínimo baste para mejorar las oportunidades. Prefiero impuestos bajos, menos trabas y acuerdos libres entre trabajadores y empresas. Un Estado limitado debe proteger derechos y hacer cumplir las reglas, no sustituir la iniciativa individual. La libertad exige asumir responsabilidades, pero también permite crear la riqueza que sostiene una sociedad abierta."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Veo en las llegadas a El Hierro una prueba de que España necesita recuperar el control efectivo de sus fronteras. Una política migratoria estricta, con procedimientos ágiles y respeto a la ley, protege tanto la soberanía como la capacidad de acogida de nuestras comunidades. Para defenderla no hacen falta cifras falsas: debilitan una causa que debe sostenerse sobre la verdad.\n\nTambién me preocupa la agresión durante la campaña en Hernani. Ninguna idea debe imponerse mediante piedras o intimidación; la libertad política se defiende para todos.\n\nFrente a las promesas de más gasto e impuestos, prefiero que se facilite a los jóvenes trabajar, formar una familia y acceder a una vivienda. Las élites pueden envolver sus programas en banderas y platós, pero el patriotismo se demuestra garantizando seguridad, igualdad entre españoles y continuidad de nuestras tradiciones."
+      "texto": "Yo no acepto que defender las fronteras y la soberanía española sea una amenaza para la democracia. La controversia sobre la entrada en Ceuta exige aclarar qué información recibieron las fuerzas de seguridad y, sobre todo, garantizar que España controle efectivamente sus fronteras. Una inmigración ordenada, sometida a la ley y compatible con la capacidad de acogida, protege tanto la convivencia como la seguridad.\n\nTambién apoyo que se estudie cómo devolver voz política a quienes tuvieron que marcharse por el terrorismo de ETA, con garantías jurídicas y sin olvidar a las víctimas. Frente a ello, limitar las herencias como propone Frente Amplio castiga la aspiración de transmitir a los hijos el fruto del trabajo familiar. Yo prefiero una España de familias fuertes, propiedad respetada y decisiones tomadas aquí, no una campaña de etiquetas dictada desde los despachos políticos y mediáticos."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Creo que destinar más recursos a la vivienda social y apoyar la crianza son objetivos razonables: una economía próspera debe ofrecer oportunidades también a quienes parten con menos. Pero el compromiso del PSOE de dedicar el 1% del PIB a vivienda exige explicar cómo se financiará y cómo aumentará la oferta. Gravar la especulación puede ser útil si se diseña bien; no debe sustituir la colaboración con el sector privado ni convertirse en un obstáculo para construir.\n\nTambién me preocupa el deterioro del debate público. La agresión durante la campaña en Hernani merece una condena sin matices: todos deben poder defender sus ideas en libertad. Y vincular inmigración y delincuencia con datos falsos, como ha hecho Abascal respecto a Cornellà, no resuelve ningún problema. Ante las llegadas a El Hierro, prefiero cooperación institucional, recursos suficientes y una política migratoria ordenada y respetuosa con la dignidad humana."
+      "texto": "Me preocupa que la campaña convierta cada propuesta en una prueba de identidad antes que en una política evaluable. Reducir la jornada puede mejorar la vida de los trabajadores, pero una implantación general de 32 horas exige diálogo social, gradualidad y atención a las pequeñas empresas. También creo que las grandes herencias deben contribuir más al bien común; un tipo del 100% sobre un tramo, en cambio, merece un debate serio sobre sus efectos y su aplicación.\n\nLa defensa de las instituciones democráticas que plantean Sánchez y Lula es necesaria, pero debe traducirse en respeto a los controles y búsqueda de acuerdos también con los adversarios. En ese espíritu, la propuesta del PP para los exiliados por el terrorismo merece estudiarse con sensibilidad hacia las víctimas y rigor jurídico. Proteger derechos y preservar reglas electorales claras no son objetivos incompatibles."
     }
   ],
   "periodicos": [
@@ -42,71 +42,71 @@
       "web": "https://elpais.com",
       "noticias": [
         {
-          "titulo": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
-          "entradilla": "El programa electoral de los socialistas incorpora un nuevo impuesto “contra la especulación” de los fondos buitre y grandes propietarios, y defiende el impulso de las renovables para alcanzar el 81% de generación eléctrica en 2030",
-          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-propone-destinar-el-1-del-pib-a-vivienda-social-y-crear-una-prestacion-estatal-por-crianza.html"
+          "titulo": "Frente Amplio apuesta por una jornada laboral de 32 horas y jubilación a los 65 años",
+          "entradilla": "El programa da una vuelta de tuerca a las medidas tradicionales de izquierdas con un tope máximo de diez millones de euros a las herencias",
+          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-16/frente-amplio-apuesta-por-una-jornada-laboral-de-32-horas-y-jubilacion-a-los-65-anos.html"
         },
         {
-          "titulo": "Claves | De un nuevo impuesto a los grandes empresarios a la “unión de la amistad”: el programa del PSOE para el 29-N",
-          "entradilla": "El documento de 114 páginas de los socialistas contempla también un Pacto de Estado por la seguridad ferroviaria, un “escaño ciudadano” y la abolición de la prostitución",
-          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-15/claves-de-un-nuevo-impuesto-a-los-grandes-empresarios-a-la-union-de-la-amistad-el-programa-del-psoe-para-el-29-n.html"
+          "titulo": "Lula da en Madrid un respaldo político a Sánchez, que trata de usar la remontada brasileña como ejemplo",
+          "entradilla": "Los dos presidentes defienden las instituciones instituciones democráticas frente a la amenaza ultraderechista y graban un vídeo de apoyo",
+          "enlace": "https://elpais.com/espana/2026-11-16/lula-visita-a-sanchez-durante-la-campana-electoral.html"
         },
         {
-          "titulo": "Feijóo hará campaña en Guipuzkoa tras la agresión a jóvenes de Nuevas Generaciones en Hernani",
-          "entradilla": "El líder del PP reitera su propuesta de no pagar el IRPF durante el primer año del primer empleo",
-          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-15/feijoo-hara-campana-en-guipuzcoa-tras-la-agresion-a-jovenes-de-nuevas-generaciones-en-hernani.html"
+          "titulo": "El PSOE remonta pero no altera la mayoría de la derecha",
+          "entradilla": "El cuarto ‘tracking’ de 40dB. sitúa a los socialistas en su mejor resultado de toda la legislatura",
+          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-16/el-psoe-remonta-pero-no-altera-la-mayoria-de-la-derecha.html"
         },
         {
-          "titulo": "Abascal vincula inmigración y delincuencia con datos falsos sobre la población extranjera de Cornellà",
-          "entradilla": "El líder de Vox asegura en un mitin que “los españoles son minoría” en la ciudad, cuando según las estadísticas representan el 81% de los vecinos",
-          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-15/abascal-vincula-inmigracion-y-delincuencia-con-datos-falsos-sobre-la-poblacion-extranjera-de-cornella.html"
+          "titulo": "El PP propone una ‘ley de nietos’ para que los exiliados vascos por terrorismo de ETA puedan votar en las elecciones autonómicas",
+          "entradilla": "El líder de los populares, Alberto Núñez Feijóo, tiene previsto desgranar la medida en un acto de campaña esta tarde en Pamplona",
+          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-16/el-pp-propone-una-ley-de-nietos-para-que-los-exiliados-vascos-por-terrorismo-de-eta-puedan-votar-en-las-elecciones-autonomicas.html"
         },
         {
-          "titulo": "El PSOE gana por la izquierda lo que pierde por la derecha, según el tercer ‘tracking’ de la campaña",
-          "entradilla": "Los socialistas mejoran sus posiciones entre el electorado de centro, pero están en riesgo de perder un millón de sufragios por el flanco conservador",
-          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-gana-por-la-izquierda-lo-que-pierde-por-la-derecha-segun-el-tercer-tracking-de-la-campana.html"
+          "titulo": "Ángel Gaitán, el mecánico más famoso de España, entrevista a Abascal tras el plantón a Jordi Wild: “Tienes mi voto”",
+          "entradilla": "El líder de Vox se sienta con el tertuliano de ‘Horizonte’, que pide 150 euros por una llamada telefónica de menos de 10 minutos para temas de coches",
+          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-16/angel-gaitan-el-mecanico-mas-famoso-de-espana-entrevista-a-abascal-tras-el-planton-a-jordi-wild-tienes-mi-voto.html"
         },
         {
-          "titulo": "Sánchez y Chelo García Cortés para las campanadas de La Séptima o ‘La Peter’ en ‘Fuera de Control’",
-          "entradilla": "El presidente del Gobierno habla de su papel como suegro y de cómo conoció a su esposa, Begoña Gómez",
-          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-15/sanchez-y-chelo-garcia-cortes-para-las-campanadas-de-la-septima-o-la-peter-en-fuera-de-control.html"
+          "titulo": "Yolanda Díaz retira su candidatura a la dirección general de la OIT",
+          "entradilla": "El actual director, Houngbo, supera en apoyos a Díaz ante la votación que estaba prevista este lunes en el organismo de la ONU, por lo que la vicepresidenta da un paso atrás",
+          "enlace": "https://elpais.com/economia/2026-11-16/yolanda-diaz-retira-su-candidatura-a-la-direccion-general-de-la-oit.html"
         },
         {
-          "titulo": "Retrato de la Generación 08: los hijos de las crisis y de TikTok estrenan mayoría de edad y voto el 29-N",
-          "entradilla": "Han crecido viendo resquebrajarse el viejo mundo e intuyendo que les tocará poner en pie otro nuevo. Hablamos con 24 jóvenes nacidos en 2008 sobre sus ideas y preocupaciones",
-          "enlace": "https://elpais.com/eps/2026-11-15/retrato-de-la-generacion-08-los-hijos-de-las-crisis-y-de-tiktok-estrenan-mayoria-de-edad-y-voto-el-29-n.html"
+          "titulo": "Un parking, un viaje a Portugal y los cordones de un zapato: la investigación que dio con los ‘topos’ del CNI",
+          "entradilla": "El agente 7691 fue detenido después de que los servicios de inteligencia lo grabaran en su despacho, sacando supuestamente información clasificada",
+          "enlace": "https://elpais.com/espana/2026-11-16/un-parking-un-viaje-a-portugal-y-los-cordones-de-un-zapato-la-investigacion-que-dio-con-los-topos-del-cni.html"
         },
         {
-          "titulo": "La brújula infalible de Sigüés apunta a la derecha",
-          "entradilla": "Desde 1977, el partido que gana las elecciones generales en el pequeño pueblo aragonés es el que se impone en toda España. “No es descontento, es decepción”, coinciden exvotantes socialistas",
-          "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-15/la-brujula-infalible-de-sigues-apunta-a-la-derecha.html"
+          "titulo": "Rosalía logra nueve nominaciones a los Grammy de 2027",
+          "entradilla": "La cantante Raye lidera con 11 candidaturas, mientras que la española es la segunda en número de candidaturas. Beyoncé alcanza el récord de 100 nominaciones",
+          "enlace": "https://elpais.com/us/entretenimiento/2026-11-16/nominaciones-a-los-grammy-2027-rosalia-logra-nueve-nominaciones.html"
         },
         {
-          "titulo": "Sergio Ramírez ingresa en la RAE: “Perdí un país, pero nunca he sido extranjero en España”",
-          "entradilla": "El nuevo académico, exiliado de Nicaragua en 2021, glosa en su discurso la figura de Vargas Llosa, cuya silla L hereda",
-          "enlace": "https://elpais.com/cultura/2026-11-15/sergio-ramirez-ingresa-en-la-rae-perdi-un-pais-pero-nunca-he-sido-extranjero-en-espana.html"
+          "titulo": "Un estudio destapa nueve muertes por el uso de Nolotil en dos años en Alicante, siete de ellas de pacientes británicos",
+          "entradilla": "La investigación apunta a que los ciudadanos del Reino Unido tienen hasta 120 veces más riesgo que los españoles de sufrir reacciones graves al fármaco",
+          "enlace": "https://elpais.com/salud-y-bienestar/2026-11-16/un-estudio-destapa-nueve-muertes-por-el-uso-de-nolotil-en-dos-anos-en-alicante-siete-de-ellas-de-pacientes-britanicos.html"
         },
         {
-          "titulo": "España-Inglaterra, en directo, la UEFA Nations League en vivo | Harry Kane adelanta a Inglaterra al descanso",
-          "entradilla": "La selección dirigida por Luis de la Fuente buscará sumar una victoria que le permita asegurarse el liderato de su grupo",
-          "enlace": "https://elpais.com/deportes/futbol/2026-11-15/espana-inglaterra-en-directo-la-uefa-nations-league-en-vivo.html"
+          "titulo": "Leonor Watling: “Soy afortunada, vivo en una casa que comparto con el banco”",
+          "entradilla": "La actriz y cantante protagoniza la segunda temporada de ‘Simulacro’, la exitosa ficción sonora de Julio Rojas que reflexiona sobre la IA y las fronteras entre la verdad y la falsedad",
+          "enlace": "https://elpais.com/cultura/2026-11-16/leonor-watling-soy-afortunada-vivo-en-una-casa-que-comparto-con-el-banco.html"
         },
         {
-          "titulo": "“Os deseo sufrimiento”: gloria y caída de Jensen Huang, rey de Nvidia, verso salvaje de la IA",
-          "entradilla": "La caída del gurú, en un caso de supuesto espionaje y adulterio, expone los riesgos de la concentración de poder en Estados Unidos",
-          "enlace": "https://elpais.com/economia/2026-11-15/os-deseo-sufrimiento-gloria-y-caida-de-jensen-huang-rey-de-nvidia-verso-salvaje-de-la-ia.html"
+          "titulo": "Penélope Cruz, Charlize Theron, Florence Pugh: los 25 mejores looks de los Governors Awards",
+          "entradilla": "Los Governors Awards son la primera cita en la carrera a los Oscar. Organizados también por la Academia, premian honoríficamente trayectorias. Glenn Close fue la gran galardonada pero no fue la única que brilló",
+          "enlace": "https://elpais.com/smoda/moda/2026-11-16/penelope-cruz-charlize-theron-florence-pugh-los-25-mejores-looks-de-los-governor-awards.html"
         },
         {
-          "titulo": "El drama de las víctimas de fraude que no pueden recuperar su dinero: “El banco me dijo que era culpa mía”",
-          "entradilla": "Las estafas bancarias dejan pérdidas millonarias y clientes que lamentan sentirse desprotegidos por sus entidades",
-          "enlace": "https://elpais.com/economia/2026-11-15/el-drama-de-las-victimas-de-fraude-que-no-pueden-recuperar-su-dinero-el-banco-me-dijo-que-era-culpa-mia.html"
+          "titulo": "Joana Sanz estalla contra Dani Alves tras afirmar que todos le abandonaron menos Dios: “Te visité a pesar de caerme encima el mundo entero”",
+          "entradilla": "La modelo canaria anunció su ruptura al ser preguntada sobre la fe evangélica del exfutbolista. Ahora ha contestado en Instagram al discurso que pronunció en uno de los eventos religiosos que protagoniza, en el que habló de su paso por prisión tras ser denunciado por agresión sexual",
+          "enlace": "https://elpais.com/gente/2026-11-16/joana-sanz-estalla-contra-dani-alves-tras-afirmar-que-todos-le-abandonaron-menos-dios-te-visite-a-pesar-de-caerme-encima-el-mundo-entero.html"
         }
       ],
       "analisis": {
-        "resumen": "- El PSOE presenta propuestas sobre vivienda, crianza, impuestos y energía; un sondeo examina sus apoyos electorales.\n- Feijóo hará campaña en Guipúzcoa tras una agresión a jóvenes del PP; Abascal vincula inmigración y delincuencia con datos falsos.\n- La portada aborda a los jóvenes que votarán por primera vez, las preferencias electorales de Sigüés y una aparición televisiva de Sánchez.\n- Sergio Ramírez ingresa en la RAE y España se enfrenta a Inglaterra en la Nations League.\n- También se tratan las víctimas de fraude bancario y la caída de Jensen Huang en un caso de supuesto espionaje y adulterio.",
-        "populismo": 28,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «fondos buitre», «el drama de las víctimas» y «gloria y caída» aportan carga emocional y sensacionalista.",
-        "sesgo": "La portada da especial protagonismo al PSOE y a la campaña electoral, con varias piezas sobre sus propuestas y apoyos. También destaca un enfoque crítico hacia Vox al contrastar una afirmación de Abascal con estadísticas."
+        "resumen": "- Frente Amplio propone una jornada de 32 horas, jubilación a los 65 y un límite a las herencias.\n- Lula respalda a Sánchez y una encuesta apunta a una remontada del PSOE que no cambia la mayoría de la derecha.\n- El PP plantea facilitar el voto autonómico a descendientes de exiliados por ETA; Díaz retira su candidatura a dirigir la OIT.\n- Una investigación identifica a presuntos ‘topos’ del CNI y un estudio vincula nueve muertes al uso de Nolotil en Alicante.\n- Rosalía logra nueve nominaciones a los Grammy; la portada incluye entrevistas y noticias de entretenimiento.",
+        "populismo": 25,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «destapa», «estalla» y «amenaza ultraderechista» aportan dramatismo o confrontación.",
+        "sesgo": "La portada prioriza la política electoral y presta atención a propuestas y dirigentes de varias fuerzas. La referencia a la «amenaza ultraderechista» refleja un enfoque crítico hacia la ultraderecha, pero el conjunto no permite atribuirle de forma concluyente una orientación política."
       }
     },
     {
@@ -114,71 +114,71 @@
       "web": "https://www.elmundo.es",
       "noticias": [
         {
-          "titulo": "PP y Vox se aferran al 51% de los votos y hasta 199 escaños con un PSOE estancado",
-          "entradilla": "La vuelta a la campaña lúdica con Begoña Gómez como activo electoral le reporta al PSOE dos décimas que roba al Frente Amplio Leer",
-          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af8afeae9cf4ab47b8b4586.html"
+          "titulo": "El PP promete una 'ley de nietos' para que los exiliados por el terrorismo de ETA puedan votar en el País Vasco y en Navarra",
+          "entradilla": "Feijóo anunciará este lunes esta medida, que afecta a decenas de miles de personas, y mañana se desplazará al País Vasco para arropar a su candidato Jon Echeverría, al que agredieron radicales abertzales Leer",
+          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afac98afdddffc5528b457c.html"
         },
         {
-          "titulo": "Sánchez avanza el programa electoral del PSOE y se compromete a crear la figura de \"la unión de amistad\"",
-          "entradilla": "El líder del PSOE recupera la bandera de España y la enarbola ante sus fieles para reivindicar que es \"la de la fuerza de la gente\" Leer",
-          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af99b29e9cf4a7a4b8b456e.html"
+          "titulo": "Sánchez se vuelca con Madrid para dar munición al PSOE frente a Ayuso ante \"la increíble fuga\" de voto del PP a Vox",
+          "entradilla": "Los socialistas confían en subir de sus 10 escaños actuales a 12-14 y aspiran a ser primer fuerza en esta región: \"Hacía mucho tiempo que no teníamos una proyección así\" Leer",
+          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afa00f4e4d4d88a2b8b457e.html"
         },
         {
-          "titulo": "Feijóo se dirige a Sánchez tras la agresión al candidato del PP en Guipúzcoa: \"Dígales a sus socios que no violenten la campaña\"",
-          "entradilla": "Hará parada en esta provincia vasca con Jon Echeverría tras lo ocurrido ayer en Hernani, cuando un grupo de jóvenes lanzó petardos, huevos y piedras al candidato 'popular' Leer",
-          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af98b45fdddff16668b457e.html"
+          "titulo": "\"Aquí o muerdes o te muerden\": los barrios marcados por la inmigración que no quieren ser Francia",
+          "entradilla": "Recelo y pobreza, cuidados y convivencia, se cruzan en Vallecas, Usera y Villaverde, vecindarios como tantos otros donde la población extranjera se dispara Leer",
+          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6af9eef2fdddffd6748b4577.html"
         },
         {
-          "titulo": "El Hierro tiembla: 3.163 inmigrantes en tres días y sólo 12.000 habitantes",
-          "entradilla": "El fin de semana han llegado a la isla 3.161 personas. Sólo el sábado fueron 1.327, el 84% de las 1.580 que desembarcaron ese día en el archipiélago, récord de la ruta Canaria Leer",
-          "enlace": "https://www.elmundo.es/espana/2026/11/15/6af9fde221efa063298b457e.html"
+          "titulo": "La ciudad que siempre 'acierta' el ganador de las elecciones sigue dudando: sólo el 15% de los indecisos ha elegido ya su voto",
+          "entradilla": "Acompañamos a 20 indecisos de Plasencia, que siempre 'clava' el resultado de las generales, en su cuenta atrás hacia el 29-N. Tres han resuelto sus dudas: dos votarán al PP y uno al PSOE. El resto sigue pensando. ¿Les ayudará la IA como a Julián? Leer",
+          "enlace": "https://www.elmundo.es/cronica/2026/11/14/6af713d7e9cf4a6b1a8b458c.html"
         },
         {
-          "titulo": "Ada Colau propone reconocer legalmente a la familia elegida a través de \"permisos retribuidos\" a amigos",
-          "entradilla": "La candidata de Frente Amplio copia la medida de La Francia Insumisa y plantea establecer una \"mayor protección laboral\" a quienes asuman responsabilidades en el cuidado de sus allegados, sin necesidad de que estos mantengan vínculos de parentesco o convivencia Leer",
-          "enlace": "https://www.elmundo.es/espana/2026/11/15/6af990c1e9cf4a301c8b4585.html"
+          "titulo": "El Frente Amplio propone limitar las herencias a un máximo de 10 millones por persona",
+          "entradilla": "Plantea un tipo impositivo marginal del 100% sobre el tramo que supere esa cifra y del 75% para herencias de entre 5 y 10 millones Leer",
+          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afac0a8fc6c8389748b4597.html"
         },
         {
-          "titulo": "El Sindicato de Inquilinas abre su nueva etapa ante el posible cambio de Gobierno en Vistalegre:  \"Lo que se ha encendido aquí ya no lo para nadie\"",
-          "entradilla": "El macroevento en Madrid busca impedir que la crisis de la vivienda sea desplazada del debate político electoral a puertas del 29-N Leer",
-          "enlace": "https://www.elmundo.es/economia/2026/11/15/6af9d36ee85eceb7168b4577.html"
+          "titulo": "El PP reclama a Marlaska por carta que ponga escolta a su candidato en Guipúzcoa tras la agresión que sufrió antes de un acto en Hernani",
+          "entradilla": "El partido de Feijóo exige una \"respuesta inmediata\" porque \"está en juego la seguridad personal\" de Jon Echeverría Leer",
+          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afaf4fa21efa083778b4589.html"
         },
         {
-          "titulo": "Cáceres y el diputado que baila: \"Se lo llevará el que gane en votos, aunque sea por uno\"",
-          "entradilla": "Vox rompió el tradicional reparto de escaños en Extremadura entre PSOE y PP en las anteriores generales al lograr uno por Badajoz. Las encuestas le auguran otro más el 29-N en Cáceres Leer",
-          "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af89bc9fc6c83a60b8b45a3.html"
+          "titulo": "La Guardia Civil cuestiona la \"alerta temprana\" de los servicios de inteligencia: \"Lo que se recibió fue una información parcial insuficiente para dimensionar la amenaza\"",
+          "entradilla": "\"La Jefatura de Información de la Guardia Civil no ha sido receptora de ninguna comunicación a la que se le pueda atribuir una consideración de alerta en los días previos al evento del 30 y 31 julio\", dice en su informe a la juez Tardón Leer",
+          "enlace": "https://www.elmundo.es/espana/2026/11/16/6afaee19e9cf4a93078b4577.html"
         },
         {
-          "titulo": "Maledon vuelve donde lo dejó y el Baskonia lo paga caro",
-          "entradilla": "El francés, recuperado de su lesión, se exhibe en el Buesa Arena para el triunfo de un Real Madrid que se mantiene invicto en ACB. Pedro Martínez iguala el récord histórico de partidos de Aíto García Reneses Leer",
-          "enlace": "https://www.elmundo.es/deportes/baloncesto/liga-endesa/2026/11/15/6af9f1d321efa0bb1f8b4572.html"
+          "titulo": "Alcaraz acaricia la perfección ante Tiafoe y mete miedo en las ATP Finals",
+          "entradilla": "El español firma una exhibición en su debut en Turín, disipa las dudas sobre su estado físico y presenta su candidatura a conquistar uno de los pocos grandes títulos que le faltan. Leer",
+          "enlace": "https://www.elmundo.es/deportes/tenis/2026/11/16/6afb0eabe4d4d808088b4578.html"
         },
         {
-          "titulo": "Sánchez rescata para el programa electoral la financiación autonómica que prima a Cataluña, pese al rechazo de Page y Barbón",
-          "entradilla": "El PSOE promete \"impulsar\" el modelo que pactó con Esquerra y que votaron en contra la mayoría de las CCAA Leer",
-          "enlace": "https://www.elmundo.es/espana/2026/11/15/6af9eeb5e85ecef4158b4570.html"
+          "titulo": "El juez que sustituye a Peinado ordena a Google que no borre el 'software' por el que Begoña Gómez se va a sentar en el banquillo",
+          "entradilla": "Adopta la medida tras una solicitud de Hazte Oír para garantizar que la plataforma digital estará disponible como prueba para el juicio Leer",
+          "enlace": "https://www.elmundo.es/espana/2026/11/16/6afad6d121efa0b4068b4596.html"
         },
         {
-          "titulo": "Alexander Zverev no da opción a Rafa Jódar en su estreno como maestro en las ATP Finals",
-          "entradilla": "El número uno impone su poderoso saque ante el español, de 20 años, que aún mantiene opciones de jugar semifinales (6-4, 6-4). Leer",
-          "enlace": "https://www.elmundo.es/deportes/tenis/2026/11/15/6af9c7a3e9cf4a84238b457b.html"
+          "titulo": "El Gobierno aprobará mañana la subida del 5,3% del SMI",
+          "entradilla": "La aprobación irá acompañada de medidas fiscales para que no tribute la nueva cuantía Leer",
+          "enlace": "https://www.elmundo.es/economia/empresas/2026/11/16/6afafd7d21efa00b548b45bd.html"
         },
         {
-          "titulo": "La 'generación Wild' de Vox examina la espantada de Abascal: a casi todos les decepcionó, pero la mayoría le seguirá votando",
-          "entradilla": "En institutos y universidades, no se hablaba de otra cosa. Pero el 'fortín joven' de Vox es férreo: ni la decepción mueve el voto del próximo 29 de noviembre. Partidarios y detractores, casi todos coinciden en afear el plantón. Algunos ahora dudan de su palabra. Pero con Sánchez en frente, los votan",
-          "enlace": "https://www.elmundo.es/cronica/2026/11/15/6af73ba9e4d4d8be588b458a.html"
+          "titulo": "La Justicia italiana interviene a Revolut por fallos en sus sistemas de prevención del blanqueo",
+          "entradilla": "Ordena intervenir durante un año la filial italiana de la entidad por considerar que sus fallos de supervisión han facilitado actividades delictivas. La intervención no tendrá consecuencias para los depósitos de los clientes italianos ni supondrá interrupciones en la actividad habitual del banco Lee",
+          "enlace": "https://www.elmundo.es/economia/empresas/2026/11/16/6afaf80ffc6c83b3158b4573.html"
         },
         {
-          "titulo": "El 'Tayta León' reza el Ángelus en Cusco, la capital histórica de los incas",
-          "entradilla": "El Santo Padre recuerda en la ciudad peruana que las tradiciones populares son \"un tesoro invaluable de buenas enseñanzas\" para los jóvenes Leer",
-          "enlace": "https://www.elmundo.es/internacional/2026/11/15/6af9ed42fc6c83eb4a8b458c.html"
+          "titulo": "Rosalía hace historia en los Grammy: es la artista en español más nominada y la primera española en aspirar a las grandes categorías",
+          "entradilla": "La catalana suma 10 nominaciones y competirá con Lux y Berghain en Mejor álbum, Mejor canción y Mejor grabación Leer",
+          "enlace": "https://www.elmundo.es/cultura/musica/2026/11/16/6afaf0ccfc6c8389748b45b0.html"
         }
       ],
       "analisis": {
-        "resumen": "- PP y Vox sumarían el 51% de los votos y hasta 199 escaños, con el PSOE estancado.\n- Sánchez presenta propuestas electorales sobre amistad y financiación autonómica; Colau plantea permisos para cuidar a allegados.\n- Feijóo reprocha a Sánchez la agresión al candidato del PP en Guipúzcoa; jóvenes votantes de Vox valoran la ausencia de Abascal en un acto.\n- La portada destaca la llegada de miles de migrantes a El Hierro y un acto del Sindicato de Inquilinas sobre la vivienda.\n- En deportes, sobresalen el triunfo del Real Madrid de baloncesto y la victoria de Zverev sobre Jódar; también se recoge la visita del papa a Cusco.",
-        "populismo": 40,
-        "motivo_populismo": "Expresiones como «El Hierro tiembla», «roba» votos y «la espantada de Abascal» aportan alarma y dramatización, aunque otros titulares son descriptivos.",
-        "sesgo": "La selección prioriza la contienda electoral y emplea un lenguaje crítico hacia propuestas del PSOE y Frente Amplio, además de presentar la inmigración con un enfoque alarmista. También recoge críticas a Abascal, por lo que no se aprecia una orientación uniforme en todos los titulares."
+        "resumen": "- El PP propone facilitar el voto a descendientes de exiliados por ETA y pide escolta para su candidato en Guipúzcoa.\n- Sánchez refuerza la campaña del PSOE en Madrid; en Plasencia persisten las dudas entre los votantes indecisos.\n- Un reportaje aborda inmigración, pobreza y convivencia en barrios de Madrid.\n- El Gobierno subirá el SMI un 5,3% y el Frente Amplio propone limitar las herencias; Italia interviene la filial de Revolut.\n- Destacan también informaciones judiciales y de seguridad, la victoria de Alcaraz y las nominaciones de Rosalía a los Grammy.",
+        "populismo": 35,
+        "motivo_populismo": "Expresiones como «muerdes o te muerden», «no quieren ser Francia» y «dar munición» aportan dramatización y confrontación, aunque otros titulares mantienen un tono principalmente informativo.",
+        "sesgo": "La portada da amplio espacio a la competición electoral y a iniciativas o reclamaciones del PP, junto con la estrategia del PSOE. El reportaje sobre inmigración destaca el recelo y el conflicto en su titular, aunque también menciona los cuidados y la convivencia."
       }
     },
     {
@@ -186,71 +186,71 @@
       "web": "https://www.abc.es",
       "noticias": [
         {
-          "titulo": "De la Espriella en Colombia, cien días entre la guerra al crimen y las redes sociales",
-          "entradilla": "Una guerra abierta contra el crimen organizado, un ambicioso plan de ajuste fiscal, una sintonía absoluta con Estados Unidos y hasta un terremoto que devastó medio país: los primeros cien días de Abelardo De la Espriella como presidente de Colombia han sido todo menos anodinos.Conocido como 'El tigr",
-          "enlace": "https://www.abc.es/internacional/cien-dias-espriella-colombia-guerra-crimen-redes-20261113165240-nt.html"
+          "titulo": "El balón parado y Rodridependencia: los pecados de la selección en su peor semana",
+          "entradilla": "Se han propagado tantas satisfacciones a cuenta de la selección en España que una derrota se convierte en noticia por inusual y fuera de catálogo. Ese 2-3 a unos centímetros del empate que evitó el magnífico portero del Leeds James Trafford dejó dolido al vestuario de la Roja, según comentaron los p",
+          "enlace": "https://www.abc.es/deportes/futbol/balon-parado-rodri-peor-semana-seleccion-20261116133826-nt.html"
         },
         {
-          "titulo": "Inglaterra manda en el Metropolitano con un gol de penalti de Kane",
-          "entradilla": "",
-          "enlace": "https://www.abc.es/deportes/futbol/espana-inglaterra-directo-resultado-ganador-goles-partido-20261115201802-di.html"
+          "titulo": "Vinicius entona el 'mea culpa': «Me fui de vacaciones para disfrutar y entrené menos que otros años»",
+          "entradilla": "La selección de Brasil cayó contra Japón por 3-2 en su último amistoso. Sin embargo la derrota de los de Ancelotti quedó edulcorada en cierta medida por una noticia que los aficionados de la canarinha y del Real Madrid anhelaban desde hacía tiempo: el regreso de los goles y, sobre todo, el atrevimie",
+          "enlace": "https://www.abc.es/deportes/real-madrid/vinicius-entona-mea-culpa-desgrana-motivos-bajo-20261116100131-nt.html"
         },
         {
-          "titulo": "Sánchez agitando la bandera",
-          "entradilla": "No hay ceremonia populista completa sin banderas. Sánchez ya lo tenía casi todo, pero faltaba eso. Tenía el chándal, en forma de camiseta; el emotivismo calcado a los Kirchner , con Begoña; se había disuelto con los militantes, uniformados todos, y su discurso ya se parecía más a la lista de los Rey",
-          "enlace": "https://www.abc.es/espana/juan-soto-ivars-sanchez-agitando-bandera-20261115210031-nt.html"
+          "titulo": "'El Ruso' no viajaba en el tren con destino a Barcelona que registraron Mossos y Guardia Civil",
+          "entradilla": "Falsa alarma. 'El Ruso', Manuel Ferrero Álvarez, huido tras haber colocado la mochila con explosivos que mató a un agente de la Policía Nacional en Oviedo, no viajaba en un tren de Rodalies este lunes. Una persona alertó a las Guardia Civil y a los Mossos d'Esquadra tras divisar a un individuo que c",
+          "enlace": "https://www.abc.es/espana/cataluna/despliegue-policial-ante-posible-avistamiento-ruso-barcelona-20261116131115-nt.html"
         },
         {
-          "titulo": "Feijóo anuncia un acto con Jon Echeverría y carga contra los que le tiraron piedras: «La calle no es vuestra»",
-          "entradilla": "El líder del Partido Popular, Alberto Núñez Feijóo, ha anunciado este domingo que participará en un acto de campaña en Guipúzcoa con el número uno para el Congreso, Jon Echeverría, para mostrarle su apoyo tras tener que cancelar un evento que tenía previsto en Hernani por recibir lanzamientos de pie",
-          "enlace": "https://www.abc.es/espana/pais-vasco/feijoo-anuncia-acto-guipuzcoa-jon-echeverria-ejemplo-20261115134405-nt.html"
+          "titulo": "Brillante puesta en escena de Alcaraz en Turín",
+          "entradilla": "Grupo Ivan Lendl Round Robin / Jornada 1 ATP FinalsCarlos Alcaraz 6 6 Frances Tiafoe 2 2Hasta a Frances Tiafoe le daba la risa. Fue tal el despliegue físico y técnico de Carlos Alcaraz en su estreno en las ATP Finals que su rival no pudo más que reconocérselo cuando se cruzaron en la red al finaliza",
+          "enlace": "https://www.abc.es/deportes/tenis/brillante-puesta-escena-alcaraz-turin-20261116152851-nt.html"
         },
         {
-          "titulo": "El Real Madrid mantiene su pleno de victorias ante un Baskonia sin respuesta",
-          "entradilla": "El Real Madrid no necesitó alardes para seguir sin conocer la derrota. En el Buesa Arena, donde el Baskonia llevaba desde abril sin perder en Liga, el conjunto de Pedro Martínez se impuso sin apuros (84-98) en una tarde de dominio coral. Lo hizo impulsado por dos nombres propios con historia: Timoth",
-          "enlace": "https://www.abc.es/deportes/baloncesto/real-madrid-mantiene-pleno-victorias-ante-baskonia-20261115204649-nt.html"
+          "titulo": "El juez que sustituye a Peinado pide guardar los proyectos del software de Begoña Gómez y la Complutense por «prudencia»",
+          "entradilla": "El juez de Madrid Carlos Valle, que sustituye a Juan Carlos Peinado, el magistrado que envió a juicio a la esposa del presidente del Gobierno, Begoña Gómez, por malversación y tráfico de influencias, ha solicitado conservar los proyectos de la Universidad Complutense de Madrid vinculados al software",
+          "enlace": "https://www.abc.es/espana/juez-sustituye-peinado-pide-guardar-proyectos-software-20261116150330-nt.html"
         },
         {
-          "titulo": "Pedro Sánchez: «Abascal es una persona racista que habla mucho de los árabes, pero él tiene sus genes... se le ve en la cara»",
-          "entradilla": "A principios de este mes de noviembre nació 'La Séptima', un nuevo canal generalista de ámbito nacional impulsado por José Miguel Contreras, fundador de 'LaSexta'. Esta tarde, Pedro Sánchez ha acudido como invitado especial al programa 'Fuera de control', presentado por Alba Carrillo y Marta Márquez",
-          "enlace": "https://www.abc.es/gente/pedro-sanchez-abascal-persona-racista-habla-arabes-20261115183149-nt.html"
+          "titulo": "Isak Andic nunca consultó al notario sobre desheredar a Jonathan",
+          "entradilla": "Nueva jornada de testificales en el caso Andic . El primero que este lunes ha desfilado por los juzgados de Martorell (Barcelona) ha sido Ariel Sultán, notario del fundador de Mango, quien ante la instructora ha asegurado que Isak nunca le hizo comentario alguno sobre desheredar a su hijo Jonathan, ",
+          "enlace": "https://www.abc.es/espana/cataluna/isak-andic-nunca-consulto-notario-sobre-desheredar-20261116142625-nt.html"
         },
         {
-          "titulo": "Sergio Ramírez ingresa en la RAE con un homenaje a Vargas Llosa",
-          "entradilla": "El escritor nicaragüense Sergio Ramírez ingresó este domingo en la Real Academia Española para ocupar la silla 'L', vacante desde el fallecimiento de Mario Vargas Llosa , en abril de 2025. El premio Cervantes 2017 dedicó su discurso de ingreso a la obra de su antecesor, a quien retrató como «un nove",
-          "enlace": "https://www.abc.es/cultura/sergio-ramirez-ingresa-rae-homenaje-vargas-llosa-20261115203000-nt.html"
+          "titulo": "Rosalía hace historia en los Grammy con 'LUX' y logra nueve nominaciones",
+          "entradilla": "La cantante británica de soul Raye lidera las nominaciones de los Grammys, reconocida en once categorías, seguida de la estrella española Rosalía, con nueve. Una cifra con la que la cantante ha hecho historia.La española es la primera artista en recibir una nominación en esta categoría. Hasta ahora,",
+          "enlace": "https://www.abc.es/cultura/musica/rosalia-historia-grammy-lux-logra-nueve-nominaciones-20261116150606-nt.html"
         },
         {
-          "titulo": "Programa del PSOE: un año de cotización extra por hijo, nueva prestación por crianza y despido más caro",
-          "entradilla": "Más gasto y también más impuestos . El programa electoral del PSOE reproduce las formulas de gestión que han sido protagonistas en ocho años de Gobierno. Así, pese al déficit y la deuda desbocada de la Seguridad Social, los socialistas reconocerían un año adicional de cotización por hijo/a para redu",
-          "enlace": "https://www.abc.es/economia/programa-psoe-ano-cotizacion-extra-hijo-nueva-20261115165634-nt.html"
+          "titulo": "La Guardia Civil niega que el CNI realizase una «alerta temprana» que avisase de la «dimensión» de la invasión de Ceuta",
+          "entradilla": "La Guardia Civil niega que el Centro Nacional de Inteligencia (CNI) enviase «un aviso o alerta temprana que anticipara la naturaleza y dimensión de la entrada masiva que se produjo el 30 y 31 de julio» en Ceuta, destacando que tampoco hizo «alusión a elementos de dimensión desproporcionada» en la in",
+          "enlace": "https://www.abc.es/espana/guardia-civil-niega-cni-realizase-alerta-temprana-20261116120849-nt.html"
         },
         {
-          "titulo": "Sánchez promete un blindaje constitucional del aborto, las pensiones y la vivienda para el que no tiene apoyo",
-          "entradilla": "Pedro Sánchez presenta las elecciones del 29 de noviembre como un plebiscito sobre su persona y como una disyuntiva entre el avance o el retroceso. En el PSOE buscan proyectarse como garantes de los derechos frente a los recortes —con los que identifican a las derechas— y plantean una serie de medid",
-          "enlace": "https://www.abc.es/espana/sanchez-promete-blindaje-constitucional-aborto-pensiones-vivienda-20261115155628-nt.html"
+          "titulo": "Sánchez explota su foto electoral con Lula",
+          "entradilla": "Pedro Sánchez ya tiene su foto electoral con Lula da Silva . Ni la afonía del presidente brasileño, que le obligó a cancelar los discursos que tenía previsto realizar en la Cumbre del Clima (COP) de Turquía, han impedido que el líder latinoamericano recale en España para tratar de contagiar la épica",
+          "enlace": "https://www.abc.es/espana/sanchez-explota-foto-electoral-lula-20261116150740-nt.html"
         },
         {
-          "titulo": "León XIV viaja a Cuzco, a 3.400 metros de altura, donde pone a prueba su salud: «Es un milagro que haya venido desde Roma»",
-          "entradilla": "El Papa se ha desplazado hasta Cuzco, a 3.400 metros de altura, para visitar el corazón histórico y espiritual del mundo andino. En las ruinas de una antigua fortaleza inca ha reivindicado que la fe católica «reconcilia en una época marcada por heridas y divisiones». Le han escuchado decenas de mile",
-          "enlace": "https://www.abc.es/internacional/leon-xiv-viaja-cuzco-3400-metros-altura-20261115185324-nt.html"
+          "titulo": "Los obispos preparan un pronunciamiento sobre el 29N después de 15 años sin orientar el voto",
+          "entradilla": "Fue habitual durante décadas pero, desde hace quince años, los obispos, de manera colegiada, habían preferido abstenerse de publicar un documento que orientara el voto de los católicos. Sin embargo ahora, la Conferencia Episcopal Española (CEE) prepara un pronunciamiento público ante las elecciones ",
+          "enlace": "https://www.abc.es/sociedad/obispos-preparan-pronunciamiento-sobre-elecciones-generales-despues-20261116115209-nt.html"
         },
         {
-          "titulo": "García Albiol, sobre la relación de España con Marruecos: «El Gobierno de Sánchez destina 750 millones a mejorar sus trenes mientras nuestra red ferroviaria se cae a pedazos»",
-          "entradilla": "En la campaña electoral del 29N , una de las cuestiones que más protagonismo está adquiriendo es la relación que mantiene actualmente España con Marruecos . Las distintas formaciones han puesto el foco en los vínculos entre ambos países y cuestionan algunas de las decisiones del Gobierno de Pedro Sá",
-          "enlace": "https://www.abc.es/espana/cataluna/garcia-albiol-sobre-relacion-espana-marruecos-gobierno-20261115120226-nt.html"
+          "titulo": "La nueva película de Belén Cuesta y Karra Elejalde llega a Netflix: basada en la novela homónima de Fernando Aramburu",
+          "entradilla": "Netflix sigue imparable y se consolida como una de las plataformas de 'streaming' de referencia gracias a la amplia variedad de contenidos. Su catálogo reúne series , películas , documentales y programas para todos los gustos y edades, además de estrenos frecuentes que mantienen el interés de los su",
+          "enlace": "https://www.abc.es/play/cine/noticias/llega-netflix-nueva-pelicula-belen-cuesta-karra-elejalde-20261116070000-nt.html"
         },
         {
-          "titulo": "Jódar paga la novatada ante Zverev",
-          "entradilla": "Round Robin / Jornada 1 ATP FinalsAlexander Zverev 6 6 Rafa Jódar 4 4Poco se le puede reprochar a Rafa Jódar en su primer partido en las ATP Finals, resuelto con derrota ante Alexander Zverev después de una exhibición de potencia y efectividad con el servicio del número uno mundial. A sus 20 años, e",
-          "enlace": "https://www.abc.es/deportes/tenis/jodar-paga-novatada-ante-zverev-20261115155717-nt.html"
+          "titulo": "El periodista Alberto Rojas gana el VII Premio de Periodismo David Gistau",
+          "entradilla": "Alberto Rojas , reportero de la sección de Internacional del diario 'El Mundo', ha ganado la VII edición del Premio de Periodismo David Gistau con su artículo 'Hoy ya queda poco de nosotros. Son cuatro años de guerra que parecen 20'. El texto, publicado en El Mundo, recoge el desgaste de la població",
+          "enlace": "https://www.abc.es/cultura/periodista-alberto-rojas-gana-vii-premio-periodismo-20261116140233-nt.html"
         }
       ],
       "analisis": {
-        "resumen": "- Sánchez propone blindar constitucionalmente el aborto, las pensiones y la vivienda; el programa del PSOE incluye medidas de crianza y cambios laborales.\n- La portada recoge críticas a Sánchez, incluidas sus declaraciones sobre Abascal y la relación del Gobierno con Marruecos.\n- Feijóo anuncia un acto con Jon Echeverría tras la cancelación de un evento por el lanzamiento de piedras.\n- Se repasan los primeros cien días de De la Espriella en Colombia y el viaje de León XIV a Cuzco.\n- La portada incluye el ingreso de Sergio Ramírez en la RAE y noticias de fútbol, baloncesto y tenis.",
-        "populismo": 45,
-        "motivo_populismo": "Conviven titulares informativos con expresiones valorativas o alarmistas como «ceremonia populista», «deuda desbocada» y «se cae a pedazos», esta última atribuida a García Albiol.",
-        "sesgo": "Se aprecia un enfoque crítico hacia Sánchez y el PSOE, tanto en la selección de noticias como en expresiones editoriales que cuestionan sus propuestas y su estilo. También se recogen críticas formuladas por dirigentes del PP, aunque presentadas como declaraciones atribuidas."
+        "resumen": "- La selección española analiza sus fallos tras una derrota; Vinicius reconoce que entrenó menos durante las vacaciones.\n- Alcaraz debuta con victoria en las ATP Finals de Turín.\n- Un registro policial en un tren hacia Barcelona termina en falsa alarma: el fugitivo buscado no viajaba en él.\n- Un juez pide conservar proyectos de software vinculados a Begoña Gómez y la Complutense; la Guardia Civil niega haber recibido una alerta temprana sobre la entrada en Ceuta.\n- La portada recoge la visita de Lula a España, el pronunciamiento electoral que preparan los obispos y las nueve nominaciones de Rosalía a los Grammy.",
+        "populismo": 25,
+        "motivo_populismo": "Predominan titulares informativos, aunque expresiones como «Sánchez explota su foto electoral», «invasión de Ceuta» y «los pecados de la selección» aportan carga valorativa o sensacionalista.",
+        "sesgo": "Se aprecia un enfoque crítico hacia Sánchez en la interpretación de su encuentro con Lula y un lenguaje especialmente enfático al abordar Ceuta. La selección también concede amplio espacio al deporte y al entretenimiento."
       }
     },
     {
@@ -258,9 +258,9 @@
       "web": "https://www.publico.es",
       "noticias": [
         {
-          "titulo": "Los hospitales madrileños subcontratan a consultoras y despachos de abogados externos la redacción de los pliegos de decenas de contratos",
+          "titulo": "El PSOE elimina por primera vez en 40 años el Sáhara Occidental de su programa electoral",
           "entradilla": "",
-          "enlace": "https://www.publico.es/politica/hospitales-madrilenos-subcontratan-consultoras-despachos-abogados-externos-redaccion-pliegos-decenas-contratos.html"
+          "enlace": "https://www.publico.es/politica/partidos/psoe-elimina-primera-vez-40-anos-sahara-occidental-programa-electoral.html"
         },
         {
           "titulo": "La izquierda impulsa la movilización contra la derecha con medidas a favor de la diversidad familiar, derechos feministas y LGTBIQ+",
@@ -268,61 +268,61 @@
           "enlace": "https://www.publico.es/politica/izquierda-impulsa-movilizacion-derecha-medidas-favor-diversidad-familiar-derechos-feministas-lgtbiq.html"
         },
         {
+          "titulo": "Límite de diez millones a las herencias, jornada de 32 horas y jubilación a los 65: las propuestas de Frente Amplio",
+          "entradilla": "",
+          "enlace": "https://www.publico.es/politica/bustinduy-anima-psoe-esperar-aprobar-prestacion-universal-crianza-proximos-consejos-ministros.html"
+        },
+        {
+          "titulo": "Sánchez y Lula defienden en su reunión el modelo progresista y la cohesión social frente a \"la amenaza ultraderechista\"",
+          "entradilla": "",
+          "enlace": "https://www.publico.es/politica/ultima-hora-campana-electoral-29n-directo.html"
+        },
+        {
+          "titulo": "Los hospitales madrileños subcontratan a consultoras y despachos de abogados externos la redacción de los pliegos de decenas de contratos",
+          "entradilla": "",
+          "enlace": "https://www.publico.es/politica/hospitales-madrilenos-subcontratan-consultoras-despachos-abogados-externos-redaccion-pliegos-decenas-contratos.html"
+        },
+        {
+          "titulo": "Alguien quiere sembrar el caos en Europa: falsas amenazas de bomba, frigoríficos saboteados y ataques sin firma",
+          "entradilla": "",
+          "enlace": "https://www.publico.es/internacional/europa/alguien-quiere-sembrar-caos-europa-falsas-amenazas-bomba-frigorificos-saboteados-ataques-firma.html"
+        },
+        {
+          "titulo": "Más de 4.000 hectáreas de regadío ilegal sitúan a Granada como uno de los mayores puntos negros del robo de agua en España",
+          "entradilla": "",
+          "enlace": "https://www.publico.es/sociedad/4-000-hectareas-regadio-ilegal-situan-granada-mayores-puntos-negros-robo-agua-espana.html"
+        },
+        {
+          "titulo": "El Supremo rechaza el desahucio de una familia cuyo titular del alquiler ingresó en una residencia de mayores",
+          "entradilla": "",
+          "enlace": "https://www.publico.es/politica/tribunales/supremo-rechaza-desahucio-familia-cuyo-titular-alquiler-ingreso-residencia-mayores.html"
+        },
+        {
           "titulo": "Los querubines de Núcleo Nacional y los terroristas de Altsasu",
           "entradilla": "",
           "enlace": "https://www.publico.es/opinion/columnas/querubines-nucleo-nacional-terroristas-altsasu.html"
         },
         {
-          "titulo": "Gabriel Rufián: \"¿Unidad de la izquierda? Si este país chupa fascismo, las cúpulas de los partidos se moverán\"",
+          "titulo": "Los hechos y los deshechos",
           "entradilla": "",
-          "enlace": "https://www.publico.es/politica/unidad-izquierda-pais-chupa-fascismo-cupulas-partidos-moveran.html"
+          "enlace": "https://www.publico.es/opinion/columnas/hechos-deshechos.html"
         },
         {
-          "titulo": "La fusión que iba a salvar las cajas gallegas y derivó en un rescate público de más de 9.000 millones de euros",
+          "titulo": "No diga Vox, diga vértigo",
           "entradilla": "",
-          "enlace": "https://www.publico.es/politica/fusion-iba-salvar-cajas-gallegas-derivo-rescate-publico-9-000-millones-euros.html"
+          "enlace": "https://www.publico.es/opinion/columnas/diga-vox-diga-vertigo.html"
         },
         {
-          "titulo": "José María Sánchez, el inquisidor que encontró brujas en el Congreso",
+          "titulo": "Campaña electoral sobre cuarto adolescente",
           "entradilla": "",
-          "enlace": "https://www.publico.es/opinion/columnas/jose-maria-sanchez-inquisidor-encontro-brujas-congreso.html"
-        },
-        {
-          "titulo": "El PSOE combina en su programa más impuestos a fondos buitre y tecno-oligarcas con el compromiso de destinar el 1% del PIB al acceso a la vivienda",
-          "entradilla": "",
-          "enlace": "https://www.publico.es/politica/partidos/psoe-combina-programa-impuestos-fondos-buitre-tecnooligarcas-compromiso-destinar-1-pib-acceso-vivienda.html"
-        },
-        {
-          "titulo": "Frente Amplio propone que la “familia elegida” pueda tener permisos retribuidos por cuidados",
-          "entradilla": "",
-          "enlace": "https://www.publico.es/politica/sigue-directo-ultima-hora-campana-electoral-1.html"
-        },
-        {
-          "titulo": "Irene Montero acusa a PP y Vox de querer esclavos \"negros, latinos y andaluces\"",
-          "entradilla": "",
-          "enlace": "https://www.publico.es/politica/sigue-directo-ultima-hora-campana-electoral-1_1221.html"
-        },
-        {
-          "titulo": "Un país partido casi por la mitad desde 2015: cinco elecciones con menos de tres puntos entre izquierda y derecha",
-          "entradilla": "",
-          "enlace": "https://www.publico.es/politica/pais-partido-casi-mitad-2015-cinco-elecciones-tres-puntos-izquierda-derecha.html"
-        },
-        {
-          "titulo": "Martínez Campos, el golpista del ático",
-          "entradilla": "",
-          "enlace": "https://www.publico.es/opinion/columnas/martinez-campos-golpista-atico.html"
-        },
-        {
-          "titulo": "Las cuentas de la izquierda para ganar: el PSOE ve clave un 70% de participación y Frente Amplio lograr un 10% de los votos",
-          "entradilla": "",
-          "enlace": "https://www.publico.es/politica/cuentas-izquierda-ganar-psoe-ve-clave-70-participacion-frente-amplio-lograr-10-votos.html"
+          "enlace": "https://www.publico.es/opinion/columnas/campana-electoral-sobre-cuarto-adolescente.html"
         }
       ],
       "analisis": {
-        "resumen": "- Los hospitales madrileños encargan a consultoras y abogados externos la redacción de pliegos de contratos.\n- La izquierda impulsa la movilización con propuestas sobre diversidad familiar, feminismo y derechos LGTBIQ+.\n- El PSOE plantea impuestos a fondos y grandes tecnológicas y más gasto en vivienda; Frente Amplio propone permisos para la «familia elegida».\n- Varios titulares recogen declaraciones y análisis sobre la confrontación política y las expectativas electorales de la izquierda.\n- También se abordan el rescate de las cajas gallegas y asuntos relacionados con Núcleo Nacional, Altsasu y el Congreso.",
-        "populismo": 68,
-        "motivo_populismo": "Abundan expresiones de confrontación y carga emocional como «chupa fascismo», «querer esclavos», «inquisidor», «fondos buitre» y «tecno-oligarcas», aunque otros titulares tienen un tono informativo.",
-        "sesgo": "La portada presta especial atención a las propuestas de la izquierda y a los derechos sociales, con un enfoque crítico hacia la derecha y determinados actores económicos. Varias formulaciones y citas refuerzan una lectura confrontativa de la política."
+        "resumen": "- El PSOE retira el Sáhara Occidental de su programa electoral por primera vez en 40 años.\n- La izquierda moviliza a sus votantes con medidas sociales; Frente Amplio propone cambios en herencias, jornada y jubilación.\n- Sánchez y Lula defienden la cohesión social frente a la «amenaza ultraderechista».\n- Se destacan la subcontratación en hospitales madrileños, el regadío ilegal en Granada y un fallo del Supremo contra un desahucio.\n- La portada aborda incidentes de seguridad en Europa e incluye varios titulares de opinión política.",
+        "populismo": 36,
+        "motivo_populismo": "Predominan titulares informativos, pero expresiones como «sembrar el caos» y «querubines» y «terroristas» aportan dramatización y descalificación; también se recoge la expresión «amenaza ultraderechista», atribuida a Sánchez y Lula.",
+        "sesgo": "La selección presta atención a propuestas progresistas, derechos sociales y posibles irregularidades en la gestión pública. Algunos titulares de opinión presentan un enfoque crítico hacia la derecha y Vox."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://okdiario.com",
       "noticias": [
         {
-          "titulo": "Un joven de 24 años compra un terreno con dos casetas de piedra abandonadas de más de 100 años por 15.000 € y las restaura desde cero para convertirlas en una vivienda para su madre",
-          "entradilla": "Un joven compró hace más de un año un terreno con dos casetas de piedra abandonadas de más de 100 años de antigüedad por 15.000 euros. Ahora, se propuso restaurarlas desde cero para convertirlas en la vivienda de su madre, que vive de alquiler. Emilio está documentando la obra en una serie de vídeos",
-          "enlace": "https://okdiario.com/curiosidades/joven-24-anos-compra-terreno-dos-casetas-piedra-abandonadas-mas-100-anos-15-000-restaura-desde-cero-convertirlas-vivienda-madre-20586380"
+          "titulo": "Última hora en directo de la actualidad política en España: elecciones generales del 29-N y campaña electoral hoy en vivo",
+          "entradilla": "La actualidad política este lunes 16 de noviembre pasa por que la vicepresidenta segunda del Gobierno y ministra de Trabajo y Economía Social, Yolanda Díaz, ha anunciado hace unos minutos en sus redes sociales que retira su candidatura para dirigir la Organización Internacional del Trabajo (OIT). Ad",
+          "enlace": "https://okdiario.com/espana/ultima-hora-directo-actualidad-politica-espana-elecciones-generales-del-29-n-campana-electoral-hoy-vivo-20905843"
         },
         {
-          "titulo": "Inda: «Y ahora si te parece, Pedro, ¿por qué no hablamos de vuestros muertos en el AVE o del dinero que habéis robado?»",
-          "entradilla": "Eduardo Inda sale al paso de la enésima mención recibida procedente de Pedro Sánchez. El presidente ha vuelto a sacar a relucir su obsesión por el director de OKDIARIO este domingo en una nueva aparición televisiva, y tiene un mensaje para él: un agradecimiento por «toda la publicidad que le estás h",
-          "enlace": "https://okdiario.com/opinion/inda-ahora-si-te-parece-pedro-que-no-hablamos-vuestros-muertos-ave-o-del-dinero-que-habeis-robado-20904141"
+          "titulo": "Iluminar una habitación con una botella llena de agua sin usar electricidad: cómo funciona y qué ventajas tiene",
+          "entradilla": "Una botella de plástico transparente, agua y luz solar pueden convertirse en una alternativa sencilla para iluminar una estancia durante el día. El sistema, conocido como lámpara de Moser, aprovecha las propiedades del agua para llevar y repartir la iluminación exterior dentro de habitaciones que re",
+          "enlace": "https://okdiario.com/curiosidades/truco-como-iluminar-habitacion-botella-llena-agua-sin-usar-electricidad-como-funciona-verdaderas-ventajas-tiene-20246693"
         },
         {
-          "titulo": "Bob Dylan, músico estadounidense: «Una persona tiene éxito si se levanta por la mañana y se acuesta por la noche y entre medias hace lo que le gusta»",
-          "entradilla": "Bob Dylan es una de esas figuras cuya influencia trasciende las fronteras de la música. A lo largo de más de seis décadas de trayectoria, el artista estadounidense ha construido un legado que combina canciones, literatura, compromiso social y una personalidad tan singular como difícil de encasillar.",
-          "enlace": "https://okdiario.com/cool/famosos/bob-dylan-musico-estadounidense-persona-tiene-exito-si-levanta-manana-acuesta-noche-medias-hace-lo-que-gusta-19185759"
+          "titulo": "Usando una simple botella reciclada: Aragón instala una poderosa y sólida trampa para cazar avispas asiáticas",
+          "entradilla": "Desde 2010, la avispa asiática se ha extendido por distintas regiones españolas, en especial en Aragón. En Alcañiz, las autoridades llevan varias semanas impulsando una campaña intensiva para intentar contener el avance de esta especie invasora, después de que el verano pasado se detectaran hasta nu",
+          "enlace": "https://okdiario.com/curiosidades/truco-usando-simple-botella-reciclada-aragon-instala-poderosa-solida-trampa-cazar-avispas-asiaticas-16795823"
         },
         {
-          "titulo": "La psicología sugiere que las personas que hablan alto y a veces gritan no son agresivas, en realidad sienten las emociones con más fuerza que el resto",
-          "entradilla": "Hay personas que hablan alto, gesticulan mucho y elevan la voz cuando cuentan algo que les emociona. Para quienes las escuchan, ese comportamiento puede confundirse rápidamente con enfado, agresividad o una personalidad conflictiva. Sin embargo, la psicología y la investigación sobre la comunicación",
-          "enlace": "https://okdiario.com/curiosidades/psicologia-sugiere-que-personas-que-hablan-alto-veces-gritan-no-son-agresivas-realidad-sienten-emociones-mas-fuerza-que-resto-19159838"
+          "titulo": "¿Por qué se calcula la velocidad de los barcos en nudos y a cuántos km/h equivalen?",
+          "entradilla": "A diferencia de los vehículos terrestres, la velocidad de los barcos y aviones no se mide en kilómetros por hora, sino en nudos, donde 1 nudo equivale aproximadamente a 1,85 kilómetros por hora. Esta práctica nació siglos atrás la tradición marítima, cuando la velocidad de los barcos se calculaba ut",
+          "enlace": "https://okdiario.com/curiosidades/razon-como-calcula-velocidad-barcos-nudos-cuantos-km-h-equivalen-18434769"
         },
         {
-          "titulo": "Nadie se lo esperaba: en 1982 reintrodujeron asnos en el desierto, y 40 años después han conseguido reforestar el ecosistema de forma natural",
-          "entradilla": "Los asnos salvajes poblaban el desierto del Néguev, en Israel, hasta que la caza intensiva de principios del siglo XX los dejó extinguidos por completo en la región. Nadie imaginó entonces que su regreso, décadas después, convertiría a estos animales en ingenieros capaces de transformar la geología ",
-          "enlace": "https://okdiario.com/naturaleza/nadie-lo-esperaba-1982-reintrodujeron-asnos-desierto-40-anos-despues-han-conseguido-reforestar-ecosistema-forma-natural-20147923"
+          "titulo": "Sócrates, filósofo griego, sobre las amistades: «El amigo debe ser como el dinero; antes de necesitarlo, hay que conocer su valor»",
+          "entradilla": "El filósofo griego Sócrates ha recuperado una enorme popularidad en redes sociales y medios de comunicación. «El amigo debe ser como el dinero; antes de necesitarlo, es necesario saber su valor». Esta frase, que pese a tener más de 2.000 años de antigüedad, sigue describiendo perfectamente uno de lo",
+          "enlace": "https://okdiario.com/curiosidades/cita-socrates-filosofo-griego-sobre-amistades-amigo-debe-ser-como-dinero-antes-necesitarlo-hay-que-conocer-valor-17261528"
         },
         {
-          "titulo": "Pubill se lesiona a los 19 minutos del España-Inglaterra y entra Pedro Porro",
-          "entradilla": "Marc Pubill se lesionó a los 19 minutos del España-Inglaterra en el Metropolitano. El lateral sufrió un problema muscular que le impidió continuar y Luis de la Fuente dio entrada a Pedro Porro para ocupar su puesto en el costado derecho de la defensa. Pubill había sido una de las novedades en la ali",
-          "enlace": "https://okdiario.com/deportes/pubill-lesiona-19-minutos-del-espana-inglaterra-entra-pedro-porro-20904103"
+          "titulo": "La psicología sugiere que las personas que colocan la silla después de levantarse no lo hacen porque sean obedientes sino porque son disciplinadas y tienen cuidado social",
+          "entradilla": "Reuniones, comidas familiares o momentos de charla son solo algunas de las actividades que conllevan sentarse alrededor de una mesa. Compartir mesa o espacio con otras personas puede decir mucho de ellas. Un ejemplo es ayudar a los camareros, lo que traslada una sensación de empatía y respeto hacia ",
+          "enlace": "https://okdiario.com/curiosidades/psicologia-aclara-que-personas-que-colocan-silla-despues-levantarse-no-lo-hacen-porque-sean-obedientes-sino-porque-son-disciplinadas-tienen-cuidado-social-18485528"
         },
         {
-          "titulo": "Feijóo sí apoya a España en el Metropolitano mientras Sánchez acude a blanquearse a ‘La Séptima’",
-          "entradilla": "Alberto Núñez Feijóo, líder del Partido Popular y candidato a la presidencia del Gobierno en las elecciones generales del 29 de noviembre, sí ha acudido al estadio Metropolitano de Madrid para apoyar a la Selección española en el partido ante Inglaterra de la Liga de las Naciones. Feijóo guardó desd",
-          "enlace": "https://okdiario.com/deportes/feijoo-si-apoya-espana-metropolitano-mientras-sanchez-acude-blanquearse-septima-20904000"
+          "titulo": "La psicología dice que los niños de los 60 y 70 no eran más fuertes por la crianza, sino por el abandono cotidiano que vivían",
+          "entradilla": "¿Por qué los niños de los 60 y 70 eran más fuertes? En aquel entonces, el aburrimiento, la imaginación y la creatividad iban de la mano, algo impensable a día de hoy. Muchos psicólogos advierten de la sobreestimulación a la que están sometidos los niños en la actualidad. Los padres buscan constantem",
+          "enlace": "https://okdiario.com/curiosidades/psicologia-dice-que-ninos-anos-60-70-no-eran-mas-fuertes-crianza-sino-abandono-cotidiano-que-vivian-16660695"
         },
         {
-          "titulo": "El Hierro recibe 1.261 inmigrantes en siete cayucos y vuelve a superar las mil llegadas en un día",
-          "entradilla": "La ola migratoria continúa azotando las costas canarias, especialmente en El Hierro, isla que durante la jornada de este domingo ha recibido al menos 1.261 inmigrantes a bordo de siete cayucos. Con estas cifras, que elevan a más de 96 las embarcaciones rescatadas en el archipiélago en lo que va de n",
-          "enlace": "https://okdiario.com/espana/hierro-recibe-1-261-inmigrantes-siete-cayucos-vuelve-superar-mil-llegadas-dia-20903905"
+          "titulo": "Mahoma nos dejó una reflexión sobre la riqueza: «La verdadera riqueza de un hombre es el bien que hace en este mundo»",
+          "entradilla": "El dinero puede comprar bienes, proporcionar comodidades y ofrecer seguridad, pero existe una riqueza que no aparece en ninguna cuenta bancaria. Mahoma dejó una reflexión que invita precisamente a mirar más allá de las posesiones materiales. «La verdadera riqueza de un hombre es el bien que hace en ",
+          "enlace": "https://okdiario.com/curiosidades/mahoma-reflexion-sobre-riqueza-autentica-riqueza-hombre-realidad-bien-hace-este-mundo-20249421"
         },
         {
-          "titulo": "«De Madrid a las Estrellas»: el Metropolitano abrazó a sus campeones del mundo con la presencia del Rey en el palco",
-          "entradilla": "Fernando Torres volvió al césped del Metropolitano y el estadio entero se tiñó de rojo y amarillo. Antes de que España e Inglaterra se jugaran el liderato de su grupo en la Liga de Naciones, la Selección despidió un año histórico junto a su afición. Hubo un mosaico con la bandera de España, un tifo ",
-          "enlace": "https://okdiario.com/deportes/madrid-estrellas-metropolitano-abrazo-sus-campeones-del-mundo-presencia-del-rey-palco-20902456"
+          "titulo": "Está confirmado y es oficial: los mayores de 65 años ya pueden comer por 2,80 euros gracias a la tarjeta Oro de la Junta de Andalucía",
+          "entradilla": "Comer un menú del día por menos de lo que cuesta un desayuno compuesto por un café y una tostada es posible para gran parte de pensionistas en Andalucía. Esto se debe a que los comedores públicos de la Junta, repartidos por todo el territorio andaluz, ofertan almuerzos a un módico precio para aquell",
+          "enlace": "https://okdiario.com/andalucia/oficial-esta-confirmado-mayores-65-anos-ya-pueden-comer-280-euros-gracias-tarjeta-oro-junta-andalucia-20716528"
         },
         {
-          "titulo": "Juan Carlos Rivero revoluciona las redes con sus comentarios en el España – Inglaterra de la Liga de las Naciones",
-          "entradilla": "Juan Carlos Rivero ha vuelto a ser uno de los protagonistas de la retransmisión de televisión del España – Inglaterra, partido de la sexta (y última) jornada de la fase de grupos de la Liga de las Naciones. El veterano periodista deportivo ha sido uno de los nombres más comentados durante el partido",
-          "enlace": "https://okdiario.com/deportes/juan-carlos-rivero-revoluciona-redes-sus-comentarios-espana-inglaterra-liga-naciones-20903473"
+          "titulo": "Joan Manuel Serrat (82), cantante español: «Es un buen momento para que nosotros podamos decir lo que pensamos de todo esto»",
+          "entradilla": "La sociedad española se encuentra en estos momentos extremadamente polarizada debido a la inestabilidad política. La legislatura de Pedro Sánchez está dejando a su paso un sinfín de escándalos, siendo el último el accidente ferroviario de Urda, con la consiguiente dimisión de Óscar Puente, que está ",
+          "enlace": "https://okdiario.com/curiosidades/joan-manuel-serrat-82-cantante-espanol-buen-momento-que-nosotros-podamos-decir-lo-que-pensamos-todo-esto-realmente-20715325"
         },
         {
-          "titulo": "España rinde un emotivo homenaje a Jesús de Miguel y las víctimas del accidente de Urda",
-          "entradilla": "La Selección española ha realizado un homenaje al fallecido Jesús de Miguel en su partido frente a Inglaterra en el Metropolitano. Los jugadores españoles saltaron al césped con las camisetas de los clubes en los que jugó el malogrado delantero en toda su carrera futbolística. España posó en la foto",
-          "enlace": "https://okdiario.com/deportes/espana-rinde-emotivo-homenaje-jesus-miguel-victimas-del-accidente-urda-20903989"
+          "titulo": "La rutina saludable de Antonio Lobato (60) para mantenerse en forma: «Desayuno una barrita con aguacate, aceite y tomate»",
+          "entradilla": "Antonio Lobato ha pasado buena parte de su vida profesional ligado a la Fórmula 1. Durante años, su voz acompañó a millones de espectadores en los domingos de carreras, relatando adelantamientos, estrategias, accidentes, victorias y derrotas con un estilo tan reconocible que terminó formando parte d",
+          "enlace": "https://okdiario.com/cool/famosos/rutina-saludable-antonio-lobato-60-realmente-mantenerse-forma-desayuno-barrita-aguacate-aceite-tomate-20205251"
         },
         {
-          "titulo": "Dónde ver el España – Inglaterra: a qué hora es y en qué canal ver por TV en directo gratis y en vivo online el partido de la Liga de las Naciones hoy",
-          "entradilla": "España se enfrenta este domingo a Inglaterra en el último partido del grupo A3 de la Liga de las Naciones que se disputará en el Metropolitano. La reciente campeona del mundo sólo necesita un punto para acceder a la eliminatoria de cuartos de final como primera de grupo y con el factor campo a favor",
-          "enlace": "https://okdiario.com/deportes/que-hora-juega-espana-inglaterra-horario-donde-ver-tv-directo-gratis-vivo-online-partido-liga-naciones-hoy-20829225"
+          "titulo": "Los expertos en longevidad coinciden: «Las personas que viven más tiempo no hacen ejercicio, sino que viven en zonas donde todos los desplazamientos al trabajo se realizan caminando»",
+          "entradilla": "España es uno de los países con mayor esperanza de vida al nacer del mundo. De acuerdo con los datos del Instituto Nacional de Estadística (INE), ya supera los 84,01 años (86,53 años en mujeres y 81,38 años en hombres). Esta cifra refleja un hito demográfico sin precedentes, aunque, al mismo tiempo,",
+          "enlace": "https://okdiario.com/curiosidades/expertos-longevidad-coinciden-personas-que-viven-mas-tiempo-no-hacen-ejercicio-sino-realmente-viven-zonas-donde-todos-desplazamientos-trabajo-caminando-20753575"
         }
       ],
       "analisis": {
-        "resumen": "- Un joven restaura dos casetas para convertirlas en una vivienda para su madre.\n- Inda responde a Pedro Sánchez con acusaciones sobre el AVE y dinero robado; otra noticia contrapone la asistencia de Feijóo al fútbol con la aparición televisiva de Sánchez.\n- El España-Inglaterra ocupa varias noticias, entre ellas la lesión de Pubill y el homenaje a Jesús de Miguel y a las víctimas del accidente de Urda.\n- El Hierro recibe 1.261 inmigrantes en siete cayucos durante una jornada.\n- Otras noticias abordan una cita de Bob Dylan, las personas que hablan alto y la reintroducción de asnos en el desierto.",
-        "populismo": 65,
-        "motivo_populismo": "Destacan el enfrentamiento y las acusaciones de «vuestros muertos» y «el dinero que habéis robado», la descalificación «blanquearse» y fórmulas sensacionalistas como «Nadie se lo esperaba».",
-        "sesgo": "La portada muestra un enfoque favorable a Feijóo y crítico con Sánchez, al contraponer el apoyo del primero a España con una descripción descalificadora de la aparición televisiva del segundo. También concede amplio espacio al fútbol y a contenidos de interés humano."
+        "resumen": "- Seguimiento de la campaña electoral y retirada de la candidatura de Yolanda Díaz a dirigir la OIT.\n- Una trampa con botellas recicladas busca contener la avispa asiática en Aragón.\n- Una tarjeta andaluza permite a mayores de 65 años acceder a menús económicos.\n- Consejos y afirmaciones sobre psicología, hábitos saludables y longevidad.\n- Curiosidades sobre iluminación, navegación y citas atribuidas a figuras conocidas.",
+        "populismo": 35,
+        "motivo_populismo": "Expresiones como «Está confirmado y es oficial» y afirmaciones tajantes como «La psicología dice» o «no hacen ejercicio» recurren al énfasis y simplifican cuestiones complejas, aunque no predominan las descalificaciones ni la apelación al pueblo contra las élites.",
+        "sesgo": "La portada prioriza contenidos prácticos, curiosidades y bienestar, con titulares de atractivo llamativo y generalizaciones. En política, el texto sobre Serrat destaca la polarización y los escándalos, pero el conjunto no permite atribuir una orientación política clara."
       }
     }
   ]

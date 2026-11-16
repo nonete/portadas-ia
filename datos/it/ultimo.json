@@ -1,39 +1,39 @@
 {
   "pais": "Italia",
-  "fecha": "2026-11-15",
-  "turno": 18,
-  "generado": "15/11/2026 21:50",
+  "fecha": "2026-11-16",
+  "turno": 8,
+  "generado": "16/11/2026 15:53",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "Se repiten las amenazas rusas a Europa y la guerra en Ucrania, el conflicto en Yemen y la tensión entre Irán y Estados Unidos. También destacan el posible regreso de Jensen Huang a Nvidia, el debate sobre un impuesto a los más ricos y la asistencia de líderes opositores a Atreju. Varias portadas recogen noticias deportivas y la visita del Papa a Perú. Solo Corriere della Sera destaca la investigación sobre Toti y sus contactos con empresarios en Liguria.",
-    "crispacion": 69,
-    "motivo_crispacion": "La tensión es elevada por las amenazas rusas a Europa y los enfrentamientos en Oriente Medio, incluido el ataque iraní a intereses estadounidenses en Baréin. En Italia, hay desacuerdos entre partidos de la oposición sobre el impuesto a los más ricos y la asistencia a Atreju, así como choques en la mayoría por el Superbonus. La investigación sobre Liguria y las acusaciones cruzadas añaden tensión. La compensan noticias deportivas, culturales y sobre la visita del Papa."
+    "temas": "Se repiten la administración judicial de Revolut por una investigación de blanqueo, la investigación al exjefe de policía De Gennaro por el presunto desvío de las pesquisas sobre la matanza de via D’Amelio y el debate sobre impuestos a las grandes fortunas. También aparecen las amenazas de bomba en escuelas y el acuerdo migratorio con Ruanda. Solo Corriere della Sera destaca el caso de Liguria y los encuentros de Toti con el empresario Spinelli.",
+    "crispacion": 65,
+    "motivo_crispacion": "La tensión es considerable por las investigaciones sobre Liguria, Revolut y el presunto desvío de las pesquisas sobre la matanza de via D’Amelio. En el plano político destacan el choque entre socios de gobierno por el Superbonus y la tasa sobre bebidas, así como las diferencias entre partidos de la oposición sobre los impuestos a la riqueza. Las amenazas a escuelas y algunos titulares polarizadores añaden inquietud social. Noticias sobre deporte, ahorro y aumentos salariales sanitarios compensan parcialmente ese clima."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Yo veo en el debate sobre la sanidad y la escuela una pregunta de clase: ¿quién paga y quién recibe los beneficios de la riqueza que producimos? La propuesta de gravar a los superricos y mejorar los salarios docentes apunta en la dirección correcta. Pero no basta con corregir los excesos del mercado: necesitamos servicios públicos universales, financiados de forma suficiente y sostenida.\n\nQue Taranto figure al final de la clasificación de calidad de vida recuerda que la igualdad formal no garantiza las mismas oportunidades en todos los territorios. Para mí, defender a quienes trabajan significa también disputar el control de la economía: la propiedad colectiva de sectores estratégicos permitiría orientar la inversión hacia las necesidades sociales, no hacia la rentabilidad del gran capital. La salud y la educación no deberían depender del bolsillo ni del lugar de residencia."
+      "texto": "Veo en el debate sobre la sanidad y los impuestos una pregunta de clase: ¿quién aporta la riqueza y quién decide cómo se utiliza? Mientras se discuten mejoras salariales para médicos y enfermeros y el futuro de las ayudas para visitas especializadas, gravar los grandes patrimonios financieros no debería ser un tabú. La atención sanitaria y las condiciones de quienes la prestan son necesidades colectivas, no partidas enfrentadas entre sí.\n\nApoyo ese impuesto, pero no me conformo con redistribuir una pequeña parte de la riqueza después de que el capital haya decidido su destino. Defiendo servicios públicos suficientes y propiedad colectiva, bajo control democrático, en sectores esenciales. La administración judicial de Revolut también recuerda que la innovación financiera no sustituye la supervisión pública. La clase trabajadora necesita derechos y poder de decisión, no solo promesas de prosperidad."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "Las imágenes de reuniones reservadas en un yate entre dirigentes y empresarios me recuerdan por qué desconfío de un poder concentrado que negocia lejos de quienes tendrán que vivir con sus decisiones. Las sospechas deben investigarse sin convertirlas en condenas anticipadas. Pero el problema no se agota en la conducta de unos pocos: también importa quién decide y quién queda fuera.\n\nMientras los partidos discuten impuestos y alianzas, yo defiendo que la educación y la salud no dependan del tamaño de la cartera. No basta con cambiar de gobernantes ni con confiarlo todo al Estado: trabajadores y comunidades deben poder organizar y controlar directamente los servicios que necesitan. La autogestión y el apoyo mutuo no eliminan los desacuerdos, pero permiten afrontarlos sin entregar nuestra libertad individual y colectiva a jerarquías que hablan en nuestro nombre."
+      "texto": "Leo que varios partidos debaten impuestos sobre las grandes fortunas. Reducir la desigualdad importa, pero no confío en que delegar cada decisión en el Estado y esperar al próximo pacto electoral baste para acabar con el poder que concentra la riqueza. Prefiero una sociedad donde quienes trabajan y sostienen la vida común controlen directamente sus recursos, mediante asociaciones libres y decisiones compartidas.\n\nTambién leo que varios países europeos preparan un acuerdo con Ruanda para enviar allí a migrantes que desean expulsar. Me parece una forma de alejar de nuestra vista a personas cuya libertad debería importar tanto como la nuestra. Frente a las fronteras administradas desde arriba, defiendo redes de acogida y apoyo mutuo construidas por quienes viven en los territorios y por quienes llegan a ellos. La libertad colectiva no puede levantarse sobre la exclusión."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "Yo no creo que una nueva tasa sobre los más ricos sea el camino para mejorar la escuela. La educación merece recursos, pero también exige revisar cómo se gastan y dar más libertad a las familias para elegir. Antes de pedir más impuestos, el Estado debería demostrar que administra bien los que ya cobra.\n\nEl debate sobre el Superbonus apunta al mismo problema: los beneficios públicos no son gratis, y la deuda que los financia traslada la factura al futuro. Tampoco aceptaría que se cambien las reglas retroactivamente: ciudadanos y empresas necesitan seguridad jurídica para decidir e invertir.\n\nPrefiero impuestos bajos, competencia y un Estado limitado que cumpla sus funciones sin sustituir la iniciativa individual. La libertad económica requiere responsabilidad personal, pero también gobiernos responsables que no prometan hoy lo que otros tendrán que pagar mañana."
+      "texto": "La propuesta de gravar los grandes patrimonios financieros se presenta como una solución justa, pero yo veo un riesgo: castigar el ahorro y la inversión sin resolver el problema de fondo, que es cuánto gasta el Estado y con qué resultados. Prefiero impuestos bajos, sencillos y previsibles, que dejen a las personas más margen para decidir qué hacer con su dinero.\n\nEl debate sobre la deuda apunta en la misma dirección. Gastar hoy sin explicar quién pagará mañana no es solidaridad, sino trasladar responsabilidades. Un Estado limitado debe financiar bien sus funciones esenciales, rendir cuentas y evitar privilegios. También confío en la competencia para mejorar los servicios financieros, siempre que las empresas cumplan la ley y respondan por sus actos. La libertad económica exige reglas claras y responsabilidad personal, no favores ni impunidad."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Veo un mundo más peligroso: la amenaza rusa contra Europa y la extensión del conflicto en Oriente Próximo deberían recordarnos que la paz no se garantiza con declaraciones. Italia necesita defender sus intereses, reforzar su seguridad y conservar la capacidad de decidir por sí misma. También debe controlar estrictamente sus fronteras y su inmigración: no hay soberanía real si el Estado renuncia a decidir quién entra y bajo qué condiciones.\n\nEn casa, las noticias sobre encuentros reservados entre dirigentes y empresarios alimentan mi desconfianza hacia unas élites demasiado cómodas lejos del escrutinio público. Exijo transparencia y respeto a la presunción de inocencia. Frente a nuevas promesas de impuestos, prefiero disciplina fiscal y protección del ahorro familiar. Y comparto la valoración del Papa sobre las tradiciones populares: una nación que desprecia su herencia termina perdiendo también el sentido de sus obligaciones con el futuro."
+      "texto": "Yo creo que Italia debe recuperar el control de sus fronteras. El acuerdo que preparan cinco países europeos con Ruanda apunta en la dirección correcta: quien no tiene derecho a permanecer debe ser retornado, con procedimientos claros y garantías legales. Pero nuestra política migratoria no puede depender de que Bruselas descubra por fin la necesidad de actuar. Un Estado que no decide quién entra y quién permanece renuncia a una parte esencial de su soberanía.\n\nTambién exijo un Estado firme frente al crimen y transparente ante sus ciudadanos. La investigación sobre posibles desviaciones en el caso de la matanza de Via D’Amelio debe llegar hasta el final, respetando la presunción de inocencia. La autoridad no se defiende ocultando responsabilidades: se fortalece cuando demuestra que la ley alcanza también a quienes ocupan los cargos más altos."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Me preocupa que el debate sobre la escuela y la sanidad se reduzca a promesas o consignas. Pagar mejor a los docentes y proteger una atención sanitaria accesible son inversiones en igualdad de oportunidades. Pero también exigen cuentas claras: prefiero reformas graduales, financiadas de forma sostenible y evaluadas por sus resultados. Una contribución de los más ricos merece discusión, siempre que esté bien diseñada y no sustituya una revisión seria del gasto.\n\nAnte las amenazas rusas a Europa, creo que la respuesta debe combinar firmeza, coordinación entre aliados y diplomacia. Defender la seguridad no significa renunciar a negociar; negociar tampoco significa aceptar la coerción. En Italia, como en Europa, necesitamos instituciones capaces de buscar acuerdos sin confundir el consenso con la falta de principios."
+      "texto": "Me preocupa que el debate sobre la riqueza se reduzca a elegir entre castigar el éxito y tolerar la desigualdad. La propuesta de gravar grandes patrimonios financieros merece estudiarse sin prejuicios, pero también con rigor: importa saber cómo se recaudaría, qué efectos tendría sobre la inversión y a qué servicios se destinarían los ingresos. Prefiero un acuerdo fiscal estable y comprensible a una promesa grandilocuente.\n\nTambién creo que el caso de Revolut recuerda por qué la innovación necesita supervisión. La administración judicial debe seguir su curso sin convertir una investigación en condena anticipada; al mismo tiempo, los clientes merecen información clara y controles eficaces. Un mercado abierto funciona mejor cuando existen reglas confiables y autoridades capaces de aplicarlas. Defender las instituciones no significa darles un cheque en blanco, sino exigirles transparencia y responsabilidad."
     }
   ],
   "periodicos": [
@@ -103,10 +103,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- La portada analiza los cambios en el código de circulación y cuestiona que reduzcan las víctimas.\n- Varias noticias abordan los encuentros de Toti y otros cargos ligures con Spinelli, además de la presunta manipulación de datos de la pandemia.\n- Se destaca la disputa en la mayoría de Gobierno por el Superbonus y el impuesto a las bebidas azucaradas.\n- Las tropas rusas avanzan hacia Járkov y Zelenski describe la situación como extremadamente difícil.\n- Se informa sobre la denuncia contra Fedez, las pesquisas fiscales sobre Camila Giorgi y distintas opciones de ahorro.",
-        "populismo": 25,
-        "motivo_populismo": "Expresiones como «estalla el caso» o «perseguida por Hacienda» dramatizan algunos asuntos, aunque predominan los datos y las citas y no se aprecia una apelación al pueblo contra las élites.",
-        "sesgo": "La portada adopta un enfoque crítico hacia la gestión pública en Liguria y destaca los conflictos dentro de la mayoría de Gobierno. También cuestiona de antemano la eficacia de la reforma vial y el aumento de la deuda."
+        "resumen": "- Cambios en el código de circulación y dudas sobre su efecto en las víctimas.\n- Encuentros en un yate y presunta manipulación de datos de COVID en Liguria; el alcalde de Génova pide claridad y niega haber favorecido a Spinelli.\n- Tensiones en la mayoría de Gobierno por el Superbonus y el impuesto a las bebidas; una columna critica la acumulación de deuda.\n- Rusia avanza hacia Járkov y Zelenski reconoce que la situación es muy difícil.\n- Fedez niega su presencia en el caso Iovino; Hacienda reclama dinero a Camila Giorgi. También se ofrecen consejos de inversión.",
+        "populismo": 30,
+        "motivo_populismo": "Expresiones como «ataca», «estalla el caso» y «perseguida por Hacienda» dramatizan algunos asuntos, aunque no se aprecia una apelación al pueblo contra las élites.",
+        "sesgo": "La portada destaca posibles irregularidades en Liguria y conflictos dentro de la mayoría de Gobierno, con un enfoque crítico hacia la gestión pública. También incluye versiones y declaraciones de los implicados."
       }
     },
     {
@@ -114,71 +114,71 @@
       "web": "https://www.repubblica.it",
       "noticias": [
         {
-          "titulo": "L’Iran attacca gli Usa in Bahrein. Il Wsj: “Ha ancora fino a 2.500 missili”",
-          "entradilla": "L’operazione nella notte come risposta ai colpi contro i radar. E il Wall Street Journal riporta la stima dell’intelligence sull’arsenale iraniano",
-          "enlace": "https://www.repubblica.it/esteri/2026/11/16/news/iran_attacca_gli_usa_in_bahrein_ha_ancora_fino_a_2500_missili-425725654/"
+          "titulo": "Conto “smart” e abbonamenti: successi e guai del modello Revolut",
+          "entradilla": "La sfida di Nik Storonsky alle banche tradizionali passa da maggiore semplicità nell’apertura e gestione del conto. Ma ora la fintech, finita in amministrazione giudiziaria, deve ripensare il suo sistema di business",
+          "enlace": "https://www.repubblica.it/economia/2026/11/16/news/revolut_modello_storonsky_guai_successi_banca_digitale-425727212/"
         },
         {
-          "titulo": "Nvidia, possibile colpo di scena: Huang pensa al ritorno alla guida dell’azienda",
-          "entradilla": "Secondo il Financial Times sarebbe stato travolto da un’ondata di solidarietà dopo le dimissioni per la storia con Alice Huang, sospetta spia cinese",
-          "enlace": "https://www.repubblica.it/economia/2026/11/15/news/nvidia_la_svolta_possibile_huang_pensa_al_ritorno_come_ceo-425725753/"
+          "titulo": "Conte: “Sì a una tassa sui super ricchi. Proposte 5S al tavolo degli alleati”",
+          "entradilla": "Il presidente del Movimento conferma l’apertura alla tassa rivolta ai plurimilionari. Oggi il nuovo incontro della coalizione",
+          "enlace": "https://www.repubblica.it/politica/2026/11/16/news/patrimoniale_conte_tassa_super_ricchi_proposte_m5s_campo_largo-425727159/"
         },
         {
-          "titulo": "La minaccia russa alla Ue: “Se non ci sarà un accordo dovremo usare la forza”",
-          "entradilla": "Zelensky denuncia: “Ancora attacchi brutali e limiti a Starshield”. L’Estonia annuncia la chiusura del confine con la Russia a dicembre. Per Lavrov le condizioni per la Pace “restano quelle del 2024”",
-          "enlace": "https://www.repubblica.it/esteri/2026/11/15/news/russia_ue_senza_un_accordo_dovremo_usare_la_forza-425725745/"
+          "titulo": "Chivu vince la Panchina d’Oro, battuti Fabregas e Gasperini",
+          "entradilla": "L’allenatore dei nerazzurri è stato votato dai suoi colleghi come il migliore allenatore della passata stagione in Serie A",
+          "enlace": "https://www.repubblica.it/sport/calcio/serie-a/inter/2026/11/16/news/chivu_vince_panchina_oro-425727132/"
         },
         {
-          "titulo": "Il tempo di Ronaldinho. A Ravenna classe e sorrisi: “È stata l’ultima? Chissà...”",
-          "entradilla": "In campo a 46 anni e dopo 11 di assenza, il fuoriclasse ha esibito la solita allegria con qualche bel tocco e la partecipazione all’azione del gol dell’1-0 per la squadra di casa",
-          "enlace": "https://www.repubblica.it/sport/calcio/2026/11/15/news/ronaldinho_debutto_partita_ravenna_forli-425725517/"
+          "titulo": "Burnham: “La Brexit ha fallito e il mondo è cambiato, il Regno Unito deve riavvicinarsi all’Ue”",
+          "entradilla": "Stasera il primo ministro britannico terrà il tradizionale discorso sulla politica estera del Lord Mayor’s Banquet, e pronuncerà parole forti su Europa, Ucraina e Gaza: “Ora tocca dire la verità ai britannici”",
+          "enlace": "https://www.repubblica.it/esteri/2026/11/16/news/burnham_primo_ministro_regno_unito_discorso_politica_estera_brexit_fallimento_mondo_cambiato_riavvicinarsi_ue-425727066/"
         },
         {
-          "titulo": "Antonella Viola: “La mia Taranto ultima, serve una cura rivoluzionaria: ma Bari non ci ama”",
-          "entradilla": "Intervista alla nota biologa sulla classifica di Italia Oggi che vede il capoluogo in fondo alla classifica nazionale per qualità della vita. E rivela: “Presentammo un progetto di ricerca avanzata in oncologia pediatrica ma perdemmo un anno inutilmente”",
-          "enlace": "https://bari.repubblica.it/cronaca/2026/11/15/news/antonella_viola_la_mia_taranto_ultima_serve_una_cura_rivoluzionaria_ma_bari_non_ci_ama-425725510/"
+          "titulo": "Strage via D’Amelio, l’ex capo della polizia De Gennaro indagato per depistaggio",
+          "entradilla": "Dopo la perquisizione scattata giovedì, i magistrati di Caltanissetta hanno notificato un avviso di garanzia",
+          "enlace": "https://palermo.repubblica.it/cronaca/2026/11/16/news/strage_borsellino_depistaggio_indagato_de_gennaro-425727053/"
         },
         {
-          "titulo": "Il Papa accolto da 500mila persone a Cusco, la città Inca: “Tradizioni popolari tesoro inestimabile”",
-          "entradilla": "Leone XIV a 3.339 metri di altitudine dopo l’operazione al polmone, ieri era già stato sulle ande in elicottero, in giornata volerà nella foresta amazzonica",
-          "enlace": "https://www.repubblica.it/esteri/2026/11/15/news/papa_leone_peru_accolto_da_500mila_persone_a_cusco_la_citta_inca_tradizioni_popolari-425725414/"
+          "titulo": "De Bruyne e Hojlund, la storia si ripete: perché in Nazionale volano e nel Napoli deludono",
+          "entradilla": "Le prestazioni con Belgio e Danimarca riaprono il dibattito sul rendimento dei due big azzurri. Situazioni diverse, che chiamano in causa anche le scelte di Allegri",
+          "enlace": "https://www.repubblica.it/sport/calcio/serie-a/2026/11/16/news/de_bruyne_hojlund_nazionali_napoli-425727041/"
         },
         {
-          "titulo": "Padova, malore sui Colli Euganei: escursionista muore davanti al figlio di 7 anni",
-          "entradilla": "Tragedia nel primo pomeriggio sul sentiero 29. L’allarme lanciato da alcune persone di passaggio, inutili i tentativi di rianimazione di Soccorso alpino ed elisoccorso",
-          "enlace": "https://www.repubblica.it/cronaca/2026/11/15/news/escursionista_muore_davanti_a_figlio_colli_euganei-425725385/"
+          "titulo": "Terzo allarme bomba nelle scuole: “Avrete le vittime sulla coscienza”. Poche evacuazioni",
+          "entradilla": "La mail inviata a centinaia di istituti da un dominio vietnamita ma la direttiva del Viminale frena gli sgomberi. Nel delirio della lettera si cita anche l’avvelenamento dei pasti della mensa con una miscela tossica di azoturo di sodio e cianuro di potassio",
+          "enlace": "https://www.repubblica.it/cronaca/2026/11/16/news/nuovo_allarme_bomba_nelle_scuole_e_il_terzo_avrete_le_vittime_sulla_coscienza-425726897/"
         },
         {
-          "titulo": "Zverev, buona la prima alle Atp Finals: battuto Jodar con un doppio 6-4",
-          "entradilla": "Il numero uno del mondo regola in due set lo spagnolo",
-          "enlace": "https://www.repubblica.it/sport/tennis/2026/11/15/news/atp_finals_risultati_oggi_zverev_jodar_shelton_fils-425725356/"
+          "titulo": "Rabbino aggredito: “Mai avuto scuse da quei ragazzi”. Meghnagi: “No alla giustizia riparativa”",
+          "entradilla": "Il rabbino aggredito David Mizrachi Tzemach sul caso dei ragazzi espulsi e nel Cpr: “Sono un religioso, non mi occupo della vicenda giudiziaria”",
+          "enlace": "https://milano.repubblica.it/cronaca/2026/11/16/news/rabbino_aggredito_rimpatrio_cpr_comunita_ebraica_meghnagi-425726857/"
         },
         {
-          "titulo": "Il potere Usa vacilla: tornano i conflitti. Ultimo appello per le democrazie",
-          "entradilla": "L’equilibrio post Guerra Fredda si è sgretolato e pende a favore del Sud e dell’Est del Mondo. Il dibattito al talk A&F Live: qui programma e registrazione",
-          "enlace": "https://www.repubblica.it/dossier/economia/a-f-live-2026/2026/11/16/news/il_potere_usa_vacilla_tornano_i_conflitti-425718634/"
+          "titulo": "Radicale ma rassicurante. Dietro la strategia di Schlein",
+          "entradilla": "La scommessa della segretaria del Pd: convincere gli elettori che un cambiamento anche profondo non rappresenta necessariamente un salto nel buio",
+          "enlace": "https://www.repubblica.it/politica/rubriche/spin-off/2026/11/16/news/schlein_strategia_elezioni_meloni_governo-425726810/"
         },
         {
-          "titulo": "Atreju: Conte va alla festa di FdI, Schlein no",
-          "entradilla": "Il leader M5s accetta l’invito: “Sarò lì per ricordare a Meloni gli errori di questi quattro anni”. La segretaria dem declina: “Il confronto si fa in Parlamento”. No anche da Fratoianni e Bonelli. Renzi ci sarà, presenza data per scontata per Calenda",
-          "enlace": "https://www.repubblica.it/politica/2026/11/15/news/atreju_conte_va_alla_festa_di_fdi_schlein_no-425725312/"
+          "titulo": "Cos’è Revolut, la fintech da 6 milioni di clienti in Italia finita in amministrazione giudiziaria",
+          "entradilla": "La banca digitale, con sede nel Regno Unito, offre servizi finanziari, pagamenti, cambio valuta, risparmio e investimenti. Nelle intenzioni di fondatori lituani doveva sfidare Google, ora deve affrontare un’inchiesta per riciclaggio",
+          "enlace": "https://www.repubblica.it/economia/2026/11/16/news/revolut_banca_digitale_italia_clienti_cos_e-425726795/"
         },
         {
-          "titulo": "Perché l’ictus è in aumento tra i cinquantenni",
-          "entradilla": "In Spagna, negli ultimi vent’anni, l’incidenza degli ictus tra gli under 50 è raddoppiata, scrive il quotidiano El País. Secondo gli esperti, a spiegare il fenomeno sono sia il miglioramento delle diagnosi sia la diffusione di fattori di rischio come obesità, fumo e sedentarietà. Dall’inquinamento a",
-          "enlace": "https://www.repubblica.it/esteri/dossier/lena/2026/11/15/news/perche_ictus_in_aumento_tra_cinquantenni_continental_breakfast-425725263/"
+          "titulo": "Ascolti Tv: il nuovo “Report” affonda, volano le Iene di “Inside”",
+          "entradilla": "Per la seconda puntata del programma di inchiesta solo il 4,5% di share e meno di 900mila spettatori. Impietoso il confronto con l’approfondimento su Italia 1: 1.142.000 spettatori e 10,37%. La serata è vinta da Belgio-Italia vista da 8 milioni",
+          "enlace": "https://www.repubblica.it/spettacoli/tv-radio/2026/11/16/news/ascolti_tv_il_nuovo_report_affonda_volano_le_iene_di_inside-425726745/"
         },
         {
-          "titulo": "Schlein punta sulla scuola: “Gli insegnanti vanno pagati meglio”. E dice sì a tassa sui super ricchi",
-          "entradilla": "Libri gratis anche alle superiori, più tempo pieno, mense e trasporti gratuiti. La segretaria dem rilancia il ruolo dell’istruzione pubblica contro le disuguaglianze e apre al dibattito sull’ipotesi di tenere aperti gli istituti anche d’estate",
-          "enlace": "https://www.repubblica.it/politica/2026/11/15/news/elly_schlein_pd_stati_generali_scuola-425725246/"
+          "titulo": "Diritto all’oblio, la memoria sotto attacco: così il potere vuole cancellare il passato",
+          "entradilla": "Il diritto all’oblio diventa un’arma contro giornali e archivi: politici, ex terroristi e personaggi pubblici chiedono di rimuovere le notizie scomode. Giuristi e storici: “Così si rischia un’amnesia collettiva”",
+          "enlace": "https://www.repubblica.it/politica/2026/11/16/news/diritto_all_oblio_memoria_passato_politica_ex_terroristi-425726615/"
         }
       ],
       "analisis": {
-        "resumen": "- Irán ataca a EE. UU. en Baréin y se informa sobre su arsenal de misiles; Rusia advierte de que podría usar la fuerza si no hay acuerdo.\n- Jensen Huang podría volver a dirigir Nvidia, según el Financial Times.\n- Conte asistirá a la fiesta de Hermanos de Italia; Schlein no irá y propone mejorar la educación pública y gravar a los superricos.\n- El papa reúne a una multitud en Cusco; una entrevista aborda la baja calidad de vida en Taranto.\n- La portada incluye deportes, un fallecimiento durante una excursión y el aumento de ictus entre personas jóvenes.",
-        "populismo": 28,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «el poder de EE. UU. tambalea» y «último llamamiento para las democracias» aportan dramatismo y cierta simplificación.",
-        "sesgo": "La portada da relevancia a los conflictos internacionales y a sus consecuencias para las democracias. En política italiana, destaca las propuestas de Schlein sobre educación pública y desigualdad, junto con las distintas posturas ante la fiesta de Hermanos de Italia."
+        "resumen": "- Revolut afronta una administración judicial y una investigación por blanqueo; la portada examina su modelo de negocio.\n- Conte propone un impuesto a los superricos y otro artículo analiza la estrategia de Schlein.\n- El exjefe de policía De Gennaro es investigado por presunto encubrimiento en el caso de la matanza de Via D’Amelio.\n- Un tercer aviso de bomba afecta a escuelas; también se recoge el testimonio de un rabino agredido.\n- Se aborda el acercamiento británico a la UE y el debate sobre el derecho al olvido y los archivos periodísticos.",
+        "populismo": 30,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «la memoria bajo ataque», «arma contra periódicos y archivos» y «Report se hunde» recurren a un lenguaje alarmista o sensacionalista.",
+        "sesgo": "La portada da espacio a la política de centroizquierda y adopta un enfoque crítico hacia el uso del derecho al olvido que puede afectar a los archivos periodísticos. La información sobre Revolut combina sus logros con sus problemas judiciales."
       }
     },
     {
@@ -186,71 +186,71 @@
       "web": "https://www.lastampa.it",
       "noticias": [
         {
-          "titulo": "Yemen, gli Houthi sono a 60 chilometri da Aden. La portaerei Roosevelt verso il Medio Oriente",
-          "entradilla": "Il gruppo ribelle avrebbe preso il controllo dei distretti di Al-Maqatirah e Al-Madaribah",
-          "enlace": "https://www.lastampa.it/esteri/2026/11/15/news/yemen_houthi_spinti_60_chilometri_aden-15799184/"
+          "titulo": "Medici e infermieri, tutti gli aumenti: fino a 5.869 euro per i primari. Non pagheranno le Regioni",
+          "entradilla": "Schillaci strappa mezzo miliardo in più per medici e infermieri",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/16/news/sanita_aumenti_fino_a_5869_euro_per_i_primari-15799733/"
         },
         {
-          "titulo": "Musk guida la Silicon Valley per reinstallare Jensen Huang a capo di Nvidia: ho firmato la petizione",
-          "entradilla": "Diversi oligarchi tech si mobilitano per proteggere il sodale. Oltre a Musk, che potrebbe vacillare con la caduta dell’amico, Huang è difeso dai capi di Anduril, Palmer Luckey, e di Perplexity AI, Aravind Srinivas",
-          "enlace": "https://www.lastampa.it/esteri/2026/11/14/news/musk_guida_la_silicon_valley_per_reinstallare_jensen_huang_a_capo_di_nvidia_ho_firmato_la_petizione-15797964/"
+          "titulo": "“Riciclaggio con aggravante mafiosa”, il tribunale di Milano commissaria Revolut",
+          "entradilla": "Per l’istituto bancario lituano disposto un anno di amministrazione giudiziaria. Tra i clienti anche persone legate alla 'ndrangheta L’azienda: «Piena collaborazione con le autorità, nostri servizi non si fermano»",
+          "enlace": "https://www.lastampa.it/economia/2026/11/16/news/revolut_riciclaggio_aggravante_mafiosa_commissariata-15799514/"
         },
         {
-          "titulo": "L’Estonia chiude i confini con la Russia. Il Cremlino: “Senza accordo con l'Europa useremo la forza”",
-          "entradilla": "Tallinn accusa i servizi russi GRU per l’incendio della fabbrica della difesa Threod Systems. Abbordata una petroliera della «flotta ombra» russa nel Mediterraneo",
-          "enlace": "https://www.lastampa.it/esteri/2026/11/15/diretta/guerra_russia_ucraina_news_oggi-15798722/"
+          "titulo": "Cos’è Revolut e chi c’è dietro il colosso bancario digitale",
+          "entradilla": "La fintech oggi conta 6 miliardi di ricavi e più di 80 milioni di clienti in tutto il mondo. Il fondatore Storonsky e quel guanto di sfida al mondo bancario tradizionale",
+          "enlace": "https://www.lastampa.it/economia/2026/11/16/news/cosa_e_revolut_storonsky_quanto_vale-15799559/"
         },
         {
-          "titulo": "Schlein e la patrimoniale: “Sì alla tassa per i super ricchi, Meloni l’ha alzata al ceto medio”",
-          "entradilla": "La leader del Pd si rivolge alla premier: «Per noi non ci sono lavoratori di serie B». E sulle primarie: «Chi le vince sarà il capo di un’alleanza vincolata dal programma»",
-          "enlace": "https://www.lastampa.it/politica/2026/11/15/news/schlein_patrimoniale_tassa_super_ricchi-15799118/"
+          "titulo": "Conti, carte e servizi: cosa cambia per i clienti, i consigli dell'esperto",
+          "entradilla": "Conti, carte e servizi continueranno a funzionare regolarmente. Ma gli esperti avvertono: «Meglio dotarsi di un secondo sistema di pagamento e non concentrare tutta la disponibilità economica»",
+          "enlace": "https://www.lastampa.it/economia/2026/11/16/news/revolut_cosa_cambia_per_i_correntisti_con_l_amministrazione_giudiziaria-15799695/"
         },
         {
-          "titulo": "Zverev travolge Jodar e inizia alla grande le sue Finals, ma l’ovazione di Torino è per Sinner",
-          "entradilla": "Il numero del mondo ha battuto il giovane talento spagnolo con un doppio 6-4. Stasera tocca a Shelton-Fils",
-          "enlace": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/15/news/atp_finals_buona_la_prima_per_zverev_battuto_jodar_in_due_set-15798949/"
+          "titulo": "Strage via D’Amelio, De Gennaro indagato per depistaggio /Chi è l'ex capo della polizia",
+          "entradilla": "Dopo la perquisizione scattata giovedì, i magistrati di Caltanissetta hanno notificato un avviso di garanzia. La presidente dell'Antimafia: «La verità non si prescrive»",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/16/news/strage_via_d_amelio_de_gennaro_indagato_per_depistaggio-15799712/"
         },
         {
-          "titulo": "Un bagno di folla per Sinner: “Mi manca questo torneo, spero di tornare presto in forma”",
-          "entradilla": "Il campione altoatesino ha ricevuto il premio Giulio Onesti con il presidente della Federazione Binaghi e il capitano della Nazionale di Coppa Davis Volandri",
-          "enlace": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/15/news/un_bagno_di_folla_per_sinner_mi_manca_questo_torneo_spero_di_tornare_presto_in_forma-15798895/"
+          "titulo": "Docente di UniTo commenta l’incidente dei writers: “È la mano di Dios”. La condanna dell’Ateneo",
+          "entradilla": "L’Università prende le distanze dalle parole della professoressa di Storia Laura Gaffuri, referente per gli studenti con disabilità: «Gravissimo e inaccettabile»",
+          "enlace": "https://www.lastampa.it/torino/2026/11/16/news/laura_gaffuri_unito_commento_incidente_writers-15799675/"
         },
         {
-          "titulo": "Errani e Paolini nella storia, prime italiane in finale alle Finals: “Ora sarà durissima”",
-          "entradilla": "Le azzurre hanno superato in semifinale la cinese Hanyu Guo e la francese Kristina Mladenovic in due set (6-3, 6-4). Nella notte la sfida per il titolo contro la ceca Katerina Siniakova e l'americana Taylor Townsend",
-          "enlace": "https://www.lastampa.it/sport/tennis/2026/11/15/news/errani_e_paolini_nella_storia_prime_italiane_in_finale_alle_finals_ora_sara_durissima-15798850/"
+          "titulo": "Allarmi bombe a scuola, nuova mail a centinaia di istituti. Ma dopo la direttiva nessuna evacuazione",
+          "entradilla": "La lettera di minacce: «Tutte le vittime che moriranno sotto le macerie ricadranno sulla vostra coscienza»",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/16/news/allarmi_bombe_a_scuola_nuova_mail_a_centinaia_di_istituti_ma_dopo_la_direttiva_nessuna_evacuazione-15799645/"
         },
         {
-          "titulo": "Ravenna, Ronaldinho a 46 anni per una sera in serie C, magie e nostalgia: “Se mi richiamano, torno”",
-          "entradilla": "Quella del fuoriclasse è stata una prestazione vera, in una partita vera",
-          "enlace": "https://www.lastampa.it/sport/2026/11/15/news/ravenna_ronaldinho_a_46_anni_per_una_sera_in_serie_c_magie_e_nostalgia_se_mi_richiamano_torno-15799105/"
+          "titulo": "Paradossi e ingiustizie dell’Irpef, come funziona davvero",
+          "entradilla": "Altro che tre scaglioni: tutte le contraddizioni dell’aliquota marginale, che la manovra complica ancora di più. Quanto si paga e perché a parità di reddito il conto cambia",
+          "enlace": "https://www.lastampa.it/economia/2026/11/16/news/paradossi_e_ingiustizie_dell_irpef_come_funziona_davvero-15799475/"
         },
         {
-          "titulo": "Il Papa e la sfida a 3400 metri dopo l’operazione chirurgica: “La malattia non sminuisce la persona”",
-          "entradilla": "Dalle cime andine l'appello del Santo Padre: «Il grido della terra e quelli dei poveri si levano insieme»",
-          "enlace": "https://www.lastampa.it/esteri/2026/11/15/news/papa_leone_sfida_3400_metri_dopo_operazione_chirurgica_malattia_non_sminuisce_la_persona-15799007/"
+          "titulo": "Sanità, le Regioni vogliono  cancellare il bonus anziani  per le visite specialistiche",
+          "entradilla": "Bocciata l’ipotesi di 500 milioni in più per gli stipendi di medici e infermieri. L’emiliano Fabi: «Una conversione di quei fondi sarebbe una buona notizia»",
+          "enlace": "https://www.lastampa.it/economia/2026/11/16/news/sanita_le_regioni_sul_bonus_anziani_per_le_visite_specialistiche-15799304/"
         },
         {
-          "titulo": "Fugge nei boschi dello spaccio, giovane muore precipitando per 200 metri",
-          "entradilla": "E’ successo in frazione Bei. La vittima ha 29 anni, ferito un altro ragazzo di 24 anni. Erano inseguiti da polizia e guardia di finanza",
-          "enlace": "https://www.lastampa.it/verbano-cusio-ossola/2026/11/15/news/domodossola_fuga_boschi_spaccio_morto-15798862/"
+          "titulo": "Se il Pd ammaina le bandiere identitarie in nome dell’unità",
+          "entradilla": "Il Movimento cinque stelle rivendica il reddito di cittadinanza, Avs un prelievo sui super ricchi. Preoccupati di riuscire a tenere insieme la coalizione, i dem rischiano di non trasmettere un messaggio forte al tavolo del programma",
+          "enlace": "https://www.lastampa.it/politica/2026/11/16/news/le_bandiere_del_pd_ammainate_in_nome_dell_unita-15799377/"
         },
         {
-          "titulo": "Bologna, fan di Elisa muore a 35 anni a due passi dal palco: la cantante in lacrime annulla lo show",
-          "entradilla": "Un malore nelle prime file, i soccorsi, poi la notizia data dal palco a mille persone. La cantante annulla la serata del raduno del fan club: «Mi stringo attorno a tutti i miei fan».",
-          "enlace": "https://www.lastampa.it/spettacoli/2026/11/15/news/concerto_elisa_bologna_morte_fan_35_anni_estragon-15798843/"
+          "titulo": "La patrimoniale diventa “tassa sui super ricchi”: Schlein e Conte aprono all'idea di Avs",
+          "entradilla": "Il presidente M5s resta dubbioso: «Meglio un prelievo sulla speculazione finanziaria»",
+          "enlace": "https://www.lastampa.it/politica/2026/11/16/news/patrimoniale_pd_tassazione_super_ricchi-15799370/"
         },
         {
-          "titulo": "La luce di Van Gogh e il buio di Buenos Aires: l’asta milionaria che dimentica i desaparecidos",
-          "entradilla": "Da Sotheby’s dodici tele straordinarie di Van Gogh, Cézanne e Monet. Dietro i milioni e il gusto impeccabile, però, si nasconde l’ombra lunga di una storia di sequestri e omicidi",
-          "enlace": "https://www.lastampa.it/cultura/2026/11/15/news/sotheby_s_asta_collezione_blaquier-arrieta_van_gogh_cezanne_monet-15798958/"
+          "titulo": "Stasera l’esordio di Cobolli: cosa deve fare per battere Medvedev",
+          "entradilla": "L’italiano questa sera contro Medvedev sarà impegnato su due fronti: quello tecnico e quello emotivo",
+          "enlace": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/16/news/stasera_l_esordio_di_cobolli_cosa_deve_fare_per_battere_medvedev-15799465/"
         }
       ],
       "analisis": {
-        "resumen": "- Los hutíes avanzan hacia Adén; Estonia cierra sus fronteras con Rusia en medio de nuevas tensiones.\n- Musk y otros dirigentes tecnológicos apoyan el regreso de Jensen Huang a Nvidia; Schlein defiende un impuesto a los superricos.\n- Las Finals de tenis destacan por Zverev, Sinner y la final alcanzada por Errani y Paolini; Ronaldinho juega en Ravenna.\n- Mueren un joven durante una persecución policial y una seguidora de Elisa en un concierto en Bolonia.\n- El papa habla de enfermedad, pobreza y medioambiente; una subasta de arte se vincula con la historia de los desaparecidos argentinos.",
-        "populismo": 25,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «oligarcas tecnológicos» y el contraste entre la «luz» de Van Gogh y la «oscuridad» de Buenos Aires aportan carga emocional y dramatización.",
-        "sesgo": "La portada combina noticias internacionales y políticas con una amplia presencia deportiva y sucesos de interés humano. En algunas piezas adopta un enfoque crítico hacia las élites tecnológicas y el mercado del arte."
+        "resumen": "- Sanidad: se anuncian subidas salariales para médicos y enfermeros; también se informa de desacuerdos con las regiones sobre su financiación y el bono para mayores.\n- Revolut queda bajo administración judicial por un caso de presunto blanqueo con agravante mafioso; sus servicios seguirán funcionando, según la empresa.\n- De Gennaro es investigado por presunto encubrimiento en el caso de la masacre de vía D’Amelio. Nuevas amenazas de bomba afectan a cientos de escuelas.\n- La portada aborda las desigualdades del IRPF y el debate sobre un impuesto a los superricos y la unidad de la oposición.\n- La Universidad de Turín condena las palabras de una profesora sobre un accidente de grafiteros; en deportes, Cobolli se enfrenta a Medvedev.",
+        "populismo": 22,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «paradojas e injusticias» y la cita de las amenazas introducen énfasis emocional y alarmante.",
+        "sesgo": "La selección presta especial atención a la sanidad, los impuestos y las consecuencias del caso Revolut para los clientes. Se aprecia un enfoque crítico hacia las desigualdades fiscales y las dificultades de la oposición, sin que ello permita atribuir una orientación política general."
       }
     },
     {
@@ -258,54 +258,39 @@
       "web": "https://www.ilgiornale.it",
       "noticias": [
         {
-          "titulo": "Nvidia, Huang prepara il clamoroso ritorno: il piano per ottenere l’appoggio della Casa Bianca",
+          "titulo": "I funerali di Toni Capuozzo - L’ultimo saluto | Diretta",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/cronaca-internazionale/nvidia-huang-prepara-il-clamoroso-ritorno-il-piano-per-ottenere-lappoggio-della-casa-bianca/"
+          "enlace": "https://www.ilgiornale.it/news/attualita/i-funerali-di-toni-capuozzo-lultimo-saluto-diretta/"
         },
         {
-          "titulo": "Conte sta con gli hacker. Il Giornale lo mette all’angolo, lui ci attacca ma non risponde nel merito L'articolo che ha fatto infuriare il pentastellato",
+          "titulo": "Strage via d’Amelio, indagato l’ex capo della polizia De Gennaro. Si cerca la famosa “agenda rossa” di Borsellino",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/interni/conte-sta-con-gli-hacker-il-giornale-lo-mette-allangolo-lui-ci-attacca-ma-non-risponde-nel-merito/"
+          "enlace": "https://www.ilgiornale.it/news/cronaca-giudiziaria/strage-via-damelio-indagato-lex-capo-della-polizia-de-gennaro-si-cerca-la-famosa-agenda-rossa-di-borsellino/"
         },
         {
-          "titulo": "Dal palco del Domani ancora un attacco politico al governo e agli Angelucci",
+          "titulo": "Le “precauzioni” di De Gennaro per non essere intercettato",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/interni/dal-palco-del-domani-ancora-un-attacco-politico-al-governo-e-agli-angelucci/"
+          "enlace": "https://www.ilgiornale.it/news/interni/niente-sms-colloqui-allaperto-le-precauzioni-di-de-gennaro/"
         },
         {
-          "titulo": "Patrimoniale, nuova lite nel campo largo. Conte frena, Bonelli e Fratoianni lo sfidano: “È una necessità”. E Schlein: “Io favorevole a una tassa sui super ricchi”",
+          "titulo": "I due ex pm e il giurista contro Mafia-appalti",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/interni/patrimoniale-nuova-lite-nel-campo-largo-conte-frena-bonelli-e-fratoianni-lo-sfidano-e-una-necessita/"
+          "enlace": "https://www.ilgiornale.it/news/magistratura/i-due-ex-pm-e-il-giurista-contro-mafia-appalti/"
         },
         {
-          "titulo": "Il Cremlino minaccia l’Ue: “Senza accordo costretti a ricorrere alla forza”. Blitz europeo contro una nave della “flotta ombra” russa nel Mediterraneo Trump-Putin-Xi, ecco la “nuova Yalta” che disarma l’Europa e la mette all’angolo",
+          "titulo": "Nasce il minculpop islamico Le armi di Allah che l’Italia non vuol vedere",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/diretta/guerra/blitz-di-forse-europee-contro-una-nave-della-flotta-ombra-russa-nel-mediterraneo-lue-navigava-con-bandiera-falsa/"
+          "enlace": "https://www.ilgiornale.it/news/politica-internazionale/nasce-il-minculpop-islamico/"
         },
         {
-          "titulo": "Iran, la guerra si allarga allo Yemen: gli Houthi avanzano su Aden mentre Teheran sfida gli Usa in Bahrein",
+          "titulo": "Kia Behravan: “Imparate dal mio Iran: il patto tra Allah e Marx è rischioso”",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/guerra/iran-la-guerra-si-allarga-allo-yemen-gli-houthi-avanzano-su-aden-mentre-teheran-sfida-gli-usa-in-bahrein/"
+          "enlace": "https://www.ilgiornale.it/news/politica-internazionale/kia-behravan-imparate-dal-mio-iran-il-patto-tra-allah-e-marx-e-rischioso/"
         },
         {
-          "titulo": "Un corso per gli imam. E spunta l’ombra dei Fratelli musulmani",
+          "titulo": "Revolut commissariata per un anno: “Tra i clienti anche indagati per riciclaggio aggravato dal metodo mafioso”",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/politica/un-corso-per-gli-imam-e-spunta-lombra-dei-fratelli-musulmani/"
-        },
-        {
-          "titulo": "Atreju fa litigare la sinistra. Conte: “Ci sarò”. Fratoianni: “Strano se ci andassi”",
-          "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/interni/atreju-fa-litigare-la-sinistra-conte-ci-saro-fratoianni-strano-se-ci-andassi/"
-        },
-        {
-          "titulo": "Campania nel caos, brogli dopo le tangenti. Firme false per le liste",
-          "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/interni/campania-nel-caos-brogli-dopo-le-tangenti-firme-false-per-le-liste/"
-        },
-        {
-          "titulo": "Nella Regione di Fico i dipendenti sotto stress: stanziati 160mila euro per corsi contro l’ansia",
-          "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/societa/regione-campania-oltre-il-50-dei-dipendenti-e-stressato-e-litiga-finanziamenti-per-introdurre-corsi-che-allentino-le-ansie/"
+          "enlace": "https://www.ilgiornale.it/news/cronaca-giudiziaria/revolut-commissariata-per-un-anno-gravi-carenze-nei-sistemi-antiriciclaggio/"
         },
         {
           "titulo": "Imprenditori e mafie, l’evasione è un affare da 1 miliardo e mezzo",
@@ -313,16 +298,31 @@
           "enlace": "https://www.ilgiornale.it/news/interni/frodi-fiscali-che-business/"
         },
         {
-          "titulo": "Manovra, dalla scuola alle pensioni: tutte le modifiche sul tavolo Sul dossier Superbonus il governo cerca un compromesso",
+          "titulo": "Adusbef incalza: \"Controlli inadeguati\" Opens in new window",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/politica-economica/manovra-dal-superbonus-alle-pensioni-tutte-le-modifiche-sul-tavolo/"
+          "enlace": "https://www.monetaweb.it/risparmio-e-assicurazioni/caso-revolut-adusbef-incalza-controlli-inadeguati-ora-tutelare-i-correntisti/"
+        },
+        {
+          "titulo": "La banca: \"I servizi in Italia continuano senza interruzioni\" Opens in new window",
+          "entradilla": "",
+          "enlace": "https://www.monetaweb.it/investimenti-e-mercati/revolut-servizi-in-italia-continuano-senza-interruzioni-collaboreremo-con-le-autorita/"
+        },
+        {
+          "titulo": "Cremlino: “L’incontro Putin e Xi prima del trilaterale, anche sull’Ucraina”. L’Ue: “Da Putin richieste assurde” Trump-Putin-Xi, ecco la “nuova Yalta” che disarma l’Europa e la mette all’angolo",
+          "entradilla": "",
+          "enlace": "https://www.ilgiornale.it/news/guerra/pioggia-di-droni-su-mosca-zelensky-distrutto-il-55-della-capacita-di-raffinazione-del-petrolio-russo/"
+        },
+        {
+          "titulo": "Migranti, l’Ue segue l’Italia sul modello Albania: presto gli hub in Ruanda",
+          "entradilla": "",
+          "enlace": "https://www.ilgiornale.it/news/europa/migranti-lue-segue-litalia-presto-gli-hub-in-ruanda/"
         }
       ],
       "analisis": {
-        "resumen": "- Nvidia prepara un retorno y busca el apoyo de la Casa Blanca.\n- La portada destaca los desacuerdos en la izquierda sobre el impuesto a los grandes patrimonios y la participación en Atreju, además de enfrentamientos con Conte.\n- El Kremlin amenaza a la UE, mientras la guerra vinculada a Irán se extiende a Yemen y crece la tensión con EE. UU. en Bahréin.\n- En Campania se denuncian firmas falsas y se informa de fondos para cursos contra la ansiedad de empleados regionales; otro titular aborda la evasión vinculada a empresarios y mafias.\n- Se repasan cambios presupuestarios en estudio y se plantea la posible vinculación de un curso para imanes con los Hermanos Musulmanes.",
-        "populismo": 68,
-        "motivo_populismo": "Expresiones como «Conte sta con gli hacker», «lo mette all’angolo», «Campania nel caos» y «spunta l’ombra» recurren a la confrontación, la simplificación y el lenguaje alarmista.",
-        "sesgo": "La selección y la redacción muestran un enfoque crítico hacia Conte y las divisiones de la izquierda, así como hacia la gestión de Campania. Varios titulares presentan los conflictos en términos de enfrentamiento y sospecha."
+        "resumen": "- Despedida de Toni Capuozzo e investigación sobre la masacre de vía D’Amelio y la agenda roja de Borsellino.\n- Titulares críticos sobre el islam y una advertencia sobre la alianza entre religión y marxismo en Irán.\n- Intervención de Revolut durante un año y noticias sobre mafia, empresas y evasión fiscal.\n- Posible encuentro entre Putin y Xi, con Ucrania y el papel de Europa en primer plano.\n- La UE estudia centros para migrantes en Ruanda siguiendo el modelo italiano en Albania.",
+        "populismo": 55,
+        "motivo_populismo": "Expresiones como «las armas de Alá que Italia no quiere ver» y «la nueva Yalta que desarma a Europa y la arrincona» recurren a un lenguaje alarmista y de confrontación, aunque otros titulares son informativos.",
+        "sesgo": "La portada adopta un enfoque crítico hacia el islam y hacia lo que presenta como falta de atención de Italia ante sus riesgos. En política internacional, destaca una visión de Europa como perjudicada por las decisiones de las grandes potencias."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://www.ilfattoquotidiano.it",
       "noticias": [
         {
-          "titulo": "“Manovra da cambiare? Sulla sanità hanno messo meno della metà di quanto ha chiesto il loro ministro”: Schlein contro il governo",
-          "entradilla": "“Se vogliono smantellare la sanità pubblica per fare una sanità a misura del portafoglio delle persone, troveranno le opposizioni a fare muro a difendere il diritto alla salute previsto dalla Costituzione“. E’ ancora sulla sanità che insiste la segretaria del Pd Elly Schlein parlando della manovra f",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/15/manovra-da-cambiare-sulla-sanita-hanno-messo-meno-della-meta-di-quanto-ha-chiesto-il-loro-ministro-schlein-contro-il-governo/8573072/"
+          "titulo": "Alcaraz, altro che malori e ginocchio fasciato: travolge Tiafoe all’esordio alle Finals. “Qui mi sento amato”",
+          "entradilla": "Altro che mal di pancia, malori e ginocchio fasciato. Carlos Alcaraz ha travolto Frances Tiafoe all’esordio alle Atp Finals, nel match valido per il gruppo ‘Ivan Lendl’ in due set con un doppio 6-2 in un’ora e nove minuti di gioco. In serata è in programma l’altro singolare del girone, tra Flavio Co",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/16/atp-finals-alcaraz-tiafoe-torino-commento-analisi-statistiche/8573661/"
         },
         {
-          "titulo": "Campo Largo, Fratoianni: “Avs ha svolto un ruolo decisivo, non va ripetuto il suicidio politico del 2022”",
-          "entradilla": "“Io credo che Alleanza Verde e Sinistra abbia svolto un ruolo decisivo, abbia lavorato per tenere assieme, per costruire, per far crescere questa coalizione, farne crescere la coesione. L’abbiamo fatto convinti che tutto si può fare tranne ripetergli il suicidio politico del 2022. Sono mesi che chie",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/15/fratoianni-avs-coalizione-ruolo-decisivo-video/8573075/"
+          "titulo": "Operazione antimafia a Bari, tra i 19 arrestati anche l’ex calciatore Rana: aveva giocato in A, per gli inquirenti era diventato un “corriere della cocaina”",
+          "entradilla": "Quattordici persone sono finite in carcere, cinque agli arresti domiciliari e una è stata sottoposta al divieto di dimora a Modugno e all’obbligo di presentazione alla polizia giudiziaria. Effetti dell’operazione Mister 100, condotta all’alba di lunedì 16 novembre dai carabinieri della compagnia di ",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/16/operazione-antimafia-bari-rana-calciatore-notizie/8573662/"
         },
         {
-          "titulo": "“Mi alleno e la notte vado a lavorare”: la storia di Abu, calciatore che vive in un camper accanto allo stadio",
-          "entradilla": "Per Abdul Kayyoum Abubakar, conosciuto da tutti come Abu, il calcio è il centro della sua vita. Tanto da aver trovato la propria casa proprio accanto al terreno di gioco, dove può allenarsi, lavorare e continuare a inseguire il suo sogno. Ventiquattro anni, originario del Ghana e giocatore del Nettu",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/15/calciatore-camper-abu-nettuno-lido-notizie/8572966/"
+          "titulo": "Studente spagnolo di 20 anni precipita dalle mura cittadine de L’Aquila e resta infilzato da una recinzione: è grave",
+          "entradilla": "È precipitato per circa sette metri dalle mura cittadine ed è finito su una recinzione metallica, dove è stato infilzato da un tondino appuntito che gli si è conficcato nel corpo, lasciandolo bloccato e impossibilitato a muoversi. È ricoverato in ospedale, in prognosi riservata, uno studente spagnol",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/16/studente-erasmus-aquila-caduta-mura-notizie/8573587/"
         },
         {
-          "titulo": "Atreju o non Atreju? Il dilemma dei leader del Campo Largo. Conte: “Io ci vado per ricordare gli errori della destra”",
-          "entradilla": "Andare o non andare? Chissà se dietro al dubbio c’è più il timore di dare un assist all’avversario politico che gioca in casa o più il grande dubbio di Nanni Moretti che si chiedeva se si notava di più andando a una festa o non presentandosi proprio. Il dilemma è quello dei leader del centrosinistra",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/15/atreju-2026-conte-schlein-fratoianni-notizie/8573010/"
+          "titulo": "Carolyn Smith in lacrime a “Ballando con le stelle” mentre si sfoga con gli autori, Matano e Milly Carlucci. Zazzaroni rivela il perché – IL VIDEO",
+          "entradilla": "La settima puntata di “Ballando con le stelle” continua a far discutere, alimentando nuove polemiche. Al centro dell’attenzione è finito un video pubblicato dal sito “Il Difforme”, che ha rapidamente fatto il giro dei social network diventando virale. Le immagini mostrano la presidente di giuria Car",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/16/carolyn-smith-in-lacrime-a-ballando-con-le-stelle-mentre-si-sfoga-con-gli-autori-matano-e-milly-carlucci-zazzaroni-rivela-il-perche-il-video/8573615/"
         },
         {
-          "titulo": "Masse sonore grandi come oceani, micro-intervalli, scenografie che modificano il suono: come la musica può parlare del mondo che viviamo anche senza raccontarlo",
-          "entradilla": "Che cosa può dirci del mondo la musica del nostro tempo? Non necessariamente una guerra, una migrazione o il cambiamento climatico tradotti in note. La musica può parlare del presente anche senza raccontarlo: può farci percepire un conflitto attraverso una forma che si spezza, la vastità attraverso ",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/15/masse-sonore-grandi-come-oceani-micro-intervalli-scenografie-che-modificano-il-suono-come-la-musica-puo-parlare-del-mondo-che-viviamo-anche-senza-raccontarlo/8569655/"
+          "titulo": "Quadruplicate le ricognizioni della Raf su Kaliningrad, l’exclave sul Baltico che ospita il sistema missilistico nucleare Iskander",
+          "entradilla": "Nel mese di ottobre la Royal Air Force ha impiegato 17 volte i suoi aerei Rivet Joint – specializzati in missioni di ricognizione, sorveglianza e registrazione di dati – per verificare le attività militari russe a Kaliningrad, territorio appartenente alla Federazione “incastrato” tra Paesi Baltici e",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/16/kaliningrad-voli-spia-raf-rivet-joint-notizie/8573624/"
         },
         {
-          "titulo": "“Multati per avere portato dei fiori alle lapidi dei partigiani il 25 aprile nell’area del centro sociale Askatasuna”: la denuncia dell’Anpi Torino",
-          "entradilla": "Lo scorso 25 aprile hanno portato dei fiori alle lapidi dei partigiani, ma avrebbero violato l’area presidiata del Centro Sociale Askatasuna a Torino, e si sono visti arrivare a casa una multa dopo sei mesi. A denunciare il fatto è Nino Boeti, presidente dell’Associazione nazionale partigiani della ",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/15/multa-25-aprile-lapidi-partigiani-notizie/8572983/"
+          "titulo": "Tre pastori tedeschi abbaiano giorno e notte: vicini esasperati nel Leccese. Proprietario denunciato per stalking",
+          "entradilla": "Una convivenza diventata impossibile, tra notti insonni, finestre chiuse anche in piena estate e richieste di intervento rimaste, secondo i residenti, senza risposta. A San Donato, comune alle porte di Lecce, continua la battaglia tra un gruppo di vicini e il proprietario di tre pastori tedeschi, ac",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/16/cani-abbaiano-san-donato-lecce-notizie/8573600/"
         },
         {
-          "titulo": "Yemen, gli Houthi liberano 600 membri delle forze governative: “Il più imponente rilascio unilaterale dall’inizio della guerra”",
-          "entradilla": "Il rilascio è avvenuto a favore di telecamera e di fotografi: 600 membri delle forze governative yemenite sono stati liberati dagli Houthi, i ribelli del movimento di Ansar Allah alleati all’Iran. Erano detenuti dalla ripresa delle ostilità avvenuta a luglio. Si tratta del più “cospicuo atto di ques",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/15/houthi-600-prigionieri-rilascio-notizie/8572900/"
+          "titulo": "Migranti irregolari, pronto l’accordo di cinque Paesi europei con il Ruanda. La Commissione Ue applaude",
+          "entradilla": "Cinque Paesi dell’Unione europea pronti a spedire in Ruanda i migranti che vogliono espellere. Germania, Danimarca, Austria, Grecia e Paesi Bassi annunceranno oggi a Vienna , a margine della conferenza europea sulle migrazioni, un accordo con Kigali per realizzare il primo return hub europeo, un cen",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/16/migranti-irregolari-accordo-ruanda-return-hub-notizie/8573636/"
         },
         {
-          "titulo": "“Smetterò di recitare quando non ricorderò più le battute. Stiamo vivendo tempi difficili, a casa abbiamo stipato viveri in caso di emergenza”: così Jeremy Irons",
-          "entradilla": "Ha ritirato da poco l’Ulivo d’oro alla carriera presso il Festival del cinema europeo di Lecce. Jeremy Irons, l’attore britannico, che nel nel 1991 vinse l’Oscar come miglior interpretazione maschile con il film “Il mistero Von Bulow”, racconta come affronta dopo una così lunga e importante carriera",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/15/smettero-di-recitare-quando-non-ricordero-piu-le-battute-stiamo-vivendo-tempi-difficili-a-casa-abbiamo-stipato-viveri-in-caso-di-emergenza-cosi-jeremy-irons/8572920/"
+          "titulo": "Elezioni Figc, Galliani rinuncia al ricorso contro Malagò. L’ex Coni: “E ora cosa fate fino al 14 dicembre?”",
+          "entradilla": "“Un segnale importante, un segnale distensivo. Onestamente lo immaginavo, lo dico con molta franchezza“. Così Giovanni Malagò, commissario della Figc, ha commentato a margine della cerimonia della XXXV edizione della Panchina d’Oro, al Centro tecnico federale di Coverciano, la decisione di Adriano G",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/16/elezioni-figc-galliani-rinuncia-ricorso-presidente/8573616/"
         },
         {
-          "titulo": "Classifica qualità della vita, Bolzano supera Milano: è la provincia dove si vive meglio in Italia. L’ultima è Taranto",
-          "entradilla": "È Bolzano la provincia italiana in cui si vive meglio. Dopo due anni consecutivi al vertice, Milano cede lo scettro al capoluogo altoatesino, che torna al primo posto nella classifica della qualità della vita. Bologna conferma il terzo posto. In fondo alla graduatoria, invece, c’è Taranto, che perde",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/15/qualita-vita-bolzano-prima-taranto-ultima-notizie/8572862/"
+          "titulo": "Ballando con le Stelle, le offese di Mariotto a Barbara D’Urso e il silenzio di Milly Carlucci: possibile che tocchi rivalutare Tu sì que vales?",
+          "entradilla": "E insomma, per trovare un po’ di eleganza nella tv bisogna spegnerla. È quello che viene da pensare dopo aver recuperato gran parte della puntata di Ballando con le Stelle di sabato 14 novembre. Sul perché Guillermo Mariotto sia ancora al suo posto, dopo una sequela di episodi imbarazzanti culminata",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/16/ballando-con-le-stelle-le-offese-di-mariotto-a-barbara-durso-e-il-silenzio-di-milly-carlucci-possibile-che-tocchi-rivalutare-tu-si-que-vales/8573562/"
         },
         {
-          "titulo": "Gli operai ristrutturano casa e trovano scatole piene di lettere del 1934: quello che c’era scritto li ha commossi  – IL VIDEO",
-          "entradilla": "Doveva essere un cantiere come tanti, si è trasformato in un viaggio negli anni Trenta. Una giovane coppia dell’Alabama, al lavoro sulla casa acquistata a giugno, ha trovato in un vano sopra la caldaia scatole piene di lettere, cartoline e piccoli ricordi appartenuti ai primi proprietari, che costru",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/15/gli-operai-ristrutturano-casa-e-trovano-scatole-piene-di-lettere-del-1934-quello-che-cera-scritto-li-ha-commossi-il-video/8572956/"
+          "titulo": "Angri, donna uccisa a coltellate in casa: si cerca un figlio ancora irreperibile",
+          "entradilla": "È stata uccisa nella sua abitazione di via don Carlo La Mura, ad Angri, con diverse coltellate. Probabilmente 24 ore prima del ritrovamento, avvenuto all’alba di lunedì. Si indaga sul femminicidio di Assunta Abbruzzese, 50 anni, trovata senza vita nel suo paese del Salernitano. L’allarme è stato lan",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/16/femminicidio-angri-abbruzzese-coltellate-notizie/8573602/"
         },
         {
-          "titulo": "“Abbiamo due mariti, cinque figli e due tate e condividiamo la stesso complesso famigliare. Ceniamo tutte le sere insieme e alle 19:30 ognuno a casa propria”: la storia delle gemelle Stoker",
-          "entradilla": "Vivere nella stessa città per far crescere i figli insieme era il sogno che Amelia e Sydney Stoker, gemelle di 39 anni, coltivavano da sempre. Oggi vivono porta a porta, hanno abbattuto la recinzione tra i due giardini e condividono cene, spese e persino le tate. Loro la chiamano “compound”, un picc",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/15/abbiamo-2-mariti-5-figli-e-2-tate-e-condividiamo-la-stesso-complesso-famigliare-ceniamo-insieme-poi-ognuno-a-casa-propria-la-storia-delle-gemelle-stoker/8572950/"
+          "titulo": "Dal ‘curing’ al ‘caring’: perché il campo largo rischia di perdere milioni di voti sulla sanità",
+          "entradilla": "Il campo largo, oltre a impegnarsi a garantire a tutti le “cure gratuite di diritto”, deve impegnarsi a garantire a tutti le “cure adeguate di diritto”. E’ una questione a metà strada tra medicina e sanità. Trovare i soldi per curare le malattie non è la stessa cosa che garantire cure adeguate per c",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/16/campo-largo-sanita-caring-cure-adeguate-appello-cavicchi/8573595/"
         },
         {
-          "titulo": "“Facevo l’hostess, poi è scoppiata la guerra e ho avuto un attacco di panico. Sono fuggita in un paesino e ho salvato il matrimonio”: la storia di Alona Vasylieva",
-          "entradilla": "Nata in una cittadina ucraina, è diventata assistente di volo per la compagnia di bandiera. Poi la pandemia, la guerra, la fuga in Canada e un attacco di panico. Oggi la 35enne Alona Vasylieva lavora come receptionist part-time, cuoce il pane e dice: “Non voglio più adattarmi, voglio appartenere”. L",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/15/facevo-lhostess-poi-e-scoppiata-la-guerra-e-ho-avuto-un-attacco-di-panico-sono-fuggita-in-un-paesino-e-ho-salvato-il-matrimonio-la-storia-di-alona-vasylieva/8572943/"
+          "titulo": "Tassare le ricchezze, al tavolo di coalizione il M5s porta un’imposta sui patrimoni finanziari oltre 1 milione e una sul trading ad alta frequenza",
+          "entradilla": "La tassazione delle grandi ricchezze è uno dei nodi aperti nel confronto programmatico del campo largo. Lunedì pomeriggio si riunisce il tavolo che dovrebbe cercare un compromesso tra le ricette proposte da Pd, Movimento 5 Stelle e Alleanza Verdi-Sinistra. Che, al netto dell’obiettivo di chiedere un",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/16/tassa-ricchezze-m5s-attivita-finanziarie-trading-tavolo-campo-largo/8573527/"
         }
       ],
       "analisis": {
-        "resumen": "- Schlein critica la financiación de la sanidad pública y advierte de que la oposición defenderá el derecho a la salud.\n- Fratoianni reclama cohesión en la coalición de centroizquierda; sus líderes debaten si asistir a Atreju.\n- La ANPI de Turín denuncia multas por llevar flores a lápidas de partisanos; en Yemen, los hutíes liberan a 600 miembros de las fuerzas gubernamentales.\n- Bolzano encabeza la clasificación italiana de calidad de vida, por delante de Milán; Taranto ocupa el último lugar.\n- La portada incluye historias personales, cultura y entretenimiento, entre ellas las de un futbolista que vive en una autocaravana y el actor Jeremy Irons.",
-        "populismo": 32,
-        "motivo_populismo": "Hay expresiones de confrontación y alarma como «desmantelar la sanidad pública» y «suicidio político», además de titulares emotivos o de curiosidad, aunque predominan contenidos informativos y no se aprecia una apelación clara al pueblo contra las élites.",
-        "sesgo": "La selección política da protagonismo a voces de la oposición y a sus críticas al Gobierno, sin que aparezca en los textos facilitados una respuesta gubernamental. También destacan historias humanas presentadas con un enfoque emotivo."
+        "resumen": "- Cinco países europeos preparan un acuerdo con Ruanda para trasladar allí a migrantes que desean expulsar; la Comisión Europea lo respalda.\n- La oposición debate impuestos sobre grandes patrimonios, mientras un artículo advierte del riesgo electoral de su enfoque sanitario.\n- Una operación antimafia en Bari deja 19 detenidos; en Angri investigan la muerte a puñaladas de una mujer.\n- La RAF cuadruplicó sus misiones de reconocimiento sobre Kaliningrado en octubre.\n- Alcaraz vence a Tiafoe en las ATP Finals; también destacan polémicas del programa «Ballando con le Stelle».",
+        "populismo": 25,
+        "motivo_populismo": "Predominan titulares informativos, aunque expresiones como «travolge», «vicini esasperati» y el detalle de un estudiante «infilzato» aportan dramatización y sensacionalismo, sin un enfrentamiento explícito entre pueblo y élites.",
+        "sesgo": "La selección combina política y asuntos internacionales con sucesos y polémicas televisivas, a menudo con un enfoque llamativo. En sanidad y televisión aparecen piezas de opinión con posturas explícitas, pero no se aprecia una orientación política global inequívoca."
       }
     }
   ]
