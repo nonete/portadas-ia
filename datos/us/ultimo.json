@@ -1,39 +1,39 @@
 {
   "pais": "Estados Unidos",
-  "fecha": "2026-11-16",
+  "fecha": "2026-11-17",
   "turno": 8,
-  "generado": "16/11/2026 15:53",
+  "generado": "17/11/2026 16:32",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "Se repiten las interrupciones del tráfico aéreo y sus causas, la situación de Nvidia y su relación con la Administración Trump, y las nominaciones a los Grammy. También aparecen el avance demócrata en los estados y los retos de la educación superior. Solo The Wall Street Journal destaca la pérdida del estatus de eliminación del sarampión en Estados Unidos.",
-    "crispacion": 55,
-    "motivo_crispacion": "La crispación es moderada por las disputas sobre las políticas de la Administración Trump y las acusaciones de falta de inversión que el secretario de Transporte dirige al Congreso y a gobiernos anteriores. También generan tensión los cambios de poder demócrata en los estados, con posibles consecuencias para los vales escolares, y el debate sobre Nvidia y China. En el ámbito internacional destacan los bombardeos rusos sobre Ucrania. Las noticias sobre los Grammy, el ocio y la recuperación de los vuelos ofrecen un contrapunto menos conflictivo."
+    "temas": "Se repiten las tensiones entre Estados Unidos y China por la inteligencia artificial y los controles de exportación, junto con las divisiones en el Gobierno de Trump. También aparecen conflictos judiciales e institucionales y controversias en centros educativos, incluidas las respuestas a denuncias de agresión sexual. Por su parte, The New York Times destaca el ataque ucraniano contra el puente de Kerch.",
+    "crispacion": 65,
+    "motivo_crispacion": "Las restricciones tecnológicas enfrentan a Estados Unidos y China y exponen divisiones dentro del Gobierno estadounidense. También hay tensiones entre autoridades y tribunales, protestas y críticas a dirigentes universitarios por su respuesta a denuncias de agresión sexual. A ello se suman las guerras mencionadas en Ucrania e Irán. Compensan parcialmente este panorama noticias sobre avances médicos, exploración espacial, negocios, deportes y entretenimiento."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Veo en las portadas una disputa de clase: en California se ha aprobado una prohibición de los impuestos a la riqueza impulsada con financiación multimillonaria, mientras los servicios públicos necesitan recursos. La interrupción del tráfico aéreo recuerda cuánto dependemos de infraestructuras comunes. No sabemos aún la causa de fondo del fallo, pero sí que su modernización exige inversión sostenida y control público.\n\nTambién observo que un proyecto facilitaría la construcción de centros de datos y les cobraría más por la electricidad. Que paguen por la energía que consumen es lo mínimo; no basta, sin embargo, con corregir la factura. Como comunista, defiendo la propiedad colectiva de las infraestructuras estratégicas y una planificación democrática que ponga sus recursos al servicio de la mayoría trabajadora. La tecnología y la riqueza que producimos entre todos no deben quedar subordinadas al beneficio de unos pocos."
+      "texto": "Hoy veo con claridad la lucha de clases en las noticias. En California se ha aprobado una prohibición de los impuestos al patrimonio impulsada con dinero de multimillonarios. Mientras tanto, Bell contempla vender parques municipales de viviendas para personas de bajos ingresos porque asegura no poder mantenerlos. Para mí, la contradicción es evidente: se protege la riqueza concentrada mientras se pone en riesgo un patrimonio público del que dependen trabajadores y trabajadoras.\n\nComo comunista, defiendo que la vivienda y la sanidad se organicen como derechos, no como oportunidades de negocio. Mantener y ampliar la propiedad colectiva exige recursos públicos y control democrático, no entregar activos comunes al capital. También rechazo las detenciones de residentes permanentes por infracciones menores antiguas: dividir a la clase trabajadora por su origen debilita la defensa de los derechos de todos."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "Veo en las noticias sobre Nvidia una concentración inquietante de poder: mientras la administración decide qué chips pueden venderse y a quién, el presidente se ha beneficiado del éxito de la empresa. No basta con cambiar a quienes ocupan los despachos; necesitamos control colectivo y transparente sobre decisiones tecnológicas que afectan a toda la sociedad.\n\nCelebro la disolución de la unidad policial dedicada a detener manifestantes en Nueva York, pero no confundo una reforma con la libertad de organizarse sin coerción. Y ante los bombardeos rusos que amenazan con dejar a ciudades ucranianas sin calefacción ni agua, rechazo que los Estados conviertan la vida cotidiana en un campo de batalla. Creo en comunidades capaces de organizar ayuda mutua, cuidar sus recursos y decidir directamente, sin entregar su autonomía a partidos, gobiernos o jerarquías empresariales."
+      "texto": "Hoy veo la misma pregunta detrás de noticias distintas: ¿quién decide sobre nuestras vidas y ante quién responde? ICE detiene a residentes legales por infracciones menores y antiguas; en Bell, los habitantes de parques de casas móviles temen pagar las consecuencias de la gestión municipal. En ambos casos, quienes soportan las decisiones tienen demasiado poco control sobre ellas.\n\nCelebro que se disuelva la unidad policial de Nueva York encargada de arrestos en protestas, pero no confundo una reforma con el fin de la concentración de poder. No espero que un partido, por bienintencionado que sea, nos conceda la libertad desde arriba. Prefiero defender la organización de vecinos y trabajadores, la autogestión de la vivienda y redes de apoyo mutuo para las personas detenidas. La libertad individual necesita comunidades capaces de cuidarse sin obedecer a una autoridad incuestionable."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "Veo en las noticias una disputa fundamental sobre quién debe decidir: las personas o el Estado. Me preocupa que el cambio de poder en varios estados ponga en riesgo los vales para escuelas privadas. La educación de un hijo no debería quedar cautiva de un monopolio: dar opciones a las familias, también a las de menos recursos, fomenta la competencia y exige a las escuelas responder por sus resultados.\n\nTambién celebro que California haya votado contra los impuestos al patrimonio. Castigar la riqueza acumulada puede desalentar la inversión y ampliar el poder de un gobierno que ya dispone de numerosos recursos. Prefiero impuestos bajos y un Estado limitado, obligado a rendir cuentas por las tareas esenciales.\n\nY la libertad implica responsabilidad: si los centros de datos necesitan más electricidad, deben asumir sus costes, sin trasladarlos injustamente a otros consumidores."
+      "texto": "Celebro que los votantes de California hayan prohibido los impuestos sobre el patrimonio. A mi juicio, gravar lo que alguien posee, además de sus ingresos, castiga el ahorro y la inversión que sostienen la creación de riqueza. Prefiero impuestos bajos y un Estado que justifique cada dólar que gasta.\n\nTambién me preocupa que se detenga a residentes legales por infracciones menores y antiguas. La seguridad jurídica exige reglas claras y un trato proporcional: el poder público no debería convertir faltas antes sancionadas con una multa en amenazas al estatus legal.\n\nY ante las restricciones comerciales entre Estados Unidos y China, defiendo el intercambio libre como motor de prosperidad. La seguridad nacional importa, pero limitar el comercio debe ser una excepción justificada, no una excusa para que los gobiernos decidan por empresas y consumidores."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "La soberanía no consiste en pronunciar discursos patrióticos mientras se negocia con tecnologías estratégicas. Apoyo cerrar la vía que permite a empresas chinas acceder a chips avanzados mediante centros de datos extranjeros. Pero esa decisión exige reglas claras y sin privilegios: las inversiones del presidente en Nvidia obligan a extremar la transparencia. La seguridad nacional no puede depender de la conveniencia de los poderosos.\n\nTambién me preocupa que el avance demócrata ponga en riesgo los vales para escuelas privadas. Las familias, no solo los burócratas, deben poder elegir la educación de sus hijos conforme a sus valores. Y ante la caída de estudiantes internacionales, no acepto que las universidades dicten por sí solas la política de visados: controlar quién entra en el país es una responsabilidad soberana. Eso sí, las restricciones deben ser claras y servir al interés nacional, no al espectáculo político."
+      "texto": "Yo quiero un país que controle su destino, no uno que confíe su seguridad a los intereses de las grandes empresas. Las divisiones del Gobierno sobre los chips avanzados muestran que la relación con China exige algo más que gestos amistosos: necesitamos controles firmes y una política industrial que proteja nuestra capacidad estratégica.\n\nTambién defiendo fronteras estrictas y leyes migratorias que se cumplan. Pero un Estado fuerte debe actuar con reglas claras: detener a residentes legales por infracciones menores de hace décadas no sustituye una política coherente de control migratorio.\n\nEn casa, la evidencia favorable a limitar los teléfonos en las escuelas merece atención. Recuperar la disciplina, la responsabilidad y el respeto por el aprendizaje es tan importante como defender nuestras fronteras. Y un servicio nacional remunerado podría ayudar a transmitir el deber de contribuir a la comunidad, en vez de dejar que el mercado defina todas nuestras obligaciones."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "La interrupción nacional de vuelos me recuerda que un Gobierno eficaz no se mide por sus consignas, sino por la fiabilidad de los servicios de los que dependemos. Es razonable investigar la causa del fallo y exigir responsabilidades; también lo es buscar un acuerdo entre partidos para modernizar el control aéreo, con financiación y supervisión claras.\n\nVeo una prueba similar en el crecimiento de la inteligencia artificial. Facilitar la construcción de centros de datos puede impulsar la innovación, pero pedirles que paguen más por la electricidad es una propuesta que merece consideración: el mercado funciona mejor cuando sus costos no se trasladan injustamente a los demás.\n\nY ante los ataques rusos que amenazan servicios esenciales en Ucrania, creo que defender a la población civil debe seguir siendo una prioridad, incluso mientras se habla de paz."
+      "texto": "Me preocupa que la rivalidad con China oscile entre los gestos de amistad y las restricciones crecientes sin una estrategia suficientemente clara. Creo que proteger los chips avanzados y reducir riesgos de espionaje es legítimo, pero también que el comercio y la diplomacia siguen siendo indispensables. Prefiero controles precisos, supervisados y coordinados con nuestros aliados a una ruptura económica indiscriminada.\n\nTambién me inquieta que se detenga a residentes permanentes por infracciones menores y antiguas. El cumplimiento de la ley necesita proporcionalidad y debido proceso: la seguridad jurídica es una fortaleza, no un obstáculo. Y cuando los CDC no alertan sobre riesgos del sarampión durante el embarazo, se resiente la confianza pública. Yo exigiría transparencia científica y políticas de salud basadas en pruebas. Defender las instituciones significa corregirlas cuando fallan, no pedirles obediencia ciega."
     }
   ],
   "periodicos": [
@@ -42,71 +42,71 @@
       "web": "https://www.nytimes.com",
       "noticias": [
         {
-          "titulo": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
-          "entradilla": "The rules, a topic of fierce debate in the administration, could cut back on Nvidia’s sales to foreign data centers serving Chinese companies.",
-          "enlace": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html"
+          "titulo": "As Trump and Xi Mingle, Their Governments Are Arming Up",
+          "entradilla": "Public displays of friendship contrast with mounting trade and investment restrictions, highlighting the widening rift between the two economies.",
+          "enlace": "https://www.nytimes.com/2026/11/17/business/trump-xi-meeting-tensions.html"
         },
         {
-          "titulo": "Is Jensen Huang Plotting a Comeback?",
-          "entradilla": "Prominent figures in Silicon Valley want to see Jensen Huang reinstalled as Nvidia’s boss. Some in the Trump administration don’t want him to return.",
-          "enlace": "https://www.nytimes.com/2026/11/16/business/dealbook/huang-comeback-nvidia.html"
+          "titulo": "Trump Administration Divide on China Policy Breaks Into Public View",
+          "entradilla": "The airing of a fight over advanced A.I. chips shows how much the Nvidia scandal has deepened fissures inside the government, just as President Trump heads to a critical meeting with his Chinese counterpart.",
+          "enlace": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html"
         },
         {
-          "titulo": "What’s Behind Back-to-Back Meltdowns at the F.A.A. and Microsoft",
-          "entradilla": "Plus, why “birdbrain” is a misnomer.",
-          "enlace": "https://www.nytimes.com/2026/11/16/podcasts/the-headlines/faa-microsoft-outage.html"
+          "titulo": "Tracking China’s War of Words Against Japan",
+          "entradilla": "Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis.",
+          "enlace": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html"
         },
         {
-          "titulo": "Winter Nightmare Looms Early in Ukraine as Russia Strikes Relentlessly",
-          "entradilla": "Even as it talks peace, Russia has opened a bombing campaign intended to strip Kyiv and other cities of heat, running water and sanitation this winter.",
-          "enlace": "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html"
+          "titulo": "The A.I. Fight Dividing the Trump Administration, and the Next James Bond",
+          "entradilla": "Plus, a new study on phone bans in schools.",
+          "enlace": "https://www.nytimes.com/2026/11/17/podcasts/the-headlines/ai-fight-trump-administration-new-james-bond-megaspeed.html"
         },
         {
-          "titulo": "Permitting Bill Would Charge Data Centers Billions for Power",
-          "entradilla": "The permitting bill could make it easier to build data centers for A.I. but a novel provision would also force data centers to pay much more for power.",
-          "enlace": "https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html"
+          "titulo": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
+          "entradilla": "Destroying the structure, the only one connecting Russia to the occupied Crimean Peninsula, has long been a top objective for Kyiv.",
+          "enlace": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html"
         },
         {
-          "titulo": "What Nithya Raman Plans to Do First as L.A. Mayor",
-          "entradilla": "Once she takes office, she pledges to use metrics to deliver “a city that works” after a pandemic, wildfires and clashes with Trump. But budget constraints and more stand in the way.",
-          "enlace": "https://www.nytimes.com/2026/11/16/us/raman-la-mayor-priorities.html"
+          "titulo": "Leaked Records Show Deutsche Bank Courting Russian Oligarchs",
+          "entradilla": "“As you know we have a large Russian Oligarchs client population,” an analyst wrote as the bank braced for sanctions against wealthy clients.",
+          "enlace": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html"
         },
         {
-          "titulo": "Democrats Will Wield Enormous Power in Statehouses. What Will They Do?",
-          "entradilla": "While attention has focused on the incoming Democratic Congress, the real change could happen in state capitals where Democrats will control a dozen new statehouse chambers.",
-          "enlace": "https://www.nytimes.com/2026/11/16/us/politics/democrats-state-government-control-priorities.html"
+          "titulo": "These Ukrainians Aren’t in Combat. But They Deal With War Every Day.",
+          "entradilla": "A doctor, a gravedigger, a therapist and a pathologist share their war experiences.",
+          "enlace": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-war-civilians.html"
         },
         {
-          "titulo": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
-          "entradilla": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.",
-          "enlace": "https://www.nytimes.com/2026/11/16/world/europe/iran-dams-missile-sites-environmentalists.html"
+          "titulo": "School Phone Bans Are Gradually Improving Test Scores, New Evidence Shows",
+          "entradilla": "Previous results were mixed, but the first national study to track individual students’ growth shows bans may help reverse declines.",
+          "enlace": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html"
         },
         {
-          "titulo": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field",
-          "entradilla": "Langley is the first straight-up country artist to contend for the top album prize in eight years, and Raye’s 11 nods lead all nominees.",
-          "enlace": "https://www.nytimes.com/2026/11/16/arts/music/grammy-nominations-ella-langley-raye-rosalia.html"
+          "titulo": "Grand Theft Auto VI Revs Up for a Worldwide Takeover",
+          "entradilla": "More than a decade in the making, the newest installment of the video game franchise is set to bring in billions and set a new standard for the industry.",
+          "enlace": "https://www.nytimes.com/2026/11/17/arts/grand-theft-auto-vi-hype-success.html"
         },
         {
-          "titulo": "Grammy Nominations 2027: See the Full List",
-          "entradilla": "The artists, albums and songs up for honors at the 69th annual ceremony were announced Monday. The show will be held on Feb. 7 in Los Angeles and air on ABC and Disney+ after decades on CBS.",
-          "enlace": "https://www.nytimes.com/2026/11/16/arts/music/grammy-nominee-list-2027.html"
+          "titulo": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
+          "entradilla": "Installed as her father’s de facto chief of staff, Jensen Huang’s daughter alienated top executives. Now her lingering role poses a test for interim C.E.O. Colette Kress.",
+          "enlace": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html"
         },
         {
-          "titulo": "How Could a Router Lead to a Nationwide Ground Stop?",
-          "entradilla": "Aviation experts and federal officials said the network outage began after a new piece of networking equipment began flooding the rest of the system with data. The underlying cause is unclear.",
-          "enlace": "https://www.nytimes.com/2026/11/15/us/router-network-faa-airline-ground-stop.html"
+          "titulo": "As Trump Goes to China, A.I. Tensions Surge Amid Spying and Safety Fears",
+          "entradilla": "The espionage concerns that led to Jensen Huang’s ouster at Nvidia highlight a core challenge to diplomacy between Washington and Beijing on A.I. advancement.",
+          "enlace": "https://www.nytimes.com/2026/11/17/us/politics/trump-china-ai-tensions.html"
         },
         {
-          "titulo": "How Sam Bankman-Fried Lost Out on a $35 Billion Jackpot From Anthropic",
-          "entradilla": "The founder of the collapsed FTX crypto exchange, who is serving prison time for fraud, would have made a windfall from a $500 million investment in Anthropic.",
-          "enlace": "https://www.nytimes.com/2026/11/16/technology/sam-bankman-fried-anthropic.html"
+          "titulo": "Facing Criticism, Trump Administration Says It’s Investigating Megaspeed",
+          "entradilla": "The announcement appeared to be a response to recent criticism that the Commerce Department has moved too slowly on the alleged chip smuggling case.",
+          "enlace": "https://www.nytimes.com/2026/11/17/business/economy/megaspeed-investigation-trump-doj.html"
         }
       ],
       "analisis": {
-        "resumen": "- La Administración Trump estudia restringir las ventas de chips de Nvidia vinculadas a China; otro proyecto elevaría el coste eléctrico de los centros de datos.\n- Rusia intensifica los ataques contra Ucrania mientras habla de paz; en Irán se examina la posible relación entre presas y sitios de misiles atacados.\n- La futura alcaldesa de Los Ángeles expone sus prioridades, y los demócratas ganan poder en legislaturas estatales.\n- Una avería de red provocó la suspensión nacional de vuelos; también se abordan problemas en Microsoft y la inversión de Sam Bankman-Fried en Anthropic.\n- Raye, Rosalía y Ella Langley destacan entre las nominadas a los Grammy de 2027.",
-        "populismo": 22,
-        "motivo_populismo": "Expresiones como «pesadilla invernal», «colapsos» y «¿trama un regreso?» aportan dramatismo, aunque predominan los titulares informativos y no se aprecia una apelación al pueblo contra las élites.",
-        "sesgo": "La selección presta especial atención a las decisiones de la Administración Trump, la tecnología y sus efectos económicos y políticos. Algunos titulares adoptan un enfoque crítico o dramático, sin que se aprecie una orientación partidista inequívoca en el conjunto."
+        "resumen": "- La relación entre Estados Unidos y China combina gestos de amistad con restricciones comerciales y tensiones tecnológicas.\n- La política hacia China y los chips de inteligencia artificial genera divisiones en el Gobierno de Trump; también se informa sobre Nvidia y una investigación por presunto contrabando.\n- China mantiene una campaña discursiva contra Japón, según un análisis del periódico.\n- Ucrania atacó el puente de Kerch; otra noticia recoge experiencias cotidianas de la guerra.\n- Registros filtrados vinculan a Deutsche Bank con oligarcas rusos; también destacan noticias sobre móviles en escuelas y Grand Theft Auto VI.",
+        "populismo": 20,
+        "motivo_populismo": "Expresiones como «guerra de palabras», «se están armando» y «conquista mundial» aportan dramatismo, pero no hay apelaciones al pueblo contra las élites ni descalificaciones generalizadas.",
+        "sesgo": "La portada prioriza las tensiones geopolíticas y tecnológicas, con especial atención a las divisiones y críticas que afectan al Gobierno de Trump. La selección muestra un enfoque centrado en conflictos y rendición de cuentas, sin que se aprecie una orientación partidista inequívoca."
       }
     },
     {
@@ -114,71 +114,71 @@
       "web": "https://www.washingtonpost.com",
       "noticias": [
         {
-          "titulo": "Flights gradually return to normal after days of disruption",
-          "entradilla": "Airlines said they expected to operate a largely normal flight schedule on Monday, after Friday’s nationwide ground stop led to widespread delays.",
-          "enlace": "https://www.washingtonpost.com/transportation/2026/11/16/us-flights-gradually-return-normal-after-days-disruption/"
+          "titulo": "FEMA will test its Emergency Alert System today. Here’s what to expect.",
+          "entradilla": "Radio and TV broadcasts will be interrupted at around 2:20 p.m. Eastern Time to test FEMA's nationwide public alert and warning system. Cellphones won't be affected.",
+          "enlace": "https://www.washingtonpost.com/nation/2026/11/17/fema-test-its-emergency-alert-system-tuesday/"
         },
         {
-          "titulo": "Private school vouchers at risk in some states as Democrats gain control",
-          "entradilla": "Democrats, who mostly oppose vouchers, gained power in five of the six states that spend the most money on voucher programs. The power shift may reverse years of steady expansion.",
-          "enlace": "https://www.washingtonpost.com/education/2026/11/16/private-school-vouchers-risk-some-states-democrats-gain-control/"
+          "titulo": "After 2 years in military prison, mother is acquitted in baby’s death",
+          "entradilla": "The case, which the Coast Guard tried twice, centered on Kate Richard’s postpartum depression — and questions raised by her lawyers about investigators’ competence.",
+          "enlace": "https://www.washingtonpost.com/national-security/2026/11/17/after-2-years-military-prison-mother-is-acquitted-babys-death/"
         },
         {
-          "titulo": "The serious complications of GLP-1s that few may know about",
-          "entradilla": "With millions of patients taking GLP-1 drugs, doctors are discovering rare but worrying problems affecting the body and the mind.",
-          "enlace": "https://www.washingtonpost.com/health/2026/11/16/glp-1-weight-loss-drugs-have-big-cons-even-if-serious-problems-are-rare/"
+          "titulo": "The first pill to slow Alzheimer’s could come from an unexpected place",
+          "entradilla": "A drug that is sold in South Korea for erectile dysfunction slowed mental decline in a year-long global trial of more than 1,500 people.",
+          "enlace": "https://www.washingtonpost.com/health/2026/11/17/first-pill-slow-alzheimers-could-come-an-unexpected-place/"
         },
         {
-          "titulo": "Still too young to buy beer, these teens are winning elected office",
-          "entradilla": "Victories for local and statewide offices across the country signal Gen Z’s political engagement is on the rise, experts say.",
-          "enlace": "https://www.washingtonpost.com/nation/2026/11/16/still-too-young-buy-beer-these-teens-are-winning-elected-office/"
+          "titulo": "Duffy wants $50 billion to avert another ground stop. Experts say money isn’t the issue.",
+          "entradilla": "The transportation secretary’s proposed funding package is only partly aimed at air traffic modernization.",
+          "enlace": "https://www.washingtonpost.com/transportation/2026/11/17/duffy-wants-50-billion-avert-another-ground-stop-experts-say-money-isnt-issue/"
         },
         {
-          "titulo": "A failed execution, a shrinking death row and a historic moment for capital punishment",
-          "entradilla": "What Christa Pike’s botched execution, Gavin Newsom’s emptying of California’s death row and a return to firing squads could mean for capital punishment in America.",
-          "enlace": "https://www.washingtonpost.com/nation/2026/11/16/what-christa-pike-emptying-californias-death-row-could-mean-us/"
+          "titulo": "GM stock switch reveals latest strategy: Get thee into an index",
+          "entradilla": "The automaker joins the Nasdaq as corporate America eyes the riches in passive investing.",
+          "enlace": "https://www.washingtonpost.com/business/2026/11/17/gm-stock-switch-reveals-latest-strategy-get-thee-into-an-index/"
         },
         {
-          "titulo": "Colonial Williamsburg unveils $600 million upgrade for its 100th birthday",
-          "entradilla": "The five-year plan will expand the outdoor history museum’s scope and add new facilities.",
-          "enlace": "https://www.washingtonpost.com/nation/2026/11/16/colonial-williamsburg-unveils-600-million-upgrade-foundations-100th-birthday/"
+          "titulo": "ICE is using decades-old, minor violations to detain green-card holders",
+          "entradilla": "Authorities are detaining people over charges that did not come up when applying for or renewing green cards and that in the past would have resulted in a citation — not an effort to remove legal status.",
+          "enlace": "https://www.washingtonpost.com/immigration/2026/11/17/they-had-green-cards-years-then-they-were-detained-by-ice/"
         },
         {
-          "titulo": "Trump’s stake in Nvidia grew to as much as $62 million before scandal broke out",
-          "entradilla": "The president benefited from the firm’s success, disclosures show. The value of his holdings rose dramatically as his administration let Nvidia sell advanced chips in China.",
-          "enlace": "https://www.washingtonpost.com/business/2026/11/16/trumps-stake-nvidia-grew-much-62-million-before-scandal-broke-out/"
+          "titulo": "‘One of the most beautiful snakes in North America’ is making a comeback",
+          "entradilla": "The San Francisco garter snake has been on the federal endangered species list since its creation in 1967.",
+          "enlace": "https://www.washingtonpost.com/lifestyle/2026/11/17/62-snakes-were-just-released-into-wild-this-is-good-news-we-promise/"
         },
         {
-          "titulo": "Memorial opens to victims of 2015 mass shooting at Charleston church",
-          "entradilla": "The memorial invites visitors to reflect on the massacre within the congregation’s long history of hardship, resilience and forgiveness.",
-          "enlace": "https://www.washingtonpost.com/nation/2026/11/15/memorial-opens-victims-2015-mass-shooting-charleston-church/"
+          "titulo": "Chase Bank says operations are back to normal after ‘bug’ disrupts transactions",
+          "entradilla": "A technical problem affected customers' ability to access online banking services for several hours Monday.",
+          "enlace": "https://www.washingtonpost.com/nation/2026/11/16/chase-bank-reports-technical-issue-affecting-users/"
         },
         {
-          "titulo": "Duffy blames Congress, prior administrations for air travel halt, chaos",
-          "entradilla": "Transportation Secretary Sean Duffy refused to apologize for failures that led to the nationwide ground stop, pointing to a lack of investment in air traffic modernization.",
-          "enlace": "https://www.washingtonpost.com/transportation/2026/11/15/sean-duffy-blames-congress-prior-administrations-ground-stop-chaos/"
+          "titulo": "United Airlines hit by tech issues days after nationwide ground stop",
+          "entradilla": "United said there was no indication that the problem was cybersecurity-related.",
+          "enlace": "https://www.washingtonpost.com/transportation/2026/11/16/united-airlines-hit-by-tech-issues-days-after-nationwide-ground-stop/"
         },
         {
-          "titulo": "Costco recalls whipped cream over potential cleaning chemical contamination",
-          "entradilla": "A batch of a Kirkland whipped cream product sold in 12 states has been withdrawn after customers reported “a chemical smell and taste.\"",
-          "enlace": "https://www.washingtonpost.com/nation/2026/11/15/costco-recalls-whipped-cream-over-potential-contamination/"
+          "titulo": "CDC declined to alert risk of measles in pregnancy. A journal released the data.",
+          "entradilla": "As measles roars back, doctors are seeing pregnant women and newborns developing serious conditions.",
+          "enlace": "https://www.washingtonpost.com/health/2026/11/16/cdc-declined-alert-risk-measles-pregnancy-journal-released-data/"
         },
         {
-          "titulo": "Airlines scramble to resume flights after ground stop as cancellations continue",
-          "entradilla": "The Federal Aviation Administration said flight schedules are expected to return to normal by late Sunday, though some airlines warned that disruptions could persist.",
-          "enlace": "https://www.washingtonpost.com/transportation/2026/11/15/airlines-scramble-resume-flights-after-ground-stop-cancellations-continue/"
+          "titulo": "Student accepted to Va. law school after sex assault finding is no longer enrolled",
+          "entradilla": "Students staged a protest Monday morning after a Washington Post report",
+          "enlace": "https://www.washingtonpost.com/investigations/2026/11/16/student-accepted-va-law-school-after-sex-assault-finding-is-no-longer-enrolled/"
         },
         {
-          "titulo": "Game wardens once crossed property lines. A legal movement is stopping them.",
-          "entradilla": "A growing property rights campaign is reshaping how states police hunting and protect animals.",
-          "enlace": "https://www.washingtonpost.com/nation/2026/11/15/game-wardens-once-crossed-property-lines-legal-movement-is-stopping-them/"
+          "titulo": "National service promoted as a bipartisan solution to young job seekers’ worries",
+          "entradilla": "The organizers of the American Service Project see a paid year of work as way to solve social isolation and an insecure job market.",
+          "enlace": "https://www.washingtonpost.com/nation/2026/11/16/national-service-promoted-bipartisan-solution-young-job-seekers-worries/"
         }
       ],
       "analisis": {
-        "resumen": "- Los vuelos se recuperan gradualmente tras la suspensión nacional, aunque persisten cancelaciones; el secretario de Transporte culpa al Congreso y a gobiernos anteriores.\n- Los avances demócratas en varios estados podrían poner en riesgo los vales para escuelas privadas.\n- Se examinan el aumento del valor de las acciones de Nvidia en manos de Trump y el auge de jóvenes elegidos para cargos públicos.\n- La portada aborda complicaciones poco frecuentes de los fármacos GLP-1, la retirada de nata montada y el futuro de la pena de muerte.\n- También recoge la reforma de Colonial Williamsburg, un memorial en Charleston y una campaña por los derechos de propiedad que limita la actuación de los guardas de caza.",
-        "populismo": 25,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «caos», «escándalo» y «complicaciones graves que pocos conocen» aportan dramatismo y cierto sensacionalismo.",
-        "sesgo": "La selección presta atención crítica a decisiones y responsabilidades de autoridades públicas, en particular sobre el transporte aéreo y las acciones de Nvidia de Trump. No se aprecia una orientación ideológica inequívoca en el conjunto de los titulares."
+        "resumen": "- FEMA probará hoy su sistema de alertas en radio y televisión; no afectará a los móviles.\n- Una madre fue absuelta de la muerte de su bebé tras dos años en prisión militar; el caso abordó su depresión posparto.\n- Un fármaco contra la disfunción eréctil ralentizó el deterioro mental en un ensayo sobre el alzhéimer.\n- Expertos cuestionan la propuesta de financiación de Transporte para evitar nuevas interrupciones aéreas; United y Chase también sufrieron fallos técnicos.\n- Otras noticias tratan sobre detenciones de residentes legales por infracciones antiguas, riesgos del sarampión en el embarazo, una protesta estudiantil y una propuesta de servicio nacional remunerado.",
+        "populismo": 15,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «el sarampión vuelve con fuerza» y «un lugar inesperado» añaden dramatismo o curiosidad; no se aprecia una apelación al pueblo contra las élites.",
+        "sesgo": "La selección presta atención crítica a decisiones de organismos públicos y a sus consecuencias para personas afectadas. También destaca problemas sociales y sanitarios, sin que se aprecie una orientación política inequívoca."
       }
     },
     {
@@ -186,9 +186,24 @@
       "web": "https://www.wsj.com",
       "noticias": [
         {
+          "titulo": "Fed’s Lisa Cook Rebuffs White House Hearing, Citing Biased Panel",
+          "entradilla": "In a letter to White House counsel William Scharf, Cook’s attorney said she “has no legal obligation to participate in an unfair hearing.”",
+          "enlace": "https://www.wsj.com/politics/policy/feds-lisa-cook-rebuffs-white-house-hearing-citing-biased-panel-e6eac42b?mod=rss_usnews"
+        },
+        {
+          "titulo": "Watch What U.S. Aircraft Carriers Bring to the Iran War",
+          "entradilla": "Wall Street Journal journalists visited the USS George Washington to learn how the warships are taking the fight to Iran.",
+          "enlace": "https://www.wsj.com/world/middle-east/watch-what-u-s-aircraft-carriers-bring-to-the-iran-war-cf8b3b51?mod=rss_usnews"
+        },
+        {
           "titulo": "Mamdani Disbands Controversial NYPD Protest Unit",
           "entradilla": "The Democratic socialist had faced increasing pressure to dismantle a group tasked with making arrests during demonstrations.",
           "enlace": "https://www.wsj.com/politics/mamdani-disbands-controversial-nypd-protest-unit-e6e0d6cb?mod=rss_usnews"
+        },
+        {
+          "titulo": "Lindsay Clancy Faces Retrial in Deaths of Her Three Children",
+          "entradilla": "A jury trial is scheduled to begin March 29, following a hearing Monday with Clancy’s defense attorneys and prosecutors.",
+          "enlace": "https://www.wsj.com/us-news/lindsay-clancy-faces-retrial-in-deaths-of-her-three-children-d842d3d6?mod=rss_usnews"
         },
         {
           "titulo": "Trump Administration Can’t Close D.C. Golf Course for Now, Judge Rules",
@@ -199,21 +214,6 @@
           "titulo": "Christian Schools, Big Universities Try to Fight Race-Discrimination Rule",
           "entradilla": "The IRS proposal would let the government revoke the tax-exempt status of schools engaging in racial preferences.",
           "enlace": "https://www.wsj.com/us-news/education/christian-schools-big-universities-try-to-fight-race-discrimination-rule-57e554e2?mod=rss_usnews"
-        },
-        {
-          "titulo": "Weekend Air Travel Woes Mount After FAA Lifts Nationwide Ground Stop",
-          "entradilla": "The disruption is still expected to create travel problems that persist through the weekend.",
-          "enlace": "https://www.wsj.com/us-news/faa-temporarily-halts-flights-across-u-s-b9b06e59?mod=rss_usnews"
-        },
-        {
-          "titulo": "News Quiz for Nov. 14, 2026",
-          "entradilla": "Test your knowledge of the week’s events with The Wall Street Journal News Quiz.",
-          "enlace": "https://www.wsj.com/articles/news-quiz-for-nov-14-2026-07dcac58?mod=rss_usnews"
-        },
-        {
-          "titulo": "U.S. Loses Measles-Elimination Status as Historic Resurgence Sickens Thousands",
-          "entradilla": "The Pan American Health Organization has revoked the coveted status, people familiar with the matter said—a stunning reversal for a country that for decades has kept the vaccine-preventable disease at bay.",
-          "enlace": "https://www.wsj.com/health/u-s-loses-measles-elimination-status-as-historic-resurgence-sickens-thousands-b95e8780?mod=rss_usnews"
         },
         {
           "titulo": "The Parents Suing Schools Because Their Kids Got Bad Grades",
@@ -247,10 +247,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- Mamdani disuelve una polémica unidad policial de protestas; un juez frena por ahora el cierre de un campo de golf público en Washington.\n- Escuelas cristianas y grandes universidades intentan combatir una propuesta fiscal sobre preferencias raciales; California aprueba prohibir los impuestos sobre el patrimonio.\n- Estados Unidos pierde su estatus de eliminación del sarampión tras un repunte que ha enfermado a miles de personas.\n- Los problemas del transporte aéreo continuarán durante el fin de semana pese al levantamiento de una suspensión nacional de vuelos.\n- Varias noticias abordan conflictos escolares, hábitos universitarios, financiación deportiva y dificultades para retener a estudiantes admitidos.",
-        "populismo": 20,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «repunte histórico», «sorprendente revés» y «aumentan los problemas» aportan dramatismo; no se aprecia una apelación al pueblo contra las élites.",
-        "sesgo": "La selección presta especial atención a conflictos legales, decisiones públicas y problemas de instituciones educativas. El enfoque es principalmente institucional y de actualidad, sin que se aprecie una orientación partidista clara en el conjunto."
+        "resumen": "- Lisa Cook rechaza participar en una audiencia de la Casa Blanca que considera injusta; un juez impide por ahora el cierre de un campo de golf público en Washington.\n- Una cobertura desde el portaaviones USS George Washington muestra su papel en la guerra contra Irán.\n- Mamdani disuelve una unidad policial de Nueva York dedicada a arrestos durante protestas; Lindsay Clancy afronta un nuevo juicio por la muerte de sus tres hijos.\n- Varias noticias abordan las universidades: disputas por notas y discriminación racial, hábitos estudiantiles, matrícula, financiación deportiva y críticas a la dirección de Cornell.\n- Los votantes de California aprueban una prohibición de los impuestos sobre la riqueza.",
+        "populismo": 15,
+        "motivo_populismo": "Predomina un lenguaje informativo, aunque expresiones como «la lucha contra Irán» o «obsesionados con la hidratación» aportan énfasis; no se aprecia una apelación sistemática al pueblo contra las élites.",
+        "sesgo": "La selección privilegia asuntos institucionales, judiciales y educativos de Estados Unidos, con varias noticias centradas en conflictos. El enfoque sobre Irán destaca la perspectiva militar estadounidense, sin que eso permita concluir por sí solo una orientación política general."
       }
     },
     {
@@ -258,71 +258,71 @@
       "web": "https://www.latimes.com",
       "noticias": [
         {
-          "titulo": "2027 Grammy nominations: Raye, Rosalía and a 100th nod for Beyoncé",
-          "entradilla": "The two ambitious European artists are nominated for projects that explore high-flown ideas about faith, love and family amid complicated orchestral arrangements. Beyoncé also received her 100th career nod.",
-          "enlace": "https://www.latimes.com/entertainment-arts/music/story/2026-11-16/grammys-2027-nominations-raye-rosalia-ella-langley-olivia-rodrigo-phoebe-bridgers"
+          "titulo": "Ghosts of Bell corruption scandal resurface as city eyes sale of low-income mobile home parks",
+          "entradilla": "Bell says it can no longer afford to maintain low-income mobile home parks it owns. Residents say they are again facing the consequences of poor financial decisions and city management.",
+          "enlace": "https://www.latimes.com/california/story/2026-11-17/bell-is-considering-closing-city-owned-mobile-home-parks"
         },
         {
-          "titulo": "Here's the complete list of 2027 Grammy nominees",
-          "entradilla": "Raye led the 2027 Grammy Award nominations and is tied with Beyoncé's record for the most nominations in a single year by a female artist. Here's the complete list of nominees.",
-          "enlace": "https://www.latimes.com/entertainment-arts/story/2026-11-16/grammys-2027-nominations-full-list"
+          "titulo": "'He let the killer in': Cold case slaying of L.A. talent agent haunts detectives",
+          "entradilla": "Suren \"Chris\" Donoyan was found shot and killed in his North Hollywood apartment in 2014, but detectives found none of his valuable belongings missing from his home. Detectives are still looking for a suspect.",
+          "enlace": "https://www.latimes.com/california/story/2026-11-17/he-let-killer-in-lapd-detectives-try-to-identify-killer-who-left-cash-valuables-behind"
         },
         {
-          "titulo": "Grammy nominations snubs and surprises: Lots of love for Madonna while Harry Styles gets shut out",
-          "entradilla": "From country music's crossover hit of the century to the Spanish avant-garde, this year's top Grammy categories stood out for being dominated by women, and the range of genres they excelled in.",
-          "enlace": "https://www.latimes.com/entertainment-arts/music/story/2026-11-16/grammy-nom-2027-snubs-surprises-lots-of-love-for-madonna-while-harry-styles-gets-shut-out"
+          "titulo": "Dark smoke at the Chiquita Canyon Landfill was 'escape of gas,' not explosion, fire officials say",
+          "entradilla": "Six landfill workers were transported to a hospital with minor injuries after a \"release of gas\" at the landfill. The gas release happened as crews were conducting routine digging and hit a deposit, according to fire officials.",
+          "enlace": "https://www.latimes.com/california/story/2026-11-16/dark-smoke-at-chiquita-canyon-landfill-in-santa-clarita-valley-prompts-evacuations"
         },
         {
-          "titulo": "A $470,000 machine was supposed to detect pesticides in legal weed. Labs say it failed badly",
-          "entradilla": "Many labs have sued PerkinElmer, complaining of the QSight's failure to reliably detect pesticides such as captan, chlorfenapyr and chlordane, which can cause cancer and nervous system damage.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-16/470-000-machine-was-supposed-to-detect-pesticides-in-legal-weed-labs-say-it-failed-badly"
+          "titulo": "A divided Trump team closes ranks ahead of AI talks with China",
+          "entradilla": "A new rule tightening loopholes in U.S. export controls sends a dual message to Beijing ahead of Thursday's summit.",
+          "enlace": "https://www.latimes.com/politics/story/2026-11-17/divided-trump-team-closes-ranks-ahead-of-ai-talks-with-china"
         },
         {
-          "titulo": "After coyote attack on toddler, some Westchester residents fear they could be next",
-          "entradilla": "Missing cats and backyard sightings have sparked anxiety among some residents over coyotes in Westchester. As they call for intervention, an under-resourced L.A. Animal Services says people are often the problem.",
-          "enlace": "https://www.latimes.com/environment/story/2026-11-16/after-coyote-attack-on-toddler-some-westchester-residents-fear-they-could-be-next"
+          "titulo": "Hiltzik: If Jensen Huang really was 'irreplaceable' at Nvidia, that shows he was a terrible manager",
+          "entradilla": "Jensen Huang's downfall marks Nvidia as one of the worst-managed companies in America.",
+          "enlace": "https://www.latimes.com/business/story/2026-11-17/if-jensen-huang-really-was-irreplaceable-at-nvidia-that-shows-he-was-a-terrible-manager"
         },
         {
-          "titulo": "First a death, then hoax threats. Attendance plunged after Franklin High tragedy, data reveal",
-          "entradilla": "The decline in attendance — and another one days later — underlined the trauma after a student died in plunge from fourth floor.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-16/franklin-high-student-death-hoax-threats-attendance-lausd"
+          "titulo": "Arellano: Forget those New York takes on L.A. Here's your guide to the real Eastside",
+          "entradilla": "The best guide to L.A.'s Eastside of all time",
+          "enlace": "https://www.latimes.com/california/story/2026-11-17/guide-to-eastside-los-angeles-2026"
         },
         {
-          "titulo": "'Morning Joe' co-anchor Willie Geist is leaving MS NOW",
-          "entradilla": "Geist will expand his role at NBC News where he is host of \"Sunday Today\"",
-          "enlace": "https://www.latimes.com/entertainment-arts/business/story/2026-11-16/morning-joe-co-anchor-willie-geist-is-leaving-ms-now"
+          "titulo": "Popular Californian brewery set to close",
+          "entradilla": "New Helvetia Brewing Co. will close its Sacramento taproom at year's end amid a wave of closures as rising costs and changing drinking habits squeeze the industry.",
+          "enlace": "https://www.latimes.com/business/story/2026-11-17/popular-californian-brewery-set-to-close"
         },
         {
-          "titulo": "California loses international students at twice the U.S. rate",
-          "entradilla": "California lost its lead to New York as international student enrollment fell faster than the national rate. Trump's visa restrictions and proposed international student fees have added uncertainty as colleges report further declines this fall.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-15/california-colleges-international-student-enrollment-decline-trump"
+          "titulo": "Judge refuses to delay ruling that L.A.'s top federal prosecutor is serving unlawfully",
+          "entradilla": "A federal judge refused to halt his ruling that Bill Essayli is unlawfully serving as L.A.'s top federal prosecutor, clearing the way for his removal from two criminal cases by next week.",
+          "enlace": "https://www.latimes.com/california/story/2026-11-16/bill-essayli-la-first-assistant-serving-unlawfully-us-attorney-judge-ruling"
         },
         {
-          "titulo": "The L.A. mayor's race is over. Now the scramble is on for elected L.A. County executive",
-          "entradilla": "Horvath has already declared for L.A. County executive. Who will be next? Garcetti, Caruso, Harris-Dawson, Hahn, Richardson and Rodriguez are in the conversation.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-16/la-me-county-executive-race"
+          "titulo": "NASA's Voyager 1 will soon be so far away that its messages take a day to reach Earth",
+          "entradilla": "On Wednesday, after half a century in space, the Voyager 1 spacecraft will be so far from Earth, it will take a full day for light to travel between it and Earth. It's \"a tribute to the engineers who designed something that can last that long,\" said the last person to lay hands on the spacecraft.",
+          "enlace": "https://www.latimes.com/science/story/2026-11-17/nasas-voyager-1-to-reach-record-breaking-light-day-distance-from-earth"
         },
         {
-          "titulo": "The loops of Los Angeles: Cursive is fading, and so are the city's midcentury cursive signs",
-          "entradilla": "Rae's in Santa Monica, Johnie's in Miracle Mile, Bob's Big Boy Broiler in Downey. Some signs still remain, reminders of a future that is now past.",
-          "enlace": "https://www.latimes.com/lifestyle/story/2026-11-16/midcentury-cursive-signs-architecture-lost"
+          "titulo": "Richard Pan shaped California's strict vaccine laws. Now he takes on new battles in Congress",
+          "entradilla": "Dr. Richard Pan, who reshaped California's vaccine laws, plans to restore cuts to Medicaid and rebuild trust in public health as he heads to Congress.",
+          "enlace": "https://www.latimes.com/california/story/2026-11-17/pediatrician-congress-california-vaccine-laws-medicaid"
         },
         {
-          "titulo": "Elizabeth Holmes' partner Billy Evans breaks silence after A24 documentary backlash",
-          "entradilla": "Billy Evans, longtime partner of convicted fraudster Elizabeth Holmes, won't speak poorly of Amanda Seyfried, who called him disrespectful of her and Holmes. In his first interview since the theatrical release of \"You Can See Everything,\" Evans addresses villainous portrayal.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-15/billy-evans-of-you-can-see-everything-addresses-amanda-seyfried-beef-in-cbs-interview"
+          "titulo": "Merv Griffin desert estate hits the market",
+          "entradilla": "Merv Griffin desert estate hits the market",
+          "enlace": "https://www.latimes.com/business/story/2026-11-17/merv-griffin-desert-estate-hits-market"
         },
         {
-          "titulo": "How to have the best Sunday in L.A., according to Vanna White",
-          "entradilla": "Hiking, French toast and crochet are on the schedule for the 'Wheel of Fortune' fixture.",
-          "enlace": "https://www.latimes.com/lifestyle/story/2026-11-13/sunday-funday-vanna-white"
+          "titulo": "How NBC turned the news into long-running hit shows",
+          "entradilla": "From Huntley-Brinkley to \"Today,\" \"Dateline\" and the Kornacki Cam, how NBC News built franchises that lasted decades and what's next in streaming.",
+          "enlace": "https://www.latimes.com/entertainment-arts/business/story/2026-11-17/how-nbc-turned-news-into-hit-shows-100-anniversary"
         }
       ],
       "analisis": {
-        "resumen": "- Los Grammy dominan la portada: destacan Raye, Rosalía y la nominación número 100 de Beyoncé.\n- Varios laboratorios demandan por los fallos de una máquina de detección de pesticidas en cannabis.\n- La portada recoge el temor a los coyotes en Westchester y la caída de asistencia tras una tragedia escolar.\n- California pierde estudiantes internacionales a un ritmo superior al nacional; también comienza la carrera por el cargo ejecutivo del condado de Los Ángeles.\n- Otras noticias abordan televisión, cultura local, Elizabeth Holmes y planes de ocio en Los Ángeles.",
-        "populismo": 22,
-        "motivo_populismo": "Expresiones como «falló estrepitosamente», el temor a ser la próxima víctima y las «sorpresas y ausencias» de los Grammy aportan dramatismo, pero no se aprecia una oposición entre pueblo y élites.",
-        "sesgo": "La selección tiene un marcado enfoque local en Los Ángeles y California, junto con un peso notable del entretenimiento. No se aprecia una orientación política partidista clara."
+        "resumen": "- Bell estudia vender parques de casas móviles para personas de bajos ingresos; residentes cuestionan la gestión municipal.\n- Un asesinato sin resolver en Los Ángeles sigue bajo investigación; en otro suceso, una emisión de gas en un vertedero dejó seis heridos leves.\n- El equipo de Trump prepara conversaciones sobre inteligencia artificial con China; un juez mantiene su fallo contra el principal fiscal federal de Los Ángeles.\n- Una columna critica la gestión de Nvidia y otra ofrece una guía del Eastside de Los Ángeles; una cervecería de Sacramento cerrará su local.\n- La portada también aborda el viaje de Voyager 1, la agenda sanitaria de Richard Pan, una propiedad de Merv Griffin y los programas informativos de NBC.",
+        "populismo": 25,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «fantasmas de la corrupción», «dejó entrar al asesino» y «pésimo gestor» aportan dramatismo y descalificación.",
+        "sesgo": "La selección prioriza noticias locales de California y Los Ángeles, con atención a la gestión pública, los sucesos y la cultura regional. Las columnas adoptan un tono más valorativo que las noticias informativas."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://nypost.com",
       "noticias": [
         {
-          "titulo": "Gypsy Rose Blanchard’s partner Ken Urker’s cause of death revealed",
-          "entradilla": "Urker was found unresponsive in his bed at his Raceland, Louisiana, home on Oct. 1, on his 34th birthday.",
-          "enlace": "https://pagesix.com/2026/11/16/celebrity-news/gypsy-rose-blanchards-partner-ken-urkers-cause-of-death-revealed/"
+          "titulo": "Clarence Thomas calls foul on California ruling he says could turn citizens into government mouthpieces",
+          "entradilla": "Justice Clarence Thomas warned Monday that the Supreme Court is leaving the door open for states to compel speech from private citizens by not taking up a challenge to a California law.",
+          "enlace": "https://nypost.com/2026/11/17/us-news/clarence-thomas-warns-of-free-speech-threat-as-supreme-court-rejects-california-case/"
         },
         {
-          "titulo": "Gypsy Rose Blanchard’s partner Ken Urker’s cause of death revealed",
-          "entradilla": "Urker was found unresponsive in his bed at his Raceland, Louisiana, home on Oct. 1, on his 34th birthday.",
-          "enlace": "https://pagesix.com/2026/11/16/celebrity-news/gypsy-rose-blanchards-partner-ken-urkers-cause-of-death-revealed/"
+          "titulo": "PWHL’s Sirens have a date for Madison Square Garden return",
+          "entradilla": "Sources told The Post that the PWHL has discussed playing a second game at the Garden this season.",
+          "enlace": "https://nypost.com/2026/11/17/sports/pwhl-madison-sqaure-garden-date-revealed-sirens-detroit-on-jan-23/"
         },
         {
-          "titulo": "Child, 5, plunges to their death out of second-floor window at Los Angeles home",
-          "entradilla": "Los Angeles Police Department officers responded to the incident near Boyle Avenue and Whittier Boulevard, where the child had fallen from a second-floor window.",
-          "enlace": "https://nypost.com/2026/11/16/us-news/child-5-plunges-to-their-death-out-of-second-floor-window-at-los-angeles-home/"
+          "titulo": "Oprah can’t stop raving about these viral sweatpant jeans",
+          "entradilla": "Trust us: People will think they're real denim.",
+          "enlace": "https://pagesix.com/2026/11/17/style/oprah-made-rag-bone-sweatpant-jeans-a-favorite-thing-again/"
         },
         {
-          "titulo": "$55K cash mysteriously dumped in Maine going to hot cause: ‘Literally a find in the woods’",
-          "entradilla": "“This was a true gift for our community and one that literally fell in our lap.”",
-          "enlace": "https://nypost.com/2026/11/16/us-news/55k-in-cash-dumped-in-maine-being-used-to-help-low-incpme-families/"
+          "titulo": "Oprah can’t stop raving about these viral sweatpant jeans",
+          "entradilla": "Trust us: People will think they're real denim.",
+          "enlace": "https://pagesix.com/2026/11/17/style/oprah-made-rag-bone-sweatpant-jeans-a-favorite-thing-again/"
         },
         {
-          "titulo": "Trump says he ‘may meet’ North Korea’s Kim Jong Un in China",
-          "entradilla": "President Trump said Monday that he “may” meet with North Korean dictator Kim Jong Un during his upcoming visit to China — where he’s already set to hold a three-way summit with Russia’s Vladimir Putin and Chinese President Xi Jinping.",
-          "enlace": "https://nypost.com/2026/11/16/us-news/trump-says-he-may-meet-north-koreas-kim-jong-un-in-china/"
+          "titulo": "‘The Simpsons’ predicted a rumored global blackout — and it’s supposed to take place today",
+          "entradilla": "Now, the denizens of Springfield may have predicted the global Nov. 17 blackout that has sent people into full panic and straight to buying solar generators.",
+          "enlace": "https://nypost.com/2026/11/17/tech/the-simpsons-predicted-todays-rumored-global-blackout/"
         },
         {
-          "titulo": "Trump ‘would not mind’ Jensen Huang reinstated as Nvidia CEO, doesn’t know if mistress is a Chinese spy",
-          "entradilla": "Huang stepped down Friday following revelations of a series of extramarital affairs.",
-          "enlace": "https://nypost.com/2026/11/16/us-news/trump-would-not-mind-jensen-huang-returning-as-nvidia-ceo/"
+          "titulo": "Jamie Dimon shakes up JPMorgan leadership, taps de Best as CFO",
+          "entradilla": "JPMorgan Chase CEO Jamie Dimon has shaken up the Wall Street giant's leadership for the second time this year by tapping investment-bank finance boss Bregje de Best as its next chief financial officer.",
+          "enlace": "https://nypost.com/2026/11/17/business/jamie-dimon-shakes-up-jpmorgan-leadership-taps-de-best-as-cfo/"
         },
         {
-          "titulo": "Even 10-year-old mattress stains are no match for this shopper-loved cleaning gadget, now 20% off",
-          "entradilla": "Cleaning made easy.",
-          "enlace": "https://nypost.com/2026/11/16/shopping/bissell-little-green-mini-is-20-off-at-amazon-ahead-of-black-friday-2026/"
+          "titulo": "Darius Rucker reveals A-lister who saved him from drowning on vacation: ‘Not on my watch’",
+          "entradilla": "In his new Hulu documentary, the \"Wagon Wheel” singer said he was at \"peace\" with dying during the frightening incident.",
+          "enlace": "https://pagesix.com/2026/11/17/celebrity-news/darius-rucker-reveals-a-lister-who-saved-him-from-drowning-on-vacation/"
         },
         {
-          "titulo": "Inside Fanatics’ Michael Rubin surprise proposal that stunned longtime girlfriend  — ‘didn’t know he had it in him!’",
-          "entradilla": "Fanatics mogul Michael Rubin saved his best surprise for his artist girlfriend Camille Fishel last week when he popped the question in Los Cabos, Mexico.",
-          "enlace": "https://pagesix.com/2026/11/16/hollywood/inside-fanatics-michael-rubin-surprise-proposal-that-stunned-longtime-girlfriend-didnt-know-he-had-it-in-him/"
+          "titulo": "Darius Rucker reveals A-lister who saved him from drowning on vacation: ‘Not on my watch’",
+          "entradilla": "In his new Hulu documentary, the \"Wagon Wheel” singer said he was at \"peace\" with dying during the frightening incident.",
+          "enlace": "https://pagesix.com/2026/11/17/celebrity-news/darius-rucker-reveals-a-lister-who-saved-him-from-drowning-on-vacation/"
         },
         {
-          "titulo": "‘Slow Horses’ renewed for Seasons 9 and 10",
-          "entradilla": "The strange, strange game continues!",
-          "enlace": "https://decider.com/2026/11/16/slow-horses-season-9-season-10-renewal-apple-tv/"
+          "titulo": "Retailers like Macy’s have up to 80% off diamonds, designer bags and more",
+          "entradilla": "Shop luxury for less.",
+          "enlace": "https://nypost.com/2026/11/17/shopping/indulge-in-up-to-80-off-macys-diamonds-kate-spade-bags-before-black-friday/"
         },
         {
-          "titulo": "Small-town teacher breaks down as she admits sex with student, 16, she shared nudes with",
-          "entradilla": "The married mom wept as she admitted the depraved charges as part of a plea deal expected to see her sentenced to five years in prison.",
-          "enlace": "https://nypost.com/2026/11/16/us-news/kentucky-teacher-marry-mattingly-weeps-as-admits-sex-with-student-16/"
+          "titulo": "Model stabbed to death by abusive ex — who then posted sick pic of body to her Instagram",
+          "entradilla": "A Russian model was stabbed to death by her abusive ex – who then killed himself after posting a sickening image of her body on her Instagram, according to reports. Anastasia Drozdova, 28, had finally had enough of on-off boyfriend Dmitry Zadvornykh, 38, and dumped him in September, initially hiding",
+          "enlace": "https://nypost.com/2026/11/17/world-news/model-stabbed-to-death-by-abusive-ex-who-then-posted-sick-pic-of-her-body-on-her-instagram/"
         },
         {
-          "titulo": "Tanker that collided with New Orleans cruise ship had failed steering: officials",
-          "entradilla": "32 people were sent to the hospital following the crash.",
-          "enlace": "https://nypost.com/2026/11/16/us-news/tanker-that-collided-with-new-orleans-cruise-ship-had-failed-steering-officials/"
+          "titulo": "Zay Flowers’ fumble could change everything at top of hyped 2027 NFL Draft",
+          "entradilla": "Zay Flowers may have changed the future of several NFL franchises.",
+          "enlace": "https://nypost.com/2026/11/17/sports/zay-flowers-fumble-could-change-everything-at-top-of-hyped-2027-nfl-draft/"
         },
         {
-          "titulo": "Russell Brand’s ‘appalling’ prison message being ‘urgently investigated’ by UK authorities after wife Laura shared rape denial",
-          "entradilla": "In the message, relayed by Laura, the comedian said \"something strange is happening\" as he \"is not guilty for the offenses [he has] been jailed for.\"",
-          "enlace": "https://pagesix.com/2026/11/16/celebrity-news/russell-brands-appalling-prison-message-being-urgently-investigated-by-uk-authorities/"
+          "titulo": "‘One of the best purchases I’ve made’: This robot vacuum is 43% off ahead of Black Friday",
+          "entradilla": "Hands-free cleaning.",
+          "enlace": "https://nypost.com/2026/11/17/shopping/eufy-c28-robot-vacuum-is-43-off-during-amazons-early-black-friday-sale/"
         }
       ],
       "analisis": {
-        "resumen": "- Se anuncia la causa de la muerte de Ken Urker, pareja de Gypsy Rose Blanchard; la noticia aparece duplicada.\n- Un niño de cinco años murió tras caer de una ventana en Los Ángeles.\n- Trump plantea una posible reunión con Kim Jong Un y comenta la salida del director de Nvidia.\n- Una profesora admitió haber mantenido relaciones sexuales con un alumno; autoridades británicas investigan un mensaje de Russell Brand.\n- Un fallo de dirección precedió a la colisión de un petrolero con un crucero en Nueva Orleans; también destacan noticias de celebridades, ocio y consumo.",
-        "populismo": 38,
-        "motivo_populismo": "Abundan el sensacionalismo y términos emotivos como «depraved» o «stunned», aunque apenas hay apelaciones al pueblo contra las élites.",
-        "sesgo": "La selección prioriza sucesos trágicos, escándalos y celebridades, con un enfoque orientado al impacto emocional. En las noticias políticas no se aprecia una orientación partidista clara a partir de estos titulares."
+        "resumen": "- Clarence Thomas advierte sobre las posibles consecuencias de que el Supremo no revise una ley de California.\n- Un rumor de apagón global se vincula con «Los Simpson»; otra noticia relata el asesinato de una modelo a manos de su expareja.\n- JPMorgan anuncia cambios en su cúpula y nombra a Bregje de Best próxima directora financiera.\n- La portada aborda el regreso de las Sirens al Madison Square Garden y una jugada de Zay Flowers con posibles efectos en el draft de la NFL.\n- También incluye noticias de celebridades y promociones de ropa, artículos de lujo y una aspiradora.",
+        "populismo": 42,
+        "motivo_populismo": "Destacan el lenguaje alarmista sobre un supuesto apagón que habría provocado «pánico total», los detalles morbosos del asesinato y la exageración de que una jugada «podría cambiarlo todo», aunque no hay una apelación clara al pueblo frente a las élites.",
+        "sesgo": "La selección favorece el entretenimiento, los sucesos llamativos y los contenidos comerciales. La noticia judicial destaca la advertencia de Thomas, sin presentar en el texto facilitado otras perspectivas sobre la ley."
       }
     }
   ]

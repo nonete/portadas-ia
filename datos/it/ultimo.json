@@ -1,39 +1,39 @@
 {
   "pais": "Italia",
-  "fecha": "2026-11-16",
+  "fecha": "2026-11-17",
   "turno": 8,
-  "generado": "16/11/2026 15:53",
+  "generado": "17/11/2026 16:32",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "Se repiten la administración judicial de Revolut por una investigación de blanqueo, la investigación al exjefe de policía De Gennaro por el presunto desvío de las pesquisas sobre la matanza de via D’Amelio y el debate sobre impuestos a las grandes fortunas. También aparecen las amenazas de bomba en escuelas y el acuerdo migratorio con Ruanda. Solo Corriere della Sera destaca el caso de Liguria y los encuentros de Toti con el empresario Spinelli.",
-    "crispacion": 65,
-    "motivo_crispacion": "La tensión es considerable por las investigaciones sobre Liguria, Revolut y el presunto desvío de las pesquisas sobre la matanza de via D’Amelio. En el plano político destacan el choque entre socios de gobierno por el Superbonus y la tasa sobre bebidas, así como las diferencias entre partidos de la oposición sobre los impuestos a la riqueza. Las amenazas a escuelas y algunos titulares polarizadores añaden inquietud social. Noticias sobre deporte, ahorro y aumentos salariales sanitarios compensan parcialmente ese clima."
+    "temas": "Se repiten la ley de presupuestos, las pensiones y las propuestas de regularización urbanística. También aparecen en varios periódicos la condena por el homicidio de Bergamini, el discurso de Mattarella sobre los jóvenes y las investigaciones relacionadas con Deutsche Bank y Revolut. Solo Corriere della Sera destaca el caso de Toti y las presuntas manipulaciones de datos de la pandemia en Liguria.",
+    "crispacion": 60,
+    "motivo_crispacion": "Las disputas sobre pensiones, impuestos y regularización urbanística reflejan tensiones entre partidos de la mayoría, mientras que las discrepancias sobre los beneficios extraordinarios enfrentan a fuerzas de la oposición. En Liguria, los encuentros de Toti con un empresario y las presuntas manipulaciones de datos de la pandemia alimentan la controversia. Algunos titulares emplean un lenguaje acusatorio sobre el antisemitismo y Palestina, y la guerra en Ucrania añade tensión internacional. Compensan parcialmente las noticias informativas sobre pensiones y economía y el mensaje de Mattarella sobre los jóvenes."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Veo en el debate sobre la sanidad y los impuestos una pregunta de clase: ¿quién aporta la riqueza y quién decide cómo se utiliza? Mientras se discuten mejoras salariales para médicos y enfermeros y el futuro de las ayudas para visitas especializadas, gravar los grandes patrimonios financieros no debería ser un tabú. La atención sanitaria y las condiciones de quienes la prestan son necesidades colectivas, no partidas enfrentadas entre sí.\n\nApoyo ese impuesto, pero no me conformo con redistribuir una pequeña parte de la riqueza después de que el capital haya decidido su destino. Defiendo servicios públicos suficientes y propiedad colectiva, bajo control democrático, en sectores esenciales. La administración judicial de Revolut también recuerda que la innovación financiera no sustituye la supervisión pública. La clase trabajadora necesita derechos y poder de decisión, no solo promesas de prosperidad."
+      "texto": "Veo una contradicción de clase en las portadas: mientras se celebra la posible salida de Italia del procedimiento por déficit, la OCDE señala que la renta real por habitante ha caído un 1 %. Las cuentas públicas no pueden juzgarse solo por su saldo, sino por la vida que permiten a quienes trabajan.\n\nLa propuesta de financiar una jubilación anticipada con recursos de los bancos abre un debate necesario, aunque todavía no sea una medida aprobada. Yo iría más lejos: la banca debe servir a necesidades sociales bajo control público y democrático, no decidir nuestro futuro según la rentabilidad privada.\n\nTambién defiendo una sanidad pública capaz de garantizar los tratamientos necesarios sin depender del bolsillo de cada paciente. Los casos de reembolsos irregulares en Lombardía exigen controles, pero también una política de medicamentos que anteponga la salud al beneficio. La propiedad colectiva es parte de esa respuesta."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "Leo que varios partidos debaten impuestos sobre las grandes fortunas. Reducir la desigualdad importa, pero no confío en que delegar cada decisión en el Estado y esperar al próximo pacto electoral baste para acabar con el poder que concentra la riqueza. Prefiero una sociedad donde quienes trabajan y sostienen la vida común controlen directamente sus recursos, mediante asociaciones libres y decisiones compartidas.\n\nTambién leo que varios países europeos preparan un acuerdo con Ruanda para enviar allí a migrantes que desean expulsar. Me parece una forma de alejar de nuestra vista a personas cuya libertad debería importar tanto como la nuestra. Frente a las fronteras administradas desde arriba, defiendo redes de acogida y apoyo mutuo construidas por quienes viven en los territorios y por quienes llegan a ellos. La libertad colectiva no puede levantarse sobre la exclusión."
+      "texto": "La propuesta de prohibir las redes sociales a menores de 13 años presenta el control como protección. Yo no niego los riesgos, pero desconfío de que una prohibición dictada desde arriba enseñe a enfrentarlos. Prefiero educación digital, acompañamiento y espacios donde jóvenes, familias y docentes decidan juntos, sin entregar toda la autoridad al Estado ni a las plataformas.\n\nTambién me inquieta que, tras décadas de espera, la ley sobre cuidadores pueda hacerse con prisas. Cuidar no debería ser una carga solitaria ni quedar a merced de negociaciones entre partidos. Defiendo redes de apoyo mutuo y servicios organizados con participación directa de quienes cuidan y de quienes reciben cuidados. La autogestión no significa abandonar a nadie: significa compartir recursos y decisiones. Para mí, la libertad individual solo es real cuando podemos sostenerla colectivamente."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "La propuesta de gravar los grandes patrimonios financieros se presenta como una solución justa, pero yo veo un riesgo: castigar el ahorro y la inversión sin resolver el problema de fondo, que es cuánto gasta el Estado y con qué resultados. Prefiero impuestos bajos, sencillos y previsibles, que dejen a las personas más margen para decidir qué hacer con su dinero.\n\nEl debate sobre la deuda apunta en la misma dirección. Gastar hoy sin explicar quién pagará mañana no es solidaridad, sino trasladar responsabilidades. Un Estado limitado debe financiar bien sus funciones esenciales, rendir cuentas y evitar privilegios. También confío en la competencia para mejorar los servicios financieros, siempre que las empresas cumplan la ley y respondan por sus actos. La libertad económica exige reglas claras y responsabilidad personal, no favores ni impunidad."
+      "texto": "La propuesta de prohibir las redes sociales a los menores de trece años me parece una respuesta demasiado cómoda: traslada al Estado decisiones que corresponden ante todo a las familias. Proteger a los niños importa, pero una prohibición general merece un escrutinio riguroso sobre su eficacia y sus costes para la libertad.\n\nTambién desconfío de financiar nuevas promesas de jubilación anticipada cargando la factura a los bancos. Los impuestos no desaparecen por elegir un pagador políticamente conveniente: pueden afectar al crédito, al ahorro y a la inversión. Yo prefiero impuestos bajos, cuentas públicas responsables y un sistema de pensiones que no comprometa el futuro de los jóvenes.\n\nUn Estado limitado no es un Estado indiferente: debe proteger derechos, hacer cumplir las reglas y dejar espacio para que las personas, con información y responsabilidad, decidan cómo vivir."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Yo creo que Italia debe recuperar el control de sus fronteras. El acuerdo que preparan cinco países europeos con Ruanda apunta en la dirección correcta: quien no tiene derecho a permanecer debe ser retornado, con procedimientos claros y garantías legales. Pero nuestra política migratoria no puede depender de que Bruselas descubra por fin la necesidad de actuar. Un Estado que no decide quién entra y quién permanece renuncia a una parte esencial de su soberanía.\n\nTambién exijo un Estado firme frente al crimen y transparente ante sus ciudadanos. La investigación sobre posibles desviaciones en el caso de la matanza de Via D’Amelio debe llegar hasta el final, respetando la presunción de inocencia. La autoridad no se defiende ocultando responsabilidades: se fortalece cuando demuestra que la ley alcanza también a quienes ocupan los cargos más altos."
+      "texto": "Yo quiero una Italia que decida por sí misma, proteja sus fronteras y exija el cumplimiento de sus leyes. Que el alcalde de Lampedusa se incorpore a Hermanos de Italia debe servir para poner en primer plano una exigencia: control estricto de la inmigración, no una política dictada desde Bruselas o por quienes confunden soberanía con intolerancia.\n\nTambién apoyo limitar el acceso de los menores a las redes sociales. La familia debe recuperar autoridad frente a plataformas que han convertido la atención de nuestros hijos en negocio. Pero proteger las tradiciones exige algo más que discursos: exige escuelas sólidas y respeto por quienes educan.\n\nY desconfío de las promesas de pensiones sin una financiación clara. La deuda no desaparece porque los partidos se peleen por repartirla: termina recayendo sobre las familias y las generaciones futuras. La responsabilidad nacional empieza por decirles la verdad."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Me preocupa que el debate sobre la riqueza se reduzca a elegir entre castigar el éxito y tolerar la desigualdad. La propuesta de gravar grandes patrimonios financieros merece estudiarse sin prejuicios, pero también con rigor: importa saber cómo se recaudaría, qué efectos tendría sobre la inversión y a qué servicios se destinarían los ingresos. Prefiero un acuerdo fiscal estable y comprensible a una promesa grandilocuente.\n\nTambién creo que el caso de Revolut recuerda por qué la innovación necesita supervisión. La administración judicial debe seguir su curso sin convertir una investigación en condena anticipada; al mismo tiempo, los clientes merecen información clara y controles eficaces. Un mercado abierto funciona mejor cuando existen reglas confiables y autoridades capaces de aplicarlas. Defender las instituciones no significa darles un cheque en blanco, sino exigirles transparencia y responsabilidad."
+      "texto": "Yo veo en el debate italiano sobre las pensiones una prueba de responsabilidad política. La propuesta de adelantar la jubilación merece examinarse, pero anunciar que se financiará con recursos de los bancos no sustituye una explicación convincente de sus costes y de su sostenibilidad. Proteger a quienes han trabajado toda una vida exige también no trasladar compromisos inciertos a los jóvenes.\n\nEn la sanatoria urbanística defendería una distinción clara: resolver irregularidades menores no debe convertirse en una señal de indulgencia ante los abusos. Las reglas necesitan ser justas, comprensibles y aplicarse de forma coherente. Prefiero que gobierno y oposición negocien reformas concretas, con costes transparentes, antes que competir con promesas difíciles de cumplir. Un mercado dinámico y una protección social sólida necesitan el mismo fundamento: instituciones fiables y cuentas públicas creíbles."
     }
   ],
   "periodicos": [
@@ -103,10 +103,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- Cambios en el código de circulación y dudas sobre su efecto en las víctimas.\n- Encuentros en un yate y presunta manipulación de datos de COVID en Liguria; el alcalde de Génova pide claridad y niega haber favorecido a Spinelli.\n- Tensiones en la mayoría de Gobierno por el Superbonus y el impuesto a las bebidas; una columna critica la acumulación de deuda.\n- Rusia avanza hacia Járkov y Zelenski reconoce que la situación es muy difícil.\n- Fedez niega su presencia en el caso Iovino; Hacienda reclama dinero a Camila Giorgi. También se ofrecen consejos de inversión.",
-        "populismo": 30,
-        "motivo_populismo": "Expresiones como «ataca», «estalla el caso» y «perseguida por Hacienda» dramatizan algunos asuntos, aunque no se aprecia una apelación al pueblo contra las élites.",
-        "sesgo": "La portada destaca posibles irregularidades en Liguria y conflictos dentro de la mayoría de Gobierno, con un enfoque crítico hacia la gestión pública. También incluye versiones y declaraciones de los implicados."
+        "resumen": "- La portada cuestiona que los cambios en el código de circulación reduzcan las víctimas.\n- Varias noticias abordan las relaciones entre Toti, Spinelli y otros cargos ligures, incluidas reuniones en un yate y la presunta manipulación de datos de la pandemia.\n- El alcalde de Génova rechaza las acusaciones y pide claridad.\n- La mayoría de gobierno se enfrenta por el Superbonus y la tasa sobre las bebidas; en Ucrania, las tropas rusas avanzan hacia Járkov.\n- También destacan noticias sobre Fedez y Camila Giorgi, junto a consejos de inversión y ahorro.",
+        "populismo": 25,
+        "motivo_populismo": "Expresiones como «estalla el caso» y el énfasis en encuentros reservados aportan dramatismo, aunque no se aprecia una apelación al pueblo contra las élites.",
+        "sesgo": "La selección da amplio espacio a las controversias políticas en Liguria y a los desacuerdos dentro de la mayoría gobernante. El titular sobre el código de circulación adopta una postura crítica al afirmar que los cambios no reducirán las víctimas."
       }
     },
     {
@@ -114,71 +114,71 @@
       "web": "https://www.repubblica.it",
       "noticias": [
         {
-          "titulo": "Conto “smart” e abbonamenti: successi e guai del modello Revolut",
-          "entradilla": "La sfida di Nik Storonsky alle banche tradizionali passa da maggiore semplicità nell’apertura e gestione del conto. Ma ora la fintech, finita in amministrazione giudiziaria, deve ripensare il suo sistema di business",
-          "enlace": "https://www.repubblica.it/economia/2026/11/16/news/revolut_modello_storonsky_guai_successi_banca_digitale-425727212/"
+          "titulo": "Divieto social agli under13, Meloni lo vuole nel dl sicurezza: sarà legge entro fine mese",
+          "entradilla": "Pronto emendamento di maggioranza: stop assoluto per i più piccoli. Dai 13 ai 16 anni possibilità di gestirne uno legato a quello dei genitori. Si seguirà la cornice del Kids act europeo",
+          "enlace": "https://www.repubblica.it/politica/2026/11/17/news/divieto_social_minori_meloni_decreto_sicurezza-425729952/"
         },
         {
-          "titulo": "Conte: “Sì a una tassa sui super ricchi. Proposte 5S al tavolo degli alleati”",
-          "entradilla": "Il presidente del Movimento conferma l’apertura alla tassa rivolta ai plurimilionari. Oggi il nuovo incontro della coalizione",
-          "enlace": "https://www.repubblica.it/politica/2026/11/16/news/patrimoniale_conte_tassa_super_ricchi_proposte_m5s_campo_largo-425727159/"
+          "titulo": "De Gennaro, la gip: “No arresto, ma ha nascosto qualcosa. Nuove prospettive su cabina regia stragi”",
+          "entradilla": "Le motivazioni del provvedimento firmato dalla gip di Caltanissetta",
+          "enlace": "https://palermo.repubblica.it/cronaca/2026/11/17/news/de_gennaro_gip_caltanissetta_depistaggio-425729891/"
         },
         {
-          "titulo": "Chivu vince la Panchina d’Oro, battuti Fabregas e Gasperini",
-          "entradilla": "L’allenatore dei nerazzurri è stato votato dai suoi colleghi come il migliore allenatore della passata stagione in Serie A",
-          "enlace": "https://www.repubblica.it/sport/calcio/serie-a/inter/2026/11/16/news/chivu_vince_panchina_oro-425727132/"
+          "titulo": "Ferragni in un doc “senza controllo”: “Aprirmi sempre stato difficile. Forse ho fatto il mio tempo”",
+          "entradilla": "L’influencer e imprenditrice riparte mettendosi in gioco e raccontandosi a cuore aperto dopo la caduta del pandoro-gate e le vicissitudini personali che hanno portato alla separazione da Fedez",
+          "enlace": "https://www.repubblica.it/spettacoli/people/2026/11/17/news/chiara_ferragni_documentario_netflix_fedez-425729856/"
         },
         {
-          "titulo": "Burnham: “La Brexit ha fallito e il mondo è cambiato, il Regno Unito deve riavvicinarsi all’Ue”",
-          "entradilla": "Stasera il primo ministro britannico terrà il tradizionale discorso sulla politica estera del Lord Mayor’s Banquet, e pronuncerà parole forti su Europa, Ucraina e Gaza: “Ora tocca dire la verità ai britannici”",
-          "enlace": "https://www.repubblica.it/esteri/2026/11/16/news/burnham_primo_ministro_regno_unito_discorso_politica_estera_brexit_fallimento_mondo_cambiato_riavvicinarsi_ue-425727066/"
+          "titulo": "Usa, i dubbi di un medico forense: il miliardario pedofilo Epstein potrebbe non essersi suicidato",
+          "entradilla": "Il dottor Michael Freeman, ingaggiato dal fratello della vittima Mark, sostiene che i segni sul collo “non somigliano a quelli di una impiccagione”. Nessuna rivista scientifica ha voluto pubblicare la sua tesi e ieri ha dunque tenuto una conferenza stampa",
+          "enlace": "https://www.repubblica.it/esteri/2026/11/17/news/jeffrey_epstein_morte_suicidio_dubbi_medico_forense-425729847/"
         },
         {
-          "titulo": "Strage via D’Amelio, l’ex capo della polizia De Gennaro indagato per depistaggio",
-          "entradilla": "Dopo la perquisizione scattata giovedì, i magistrati di Caltanissetta hanno notificato un avviso di garanzia",
-          "enlace": "https://palermo.repubblica.it/cronaca/2026/11/16/news/strage_borsellino_depistaggio_indagato_de_gennaro-425727053/"
+          "titulo": "Ecco gli emendamenti di FdI per il condono, ma ora Meloni frena: “Rischiamo un boomerang”",
+          "entradilla": "Pronto un pacchetto di 12 proposte, dall’estensione di abusi minori e pertinenze alla riattivazione di vecchie istanze già presentate ma non definite. La premier ai suoi: “La manovra non può diventare quella dei condoni”",
+          "enlace": "https://www.repubblica.it/politica/2026/11/17/news/condono_emendamenti_fdi_meloni_frena-425729786/"
         },
         {
-          "titulo": "De Bruyne e Hojlund, la storia si ripete: perché in Nazionale volano e nel Napoli deludono",
-          "entradilla": "Le prestazioni con Belgio e Danimarca riaprono il dibattito sul rendimento dei due big azzurri. Situazioni diverse, che chiamano in causa anche le scelte di Allegri",
-          "enlace": "https://www.repubblica.it/sport/calcio/serie-a/2026/11/16/news/de_bruyne_hojlund_nazionali_napoli-425727041/"
+          "titulo": "Omicidio Bergamini, condanna confermata per l’ex fidanzata Isabella Internò",
+          "entradilla": "I giudici della Corte d’Assise d’Appello hanno confermato la pena di 16 anni già stabilita in primo grado",
+          "enlace": "https://www.repubblica.it/cronaca/2026/11/17/news/bergamini_omicidio_confermata_condanna_ex_fidanzata_isabella_interno-425729707/"
         },
         {
-          "titulo": "Terzo allarme bomba nelle scuole: “Avrete le vittime sulla coscienza”. Poche evacuazioni",
-          "entradilla": "La mail inviata a centinaia di istituti da un dominio vietnamita ma la direttiva del Viminale frena gli sgomberi. Nel delirio della lettera si cita anche l’avvelenamento dei pasti della mensa con una miscela tossica di azoturo di sodio e cianuro di potassio",
-          "enlace": "https://www.repubblica.it/cronaca/2026/11/16/news/nuovo_allarme_bomba_nelle_scuole_e_il_terzo_avrete_le_vittime_sulla_coscienza-425726897/"
+          "titulo": "Annullato il festival russo, la decisione del cinema Barberini di Roma",
+          "entradilla": "La kermesse doveva tenersi dal 19 al 23 novembre 2026",
+          "enlace": "https://www.repubblica.it/politica/2026/11/17/news/festival_cinema_russo_roma_annullato_cinema_barberini-425729673/"
         },
         {
-          "titulo": "Rabbino aggredito: “Mai avuto scuse da quei ragazzi”. Meghnagi: “No alla giustizia riparativa”",
-          "entradilla": "Il rabbino aggredito David Mizrachi Tzemach sul caso dei ragazzi espulsi e nel Cpr: “Sono un religioso, non mi occupo della vicenda giudiziaria”",
-          "enlace": "https://milano.repubblica.it/cronaca/2026/11/16/news/rabbino_aggredito_rimpatrio_cpr_comunita_ebraica_meghnagi-425726857/"
+          "titulo": "Pensioni, Salvini sfida gli alleati: “Quota 64 già dal 2027, i soldi dalle banche”",
+          "entradilla": "La Lega annuncia nuove coperture nella manovra dopo il vertice di partito. Ma il fondo da 850 milioni non prevede ancora l’uscita anticipata",
+          "enlace": "https://www.repubblica.it/economia/2026/11/17/news/pensioni_salvini_sfida_alleati_quota_64_risorse_banche-425729634/"
         },
         {
-          "titulo": "Radicale ma rassicurante. Dietro la strategia di Schlein",
-          "entradilla": "La scommessa della segretaria del Pd: convincere gli elettori che un cambiamento anche profondo non rappresenta necessariamente un salto nel buio",
-          "enlace": "https://www.repubblica.it/politica/rubriche/spin-off/2026/11/16/news/schlein_strategia_elezioni_meloni_governo-425726810/"
+          "titulo": "Mattarella apre l’anno accademico in Cattolica: “I giovani costruiranno il futuro, meritano fiducia”",
+          "entradilla": "Il presidente della Repubblica all’inaugurazione dell’anno accademico dell’università di largo Gemelli: “Scuole e università hanno un compito straordinariamente importante: ampliare e accrescere cultura, scienza e visione del futuro dei ragazzi”",
+          "enlace": "https://milano.repubblica.it/cronaca/2026/11/17/news/mattarella_inaugurazione_anno_accademico_cattolica_giovani_cambiare_mondo_fiducia-425729621/"
         },
         {
-          "titulo": "Cos’è Revolut, la fintech da 6 milioni di clienti in Italia finita in amministrazione giudiziaria",
-          "entradilla": "La banca digitale, con sede nel Regno Unito, offre servizi finanziari, pagamenti, cambio valuta, risparmio e investimenti. Nelle intenzioni di fondatori lituani doveva sfidare Google, ora deve affrontare un’inchiesta per riciclaggio",
-          "enlace": "https://www.repubblica.it/economia/2026/11/16/news/revolut_banca_digitale_italia_clienti_cos_e-425726795/"
+          "titulo": "L’indagine su Gianni De Gennaro, cosa c’è nell’accusa di depistaggio all’ex capo della polizia",
+          "entradilla": "Le contestazioni della procura di Caltanissetta, le riserve del gip che ha negato l’arresto. Il caso che divide l’antimafia",
+          "enlace": "https://palermo.repubblica.it/cronaca/2026/11/17/news/gianni_de_gennaro_inchiesta_depistaggio_stragi_borsellino-425729564/"
         },
         {
-          "titulo": "Ascolti Tv: il nuovo “Report” affonda, volano le Iene di “Inside”",
-          "entradilla": "Per la seconda puntata del programma di inchiesta solo il 4,5% di share e meno di 900mila spettatori. Impietoso il confronto con l’approfondimento su Italia 1: 1.142.000 spettatori e 10,37%. La serata è vinta da Belgio-Italia vista da 8 milioni",
-          "enlace": "https://www.repubblica.it/spettacoli/tv-radio/2026/11/16/news/ascolti_tv_il_nuovo_report_affonda_volano_le_iene_di_inside-425726745/"
+          "titulo": "Camila Giorgi, nuova vita e ritorno in campo. E annuncia anche un accordo con il fisco",
+          "entradilla": "L’italoargentina, a distanza di 3 anni dall’ultimo match, dopo il matrimonio e la maternità, tornerà a giocare. Con l’intenzione di risolvere le vicissitudini di tipo fiscale dell’ultimo periodo agonistico",
+          "enlace": "https://www.repubblica.it/sport/tennis/2026/11/17/news/camila_giorgi_ritorno_campo_accordo_fisco-425729497/"
         },
         {
-          "titulo": "Diritto all’oblio, la memoria sotto attacco: così il potere vuole cancellare il passato",
-          "entradilla": "Il diritto all’oblio diventa un’arma contro giornali e archivi: politici, ex terroristi e personaggi pubblici chiedono di rimuovere le notizie scomode. Giuristi e storici: “Così si rischia un’amnesia collettiva”",
-          "enlace": "https://www.repubblica.it/politica/2026/11/16/news/diritto_all_oblio_memoria_passato_politica_ex_terroristi-425726615/"
+          "titulo": "Michael, tra palloncini bianchi e viola i funerali del ragazzo suicida: \"Non siete sbagliati\"",
+          "entradilla": "A Roma le lacrime di parenti e amici del 15enne: “Siamo qui per salutarti ma soprattutto per ricordare come eri, il tuo sorriso, la tua voce, i momenti insieme a scuola che ora sono solo ricordi”",
+          "enlace": "https://www.repubblica.it/cronaca/2026/11/17/news/funerali_michael_suicida_roma_oggi-425729468/"
         }
       ],
       "analisis": {
-        "resumen": "- Revolut afronta una administración judicial y una investigación por blanqueo; la portada examina su modelo de negocio.\n- Conte propone un impuesto a los superricos y otro artículo analiza la estrategia de Schlein.\n- El exjefe de policía De Gennaro es investigado por presunto encubrimiento en el caso de la matanza de Via D’Amelio.\n- Un tercer aviso de bomba afecta a escuelas; también se recoge el testimonio de un rabino agredido.\n- Se aborda el acercamiento británico a la UE y el debate sobre el derecho al olvido y los archivos periodísticos.",
-        "populismo": 30,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «la memoria bajo ataque», «arma contra periódicos y archivos» y «Report se hunde» recurren a un lenguaje alarmista o sensacionalista.",
-        "sesgo": "La portada da espacio a la política de centroizquierda y adopta un enfoque crítico hacia el uso del derecho al olvido que puede afectar a los archivos periodísticos. La información sobre Revolut combina sus logros con sus problemas judiciales."
+        "resumen": "- Meloni impulsa una prohibición de las redes sociales para menores de 13 años y restricciones hasta los 16.\n- La investigación sobre De Gennaro por presunto encubrimiento divide al ámbito antimafia; la jueza ha rechazado su arresto.\n- Meloni frena propuestas de amnistía urbanística de su partido, mientras Salvini reclama adelantar la jubilación con fondos de los bancos.\n- Se confirma la condena a 16 años para la exnovia de Bergamini; un médico forense plantea dudas sobre el suicidio de Epstein.\n- La portada recoge noticias sobre Ferragni, Camila Giorgi, el funeral de un adolescente, la cancelación de un festival ruso y un discurso de Mattarella.",
+        "populismo": 24,
+        "motivo_populismo": "Predomina un tono informativo, aunque aparecen expresiones emotivas como «después de la caída» y formulaciones de confrontación como «Salvini desafía a sus aliados», sin una apelación clara al pueblo contra las élites.",
+        "sesgo": "La portada prioriza la política italiana, los conflictos entre sus dirigentes y los asuntos judiciales. También combina noticias institucionales con sucesos y relatos personales de tono emocional."
       }
     },
     {
@@ -186,71 +186,71 @@
       "web": "https://www.lastampa.it",
       "noticias": [
         {
-          "titulo": "Medici e infermieri, tutti gli aumenti: fino a 5.869 euro per i primari. Non pagheranno le Regioni",
-          "entradilla": "Schillaci strappa mezzo miliardo in più per medici e infermieri",
-          "enlace": "https://www.lastampa.it/cronaca/2026/11/16/news/sanita_aumenti_fino_a_5869_euro_per_i_primari-15799733/"
+          "titulo": "Rapinatori uccisi da Mario Roggero, i giudici: “Deliberata aggressione per farsi giustizia da sé”",
+          "entradilla": "Le motivazioni della sentenza che ha reso definitiva la condanna del gioielliere a 14 anni e 9 mesi. Il colpo il 28 aprile 2021 a Grinzane Cavour",
+          "enlace": "https://www.lastampa.it/cuneo/2026/11/17/news/mario_roggero_sentenza_motivazioni_gioielliere_rapinatori_uccisi-15800837/"
         },
         {
-          "titulo": "“Riciclaggio con aggravante mafiosa”, il tribunale di Milano commissaria Revolut",
-          "entradilla": "Per l’istituto bancario lituano disposto un anno di amministrazione giudiziaria. Tra i clienti anche persone legate alla 'ndrangheta L’azienda: «Piena collaborazione con le autorità, nostri servizi non si fermano»",
-          "enlace": "https://www.lastampa.it/economia/2026/11/16/news/revolut_riciclaggio_aggravante_mafiosa_commissariata-15799514/"
+          "titulo": "Caso Bergamini, confermata in appello la condanna a 16 anni per l’ex fidanzata Isabella Internò",
+          "entradilla": "Il calciatore del Cosenza Denis Bergamini fu ucciso il 18 novembre 1989 a Roseto Capo Spulico. La donna è accusata di concorso in omicidio volontario",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/17/news/omicidio_bergamini_convalida_condanna_16_anni_isabella_interno-15800765/"
         },
         {
-          "titulo": "Cos’è Revolut e chi c’è dietro il colosso bancario digitale",
-          "entradilla": "La fintech oggi conta 6 miliardi di ricavi e più di 80 milioni di clienti in tutto il mondo. Il fondatore Storonsky e quel guanto di sfida al mondo bancario tradizionale",
-          "enlace": "https://www.lastampa.it/economia/2026/11/16/news/cosa_e_revolut_storonsky_quanto_vale-15799559/"
+          "titulo": "Terremoto su Deutsche Bank, maxi-inchiesta con 15 milioni di file segreti: da Epstein all’Italia, cosa sta uscendo",
+          "entradilla": "Oltre 15 milioni di documenti riservati svelati da circa 50 testate internazionali: falle dei controlli e oligarchi russi. La replica dell’istituto: file vecchi di anni",
+          "enlace": "https://www.lastampa.it/economia/2026/11/17/news/deutsche_bank_inchiesta_documenti_epstein_trump_italia-15800693/"
         },
         {
-          "titulo": "Conti, carte e servizi: cosa cambia per i clienti, i consigli dell'esperto",
-          "entradilla": "Conti, carte e servizi continueranno a funzionare regolarmente. Ma gli esperti avvertono: «Meglio dotarsi di un secondo sistema di pagamento e non concentrare tutta la disponibilità economica»",
-          "enlace": "https://www.lastampa.it/economia/2026/11/16/news/revolut_cosa_cambia_per_i_correntisti_con_l_amministrazione_giudiziaria-15799695/"
+          "titulo": "“Così è stato ucciso Jeffrey Epstein”. Ecco tutta la nuova analisi biomedica forense",
+          "entradilla": "Il professor Michael Freeman, una delle maggiori autorità, ha presentato agli esperti forensi a Londra i suoi ritrovamenti. E un carteggio tra procuratori a New York parlò di “assassinio” nel 2020, non di “morte”. Ma fu insabbiato durante l’amministrazione Trump",
+          "enlace": "https://www.lastampa.it/esteri/2026/11/17/news/epstein_e_stato_ucciso_ecco_la_nuova_analisi_biomedica_forense_le_foto_e_i_segni_di_aggressione-15800426/"
         },
         {
-          "titulo": "Strage via D’Amelio, De Gennaro indagato per depistaggio /Chi è l'ex capo della polizia",
-          "entradilla": "Dopo la perquisizione scattata giovedì, i magistrati di Caltanissetta hanno notificato un avviso di garanzia. La presidente dell'Antimafia: «La verità non si prescrive»",
-          "enlace": "https://www.lastampa.it/cronaca/2026/11/16/news/strage_via_d_amelio_de_gennaro_indagato_per_depistaggio-15799712/"
+          "titulo": "Revolut, spariti 42 milioni. Quei 22 clienti sospetti che hanno fatto scattare le indagini",
+          "entradilla": "Calamucci di Equalize tra i 22 clienti sospetti. Accertamenti della Gdf sui flussi finanziari",
+          "enlace": "https://www.lastampa.it/economia/2026/11/17/news/inchiesta_revolut_omesse_segnalazioni_e_fondi_dirottati-15800321/"
         },
         {
-          "titulo": "Docente di UniTo commenta l’incidente dei writers: “È la mano di Dios”. La condanna dell’Ateneo",
-          "entradilla": "L’Università prende le distanze dalle parole della professoressa di Storia Laura Gaffuri, referente per gli studenti con disabilità: «Gravissimo e inaccettabile»",
-          "enlace": "https://www.lastampa.it/torino/2026/11/16/news/laura_gaffuri_unito_commento_incidente_writers-15799675/"
+          "titulo": "Mattarella inaugura l’anno accademico alla Cattolica: “Il compito dei giovani è cambiare il mondo”",
+          "entradilla": "Il presidente della Repubblica con la rettrice dell’ateneo milanese Beccalli",
+          "enlace": "https://www.lastampa.it/politica/2026/11/17/news/mattarella_inaugurazione_anno_accademico_universita_cattolica_milano-15800710/"
         },
         {
-          "titulo": "Allarmi bombe a scuola, nuova mail a centinaia di istituti. Ma dopo la direttiva nessuna evacuazione",
-          "entradilla": "La lettera di minacce: «Tutte le vittime che moriranno sotto le macerie ricadranno sulla vostra coscienza»",
-          "enlace": "https://www.lastampa.it/cronaca/2026/11/16/news/allarmi_bombe_a_scuola_nuova_mail_a_centinaia_di_istituti_ma_dopo_la_direttiva_nessuna_evacuazione-15799645/"
+          "titulo": "Come funziona il nuovo condono edilizio, tutti gli interventi possibili",
+          "entradilla": "Tra gli emendamenti di Fratelli d’Italia alla legge di bilancio torna l’ipotesi di sanatoria per le lievi irregolarità, esclusi gli abusi e gli immobili incompatibili con i vincoli di tutela",
+          "enlace": "https://www.lastampa.it/economia/2026/11/17/news/come_funziona_il_nuovo_condono_edilizio_ecco_gli_interventi_possibili-15800468/"
         },
         {
-          "titulo": "Paradossi e ingiustizie dell’Irpef, come funziona davvero",
-          "entradilla": "Altro che tre scaglioni: tutte le contraddizioni dell’aliquota marginale, che la manovra complica ancora di più. Quanto si paga e perché a parità di reddito il conto cambia",
-          "enlace": "https://www.lastampa.it/economia/2026/11/16/news/paradossi_e_ingiustizie_dell_irpef_come_funziona_davvero-15799475/"
+          "titulo": "Scontro M5s-Iv sugli extraprofitti, tensione al tavolo delle opposizioni sulla manovra",
+          "entradilla": "I 5 stelle interrompono il confronto sugli emendamenti comuni alla legge di bilancio, la lite sulle coperture. Ma poi i renziani danno il via libera: “Sì a un accordo su un pacchetto condiviso”",
+          "enlace": "https://www.lastampa.it/politica/2026/11/17/news/scontro_m5s-iv_sugli_extraprofitti_tensione_al_tavolo_delle_opposizioni_sulla_manovra-15800774/"
         },
         {
-          "titulo": "Sanità, le Regioni vogliono  cancellare il bonus anziani  per le visite specialistiche",
-          "entradilla": "Bocciata l’ipotesi di 500 milioni in più per gli stipendi di medici e infermieri. L’emiliano Fabi: «Una conversione di quei fondi sarebbe una buona notizia»",
-          "enlace": "https://www.lastampa.it/economia/2026/11/16/news/sanita_le_regioni_sul_bonus_anziani_per_le_visite_specialistiche-15799304/"
+          "titulo": "Dombrovskis: “L’Italia può uscire dalla procedura per deficit in primavera”. Economia Ue meglio del previsto",
+          "entradilla": "Le previsioni della Commissione: crescita Ue all’1,4% quest’anno, in Italia raggiungerà l’1%. Atteso un picco dell’inflazione oltre il 4% nei prossimi mesi.",
+          "enlace": "https://www.lastampa.it/economia/2026/11/17/news/economia_ue_debito_commissione_italia-15800660/"
         },
         {
-          "titulo": "Se il Pd ammaina le bandiere identitarie in nome dell’unità",
-          "entradilla": "Il Movimento cinque stelle rivendica il reddito di cittadinanza, Avs un prelievo sui super ricchi. Preoccupati di riuscire a tenere insieme la coalizione, i dem rischiano di non trasmettere un messaggio forte al tavolo del programma",
-          "enlace": "https://www.lastampa.it/politica/2026/11/16/news/le_bandiere_del_pd_ammainate_in_nome_dell_unita-15799377/"
+          "titulo": "Pensioni, aumenti anche per gli assegni fra 2500 e 3600 euro: cosa cambia e chi ci guadagna",
+          "entradilla": "L’Ocse: in Italia il reddito reale pro-capite scende dell’1%",
+          "enlace": "https://www.lastampa.it/economia/2026/11/17/news/pensioni-aumenti-rivalutazione-inflazione-2500-euro-manovra-2027-15800257/"
         },
         {
-          "titulo": "La patrimoniale diventa “tassa sui super ricchi”: Schlein e Conte aprono all'idea di Avs",
-          "entradilla": "Il presidente M5s resta dubbioso: «Meglio un prelievo sulla speculazione finanziaria»",
-          "enlace": "https://www.lastampa.it/politica/2026/11/16/news/patrimoniale_pd_tassazione_super_ricchi-15799370/"
+          "titulo": "L’Ucraina abbatte un’arcata del Ponte simbolo della Crimea. Mosca ne colpisce due a Kiev",
+          "entradilla": "Kallas: «Per iniziare i colloqui con la Russia, prima il cessate il fuoco». L’Ue: altre 140 sanzioni alla Russia",
+          "enlace": "https://www.lastampa.it/esteri/2026/11/17/diretta/guerra_russia_ucraina_news_oggi-15800353/"
         },
         {
-          "titulo": "Stasera l’esordio di Cobolli: cosa deve fare per battere Medvedev",
-          "entradilla": "L’italiano questa sera contro Medvedev sarà impegnato su due fronti: quello tecnico e quello emotivo",
-          "enlace": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/16/news/stasera_l_esordio_di_cobolli_cosa_deve_fare_per_battere_medvedev-15799465/"
+          "titulo": "Il Papa: “Non ho firmato le dimissioni anticipate. Dopo il voto di Midterm mi aspetto meno guerre”",
+          "entradilla": "Leone XIV sul volo di ritorno dal Sudamerica e l’ipotesi della rinuncia per motivi di salute: “Eventualmente lo farò, ma per adesso non ne vedo il bisogno. Non faccio commenti politici ma servono meno divisioni e meno polemica”",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/17/news/papa_leone_sto_bene_non_ho_firmato_la_lettera_di_dimissioni_anticipate-15800513/"
         }
       ],
       "analisis": {
-        "resumen": "- Sanidad: se anuncian subidas salariales para médicos y enfermeros; también se informa de desacuerdos con las regiones sobre su financiación y el bono para mayores.\n- Revolut queda bajo administración judicial por un caso de presunto blanqueo con agravante mafioso; sus servicios seguirán funcionando, según la empresa.\n- De Gennaro es investigado por presunto encubrimiento en el caso de la masacre de vía D’Amelio. Nuevas amenazas de bomba afectan a cientos de escuelas.\n- La portada aborda las desigualdades del IRPF y el debate sobre un impuesto a los superricos y la unidad de la oposición.\n- La Universidad de Turín condena las palabras de una profesora sobre un accidente de grafiteros; en deportes, Cobolli se enfrenta a Medvedev.",
-        "populismo": 22,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «paradojas e injusticias» y la cita de las amenazas introducen énfasis emocional y alarmante.",
-        "sesgo": "La selección presta especial atención a la sanidad, los impuestos y las consecuencias del caso Revolut para los clientes. Se aprecia un enfoque crítico hacia las desigualdades fiscales y las dificultades de la oposición, sin que ello permita atribuir una orientación política general."
+        "resumen": "- La justicia confirma la condena al joyero que mató a dos atracadores y la de la exnovia de Denis Bergamini por su asesinato.\n- Una investigación sobre Deutsche Bank revela millones de documentos; otra noticia presenta un análisis forense sobre la muerte de Epstein.\n- Se investigan 42 millones desaparecidos en Revolut y las operaciones de 22 clientes sospechosos.\n- La portada aborda la posible regularización de irregularidades urbanísticas, las pensiones y las tensiones entre partidos de oposición por el presupuesto.\n- Ucrania y Rusia atacan puentes; el papa descarta por ahora una renuncia anticipada.",
+        "populismo": 30,
+        "motivo_populismo": "Expresiones como «terremoto», «maxiinvestigación» y «42 millones desaparecidos» aportan dramatismo, aunque predominan titulares informativos sin una contraposición explícita entre pueblo y élites.",
+        "sesgo": "La selección prioriza sucesos judiciales, investigaciones financieras y conflictos, con un enfoque de denuncia en algunas noticias. La presentación de la muerte de Epstein enfatiza la hipótesis de asesinato y su presunto encubrimiento."
       }
     },
     {
@@ -258,71 +258,71 @@
       "web": "https://www.ilgiornale.it",
       "noticias": [
         {
-          "titulo": "I funerali di Toni Capuozzo - L’ultimo saluto | Diretta",
+          "titulo": "Il voltafaccia di Conte e Schlein sull’antisemitismo: votano No a un ddl che hanno promosso",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/attualita/i-funerali-di-toni-capuozzo-lultimo-saluto-diretta/"
+          "enlace": "https://www.ilgiornale.it/news/interni/il-voltafaccia-della-sinistra-sullantisemitismo-vota-no-a-un-ddl-che-ha-promosso/"
         },
         {
-          "titulo": "Strage via d’Amelio, indagato l’ex capo della polizia De Gennaro. Si cerca la famosa “agenda rossa” di Borsellino",
+          "titulo": "Ue, deficit Italia al 2,9% nel 2026. Dombrovskis: “Possibile uscita da procedura d’infrazione in primavera” Nec e Safe, come funziona la flessibilità europea",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/cronaca-giudiziaria/strage-via-damelio-indagato-lex-capo-della-polizia-de-gennaro-si-cerca-la-famosa-agenda-rossa-di-borsellino/"
+          "enlace": "https://www.ilgiornale.it/news/economia-e-finanza/ue-deficit-italia-al-29-nel-2026-dombrovskis-possibile-uscita-da-procedura-dinfrazione-in-primavera/"
         },
         {
-          "titulo": "Le “precauzioni” di De Gennaro per non essere intercettato",
+          "titulo": "Omicidio Bergamini, confermata la condanna per l’ex fidanzata Isabella Internò: 16 anni per l’omicidio del calciatore",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/interni/niente-sms-colloqui-allaperto-le-precauzioni-di-de-gennaro/"
+          "enlace": "https://www.ilgiornale.it/news/cronaca-giudiziaria/omicidio-bergamini-confermata-la-condanna-per-lex-fidanzata-isabella-interno-16-anni-per-lomicidio-del-calciatore/"
         },
         {
-          "titulo": "I due ex pm e il giurista contro Mafia-appalti",
+          "titulo": "Il sindaco di Lampedusa, Filippo Mannino: “Entro in FdI. Grazie alla Meloni è cambiato tutto”",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/magistratura/i-due-ex-pm-e-il-giurista-contro-mafia-appalti/"
+          "enlace": "https://www.ilgiornale.it/news/interni/il-sindaco-di-lampedusa-filippo-mannino-entro-in-fdi-grazie-alla-meloni-e-cambiato-tutto/"
         },
         {
-          "titulo": "Nasce il minculpop islamico Le armi di Allah che l’Italia non vuol vedere",
+          "titulo": "Manovra, rush finale per gli emendamenti: dalle pensioni alla sanità, tutte le modifiche sul tavolo",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/politica-internazionale/nasce-il-minculpop-islamico/"
+          "enlace": "https://www.ilgiornale.it/news/politica-economica/manovra-rush-finale-per-gli-emendamenti-dalle-pensioni-alla-sanita-tutte-le-modifiche-sul-tavolo/"
         },
         {
-          "titulo": "Kia Behravan: “Imparate dal mio Iran: il patto tra Allah e Marx è rischioso”",
+          "titulo": "La Lega accelera su Quota 64: “Copertura in manovra”",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/politica-internazionale/kia-behravan-imparate-dal-mio-iran-il-patto-tra-allah-e-marx-e-rischioso/"
+          "enlace": "https://www.ilgiornale.it/news/politica-economica/pensioni-la-lega-accelera-su-quota-64-copertura-in-manovra/"
         },
         {
-          "titulo": "Revolut commissariata per un anno: “Tra i clienti anche indagati per riciclaggio aggravato dal metodo mafioso”",
+          "titulo": "Pensioni, aumenti fino a 650 euro l’anno: ecco chi potrebbe beneficiarne",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/cronaca-giudiziaria/revolut-commissariata-per-un-anno-gravi-carenze-nei-sistemi-antiriciclaggio/"
+          "enlace": "https://www.ilgiornale.it/news/previdenza-e-pensioni/pensioni-aumenti-fino-a-650-euro-lanno-chi-potrebbe-guadagnarci-con-le-modifiche-alla-manovra/"
         },
         {
-          "titulo": "Imprenditori e mafie, l’evasione è un affare da 1 miliardo e mezzo",
+          "titulo": "Leone XIV: “Non ho firmato una lettera di dimissioni anticipate”. E sulle midterm: “Vorrei più dialogo. Meno guerre e divisioni”",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/interni/frodi-fiscali-che-business/"
+          "enlace": "https://www.ilgiornale.it/news/vaticano/leone-xiv-non-ho-firmato-una-lettera-di-dimissioni-anticipate-e-sulle-midterm-vorrei-piu-dialogo-meno-guerre-e-divisioni/"
         },
         {
-          "titulo": "Adusbef incalza: \"Controlli inadeguati\" Opens in new window",
+          "titulo": "Mattarella: “I giovani possono cambiare il mondo. Sono i protagonisti del cambiamento”",
           "entradilla": "",
-          "enlace": "https://www.monetaweb.it/risparmio-e-assicurazioni/caso-revolut-adusbef-incalza-controlli-inadeguati-ora-tutelare-i-correntisti/"
+          "enlace": "https://www.ilgiornale.it/news/quirinale/mattarella-i-giovani-possono-cambiare-il-mondo-sono-i-protagonisti-del-cambiamento/"
         },
         {
-          "titulo": "La banca: \"I servizi in Italia continuano senza interruzioni\" Opens in new window",
+          "titulo": "Fari puntati su Deutsche Bank, 15 milioni di documenti tra Russia, Epstein e Trump: cosa rivela la maxi inchiesta internazionale",
           "entradilla": "",
-          "enlace": "https://www.monetaweb.it/investimenti-e-mercati/revolut-servizi-in-italia-continuano-senza-interruzioni-collaboreremo-con-le-autorita/"
+          "enlace": "https://www.ilgiornale.it/news/banche/fari-puntati-su-deutsche-bank-15-milioni-di-documenti-tra-russia-epstein-e-trump-cosa-rivela-la-maxi-inchiesta-internazionale/"
         },
         {
-          "titulo": "Cremlino: “L’incontro Putin e Xi prima del trilaterale, anche sull’Ucraina”. L’Ue: “Da Putin richieste assurde” Trump-Putin-Xi, ecco la “nuova Yalta” che disarma l’Europa e la mette all’angolo",
+          "titulo": "La velocità del denaro digitale e il rischio riciclaggio: cosa rivela davvero l'inchiesta su Revolut Opens in new window",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/guerra/pioggia-di-droni-su-mosca-zelensky-distrutto-il-55-della-capacita-di-raffinazione-del-petrolio-russo/"
+          "enlace": "https://ilgiornaleonline.substack.com/p/la-velocita-del-denaro-digitale-e"
         },
         {
-          "titulo": "Migranti, l’Ue segue l’Italia sul modello Albania: presto gli hub in Ruanda",
+          "titulo": "“Io sto con il popolo palestinese”: Hannoun nega Hamas. Ma le intercettazioni lo smentiscono L’ex Hamas alla sinistra: “Utile idiota dell’Islam”",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/europa/migranti-lue-segue-litalia-presto-gli-hub-in-ruanda/"
+          "enlace": "https://www.ilgiornale.it/news/cronaca-giudiziaria/io-sto-con-il-popolo-palestinese-hannoun-nega-hamas-ma-le-intercettazioni-lo-smentiscono/"
         }
       ],
       "analisis": {
-        "resumen": "- Despedida de Toni Capuozzo e investigación sobre la masacre de vía D’Amelio y la agenda roja de Borsellino.\n- Titulares críticos sobre el islam y una advertencia sobre la alianza entre religión y marxismo en Irán.\n- Intervención de Revolut durante un año y noticias sobre mafia, empresas y evasión fiscal.\n- Posible encuentro entre Putin y Xi, con Ucrania y el papel de Europa en primer plano.\n- La UE estudia centros para migrantes en Ruanda siguiendo el modelo italiano en Albania.",
-        "populismo": 55,
-        "motivo_populismo": "Expresiones como «las armas de Alá que Italia no quiere ver» y «la nueva Yalta que desarma a Europa y la arrincona» recurren a un lenguaje alarmista y de confrontación, aunque otros titulares son informativos.",
-        "sesgo": "La portada adopta un enfoque crítico hacia el islam y hacia lo que presenta como falta de atención de Italia ante sus riesgos. En política internacional, destaca una visión de Europa como perjudicada por las decisiones de las grandes potencias."
+        "resumen": "- Conte y Schlein votan contra un proyecto de ley sobre antisemitismo que habían promovido.\n- La UE prevé un déficit italiano del 2,9 % en 2026 y contempla una posible salida del procedimiento de infracción.\n- La negociación presupuestaria aborda cambios en pensiones y sanidad; la Liga impulsa la jubilación con cuota 64.\n- Se confirma la condena de 16 años a Isabella Internò por el asesinato del futbolista Bergamini.\n- Otras noticias incluyen investigaciones sobre Deutsche Bank y Revolut, declaraciones de León XIV y Mattarella, y acusaciones contra Hannoun.",
+        "populismo": 43,
+        "motivo_populismo": "Expresiones como «voltafaccia» y «útil idiota del islam» introducen descalificación y confrontación, aunque numerosos titulares mantienen un tono informativo.",
+        "sesgo": "Se aprecia un enfoque crítico hacia figuras de la izquierda, especialmente en los titulares sobre Conte, Schlein y Hannoun. La selección también destaca declaraciones favorables a Meloni y propuestas de la Liga."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://www.ilfattoquotidiano.it",
       "noticias": [
         {
-          "titulo": "Alcaraz, altro che malori e ginocchio fasciato: travolge Tiafoe all’esordio alle Finals. “Qui mi sento amato”",
-          "entradilla": "Altro che mal di pancia, malori e ginocchio fasciato. Carlos Alcaraz ha travolto Frances Tiafoe all’esordio alle Atp Finals, nel match valido per il gruppo ‘Ivan Lendl’ in due set con un doppio 6-2 in un’ora e nove minuti di gioco. In serata è in programma l’altro singolare del girone, tra Flavio Co",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/16/atp-finals-alcaraz-tiafoe-torino-commento-analisi-statistiche/8573661/"
+          "titulo": "“Mi è stata diagnosticata una malattia coronarica, l’ho scoperto con un test di 3 minuti. La mia peggiore paura, si avvera”: parla Gio Benitez di Good Morning America",
+          "entradilla": "Il conduttore di “Good Morning America Sunday”, il 41enne Gio Benitez racconta di aver scoperto di soffrire di coronaropatia nonostante uno stile di vita sano e un test da sforzo superato senza problemi. A rivelarlo è lo stesso giornalista, corrispondente di ABC News in un’intervista a People. Benit",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/17/mi-e-stata-diagnosticata-una-malattia-coronarica-lho-scoperto-con-un-test-di-3-minuti-la-mia-peggiore-paura-si-avvera-parla-gio-benitez-di-good-morning-america/8575010/"
         },
         {
-          "titulo": "Operazione antimafia a Bari, tra i 19 arrestati anche l’ex calciatore Rana: aveva giocato in A, per gli inquirenti era diventato un “corriere della cocaina”",
-          "entradilla": "Quattordici persone sono finite in carcere, cinque agli arresti domiciliari e una è stata sottoposta al divieto di dimora a Modugno e all’obbligo di presentazione alla polizia giudiziaria. Effetti dell’operazione Mister 100, condotta all’alba di lunedì 16 novembre dai carabinieri della compagnia di ",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/16/operazione-antimafia-bari-rana-calciatore-notizie/8573662/"
+          "titulo": "Da Craxi e Berlusconi a Meloni: la storia dei condoni edilizi (che hanno fatto impennare l’abusivismo) e il legame con le scadenze elettorali",
+          "entradilla": "A pochi mesi dalle Politiche il governo di Giorgia Meloni rispolvera un cavallo di battaglia del centrodestra: il condono edilizio. Fratelli d’Italia ci aveva già pensato lo scorso anno, a dieci giorni dal voto per le Regionali in Campania, avanzando l’idea di un emendamento alla manovra per introdu",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/17/condono-edilizio-storia-abusivismo-craxi-berlusconi-meloni-notizie/8574784/"
         },
         {
-          "titulo": "Studente spagnolo di 20 anni precipita dalle mura cittadine de L’Aquila e resta infilzato da una recinzione: è grave",
-          "entradilla": "È precipitato per circa sette metri dalle mura cittadine ed è finito su una recinzione metallica, dove è stato infilzato da un tondino appuntito che gli si è conficcato nel corpo, lasciandolo bloccato e impossibilitato a muoversi. È ricoverato in ospedale, in prognosi riservata, uno studente spagnol",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/16/studente-erasmus-aquila-caduta-mura-notizie/8573587/"
+          "titulo": "Ozempic e farmaci anti-diabete usati per dimagrire, scoperti 2.800 2.800 “furbetti” dei rimborsi in Lombardia: cure gratis a chi non ne aveva diritto, mentre i pazienti obesi pagano centinaia di euro",
+          "entradilla": "Un conto salato per il sistema sanitario pubblico e una scorciatoia illecita per ottenere gratuitamente terapie che sul mercato privato arrivano a costare tra i 200 e i 600 euro al mese. In Lombardia i controlli incrociati della direzione generale Welfare hanno portato alla luce circa 2.800 casi di ",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/17/ozempic-e-farmaci-anti-diabete-usati-per-dimagrire-scoperti-2-800-2-800-furbetti-dei-rimborsi-in-lombardia-cure-gratis-a-chi-non-ne-aveva-diritto-mentre-i-pazienti-obesi-pagano-ce/8574978/"
         },
         {
-          "titulo": "Carolyn Smith in lacrime a “Ballando con le stelle” mentre si sfoga con gli autori, Matano e Milly Carlucci. Zazzaroni rivela il perché – IL VIDEO",
-          "entradilla": "La settima puntata di “Ballando con le stelle” continua a far discutere, alimentando nuove polemiche. Al centro dell’attenzione è finito un video pubblicato dal sito “Il Difforme”, che ha rapidamente fatto il giro dei social network diventando virale. Le immagini mostrano la presidente di giuria Car",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/16/carolyn-smith-in-lacrime-a-ballando-con-le-stelle-mentre-si-sfoga-con-gli-autori-matano-e-milly-carlucci-zazzaroni-rivela-il-perche-il-video/8573615/"
+          "titulo": "Ecclestone ne ha per tutti: “Hamilton si lamenta e brontola sempre, pensasse al ritiro. La Ferrari aveva la macchina migliore, ma ci sono troppi italiani”",
+          "entradilla": "“Quando sale in macchina per iniziare una gara, si lamenta e brontola già per qualcosa prima ancora della prima curva, non importa di cosa si tratti. Sta arrivando all’età in cui deve pensare al ritiro”. A parlare senza troppi giri di parole è Bernie Ecclestone, ex patron della Formula 1, a proposit",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/17/ecclestone-hamilton-ferrari-dichiarazioni-si-lamenta-sempre-pensasse-al-ritiro/8574971/"
         },
         {
-          "titulo": "Quadruplicate le ricognizioni della Raf su Kaliningrad, l’exclave sul Baltico che ospita il sistema missilistico nucleare Iskander",
-          "entradilla": "Nel mese di ottobre la Royal Air Force ha impiegato 17 volte i suoi aerei Rivet Joint – specializzati in missioni di ricognizione, sorveglianza e registrazione di dati – per verificare le attività militari russe a Kaliningrad, territorio appartenente alla Federazione “incastrato” tra Paesi Baltici e",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/16/kaliningrad-voli-spia-raf-rivet-joint-notizie/8573624/"
+          "titulo": "“Mi sono trasferito dagli Stati Uniti in Svezia per amore. Gestisco la mia azienda a distanza, lavoro fino alle 22 e pago più tasse. Ma ne vale la pena”: il racconto di Pat Ahern",
+          "entradilla": "Vivere in Svezia e lavorare negli Stati Uniti. È la storia che Pat Ahern ha raccontato a Business Insider. Tutto parte dall’amore, come da copione: “Quando nel 2014 sono andato a studiare per un semestre in Svezia, mi ero ripromesso di non iniziare una relazione sentimentale. Poi ho conosciuto Eveli",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/17/mi-sono-trasferito-dagli-stati-uniti-in-svezia-per-amore-gestisco-la-mia-azienda-a-distanza-lavoro-fino-alle-22-e-pago-piu-tasse-ma-ne-vale-la-pena-il-racconto-di-pat-ahern/8574970/"
         },
         {
-          "titulo": "Tre pastori tedeschi abbaiano giorno e notte: vicini esasperati nel Leccese. Proprietario denunciato per stalking",
-          "entradilla": "Una convivenza diventata impossibile, tra notti insonni, finestre chiuse anche in piena estate e richieste di intervento rimaste, secondo i residenti, senza risposta. A San Donato, comune alle porte di Lecce, continua la battaglia tra un gruppo di vicini e il proprietario di tre pastori tedeschi, ac",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/16/cani-abbaiano-san-donato-lecce-notizie/8573600/"
+          "titulo": "È morta Mitzi Amoroso, la fondatrice delle Mele Verdi è stata la voce che ha cantato Barbapapà e i cartoni dell’infanzia",
+          "entradilla": "È morta la scorsa notte a Milano, all’età di 91 anni, Maria Letizia Amoroso, per tutti Mitzi. Cantautrice e autrice, era la fondatrice delle Mele Verdi, il coro di bambini le cui canzoni e sigle televisive hanno fatto da colonna sonora all’infanzia di più generazioni. Nata a Roma il 15 agosto 1935, ",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/17/e-morta-mitzi-amoroso-la-fondatrice-delle-mele-verdi-e-stata-la-voce-che-ha-cantato-barbapapa-e-i-cartoni-dellinfanzia/8574963/"
         },
         {
-          "titulo": "Migranti irregolari, pronto l’accordo di cinque Paesi europei con il Ruanda. La Commissione Ue applaude",
-          "entradilla": "Cinque Paesi dell’Unione europea pronti a spedire in Ruanda i migranti che vogliono espellere. Germania, Danimarca, Austria, Grecia e Paesi Bassi annunceranno oggi a Vienna , a margine della conferenza europea sulle migrazioni, un accordo con Kigali per realizzare il primo return hub europeo, un cen",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/16/migranti-irregolari-accordo-ruanda-return-hub-notizie/8573636/"
+          "titulo": "Partecipa a una delle corse più prestigiose d’Australia, poi muore a soli 5 anni: la carcassa del cavallo So You Are ritrovata in un cassonetto. “Meritava dignità e rispetto”",
+          "entradilla": "È finita dentro un bidone della spazzatura la carcassa di So You Are, un cavallo di cinque anni che solo due settimane prima delle sua morte era arrivato ottavo nella Melbourne Cup, la gara più prestigiosa dell’ippica australiana. A ritrovarlo è stato un operaio edile, che avvicinandosi al centro di",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/17/partecipa-a-una-delle-corse-piu-prestigiose-daustralia-poi-muore-a-soli-5-anni-la-carcassa-del-cavallo-so-you-are-ritrovata-in-un-cassonetto-meritava-dignita-e-rispetto/8574876/"
         },
         {
-          "titulo": "Elezioni Figc, Galliani rinuncia al ricorso contro Malagò. L’ex Coni: “E ora cosa fate fino al 14 dicembre?”",
-          "entradilla": "“Un segnale importante, un segnale distensivo. Onestamente lo immaginavo, lo dico con molta franchezza“. Così Giovanni Malagò, commissario della Figc, ha commentato a margine della cerimonia della XXXV edizione della Panchina d’Oro, al Centro tecnico federale di Coverciano, la decisione di Adriano G",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/16/elezioni-figc-galliani-rinuncia-ricorso-presidente/8573616/"
+          "titulo": "Il ‘falco’ Kaja Kallas si ribella all’esclusione dal gruppo di negoziatori Ue sul conflitto Russia-Ucraina: “I Trattati parlano chiaro”",
+          "entradilla": "Se la nomina di Kaja Kallas ad Alto rappresentante per la politica estera dell’Ue, dopo le elezioni del 2024, rappresentava un chiaro indizio sulla strategia del pugno duro che l’Europa aveva intenzione di adottare nei confronti della Russia, la sua esclusione dal team negoziale europeo, decisa poch",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/17/kallas-esclusa-negoziati-russia-ucraina-notizie/8574872/"
         },
         {
-          "titulo": "Ballando con le Stelle, le offese di Mariotto a Barbara D’Urso e il silenzio di Milly Carlucci: possibile che tocchi rivalutare Tu sì que vales?",
-          "entradilla": "E insomma, per trovare un po’ di eleganza nella tv bisogna spegnerla. È quello che viene da pensare dopo aver recuperato gran parte della puntata di Ballando con le Stelle di sabato 14 novembre. Sul perché Guillermo Mariotto sia ancora al suo posto, dopo una sequela di episodi imbarazzanti culminata",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/16/ballando-con-le-stelle-le-offese-di-mariotto-a-barbara-durso-e-il-silenzio-di-milly-carlucci-possibile-che-tocchi-rivalutare-tu-si-que-vales/8573562/"
+          "titulo": "Vittime di reato in Costituzione, anche Nordio si smarca: “Approfondiremo, la Carta tutela la presunzione d’innocenza”",
+          "entradilla": "“Approfondiremo meglio questo discorso”. Dopo Forza Italia, anche il ministro della Giustizia Carlo Nordio offre una sponda agli avvocati contro la proposta di legge che inserisce all’articolo 24 della Costituzione il principio della tutela delle vittime di reato. Giovedì scorso l’Unione delle Camer",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/17/vittime-reato-costituzione-nordio-camere-penali-protesta/8574875/"
         },
         {
-          "titulo": "Angri, donna uccisa a coltellate in casa: si cerca un figlio ancora irreperibile",
-          "entradilla": "È stata uccisa nella sua abitazione di via don Carlo La Mura, ad Angri, con diverse coltellate. Probabilmente 24 ore prima del ritrovamento, avvenuto all’alba di lunedì. Si indaga sul femminicidio di Assunta Abbruzzese, 50 anni, trovata senza vita nel suo paese del Salernitano. L’allarme è stato lan",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/16/femminicidio-angri-abbruzzese-coltellate-notizie/8573602/"
+          "titulo": "“Legge sui caregiver, dopo trent’anni di attesa ora si rischia un pasticcio”",
+          "entradilla": "“Sono più di trent’anni che aspettiamo una legge sui caregiver. Ora dicono che vogliono farla in fretta e furia. Ma noi diciamo: visto che finalmente arriva la legge… facciamola bene”. Dopo le proteste in seguito alla prima approvazione del ddl a Montecitorio di metà ottobre, Alessandra Corradi, por",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/17/legge-caregiver-corradi-cfu-attesa-notizie/8574080/"
         },
         {
-          "titulo": "Dal ‘curing’ al ‘caring’: perché il campo largo rischia di perdere milioni di voti sulla sanità",
-          "entradilla": "Il campo largo, oltre a impegnarsi a garantire a tutti le “cure gratuite di diritto”, deve impegnarsi a garantire a tutti le “cure adeguate di diritto”. E’ una questione a metà strada tra medicina e sanità. Trovare i soldi per curare le malattie non è la stessa cosa che garantire cure adeguate per c",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/16/campo-largo-sanita-caring-cure-adeguate-appello-cavicchi/8573595/"
+          "titulo": "“Vogliamo conoscere il compenso di Barbara D’Urso e le clausole per un eventuale addio a Ballando con le Stelle”: il Codacons chiede il contratto alla Rai dopo il caso Mariotto",
+          "entradilla": "Quanto guadagna Barbara D’Urso per il suo ruolo di giurata a Ballando con le Stelle? E che cosa prevede il contratto firmato con la Rai nel caso in cui la conduttrice decidesse di lasciare il programma prima della fine della stagione? Sono le domande alle quali il Codacons vuole trovare una risposta",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/17/vogliamo-conoscere-il-compenso-di-barbara-durso-e-le-clausole-per-un-eventuale-addio-a-ballando-con-le-stelle-il-codacons-chiede-il-contratto-alla-rai-dopo-il-caso-mariotto/8574905/"
         },
         {
-          "titulo": "Tassare le ricchezze, al tavolo di coalizione il M5s porta un’imposta sui patrimoni finanziari oltre 1 milione e una sul trading ad alta frequenza",
-          "entradilla": "La tassazione delle grandi ricchezze è uno dei nodi aperti nel confronto programmatico del campo largo. Lunedì pomeriggio si riunisce il tavolo che dovrebbe cercare un compromesso tra le ricette proposte da Pd, Movimento 5 Stelle e Alleanza Verdi-Sinistra. Che, al netto dell’obiettivo di chiedere un",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/16/tassa-ricchezze-m5s-attivita-finanziarie-trading-tavolo-campo-largo/8573527/"
+          "titulo": "U2, Carnaval De Luz: nove ragioni per dire basta",
+          "entradilla": "Sono tre giorni che ho sul piatto il nuovo disco degli U2. Ascolto, torno indietro, rimetto su un pezzo, cerco di capire che cosa abbiano voluto fare. Tre giorni così. E niente, mi è venuta la depressione. Sia chiaro, io con gli U2 ce l’ho a morte. Non da ieri, da almeno trent’anni. Perché li […] L'",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/17/u2-carnaval-de-luz-voto-3-recensione-pipitone/8574707/"
         }
       ],
       "analisis": {
-        "resumen": "- Cinco países europeos preparan un acuerdo con Ruanda para trasladar allí a migrantes que desean expulsar; la Comisión Europea lo respalda.\n- La oposición debate impuestos sobre grandes patrimonios, mientras un artículo advierte del riesgo electoral de su enfoque sanitario.\n- Una operación antimafia en Bari deja 19 detenidos; en Angri investigan la muerte a puñaladas de una mujer.\n- La RAF cuadruplicó sus misiones de reconocimiento sobre Kaliningrado en octubre.\n- Alcaraz vence a Tiafoe en las ATP Finals; también destacan polémicas del programa «Ballando con le Stelle».",
-        "populismo": 25,
-        "motivo_populismo": "Predominan titulares informativos, aunque expresiones como «travolge», «vicini esasperati» y el detalle de un estudiante «infilzato» aportan dramatización y sensacionalismo, sin un enfrentamiento explícito entre pueblo y élites.",
-        "sesgo": "La selección combina política y asuntos internacionales con sucesos y polémicas televisivas, a menudo con un enfoque llamativo. En sanidad y televisión aparecen piezas de opinión con posturas explícitas, pero no se aprecia una orientación política global inequívoca."
+        "resumen": "- Se examina la relación entre las amnistías urbanísticas y las elecciones, desde Craxi y Berlusconi hasta Meloni.\n- En Lombardía se detectan unos 2.800 posibles casos de reembolsos indebidos de medicamentos antidiabéticos usados para adelgazar.\n- Nordio pide estudiar la propuesta de incluir la protección de las víctimas de delitos en la Constitución; una portavoz alerta sobre la ley de cuidadores.\n- Kaja Kallas cuestiona su exclusión del grupo negociador europeo sobre el conflicto entre Rusia y Ucrania.\n- La portada incluye noticias de salud, deporte, cultura y televisión, entre ellas la muerte de Mitzi Amoroso y una crítica del nuevo disco de U2.",
+        "populismo": 38,
+        "motivo_populismo": "Expresiones como «furbetti», «se rebela» y «su peor miedo se hace realidad» aportan un tono acusatorio y emocional, aunque no predomina una confrontación explícita entre el pueblo y las élites.",
+        "sesgo": "La portada muestra un enfoque crítico hacia las amnistías urbanísticas y destaca desigualdades en el acceso a medicamentos. También da espacio a relatos personales y titulares de fuerte carga emocional."
       }
     }
   ]

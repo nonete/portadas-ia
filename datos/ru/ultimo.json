@@ -1,39 +1,39 @@
 {
   "pais": "Rusia",
-  "fecha": "2026-11-16",
+  "fecha": "2026-11-17",
   "turno": 8,
-  "generado": "16/11/2026 15:53",
+  "generado": "17/11/2026 16:32",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "La guerra en Ucrania domina varias portadas, con noticias sobre los combates, los ataques al puente de Crimea y las perspectivas de negociación. También se repiten el aplazamiento del proyecto de venta de vino a distancia, los preparativos de Estonia para gobernar desde el extranjero y la muerte del narcotraficante mexicano Félix Gallardo. Solo Kommersant destaca las grandes protestas en Praga por la radiodifusión pública.",
-    "crispacion": 75,
-    "motivo_crispacion": "La tensión es elevada por la guerra entre Rusia y Ucrania, con informaciones sobre combates, ataques con drones y daños o restricciones en el puente de Crimea. Se suman las sanciones de la UE contra Rusia, el cierre anunciado de la frontera estonia y las protestas en Praga por la radiodifusión pública. Las perspectivas de negociación y las noticias sobre cultura, deporte, consumo y cooperación educativa aportan asuntos menos conflictivos, aunque no compensan el peso de las informaciones bélicas."
+    "temas": "Se repiten la próxima cumbre de la APEC y el encuentro previsto entre los líderes de Rusia, Estados Unidos y China, así como la guerra en Ucrania y sus consecuencias, incluido el ataque al puente de Crimea. Varios medios recogen asuntos económicos y el accidente aéreo en Kémerovo. Solo Meduza destaca la condena en ausencia del periodista Andréi Soldátov.",
+    "crispacion": 68,
+    "motivo_crispacion": "La tensión procede principalmente de la guerra entre Rusia y Ucrania, el ataque al puente de Crimea y las operaciones que la FSB atribuye a los servicios secretos ucranianos. También destacan las advertencias sobre una posible participación militar europea y las diferencias políticas en Italia sobre la ayuda a Kiev. En Rusia, la condena de un periodista y las causas contra donantes añaden conflicto institucional y social. Compensan parcialmente este panorama las noticias sobre la cumbre diplomática, la economía, la cultura y el turismo."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Hoy veo una misma disputa detrás de noticias distintas: ¿quién controla los recursos de los que depende la mayoría? Las protestas en Praga en defensa de la radiodifusión pública recuerdan que la información no debe quedar a merced del beneficio privado. Defiendo medios públicos independientes, financiados de forma suficiente y sometidos al control democrático, no al capricho de gobiernos ni grandes capitales.\n\nTambién me inquietan las advertencias europeas sobre el riesgo nuclear en Ucrania ante los ataques rusos a la infraestructura energética. La clase trabajadora necesita paz, electricidad y servicios públicos, no una guerra que pone vidas civiles en peligro. Exijo el fin de los ataques contra esa infraestructura y negociaciones orientadas a una paz duradera. La energía, por su importancia para todos, debe ser de propiedad colectiva y gestionarse democráticamente, no según la rentabilidad de unos pocos."
+      "texto": "Hoy veo una disputa de prioridades. La OTAN prepara el acceso militar a cohetes comerciales, mientras un comité del Senado estadounidense incluye fondos para una nueva bomba nuclear en un proyecto presupuestario. La alianza entre poder público y gran capital encuentra recursos cuando se trata de militarizar; yo quisiera ver esa misma determinación para garantizar vivienda, sanidad y educación.\n\nEn Rusia se anuncia financiación para proyectos urbanos en el Extremo Oriente y las noticias registran una caída del crecimiento de los precios de la vivienda nueva. Pero construir más o frenar las subidas no basta si el acceso sigue dependiendo de la rentabilidad privada. Defiendo vivienda pública y propiedad colectiva, con control democrático de quienes trabajan y habitan esos territorios.\n\nLas negociaciones entre potencias deben buscar la paz, no repartirse esferas de influencia. La clase trabajadora necesita seguridad y derechos, no otra carrera armamentística."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "Las noticias sobre las negociaciones por Ucrania vuelven a colocar a los gobiernos en el centro de la paz. Quiero que cesen los combates, pero desconfío de una paz decidida únicamente desde arriba: quienes soportan la guerra deben poder organizarse y tener voz, sin quedar subordinados a Estados ni partidos.\n\nTambién me preocupa el bloqueo de Telegram en Jordania e Irak. Invocar el extremismo para restringir una herramienta de comunicación castiga la libertad de muchas personas a la vez. La seguridad no debería ser una excusa para entregar a las autoridades el control de nuestras conversaciones.\n\nFrente a la lógica del mando, defiendo comunidades capaces de coordinarse libremente, sostenerse mediante el apoyo mutuo y gestionar sus propios asuntos. La libertad individual necesita esa solidaridad; la libertad colectiva, que nadie pueda imponerle un dueño."
+      "texto": "Hoy veo una contradicción que atraviesa las fronteras: mientras la OTAN prepara acceso a cohetes comerciales para sus satélites militares, en Estados Unidos se proyecta financiar una nueva bomba nuclear. Los gobiernos llaman seguridad a concentrar medios de destrucción; yo desconfío de una seguridad construida sin el control de quienes sufrirían sus consecuencias.\n\nTambién me preocupa que en Rusia se hayan abierto causas contra personas que donaron a una campaña de apoyo a presos políticos. La solidaridad no debería quedar sometida a la autorización del poder. Frente a los Estados y los partidos que pretenden decidir por nosotros, defiendo redes de apoyo mutuo y comunidades autogestionadas: espacios donde cooperemos sin jefes, cuidemos la libertad individual y tomemos en común las decisiones que afectan a todos."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "El aplazamiento del proyecto de venta de vino por internet me recuerda cuánto cuesta abrir espacio a la libertad económica. Yo preferiría reglas claras para proteger a los consumidores y evitar la venta a menores, pero no obstáculos innecesarios que limiten la competencia y la elección. Del mismo modo, exigir una firma electrónica cualificada para trámites de eSIM puede combatir el fraude, pero su coste y su eficacia merecen escrutinio: la seguridad no debería convertirse en excusa para complicar la vida de todos.\n\nTambién rechazo los bloqueos de Telegram en Jordania e Irak. Perseguir delitos concretos es legítimo; restringir la comunicación de usuarios enteros es una respuesta desproporcionada. Defiendo un Estado limitado, impuestos bajos y ciudadanos responsables: la libertad exige asumir consecuencias, pero también poder decidir sin pedir permiso a cada paso."
+      "texto": "Me preocupa que la política económica confunda desarrollo con reparto de financiación privilegiada. La nueva financiación para proyectos del Lejano Oriente puede favorecer iniciativas concretas, pero yo prefiero reglas iguales para todos, impuestos bajos y seguridad jurídica: son los emprendedores y sus clientes, no los planes oficiales, quienes mejor descubren qué merece prosperar.\n\nPor eso celebro que el Tribunal Supremo aclare la protección de los propietarios de antiguas casas de campo. La propiedad segura permite invertir y planificar sin miedo a decisiones arbitrarias. Y la condena en ausencia de un periodista por difundir supuestas informaciones falsas sobre el ejército me recuerda que la libertad económica no basta: también debe protegerse la expresión. Quiero un Estado limitado que garantice derechos, no que sustituya nuestras decisiones ni castigue la crítica. La libertad exige, a cambio, asumir la responsabilidad de lo que elegimos."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "El ataque contra el puente de Crimea y las nuevas sanciones europeas me recuerdan que la soberanía no se defiende con comunicados. Rusia necesita proteger sus infraestructuras, conservar el control de los datos de sus ciudadanos y negociar desde una posición de seguridad, no de dependencia. Por eso rechazo que se recurra a centros de datos extranjeros sin garantías estrictas. Y si Estonia decide cerrar su frontera, nosotros también debemos ejercer sin complejos nuestro derecho a controlar quién entra y bajo qué condiciones.\n\nPero una nación fuerte no es solo un Estado vigilante. Los oficios tradicionales de Bélgorod merecen apoyo porque transmiten una forma de vida que ninguna élite puede reemplazar. Y la condena por corrupción en Ingusetia recuerda que la autoridad solo inspira respeto cuando la ley alcanza también a quienes ocupan cargos importantes."
+      "texto": "El ataque al puente de Crimea recuerda que la soberanía no se defiende con declaraciones, sino protegiendo infraestructuras y garantizando que la gente pueda viajar y volver a casa. La OTAN, por su parte, prepara un acceso más rápido a cohetes comerciales para sus satélites militares. Yo no confiaría la seguridad rusa a la buena voluntad de una alianza que refuerza sus capacidades.\n\nLa reunión prevista entre Rusia, China y Estados Unidos puede abrir oportunidades, pero ninguna gran potencia debe decidir por nosotros. Desconfío tanto del entusiasmo de las élites ante las cumbres como de los titulares que prometen una nueva era: juzgaré los resultados por su utilidad para el país.\n\nTambién celebro que se debata la imagen de las familias numerosas. Pero honrar a la familia exige algo más que publicidad: requiere condiciones para criar hijos con seguridad y dignidad."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Me preocupa que las noticias sobre Ucrania combinen posibles negociaciones con advertencias de países europeos sobre el riesgo de una catástrofe nuclear. Rusia debe cesar los ataques contra la infraestructura energética ucraniana; proteger a la población civil no puede quedar subordinado a los cálculos militares. La diplomacia es indispensable, pero una paz duradera necesita garantías verificables y la participación de quienes deberán convivir con sus consecuencias.\n\nTambién veo una oportunidad en el proyecto ruso que permitiría reclamar judicialmente por defectos detectados durante la garantía, incluso después de que esta expire. Un mercado competitivo necesita consumidores con derechos efectivos, no solo empresas libres para vender. Yo apoyaría esa reforma, siempre que establezca reglas claras y procedimientos accesibles: las instituciones ganan legitimidad cuando resuelven problemas cotidianos sin renunciar a la seguridad jurídica."
+      "texto": "La próxima reunión de los líderes de Rusia, Estados Unidos y China puede abrir una oportunidad diplomática, pero yo desconfiaría de cualquier acuerdo sobre Ucrania que no cuente con la participación de los propios ucranianos. La paz duradera exige negociación, garantías verificables y respeto por las instituciones internacionales, no solo entendimientos entre grandes potencias.\n\nTambién me preocupa la condena en ausencia del periodista Andréi Soldátov por supuestas falsedades sobre el ejército ruso. Una sociedad segura necesita prensa libre y tribunales capaces de protegerla, incluso cuando sus informaciones incomodan al poder.\n\nEn el terreno económico, el programa de financiación para proyectos en el Lejano Oriente podría atraer inversión y mejorar servicios. Pero el dinero público debe asignarse con transparencia y evaluarse por sus resultados para la población. Yo prefiero reformas graduales y fiscalizables a promesas grandiosas sin rendición de cuentas."
     }
   ],
   "periodicos": [
@@ -42,71 +42,71 @@
       "web": "https://www.kommersant.ru",
       "noticias": [
         {
-          "titulo": "Хуситы подбираются к Адену // Правительственные силы Йемена оставили западное побережье",
-          "entradilla": "Международно признанное правительство Йемена 15 ноября официально объявило о выводе своих войск из районов на побережье Баб-эль-Мандебского пролива. Такое решение было принято после тяжелых боев с радикальным движением «Ансар Аллах» (хуситы), которые продолжались на этом направлении почти 40 дней. Т",
-          "enlace": "https://www.kommersant.ru/doc/9110677"
+          "titulo": "НАТО готовится к космическому авралу // Западный альянс создает механизм доступа к коммерческим ракетам для военных спутников",
+          "entradilla": "Члены НАТО договорились о финансировании инициативы STARLIFT, которая должна обеспечить военным более надежный и оперативный доступ к коммерческим ракетам-носителям и космодромам. Альянс хочет использовать эту инфраструктуру для ускоренного вывода спутников и повышения устойчивости своей космической",
+          "enlace": "https://www.kommersant.ru/doc/9111861"
         },
         {
-          "titulo": "Призраки из семейного шкафа // Продолжается фестиваль документального кино IDFA",
-          "entradilla": "На фестивале IDFA в Амстердаме показали нидерландско-китайский фильм «Год призрака». Об этой и других картинах, выполненных в жанре докудрамы и в большинстве случаев основанных на семейных воспоминаниях, рассказывает Андрей Плахов.",
-          "enlace": "https://www.kommersant.ru/doc/9110712"
+          "titulo": "У каждого свой Шэньчжэнь // Какие задачи будут решать на саммите АТЭС лидеры Китая, России и США",
+          "entradilla": "В китайском Шэньчжэне 18–19 ноября пройдет саммит АТЭС, главными ньюсмейкерами которого вместе с председателем КНР Си Цзиньпином станут президенты России и США Владимир Путин и Дональд Трамп. После двухсторонних встреч главы трех мировых держав впервые в истории встретятся вместе. Заявления сторон с",
+          "enlace": "https://www.kommersant.ru/doc/9111826"
         },
         {
-          "titulo": "За мягкий приговор ответили строгим // Посадили участников коррупционного скандала в Ингушетии",
-          "entradilla": "Как стало известно “Ъ”, суд в Москве приговорил к восьми годам заключения бывшего председателя совета судей Ингушетии Магомеда Аушева. По версии следствия, он за взятки помогал решить проблемы с силовиками застройщику Адаму Картоеву, активному участнику общины баталхаджинцев (запрещена и признана те",
-          "enlace": "https://www.kommersant.ru/doc/9110756"
+          "titulo": "Алиментам велено играть от ворот // Дело голкипера Матвея Сафонова о выплатах на ребенка подлежит пересмотру",
+          "entradilla": "Конституционный суд (КС) РФ постановил пересмотреть дело футбольного вратаря Матвея Сафонова, оспаривавшего положения Семейного кодекса РФ о правилах исчисления алиментов. Ранее футболиста обязали выплачивать 25% дохода бывшей супруге, тогда как он настаивал на фиксированной выплате в 300 тыс. руб. ",
+          "enlace": "https://www.kommersant.ru/doc/9111879"
         },
         {
-          "titulo": "Магнус Карлсен упал ниже рейтинга // Шахматный лидер провалился на пилотном турнире нового чемпионата мира",
-          "entradilla": "Главным событием группового раунда пилотного турнира нового проекта Total Chess World Championship, который определяет чемпиона мира в «шахматном многоборье», стал оглушительный провал его фаворита. Норвежец Магнус Карлсен в состязании, придуманном словно специально для него, любителя жесткого контр",
-          "enlace": "https://www.kommersant.ru/doc/9110708"
+          "titulo": "Турпоток отправился // Атака на Крымский мост может дополнительно снизить спрос на Крым",
+          "entradilla": "Повреждение Крымского моста и последующая временная остановка по нему автомобильного движения могут еще больше осложнить турпоток на полуостров. Ситуация для туротрасли усугубляется общим сокращением количества поездок в Крым не менее чем на 24,9% за год из-за перебоев с топливом и подачей электриче",
+          "enlace": "https://www.kommersant.ru/doc/9111841"
         },
         {
-          "titulo": "Бухгалтер, опасный мой бухгалтер // Во взрыве в детском мире на Лубянке обвинили женщину",
-          "entradilla": "Как стало известно “Ъ”, в резонансном уголовном деле о взрыве в августе прошлого года в Центральном детском магазине на Лубянке (бывший Центральный детский мир) появился первый фигурант. Бухгалтеру из Подмосковья, которая доставила в него бомбу, вменяют убийства общеопасным способом и другие преступ",
-          "enlace": "https://www.kommersant.ru/doc/9110727"
+          "titulo": "Дронам запретили взлет // Сорвана серия терактов на юге России",
+          "entradilla": "Оперативники ФСБ предотвратили серию громких терактов с использованием беспилотников на юге России. По данным спецслужбы, операцию с начала года готовили Главное управление разведки (ГУР) и Служба безопасности Украины (СБУ), отвечали за нее генералы этих спецслужб Георгий Лордкипанидзе и Николай Уль",
+          "enlace": "https://www.kommersant.ru/doc/9111830"
         },
         {
-          "titulo": "«Меня тревожит, когда государства допускают возвращение к ядерным испытаниям» // Глава ПК ОДВЗЯИ Роберт Флойд — о поддержании глобального моратория",
-          "entradilla": "Исполнительный секретарь подготовительной комиссии Организации Договора о всеобъемлющем запрещении ядерных испытаний (ОДВЗЯИ) Роберт Флойд рассказал специальному корреспонденту “Ъ” Елене Черненко о проходящих сейчас в Намибии масштабных полевых учениях в рамках договора, вкладе России в глобальный м",
-          "enlace": "https://www.kommersant.ru/doc/9110553"
+          "titulo": "Израиль пугает США Ираном // «Моссад» поделился разведданными о спящих ячейках",
+          "entradilla": "Разведсообщество США заподозрило Иран в подготовке в Вашингтоне взрыва с использованием химического оружия или грязной бомбы — кустарного устройства, начиненного радиоактивными веществами. Целью такой атаки могут стать чиновники высокого ранга, утверждают силовики. Появление этой информации совпало ",
+          "enlace": "https://www.kommersant.ru/doc/9111805"
         },
         {
-          "titulo": "Что такое ДВЗЯИ",
-          "entradilla": "Договор о всеобъемлющем запрещении ядерных испытаний (ДВЗЯИ) был одобрен Генассамблеей ООН 10 сентября 1996 года и открыт к подписанию 24 сентября того же года. Документ запрещает проводить испытательные взрывы ядерного оружия и ядерные взрывы в мирных целях, запрет распространяется на все сферы — в",
-          "enlace": "https://www.kommersant.ru/doc/9110554"
+          "titulo": "Танкеры сбросили цены // Перевозка нефти из России в Индию и Китай подешевела",
+          "entradilla": "Морская перевозка российской нефти в Индию и Китай начала дешеветь после выхода ставок фрахта на максимумы с 2023 года. Снижение стоимости доставки может повысить привлекательность Urals для импортеров, но аналитики не ждут заметного роста экспорта: логистические издержки остаются высокими, и россий",
+          "enlace": "https://www.kommersant.ru/doc/9111790"
         },
         {
-          "titulo": "Чехи не захотели экономить на общественном вещании // В Праге прошли крупнейшие протесты со времен «бархатной революции»",
-          "entradilla": "Накануне 37-й годовщины «бархатной революции» Чехия столкнулась с самым масштабным общественно-политическим противостоянием в своей новейшей истории. В Праге 15 ноября прошли многотысячные протесты, по своей численности сравнимые с числом участников событий 1989 года. Поводом для акции стала инициат",
-          "enlace": "https://www.kommersant.ru/doc/9110624"
+          "titulo": "Держи за краба // Суд РФ взыскал с компании США $52,8 млн в пользу мурманских рыбопромышленников",
+          "entradilla": "Рыбопромышленная компания «Фростер» добилась в суде взыскания с американской Arctic Seafoods $52,8 млн задолженности за поставку краба. Впрочем, получить деньги будет проблематично, говорят юристы, так как перечислить их российскому поставщику американская фирма сможет только по специальной лицензии",
+          "enlace": "https://www.kommersant.ru/doc/9111628"
         },
         {
-          "titulo": "Российская теннисистка Мирра Андреева стала второй по итогам года",
-          "entradilla": "Заняв на финише сезона вторую позицию в классификации WTA, Мирра Андреева повторила лучшее достижение российских теннисисток, которые никогда не поднимались выше в итоговых рейтингах.  Трижды второй заканчивала сезон Мария Шарапова: в 2006 году ее опередила бельгийка Жюстин Энен, в 2012-м — белоруск",
-          "enlace": "https://www.kommersant.ru/doc/9110646"
+          "titulo": "Эффект разработанной бомбы // США впервые за 30 лет профинансируют создание совершенно нового ядерного боеприпаса",
+          "entradilla": "Комитет Сената США по ассигнованиям выделил в проекте бюджета на 2027 год $77 млн на программу B94 — это первый более чем за 30 лет случай присвоения нового индекса американской атомной авиабомбе свободного падения. По оценке американских СМИ, единственным известным проектом, подходящим под это опис",
+          "enlace": "https://www.kommersant.ru/doc/9111747"
         },
         {
-          "titulo": "Мирра Андреева — третья россиянка в финалах итогового турнира WTA",
-          "entradilla": "Победив в Индиан-Уэллсе, Мирра Андреева стала всего лишь второй российской теннисисткой, которой удалось выиграть итоговый турнир WTA, и третьей участницей финалов этого состязания.  Первопроходцем среди россиянок стала Мария Шарапова, победившая в возрасте 17 лет в Лос-Анджелесе в 2004 году америка",
-          "enlace": "https://www.kommersant.ru/doc/9110609"
+          "titulo": "Страна победившей театральности // В Париже показывают выставку «Брюссель 1900»",
+          "entradilla": "Выставка «Брюссель 1900» в парижском Пти-Пале напоминает о временах, когда бельгийская столица стала полигоном модерна. В крошечном по сравнению с Лондоном или Парижем городе рождалась новая культура, соединившая живопись, архитектуру, литературу и декоративное искусство. Рассказывает корреспондент ",
+          "enlace": "https://www.kommersant.ru/doc/9111591"
         },
         {
-          "titulo": "Теннисные рейтинги",
-          "entradilla": "Рейтинг WTA  1 (1). Елена Рыбакина (Казахстан) — 8099 очков.",
-          "enlace": "https://www.kommersant.ru/doc/9110616"
+          "titulo": "Шесть лет по договору займа // Бывшего совладельца «Азбуки Вкуса» заочно осудили за растрату $11 млн",
+          "entradilla": "Суд в Москве вынес заочный приговор проживающему за границей бывшему совладельцу «Азбуки вкуса» и «Кофе Хауз», председателю правления Азиатско-Тихоокеанского банка (АТБ) Андрею Вдовину. По версии следствия, в 2015 году перед банкротством Финпромбанка он помог его руководителям вывести почти $11 млн,",
+          "enlace": "https://www.kommersant.ru/doc/9111542"
         },
         {
-          "titulo": "За СИМ нужен глаз да глаз // Оформление eSIM усложнят для борьбы с мошенниками",
-          "entradilla": "Переоформить абонентский номер с физической карты на eSIM и заключить договор на обслуживание с помощью усиленной неквалифицированной электронной подписи станет невозможно: операторов обяжут использовать только квалифицированную подпись. Министерство просит операторов провести проверку данных пользо",
-          "enlace": "https://www.kommersant.ru/doc/9110023"
+          "titulo": "Боец вырвался из клетки // Власти Абу-Даби смягчили приговор Усману Нурмагомедову",
+          "entradilla": "Российский боец смешанного стиля (MMA) Усман Нурмагомедов 16 ноября был освобожден из заключения. За решетку спортсмен попал после того, как напал с группой поддержки на грузинского бойца Мераба Двалишвили в лобби отеля в Абу-Даби. Власти эмирата первоначально приговорили зачинщика беспорядков к шес",
+          "enlace": "https://www.kommersant.ru/doc/9111504"
         }
       ],
       "analisis": {
-        "resumen": "- Las fuerzas del gobierno yemení se retiran de zonas costeras tras combates con los hutíes.\n- Un tribunal de Moscú condena a ocho años de prisión a un antiguo responsable judicial de Ingusetia por un caso de corrupción.\n- Una contable es acusada por la explosión en una tienda infantil de Moscú.\n- La portada aborda la moratoria de los ensayos nucleares y las protestas en Praga por la radiodifusión pública.\n- En deportes, destacan el mal resultado de Magnus Carlsen y la temporada de Mirra Andréyeva; también se tratan el cine documental y los cambios previstos para las eSIM.",
-        "populismo": 20,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «contable peligrosa» y «fracaso estrepitoso» aportan dramatización; no se aprecia una apelación al pueblo contra las élites.",
-        "sesgo": "La selección da espacio a conflictos, sucesos judiciales y acontecimientos internacionales, junto con deportes y cultura. La redacción recurre a juegos de palabras y enfatiza algunos episodios llamativos, sin que se aprecie un sesgo político claro."
+        "resumen": "- La OTAN financiará un mecanismo de acceso a cohetes comerciales para sus satélites militares; la portada también aborda un proyecto de nueva bomba nuclear estadounidense.\n- La cumbre de la APEC en Shenzhen reunirá a los líderes de China, Rusia y Estados Unidos.\n- La portada informa sobre la revisión del caso de pensión alimenticia del futbolista Matvéi Safónov y la reducción de la condena al luchador Usmán Nurmagomédov.\n- El daño al puente de Crimea podría agravar la caída del turismo; el FSB afirma haber frustrado atentados con drones en el sur de Rusia.\n- Bajan los costes de transporte del petróleo ruso hacia India y China; un tribunal ruso ordena a una empresa estadounidense pagar una deuda por suministro de cangrejo.",
+        "populismo": 25,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «Israel asusta a Estados Unidos con Irán» y la referencia a una situación espacial de urgencia aportan dramatización.",
+        "sesgo": "La selección da peso a la seguridad y a las repercusiones económicas para Rusia. El titular sobre Israel presenta el intercambio de información de inteligencia como un intento de asustar a Estados Unidos."
       }
     },
     {
@@ -114,71 +114,71 @@
       "web": "https://rg.ru",
       "noticias": [
         {
-          "titulo": "Ушаков назвал условия для присоединения ЕС к переговорам по Украине",
-          "entradilla": "Для того чтобы европейцы приняли участие в переговорах Москва - США - Киев по украинскому урегулированию, необходим ряд условий. Каких, журналистам рассказал, отвечая на вопросы, помощник президента России Юрий Ушаков.",
-          "enlace": "https://rg.ru/2026/11/16/ushakov-nazval-usloviia-dlia-prisoedineniia-es-k-peregovoram-po-ukraine.html"
+          "titulo": "ДОМ.РФ начал прием заявок на льготное финансирование проектов на Дальнем Востоке",
+          "entradilla": "Регионы Дальневосточного федерального округа (ДФО) получили возможность подать заявки на финансирование проектов через облигации ДОМ.РФ. Объем программы превышает 100 миллиардов рублей, средства могут быть получены для реализации любого из проектов, включенных в мастер-планы дальневосточных городов,",
+          "enlace": "https://rg.ru/2026/11/17/reg-dfo/domrf-nachal-priem-zaiavok-na-lgotnoe-finansirovanie-proektov-na-dalnem-vostoke.html"
         },
         {
-          "titulo": "Ушаков: Расширение формата переговоров по Украине с Москвой не согласовывали",
-          "entradilla": "Дата трехсторонних переговоров по украинскому урегулированию в Абу-Даби пока не определена. Об этом заявил, отвечая на вопросы журналистов, помощник президента России Юрий Ушаков.",
-          "enlace": "https://rg.ru/2026/11/16/ushakov-rasshirenie-formata-peregovorov-po-ukraine-s-moskvoj-ne-soglasovyvali.html"
+          "titulo": "Париж подтвердил, что на Украине действуют французские военные",
+          "entradilla": "Франция подтверждает присутствие на Украине своей действующей военной структуры. Об этом в ходе правительственного часа в нижней палате парламента заявила министр-делегат при министерстве вооруженных сил республики Алис Рюфо.",
+          "enlace": "https://rg.ru/2026/11/17/parizh-podtverdil-chto-na-ukraine-dejstvuiut-francuzskie-voennye.html"
         },
         {
-          "titulo": "Госдума перенесла рассмотрение проекта об онлайн-продаже вина через почту",
-          "entradilla": "Совет Думы перенес рассмотрение во втором чтении законопроекта об онлайн-продаже вина через \"Почту России\". Об этом журналистам сообщил источник в палате парламента.",
-          "enlace": "https://rg.ru/2026/11/16/gosduma-perenesla-rassmotrenie-proekta-ob-onlajn-prodazhe-vina-cherez-pochtu.html"
+          "titulo": "Глава Кузбасса опубликовал кадры с места крушения самолета",
+          "entradilla": "Глава Кузбасса Илья Середюк рассказал подробности о крушении самолета в районе села Ягуново и опубликовал кадры с места ЧП.",
+          "enlace": "https://rg.ru/2026/11/17/reg-sibfo/glava-kuzbassa-opublikoval-kadry-s-mesta-krusheniia-samoleta.html"
         },
         {
-          "titulo": "Центробанк повысил официальный курс доллара до 82,51 рубля",
-          "entradilla": "Банк России установил официальные курсы валют на вторник, 17 ноября, следует из данных на сайте регулятора .",
-          "enlace": "https://rg.ru/2026/11/16/centrobank-povysil-oficialnyj-kurs-dollara-do-8251-rublia.html"
+          "titulo": "Эксперты \"РГ\" спрогнозировали, что будет с ценами на новостройки",
+          "entradilla": "Цены на новостройки в октябре выросли лишь на 0,37%, меньше было только в феврале-марте, после предыдущих изменений \"Семейной ипотеки\". В условиях упавшего спроса застройщики не рискуют поднимать стоимость жилья.",
+          "enlace": "https://rg.ru/2026/11/17/zastyli-v-betone.html"
         },
         {
-          "titulo": "Россия и Китай расширяют сотрудничество в подготовке управленцев",
-          "entradilla": "Россия и Китай намерены укреплять деловые связи и развивать образовательные инициативы. ВТБ Образование и Институт России Университета Цинхуа подписали меморандум о взаимопонимании. Партнеры объединят практическую экспертизу банка с образовательными, исследовательскими и технологическими возможностя",
-          "enlace": "https://rg.ru/2026/11/16/rossiia-i-kitaj-rasshiriaiut-sotrudnichestvo-v-podgotovke-upravlencev.html"
+          "titulo": "В регионах СЗФО появились необычные направления сельского туризма",
+          "entradilla": "Осенью высокий туристический сезон заканчивается не только в городе, но и на селе. Однако многие деревенские \"средства размещения\" так или иначе продолжают работать. Гостевые дома и турбазы просто переключаются на зимние программы. Даже рыбалка остается, только становится подледной. Полностью закрыв",
+          "enlace": "https://rg.ru/2026/11/17/reg-szfo/v-regionah-szfo-poiavilis-neobychnye-napravleniia-selskogo-turizma.html"
         },
         {
-          "titulo": "Львова-Белова: Для родителей запускают онлайн-курс по юридической грамотности",
-          "entradilla": "17 ноября в России стартует онлайн-курс \"Основы юридической грамотности: как сохранить семью\". Об этом сообщила уполномоченный при президенте РФ по правам ребенка Мария Львова-Белова, приглашая присоединиться к проекту мам и пап, для которых тема актуальна.",
-          "enlace": "https://rg.ru/2026/11/16/lvova-belova-dlia-roditelej-zapuskaiut-onlajn-kurs-po-iuridicheskoj-gramotnosti.html"
+          "titulo": "Екатерина Проничева: 115 работ из ГМИИ отправятся в Пекин",
+          "entradilla": "Генеральный директор ГМИИ им. Пушкина Екатерина Проничева рассказала о международных планах Пушкинского музея. В частности, в следующем году запланирован большой обменный проект с Пекином. Привезут 115 работ из Пушкинского и столько же из Пекинского национального музея, которому в следующем году исп",
+          "enlace": "https://rg.ru/2026/11/17/ekaterina-pronicheva-115-rabot-iz-gmii-otpraviatsia-v-pekin.html"
         },
         {
-          "titulo": "В марийской тайге медвежата устроили игру на камеру",
-          "entradilla": "В фотоловушку марийского заповедника \"Большая Кокшага\" попали три медведя и медведица. Животные неспешно шли по лесной дороге, пока их внимание не привлекла камера.",
-          "enlace": "https://rg.ru/2026/11/16/reg-pfo/v-marijskoj-tajge-medvezhata-ustroili-igru-na-kameru.html"
+          "titulo": "В Мордовии обсудили, как сделать регион точкой притяжения людей и инвестиций",
+          "entradilla": "Вопросы развития Мордовии как территории, где комфортно жить и работать, обсуждались на состоявшейся сегодня в Саранске стратегической сессии. Разговор объединил представителей региональной власти, бизнеса и общественности.",
+          "enlace": "https://rg.ru/2026/11/17/reg-pfo/v-mordovii-obsudili-kak-sdelat-region-tochkoj-pritiazheniia-liudej-i-investicij.html"
         },
         {
-          "titulo": "Как белгородские мастера поддерживают людей ремесленными традициями",
-          "entradilla": "\"Ни в коем случае не приезжайте к нам\", - вот так эмоционально начинается наш разговор с мастером лозоплетения из города Валуйки Алексеем Лободой. Фундаментальные ремесленные традиции, увлеченные красивым созиданием люди, шедевры декоративно-прикладного творчества - вот чем славится валуйская земля.",
-          "enlace": "https://rg.ru/2026/11/16/reg-cfo/kak-belgorodskie-mastera-podderzhivaiut-liudej-remeslennymi-tradiciiami.html"
+          "titulo": "В ночь на среду в столичном регионе ожидают гололедицу и снег",
+          "entradilla": "Сильное похолодание придет в регион после 20:00 вторника. Температура воздуха уйдет в минусовую зону, об этом предупреждает комплекс городского хозяйства Москвы.",
+          "enlace": "https://rg.ru/2026/11/17/reg-cfo/v-noch-na-sredu-v-stolichnom-regione-ozhidaiut-gololedicu-i-sneg.html"
         },
         {
-          "titulo": "Умер Черкес: овчарка до последних дней искала взрывчатку в зоне СВО",
-          "entradilla": "Ветеран МВД, кинолог из Сыктывкара Андрей Мухин сообщил о том, что умер его верный пес Черкес. Овчарка до последних дней искала взрывчатые вещества в зоне спецоперации.",
-          "enlace": "https://rg.ru/2026/11/16/reg-szfo/umer-cherkes-ovcharka-do-poslednih-dnej-iskala-vzryvchatku-v-zone-svo.html"
+          "titulo": "Запущена горячая линия для желающих выехать из Севастополя на материк",
+          "entradilla": "Для жителей и гостей Севастополя, столкнувшихся с проблемой выезда из города и Крыма на материк, запущена горячая линия. Также на нее могут обратиться те, кто, наоборот, не может вернуться домой на полуостров.",
+          "enlace": "https://rg.ru/2026/11/17/reg-ufo/zapushchena-goriachaia-liniia-dlia-zhelaiushchih-vyehat-iz-sevastopolia-na-materik.html"
         },
         {
-          "titulo": "В Пензе подросток продал банковскую карту за 3 тысячи рублей",
-          "entradilla": "Пензенца подозревают в неправомерном обороте средств платежей. Подробности сообщили в региональном Следственном комитете.",
-          "enlace": "https://rg.ru/2026/11/16/reg-pfo/v-penze-podrostok-prodal-bankovskuiu-kartu-za-3-tysiachi-rublej.html"
+          "titulo": "Верховный суд усилил правовую защиту владельцев старых дач",
+          "entradilla": "Президиум Верховного суда РФ утвердил тематический обзор судебной практики, разъясняющий самые острые и наболевшие вопросы, связанные с оформлением земли под строениями.",
+          "enlace": "https://rg.ru/2026/11/17/nesgoraemyj-dom.html"
         },
         {
-          "titulo": "Рациональный выбор: Россияне стали активнее покупать зарубежные онлайн-товары",
-          "entradilla": "Рынок трансграничной интернет-торговли в России снова показывает рост, однако при высокой динамике зарубежные покупки занимают сравнительно небольшую часть электронной коммерции. Как восстанавливается спрос и какие зарубежные товары по-прежнему востребованы, \"Российской газете\" рассказали эксперты.",
-          "enlace": "https://rg.ru/2026/11/16/racionalnyj-vybor-rossiiane-stali-aktivnee-pokupat-zarubezhnye-onlajn-tovary.html"
+          "titulo": "В графике Путина нет отдельной встречи с президентом Южной Кореи на саммите АТЭС",
+          "entradilla": "Президент России Владимир Путин может провести краткие переговоры с президентом Республики Корея Ли Чжэ Мёном на полях саммита Азиатско-Тихоокеанского экономического сотрудничества (АТЭС), который состоится 18-19 ноября в китайском Шэньчжэне. Об этом 17 ноября заявил пресс-секретарь российского през",
+          "enlace": "https://rg.ru/2026/11/17/v-grafike-putina-net-otdelnoj-vstrechi-s-prezidentom-iuzhnoj-korei-na-sammite-ates.html"
         },
         {
-          "titulo": "Покупателям разрешат подавать иски о недостатках товара по истечении гарантии",
-          "entradilla": "Правительство РФ внесло в Госдуму законопроект, в случае одобрения которого покупатели смогут обращаться в суд и после истечения гарантийного срока, если недостатки были обнаружены в его пределах.",
-          "enlace": "https://rg.ru/2026/11/16/pokupateliam-razreshat-podavat-iski-o-nedostatkah-tovara-po-istechenii-garantii.html"
+          "titulo": "О чем говорил с родителями школьников глава Рособрнадзора Музаев",
+          "entradilla": "Отменят ли ЕГЭ? Когда начнут сдавать устный экзамен по истории в девятых классах? Появится ли практическая часть в заданиях Единого? Вот самые горячие вопросы, которые задавали родители школьников на ежегодной встрече с главой Рособрнадзора Анзором Музаевым.",
+          "enlace": "https://rg.ru/2026/11/17/bez-otmen.html"
         }
       ],
       "analisis": {
-        "resumen": "- Ushakov expone condiciones para la participación europea en las negociaciones sobre Ucrania y dice que no se acordó ampliar el formato con Moscú.\n- La Duma aplaza el debate sobre la venta de vino por correo y el Banco Central fija el dólar en 82,51 rublos.\n- Crecen las compras en línea de productos extranjeros y el Gobierno propone ampliar la posibilidad de reclamar por productos defectuosos.\n- Rusia y China impulsan la formación de directivos; también se anuncia un curso jurídico para padres.\n- La portada recoge historias sobre artesanos, osos y un perro detector de explosivos, además de la venta de una tarjeta bancaria por un adolescente.",
-        "populismo": 12,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «su fiel perro» y la descripción elogiosa de los artesanos aportan una carga emocional.",
-        "sesgo": "La selección y redacción dan protagonismo a fuentes oficiales rusas, especialmente en las noticias sobre Ucrania, y emplean la denominación rusa «operación especial». También destacan iniciativas institucionales y relatos locales de tono positivo."
+        "resumen": "- DOM.RF abre solicitudes de financiación preferente para proyectos urbanos en el Lejano Oriente.\n- Francia confirma la presencia de una estructura militar francesa en Ucrania.\n- El gobernador de Kuzbass informa sobre un accidente aéreo y publica imágenes del lugar.\n- Expertos analizan la evolución de los precios de la vivienda nueva ante la caída de la demanda.\n- La portada también aborda el turismo rural, un intercambio artístico con Pekín, el clima, los desplazamientos desde Sebastopol y cuestiones judiciales y educativas.",
+        "populismo": 8,
+        "motivo_populismo": "Los titulares son mayoritariamente informativos; expresiones como «reforzó la protección jurídica» aportan cierto énfasis, sin recurrir a descalificaciones ni al enfrentamiento entre grupos.",
+        "sesgo": "La selección da protagonismo a iniciativas institucionales, autoridades y asuntos regionales rusos, con un enfoque práctico en vivienda, servicios y educación. Las noticias se presentan principalmente a través de fuentes oficiales y expertas."
       }
     },
     {
@@ -186,71 +186,71 @@
       "web": "https://www.kp.ru",
       "noticias": [
         {
-          "titulo": "Землю вращаем на запад: Идут тяжелые бои конца осени",
-          "entradilla": "Перед переговорами в Эмиратах ВСУ постоянно контратаковали",
-          "enlace": "https://www.kp.ru/daily/277833.5/5328082/?from=twall"
+          "titulo": "Россияне стали реже увольняться и наниматься на работу",
+          "entradilla": "Finexpertiza: число увольнений в России снизилось до шестилетнего минимума",
+          "enlace": "https://www.kp.ru/daily/277833.4/5329970/?from=twall"
         },
         {
-          "titulo": "Тыл - для победы: Военным передали партию спецтехники, новые дроны и уникальное оборудование",
-          "entradilla": "На передовую отправили свыше 80 единиц техники",
-          "enlace": "https://www.kp.ru/daily/277833.5/5328089/?from=twall"
+          "titulo": "Объявлена тема пленарного заседания форума «Технологии Добра»",
+          "entradilla": "Спикеры будут говорить, как повысить эффективность работы социальных инициатив и провести их цифровую трансформацию",
+          "enlace": "https://www.kp.ru/daily/277833.4/5329890/?from=twall"
         },
         {
-          "titulo": "Отец и сын направили на фронт более 6 миллионов рублей: Помогают уже четыре года",
-          "entradilla": "Для них помощь бойцам стала личным вкладом в общую победу",
-          "enlace": "https://www.kp.ru/daily/277833.5/5328093/?from=twall"
+          "titulo": "Мошенники обчищают карты и вербуют дропперов: как работает новая схема с «выплатой ко Дню ребенка»",
+          "entradilla": "Киберэксперт Токаренко предупредил об опасной уловке мошенников ко Дню ребенка",
+          "enlace": "https://www.kp.ru/daily/277833.4/5329928/?from=twall"
         },
         {
-          "titulo": "Как ветерану СВО трудоустроиться при помощи фонда «Защитники Отечества»",
-          "entradilla": "Все дороги открыты",
-          "enlace": "https://www.kp.ru/daily/277833.5/5328099/?from=twall"
+          "titulo": "Новый год в России встретят с новым фильмом «Умка»: 1 января в прокат выходит семейное кино",
+          "entradilla": "Фильмы сняли при поддержке Сбера",
+          "enlace": "https://www.kp.ru/daily/277833.4/5329947/?from=twall"
         },
         {
-          "titulo": "С передовой  - к мечте: Крымчанин после возвращения открыл свой ресторан",
-          "entradilla": "Боец СВО запускает в Крыму бесплатные кулинарные мастер-классы для подростков",
-          "enlace": "https://www.kp.ru/daily/277833.5/5328101/?from=twall"
+          "titulo": "Нюша рассталась с возлюбленным после полутора лет романа: что известно о личной жизни певицы",
+          "entradilla": "Певица Нюша рассталась с возлюбленным на фоне трагедии с сестрой",
+          "enlace": "https://www.kp.ru/daily/277833.4/5329907/?from=twall"
         },
         {
-          "titulo": "Кологривый в роли злодея и реальная история большой любви: что мы увидим в новом мюзикле Басты",
-          "entradilla": "Алексей Франдетти поставил мюзикл по хитам Басты «Любовь без памяти»",
-          "enlace": "https://www.kp.ru/daily/277833/5329404/?from=twall"
+          "titulo": "«Начало новой эры»: что говорят в мире о предстоящей встрече Путина, Трампа и Си Цзиньпина в Шэньчжэне",
+          "entradilla": "Американский политолог Купчан: встреча Трампа, Путин и Си растопит лёд",
+          "enlace": "https://www.kp.ru/daily/277833.4/5329906/?from=twall"
         },
         {
-          "titulo": "Бывшего собкора «Комсомолки» и пресс-секретаря Азарова подорвала 21-летняя девушка: Спецслужбы Украины завербовали ее, предварительно обманув и обокрав",
-          "entradilla": "Военкор Коц прокомментировал задержание подозреваемой в покушении на Заворотного",
-          "enlace": "https://www.kp.ru/daily/277833/5329390/?from=twall"
+          "titulo": "Подвиг панфиловцев бессмертен: в Москве и Подмосковье почтили память героев",
+          "entradilla": "РВИО провело две памятные акции в честь 85-летней годовщины подвига панфиловцев",
+          "enlace": "https://www.kp.ru/daily/277833.4/5329865/?from=twall"
         },
         {
-          "titulo": "Умер «босс боссов» Мигель Анхель Феликс Гальярдо, один из крупнейших наркобаронов в истории",
-          "entradilla": "В Мексике умер 80-летний наркобарон Мигель Анхель Феликс Гальярдо",
-          "enlace": "https://www.kp.ru/daily/277833/5329370/?from=twall"
+          "titulo": "Инь-ян «по Апеннински»: итальянская оппозиция предложила правящей коалиции союз в обмен на отказ от помощи Киеву",
+          "entradilla": "Оппозиция Италии предложила правящей партии союз в обмен на отказ от помощи ВСУ",
+          "enlace": "https://www.kp.ru/daily/277833.4/5329827/?from=twall"
         },
         {
-          "titulo": "Перед переговорами Путина, Трампа и Си Цзиньпина президенты России и США встретятся один на один: главной темой станет мир на Украине",
-          "entradilla": "Ушаков рассказал о программе саммита с участием Путина, Трампа и Си Цзиньпина",
-          "enlace": "https://www.kp.ru/daily/277833/5329374/?from=twall"
+          "titulo": "«Ее накормили мясом глухаря»: хозяйка приюта в Финляндии рассказала о сбежавшей из России лайке Ноте",
+          "entradilla": "Хозяйка финского приюта: Сбежавшую из России лайку Ноту кормили мясом глухаря",
+          "enlace": "https://www.kp.ru/daily/277833.4/5329815/?from=twall"
         },
         {
-          "titulo": "Физики создали проект машины времени, которая может отправлять в прошлое: теперь можно спасти Пушкина?",
-          "entradilla": "Физики из Израиля создали проект машины времени, которая обращает время вспять",
-          "enlace": "https://www.kp.ru/daily/277833/5329350/?from=twall"
+          "titulo": "Виктор Бут: Так называемые «европейские лидеры» не доверяют друг другу",
+          "entradilla": "Депутат Госдумы в «Русском дозоре Бута и Гамова» на Радио «КП»",
+          "enlace": "https://www.kp.ru/daily/277833.4/5329788/?from=twall"
         },
         {
-          "titulo": "Эстонские власти приготовились к бегству: Таллин создал цифровую копию народа, чтобы управлять им в изгнании",
-          "entradilla": "В Эстонии подготовили план управления страной удаленно из-за рубежа",
-          "enlace": "https://www.kp.ru/daily/277833/5329346/?from=twall"
+          "titulo": "«Наконец?!»: Ларису Долину раскритиковали за неоднозначное поздравление с рождением сына у Чумакова и Ковальчук",
+          "entradilla": "Долину раскритиковали за неоднозначное поздравление с рождением сына у Ковальчук",
+          "enlace": "https://www.kp.ru/daily/277833.4/5329782/?from=twall"
         },
         {
-          "titulo": "Юлия Пересильд впервые вышла в свет после тайной свадьбы",
-          "entradilla": "Актриса в белоснежном платье появилась на благотворительном завтраке",
-          "enlace": "https://www.kp.ru/daily/277833/5329320/?from=twall"
+          "titulo": "Составлен портрет россиянина, который пользуется подпиской на страхование жизни",
+          "entradilla": "Аналитику собрали к запуску нового решения",
+          "enlace": "https://www.kp.ru/daily/277833.4/5329654/?from=twall"
         }
       ],
       "analisis": {
-        "resumen": "- Combates en Ucrania y contraataques ucranianos antes de unas negociaciones en Emiratos.\n- Envío de equipamiento al frente, donaciones a militares e iniciativas para veteranos.\n- Previsión de una reunión entre Putin y Trump sobre Ucrania, antes de un encuentro con Xi Jinping.\n- Detención de una sospechosa de un atentado y muerte del narcotraficante mexicano Miguel Ángel Félix Gallardo.\n- Plan estonio de gobierno a distancia, proyecto de máquina del tiempo y noticias culturales y de sociedad.",
-        "populismo": 68,
-        "motivo_populismo": "Expresiones como «la retaguardia, para la victoria», «todos los caminos están abiertos» y «las autoridades estonias se prepararon para huir» combinan lenguaje movilizador, simplificación y dramatización.",
-        "sesgo": "La portada prioriza una perspectiva favorable al esfuerzo militar ruso, presentando la ayuda al frente como contribución a una «victoria común» y destacando historias positivas de veteranos. El titular sobre Estonia adopta un enfoque alarmista frente a la descripción de un plan de gobierno a distancia."
+        "resumen": "- El número de despidos en Rusia cayó a su nivel más bajo en seis años.\n- Se aborda la próxima reunión de Putin, Trump y Xi en Shenzhen y una propuesta de la oposición italiana vinculada a la ayuda a Ucrania.\n- Un experto advierte de una estafa que utiliza supuestos pagos por el Día del Niño.\n- En Moscú y sus alrededores se conmemoró a los panfílovtsy en el 85.º aniversario de su hazaña.\n- La portada también incluye noticias sobre iniciativas sociales, cine familiar y la vida de varios artistas.",
+        "populismo": 45,
+        "motivo_populismo": "Aparecen expresiones emotivas como «hazaña inmortal», fórmulas alarmistas sobre estafas y descalificaciones como «los llamados líderes europeos», aunque varios titulares son informativos.",
+        "sesgo": "La selección combina asuntos políticos y sociales con entretenimiento. En la información política y conmemorativa destacan un enfoque patriótico ruso y la inclusión de voces críticas con los líderes europeos."
       }
     },
     {
@@ -258,71 +258,71 @@
       "web": "https://www.vedomosti.ru",
       "noticias": [
         {
-          "titulo": "Решение об участии Путина в саммите G20 будет принято после саммита АТЭС",
-          "entradilla": "Решение об участии Владимира Путина в саммите G20 в Майами будет принято после поездки на саммит АТЭС в Шэньчжэне. Об этом журналистам сообщил помощник президента Юрий Ушаков. По его словам, решение об участии Владимира Путина в саммите G20 пока не принималось.",
-          "enlace": "https://www.vedomosti.ru/politics/articles/2026/11/16/1261256-reshenie-posle-sammita"
+          "titulo": "Россия показала один из лучших в мире результатов по донашиванию детей",
+          "entradilla": "По итогам 2025 г. недоношенными в России родились только 5,6% детей. Об этом на круглом столе, посвященном российской неонатологии, сообщил замдиректора по научной работе НМИЦ акушерства, гинекологии и перинатологии им. Кулакова Минздрава России Дмитрий Дегтярев.",
+          "enlace": "https://www.vedomosti.ru/society/articles/2026/11/17/1412685-rossiya-pokazala"
         },
         {
-          "titulo": "Какой будет программа Владимира Путина на саммите АТЭС в Шэньчжэне",
-          "entradilla": "Владимир Путин 18–19 ноября примет участие в 33-м саммите лидеров экономик форума «Азиатско-Тихоокеанское сотрудничество» (АТЭС), который пройдет в китайском городе Шэньчжэне. Об этом журналистам сообщил помощник президента Юрий Ушаков. Председательствует на нынешнем саммите Китай, девизом саммита б",
-          "enlace": "https://www.vedomosti.ru/politics/articles/2026/11/16/1258424-programma-vladimira-putina"
+          "titulo": "Депутаты поспорили об образе многодетной семьи в рекламе",
+          "entradilla": "17 ноября депутаты Госдумы единогласно одобрили в первом чтении законопроект правительства о популяризации многодетных семей в рекламе (№ 6476-9). Документом предлагается закрепить требование использовать образ семьи с тремя и более детьми в таком контенте. Инициатива не обязывает изображать многоде",
+          "enlace": "https://www.vedomosti.ru/society/articles/2026/11/17/1398869-deputati-posporili"
         },
         {
-          "titulo": "Госдума перенесла проект о дистанционной продаже вина на неопределенное время",
-          "entradilla": "Совет Госдумы 16 ноября принял решение снять с рассмотрения во втором чтении законопроект об эксперименте по дистанционной продаже российского вина через сайт «Почты России». Об этом «Ведомостям» сообщили два источника в нижней палате парламента. По словам одного из них, рассмотрение отложили на нео",
-          "enlace": "https://www.vedomosti.ru/business/articles/2026/11/16/1262498-gosduma-perenesla-proekt"
+          "titulo": "Технологии сближения",
+          "entradilla": "Дискуссии, которые шли в ходе проведения в Москве Третьего саммита «Россия – Африка» отразили рост интереса сторон к развитию сотрудничества между РФ и странами африканского континента в сфере, которая будет в решающей мере определять «ранжир» государств в предстоящие десятилетия. Речь идет о передо",
+          "enlace": "https://www.vedomosti.ru/global-ideas/columns/2026/11/17/1412621-tehnologii-sblizheniya"
         },
         {
-          "titulo": "Чем известен Крымский мост",
-          "entradilla": "В ночь на 16 ноября ВСУ ударили по Крымскому мосту. О характере повреждений и возможных пострадавших не сообщалось, но глава Крыма Сергей Аксенов заявил об ограничении проезда транспорта по объекту до середины дня. Ведутся восстановительные работы, оценивается возможность запуска движения в реверсив",
-          "enlace": "https://www.vedomosti.ru/spravka/krimskii-most"
+          "titulo": "Что рассказал Лавров о встрече Путина, Трампа, Си и переговорах по Украине",
+          "entradilla": "Повестка встречи лидеров России, США и Китая сформирована, сообщил глава МИД РФ Сергей Лавров. Он также заявил, что переговоры в формате Россия – США – Украина продолжатся, а размещение европейских войск на Украине будет означать прямое участие Европы в конфликте. «Ведомости» собрали главное из заяв",
+          "enlace": "https://www.vedomosti.ru/politics/articles/2026/11/17/1405796-o-vstreche-i-peregovorah"
         },
         {
-          "titulo": "Что известно о состоянии Крымского моста после атаки БПЛА",
-          "entradilla": "В ночь на 16 ноября Крымский мост подвергся атаке украинских беспилотников. Движение автомобилей по сооружению временно приостановили, на месте ведутся восстановительные работы. По предварительным данным Минтранса России, пострадавших нет. «Ведомости» собрали главное о состоянии моста и действующих ",
-          "enlace": "https://www.vedomosti.ru/politics/articles/2026/11/16/1245600-chto-izvestno"
+          "titulo": "Политик бурного времени",
+          "entradilla": "Умер Михаил Полторанин, немного не доживший до 87 лет. Соратник, а затем критик Бориса Ельцина. Первый российский министр печати и массовой информации. Политик бурной первой половины 1990-х гг.",
+          "enlace": "https://www.vedomosti.ru/politics/columns/2026/11/17/1363904-politik-burnogo-vremeni"
         },
         {
-          "titulo": "Что известно об украинских атаках на Крымский мост и российские регионы",
-          "entradilla": "В ночь на 16 ноября средства ПВО ликвидировали 1336 украинских беспилотников над 17 регионами России. Атаке подвергся Крымский мост, на подлете к Москве с вечера 15 ноября сбили почти 200 БПЛА. В Краснодарском крае и в Ростовской области есть пострадавшие.",
-          "enlace": "https://www.vedomosti.ru/politics/articles/2026/11/16/1245565-chto-izvestno"
+          "titulo": "Что Рябков сказал о переговорах по Украине и позиции Москвы",
+          "entradilla": "Заместитель министра иностранных дел России Сергей Рябков 17 ноября сделал ряд заявлений о переговорах по Украине, гарантиях безопасности, возможности компромиссов и участии европейских стран в урегулировании конфликта. Дипломат также прокомментировал предстоящую встречу лидеров России, США и Китая ",
+          "enlace": "https://www.vedomosti.ru/politics/articles/2026/11/17/1392491-o-peregovorah-po-ukraine"
         },
         {
-          "titulo": "Как эксперты оценили перспективы переноса ЦОДов за рубеж",
-          "entradilla": "Операторы персональных данных попросили разрешить использовать ЦОДы вне России, сообщили «Ведомости». С учетом строгости требований к защите персональных данных и информационной безопасности рассчитывать на широкое применение этого механизма не приходится, говорит старший юрисконсульт юридической фи",
-          "enlace": "https://www.vedomosti.ru/technology/articles/2026/11/16/1245523-kak-eksperti-otsenili-perspektivi"
+          "titulo": "Экс-президент АФК «Система» Тагир Ситдеков возглавит Cosmos Hotel Group",
+          "entradilla": "Президент входящего в АФК «Система» гостиничного оператора Cosmos Hotel Group (CHG) Александр Биба уходит со своего поста. Об этом «Ведомостям» сообщил источник, близкий к компании. По его словам, на его место будет назначен бывший президент АФК «Система» Тагир Ситдеков. По словам второго собеседник",
+          "enlace": "https://www.vedomosti.ru/realty/articles/2026/11/17/1302556-eks-prezident-afk-sistema-vozglavit-cosmos"
         },
         {
-          "titulo": "Утренний звон по рынку акций 16 ноября",
-          "entradilla": "Торги на российском рынке акций в понедельник начались умеренным снижением. По состоянию на 09:15 мск индекс Мосбиржи снизился по отношению к закрытию предыдущего дня на 0,52% и составил 2498,27. Индекс РТС снизился на 0,52% и составил 958,00.",
-          "enlace": "https://www.vedomosti.ru/investments/articles/2026/11/16/1245555-utrennii-zvon"
+          "titulo": "Что известно об украинской атаке на Крымский мост",
+          "entradilla": "В ночь на 17 ноября Крымский мост подвергся повторной атаке беспилотников. Движение по автомобильной и железнодорожной частям моста временно приостановлено, повреждены конструкции объекта. «Ведомости» собрали главное о происшествии и его последствиях.",
+          "enlace": "https://www.vedomosti.ru/politics/articles/2026/11/17/1375636-o-povrezhdeniyah-krimskogo-mosta"
         },
         {
-          "titulo": "Экспортная переориентация",
-          "entradilla": "Российский экспорт в 2021–2026 гг., несмотря на санкции, следует за тенденциями, наблюдаемыми в мировой торговле. Если оценить 218 российских экспортных товаров с наибольшими объемами поставок за рубеж, то мы увидим, что по 60% из них торговая динамика совпадает с мировой. При этом темпы роста росси",
-          "enlace": "https://www.vedomosti.ru/global-ideas/columns/2026/11/16/1245505-eksportnaya-pereorientatsiya"
+          "titulo": "Россияне стали чаще оставлять чаевые сотрудникам ритейла",
+          "entradilla": "Общая сумма чаевых сотрудникам продуктовых сетей по итогам первого полугодия 2026 г. составила 19 млн руб. Такие данные приводит сервис «Нетмонет». По его данным, это на 48,9% превышает итоги аналогичного периода прошлого года. Количество же транзакций за это время увеличилось на 10,3% до 58 900 шту",
+          "enlace": "https://www.vedomosti.ru/business/articles/2026/11/17/1281323-chasche-ostavlyat-chaevie"
         },
         {
-          "titulo": "Операторы попросили разрешить использовать ЦОДы вне России",
-          "entradilla": "Ряд провайдеров центров обработки данных (ЦОД) и крупнейших операторов персональных данных в начале ноября обратились к профильным ведомствам c просьбой разрешить им временно использовать вычислительные мощности за пределами России для поддержки работы российских информационных систем. Таким образом",
-          "enlace": "https://www.vedomosti.ru/technology/articles/2026/11/16/1245499-operatori-poprosili"
+          "titulo": "Консенсус «Ведомостей»: выручка МТС за 9 месяцев вырастет на 10,3%",
+          "entradilla": "Выручка ПАО МТС по международным стандартам финансовой отчетности (МСФО) за 9 месяцев 2026 г. составит 645 млрд руб., следует из консенсус-прогноза «Ведомостей», подготовленного на основе оценок восьми инвесткомпаний и банков. По сравнению с аналогичным периодом 2025 г. (584,7 млрд руб.) показатель ",
+          "enlace": "https://www.vedomosti.ru/investments/articles/2026/11/17/1379613-viruchka-mts"
         },
         {
-          "titulo": "Власти концептуально согласовали реформу территориального планирования",
-          "entradilla": "Минстрой подготовил проект поправок в Градостроительный кодекс, вводящий в правовое поле мастер-планы развития территорий. Это новый документ стратегического территориального планирования, который регионы будут разрабатывать на 6–12 лет – он объединит генплан и стратегию социально-экономического раз",
-          "enlace": "https://www.vedomosti.ru/economics/articles/2026/11/16/1245498-vlasti-kontseptualno-soglasovali-reformu"
+          "titulo": "Что известно о предотвращении операции украинских спецслужб на юге России",
+          "entradilla": "ФСБ России сообщила о завершении операции по противодействию террористической деятельности украинских спецслужб, длившейся с начала 2026 г., передает ТАСС со ссылкой на данные Центра общественных связей (ЦОС) ведомства. Речь идет о подготовке серии масштабных атак дронов на военные аэродромы на юге ",
+          "enlace": "https://www.vedomosti.ru/society/articles/2026/11/17/1370286-chto-izvestno"
         },
         {
-          "titulo": "Как «Талибан» принял вице-премьера России Алексея Оверчука в Кабуле",
-          "entradilla": "Цивилизационную пропасть между Кабулом и Москвой Ил-96 специального летного отряда «Россия» преодолевает почти за пять часов – время следования поезда до Смоленска. В 2025 г. Россия стала первой и единственной признавшей действующее с 2021 г. правительство «Талибана» в Афганистане, но прямых российс",
-          "enlace": "https://www.vedomosti.ru/politics/articles/2026/11/16/1245504-kak-taliban-prinyal-overchuka-v-kabule"
+          "titulo": "Утренний звон по рынку акций 17 ноября",
+          "entradilla": "Торги на российском рынке акций во вторник начались продолжением падения. По состоянию на 09:15 мск индекс Мосбиржи снизился по отношению к закрытию предыдущего дня на 0,86% и составил 2455,59. Индекс РТС снизился на 0,86% и составил 937,49.",
+          "enlace": "https://www.vedomosti.ru/investments/articles/2026/11/17/1368261-utrennii-zvon"
         }
       ],
       "analisis": {
-        "resumen": "- Putin participará en la cumbre de APEC; su asistencia al G20 se decidirá después.\n- Ataques ucranianos con drones afectaron al puente de Crimea y a varias regiones; hay heridos en algunas de ellas.\n- La Duma aplazó el proyecto de venta de vino ruso por internet.\n- Operadores solicitaron usar centros de datos en el extranjero; las autoridades respaldaron una reforma de planificación territorial.\n- La portada también aborda los mercados, las exportaciones y la visita del viceprimer ministro ruso a Kabul.",
-        "populismo": 8,
-        "motivo_populismo": "Los titulares son mayoritariamente descriptivos y evitan descalificaciones, apelaciones al pueblo o fórmulas de confrontación explícita.",
-        "sesgo": "Predomina un enfoque ruso e institucional, con atención a la agenda presidencial, las autoridades y los efectos de los ataques ucranianos. La selección combina estos temas con noticias económicas y regulatorias."
+        "resumen": "- Lavrov y Riabkov abordaron las negociaciones sobre Ucrania y la prevista reunión de los líderes de Rusia, Estados Unidos y China.\n- Un ataque con drones dañó estructuras del puente de Crimea; la FSB informó de una operación contra supuestos planes de ataque ucranianos en el sur de Rusia.\n- La Duma aprobó en primera lectura un proyecto para promover en la publicidad la imagen de familias con tres o más hijos.\n- Un responsable sanitario afirmó que el 5,6 % de los nacimientos en Rusia en 2025 fueron prematuros; también se destaca la cooperación tecnológica entre Rusia y África.\n- En economía, se informa de cambios en Cosmos Hotel Group, más propinas en el comercio, una previsión de crecimiento de ingresos para MTS y caídas en la bolsa rusa.",
+        "populismo": 12,
+        "motivo_populismo": "Los titulares son mayormente informativos; expresiones valorativas como «uno de los mejores resultados del mundo» y «político de tiempos convulsos» aportan cierta intensidad, pero no muestran descalificaciones ni apelaciones al pueblo contra las élites.",
+        "sesgo": "La selección sobre diplomacia y seguridad se apoya principalmente en declaraciones de autoridades rusas, sin que en los textos facilitados aparezcan otras perspectivas. También destacan asuntos presentados en clave positiva para Rusia, como la natalidad y la cooperación con África."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://meduza.io",
       "noticias": [
         {
-          "titulo": "Умер «босс боссов» мексиканской мафии Феликс Гальярдо. Он помог Пабло Эскобару наладить поставки кокаина в США и стал героем сериала Netflix",
-          "entradilla": "В Мексике в возрасте 80 лет умер Мигель Анхель Феликс Гальярдо — один из крупнейших наркоторговцев в истории, известный под прозвищами «крестный отец» и «босс боссов». Он скончался в больнице города Гвадалахара.",
-          "enlace": "https://meduza.io/feature/2026/11/16/umer-boss-bossov-meksikanskoy-mafii-feliks-galyardo"
+          "titulo": "Почему Паттинсон? . Если вам не дает покоя вопрос о назначении нового Джеймса Бонда, этот текст для вас",
+          "entradilla": "16 ноября стало известно, что нового Джеймса Бонда сыграет британский актер Роберт Паттинсон — сообщение «личность подтверждена» появилось в соцсетях фильма. Он будет первым Бондом, фильм о котором выпустит техногигант: в 2025 году продюсер Барбара Брокколи, дочь основателя франшизы, долгие годы раб",
+          "enlace": "https://meduza.io/feature/2026/11/17/pochemu-pattinson"
         },
         {
-          "titulo": "ФСБ отчиталась о задержании женщины, причастной к взрыву автомобиля разведчика Сергея Заворотного. На допросе она заявила, что стала жертвой мошенников",
-          "entradilla": "Федеральная служба безопасности сообщила, что в Москве задержана женщина, подозреваемая в причастности к подрыву автомобиля Сергея Заворотного — российского разведчика и бывшего помощника Николая Азарова (он был премьер-министром Украины в правительстве Виктора Януковича).",
-          "enlace": "https://meduza.io/news/2026/11/16/fsb-otchitalas-o-zaderzhanii-zhenschiny-prichastnoy-k-vzryvu-avtomobilya-razvedchika-sergeya-zavorotnogo-na-doprose-ona-zayavila-chto-stala-zhertvoy-moshennikov"
+          "titulo": "В Кемеровской области разбился военно-транспортный самолет. По предварительным данным, все находившиеся на борту погибли",
+          "entradilla": "Военный самолет Ан-12 разбился возле поселка Ягуново в Кемеровской области, сообщил телеграм-канал «112». Воздушное судно загорелось во время полета, пишет Baza.",
+          "enlace": "https://meduza.io/news/2026/11/17/v-kemerovskoy-oblasti-razbilsya-voennyy-samolet"
         },
         {
-          "titulo": "Европейские страны заявили о растущем риске ядерной аварии в Украине. Они призвали Россию прекратить удары по украинским энергообъектам",
-          "entradilla": "Риск ядерной аварии в Украине этой зимой растет из-за усиления российских ударов по энергетической инфраструктуре страны, пишет Reuters.",
-          "enlace": "https://meduza.io/news/2026/11/16/evropeyskie-strany-zayavili-o-rastuschem-riske-yadernoy-avarii-v-ukraine-oni-prizvali-rossiyu-prekratit-udary-po-ukrainskim-energoob-ektam"
+          "titulo": "Президент Эстонии призвала не закрывать границу с Россией под влиянием эмоций",
+          "entradilla": "Президент Эстонии Улле Мадизе призвала правительство оценить последствия закрытия границы с Россией и не принимать решение под влиянием эмоций.",
+          "enlace": "https://meduza.io/news/2026/11/17/prezident-estonii-prizvala-ne-zakryvat-granitsu-s-rossiey-pod-vliyaniem-emotsiy"
         },
         {
-          "titulo": "В Иордании и Ираке заблокировали телеграм",
-          "entradilla": "Власти Иордании заблокировали доступ в телеграм, пояснив, что мессенджер могут использовать для распространения «экстремизма и радикализма».",
-          "enlace": "https://meduza.io/news/2026/11/16/v-iordanii-i-irake-zablokirovali-telegram"
+          "titulo": "«Ребята, кто живет под обстрелами, запишите голосовое о вашей жизни. Это важно услышать всем остальным», — написал Макс Корж. Ему скинули 1600 голосовых сообщений. Вот некоторые из них",
+          "entradilla": "12 ноября музыкант Макс Корж опубликовал в своем телеграм-канале (246 тысяч подписчиков) такой призыв: «Ребята, кто живет под обстрелами, близко от войны, или в самой войне, запишите голосовое о вашей жизни. Голосовое, потому что текстовые комментарии в мире ботов уже не воспринимаются как живые люд",
+          "enlace": "https://meduza.io/feature/2026/11/17/rebyata-kto-zhivet-pod-obstrelami-zapishite-golosovoe-o-vashey-zhizni-eto-vazhno-uslyshat-vsem-ostalnym-napisal-maks-korzh"
         },
         {
-          "titulo": "Катерина Гордеева перевела мемуары Зинаиды Башкировой — русской эмигрантки в Ирландии, родственницы князя Юсупова, бабушки, которую она никогда не знала. А мы выпустили эту книгу в издательстве «Медузы». Она называется «Самые длинные ночи». Предзаказ уже открыт",
-          "entradilla": "Любимая родственница князя Феликса Юсупова, знакомая с императрицей Александрой Федоровной, Зинаида Башкирова, казалось, с рождения готовилась к блестящей светской жизни. Но этим планам не суждено было сбыться. После революции и прихода к власти большевиков Башкировой пришлось бежать из страны — к ч",
-          "enlace": "https://meduza.io/feature/2026/11/16/katerina-gordeeva-perevela-memuary-zinaidy-bashkirovoy-russkoy-emigrantki-v-irlandii-rodstvennitsy-knyazya-yusupova-babushki-kotoruyu-ona-nikogda-ne-znala"
+          "titulo": "Госдума решила повысить предельный возраст воинской службы для женщин. Законопроект приняли в первом чтении",
+          "entradilla": "Госдума приняла в первом чтении законопроект об увеличении предельного возраста для женщин на военной службе.",
+          "enlace": "https://meduza.io/news/2026/11/17/gosduma-reshila-povysit-predelnyy-vozrast-voinskoy-sluzhby-dlya-zhenschin-zakonoproekt-prinyali-v-pervom-chtenii"
         },
         {
-          "titulo": "Эстония закрывает сухопутную границу с Россией из-за диверсии. Правительство готовится управлять государством через облачные сервисы — на случай российской оккупации",
-          "entradilla": "Эстония намерена с 1 декабря закрыть все действующие пограничные переходы с Россией. Такое решение принято после попытки диверсии против оборонной компании Threod Systems, выпускающей беспилотники.",
-          "enlace": "https://meduza.io/feature/2026/11/16/estoniya-zakryvaet-suhoputnuyu-granitsu-s-rossiey-iz-za-diversii"
+          "titulo": "Хакеры взломали сайт Международной федерации хоккея и вывесили там баннер: «Испугались встретиться с Россией?»",
+          "entradilla": "Хакеры взломали сайт Международной федерации хоккея (IIHF), сообщает шведское издание SVT.",
+          "enlace": "https://meduza.io/news/2026/11/17/hakery-vzlomali-sayt-mezhdunarodnoy-federatsii-hokkeya-i-vyvesili-tam-banner-ispugalis-vstretitsya-s-rossiey"
         },
         {
-          "titulo": "Под новые санкции ЕС попали крупнейшие российские НПЗ, «ЮMoney» и больше 40 банков",
-          "entradilla": "Евросоюз расширил санкционный список против России, включив в него в том числе нефтеперерабатывающие и нефтехимические заводы и предприятия, а также десятки банков. Соответствующий документ опубликовал в журнале ЕС.",
-          "enlace": "https://meduza.io/news/2026/11/16/pod-novye-sanktsii-es-popali-krupneyshie-rossiyskie-npz-yumoney-i-bolshe-40-bankov"
+          "titulo": "Группа судмедэкспертов утверждает, что смерть Джеффри Эпштейна — это убийство. Исследователи изучили новые материалы дела, переданные его братом. Власти уверены, что оснований для пересмотра официальной версии нет",
+          "entradilla": "Группа экспертов под руководством главного редактора издания Journal of Forensic and Legal Medicine Майкла Фримена поставила под сомнение официальное заключение о смерти финансиста Джеффри Эпштейна. Будучи обвиняемым в торговле людьми с целью сексуализированной эксплуатации, он погиб в камере в тюрь",
+          "enlace": "https://meduza.io/feature/2026/11/17/gruppa-sudmedekspertov-utverzhdaet-chto-smert-dzheffri-epshteyna-eto-ubiystvo"
         },
         {
-          "titulo": "Война. 1727-й день. Украина атаковала Крымский мост, автомобильное движение по нему закрыто. «Происходит оценка незначительных повреждений», — заявили в Кремле",
-          "entradilla": "«Медуза» с 24 февраля 2022 года в прямом эфире рассказывает о российско-украинской войне. Мы ежедневно публикуем ваши письма, потому что уверены: о войне нужно продолжать говорить. Поделитесь с нами мыслями о войне. Какие чувства вы испытываете? Как война влияет на вашу жизнь и ваше отношение к миру",
-          "enlace": "https://meduza.io/feature/2026/11/16/voyna"
+          "titulo": "Зять Путина возглавил дочернюю компанию «Новатэка», которая займется поиском полезных ископаемых",
+          "entradilla": "Евгений Нагорный — муж дочери Путина Марии Воронцовой — возглавил дочернюю компанию «Новатэка», которая будет заниматься изучением недр и геологоразведкой. Соответствующие данные проект «Можем объяснить» обнаружил в ЕГРЮЛ.",
+          "enlace": "https://meduza.io/news/2026/11/17/zyat-putina-vozglavil-dochernyuyu-kompaniyu-novateka-kotoraya-zaymetsya-poiskom-poleznyh-iskopaemyh"
         },
         {
-          "titulo": "Новые подробности атаки на порт Усть-Луга: сгорели пять резервуаров с топливом. А возможно, еще три вертолета и корабль. «МК» утверждает, что после этого в Совбезе РФ якобы решили убить Зеленского",
-          "entradilla": "Не менее пяти резервуаров с топливом уничтожены в результате атаки Украины на порт Усть-Луга в Ленинградской области. Об этом свидетельствуют спутниковые снимки, опубликованные 15 ноября «Радио Свобода».",
-          "enlace": "https://meduza.io/feature/2026/11/16/novye-podrobnosti-ataki-na-port-ust-luga-sgoreli-pyat-rezervuarov-s-toplivom-a-vozmozhno-esche-tri-vertoleta-i-korabl"
+          "titulo": "Правительство предложило при банкротстве не изымать у участников войны имущество на сумму до 10 миллионов рублей",
+          "entradilla": "Правительство внесло в Госдуму законопроект об особом порядке банкротства участников войны (мобилизованных и заключивших контракт).",
+          "enlace": "https://meduza.io/news/2026/11/17/pravitelstvo-predlozhilo-pri-bankrotstve-ne-izymat-u-uchastnikov-voyny-imuschestvo-na-summu-do-10-millionov-rubley"
         },
         {
-          "titulo": "Юлии Галяминой назначили штраф по статье о неповиновении силовикам. Ее задержали в Казани и почти двое суток держали в полиции",
-          "entradilla": "Вахитовский районный суд Казани назначил политику Юлии Галяминой штраф в две тысячи рублей по статье о неповиновении полиции (статья 19.3 КоАП), сообщил проект «Слово защите».",
-          "enlace": "https://meduza.io/news/2026/11/16/yulii-galyaminoy-naznachili-shtraf-po-statie-o-nepovinovenii-silovikam-ee-zaderzhali-v-kazani-i-pochti-dvoe-sutok-derzhali-v-politsii"
+          "titulo": "Австрия рассматривает возможность лишить гражданства бывшую главу МИД страны Карин Кнайсль (она танцевала с Путиным на своей свадьбе и уехала в Россию)",
+          "entradilla": "Власти Австрии рассматривают возможность лишить гражданства бывшую главу МИД Карин Кнайсль. Миграционный департамент магистрата Вены проверяет, не утратила ли Кнайсль, уехавшая несколько лет назад в Россию, право на гражданство, пишет Kronen Zeitung.",
+          "enlace": "https://meduza.io/news/2026/11/17/avstriya-rassmatrivaet-vozmozhnost-lishit-grazhdanstva-byvshuyu-glavu-mid-strany-karin-knaysl-ona-tantsevala-s-putinym-na-svoey-svadbe-i-uehala-v-rossiyu"
         },
         {
-          "titulo": "ЕС ввел санкции против Татьяны Ким. В Wildberries ответили, что это не скажется на работе компании",
-          "entradilla": "В новый санкционный список Евросоюз включат основательницу Wildberreis Татьяну Ким, сообщил министр иностранных дел Франции Жан-Ноэль Барро.",
-          "enlace": "https://meduza.io/news/2026/11/16/es-vvedet-sanktsii-protiv-tatyany-kim-v-wildberries-otvetili-chto-eto-ne-skazhetsya-na-rabote-kompanii"
+          "titulo": "Журналиста Андрея Солдатова заочно приговорили к 10 годам колонии. Он писал о чистках в ФСБ после начала войны",
+          "entradilla": "Суд в Москве заочно приговорил журналиста и главного редактора Agentura.ru Андрея Солдатова к 10 годам лишения свободы по делу о распространении «фейков» о российской армии (пункт «д» часть 2 статьи 207.3), сообщили в московской прокуратуре.",
+          "enlace": "https://meduza.io/news/2026/11/17/zhurnalista-andreya-soldatova-zaochno-prigovorili-10-godam-kolonii-po-delu-o-feykah-pro-armiyu"
         },
         {
-          "titulo": "Жерар Депардье не стал оспаривать приговор о сексуализированном насилии и извинился перед пострадавшими",
-          "entradilla": "Французский актер Жерар Депардье отозвал апелляцию на приговор, вынесенный ему в 2025 году по делу о сексуализированном насилии. Он также признал вину и извинился перед пострадавшими, сообщает Reuters.",
-          "enlace": "https://meduza.io/news/2026/11/16/zherar-depardie-ne-stal-osparivat-prigovor-o-seksualizirovannom-nasilii-i-izvinilsya-pered-postradavshimi"
+          "titulo": "Силовики пришли к людям, которые донатили в рублях марафону в поддержку политзэков в 2023 году. Они приравнивают такие пожертвования к финансированию ФБК. Что делать, если вы в зоне риска?",
+          "entradilla": "В России были возбуждены как минимум два уголовных дела против людей, донативших марафону в поддержку политических заключенных «Ты не один» с рублевых карт 12 июня 2023 года.",
+          "enlace": "https://meduza.io/cards/siloviki-prishli-k-lyudyam-kotorye-donatili-v-rublyah-marafonu-v-podderzhku-politzekov-v-2023-godu-oni-priravnivayut-takie-pozhertvovaniya-k-finansirovaniyu-fbk"
         }
       ],
       "analisis": {
-        "resumen": "- Guerra en Ucrania: ataque al puente de Crimea y nuevos detalles sobre los daños en el puerto de Ust-Luga.\n- Países europeos alertan del riesgo de accidente nuclear y piden a Rusia que cese los ataques contra la infraestructura energética ucraniana.\n- Estonia cerrará sus pasos fronterizos con Rusia; la UE amplía las sanciones contra entidades rusas y Tatiana Kim.\n- La FSB informa de una detención por el atentado contra el coche de un exagente; la política Yulia Galyamina recibe una multa tras ser detenida.\n- Muere el narcotraficante mexicano Félix Gallardo, se bloquea Telegram en Jordania e Irak y Gérard Depardieu retira su apelación y pide disculpas.",
-        "populismo": 18,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «riesgo nuclear creciente» o la supuesta decisión de «matar a Zelenski» aportan dramatismo; esta última se presenta como una afirmación atribuida y no confirmada.",
-        "sesgo": "La selección destaca la guerra, sus consecuencias y medidas contra Rusia, con atención a los ataques rusos y a actuaciones de las autoridades. También recoge declaraciones del Kremlin y otras versiones atribuidas."
+        "resumen": "- Robert Pattinson será el nuevo James Bond.\n- Un avión militar se estrelló en Kémerovo; según datos preliminares, murieron todos los ocupantes.\n- La presidenta de Estonia pide evaluar las consecuencias de cerrar la frontera con Rusia; se recogen testimonios de personas que viven bajo bombardeos.\n- La Duma estudia elevar la edad máxima de servicio militar para las mujeres y un régimen especial de quiebra para participantes en la guerra.\n- Se informa de la condena de un periodista, de causas contra donantes a presos políticos y de un cargo empresarial para el yerno de Putin.",
+        "populismo": 20,
+        "motivo_populismo": "Predomina un tono informativo, aunque aparecen recursos emocionales en los testimonios de personas bajo bombardeos y una pregunta provocadora en el mensaje de los hackers: «¿Temieron enfrentarse a Rusia?».",
+        "sesgo": "La selección presta especial atención a la guerra, sus consecuencias y las actuaciones de las autoridades rusas, incluidas noticias sobre condenas y vínculos familiares de Putin. También incorpora asuntos internacionales, culturales y deportivos."
       }
     }
   ]
