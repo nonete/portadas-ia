@@ -1,39 +1,39 @@
 {
   "pais": "Alemania",
-  "fecha": "2026-11-18",
+  "fecha": "2026-11-19",
   "turno": 8,
-  "generado": "18/11/2026 16:09",
+  "generado": "19/11/2026 16:18",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "La rebaja del impuesto sobre la electricidad y las negociaciones de la coalición aparecen en cuatro periódicos. También se repiten la cumbre de Shenzhen con Xi, Trump y Putin, el lanzamiento de GTA 6 y el control federal de la red ferroviaria. Solo taz destaca la misión para retirar basura espacial.",
-    "crispacion": 65,
-    "motivo_crispacion": "La negociación del impuesto eléctrico refleja tensión entre la Unión y el SPD, así como críticas dentro de la propia Unión. También hay enfrentamiento entre Merz y la AfD por sus declaraciones sobre la «remigración», además de protestas y disturbios en Hamburgo. En el plano internacional, las sanciones a Rusia y la guerra en Yemen añaden tensión al conjunto. Noticias sobre videojuegos, salud, deporte y exploración espacial equilibran parcialmente la portada del día."
+    "temas": "La cumbre de Xi, Trump y Putin en Shenzhen aparece en los cinco periódicos, con atención a sus escasos resultados y a la guerra de Ucrania. También se repiten las exigencias laborales de Volkswagen, la salida a bolsa de Anthropic, la controversia sobre Claudia Roth y el lanzamiento de GTA 6. Entre los temas presentes en una sola portada, la taz aborda la nueva definición de obesidad.",
+    "crispacion": 67,
+    "motivo_crispacion": "La tensión es notable por las amenazas de Putin a Ucrania tras la cumbre y por las discrepancias europeas sobre la financiación de Kiev. En Alemania destacan las críticas a las exigencias salariales de Volkswagen, el debate sobre la relación de la FDP con AfD y la controversia entre Claudia Roth y el Consejo Central de los Judíos. También generan fricción el intento de deportación desde un refugio eclesiástico y las acusaciones de racismo en Bremen. Compensan parcialmente estas noticias las informaciones sobre deporte, videojuegos, salud y cultura."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Hoy veo con claridad la lucha de clases en las prioridades presupuestarias. Múnich recorta 41 millones de euros en proyectos sociales que incluyen centros juveniles y cuidados a domicilio. No son cifras abstractas: son servicios de los que depende la vida cotidiana de la clase trabajadora. Yo defiendo financiarlos con impuestos progresivos sobre la riqueza y los beneficios del gran capital.\n\nTambién celebro que una inquilina haya recuperado 58.000 euros por el incumplimiento del límite al alquiler. Pero no basta con reparar abusos caso por caso: necesitamos vivienda pública y colectiva que sustraiga hogares a la especulación.\n\nLos 83.000 millones anunciados para la red ferroviaria muestran que existen recursos para invertir. Quiero que esa inversión sirva a un transporte público fiable, bajo control democrático, y no a la rentabilidad privada."
+      "texto": "Hoy veo la lucha de clases en dos titulares: Volkswagen plantea congelar salarios y cuestionar la semana de 35 horas, mientras una gran donación patrimonial apenas habría tributado, según las investigaciones citadas por la prensa. A quienes trabajan se les pide aceptar más esfuerzo y menos derechos; a las grandes fortunas, el sistema les permite conservar sus privilegios.\n\nNo creo que la competitividad justifique hacer recaer la crisis sobre la plantilla. Defiendo la negociación colectiva y la organización sindical, pero también una transformación más profunda: propiedad colectiva de sectores estratégicos y decisiones económicas sometidas al control democrático de quienes producen y de la sociedad. Una fiscalidad justa sobre las grandes fortunas debe sostener unos servicios públicos universales. La riqueza es fruto del trabajo social; sus beneficios no deberían quedar concentrados en unas pocas manos."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "Los recortes de 41 millones de euros en proyectos sociales de Múnich revelan una jerarquía de prioridades que rechazo: centros juveniles y cuidados quedan a merced de negociaciones en las que quienes los necesitan apenas deciden. No quiero que el apoyo mutuo sea una excusa para abandonar esos servicios; quiero que quienes los sostienen y utilizan controlen sus recursos y su organización.\n\nLa devolución de 58.000 euros a una inquilina muestra que plantar cara puede dar resultados. Pero depender de que cada persona gane su pleito deja intacta la desigualdad de poder entre propietarios e inquilinos. Prefiero sindicatos de inquilinos, cooperación y vivienda gestionada colectivamente.\n\nTambién rechazo que el Gobierno negocie con autoridades talibanas para hacer posibles deportaciones a Afganistán. Ningún partido debería decidir sobre la libertad de una persona atendiendo primero a la conveniencia del Estado."
+      "texto": "Veo el mismo reparto de poder en noticias muy distintas. Volkswagen pide congelar salarios y recortar la jornada de 35 horas: quienes trabajan deben asumir el coste de decisiones que no controlan. No espero que un partido les regale justicia; confío más en su organización independiente, su solidaridad y su capacidad de decidir colectivamente cómo y para quién producir.\n\nEn Bremerhaven, la policía forzó la puerta de una iglesia durante un intento fallido de deportación. Frente a esa autoridad, el refugio ofrecido por una comunidad expresa otra idea de responsabilidad: cuidar a una persona sin reducirla a un expediente.\n\nTambién la expansión de centros de datos debería depender del consentimiento de quienes viven cerca, no solo de inversores o gobiernos. Para mí, la libertad no consiste en elegir entre obedecer al Estado o al mercado, sino en construir juntos alternativas sin amos."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "Celebro la rebaja del impuesto eléctrico: el dinero que ganan las familias y las empresas debe permanecer, en la mayor medida posible, en sus manos. Pero una reducción temporal ofrece menos certidumbre que un compromiso duradero con impuestos bajos y un gasto público contenido. En cambio, el tope al precio del combustible me parece una mala respuesta: distorsiona las señales del mercado sin garantizar que los conductores paguen menos.\n\nLos recortes sociales en Múnich recuerdan que limitar el Estado exige establecer prioridades, no recortar a ciegas. Yo protegería a quienes realmente necesitan ayuda, mientras abriría más espacio a la iniciativa privada y a la responsabilidad personal. Y un mercado libre requiere reglas fiables: la sentencia contra la subida unilateral de precios de Dazn defiende algo esencial, el cumplimiento de los contratos."
+      "texto": "La transformación de Shenzhen recuerda por qué defiendo la apertura económica: cuando las personas pueden comerciar, invertir y emprender, crean oportunidades que ningún plan estatal puede diseñar desde un despacho. Las fotografías de la cumbre, sin acuerdos concretos, valen mucho menos que unas reglas estables y el intercambio libre.\n\nTambién creo que el debate alemán sobre herencias y donaciones apunta a un problema real: un sistema que permite grandes ventajas a quienes pueden aprovechar sus resquicios erosiona la igualdad ante la ley. Mi respuesta no es subir indiscriminadamente los impuestos, sino establecer tasas bajas, reglas sencillas y eliminar privilegios. Y ante las exigencias salariales de Volkswagen, prefiero una negociación libre y responsable entre empresa y trabajadores a soluciones dictadas por el Gobierno. La competitividad importa, pero también el derecho de los empleados a defender sus condiciones."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Hoy veo un país que debe volver a decidir sus prioridades. Múnich recorta proyectos para jóvenes y servicios de atención a mayores, mientras la Comisión Europea propone nuevos créditos para Ucrania. Yo creo que el Gobierno debe defender primero a sus ciudadanos y resistirse a comprometer recursos mediante deuda europea sin un control nacional efectivo.\n\nTambién apoyo un control migratorio estricto. Los planes de Alemania para un centro de deportación en Ruanda merecen un debate serio: el Estado debe poder hacer cumplir sus decisiones y desalentar la inmigración irregular, con garantías legales. Una frontera que no se controla deja de ser una frontera.\n\nCelebro, por último, que se exija más responsabilidad a la compañía ferroviaria a cambio de la inversión pública. Mi idea de soberanía no es una consigna: significa seguridad, familias protegidas y gobiernos que respondan ante su nación."
+      "texto": "Me preocupa que Alemania esté aprendiendo a convivir con lo que debería combatir. El mercado navideño de Magdeburgo abrirá protegido por cientos de bolardos: agradezco la precaución, pero una tradición no debería necesitar una fortaleza para sobrevivir. La seguridad exige prevención y un Estado capaz de hacer cumplir sus leyes.\n\nPor eso defiendo un control estricto de la inmigración y la ejecución de las expulsiones legalmente autorizadas, con garantías judiciales. El asilo religioso merece respeto, pero no puede convertirse en una excepción permanente a la ley.\n\nTambién desconfío de una clase política que busca comprometer financiación a largo plazo para Ucrania mientras Volkswagen plantea congelaciones salariales y recortes a sus trabajadores. No niego la importancia de Ucrania, pero exijo que Alemania preserve su capacidad de decisión y anteponga la seguridad y la prosperidad de su propia población."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Me preocupa que Múnich recorte 41 millones de euros en proyectos sociales mientras hogares y servicios afrontan presiones económicas. La disciplina presupuestaria importa, pero no debería medirse solo por el ahorro inmediato: cerrar espacios juveniles o reducir cuidados puede trasladar costes a las familias y al futuro. Yo revisaría prioridades y protegería primero a quienes tienen menos margen.\n\nTambién veo motivos para un consenso práctico. La inversión en la red ferroviaria debe ir acompañada de controles y sanciones exigibles: gastar más no basta si no se obtienen resultados. La rebaja del impuesto eléctrico puede aliviar a hogares y empresas, pero habrá que evaluar su coste y sus efectos. Y la sentencia que devuelve 58.000 euros a una inquilina demuestra que las normas deben cumplirse; para mejorar de forma duradera el acceso a la vivienda, además, necesitamos ampliar la oferta."
+      "texto": "Las imágenes de la cumbre de Shenzhen no sustituyen a acuerdos concretos. Me preocupa especialmente que se hable de la paz en Ucrania sin que Europa quede relegada a escuchar decisiones ajenas. Apoyar a Ucrania de forma duradera exige financiación creíble, pero también deliberación y consenso dentro de la Unión Europea. La diplomacia es indispensable; no debe confundirse con aceptar cualquier acuerdo.\n\nEn casa, las exigencias de Volkswagen muestran otra tensión: una empresa necesita competitividad, pero pedir más trabajo y congelar salarios no puede ser la única respuesta a una crisis. Confío más en la negociación colectiva que en imponer el coste del ajuste a los trabajadores. Y si queremos sostener una economía abierta, también debemos corregir privilegios fiscales en herencias y donaciones: las reglas justas fortalecen tanto la confianza en el mercado como la protección social."
     }
   ],
   "periodicos": [
@@ -42,71 +42,71 @@
       "web": "https://www.sueddeutsche.de",
       "noticias": [
         {
-          "titulo": "Dem Geheimnis auf der Spur: Warum galt die Katze als teuflisches Tier?",
-          "entradilla": "Im Mittelalter hatte das Haustier noch ein gutes Ansehen. Warum sich das änderte und was es mit dem Frauenbild der frühen Neuzeit zu tun hatte.",
-          "enlace": "https://www.sueddeutsche.de/reise/mittelalter-hexen-ketzer-katzen-wort-ursprung-li.3578334"
+          "titulo": "Vincent Kompany und Jamal Musiala: Zwei Patienten, zwei Geschichten, ein Comeback",
+          "entradilla": "Bayern-Trainer Vincent Kompany ist nach seiner Hirnhautreizung mit Arm in der Schlinge zurück auf der Bank – und spricht auch über die anstehende Rückkehr von Jamal Musiala. Doch dessen Fall ist ungleich komplizierter.",
+          "enlace": "https://www.sueddeutsche.de/sport/kompany-rueckkehr-koeln-fc-bayern-li.3582990"
         },
         {
-          "titulo": "Axel-Springer-Verlag: Armer Kerl",
-          "entradilla": "Wie Mathias Döpfner mal so bedürftig war, dass er keine Steuern mehr zahlen konnte. Und was „Bild“ und Deutsche Bank darunter verstehen, wenn es heißt: „Wir haben nichts zu verbergen!“",
-          "enlace": "https://www.sueddeutsche.de/medien/mathias-doepfner-deutsche-bank-leaks-interview-springer-bild-welt-li.3582465"
+          "titulo": "Denkmal: Ein wenig wie die Stacheln zur Taubenabwehr",
+          "entradilla": "Oder doch wie ein Pantherkäfig mit tausend Stäben? Der Entwurf des Denkmals zu Ehren der SED-Opfer zeigt das Problem der modernen Erinnerungskunst und ihrer Abstraktionsbemühungen.",
+          "enlace": "https://www.sueddeutsche.de/kultur/sed-opfer-berlin-erinnerungskunst-einheitsdenkmal-li.3582868"
         },
         {
-          "titulo": "Sparmaßnahmen in München: 41 Millionen Euro weniger: Das ist die Sozial-Streichliste der Stadt",
-          "entradilla": "Kindertreffs und Jugendzentren, aber auch ambulante Pflegedienste: Nach monatelangen Verhandlungen ist nun klar, welche ihrer mehr als 800 Sozialprojekte die Stadt kürzt oder ganz streicht.",
-          "enlace": "https://www.sueddeutsche.de/muenchen/muenchen-haushalt-sozial-sparen-liste-kuerzen-li.3579566"
+          "titulo": "Geldanlage: „Der Börsengang von Anthropic ist Segen und Fluch zugleich“",
+          "entradilla": "Anthropic kann beim Börsenstart mehr Geld einsammeln als erwartet. Nun wächst die Hoffnung, dass auch Aktien anderer Tech-Unternehmen bei Anlegern wieder beliebter werden.",
+          "enlace": "https://www.sueddeutsche.de/wirtschaft/anthropic-boersengang-ki-aktien-tech-unternehmen-nasdaq-li.3582964"
         },
         {
-          "titulo": "Spritpreise: Das Problem mit dem Deckel",
-          "entradilla": "Union und SPD einigen sich auf einen Spritpreisdeckel, aber zunächst lediglich für drei Monate. Unklar ist, ob die Preise an den Tankstellen dadurch wirklich sinken.",
-          "enlace": "https://www.sueddeutsche.de/wirtschaft/spritpreisdeckel-tankrabatt-benzinpreis-diesel-koalition-einschaetzung-experten-li.3582423"
+          "titulo": "„GTA 6“: Ja, Videospiele sind Kunst",
+          "entradilla": "„Grand Theft Auto 6“ wurde von Millionen Spielern sehnsüchtig erwartet. Und macht mit seiner eindrucksvollen Welt klar, dass die Möglichkeiten dieses Mediums fast endlos sind.",
+          "enlace": "https://www.sueddeutsche.de/meinung/gta-6-videospiele-kunst-kommentar-games-kommentar-li.3582609"
         },
         {
-          "titulo": "Versteigerung im Louvre: Mercedes verkauft erstmals legendären Prototypen aus den Siebzigern",
-          "entradilla": "Im Februar kommt einer der 13 verbliebenen Wagen des Prototypen C111 auf den Markt. Den Erlös will der Konzern in sein Museum stecken.",
-          "enlace": "https://www.sueddeutsche.de/wirtschaft/fluegeltuerer-c111-herbert-von-karajan-playboy-sportwagen-li.3582315"
+          "titulo": "Aktuelles Lexikon: Was ist Shenzhen?",
+          "entradilla": "Aus einer Ansammlung von Dörfern wurde eine Millionenmetropole. Beim Apec-Gipfel soll Shenzhen nun zeigen, was wirtschaftliche Öffnung bewirken kann. Ausgerechnet in Zeiten, in denen der Freihandel unter Druck steht.",
+          "enlace": "https://www.sueddeutsche.de/meinung/shenzhen-china-apec-gipfel-freihandel-sonderwirtschaftszone-li.3582960"
         },
         {
-          "titulo": "München: Dieses Urteil bedeutet: Wehrt euch, Mieter",
-          "entradilla": "Eine Frau bekommt 58 000 Euro zurück, weil die Preisbremse nicht beachtet wurde. Was für ein schöner Erfolg in einer Stadt mit einem wilden Wohnungsmarkt. Um diesen zu regulieren, braucht es aber noch etwas anderes.",
-          "enlace": "https://www.sueddeutsche.de/meinung/muenchen-urteil-mietpreisbremse-kommentar-li.3582312"
+          "titulo": "Lateinamerika: El Salvador schickt Truppen nach Haiti – und die Haitianer freuen sich",
+          "entradilla": "El Salvadors Hardliner-Präsident Nayib Bukele lässt seine Soldaten jetzt Jagd auf Banden in Haiti machen. „Ich liebe euch alle“, ruft er den Menschen zu – und dürfte dabei ganz eigene Interessen verfolgen.",
+          "enlace": "https://www.sueddeutsche.de/politik/haiti-banden-kriminalitaet-hilfe-el-salvador-bukele-soldaten-li.3581029"
         },
         {
-          "titulo": "Thomas Müller im SZ-Interview über Golf: „Ich genieße das: die Natur, Freunde und ich selbst im Kampf gegen die eigene Unfähigkeit“",
-          "entradilla": "Was macht eigentlich Thomas Müller? Zum Beispiel eine Firma für Golfausrüstung kaufen. Ein Gespräch über sein liebstes Hobby, seine Pläne als Unternehmer – und die Zeit nach der Fußballkarriere in Vancouver.",
-          "enlace": "https://www.sueddeutsche.de/sport/thomas-mueller-interview-golf-unternehmer-vancouver-fussball-li.3579907"
+          "titulo": "Festakt zum Jubiläum: Der Geist von Kreuth wird 50",
+          "entradilla": "Einst beschloss die CSU in malerischer Kulisse die Abspaltung von der CDU, ein Beben ging aus vom Tegernsee. Das verebbte zwar recht schnell, doch der Mythos Kreuth ist geblieben.",
+          "enlace": "https://www.sueddeutsche.de/bayern/bayern-csu-cdu-trennung-kreuth-strauss-50-jahre-li.3582439"
         },
         {
-          "titulo": "Nachruf: Der Beharrliche",
-          "entradilla": "Martin Urban hat Ende der 1960er-Jahre die Wissenschaftsredaktion der SZ gegründet und sie mehr als 30 Jahre lang geleitet. Am vergangenen Sonntag ist der Physiker, Journalist und Buchautor gestorben.",
-          "enlace": "https://www.sueddeutsche.de/wissen/martin-urban-nachruf-wissenschaftsredaktion-sueddeutsche-zeitung-wissenschaftsjournalismus-li.3581626"
+          "titulo": "Erbschaften und Schenkungen: Der Fall Döpfner zeigt: Das ist das unfairste Steuergesetz Deutschlands",
+          "entradilla": "Der Springer-Boss erhielt eine Milliardenschenkung – musste aber Recherchen zufolge kaum Steuern zahlen, weil er sich wohl rechtzeitig arm gerechnet hatte. Dass der Staat so etwas erlaubt, ist ein Skandal.",
+          "enlace": "https://www.sueddeutsche.de/wirtschaft/erbschaftsteuer-verschonungsbedarfspruefung-schenkungsteuer-steuergerechtigkeit-doepfner-li.3582937"
         },
         {
-          "titulo": "Röttenbach in Mittelfranken: Geschäftsmodell Steueroase in Gefahr?",
-          "entradilla": "Mit niedriger Gewerbesteuer lockt man Firmen an -  auch aus dem nahen Erlangen. Da fehlt das Geld an allen Enden, in Röttenbach würden sie sogar auf mehr Geld verzichten.",
-          "enlace": "https://www.sueddeutsche.de/bayern/roettenbach-gewerbesteuer-erlangen-haushalt-gesetz-reform-li.3581920"
+          "titulo": "Dreiergipfel in Shenzhen: Xi, Trump und Putin liefern imposante Bilder – und wenig Ergebnisse",
+          "entradilla": "Konkrete Vereinbarungen sind bei dem Gespräch der Präsidenten Chinas, Russlands und der USA in Shenzhen nicht herausgekommen. Dafür aber jede Menge Fotos und Appelle an die „gemeinsame Verantwortung“.",
+          "enlace": "https://www.sueddeutsche.de/politik/usa-russland-china-gipfel-li.3582658"
         },
         {
-          "titulo": "Bundesregierung: Und dann packt Merz seine Sachen",
-          "entradilla": "Ein Vorfall gegen Mitternacht überlagert die Einigung in der schwarz-roten Koalition auf eine befristete Senkung der Stromsteuer. Der Kanzler soll gesagt haben, er mache das hier „nicht mehr mit“.",
-          "enlace": "https://www.sueddeutsche.de/politik/stromsteuersenkung-friedrich-merz-koalitionsausschuss-lars-klingbeil-bundesregierung-li.3582340"
+          "titulo": "Leute: Follower, nervt mich nicht!",
+          "entradilla": "Florence Pugh setzt auf Natürlichkeit, Pierce Brosnan lobt einen jungen Agenten, und Prinz Harry wäre jederzeit bereit, seinem Land zu dienen.",
+          "enlace": "https://www.sueddeutsche.de/panorama/promis-florence-pugh-schoenheitsoperationen-instagram-li.3582902"
         },
         {
-          "titulo": "US-Kongresswahl: Ihre Prioritäten? Fisch, Familie, Freiheit",
-          "entradilla": "Die Demokratin Mary Peltola wird Senatorin – die erste aus Alaska mit indigenen Wurzeln. Vermutlich auch deshalb, weil sie diese nicht versteckt, sondern herausgestellt hat.",
-          "enlace": "https://www.sueddeutsche.de/meinung/usa-midterms-zwischenwahl-senat-alaska-mary-peltola-sieg-li.3582316"
+          "titulo": "Fernsehen: Manns genug, Manfred Weber?",
+          "entradilla": "Jetzt neu bei Lanz: Widerruf auf gerichtliche Anordnung. Wie der CSU-Europapolitiker am Mittwoch einen merkwürdigen Auftritt im ZDF hinlegte.",
+          "enlace": "https://www.sueddeutsche.de/medien/manfred-weber-zdf-markus-lanz-fpoe-li.3582873"
         },
         {
-          "titulo": "Chip-Konzern: Nvidia verdoppelt Umsatz und Gewinn",
-          "entradilla": "Der Nvidia-Konzern steckt in Turbulenzen, doch die Zahlen für das vergangene Quartal und die fürs nächste sind erstaunlich gut. Der zurückgetretene Chef Jensen Huang darf nicht zurückkehren.",
-          "enlace": "https://www.sueddeutsche.de/wirtschaft/nvidia-quartalszahlen-ki-chips-umsatz-rueckkehr-jensen-huang-li.3582422"
+          "titulo": "Deutsche Olympiabewerbung: Warum Thomas Bach jetzt angeblich „im Interesse der Bundesrepublik“ aktiv ist",
+          "entradilla": "Die Bundesregierung setzt im Kampf um den Olympiazuschlag auf die Hilfe von Thomas Bach, dafür darf er sogar einen Diplomatenpass haben. Doch welche Rolle kann und will der einstige IOC-Chef spielen?",
+          "enlace": "https://www.sueddeutsche.de/sport/ioc-olympia-muenchen-thomas-bach-bundesregierung-li.3582724"
         }
       ],
       "analisis": {
-        "resumen": "- Un reportaje examina por qué el gato pasó a asociarse con lo diabólico y su relación con la imagen de la mujer.\n- Una información cuestiona la situación fiscal de Mathias Döpfner y la transparencia de Bild y Deutsche Bank.\n- Múnich recortará 41 millones de euros en proyectos sociales; otro artículo celebra una sentencia favorable a una inquilina.\n- El Gobierno acuerda medidas temporales sobre la electricidad y los combustibles, mientras un incidente protagonizado por Merz marca la negociación.\n- La portada también aborda las elecciones en Alaska, los resultados de Nvidia, el golf de Thomas Müller y la venta de un prototipo de Mercedes.",
-        "populismo": 25,
-        "motivo_populismo": "Predomina la información, aunque expresiones como «pobre hombre» sobre Döpfner y «defendeos, inquilinos» introducen ironía y apelaciones emotivas.",
-        "sesgo": "Se aprecia un enfoque crítico hacia figuras empresariales y hacia los recortes sociales, junto con simpatía por la defensa de los inquilinos. Algunos titulares combinan información con valoración explícita."
+        "resumen": "- Kompany vuelve al banquillo del Bayern, mientras se espera el regreso de Musiala.\n- Un artículo critica la fiscalidad de las grandes donaciones a raíz del caso Döpfner.\n- La cumbre de Xi, Trump y Putin en Shenzhen deja imágenes, pero pocos resultados concretos.\n- El Salvador envía tropas a Haití; en Alemania se examina el papel de Thomas Bach en la candidatura olímpica.\n- La portada aborda también el monumento a las víctimas de la SED, la salida a bolsa de Anthropic y los videojuegos como arte.",
+        "populismo": 30,
+        "motivo_populismo": "Expresiones como «la ley fiscal más injusta de Alemania» y «un escándalo» intensifican la crítica, aunque no predomina una oposición explícita entre el pueblo y las élites.",
+        "sesgo": "Se aprecia un enfoque crítico hacia decisiones de dirigentes y figuras influyentes, especialmente en materia fiscal y deportiva. Algunas piezas culturales y de opinión adoptan valoraciones explícitas."
       }
     },
     {
@@ -114,71 +114,71 @@
       "web": "https://www.welt.de",
       "noticias": [
         {
-          "titulo": "Bis zu eine Million Euro pro Woche – jetzt drohen der Bahn empfindliche Strafen",
-          "entradilla": "83 Milliarden Euro fließen in den kommenden fünf Jahren ins Schienennetz. Im Gegenzug verschärft der Bund die Kontrolle der Bahn deutlich und führt erstmals konkrete Vertragsstrafen ein.",
-          "enlace": "https://www.welt.de/wirtschaft/article6afd9aca4e6cd4bac15cf482/deutsche-bahn-bis-zu-eine-million-euro-pro-woche-jetzt-drohen-der-bahn-empfindliche-strafen.html"
+          "titulo": "„Die Finanzierung der Ukraine ist umstrittener als je zuvor“ – Berlins riskanter Poker in Europa",
+          "entradilla": "Bundeskanzler Friedrich Merz will die Ukraine-Hilfe langfristig sichern. Dafür muss er aktuelle und künftige Gegner in der EU ausbremsen. Dabei helfen soll ein neuer Kreditmechanismus. Für Merz geht es dabei um mehr als die Ukraine.",
+          "enlace": "https://www.welt.de/politik/ausland/plus6afebee44d1895cf2a8f0cfe/eu-haushalt-die-finanzierung-der-ukraine-ist-umstrittener-als-je-zuvor-berlins-riskanter-poker-in-europa.html"
         },
         {
-          "titulo": "Trump-Regierung fordert Untersuchung zu Faucis Rolle bei einem der einflussreichsten Corona-Papiere",
-          "entradilla": "Ein wissenschaftlicher Artikel aus dem Jahr 2020 prägte weltweit die Debatte über den Ursprung des Coronavirus. Jetzt erhebt die US-Gesundheitsbehörde schwere Vorwürfe gegen Anthony Fauci. Ein exklusiv WELT vorliegender Brief verlangt Aufklärung.",
-          "enlace": "https://www.welt.de/politik/ausland/article6afdaea14d1895cf2a8efcaa/corona-trump-regierung-fordert-untersuchung-zu-faucis-rolle-bei-umstrittenem-covid-papier.html"
+          "titulo": "VW will 130.000 Beschäftigten jahrelang keine Lohnerhöhungen zahlen und 35-Stunden-Woche aufbrechen",
+          "entradilla": "Der deutsche Autobauer VW will stark bei seinem Personal sparen. Vor den anstehenden Tarifverhandlungen prescht Volkswagen mit der Forderung nach Nullrunden und der Streichung von tariflichen Leistungen nach vorn.",
+          "enlace": "https://www.welt.de/wirtschaft/article6aff0bc8ee91e990acae6fc0/volkswagen-verlangt-nullrunden-einschnitte-bei-35-stunden-woche-und-will-leistungen-streichen.html"
         },
         {
-          "titulo": "Kostenschock für Millionen Autofahrer – so senken Sie jetzt noch Ihre Kfz‑Prämie",
-          "entradilla": "Kfz-Versicherungen sind seit 2022 um 51 Prozent teurer geworden. Zwischen den Tarifen liegen inzwischen enorme Preisunterschiede: Mit diesen Stellschrauben sparen Autofahrer Hunderte Euro – wer noch bis Jahresende wechseln will, muss sich beeilen.",
-          "enlace": "https://www.welt.de/wirtschaft/plus6af8729c389d31d8c8a8058c/versicherung-kostenschock-fuer-millionen-autofahrer-so-senken-sie-jetzt-noch-ihre-kfzpraemie.html"
+          "titulo": "Testnote 1,4! Edel-Kopfhörer von Apple fallen im Preis",
+          "entradilla": "Die Apple AirPods Max punkten im WELT-Test mit natürlichem, ausgewogenem Klang. Rund um den Black Friday sind die beliebten Premium-Kopfhörer deutlich günstiger erhältlich.",
+          "enlace": "https://www.welt.dehttps://www.welt.de/kaufberater/airpods-im-test-die-besten-kopfhoerer-von-apple/#h-gepruft-im-techniklabor-airpods-max"
         },
         {
-          "titulo": "Russland soll Anschlag bei Kaliningrad „mit vielen Opfern“ geplant haben",
-          "entradilla": "Ende Oktober schickte Polen Militär und Polizei an die Grenze zu Kaliningrad. Der Großeinsatz warf Fragen auf. Nun berichtet eine polnische Zeitung über die Hintergründe – und die mutmaßlichen Pläne Russlands.",
-          "enlace": "https://www.welt.de/politik/ausland/article6afdb156ff9ae12be89e102e/polen-russland-soll-anschlag-bei-kaliningrad-mit-vielen-opfern-geplant-haben.html"
+          "titulo": "CDU will im „GTA“-Stil die Erfolge von Merz feiern – „peinlichster Post“, sagt Ricarda Lang",
+          "entradilla": "Eine Instagram-Bildergalerie zeigt den Bundeskanzler im Stil des Videospiels „GTA“ – und feiert dessen Erfolge. Auch andere Politiker versuchen, vom Hype um die Veröffentlichung des Spiels zu profitieren.",
+          "enlace": "https://www.welt.de/politik/deutschland/article6afef7d5c1e8003ef73c467d/friedrich-merz-feiert-im-gta-style-politische-erfolge-peinlichster-post-kommentiert-ricarda-lang.html"
         },
         {
-          "titulo": "Vorwurf der „ethnischen Säuberung“ – Verfahren gegen Merz nach AfD-Anzeige eingestellt",
-          "entradilla": "Im Bundestag hatte Kanzler Merz das AfD-Konzept der „Remigration“ als „ethnische Säuberung nach Hautfarbe und Herkunft“ bezeichnet. Die Staatsanwaltschaft sieht die Äußerung von der Meinungsfreiheit gedeckt.",
-          "enlace": "https://www.welt.de/politik/deutschland/article6afdb7adff9ae12be89e116d/bundestag-vorwurf-der-ethnischen-saeuberung-verfahren-gegen-merz-nach-afd-anzeige-eingestellt.html"
+          "titulo": "Wie die FDP die „Brandmauer“ neu definieren will",
+          "entradilla": "Hunderte FDP-Mitglieder haben genug von der „Brandmauer“ – und fordern, dass ihre Partei einen neuen Umgang mit der AfD findet. Wie reagiert Bundesvorsitzender Kubicki auf den Vorstoß?",
+          "enlace": "https://www.welt.de/politik/deutschland/plus6afeac63ed542f4c39176e44/umgang-mit-afd-wie-die-fdp-die-brandmauer-neu-definieren-will.html"
         },
         {
-          "titulo": "Wir brauchen mehr problematische Vorbilder",
-          "entradilla": "Die ARD hat die legendäre Serie „Monaco Franze“ mit der Warnung „problematisches Vorbild“ versehen. Der Hinweis ist mittlerweile gelöscht. Doch es bleiben Fragen. Warum unser Autor hofft, seinen Kindern ein problematisches Vorbild gewesen zu sein.",
-          "enlace": "https://www.welt.de/kultur/article6afd921aa883f861e5330c31/monaco-franze-wir-brauchen-mehr-problematische-vorbilder.html"
+          "titulo": "Polizei bricht Tür mit Brecheisen auf – Abschiebeversuch aus Kirchenasyl scheitert",
+          "entradilla": "Die Behörden fahnden nach einer Frau aus Syrien, die sich im Bremerhavener Kirchenasyl befand. Ein Gericht hatte die Durchsuchung erlaubt. Die Gemeinde kritisiert das gewaltsame Öffnen ihrer Tür.",
+          "enlace": "https://www.welt.de/politik/deutschland/article6afed5c572bc92eb4665e5f5/bremerhaven-polizei-bricht-tuer-mit-brecheisen-auf-abschiebeversuch-aus-kirchenasyl-scheitert.html"
         },
         {
-          "titulo": "Xi und Trump umarmen sich am Flughafen – US-Präsident plant Einzeltreffen mit Putin",
-          "entradilla": "US-Präsident Donald Trump trifft in Shenzhen Xi Jinping und Russlands Staatschef Wladimir Putin. Der chinesische Präsident kam zum Flughafen, um den Gast aus Washington persönlich zu begrüßen.",
-          "enlace": "https://www.welt.de/politik/ausland/article6afd6fe9bb7e7a6679f92735/china-xi-und-trump-umarmen-sich-bei-ankunft-us-praesident-plant-einzeltreffen-mit-putin.html"
+          "titulo": "Wie eine „Überlebensfibel“ Lehrer gegen eine Regierung Siegmund wappnen soll",
+          "entradilla": "Die AfD will im Fall einer Regierungsübernahme das Bildungssystem umwälzen. Die Lehrervertretung GEW gibt einen detaillierten Ratgeber mit „Abwehrmöglichkeiten“ heraus – darunter „Dienst nach Vorschrift“.",
+          "enlace": "https://www.welt.de/politik/deutschland/plus6afeb937ed542f4c39176f8a/bildungsplaene-der-afd-wie-eine-ueberlebensfibel-lehrer-gegen-eine-regierung-siegmund-wappnen-soll.html"
         },
         {
-          "titulo": "„Wie die digitale Welt unsere Beziehungen verändert, wird uns noch um die Ohren fliegen“",
-          "entradilla": "Wenn der Partner stundenlang in GTA VI abtaucht, können Vernachlässigung und Eifersucht die Beziehung belasten. Eine Paartherapeutin erklärt, was Paare vor dem Start klären sollten und welche drei „goldenen Regeln“ eine Krise verhindern.",
-          "enlace": "https://www.welt.de/vermischtes/plus6abf709885d64113fb06c926/gta-vi-wie-die-digitale-welt-unsere-beziehungen-veraendert-wird-uns-noch-um-die-ohren-fliegen.html"
+          "titulo": "Zentralratspräsident Josef Schuster kontert Vorwürfe von Claudia Roth",
+          "entradilla": "Zentralratspräsident Josef Schuster weist Claudia Roths Vorwurf zurück, der Zentralrat habe Druck auf ihre Arbeit ausgeübt. „Zu keinem Zeitpunkt gab es mit Frau Roth Gespräche zu den aufgeführten Themen“, sagt Schuster.",
+          "enlace": "https://www.welt.de/politik/deutschland/article6afec6efe9561dcc48a02ea7/israel-debatte-zentralratspraesident-josef-schuster-kontert-vorwuerfe-von-claudia-roth.html"
         },
         {
-          "titulo": "Bis zu 45 Milliarden Euro – Von der Leyen präsentiert neuen Plan für Ukraine-Kredit",
-          "entradilla": "Rückendeckung für die Forderung aus Deutschland: Die EU-Kommission will für neue Ukraine-Hilfen im Namen der Europäischen Union Kredite aufnehmen.",
-          "enlace": "https://www.welt.de/politik/ausland/article6afda2dcbb7e7a6679f92f64/streit-um-eu-schuldenaufnahme-bis-zu-45-milliarden-euro-von-der-leyen-praesentiert-neuen-plan-fuer-ukraine-kredit.html"
+          "titulo": "500 massive Poller – Magdeburger Weihnachtsmarkt wird hinter „Schutzring“ aufgebaut",
+          "entradilla": "Wenn der Magdeburger Weihnachtsmarkt am Montag – und damit zwei Jahre nach dem Anschlag – öffnet, wird er von Hunderten Pollern gesichert. Kostenpunkt für die Stadt: 2,5 Millionen Euro.",
+          "enlace": "https://www.welt.de/vermischtes/article6afee1bd9c68d2fcf0c7cdb6/magdeburg-500-massive-poller-weihnachtsmarkt-wird-hinter-schutzring-aufgebaut.html"
         },
         {
-          "titulo": "Doch, wir brauchen eine Gegenbotschaft zu „Refugees Welcome“",
-          "entradilla": "Deutschlands Pläne für ein Abschiebezentrum in Ruanda sorgen für einen Sturm der Entrüstung. Doch wer in Nigeria, Senegal oder Mali mit Auswanderungswilligen spricht, erkennt die Notwendigkeit von Abschreckungsmaßnahmen.",
-          "enlace": "https://www.welt.de/debatte/plus6afd6281fc384ca056385b00/ruanda-modell-doch-wir-brauchen-eine-gegenbotschaft-zu-refugees-welcome.html"
+          "titulo": "„Wenn sie kämpfen, stürzt die Welt ins Chaos“ – Der klare Sieger von Shenzhen",
+          "entradilla": "US-Präsident Trump war mit einer langen Wunschliste zum Treffen mit Putin und Xi nach Shenzhen gereist. In der Abschlusserklärung findet sich davon kaum etwas wieder. Die eigentlichen Erkenntnisse des historischen Treffens waren andere.",
+          "enlace": "https://www.welt.de/politik/ausland/plus6afec88f4d1895cf2a8f0e6c/dreiergipfel-wenn-sie-kaempfen-stuerzt-die-welt-ins-chaos-der-klare-sieger-von-shenzhen.html"
         },
         {
-          "titulo": "„Peinliche Farce“ – In der Union brodelt es",
-          "entradilla": "Die Unionsführung verkauft die Stromsteuersenkung für alle als Erfolg des Kanzlers. Doch in den eigenen Reihen bricht sich sofort Unmut über den „schwachen Kompromiss“ Bahn. Und die SPD pocht sogleich auf eine neue Steuer.",
-          "enlace": "https://www.welt.de/politik/deutschland/plus6afd50c7bb7e7a6679f9239e/koalitionsausschuss-peinliche-farce-in-der-union-brodelt-es.html"
+          "titulo": "Putin lädt Europäer nach Moskau ein – und droht der Ukraine nach Angriff auf Krim-Brücke",
+          "entradilla": "Kaum ist der historische Dreiergipfel mit Xi und Trump beendet, richtet Putin eine scharfe Drohung an Kiew. Die USA drängten Russland außerdem zu einer Einbeziehung der Europäer bei den Verhandlungen für ein Kriegsende, sagt der Kremlchef.",
+          "enlace": "https://www.welt.de/politik/ausland/article6afeef7439a3e8110f0e233b/ukraine-krieg-putin-laedt-europaeer-nach-moskau-ein-und-droht-der-ukraine-nach-angriff-auf-krim-bruecke.html"
         },
         {
-          "titulo": "Ein neuer Jalta-Moment? Was Trump, Xi und Putin in Shenzhen verhandeln",
-          "entradilla": "Dass sich die drei Staatschefs Donald Trump, Xi Jinping und Wladimir Putin treffen, ist ein historisches Ereignis. Europa ist nervös: Kommt es erneut zu einer Aufteilung der Welt in Einflusssphären? WELT beantwortet die wichtigsten Fragen.",
-          "enlace": "https://www.welt.de/politik/ausland/plus6afd7199a883f861e533063f/dreiergipfel-in-china-ein-neuer-jalta-moment-was-trump-xi-und-putin-in-shenzhen-verhandeln.html"
+          "titulo": "Nordrhein-Westfalen will Vollverschleierung an Schulen verbieten",
+          "entradilla": "Ein Niqab im Klassenzimmer hat Gerichte bereits mehrfach beschäftigt. Nun will Nordrhein-Westfalen Schulen mehr Rechtssicherheit im Umgang mit vollverschleierten Schülerinnen geben.",
+          "enlace": "https://www.welt.de/politik/deutschland/article6afec18aa3767a11a0be9e12/niqab-und-burka-nordrhein-westfalen-will-vollverschleierung-an-schulen-verbieten.html"
         }
       ],
       "analisis": {
-        "resumen": "- El Gobierno federal endurecerá el control del ferrocarril e introducirá sanciones contractuales.\n- La Comisión Europea propone hasta 45.000 millones de euros en préstamos para ayudar a Ucrania; la portada también aborda encuentros entre Trump, Xi y Putin y un supuesto plan ruso cerca de Kaliningrado.\n- La fiscalía archiva una denuncia de AfD contra Merz por sus declaraciones sobre la «remigración»; otro artículo destaca malestar en la Unión por el impuesto eléctrico.\n- Un artículo de opinión defiende medidas disuasorias frente a la migración y una respuesta a «Refugees Welcome».\n- Otras noticias tratan la investigación reclamada sobre Fauci, el encarecimiento de los seguros de automóvil y asuntos culturales y de pareja.",
-        "populismo": 45,
-        "motivo_populismo": "Expresiones como «Kostenschock», «peinliche Farce» y «nos va a estallar en la cara» aportan alarma y dramatización, aunque no predomina una oposición explícita entre pueblo y élites.",
-        "sesgo": "La selección da especial peso a la seguridad, la migración, los costes y los conflictos políticos, con varios titulares de tono alarmista. En opinión se aprecia una postura favorable a disuadir la inmigración y crítica con las advertencias sobre contenidos culturales."
+        "resumen": "- Merz busca asegurar la ayuda a Ucrania mediante un nuevo mecanismo de crédito, en un contexto de divisiones europeas.\n- VW plantea congelar salarios y modificar la semana laboral de 35 horas para ahorrar costes de personal.\n- La portada aborda debates sobre la CDU, la FDP, la AfD y la educación, además del intercambio entre Josef Schuster y Claudia Roth.\n- Destacan noticias sobre un intento de deportación desde un asilo eclesiástico, la seguridad del mercado navideño de Magdeburgo y la prohibición del velo integral en escuelas de Renania del Norte-Westfalia.\n- En el ámbito internacional, se analiza la cumbre de Trump, Putin y Xi; también se anuncia una rebaja de los auriculares Apple.",
+        "populismo": 30,
+        "motivo_populismo": "Expresiones como «arriesgada apuesta», «caos» y «manual de supervivencia» intensifican el conflicto, aunque no predomina una oposición explícita entre pueblo y élites.",
+        "sesgo": "La selección enfatiza la confrontación política, la seguridad y los desacuerdos, con varios titulares centrados en controversias y riesgos. Con la información disponible no se aprecia una orientación ideológica inequívoca."
       }
     },
     {
@@ -186,71 +186,71 @@
       "web": "https://www.spiegel.de",
       "noticias": [
         {
-          "titulo": "Deutsche Bank und Jho Low: Welche Rolle spielte das Geldhaus beim 1MDB-Skandal?",
-          "entradilla": "Es ging um Partys, Popstars und einen geprellten Staatsfonds: Der 1MDB-Finanzskandal zählt zu den größten der Geschichte, Drahtzieher Jho Low ist bis heute auf der Flucht. Interne Unterlagen enthüllen die brisante Rolle der Deutschen Bank.",
-          "enlace": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-jho-low-welche-rolle-spielte-das-geldhaus-beim-1mdb-skandal-a-c61f0d0e-199f-4504-b33f-1914b9e6898c#ref=rss"
+          "titulo": "Mercedes-Benz: Droht dem Autobauer ein Verkaufsverbot in den USA?",
+          "entradilla": "Die USA zählen zu den wichtigsten Absatzmärkten für Mercedes. Ein geplantes Gesetz könnte dort schlimmstenfalls zu einem Verkaufsverbot führen. Ein Brief von US-Abgeordneten verschärft nun den Druck auf Mercedes.",
+          "enlace": "https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-droht-dem-autobauer-ein-verkaufsverbot-in-den-usa-a-9c646c3d-96e2-4808-93e3-c3e8970d0e01#ref=rss"
         },
         {
-          "titulo": "Friedrich Merz und die Stromsteuer: Plötzlich steht der Kanzler auf und geht genervt zur Tür",
-          "entradilla": "Kurz vor Mitternacht drohen die Verhandlungen über die Stromsteuer zu scheitern. Nach SPIEGEL-Informationen verlässt Friedrich Merz zeitweise die Spitzenrunde von Union und SPD. Die Rekonstruktion.",
-          "enlace": "https://www.spiegel.de/politik/deutschland/friedrich-merz-wie-es-zum-eklat-im-koalitionsausschuss-kam-a-19224f50-63a2-4c09-92b8-0c2ead8e291d#ref=rss"
+          "titulo": "VW legt Tarifforderungen vor – Konzern setzt auf mehr Arbeit für weniger Geld",
+          "entradilla": "Volkswagen steckt in der Krise, will seine Wettbewerbsfähigkeit stärken. In den anstehenden Tarifverhandlungen verlangt der deutsche Autobauer Nullrunden und Einschnitte bei der 35-Stunden-Woche.",
+          "enlace": "https://www.spiegel.de/wirtschaft/unternehmen/vw-legt-tarifforderungen-vor-konzern-setzt-auf-mehr-arbeit-fuer-weniger-geld-a-a1adc456-4b16-441b-b7a8-81d08ad1d3f0#ref=rss"
         },
         {
-          "titulo": "Lehrer und Arbeitszeit: Wie viel Lehrkräfte wirklich arbeiten",
-          "entradilla": "Korrekturen am Sonntag, Elternchats am Abend, dafür zwölf Wochen Ferien: Wie viel Lehrkräfte wirklich arbeiten, wussten lange nicht einmal sie selbst. Nun erfassen immer mehr ihre Arbeitszeit. Was ihre Aufzeichnungen verraten.",
-          "enlace": "https://www.spiegel.de/karriere/lehrer-und-arbeitszeit-wie-viel-lehrkraefte-wirklich-arbeiten-a-0cc4be12-4aa5-40fe-bcc6-f8b2d5d34c3f#ref=rss"
+          "titulo": "Donald Trump, Wladimir Putin und Xi JIngping: Die fünf Lehren aus dem Treffen in China",
+          "entradilla": "Etwa 80 Minuten dauerte das Gespräch zwischen Xi Jinping, Donald Trump und Wladimir Putin in Shenzhen. Substanzielles wurde nicht beschlossen, es blieb bei Allgemeinplätzen. Das Format »G3« dürfte dennoch geboren sein. Der Tag im Minutenprotokoll.",
+          "enlace": "https://www.spiegel.de/ausland/apec-gipfel-in-shenzhen-china-so-laeuft-der-gipfel-mit-donald-trump-xi-jinping-und-wladimir-putin-a-b4e9137d-42fa-4ff0-9d36-08df392ffbce#ref=rss"
         },
         {
-          "titulo": "Leiter der Reutlinger Reportageschule muss gehen",
-          "entradilla": "Der langjährige Chef der renommierten Journalistenschule in Reutlingen tritt ab – offiziell freiwillig. Doch offenbar geht es auch um Fehlverhalten gegenüber einer Austauschstudentin.",
-          "enlace": "https://www.spiegel.de/panorama/gesellschaft/leiter-der-reutlinger-reportageschule-muss-gehen-a-86e65f23-fabf-4b85-a7f7-ad1c745d3e42#ref=rss"
+          "titulo": "Myanmar: Uno-Gericht stuft Vorgehen gegen Rohingya als Völkermord ein",
+          "entradilla": "Myanmars Militär hat schwere Verbrechen gegen die Minderheit der Rohingya begangen: Davon zeigt sich der Internationale Gerichtshof jetzt überzeugt. Das Verfahren gilt als Test für die Völkermordklage gegen Israel.",
+          "enlace": "https://www.spiegel.de/ausland/myanmar-uno-gericht-stuft-vorgehen-gegen-rohingya-als-voelkermord-ein-a-7879b8b5-7b90-49e2-98b7-bcc5e96fa85c#ref=rss"
         },
         {
-          "titulo": "Jemen: Wie die lange unterschätzte Huthi-Miliz im Bürgerkrieg erstarkt",
-          "entradilla": "Lange unterschätzt, erobern die Huthi-Milizionäre immer weitere Teile des Jemen: Sie stehen vor dem Sitz der Regierung in Aden und greifen fast täglich Ziele in Saudi-Arabien an. Woher rührt ihre Stärke?",
-          "enlace": "https://www.spiegel.de/ausland/huthi-vormarsch-im-jemen-als-flip-flop-guerilla-wurden-sie-verspottet-nun-ruecken-sie-im-jemen-weiter-vor-a-7a0d58aa-c1d8-4a18-a39b-dcf412cf68bb#ref=rss"
+          "titulo": "Ukraine-Gipfel in Berlin: US-Unterhändler Jared Kushner und Steve Witkoff eingetroffen",
+          "entradilla": "Wenig Ergebnisse in Shenzhen, viel Hoffnung in Berlin: Vor dem Ukrainegipfel der Koalition der Willigen sind die US-Unterhändler am Kanzleramt eingetroffen. Das Ziel: Friedensgespräche mit Moskau ausloten.",
+          "enlace": "https://www.spiegel.de/ausland/ukraine-gipfel-in-berlin-jared-kushner-und-steve-witkoff-eingetroffen-a-e8608b4b-43c5-4b92-a922-6b064a7e5494#ref=rss"
         },
         {
-          "titulo": "Xi Jinping empfängt Donald Trump persönlich am Flughafen",
-          "entradilla": "Chinas Staatschef Xi Jinping hat Donald Trump persönlich bei dessen Ankunft in Shenzhen begrüßt, der US-Präsident wurde sogar umarmt. Zwischen Trump und Wladimir Putin ging es nicht ganz so herzlich zu.",
-          "enlace": "https://www.spiegel.de/ausland/xi-jinping-empfaengt-donald-trump-persoenlich-am-flughafen-a-1c046d0b-75bb-4cce-b787-1c29134402f7#ref=rss"
+          "titulo": "Ina Scharrenbach: Mitarbeitende rechnen mit NRW-Heimatministerin ab",
+          "entradilla": "Ist die CDU-Politikerin eine schlechte Chefin? Ina Scharrenbach gilt als umstrittenstes Kabinettsmitglied in NRW. Dem SPIEGEL liegen jetzt Ergebnisse einer anonymen Mitarbeiterbefragung in dem Ministerium vor.",
+          "enlace": "https://www.spiegel.de/politik/deutschland/ina-scharrenbach-mitarbeitende-rechnen-mit-nrw-heimatministerin-ab-a-a59a3b1a-35c5-4a1b-8ea5-96e912fd2eae#ref=rss"
         },
         {
-          "titulo": "Russland-Sanktionen: Studie des IW Köln zeigt wachsende Skepsis in Deutschland",
-          "entradilla": "Beim Treffen von US-Präsident Trump und Kremlchef Putin in China könnte auch die Zukunft der Ukraine verhandelt werden. Die Mehrheit der Deutschen ist für einen harten Kurs gegen den Aggressor. Aber der Rückhalt schwindet.",
-          "enlace": "https://www.spiegel.de/wirtschaft/russland-sanktionen-studie-des-iw-koeln-zeigt-wachsende-skepsis-in-deutschland-a-8e426c7b-4b4b-4574-a4bf-a3475b7920eb#ref=rss"
+          "titulo": "Klimawandel: Weltweit geht erstmals mehr Energie fürs Kühlen als fürs Heizen drauf",
+          "entradilla": "Der Hunger nach Energie wird laut der zuständigen Agentur weltweit zunehmen – für Autos, Heizung oder Datenzentren. Und die Klimakrise ändert das Heizen weltweit.",
+          "enlace": "https://www.spiegel.de/wirtschaft/unternehmen/iea-weltweit-geht-erstmals-mehr-energie-fuers-kuehlen-als-fuers-heizen-drauf-a-3c4f8dbc-6656-429d-98b8-23fb232111be#ref=rss"
         },
         {
-          "titulo": "Berufseinstieg: Diese Fähigkeiten sollten Eltern bei Kindern fördern",
-          "entradilla": "Seit Jahren beschäftige ich mich mit KI, habe im Management bei der Deutschen Telekom und IBM gearbeitet. Ich ahne, welche Kompetenzen künftig wichtig sind. Hier sind die Fähigkeiten, die ich bei meinen Kindern fördern möchte.",
-          "enlace": "https://www.spiegel.de/karriere/berufseinstieg-diese-faehigkeiten-sollten-eltern-bei-kindern-foerdern-a-fe0a868b-6466-473a-b976-92cd2492624d#ref=rss"
+          "titulo": "Wie Claudia Roth den Nahost-Kompromiss der Grünen ins Wanken bringt",
+          "entradilla": "Mit ihren Israel-Äußerungen hat Claudia Roth bei den Grünen neuen Streit über Nahost entfacht. Die Ex-Kulturstaatsministerin gerät unter Druck: Der Zentralrat stellt zentrale Aussagen der Politikerin infrage.",
+          "enlace": "https://www.spiegel.de/politik/deutschland/wie-claudia-roth-den-nahost-kompromiss-der-gruenen-ins-wanken-bringt-a-18852ba5-283b-44e3-8046-c2e3c1c5a384#ref=rss"
         },
         {
-          "titulo": "Dazn: Preiserhöhung unwirksam – Streamingdienst muss Kunden Geld zurückzahlen",
-          "entradilla": "Sportfans mussten in den vergangenen Jahren immer tiefer in die Tasche greifen. Der Streamingdienst Dazn erhöhte 2021 und 2022 einseitig seine Preise. Die Verbraucherzentrale hat dagegen geklagt und Recht bekommen.",
-          "enlace": "https://www.spiegel.de/netzwelt/apps/dazn-preiserhoehung-unwirksam-streamingdienst-muss-kunden-geld-zurueckzahlen-a-214c9522-c633-4710-b5df-e0a6368ec2f2#ref=rss"
+          "titulo": "Anthropic: Die riskante Wette auf die Hochleistungs-KI",
+          "entradilla": "Anleger sind elektrisiert: Anthropic geht an die Börse. Das amerikanische KI-Unternehmen setzt auf Kunden in der europäischen Industrie. Dumm nur, dass die zweifelt.",
+          "enlace": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-europaeische-industrie-zweifelt-am-nutzen-superintelligenter-ki-a-fbad94cf-be43-4ef9-99b8-1cf03479a0b1#ref=rss"
         },
         {
-          "titulo": "»GTA 6«: Vom Pixelbrei zum Grafikwunder - drei Jahrzehnte rauben, ballern, Autos stehlen",
-          "entradilla": "»Grand Theft Auto«-Actionspiele gibt es seit 1997, doch auf den neuen Teil der Hauptreihe mussten Fans mehr als 13 Jahre warten. Nun erscheint »GTA 6«. Die Geschichte der Serie als visueller Rückblick.",
-          "enlace": "https://www.spiegel.de/netzwelt/games/gta-6-die-seriengeschichte-von-gta-drei-jahrzehnte-rauben-ballern-autos-stehlen-a-f1369311-f8c7-4cf7-8f48-6f48624f4214#ref=rss"
+          "titulo": "Deutsche Bank: »Man sollte Diktaturen nicht zu stark umarmen«",
+          "entradilla": "Harold James erforschte die Nazivergangenheit der Deutschen Bank. Im Umgang mit Trump, Putin und Xi erkennt der Historiker alte Muster: Der Konzern habe bis heute zu wenig aus seiner Geschichte gelernt.",
+          "enlace": "https://www.spiegel.de/politik/deutschland/deutsche-bank-man-sollte-diktaturen-nicht-zu-stark-umarmen-a-6a5d76df-19f2-4c09-b4c9-1dbb49e4855a#ref=rss"
         },
         {
-          "titulo": "Brasilien: Awá-Indigene bitten um Nahrung – seltene Begegnung im Regenwald",
-          "entradilla": "Teile des Volkes der Awá leben weitgehend isoliert von der Außenwelt im brasilianischen Amazonasgebiet und versorgen sich selbst. Bei einer Begegnung zeigte sich jetzt, wie es um die Gruppe steht.",
-          "enlace": "https://www.spiegel.de/ausland/brasilien-awa-indigene-bitten-um-nahrung-seltene-begegnung-im-regenwald-a-aea11586-6083-4e24-a662-cc7109a6d0af#ref=rss"
+          "titulo": "Karriere: Neustart nach Abfindung – Erfahrungen von Bosch, Commerzbank und Mercedes",
+          "entradilla": "Unter Sparzwang suchen Firmen oft Mitarbeiter, die freiwillig gehen. Drei langjährige Angestellte von Bosch, der Commerzbank und Mercedes erzählen, warum sie sich gemeldet haben und wie ihnen der Neustart gelungen ist.",
+          "enlace": "https://www.spiegel.de/karriere/karriere-neustart-nach-abfindung-erfahrungen-von-bosch-commerzbank-und-mercedes-a-19857897-500f-448d-aeee-b0f63383d01b#ref=rss"
         },
         {
-          "titulo": "James Bond: Was Ex-BND-Agent Gerhard Conrad von 007 unterscheidet",
-          "entradilla": "Die Kür des neuen 007-Darstellers Robert Pattinson elektrisiert die Fans. Gerhard Conrad arbeitete viele Jahre für den Geheimdienst BND. Er sagt: Seine Welt war ganz anders als in den Agentenfilmen.",
-          "enlace": "https://www.spiegel.de/panorama/james-bond-was-ex-bnd-agent-gerhard-conrad-von-007-unterscheidet-a-0eaec76b-69bf-48b4-af61-c6aa783bb895#ref=rss"
+          "titulo": "BASF sagt Evonik-Übernahme ab",
+          "entradilla": "Der Chemieriese BASF wird Evonik nicht übernehmen. Der Vorstand von Evonik habe nach einer weiteren Aufstockung des Angebots tiefergehende Gespräche verweigert, heißt es aus Ludwigshafen.",
+          "enlace": "https://www.spiegel.de/wirtschaft/basf-sagt-evonik-uebernahme-ab-a-8ac0a370-d80e-4f40-834b-6ebbaec30a90#ref=rss"
         }
       ],
       "analisis": {
-        "resumen": "- Documentos internos apuntan al papel del Deutsche Bank en el escándalo financiero 1MDB.\n- Las negociaciones sobre el impuesto eléctrico atravesaron tensiones y Merz abandonó temporalmente la reunión.\n- Crece la desconfianza hacia las sanciones a Rusia, mientras los hutíes avanzan en Yemen y Xi recibe a Trump en China.\n- Se examinan las horas de trabajo docente y la salida del director de una escuela de periodismo, vinculada aparentemente a una posible conducta inapropiada.\n- También destacan el reembolso a clientes de Dazn, las competencias laborales futuras y noticias sobre GTA, los awá y James Bond.",
-        "populismo": 20,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «papel comprometedor», la descripción de Merz como irritado y el énfasis en fiestas y famosos aportan dramatismo; no se aprecia una apelación al pueblo contra las élites.",
-        "sesgo": "La selección combina investigación crítica sobre instituciones y dirigentes con noticias de consumo y entretenimiento. No se aprecia una alineación partidista clara en los textos facilitados."
+        "resumen": "- Mercedes afronta el riesgo de una prohibición de ventas en EE. UU.; Volkswagen pide recortes y cambios en la jornada laboral.\n- La reunión de Trump, Putin y Xi terminó sin acuerdos sustanciales, mientras Berlín acoge contactos para explorar conversaciones de paz sobre Ucrania.\n- La Corte Internacional de Justicia considera que el ejército de Myanmar cometió genocidio contra los rohinyás.\n- Una encuesta anónima plantea críticas a la ministra Ina Scharrenbach; las declaraciones de Claudia Roth sobre Israel generan controversia entre los Verdes.\n- Otras noticias abordan el consumo energético para refrigeración, la salida a bolsa de Anthropic, Deutsche Bank, las indemnizaciones laborales y la fallida compra de Evonik por BASF.",
+        "populismo": 22,
+        "motivo_populismo": "Predomina la información, aunque expresiones como «más trabajo por menos dinero», «mala jefa» y «apuesta arriesgada» enfatizan el conflicto o el riesgo.",
+        "sesgo": "La selección presta especial atención a la industria alemana y a los conflictos laborales, empresariales y políticos, con un enfoque crítico hacia algunas decisiones y figuras. No se aprecia una orientación partidista clara a partir de estos titulares."
       }
     },
     {
@@ -258,71 +258,71 @@
       "web": "https://www.bild.de",
       "noticias": [
         {
-          "titulo": "So freut sich der Kanzler über die Stromsteuer-Senkung - „Wir machen, was wir versprochen haben“",
-          "entradilla": "Die Stromsteuer soll auf EU-Mindestniveau sinken, Merz nennt fünf Milliarden Euro.",
-          "enlace": "https://www.bild.de/politik/inland/so-freut-sich-der-kanzler-ueber-die-stromsteuer-senkung-wir-machen-was-wir-versprochen-haben-6afdbd8dff9ae12be89e1240"
+          "titulo": "Für mehr als 600 Mio. Euro - Witwe von Kobe Bryant plant Basketball-Kracher",
+          "entradilla": "Vanessa Bryant (44) will ins Basketball-Business einsteigen.",
+          "enlace": "https://www.bild.de/sport/mehr-sport/witwe-von-kobe-bryant-plant-kracher-im-basketball-fuer-rund-600-millionen-euro-6afeb7924d1895cf2a8f0bf9"
         },
         {
-          "titulo": "Gen-Z-Proteste am Wochenende - Polizei macht Hausbesuche bei Hamburger Chaoten",
-          "entradilla": "14 Verdächtige bekommen nach Hamburg-Krawallen Besuch von Polizisten.",
-          "enlace": "https://www.bild.de/regional/hamburg/hamburg-polizei-besucht-14-krawall-verdaechtige-vor-gen-z-demo-6afd844b4e6cd4bac15cf1ec"
+          "titulo": "Kreml-Chef nur am Katzentisch - Xi demütigt Putin bei Mega-Gipfel mit Trump",
+          "entradilla": "Xi und Trump zeigten Putin beim Dreier-Gipfel, wo sein Platz ist.",
+          "enlace": "https://www.bild.de/politik/ausland-und-internationales/wladimir-putin-in-shenzhen-am-katzentisch-xi-zeigte-ihm-wer-der-boss-ist-6afee91539a3e8110f0e2283"
         },
         {
-          "titulo": "Ist es DAS Spiel oder nur ein Spiel? - Zwei BILD-Redakteure streiten um GTA 6",
-          "entradilla": "Weihnachten im November oder nur ein Videospiel? Zwei BILD-Redakteure über „GTA 6“.",
-          "enlace": "https://www.bild.de/unterhaltung/bildgg/gta-6-bild-redakteure-streiten-ueber-den-mega-hype-zum-release-6afc5d5ccdc4b5009f0a8e56"
+          "titulo": "Poker-Skandal in Kalifornien - Casino schmeißt zwei Spielerinnen raus",
+          "entradilla": "Finanzielle Verflechtung: Britney Jing und Chengsi Ye dürfen nicht mehr bei HCL spielen.",
+          "enlace": "https://www.bild.de/sport/mehr-sport/poker-skandal-in-kalifornien-casino-schmeisst-zwei-poker-spielerinnen-raus-6afec676a3767a11a0be9eea"
         },
         {
-          "titulo": "Rockerboss im Rollstuhl - Hells Angels bringen „Schlächter“ Wäsche in Knast",
-          "entradilla": "Seine Höllenengel lassen Dariusch F. (46, „Der Schlächter“) auch jetzt nicht im Stich.",
-          "enlace": "https://www.bild.de/regional/hamburg/rockerboss-im-knast-hells-angels-bringen-frische-waesche-im-bentley-6af7265927adfb0b7bb2d4d7"
+          "titulo": "„Ich schlage ein neues Kapitel auf“ - Star-Influencerin Lisa Mantler wird Pastorin",
+          "entradilla": "Die frühere Social-Media-Berühmtheit übernimmt in einer neuen Gemeinde eine führende Rolle",
+          "enlace": "https://www.bild.de/unterhaltung/stars-und-leute/lisa-mantler-star-influencerin-wird-pastorin-6afedf2cc1e8003ef73c432b"
         },
         {
-          "titulo": "Vor einem Jahr starben sie zusammen - Söder-Blumen für Kessler-Zwillinge",
-          "entradilla": "Bayerns Ministerpräsident gedenkt der berühmten Schwestern zum 1. Todestag mit Blumen.",
-          "enlace": "https://www.bild.de/unterhaltung/stars-und-leute/vor-einem-jahr-starben-die-beruehmten-schwestern-zusammen-blumen-von-markus-soeder-am-grab-der-kessler-zwillinge-6afda2d5fc384ca0563863c6"
+          "titulo": "Vertrag bis 2030 - Mainz verlängert mit diesem Supertalent",
+          "entradilla": "Das ist mal ein Coup! Mainz 05 bindet eines seiner Supertalente bis 2030.",
+          "enlace": "https://www.bild.de/sport/fussball/vertrag-bis-2030-mainz-05-verlaengert-mit-supertalent-6aff05f89c68d2fcf0c7d2f0"
         },
         {
-          "titulo": "Entlastung ab Januar - Das haben SIE von der Stromsteuer-Senkung",
-          "entradilla": "Ab 2027 können Haushalte bis zu 93 Euro jährlich sparen.",
-          "enlace": "https://www.bild.de/politik/inland/stromsteuer-sinkt-ab-2027-so-viel-geld-koennen-sie-sparen-6afd6b42bb7e7a6679f92677"
+          "titulo": "Wadenprobleme hartnäckig - Klose bangt um seinen Abwehr-Otto",
+          "entradilla": "Nürnbergs Abwehrchef droht gegen Braunschweig erneut auszufallen.",
+          "enlace": "https://www.bild.de/sport/fussball/fcn-gegen-braunschweig-fcn-wieder-ohne-otto-6afeffedee91e990acae6db0"
         },
         {
-          "titulo": "Alle GTA 6-News im Live-Ticker - GTA 6 herunterladen – beim Zahnarzt!",
-          "entradilla": "In diesem Live-Ticker lesen Sie alle relevanten Entwicklungen rund um „Grand Theft Auto 6“.",
-          "enlace": "https://www.bild.de/unterhaltung/bildgg/gta-6-im-liveticker-ea-fuerchtet-um-madden-nfl-27-und-bittet-nicht-loeschen-6971f5b6568b91954b0eb11b"
+          "titulo": "In Deutschland - Wie gefährlich wäre ein Leben mit Bären?",
+          "entradilla": "Noch gibt es hierzulande keine Bären. Doch wenn ja, wäre das für uns gefährlich?",
+          "enlace": "https://www.bild.de/leben-wissen/haustiere/braunbaeren-in-deutschland-wie-gefaehrlich-waere-ihre-rueckkehr-6aff00a139a3e8110f0e2673"
         },
         {
-          "titulo": "Bei Experten nachgefragt - Kann man erkältet schwimmen gehen?",
-          "entradilla": "Bei leichtem Schnupfen ist lockere Bewegung erlaubt, bei Fieber gilt Sportverbot.",
-          "enlace": "https://www.bild.de/leben-wissen/fitness/schwimmen-bei-erkaeltung-wann-training-noch-moeglich-ist-6af6e9255a72dceba1d61466"
+          "titulo": "BILD verrät seine Geheimnisse - Alle reden über Super-Gruda",
+          "entradilla": "Dribbelstark, torgefährlich. Und ein bisschen positiv-verrückt ist Brajan Gruda (22) auch.",
+          "enlace": "https://www.bild.de/sport/fussball/brajan-gruda-bild-verraet-alle-geheimnisse-ueber-den-star-des-dfb-6afea866ed542f4c39176dfe"
         },
         {
-          "titulo": "Heute großer Experten-Gipfel bei BILD - Frauen sollten bei ihrer Gesundheit „anstrengend bleiben“",
-          "entradilla": "Frauengesundheit im Fokus: Experten fordern bessere Vorsorge und Diagnosen.",
-          "enlace": "https://www.bild.de/leben-wissen/events/bild-frauengesundheitsgipfel-warum-bessere-versorgung-noetig-ist-6ae83c6aaedea8cd9ffc1524"
+          "titulo": "Live-Ticker - Wie ernst meinen sie diese „Friedenserklärung“?",
+          "entradilla": "Xi Jinping, Putin und Trump treffen sich erstmals zu einem Gipfel.",
+          "enlace": "https://www.bild.de/politik/ausland-und-internationales/live-ticker-trump-beginnt-treffen-mit-putin-in-china-6afe82704d1895cf2a8f07c5"
         },
         {
-          "titulo": "Spannender Vergleich - 96-Patron spricht über seinen neuen Boss",
-          "entradilla": "Gabor Ruhr soll bei 96 in die Fußstapfen von Marcus Mann treten. Martin Kind schwärmt.",
-          "enlace": "https://www.bild.de/sport/fussball/hannover96-spannender-vergleich-patron-kind-spricht-ueber-seinen-neuen-boss-6afc8c86cdc4b5009f0a93cd"
+          "titulo": "Gaming-Hit läuft nicht flüssig - GTA 6 bringt Zocker auf die Palme",
+          "entradilla": "Der neue Rockstar-Titel ruckelt und fällt in Kämpfen auf unter 20 FPS.",
+          "enlace": "https://www.bild.de/unterhaltung/bildgg/gta-6-bringt-zocker-auf-die-palme-spiel-laeuft-nicht-fluessig-6afec6384d1895cf2a8f0e0a"
         },
         {
-          "titulo": "Punkerin unter Wasser - Schildkröte mit Irokesen-Schnitt atmet durch den Po",
-          "entradilla": "Das Reptil deckt seinen Sauerstoffbedarf unter Wasser über die Kloake.",
-          "enlace": "https://www.bild.de/leben-wissen/haustiere/diese-schildkroete-kann-bis-zu-72-stunden-unter-wasser-bleiben-6afc21429893cadb7bd15b06"
+          "titulo": "55 Jahre nach Supermarkt-Mord - „Die Täter könnten immer noch in der Stadt leben“",
+          "entradilla": "Nach 55 Jahren werden die Ermittlungen zum Doppelmord in Weiden neu aufgenommen.",
+          "enlace": "https://www.bild.de/politik/55-jahre-nach-supermarkt-mord-die-taeter-koennten-immer-noch-in-der-stadt-leben-6afefa6a39a3e8110f0e259d"
         },
         {
-          "titulo": "Köln-Stürmer fit, aber... - Ache-Comeback nur als Joker",
-          "entradilla": "So plant Köln-Coach René Wagner (38) seine Offensive Freitag gegen die Bayern.",
-          "enlace": "https://www.bild.de/sport/fussball/1-fc-koeln-stuermer-fit-aber-ragnar-ache-nur-vor-joker-comeback-gegen-die-bayern-6afd60a9bb7e7a6679f9252a"
+          "titulo": "Menschen und Flugzeuge verschwinden - Erste Zocker fordern ihr Geld für GTA 6 zurück",
+          "entradilla": "Spieler berichten von Bugs: Figuren hängen fest, Autos und Objekte verhalten sich falsch.",
+          "enlace": "https://www.bild.de/leben-wissen/gta-6-spieler-zeigen-kuriose-bugs-figuren-haengen-fest-autos-spinnen-6aff035f39a3e8110f0e26c5"
         }
       ],
       "analisis": {
-        "resumen": "- El Gobierno prevé reducir el impuesto eléctrico al mínimo de la UE; los hogares podrían ahorrar hasta 93 euros al año desde 2027.\n- La policía visita a 14 sospechosos tras los disturbios en Hamburgo vinculados a protestas de la generación Z.\n- Dos redactores debaten sobre GTA 6, al que también se dedica un seguimiento en directo.\n- Los Hells Angels llevan ropa a prisión a un jefe del grupo apodado «el Carnicero».\n- La portada incluye consejos de salud, noticias deportivas y una curiosidad sobre una tortuga.",
-        "populismo": 45,
-        "motivo_populismo": "Expresiones como «Chaoten», «Schlächter» y «Weihnachten im November», junto con las mayúsculas enfáticas, aportan sensacionalismo, aunque no se aprecia una apelación al pueblo contra las élites.",
-        "sesgo": "La selección y la redacción favorecen un enfoque sensacionalista y cercano al consumo, con atención al beneficio económico personal, los sucesos y el entretenimiento. No se aprecia una orientación política clara en los titulares proporcionados."
+        "resumen": "- La portada destaca la cumbre de Xi, Putin y Trump, con titulares sobre el trato a Putin y la declaración de paz.\n- Vanessa Bryant planea entrar en el negocio del baloncesto; también se aborda un escándalo de póquer en California.\n- Las noticias deportivas incluyen la renovación de un jugador del Mainz, la lesión de un defensa del Núremberg y un perfil de Brajan Gruda.\n- Jugadores de GTA 6 denuncian fallos técnicos y algunos piden la devolución de su dinero.\n- Se reabre la investigación de un doble asesinato de hace 55 años y se plantea el posible peligro de vivir con osos en Alemania.",
+        "populismo": 55,
+        "motivo_populismo": "El tono recurre al sensacionalismo y al lenguaje emocional, con expresiones como «Xi humilla a Putin», «escándalo de póquer» y «los jugadores se suben por las paredes», aunque apenas aparecen apelaciones al pueblo contra las élites.",
+        "sesgo": "La selección privilegia el entretenimiento, el deporte y los conflictos personales, con una redacción que enfatiza el enfrentamiento, el peligro y la sorpresa. En los titulares facilitados no se aprecia una orientación política definida."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://taz.de",
       "noticias": [
         {
-          "titulo": "BSW-Wahlbeschwerde abgelehnt: Bloße Spekulationen genügen nicht",
-          "entradilla": "Das BSW konnte keine Neuauszählung der letzten Bundestagswahl erreichen. Das Bundesverfassungsgericht entschied einstimmig, das BSW schimpft. mehr...",
-          "enlace": "https://taz.de/BSW-Wahlpruefungsbeschwerde-abgelehnt/!6231169/"
+          "titulo": "Ernährungsmediziner über Adipositas: „Die Empfehlungen helfen, Adipositas genauer zu betrachten“",
+          "entradilla": "Seit 2025 gibt es eine erweiterte Adipositas-Definition, die über den BMI hinausgeht. Was das für die Praxis bedeutet, erklärt Hans Hauner. mehr...",
+          "enlace": "https://taz.de/Ernaehrungsmediziner-ueber-Adipositas/!6231367/"
         },
         {
-          "titulo": "Neuer Parlamentspräsident in Israel: Der Wind hat sich gedreht",
-          "entradilla": "Die Wahl zum Knessetsprecher kurz nach der Verkündung neuer Sanktionen gegen israelische Siedlungsprojekte zeigt: Es sind Signale des Wandels erkennbar. mehr...",
-          "enlace": "https://taz.de/Neuer-Parlamentspraesident-in-Israel/!6231039/"
+          "titulo": "Arbeitsverträge: Neuer Wutpunkt für die Gen Z",
+          "entradilla": "Die Ausweitung der Befristungsregel ist für junge Leute ein Schlag ins Gesicht. Sie sind sowieso schon die Schwächsten auf dem Arbeitsmarkt. mehr...",
+          "enlace": "https://taz.de/Arbeitsvertraege/!6231434/"
         },
         {
-          "titulo": "Apec-Gipfel in Shenzhen: Chinas Xi schenkt Putin die große Propaganda-Bühne",
-          "entradilla": "Chinas Gastgeber Xi Jinping präsentiert sich beim Gipfel in Shenzhen als Verfechter globalen Freihandels – während Putin Europas Sanktionspolitik als gescheitert darstellt. mehr...",
-          "enlace": "https://taz.de/Apec-Gipfel-in-Shenzhen/!6231090/"
+          "titulo": "Wadephuls Aserbaidschan-Besuch: Deutsche Interessen in Baku",
+          "entradilla": "Während Aserbaidschan christliche Kirchen zerstört, lobt Außenminister Wadephul in Baku die religiöse Toleranz. Was bringt da noch der Appell an die Moral? mehr...",
+          "enlace": "https://taz.de/Wadephuls-Aserbaidschan-Besuch/!6231501/"
         },
         {
-          "titulo": "Mahnmal für die Opfer der DDR-Diktatur: Denen, die sich nicht brechen ließen",
-          "entradilla": "Ein neues Mahnmal in Berlin soll an die Opfer der kommunistischen Diktatur erinnern. Die Linkspartei ist bei dessen Grundsteinlegung nicht erwünscht. mehr...",
-          "enlace": "https://taz.de/Mahnmal-fuer-die-Opfer-der-DDR-Diktatur/!6231057/"
+          "titulo": "Rekordsumme für van Gogh: Die komplexe Vergangenheit eines Gemäldes",
+          "entradilla": "Van Goghs „Blühende Kastanienbäume“ wurde für 190,4 Millionen US-Dollar versteigert. Der Auktion ging ein Streit über dessen Geschichte in der NS-Zeit voraus. mehr...",
+          "enlace": "https://taz.de/Rekordsumme-fuer-van-Gogh/!6231450/"
         },
         {
-          "titulo": "Abschiebungen nach Afghanistan: Mehr Taliban-Diplomaten für Deutschland",
-          "entradilla": "Die Bundesregierung lässt vier weitere Islamisten einreisen, um nach Afghanistan abschieben zu können. Allerdings stockten die Flüge zuletzt offenbar. mehr...",
-          "enlace": "https://taz.de/Abschiebungen-nach-Afghanistan/!6231097/"
+          "titulo": "KI-Rechenzentren: Ausbau nur, wenn die Menschen vor Ort einverstanden sind",
+          "entradilla": "Das KI-Ressentiment in den USA wächst, weil die Bedürfnisse der Gesellschaft beim Bau von Rechenzentren übergangen werden. Kann Europa daraus lernen? mehr...",
+          "enlace": "https://taz.de/KI-Rechenzentren/!6231042/"
         },
         {
-          "titulo": "Erste europäische Müllabfuhr fürs All: Bremer Raumfahrtkonzern OHB entfernt künftig Weltraumschrott",
-          "entradilla": "Der Mensch hinterlässt immer mehr Müll im All. Nun hat das Unternehmen OHB den Zuschlag für eine Mission zur Bergung eines ausgedienten Satelliten erhalten. mehr...",
-          "enlace": "https://taz.de/Erste-europaeische-Muellabfuhr-fuers-All/!6231200/"
+          "titulo": "Russlanddeutsche im Brandenburg der 90er: Ankommen und Anknüpfen in der Umbruchszeit",
+          "entradilla": "Eine Diskussion im Potsdamer Einstein Forum spürte der Ankunft von Russlanddeutschen und jüdischen Kontingentflüchtlingen im Brandenburg der Wendezeit nach. mehr...",
+          "enlace": "https://taz.de/Russlanddeutsche-im-Brandenburg-der-90er/!6231353/"
         },
         {
-          "titulo": "Öko-Verkehrsclub lobt Verkehrsminister: Wie die Regierung bei der Bahn den Takt vorgeben will",
-          "entradilla": "Der Bund gibt Geld für ein besseres Schienennetz. Er will die zuständige Bahn-Tochter aber auch stärker kontrollieren. mehr...",
-          "enlace": "https://taz.de/Oeko-Verkehrsclub-lobt-Verkehrsminister/!6231203/"
+          "titulo": "Wahl zum Fifa-Präsidenten: Sehr späte Einwechslung",
+          "entradilla": "Gianni Infantino wird bei der Wahl zum Fifa-Präsidenten zwei Gegenspieler haben. Spannender wird der Machtkampf aber auf anderer Ebene. mehr...",
+          "enlace": "https://taz.de/Wahl-zum-Fifa-Praesidenten/!6231423/"
         },
         {
-          "titulo": "Trump nach den Midterms-Wahlen: Die Perücke sitzt noch, der Krug ist hin",
-          "entradilla": "Was ist von Trump nach den Midterms zu erwarten? Ahnungen finden sich in Heinrich von Kleists Lustspiel „Der zerbrochene Krug“. mehr...",
-          "enlace": "https://taz.de/Trump-nach-den-Midterms-Wahlen/!6229843/"
+          "titulo": "Rassismus bei der Bremer Feuerwehr: Dieses Mal wird hingeschaut",
+          "entradilla": "Erneut ist ein Bremer Feuerwehrmann rassistisch aufgefallen, am Mittwoch gab es eine Hausdurchsuchung. Der Vorfall könnte sogar Mut machen. mehr...",
+          "enlace": "https://taz.de/Rassismus-bei-der-Bremer-Feuerwehr/!6231192/"
         },
         {
-          "titulo": "Leni-Riefenstahl-Stück in Hamburg: Zwischen Machtkampf und Vertrautheit",
-          "entradilla": "Ostermaiers Stück „Stahltier“ beleuchtet in Hamburg die Beziehung zwischen dem homosexuellen Fotografen Zielke und der NS-Filmemacherin Riefenstahl. mehr...",
-          "enlace": "https://taz.de/Leni-Riefenstahl-Stueck-in-Hamburg/!6228927/"
+          "titulo": "Der Politik-Podcast der taz: Haushalt, Streit und Schulden – was macht die Regierung da?",
+          "entradilla": "Die Koalition hat sich nach langem Hin und Her auf einen Bundeshaushalt für 2027 verständigt. Wird jetzt also alles gut fürs Land und die Regierung? mehr...",
+          "enlace": "https://taz.de/Der-Politik-Podcast-der-taz/!6231438/"
         },
         {
-          "titulo": "Wirtschaftswissenschaftler zu Einkommen: „Die Leute sind zufriedener mit ihren Einkommen“",
-          "entradilla": "Markus Grabka sagt, für die Mittelschicht sei das Problem der Bezahlbarkeit eher ein gefühltes. Hart bleibe es aber für Gruppen am unteren Rand. mehr...",
-          "enlace": "https://taz.de/Wirtschaftswissenschaftler-zu-Einkommen/!6230806/"
+          "titulo": "+++ Treffen von Putin, Trump und XI +++: Erst spricht Putin von Frieden, dann droht er mit Angriffen",
+          "entradilla": "Der Dreiergipfel endet mit einer Friedenserklärung. Kurz darauf droht Putin der Ukraine mit Angriffen und lädt die Europäer zu Gesprächen nach Moskau ein. mehr...",
+          "enlace": "https://taz.de/-Treffen-von-Putin-Trump-und-XI-/!6231342/"
         },
         {
-          "titulo": "Cyber-Angriff auf Eishockey-Weltverband: Russische Propaganda-Parolen auf der Webseite",
-          "entradilla": "Mitten im Streit um eine Teilnahme Russlands an Wettkämpfen ist der Eishockey-Weltverband Ziel einer Hacker-Attacke geworden. Einer russischen? mehr...",
-          "enlace": "https://taz.de/Cyber-Angriff-auf-Eishockey-Weltverband/!6231052/"
+          "titulo": "Podcast „Rätsel des Unbewussten“: Mehr Freud wagen",
+          "entradilla": "Der Podcast der Psy­cho­ana­ly­ti­ke­r*in­nen Cecile Loetz und Jakob Müller beschäftigt sich mit viel Liebe mit den Fragen der menschlichen Psyche. mehr...",
+          "enlace": "https://taz.de/Podcast-Raetsel-des-Unbewussten/!6224386/"
         },
         {
-          "titulo": "Unterschätztes Gemüse: Give me Fenchel!",
-          "entradilla": "Die weiße Knolle mit ihrem Anisaroma hat hierzulande einen schlechten Ruf. Unsere Autorin kann das nicht verstehen. Eine Liebeserklärung. mehr...",
-          "enlace": "https://taz.de/Fenchel-Eine-Liebeserklaerung-an-das-unterschaetzte-Gemuese/!6222724/"
+          "titulo": "Kinder fragen, die taz antwortet: Wie wird Erdnussbutter hergestellt?",
+          "entradilla": "Wir wollen von Kindern wissen, welche Fragen sie beschäftigen. Jede Woche beantworten wir eine. Diese Frage kommt von Bjarne, 5 Jahre alt. mehr...",
+          "enlace": "https://taz.de/Kinder-fragen-die-taz-antwortet/!6224460/"
         }
       ],
       "analisis": {
-        "resumen": "- El Constitucional alemán rechaza por unanimidad la petición del BSW de recontar las elecciones federales.\n- La elección del presidente de la Knéset se presenta como una señal de cambio en Israel; en la cumbre de APEC, Xi y Putin defienden sus posiciones.\n- Berlín prepara un monumento a las víctimas de la dictadura de la RDA; el Gobierno alemán admite a más diplomáticos talibanes para facilitar deportaciones.\n- Una empresa alemana retirará basura espacial y el Gobierno prevé invertir en la red ferroviaria y controlar más a su filial gestora.\n- La portada incluye noticias sobre ingresos, un ciberataque al hockey, Trump, teatro y gastronomía.",
-        "populismo": 20,
-        "motivo_populismo": "Predomina el tono informativo, aunque expresiones como «gran escenario propagandístico» y «cuatro islamistas», además de la sátira sobre Trump, introducen carga valorativa y llamativa.",
-        "sesgo": "La portada combina información con enfoques interpretativos, especialmente al presentar la elección en Israel como señal de cambio y la participación de Putin como propaganda. La redacción sobre los diplomáticos talibanes destaca su condición de islamistas."
+        "resumen": "- Una nueva definición de obesidad amplía el diagnóstico más allá del índice de masa corporal.\n- La ampliación de las reglas de contratación temporal se presenta como un perjuicio para los jóvenes.\n- La visita del ministro alemán de Exteriores a Azerbaiyán plantea dudas sobre intereses y valores.\n- Una obra de Van Gogh alcanza 190,4 millones de dólares en subasta, tras una disputa sobre su historia en la época nazi.\n- Otros temas incluyen el consentimiento local para los centros de datos de IA, el racismo en los bomberos de Bremen y el encuentro entre Putin, Trump y Xi.",
+        "populismo": 25,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «nuevo motivo de ira» y «una bofetada» intensifican emocionalmente la noticia sobre los contratos laborales.",
+        "sesgo": "La portada muestra atención a la protección de los jóvenes trabajadores, el consentimiento de las comunidades locales y la denuncia del racismo. También adopta un enfoque crítico ante la actuación diplomática alemana en Azerbaiyán."
       }
     }
   ]

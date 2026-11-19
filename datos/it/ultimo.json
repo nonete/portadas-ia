@@ -1,39 +1,39 @@
 {
   "pais": "Italia",
-  "fecha": "2026-11-17",
+  "fecha": "2026-11-19",
   "turno": 8,
-  "generado": "17/11/2026 16:32",
+  "generado": "19/11/2026 16:18",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "Se repiten la ley de presupuestos, las pensiones y las propuestas de regularización urbanística. También aparecen en varios periódicos la condena por el homicidio de Bergamini, el discurso de Mattarella sobre los jóvenes y las investigaciones relacionadas con Deutsche Bank y Revolut. Solo Corriere della Sera destaca el caso de Toti y las presuntas manipulaciones de datos de la pandemia en Liguria.",
-    "crispacion": 60,
-    "motivo_crispacion": "Las disputas sobre pensiones, impuestos y regularización urbanística reflejan tensiones entre partidos de la mayoría, mientras que las discrepancias sobre los beneficios extraordinarios enfrentan a fuerzas de la oposición. En Liguria, los encuentros de Toti con un empresario y las presuntas manipulaciones de datos de la pandemia alimentan la controversia. Algunos titulares emplean un lenguaje acusatorio sobre el antisemitismo y Palestina, y la guerra en Ucrania añade tensión internacional. Compensan parcialmente las noticias informativas sobre pensiones y economía y el mensaje de Mattarella sobre los jóvenes."
+    "temas": "Se repiten la muerte y el legado de Corrado Augias, la guerra en Ucrania y la reunión entre Trump, Xi y Putin. También aparecen desacuerdos dentro de la mayoría gubernamental, en particular sobre los libros escolares digitales. Solo Corriere della Sera destaca los encuentros y las investigaciones que afectan al gobernador ligur Giovanni Toti.",
+    "crispacion": 70,
+    "motivo_crispacion": "La tensión política se refleja en las divisiones de la mayoría sobre los libros digitales y, en Corriere, sobre el Superbonus y la tasa a las bebidas azucaradas. La huelga convocada por la CGIL añade protesta social y un lenguaje duro contra la ley presupuestaria. Las investigaciones y acusaciones vinculadas a Liguria y a la presunta búsqueda de votos mafiosos elevan la tensión, al igual que la guerra en Ucrania. La información sobre pensiones, ahorro y cultura aporta contrapuntos más tranquilos."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Veo una contradicción de clase en las portadas: mientras se celebra la posible salida de Italia del procedimiento por déficit, la OCDE señala que la renta real por habitante ha caído un 1 %. Las cuentas públicas no pueden juzgarse solo por su saldo, sino por la vida que permiten a quienes trabajan.\n\nLa propuesta de financiar una jubilación anticipada con recursos de los bancos abre un debate necesario, aunque todavía no sea una medida aprobada. Yo iría más lejos: la banca debe servir a necesidades sociales bajo control público y democrático, no decidir nuestro futuro según la rentabilidad privada.\n\nTambién defiendo una sanidad pública capaz de garantizar los tratamientos necesarios sin depender del bolsillo de cada paciente. Los casos de reembolsos irregulares en Lombardía exigen controles, pero también una política de medicamentos que anteponga la salud al beneficio. La propiedad colectiva es parte de esa respuesta."
+      "texto": "Hoy veo una política que habla de empresas mientras el coste de la vida queda fuera del centro del debate. La nueva zona económica para el norte promete facilitar trámites empresariales; yo preguntaría qué garantías ofrece a quienes trabajan y qué recursos se destinan a los servicios públicos.\n\nLa huelga general anunciada recuerda que la riqueza no la producen solo quienes poseen capital. Apoyo la organización de trabajadores y estudiantes para exigir salarios dignos, pensiones suficientes y una educación y una sanidad públicas fuertes. El acuerdo de la oposición sobre un ingreso mínimo es una señal, pero combatir la pobreza exige también cambiar quién decide sobre la economía. Defiendo formas de propiedad colectiva y control democrático: no basta con repartir ayudas si el poder de determinar nuestras condiciones de vida sigue concentrado en el gran capital."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "La propuesta de prohibir las redes sociales a menores de 13 años presenta el control como protección. Yo no niego los riesgos, pero desconfío de que una prohibición dictada desde arriba enseñe a enfrentarlos. Prefiero educación digital, acompañamiento y espacios donde jóvenes, familias y docentes decidan juntos, sin entregar toda la autoridad al Estado ni a las plataformas.\n\nTambién me inquieta que, tras décadas de espera, la ley sobre cuidadores pueda hacerse con prisas. Cuidar no debería ser una carga solitaria ni quedar a merced de negociaciones entre partidos. Defiendo redes de apoyo mutuo y servicios organizados con participación directa de quienes cuidan y de quienes reciben cuidados. La autogestión no significa abandonar a nadie: significa compartir recursos y decisiones. Para mí, la libertad individual solo es real cuando podemos sostenerla colectivamente."
+      "texto": "La huelga general convocada en Italia me recuerda que quienes trabajan no necesitan esperar a que los partidos les concedan voz. Cuando se organizan desde abajo, pueden defender sus condiciones y construir solidaridad más allá de las urnas. Pero también los sindicatos deben rendir cuentas a sus bases: ninguna jerarquía debería hablar en nombre de quienes no pueden decidir.\n\nEl acuerdo de la oposición sobre una renta mínima reconoce una necesidad real, aunque confiar la supervivencia a una medida decidida desde arriba deja intacta la dependencia del poder político. Yo prefiero fortalecer redes de apoyo mutuo y formas de autogestión que permitan compartir recursos y tomar decisiones colectivamente, sin renunciar por ello a reclamar alivio inmediato para quien lo necesita. La libertad individual exige condiciones materiales; la colectiva, que nadie monopolice las decisiones."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "La propuesta de prohibir las redes sociales a los menores de trece años me parece una respuesta demasiado cómoda: traslada al Estado decisiones que corresponden ante todo a las familias. Proteger a los niños importa, pero una prohibición general merece un escrutinio riguroso sobre su eficacia y sus costes para la libertad.\n\nTambién desconfío de financiar nuevas promesas de jubilación anticipada cargando la factura a los bancos. Los impuestos no desaparecen por elegir un pagador políticamente conveniente: pueden afectar al crédito, al ahorro y a la inversión. Yo prefiero impuestos bajos, cuentas públicas responsables y un sistema de pensiones que no comprometa el futuro de los jóvenes.\n\nUn Estado limitado no es un Estado indiferente: debe proteger derechos, hacer cumplir las reglas y dejar espacio para que las personas, con información y responsabilidad, decidan cómo vivir."
+      "texto": "Me preocupa que el debate sobre el presupuesto vuelva a girar en torno a ayudas y excepciones, mientras el coste de la vida aprieta. Quiero impuestos más bajos y reglas estables, no nuevos gravámenes sobre las bebidas ni cambios retroactivos que castiguen decisiones tomadas bajo otras condiciones. La confianza también es un recurso económico: sin ella, invertir y contratar resulta más arriesgado.\n\nLa propuesta de una renta mínima merece examinarse con seriedad, pero no basta con prometer protección: hay que explicar cómo se financiará y cómo evitará desincentivar el trabajo. Prefiero una red de seguridad acotada que ayude a quien lo necesita sin sustituir la responsabilidad personal. Y celebro que se simplifiquen trámites para las empresas del norte; mejor aún sería extender esa libertad de emprender, con menos burocracia, a todos."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Yo quiero una Italia que decida por sí misma, proteja sus fronteras y exija el cumplimiento de sus leyes. Que el alcalde de Lampedusa se incorpore a Hermanos de Italia debe servir para poner en primer plano una exigencia: control estricto de la inmigración, no una política dictada desde Bruselas o por quienes confunden soberanía con intolerancia.\n\nTambién apoyo limitar el acceso de los menores a las redes sociales. La familia debe recuperar autoridad frente a plataformas que han convertido la atención de nuestros hijos en negocio. Pero proteger las tradiciones exige algo más que discursos: exige escuelas sólidas y respeto por quienes educan.\n\nY desconfío de las promesas de pensiones sin una financiación clara. La deuda no desaparece porque los partidos se peleen por repartirla: termina recayendo sobre las familias y las generaciones futuras. La responsabilidad nacional empieza por decirles la verdad."
+      "texto": "Veo una Italia que necesita recuperar el control de sus decisiones. Mientras las grandes potencias hablan de paz, Europa no puede limitarse a esperar lo que otros pacten. Quiero una nación capaz de defender sus intereses y su seguridad, cooperando con sus aliados sin entregarles su soberanía.\n\nEn casa, el debate presupuestario parece atrapado entre disputas de partido, mientras el coste de la vida pesa sobre las familias. No creo que acumular deuda ni prometer subsidios universales sustituya una política que premie el trabajo y proteja el ahorro. Y las investigaciones sobre Liguria exigen claridad, sin condenas anticipadas: las instituciones sirven a los ciudadanos, no a círculos privilegiados.\n\nTambién defiendo una cultura que cuide a los vulnerables al final de la vida. Frente a la eutanasia, prefiero reforzar el acompañamiento y afirmar que ninguna vida pierde dignidad por la enfermedad."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Yo veo en el debate italiano sobre las pensiones una prueba de responsabilidad política. La propuesta de adelantar la jubilación merece examinarse, pero anunciar que se financiará con recursos de los bancos no sustituye una explicación convincente de sus costes y de su sostenibilidad. Proteger a quienes han trabajado toda una vida exige también no trasladar compromisos inciertos a los jóvenes.\n\nEn la sanatoria urbanística defendería una distinción clara: resolver irregularidades menores no debe convertirse en una señal de indulgencia ante los abusos. Las reglas necesitan ser justas, comprensibles y aplicarse de forma coherente. Prefiero que gobierno y oposición negocien reformas concretas, con costes transparentes, antes que competir con promesas difíciles de cumplir. Un mercado dinámico y una protección social sólida necesitan el mismo fundamento: instituciones fiables y cuentas públicas creíbles."
+      "texto": "Me preocupa que el debate presupuestario deje en segundo plano el coste de la vida. Una economía de mercado necesita empresas capaces de invertir, pero también una red de protección que impida que las familias más vulnerables paguen solas las crisis. El acuerdo progresista sobre una renta mínima merece un debate serio: defendería una prestación financieramente sostenible, coordinada con los servicios de empleo y evaluada por sus resultados.\n\nTambién creo que la huelga es una oportunidad para escuchar a los trabajadores, no para sustituir la negociación. Gobierno, sindicatos y empresas deberían buscar reformas graduales y compromisos verificables.\n\nEn política exterior, una declaración de paz entre grandes potencias no basta si Ucrania queda al margen. La diplomacia es indispensable, pero la seguridad europea exige respetar la soberanía de los países afectados y defender las instituciones internacionales."
     }
   ],
   "periodicos": [
@@ -103,10 +103,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- La portada cuestiona que los cambios en el código de circulación reduzcan las víctimas.\n- Varias noticias abordan las relaciones entre Toti, Spinelli y otros cargos ligures, incluidas reuniones en un yate y la presunta manipulación de datos de la pandemia.\n- El alcalde de Génova rechaza las acusaciones y pide claridad.\n- La mayoría de gobierno se enfrenta por el Superbonus y la tasa sobre las bebidas; en Ucrania, las tropas rusas avanzan hacia Járkov.\n- También destacan noticias sobre Fedez y Camila Giorgi, junto a consejos de inversión y ahorro.",
-        "populismo": 25,
-        "motivo_populismo": "Expresiones como «estalla el caso» y el énfasis en encuentros reservados aportan dramatismo, aunque no se aprecia una apelación al pueblo contra las élites.",
-        "sesgo": "La selección da amplio espacio a las controversias políticas en Liguria y a los desacuerdos dentro de la mayoría gobernante. El titular sobre el código de circulación adopta una postura crítica al afirmar que los cambios no reducirán las víctimas."
+        "resumen": "- Varios titulares abordan los contactos de Toti y otros cargos de Liguria con Spinelli, las reuniones en su yate y la supuesta manipulación de datos de la pandemia.\n- Bucci rechaza las acusaciones relacionadas con Spinelli y pide claridad.\n- La reforma del código de circulación y las discrepancias en la mayoría sobre el Superbonus y el impuesto a las bebidas ocupan también la portada.\n- Se informa del avance ruso hacia Járkov y de la difícil situación reconocida por Zelenski.\n- Otros temas son la denuncia contra Fedez, la situación fiscal de Camila Giorgi y las opciones de inversión y ahorro.",
+        "populismo": 30,
+        "motivo_populismo": "Expresiones como «estalla el caso» y la crítica a acumular deuda «sin pensar en quién pagará» aportan dramatismo y simplificación, aunque predominan los datos y las citas y no se aprecia una apelación al pueblo contra las élites.",
+        "sesgo": "La portada concentra su atención en las investigaciones y controversias que afectan a cargos de Liguria, con énfasis en las reuniones, las grabaciones y las presuntas irregularidades. También destaca los conflictos políticos y adopta una posición crítica sobre la deuda y la eficacia de la reforma vial."
       }
     },
     {
@@ -114,71 +114,71 @@
       "web": "https://www.repubblica.it",
       "noticias": [
         {
-          "titulo": "Divieto social agli under13, Meloni lo vuole nel dl sicurezza: sarà legge entro fine mese",
-          "entradilla": "Pronto emendamento di maggioranza: stop assoluto per i più piccoli. Dai 13 ai 16 anni possibilità di gestirne uno legato a quello dei genitori. Si seguirà la cornice del Kids act europeo",
-          "enlace": "https://www.repubblica.it/politica/2026/11/17/news/divieto_social_minori_meloni_decreto_sicurezza-425729952/"
+          "titulo": "La guerra ormai è sulle coste europee",
+          "entradilla": "Altre cinque navi attaccate davanti a Romania e Bulgaria: in due mesi ne sono state colpite 17 con la morte di trenta marinai. Ma Ue e Nato non sono in grado di contrastare l’offensiva russa",
+          "enlace": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/11/19/news/la_guerra_ormai_e_sulle_coste_europee-425735444/"
         },
         {
-          "titulo": "De Gennaro, la gip: “No arresto, ma ha nascosto qualcosa. Nuove prospettive su cabina regia stragi”",
-          "entradilla": "Le motivazioni del provvedimento firmato dalla gip di Caltanissetta",
-          "enlace": "https://palermo.repubblica.it/cronaca/2026/11/17/news/de_gennaro_gip_caltanissetta_depistaggio-425729891/"
+          "titulo": "Alcaraz, esami alla coscia e niente allenamento: ma non si ritira dalle Finals",
+          "entradilla": "Lo spagnolo giocherà con grande prudenza contro Cobolli dopo il problema accusato durante il match con Medvedev",
+          "enlace": "https://www.repubblica.it/sport/tennis/2026/11/19/news/alcaraz_infortunio_atp_finals-425735367/"
         },
         {
-          "titulo": "Ferragni in un doc “senza controllo”: “Aprirmi sempre stato difficile. Forse ho fatto il mio tempo”",
-          "entradilla": "L’influencer e imprenditrice riparte mettendosi in gioco e raccontandosi a cuore aperto dopo la caduta del pandoro-gate e le vicissitudini personali che hanno portato alla separazione da Fedez",
-          "enlace": "https://www.repubblica.it/spettacoli/people/2026/11/17/news/chiara_ferragni_documentario_netflix_fedez-425729856/"
+          "titulo": "La manovra (non) elettorale e il caro vita grande assente: perché il condono è l’ultima carta",
+          "entradilla": "Meloni scrive e riscrive la legge di bilancio per provare a “spegnere i focolai” del malcontento, mentre l’inflazione continua a crescere",
+          "enlace": "https://www.repubblica.it/politica/rubriche/la-verita-vi-prego/2026/11/19/news/manovra_caro_vita_assente_condono-425735336/"
         },
         {
-          "titulo": "Usa, i dubbi di un medico forense: il miliardario pedofilo Epstein potrebbe non essersi suicidato",
-          "entradilla": "Il dottor Michael Freeman, ingaggiato dal fratello della vittima Mark, sostiene che i segni sul collo “non somigliano a quelli di una impiccagione”. Nessuna rivista scientifica ha voluto pubblicare la sua tesi e ieri ha dunque tenuto una conferenza stampa",
-          "enlace": "https://www.repubblica.it/esteri/2026/11/17/news/jeffrey_epstein_morte_suicidio_dubbi_medico_forense-425729847/"
+          "titulo": "Santanchè: \"Dl scuola un nostro gol. Marina Berlusconi si occupa di impresa, Silvio un’altra cosa”",
+          "entradilla": "La senatrice di FdI difende l’emendamento del suo partito sugli e-book che ha spaccato la maggioranza. FI che ha votato contro",
+          "enlace": "https://www.repubblica.it/politica/2026/11/19/news/daniela_santanche_dl_scuola_berlusconi_intervista-425735156/"
         },
         {
-          "titulo": "Ecco gli emendamenti di FdI per il condono, ma ora Meloni frena: “Rischiamo un boomerang”",
-          "entradilla": "Pronto un pacchetto di 12 proposte, dall’estensione di abusi minori e pertinenze alla riattivazione di vecchie istanze già presentate ma non definite. La premier ai suoi: “La manovra non può diventare quella dei condoni”",
-          "enlace": "https://www.repubblica.it/politica/2026/11/17/news/condono_emendamenti_fdi_meloni_frena-425729786/"
+          "titulo": "Corrado Augias, la rockstar degli eventi di Repubblica",
+          "entradilla": "Da Rep Idee alle Arene nelle grandi fiere librarie. Quando lo scrittore e giornalista saliva sul palco, gli appuntamenti registravano il tutto esaurito. Tra standing ovation e lunghe code per conoscerlo e parlargli da vicino",
+          "enlace": "https://www.repubblica.it/cultura/2026/11/19/news/augias_corrado_morte_star_eventi_repubblica-425735153/"
         },
         {
-          "titulo": "Omicidio Bergamini, condanna confermata per l’ex fidanzata Isabella Internò",
-          "entradilla": "I giudici della Corte d’Assise d’Appello hanno confermato la pena di 16 anni già stabilita in primo grado",
-          "enlace": "https://www.repubblica.it/cronaca/2026/11/17/news/bergamini_omicidio_confermata_condanna_ex_fidanzata_isabella_interno-425729707/"
+          "titulo": "Il trionfo di Xi Jinping, il grande cerimoniere di Shenzhen",
+          "entradilla": "In un trilaterale di poca sostanza e tanta forma, il presidente cinese ottiene quello che voleva: dare alla Cina una immagine di potenza mediatrice e stabilizzare la tregua con gli Stati Uniti",
+          "enlace": "https://www.repubblica.it/esteri/2026/11/19/news/xi_jinping_putin_trump_summit_shenzhen-425735127/"
         },
         {
-          "titulo": "Annullato il festival russo, la decisione del cinema Barberini di Roma",
-          "entradilla": "La kermesse doveva tenersi dal 19 al 23 novembre 2026",
-          "enlace": "https://www.repubblica.it/politica/2026/11/17/news/festival_cinema_russo_roma_annullato_cinema_barberini-425729673/"
+          "titulo": "Prodi: “La voce morale di Augias mi mancherà”",
+          "entradilla": "Il ricordo del Professore: “Mi chiedeva sempre di tornare in politica, ma credo lo facesse per affetto”",
+          "enlace": "https://bologna.repubblica.it/cronaca/2026/11/19/news/romano_prodi_corrado_augias_voce_morale-425735101/"
         },
         {
-          "titulo": "Pensioni, Salvini sfida gli alleati: “Quota 64 già dal 2027, i soldi dalle banche”",
-          "entradilla": "La Lega annuncia nuove coperture nella manovra dopo il vertice di partito. Ma il fondo da 850 milioni non prevede ancora l’uscita anticipata",
-          "enlace": "https://www.repubblica.it/economia/2026/11/17/news/pensioni_salvini_sfida_alleati_quota_64_risorse_banche-425729634/"
+          "titulo": "Augias e la battaglia sul fine vita: “I nostri giorni nelle nostre mani”",
+          "entradilla": "I trent'anni di lotte per il diritto all'eutanasia e al suicidio assistito, dai casi di Welby, Eluana Englaro, DJ Fabo, fino alle recenti riflessioni su Repubblica. “Non siamo fatti per vivere come vegetali. La mia vita appartiene a me”.",
+          "enlace": "https://www.repubblica.it/cronaca/2026/11/19/news/battaglia_corrado_augias_fine_vita_eutanasia-425735069/"
         },
         {
-          "titulo": "Mattarella apre l’anno accademico in Cattolica: “I giovani costruiranno il futuro, meritano fiducia”",
-          "entradilla": "Il presidente della Repubblica all’inaugurazione dell’anno accademico dell’università di largo Gemelli: “Scuole e università hanno un compito straordinariamente importante: ampliare e accrescere cultura, scienza e visione del futuro dei ragazzi”",
-          "enlace": "https://milano.repubblica.it/cronaca/2026/11/17/news/mattarella_inaugurazione_anno_accademico_cattolica_giovani_cambiare_mondo_fiducia-425729621/"
+          "titulo": "Libri scolastici, un mercato da 773 milioni dominato da quattro grandi gruppi. La sfida del digitale",
+          "entradilla": "Il settore perde il 2,2% in un anno (dati 2025) e deve fare i conti con il calo degli studenti. Mondadori, Zanichelli, Sanoma e La Scuola controllano oltre l'80% delle adozioni. Quasi tutti i testi adottati comprendono una versione elettronica ma quelli esclusivamente digitali sono appena il 3%",
+          "enlace": "https://www.repubblica.it/economia/2026/11/19/news/libri_scuola_universita_ebook_digitali_mercato_editori-425735036/"
         },
         {
-          "titulo": "L’indagine su Gianni De Gennaro, cosa c’è nell’accusa di depistaggio all’ex capo della polizia",
-          "entradilla": "Le contestazioni della procura di Caltanissetta, le riserve del gip che ha negato l’arresto. Il caso che divide l’antimafia",
-          "enlace": "https://palermo.repubblica.it/cronaca/2026/11/17/news/gianni_de_gennaro_inchiesta_depistaggio_stragi_borsellino-425729564/"
+          "titulo": "Mattarella ricorda Augias: “Giornalista libero, ha trasmesso valori della democrazia e Costituzione”",
+          "entradilla": "Il messaggio del presidente della Repubblica per lo scrittore e divulgatore scomparso: “Ha avvicinato generazioni di cittadini alla cultura”",
+          "enlace": "https://www.repubblica.it/politica/2026/11/19/news/mattarella_ricorda_corrado_augias_giornalista_libero_costituzione-425734996/"
         },
         {
-          "titulo": "Camila Giorgi, nuova vita e ritorno in campo. E annuncia anche un accordo con il fisco",
-          "entradilla": "L’italoargentina, a distanza di 3 anni dall’ultimo match, dopo il matrimonio e la maternità, tornerà a giocare. Con l’intenzione di risolvere le vicissitudini di tipo fiscale dell’ultimo periodo agonistico",
-          "enlace": "https://www.repubblica.it/sport/tennis/2026/11/17/news/camila_giorgi_ritorno_campo_accordo_fisco-425729497/"
+          "titulo": "Augias, monsignor Paglia: “Era appassionato di un umanesimo largo, con lui dialoghi scoppiettanti”",
+          "entradilla": "Intervista all’alto prelato che ha intessuto negli anni un fitto dibattito con il giornalista scomparso, anche sul tema del suicidio assistito. “L’amicizia è più forte della morte. Gli direi: arrivederci”",
+          "enlace": "https://www.repubblica.it/cronaca/2026/11/19/news/monsignor_vincenzo_paglia_corrado_augias_fine_vita-425734912/"
         },
         {
-          "titulo": "Michael, tra palloncini bianchi e viola i funerali del ragazzo suicida: \"Non siete sbagliati\"",
-          "entradilla": "A Roma le lacrime di parenti e amici del 15enne: “Siamo qui per salutarti ma soprattutto per ricordare come eri, il tuo sorriso, la tua voce, i momenti insieme a scuola che ora sono solo ricordi”",
-          "enlace": "https://www.repubblica.it/cronaca/2026/11/17/news/funerali_michael_suicida_roma_oggi-425729468/"
+          "titulo": "I libri di Corrado Augias come un racconto giallo, tra segreti e inchieste",
+          "entradilla": "Dalle guide storiche a città come Roma, Parigi e Istanbul alle grandi domande su Gesù e il rapporto di un laico con Dio. Fino all’ultimo saggio su Machiavelli. L’eredità di un uomo che credeva nella diffusione della cultura",
+          "enlace": "https://www.repubblica.it/cultura/2026/11/19/news/libri_corrado_augias_giornalista_scrittore-425734794/"
         }
       ],
       "analisis": {
-        "resumen": "- Meloni impulsa una prohibición de las redes sociales para menores de 13 años y restricciones hasta los 16.\n- La investigación sobre De Gennaro por presunto encubrimiento divide al ámbito antimafia; la jueza ha rechazado su arresto.\n- Meloni frena propuestas de amnistía urbanística de su partido, mientras Salvini reclama adelantar la jubilación con fondos de los bancos.\n- Se confirma la condena a 16 años para la exnovia de Bergamini; un médico forense plantea dudas sobre el suicidio de Epstein.\n- La portada recoge noticias sobre Ferragni, Camila Giorgi, el funeral de un adolescente, la cancelación de un festival ruso y un discurso de Mattarella.",
-        "populismo": 24,
-        "motivo_populismo": "Predomina un tono informativo, aunque aparecen expresiones emotivas como «después de la caída» y formulaciones de confrontación como «Salvini desafía a sus aliados», sin una apelación clara al pueblo contra las élites.",
-        "sesgo": "La portada prioriza la política italiana, los conflictos entre sus dirigentes y los asuntos judiciales. También combina noticias institucionales con sucesos y relatos personales de tono emocional."
+        "resumen": "- La guerra llega a las costas europeas: se denuncian nuevos ataques a barcos y la falta de respuesta eficaz de la UE y la OTAN.\n- La ley de presupuestos se presenta como una respuesta al descontento que deja de lado el encarecimiento de la vida.\n- La reforma escolar divide a la mayoría; otro artículo analiza la concentración del mercado de libros de texto y el avance digital.\n- Varios artículos recuerdan a Corrado Augias, su trayectoria cultural y su defensa del derecho a la eutanasia y al suicidio asistido.\n- Se aborda el papel mediador de China y la participación de Alcaraz en las Finals pese a sus problemas físicos.",
+        "populismo": 30,
+        "motivo_populismo": "Expresiones como «la guerra ya está en las costas europeas» y «la última carta» aportan alarma y dramatización, aunque predominan titulares informativos y no se observa una apelación al pueblo contra las élites.",
+        "sesgo": "La portada adopta un enfoque crítico hacia el Gobierno italiano y hacia la capacidad de respuesta de la UE y la OTAN. La amplia cobertura de Augias tiene un tono claramente elogioso y destaca su defensa del derecho al final de la vida."
       }
     },
     {
@@ -186,71 +186,71 @@
       "web": "https://www.lastampa.it",
       "noticias": [
         {
-          "titulo": "Rapinatori uccisi da Mario Roggero, i giudici: “Deliberata aggressione per farsi giustizia da sé”",
-          "entradilla": "Le motivazioni della sentenza che ha reso definitiva la condanna del gioielliere a 14 anni e 9 mesi. Il colpo il 28 aprile 2021 a Grinzane Cavour",
-          "enlace": "https://www.lastampa.it/cuneo/2026/11/17/news/mario_roggero_sentenza_motivazioni_gioielliere_rapinatori_uccisi-15800837/"
+          "titulo": "Bonus Natale per i pensionati: a chi spetta e come ottenerlo",
+          "entradilla": "Il bonus arriva insieme alla tredicesima ed è accreditato automaticamente, ma il diritto può essere verificato anche dopo il pagamento. Requisiti, importi e istruzioni per controllare la propria posizione",
+          "enlace": "https://www.lastampa.it/tuttosoldi/2026/11/19/news/bonus_natale_pensionati-15802668/"
         },
         {
-          "titulo": "Caso Bergamini, confermata in appello la condanna a 16 anni per l’ex fidanzata Isabella Internò",
-          "entradilla": "Il calciatore del Cosenza Denis Bergamini fu ucciso il 18 novembre 1989 a Roseto Capo Spulico. La donna è accusata di concorso in omicidio volontario",
-          "enlace": "https://www.lastampa.it/cronaca/2026/11/17/news/omicidio_bergamini_convalida_condanna_16_anni_isabella_interno-15800765/"
+          "titulo": "Il governo: arriva la Zes per il Nord. Come funziona, cosa prevede e come aiuterà le imprese",
+          "entradilla": "Autorizzazione unica e sportello digitale anche per Piemonte, Lombardia e Liguria. Entro sessanta giorni un piano indicherà i settori. Niente credito d’imposta.",
+          "enlace": "https://www.lastampa.it/speciale/economia/nordovest-economia/2026/11/19/news/il_governo_arriva_la_zes_per_il_nord_come_funziona_cosa_prevede_e_come_aiutera_le_imprese-15802680/"
         },
         {
-          "titulo": "Terremoto su Deutsche Bank, maxi-inchiesta con 15 milioni di file segreti: da Epstein all’Italia, cosa sta uscendo",
-          "entradilla": "Oltre 15 milioni di documenti riservati svelati da circa 50 testate internazionali: falle dei controlli e oligarchi russi. La replica dell’istituto: file vecchi di anni",
-          "enlace": "https://www.lastampa.it/economia/2026/11/17/news/deutsche_bank_inchiesta_documenti_epstein_trump_italia-15800693/"
+          "titulo": "Sciopero generale 20 novembre: trasporti, scuole e manifestazioni. Cosa succederà punto per punto",
+          "entradilla": "Lavoratori e studenti in piazza e oltre cento manifestazioni in tutta Italia. Esclusi dall’astensione il trasporto aereo, ferroviario e il trasporto merci su rotaia",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/19/news/sciopero_generale_20_novembre_trasporti_scuole_manifestazioni-15802765/"
         },
         {
-          "titulo": "“Così è stato ucciso Jeffrey Epstein”. Ecco tutta la nuova analisi biomedica forense",
-          "entradilla": "Il professor Michael Freeman, una delle maggiori autorità, ha presentato agli esperti forensi a Londra i suoi ritrovamenti. E un carteggio tra procuratori a New York parlò di “assassinio” nel 2020, non di “morte”. Ma fu insabbiato durante l’amministrazione Trump",
-          "enlace": "https://www.lastampa.it/esteri/2026/11/17/news/epstein_e_stato_ucciso_ecco_la_nuova_analisi_biomedica_forense_le_foto_e_i_segni_di_aggressione-15800426/"
+          "titulo": "“La manovra fa schifo”: il 20 novembre lo sciopero della Cgil in 100 piazze d’Italia",
+          "entradilla": "Landini all’attacco: «Anche per la maggioranza di governo la legge di bilancio va cambiata». Fermi per l’intera giornata tutti i settori privati ed i dipendenti pubblici, comprese scuole, università, ospedali e trasporto pubblico locale",
+          "enlace": "https://www.lastampa.it/economia/2026/11/19/news/la_manovra_fa_schifo_domani_la_cgil_manifesta_in_100_piazze_d_italia-15801946/"
         },
         {
-          "titulo": "Revolut, spariti 42 milioni. Quei 22 clienti sospetti che hanno fatto scattare le indagini",
-          "entradilla": "Calamucci di Equalize tra i 22 clienti sospetti. Accertamenti della Gdf sui flussi finanziari",
-          "enlace": "https://www.lastampa.it/economia/2026/11/17/news/inchiesta_revolut_omesse_segnalazioni_e_fondi_dirottati-15800321/"
+          "titulo": "Addio a Corrado Augias, una vita tra libri, musica e tv alla ricerca del senso dell’Italia",
+          "entradilla": "Aveva 91 anni. Dai trascorsi a New York alle esperienze sul piccolo schermo. Una figura eclettica, carica di significati e difficile da incasellare in una sola definizione",
+          "enlace": "https://www.lastampa.it/cultura/2026/11/19/news/morto_il_giornalista_e_scrittore_corrado_augias-15802498/"
         },
         {
-          "titulo": "Mattarella inaugura l’anno accademico alla Cattolica: “Il compito dei giovani è cambiare il mondo”",
-          "entradilla": "Il presidente della Repubblica con la rettrice dell’ateneo milanese Beccalli",
-          "enlace": "https://www.lastampa.it/politica/2026/11/17/news/mattarella_inaugurazione_anno_accademico_universita_cattolica_milano-15800710/"
+          "titulo": "Mattarella: “Giornalista libero, ha trasmesso i valori della democrazia”. La camera ardente sabato in Campidoglio",
+          "entradilla": "Ha attraversato la storia dell’Italia dal dopoguerra. La scomparsa questa mattina alle 5: aveva 91 anni. Sabato la camera ardente in Campidoglio",
+          "enlace": "https://www.lastampa.it/cultura/2026/11/19/diretta/morto_corrado_augias_oggi-15802612/"
         },
         {
-          "titulo": "Come funziona il nuovo condono edilizio, tutti gli interventi possibili",
-          "entradilla": "Tra gli emendamenti di Fratelli d’Italia alla legge di bilancio torna l’ipotesi di sanatoria per le lievi irregolarità, esclusi gli abusi e gli immobili incompatibili con i vincoli di tutela",
-          "enlace": "https://www.lastampa.it/economia/2026/11/17/news/come_funziona_il_nuovo_condono_edilizio_ecco_gli_interventi_possibili-15800468/"
+          "titulo": "\"Sono l'ultima rimasta\", \"No, Natalia, ci sono anche io\": il botta e risposta tra Augias e Aspesi",
+          "entradilla": "Il ricordo del fondatore di Repubblica passa attraverso due penne che hanno fatto la storia del giornale, Natalia Aspesi e Corrado Augias, e si intreccia alla crisi di governo scoppiata in Senato: \"Sono contenta che Scalfari non sappia di oggi - dice Aspesi -, sembriamo sempre un villaggetto litigio",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/19/video/metropolis136__morte_scalfari_aspesiaugias_sono_lultima_rimasta_no_natalia_ci_sono_anche_io-5445424/"
         },
         {
-          "titulo": "Scontro M5s-Iv sugli extraprofitti, tensione al tavolo delle opposizioni sulla manovra",
-          "entradilla": "I 5 stelle interrompono il confronto sugli emendamenti comuni alla legge di bilancio, la lite sulle coperture. Ma poi i renziani danno il via libera: “Sì a un accordo su un pacchetto condiviso”",
-          "enlace": "https://www.lastampa.it/politica/2026/11/17/news/scontro_m5s-iv_sugli_extraprofitti_tensione_al_tavolo_delle_opposizioni_sulla_manovra-15800774/"
+          "titulo": "Cina, Usa e Russia siglano un patto di pace. Sul nucleare: \"Ridurre i rischi\" ma nessun accordo",
+          "entradilla": "Il vertice è stato preceduto da incontri separati tra Trump e gli altri due leader",
+          "enlace": "https://www.lastampa.it/esteri/2026/11/19/diretta/vertice_shenzhen_xi_trump_putin-15802203/"
         },
         {
-          "titulo": "Dombrovskis: “L’Italia può uscire dalla procedura per deficit in primavera”. Economia Ue meglio del previsto",
-          "entradilla": "Le previsioni della Commissione: crescita Ue all’1,4% quest’anno, in Italia raggiungerà l’1%. Atteso un picco dell’inflazione oltre il 4% nei prossimi mesi.",
-          "enlace": "https://www.lastampa.it/economia/2026/11/17/news/economia_ue_debito_commissione_italia-15800660/"
+          "titulo": "Xi-Trump-Putin, attacco alla Corte Penale: “Fuori controllo. Non abusi della sua giurisdizione”",
+          "entradilla": "I tre capi di Stato hanno riconosciuto l'importanza del principio del consenso statale e del rispetto dell'immunità dei funzionari statali, e hanno convenuto che la Corte penale internazionale e altre istituzioni simili non devono abusare della propria giurisdizione",
+          "enlace": "https://www.lastampa.it/esteri/2026/11/19/news/vertice_shenzhen_trump_corte_penale_internazionale_xi_putin-15802519/"
         },
         {
-          "titulo": "Pensioni, aumenti anche per gli assegni fra 2500 e 3600 euro: cosa cambia e chi ci guadagna",
-          "entradilla": "L’Ocse: in Italia il reddito reale pro-capite scende dell’1%",
-          "enlace": "https://www.lastampa.it/economia/2026/11/17/news/pensioni-aumenti-rivalutazione-inflazione-2500-euro-manovra-2027-15800257/"
+          "titulo": "Shenzhen, l’Ucraina convitato di pietra al tavolo Trump-Putin-Xi",
+          "entradilla": "Un’ora e mezza a porte chiuse tra i presidenti Usa, cinese e russo. Il Tycoon chiama “amico” lo Zar e invoca il ruolo di Pechino per fermare la guerra, mentre il leader della Repubblica Popolare predica prudenza. Il governo Zelensky: “Non torniamo alle sfere d’influenza”",
+          "enlace": "https://www.lastampa.it/esteri/2026/11/19/news/shenzhen_l_ucraina_convitato_di_pietra_al_tavolo_trump-putin-xi-15802588/"
         },
         {
-          "titulo": "L’Ucraina abbatte un’arcata del Ponte simbolo della Crimea. Mosca ne colpisce due a Kiev",
-          "entradilla": "Kallas: «Per iniziare i colloqui con la Russia, prima il cessate il fuoco». L’Ue: altre 140 sanzioni alla Russia",
-          "enlace": "https://www.lastampa.it/esteri/2026/11/17/diretta/guerra_russia_ucraina_news_oggi-15800353/"
+          "titulo": "Dal vino al litchi alle rotte dei droni: le curiosità attorno al vertice trilaterale di Shenzhen",
+          "entradilla": "Il banchetto con aragosta allo zenzero, i ventidue brani musicali: i dettagli più curiosi a margine dell’incontro Trump-Putin-Xi",
+          "enlace": "https://www.lastampa.it/esteri/2026/11/19/news/dal_vino_al_litchi_alle_rotte_dei_droni_le_curiosita_attorno_al_vertice_trilaterale_di_shenzhen-15802646/"
         },
         {
-          "titulo": "Il Papa: “Non ho firmato le dimissioni anticipate. Dopo il voto di Midterm mi aspetto meno guerre”",
-          "entradilla": "Leone XIV sul volo di ritorno dal Sudamerica e l’ipotesi della rinuncia per motivi di salute: “Eventualmente lo farò, ma per adesso non ne vedo il bisogno. Non faccio commenti politici ma servono meno divisioni e meno polemica”",
-          "enlace": "https://www.lastampa.it/cronaca/2026/11/17/news/papa_leone_sto_bene_non_ho_firmato_la_lettera_di_dimissioni_anticipate-15800513/"
+          "titulo": "Perché il caso di Jensen Huang è il termometro dei rapporti fra Stati Uniti e Cina",
+          "entradilla": "Il caso di Jensen Huang è il termometro dei rapporti fra Stati Uniti e Cina: ecco perché",
+          "enlace": "https://www.lastampa.it/rubriche/il-capitale/2026/11/19/news/il_manager_nella_stanza-15802650/"
         }
       ],
       "analisis": {
-        "resumen": "- La justicia confirma la condena al joyero que mató a dos atracadores y la de la exnovia de Denis Bergamini por su asesinato.\n- Una investigación sobre Deutsche Bank revela millones de documentos; otra noticia presenta un análisis forense sobre la muerte de Epstein.\n- Se investigan 42 millones desaparecidos en Revolut y las operaciones de 22 clientes sospechosos.\n- La portada aborda la posible regularización de irregularidades urbanísticas, las pensiones y las tensiones entre partidos de oposición por el presupuesto.\n- Ucrania y Rusia atacan puentes; el papa descarta por ahora una renuncia anticipada.",
-        "populismo": 30,
-        "motivo_populismo": "Expresiones como «terremoto», «maxiinvestigación» y «42 millones desaparecidos» aportan dramatismo, aunque predominan titulares informativos sin una contraposición explícita entre pueblo y élites.",
-        "sesgo": "La selección prioriza sucesos judiciales, investigaciones financieras y conflictos, con un enfoque de denuncia en algunas noticias. La presentación de la muerte de Epstein enfatiza la hipótesis de asesinato y su presunto encubrimiento."
+        "resumen": "- El Gobierno anuncia una zona económica especial para el norte, sin crédito fiscal, y se explican sus medidas.\n- La huelga general del 20 de noviembre movilizará a trabajadores y estudiantes; la CGIL critica la ley de presupuestos.\n- Muere a los 91 años Corrado Augias, recordado por su trayectoria periodística y cultural.\n- Trump, Putin y Xi se reúnen en Shenzhen: abordan la paz, el riesgo nuclear y la Corte Penal Internacional, con Ucrania como asunto de fondo.\n- La portada recoge curiosidades de la cumbre y aborda el caso de Jensen Huang en las relaciones entre Estados Unidos y China.",
+        "populismo": 22,
+        "motivo_populismo": "Predomina un tono explicativo, aunque aparecen expresiones confrontativas o emocionales como «La maniobra da asco» y «ataque a la Corte Penal», sin una apelación clara al pueblo contra las élites.",
+        "sesgo": "La portada presta especial atención a la huelga y a las críticas sindicales al Gobierno, junto con una cobertura práctica de sus medidas económicas. Dedica también varios espacios a la cumbre internacional y a un homenaje elogioso a Augias."
       }
     },
     {
@@ -258,71 +258,71 @@
       "web": "https://www.ilgiornale.it",
       "noticias": [
         {
-          "titulo": "Il voltafaccia di Conte e Schlein sull’antisemitismo: votano No a un ddl che hanno promosso",
+          "titulo": "Trump, Xi e Putin fimano una “dichiarazione di pace”: si parla di Onu e nucleare, non di Iran e Ucraina I dossier in 4 punti: cosa hanno deciso",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/interni/il-voltafaccia-della-sinistra-sullantisemitismo-vota-no-a-un-ddl-che-ha-promosso/"
+          "enlace": "https://www.ilgiornale.it/diretta/guerra/concluso-il-trilaterale-del-secolo-usa-cina-russia-trump-ridurre-le-armi-nucleari-xi-interazioni-tra-potenze-sono-necessita-putin-incontro-storico-diretta/"
         },
         {
-          "titulo": "Ue, deficit Italia al 2,9% nel 2026. Dombrovskis: “Possibile uscita da procedura d’infrazione in primavera” Nec e Safe, come funziona la flessibilità europea",
+          "titulo": "Meloni a Berlino per il vertice dei volenterosi. L’Italia debutta tra gli E5",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/economia-e-finanza/ue-deficit-italia-al-29-nel-2026-dombrovskis-possibile-uscita-da-procedura-dinfrazione-in-primavera/"
+          "enlace": "https://www.ilgiornale.it/diretta/politica-estera/meloni-a-berlino-per-il-vertice-dei-volenterosi-litalia-debutta-tra-gli-e5/"
         },
         {
-          "titulo": "Omicidio Bergamini, confermata la condanna per l’ex fidanzata Isabella Internò: 16 anni per l’omicidio del calciatore",
+          "titulo": "Natalie Harp, l’ombra di Trump che lo segue fino a Manila: chi è “la stampante umana” della Casa Bianca",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/cronaca-giudiziaria/omicidio-bergamini-confermata-la-condanna-per-lex-fidanzata-isabella-interno-16-anni-per-lomicidio-del-calciatore/"
+          "enlace": "https://www.ilgiornale.it/news/cronaca-internazionale/natalie-harp-lombra-di-trump-che-lo-segue-fino-a-manila-chi-e-la-stampante-umana-della-casa-bianca/"
         },
         {
-          "titulo": "Il sindaco di Lampedusa, Filippo Mannino: “Entro in FdI. Grazie alla Meloni è cambiato tutto”",
+          "titulo": "Principe Harry, l’avvertimento sulla Russia: “Siamo già in guerra, pronto a tornare nell’esercito”",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/interni/il-sindaco-di-lampedusa-filippo-mannino-entro-in-fdi-grazie-alla-meloni-e-cambiato-tutto/"
+          "enlace": "https://www.ilgiornale.it/news/cronaca-internazionale/principe-harry-lavvertimento-sulla-russia-siamo-gia-in-guerra-pronto-a-tornare-nellesercito/"
         },
         {
-          "titulo": "Manovra, rush finale per gli emendamenti: dalle pensioni alla sanità, tutte le modifiche sul tavolo",
+          "titulo": "Picchiata e stuprata da marito, cognati e suocero, pakistana si lancia dall’auto in corsa. A Novellara un nuovo caso Saman",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/politica-economica/manovra-rush-finale-per-gli-emendamenti-dalle-pensioni-alla-sanita-tutte-le-modifiche-sul-tavolo/"
+          "enlace": "https://www.ilgiornale.it/news/nazionale/devi-fare-sesso-con-tutti-noi-e-la-pakistana-si-lancia-dallauto-in-corsa-a-novellara-un-nuovo-caso-saman/"
         },
         {
-          "titulo": "La Lega accelera su Quota 64: “Copertura in manovra”",
+          "titulo": "Morto Corrado Augias: una vita a sinistra. Dagli attacchi al governo alle polemiche. Lunedì l’ultima puntata post mortem ideata da lui stesso",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/politica-economica/pensioni-la-lega-accelera-su-quota-64-copertura-in-manovra/"
+          "enlace": "https://www.ilgiornale.it/news/nazionale/morto-corrado-augias-una-vita-a-sinistra-dagli-attacchi-al-governo-alle-polemiche-lunedi-lultima-puntata-post-mortem-ideata-da-lui-stesso/"
         },
         {
-          "titulo": "Pensioni, aumenti fino a 650 euro l’anno: ecco chi potrebbe beneficiarne",
+          "titulo": "Quel chiodo fisso: quattro anni di veleni contro Meloni",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/previdenza-e-pensioni/pensioni-aumenti-fino-a-650-euro-lanno-chi-potrebbe-guadagnarci-con-le-modifiche-alla-manovra/"
+          "enlace": "https://www.ilgiornale.it/news/governo/augias-il-chiodo-fisso-contro-la-destra-quattro-anni-di-bordate-e-veleni-contro-meloni-e-gli-altri-leader/"
         },
         {
-          "titulo": "Leone XIV: “Non ho firmato una lettera di dimissioni anticipate”. E sulle midterm: “Vorrei più dialogo. Meno guerre e divisioni”",
+          "titulo": "Il cordoglio della politica, Mattarella: “Giornalista libero”",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/vaticano/leone-xiv-non-ho-firmato-una-lettera-di-dimissioni-anticipate-e-sulle-midterm-vorrei-piu-dialogo-meno-guerre-e-divisioni/"
+          "enlace": "https://www.ilgiornale.it/news/parlamento/addio-a-corrado-augias-mattarella-giornalista-libero/"
         },
         {
-          "titulo": "Mattarella: “I giovani possono cambiare il mondo. Sono i protagonisti del cambiamento”",
+          "titulo": "Covid, la frase choc: “Non siamo qui per salvare vite umane”. E Aifa rifiutò i monoclonali",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/quirinale/mattarella-i-giovani-possono-cambiare-il-mondo-sono-i-protagonisti-del-cambiamento/"
+          "enlace": "https://www.ilgiornale.it/news/interni/covid-la-frase-choc-non-siamo-qui-per-salvare-vite-umane/"
         },
         {
-          "titulo": "Fari puntati su Deutsche Bank, 15 milioni di documenti tra Russia, Epstein e Trump: cosa rivela la maxi inchiesta internazionale",
+          "titulo": "Dl scuola, passa l’emendamento sui libri digitali. FI vota con le opposizioni, Tajani: “Solo differenza d’opinione” Cosa prevede l’emendamento che divide",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/banche/fari-puntati-su-deutsche-bank-15-milioni-di-documenti-tra-russia-epstein-e-trump-cosa-rivela-la-maxi-inchiesta-internazionale/"
+          "enlace": "https://www.ilgiornale.it/news/interni/fi-vota-con-le-opposizioni-la-maggioranza-va-sotto-sui-libri-digitali/"
         },
         {
-          "titulo": "La velocità del denaro digitale e il rischio riciclaggio: cosa rivela davvero l'inchiesta su Revolut Opens in new window",
+          "titulo": "Il Mostro di Firenze, si riapre la caccia al killer: la svolta arriva dal Dna",
           "entradilla": "",
-          "enlace": "https://ilgiornaleonline.substack.com/p/la-velocita-del-denaro-digitale-e"
+          "enlace": "https://www.ilgiornale.it/news/cronaca-nera/il-mostro-di-firenze-si-riapre-la-caccia-al-killer-la-svolta-arriva-dal-dna/"
         },
         {
-          "titulo": "“Io sto con il popolo palestinese”: Hannoun nega Hamas. Ma le intercettazioni lo smentiscono L’ex Hamas alla sinistra: “Utile idiota dell’Islam”",
+          "titulo": "Il conto choc dei collettivi: oltre 300 mila euro di danni all’Università di Torino",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/cronaca-giudiziaria/io-sto-con-il-popolo-palestinese-hannoun-nega-hamas-ma-le-intercettazioni-lo-smentiscono/"
+          "enlace": "https://www.ilgiornale.it/news/nazionale/il-conto-choc-dei-collettivi-oltre-300-mila-euro-di-danni-alluniversita-di-torino/"
         }
       ],
       "analisis": {
-        "resumen": "- Conte y Schlein votan contra un proyecto de ley sobre antisemitismo que habían promovido.\n- La UE prevé un déficit italiano del 2,9 % en 2026 y contempla una posible salida del procedimiento de infracción.\n- La negociación presupuestaria aborda cambios en pensiones y sanidad; la Liga impulsa la jubilación con cuota 64.\n- Se confirma la condena de 16 años a Isabella Internò por el asesinato del futbolista Bergamini.\n- Otras noticias incluyen investigaciones sobre Deutsche Bank y Revolut, declaraciones de León XIV y Mattarella, y acusaciones contra Hannoun.",
-        "populismo": 43,
-        "motivo_populismo": "Expresiones como «voltafaccia» y «útil idiota del islam» introducen descalificación y confrontación, aunque numerosos titulares mantienen un tono informativo.",
-        "sesgo": "Se aprecia un enfoque crítico hacia figuras de la izquierda, especialmente en los titulares sobre Conte, Schlein y Hannoun. La selección también destaca declaraciones favorables a Meloni y propuestas de la Liga."
+        "resumen": "- Trump, Xi y Putin firman una declaración de paz centrada en la ONU y el ámbito nuclear; Meloni participa en una cumbre en Berlín.\n- Una mujer paquistaní denuncia agresiones sexuales y violencia por parte de familiares en Novellara.\n- Muere Corrado Augias; la portada destaca su trayectoria, sus críticas a Meloni y las condolencias políticas.\n- Un titular sobre la gestión de la COVID-19 cuestiona el rechazo de anticuerpos monoclonales por Aifa.\n- Otros temas incluyen el decreto escolar, la investigación del Monstruo de Florencia y los daños en la Universidad de Turín.",
+        "populismo": 63,
+        "motivo_populismo": "Expresiones como «frase choc», «cuatro años de venenos contra Meloni» y «el monstruo» recurren al dramatismo, la descalificación y el sensacionalismo, aunque otros titulares mantienen un tono informativo.",
+        "sesgo": "La portada presenta un enfoque crítico hacia los detractores de Meloni, la gestión de la COVID-19 y los colectivos universitarios, mediante una selección y redacción que enfatizan el conflicto y la controversia."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://www.ilfattoquotidiano.it",
       "noticias": [
         {
-          "titulo": "“Mi è stata diagnosticata una malattia coronarica, l’ho scoperto con un test di 3 minuti. La mia peggiore paura, si avvera”: parla Gio Benitez di Good Morning America",
-          "entradilla": "Il conduttore di “Good Morning America Sunday”, il 41enne Gio Benitez racconta di aver scoperto di soffrire di coronaropatia nonostante uno stile di vita sano e un test da sforzo superato senza problemi. A rivelarlo è lo stesso giornalista, corrispondente di ABC News in un’intervista a People. Benit",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/17/mi-e-stata-diagnosticata-una-malattia-coronarica-lho-scoperto-con-un-test-di-3-minuti-la-mia-peggiore-paura-si-avvera-parla-gio-benitez-di-good-morning-america/8575010/"
+          "titulo": "“L’ho conosciuta quando ho fatto le corna alla Rai. Ci siamo divertite e non abbiamo mai litigato”: Antonella Clerici svela il rapporto con Maria Teresa Ruta",
+          "entradilla": "Dopo 26 anni Antonella Clerici e Maria Teresa Ruta si sono ritrovate in un programma televisivo del mezzogiorno. A cambiare sono stati la rete e il titolo del programma, non le due conduttrici, che nella puntata di giovedì 19 ottobre di “È sempre mezzogiorno” hanno dato vita a questa reunion. Cleric",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/19/lho-conosciuta-quando-ho-fatto-le-corna-alla-rai-ci-siamo-divertite-e-non-abbiamo-mai-litigato-antonella-clerici-svela-il-rapporto-con-maria-teresa-ruta/8577494/"
         },
         {
-          "titulo": "Da Craxi e Berlusconi a Meloni: la storia dei condoni edilizi (che hanno fatto impennare l’abusivismo) e il legame con le scadenze elettorali",
-          "entradilla": "A pochi mesi dalle Politiche il governo di Giorgia Meloni rispolvera un cavallo di battaglia del centrodestra: il condono edilizio. Fratelli d’Italia ci aveva già pensato lo scorso anno, a dieci giorni dal voto per le Regionali in Campania, avanzando l’idea di un emendamento alla manovra per introdu",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/17/condono-edilizio-storia-abusivismo-craxi-berlusconi-meloni-notizie/8574784/"
+          "titulo": "“Ho avuto un tumore al rene, un calcolo mi ha salvato la vita. Ora aspetto il risultato dell’esame istologico”: parla Jax Taylor del reality “Vanderpump Rules”",
+          "entradilla": "Lo ha tenuto nascosto per mesi, e ora lo racconta con un lungo post sui social. Jax Taylor, volto del reality “Vanderpump Rules”, ha rivelato di essere stato operato per un tumore al rene sinistro. L’intervento, durato cinque ore, è stato eseguito oggi al Cedars-Sinai di Los Angeles. Tutto è cominci",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/19/ho-avuto-un-tumore-al-rene-un-calcolo-mi-ha-salvato-la-vita-ora-aspetto-il-risultato-dellesame-istologico-parla-jax-taylor-del-reality-vanderpump-rules/8577644/"
         },
         {
-          "titulo": "Ozempic e farmaci anti-diabete usati per dimagrire, scoperti 2.800 2.800 “furbetti” dei rimborsi in Lombardia: cure gratis a chi non ne aveva diritto, mentre i pazienti obesi pagano centinaia di euro",
-          "entradilla": "Un conto salato per il sistema sanitario pubblico e una scorciatoia illecita per ottenere gratuitamente terapie che sul mercato privato arrivano a costare tra i 200 e i 600 euro al mese. In Lombardia i controlli incrociati della direzione generale Welfare hanno portato alla luce circa 2.800 casi di ",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/17/ozempic-e-farmaci-anti-diabete-usati-per-dimagrire-scoperti-2-800-2-800-furbetti-dei-rimborsi-in-lombardia-cure-gratis-a-chi-non-ne-aveva-diritto-mentre-i-pazienti-obesi-pagano-ce/8574978/"
+          "titulo": "Hydra, il pentito Michele Pace: “Ho incontrato un assessore di Fdi che cercava voti. Mio padre decise di dargli dei soldi”",
+          "entradilla": "Un politico di Fratelli d’Italia a caccia di voti mafiosi e di finanziamenti elettorali e a disposizione del Consorzio di mafie. La vicenda inedita emerge dal verbale di Michele Pace, ultimo pentito della maxi inchiesta Hydra sul nuovo sistema mafioso lombardo. Michele è figlio di Bernardo Pace, a s",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/19/inchiesta-hydra-pentito-pace-assessore-fdi-notizie/8577518/"
         },
         {
-          "titulo": "Ecclestone ne ha per tutti: “Hamilton si lamenta e brontola sempre, pensasse al ritiro. La Ferrari aveva la macchina migliore, ma ci sono troppi italiani”",
-          "entradilla": "“Quando sale in macchina per iniziare una gara, si lamenta e brontola già per qualcosa prima ancora della prima curva, non importa di cosa si tratti. Sta arrivando all’età in cui deve pensare al ritiro”. A parlare senza troppi giri di parole è Bernie Ecclestone, ex patron della Formula 1, a proposit",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/17/ecclestone-hamilton-ferrari-dichiarazioni-si-lamenta-sempre-pensasse-al-ritiro/8574971/"
+          "titulo": "Ddl Delrio ovvero legge “antirazzismo selettivo salva-genocidio”. Anche i dati sono antisemiti?",
+          "entradilla": "Il 17 novembre 2026, la Camera dei deputati ha approvato, con 147 voti favorevoli, 93 contrari e 5 astensioni, il disegno di legge sull’antisemitismo, noto come Ddl Delrio dal nome del senatore del Partito Democratico che aveva presentato l’iniziativa originaria. Il provvedimento introduce per la pr",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/19/ddl-antisemitismo-legge-ihra-israele-dati-de-vogli-analisi/8576912/"
         },
         {
-          "titulo": "“Mi sono trasferito dagli Stati Uniti in Svezia per amore. Gestisco la mia azienda a distanza, lavoro fino alle 22 e pago più tasse. Ma ne vale la pena”: il racconto di Pat Ahern",
-          "entradilla": "Vivere in Svezia e lavorare negli Stati Uniti. È la storia che Pat Ahern ha raccontato a Business Insider. Tutto parte dall’amore, come da copione: “Quando nel 2014 sono andato a studiare per un semestre in Svezia, mi ero ripromesso di non iniziare una relazione sentimentale. Poi ho conosciuto Eveli",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/17/mi-sono-trasferito-dagli-stati-uniti-in-svezia-per-amore-gestisco-la-mia-azienda-a-distanza-lavoro-fino-alle-22-e-pago-piu-tasse-ma-ne-vale-la-pena-il-racconto-di-pat-ahern/8574970/"
+          "titulo": "Il campo largo trovo l’accordo sul “reddito minimo garantito”, una nuova misura universale di contrasto alla povertà",
+          "entradilla": "Il campo largo trova un’intesa sul reddito minimo garantito, una misura universale di contrasto alla povertà che recupera i principi fondamentali del Reddito di cittadinanza introdotto dal governo Conte e cancellato da Giorgia Meloni. Il tavolo della coalizione progressista dedicato al lavoro ha dat",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/19/reddito-minimo-garantito-campo-largo-accordo-notizie/8577414/"
         },
         {
-          "titulo": "È morta Mitzi Amoroso, la fondatrice delle Mele Verdi è stata la voce che ha cantato Barbapapà e i cartoni dell’infanzia",
-          "entradilla": "È morta la scorsa notte a Milano, all’età di 91 anni, Maria Letizia Amoroso, per tutti Mitzi. Cantautrice e autrice, era la fondatrice delle Mele Verdi, il coro di bambini le cui canzoni e sigle televisive hanno fatto da colonna sonora all’infanzia di più generazioni. Nata a Roma il 15 agosto 1935, ",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/17/e-morta-mitzi-amoroso-la-fondatrice-delle-mele-verdi-e-stata-la-voce-che-ha-cantato-barbapapa-e-i-cartoni-dellinfanzia/8574963/"
+          "titulo": "Al Bano: “La pace in Ucraina dalle voci che mi hanno suggerito dovrebbe esserci a fine primavera. Subito dopo un mio concerto in Piazza Rossa per festeggiare”",
+          "entradilla": "Ospite di Rai Radio1, a “Un Giorno da Pecora”, Al Bano Carrisi è stato intervistato da Giorgio Lauro e Nancy Brilli. Nel corso dell’intervista, i conduttori lo hanno stuzzicato chiedendogli: “Come mai non l’hanno invitata al vertice tra Putin, Xi Jinping e Trump?”. La riposta ironica: “Mi hanno dett",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/19/al-bano-la-pace-in-ucraina-dalle-voci-che-mi-hanno-suggerito-dovrebbe-esserci-a-fine-primavera-subito-dopo-un-mio-concerto-in-piazza-rossa-per-festeggiare/8577611/"
         },
         {
-          "titulo": "Partecipa a una delle corse più prestigiose d’Australia, poi muore a soli 5 anni: la carcassa del cavallo So You Are ritrovata in un cassonetto. “Meritava dignità e rispetto”",
-          "entradilla": "È finita dentro un bidone della spazzatura la carcassa di So You Are, un cavallo di cinque anni che solo due settimane prima delle sua morte era arrivato ottavo nella Melbourne Cup, la gara più prestigiosa dell’ippica australiana. A ritrovarlo è stato un operaio edile, che avvicinandosi al centro di",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/17/partecipa-a-una-delle-corse-piu-prestigiose-daustralia-poi-muore-a-soli-5-anni-la-carcassa-del-cavallo-so-you-are-ritrovata-in-un-cassonetto-meritava-dignita-e-rispetto/8574876/"
+          "titulo": "“Mi hanno seguita due volte in bici mentre correvo. Cambiavo direzione e loro pure, ho avuto paura”: così Gaia Sabbatini",
+          "entradilla": "“Prima ero più serena, mettevo la musica e correvo tranquilla. Dopo queste esperienze non sono più tranquilla“. È il racconto di Gaia Sabbatini, mezzofondista azzurra, che ha deciso di parlare pubblicamente delle molestie subite mentre si allenava per strada. La sua testimonianza riporta l’attenzion",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/19/molestie-runner-sabbatini-allenamenti-mi-hanno-seguita-due-volte-in-bici-mentre-correvo/8577582/"
         },
         {
-          "titulo": "Il ‘falco’ Kaja Kallas si ribella all’esclusione dal gruppo di negoziatori Ue sul conflitto Russia-Ucraina: “I Trattati parlano chiaro”",
-          "entradilla": "Se la nomina di Kaja Kallas ad Alto rappresentante per la politica estera dell’Ue, dopo le elezioni del 2024, rappresentava un chiaro indizio sulla strategia del pugno duro che l’Europa aveva intenzione di adottare nei confronti della Russia, la sua esclusione dal team negoziale europeo, decisa poch",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/17/kallas-esclusa-negoziati-russia-ucraina-notizie/8574872/"
+          "titulo": "Vannacci, Rauti, La Russa ai ragazzi: perché il fascismo non è un’opinione come un’altra",
+          "entradilla": "di Edoardo Morello Ricapitoliamo, perché in Italia la memoria è come il bilancio pubblico: la si taglia sempre per prima. Il presidente del Senato, seconda carica dello Stato, va a spiegare agli studenti che “è il popolo che ha voluto il fascismo, non è la rivoluzione fascista“. Le squadracce, il ma",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/19/fascismo-costituzione-la-russa-rauti-vannacci-notizie/8577581/"
         },
         {
-          "titulo": "Vittime di reato in Costituzione, anche Nordio si smarca: “Approfondiremo, la Carta tutela la presunzione d’innocenza”",
-          "entradilla": "“Approfondiremo meglio questo discorso”. Dopo Forza Italia, anche il ministro della Giustizia Carlo Nordio offre una sponda agli avvocati contro la proposta di legge che inserisce all’articolo 24 della Costituzione il principio della tutela delle vittime di reato. Giovedì scorso l’Unione delle Camer",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/17/vittime-reato-costituzione-nordio-camere-penali-protesta/8574875/"
+          "titulo": "“Si verificano episodi di moria di massa in cui i giovani esemplari vengono schiacciati e uccisi”: il piano per proteggere i 200mila trichechi in Alaska",
+          "entradilla": "Ogni anno, durante l’autunno, circa 200.000 trichechi femmine compiono una migrazione tra la Russia e l’Alaska, mentre i maschi rimangono nel Mare di Bering anche per il periodo invernale. Gli esemplari femminili di tricheco si posizionano sulle isole barriera vicino al villaggio di Point Lay. In qu",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/19/si-verificano-episodi-di-moria-di-massa-in-cui-i-giovani-esemplari-vengono-schiacciati-e-uccisi-il-piano-per-proteggere-i-200mila-trichechi-in-alaska/8577329/"
         },
         {
-          "titulo": "“Legge sui caregiver, dopo trent’anni di attesa ora si rischia un pasticcio”",
-          "entradilla": "“Sono più di trent’anni che aspettiamo una legge sui caregiver. Ora dicono che vogliono farla in fretta e furia. Ma noi diciamo: visto che finalmente arriva la legge… facciamola bene”. Dopo le proteste in seguito alla prima approvazione del ddl a Montecitorio di metà ottobre, Alessandra Corradi, por",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/17/legge-caregiver-corradi-cfu-attesa-notizie/8574080/"
+          "titulo": "Latte crudo, FdI in Lombardia vuole informazioni meno rigorose: mozione bocciata. Il papà di Mattia Maestri: “Vittoria per mio figlio”",
+          "entradilla": "Clamorosa bocciatura da parte del Consiglio regionale della Lombardia di una mozione del gruppo di Fratelli d’Italia, che puntava e rendere meno rigorose le informazioni sulla pericolosità del formaggio prodotto con latte crudo. Dopo una richiesta di voto a scrutinio segreto, presentata dal Moviment",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/19/latte-crudo-fdi-lombardia-mozione-bocciata-mattia-maestri-notizie/8577565/"
         },
         {
-          "titulo": "“Vogliamo conoscere il compenso di Barbara D’Urso e le clausole per un eventuale addio a Ballando con le Stelle”: il Codacons chiede il contratto alla Rai dopo il caso Mariotto",
-          "entradilla": "Quanto guadagna Barbara D’Urso per il suo ruolo di giurata a Ballando con le Stelle? E che cosa prevede il contratto firmato con la Rai nel caso in cui la conduttrice decidesse di lasciare il programma prima della fine della stagione? Sono le domande alle quali il Codacons vuole trovare una risposta",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/17/vogliamo-conoscere-il-compenso-di-barbara-durso-e-le-clausole-per-un-eventuale-addio-a-ballando-con-le-stelle-il-codacons-chiede-il-contratto-alla-rai-dopo-il-caso-mariotto/8574905/"
+          "titulo": "De Gennaro, ho letto le carte e mi chiedo: cosa cerca davvero la Procura di Caltanissetta?",
+          "entradilla": "Qual è l’obiettivo della Procura di Caltanissetta? È la domanda che – come credo molti osservatori – mi pongo da quando è esploso il cosiddetto caso De Gennaro. La domanda non deriva da un bisogno di difendere l’ex capo della Polizia e dei Servizi, nel cui armadio, verosimilmente, sono custoditi non",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/19/caso-de-gennaro-procura-caltanissetta-domande-rizzo-opinione/8577063/"
         },
         {
-          "titulo": "U2, Carnaval De Luz: nove ragioni per dire basta",
-          "entradilla": "Sono tre giorni che ho sul piatto il nuovo disco degli U2. Ascolto, torno indietro, rimetto su un pezzo, cerco di capire che cosa abbiano voluto fare. Tre giorni così. E niente, mi è venuta la depressione. Sia chiaro, io con gli U2 ce l’ho a morte. Non da ieri, da almeno trent’anni. Perché li […] L'",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/17/u2-carnaval-de-luz-voto-3-recensione-pipitone/8574707/"
+          "titulo": "“Una storia importante”: Eros Ramazzotti innamorato, la nuova compagna è la campionessa di pugilato Federica Monacelli",
+          "entradilla": "È “una storia importante”, viene da chiedersi, citando una sua canzone. Nella vita di Eros Ramazzotti c’è un nuovo amore, una relazione che il cantante vive alla luce del sole, come dimostrano le immagini pubblicate dal settimanale “Oggi”. Federica Monacelli, 36 anni, più giovane del cantante di ven",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/19/una-storia-importante-eros-ramazzotti-innamorato-la-nuova-compagna-e-la-campionessa-di-pugilato-federica-monacelli/8577528/"
         }
       ],
       "analisis": {
-        "resumen": "- Se examina la relación entre las amnistías urbanísticas y las elecciones, desde Craxi y Berlusconi hasta Meloni.\n- En Lombardía se detectan unos 2.800 posibles casos de reembolsos indebidos de medicamentos antidiabéticos usados para adelgazar.\n- Nordio pide estudiar la propuesta de incluir la protección de las víctimas de delitos en la Constitución; una portavoz alerta sobre la ley de cuidadores.\n- Kaja Kallas cuestiona su exclusión del grupo negociador europeo sobre el conflicto entre Rusia y Ucrania.\n- La portada incluye noticias de salud, deporte, cultura y televisión, entre ellas la muerte de Mitzi Amoroso y una crítica del nuevo disco de U2.",
-        "populismo": 38,
-        "motivo_populismo": "Expresiones como «furbetti», «se rebela» y «su peor miedo se hace realidad» aportan un tono acusatorio y emocional, aunque no predomina una confrontación explícita entre el pueblo y las élites.",
-        "sesgo": "La portada muestra un enfoque crítico hacia las amnistías urbanísticas y destaca desigualdades en el acceso a medicamentos. También da espacio a relatos personales y titulares de fuerte carga emocional."
+        "resumen": "- Testimonio de un arrepentido sobre presuntos vínculos entre un político de FdI y la mafia.\n- Acuerdo de la coalición progresista sobre una renta mínima y críticas a la ley sobre antisemitismo.\n- Artículos de opinión sobre el fascismo y la investigación del caso De Gennaro.\n- Rechazo de una moción sobre información relativa al queso de leche cruda en Lombardía.\n- Noticias sobre figuras del espectáculo, el testimonio de una atleta acosada y la protección de las morsas en Alaska.",
+        "populismo": 42,
+        "motivo_populismo": "Predominan titulares informativos o testimoniales, pero expresiones como «antirracismo selectivo salva-genocidio» y algunas formulaciones polémicas elevan el tono emocional y confrontativo.",
+        "sesgo": "La selección y redacción muestran un enfoque crítico hacia FdI y figuras asociadas a la derecha, mientras presentan el acuerdo sobre la renta mínima como una medida contra la pobreza. También incluyen opiniones críticas sobre la ley de antisemitismo y el tratamiento de la memoria del fascismo."
       }
     }
   ]

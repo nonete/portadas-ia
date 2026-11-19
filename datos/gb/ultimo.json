@@ -1,39 +1,39 @@
 {
   "pais": "Reino Unido",
-  "fecha": "2026-11-18",
+  "fecha": "2026-11-19",
   "turno": 8,
-  "generado": "18/11/2026 16:09",
+  "generado": "19/11/2026 16:18",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "Se repiten las noticias sobre sucesos y procesos judiciales, incluidos fallecimientos y delitos violentos. El lanzamiento de GTA 6 aparece en The Guardian, The Independent y Daily Mirror; también coinciden las noticias sobre James Bond y la visita de los príncipes de Gales a la India. The Guardian y Daily Mail recogen el enfrentamiento entre Kemi Badenoch y Andy Burnham. Solo The Guardian destaca la previsión de subida de las facturas de energía.",
-    "crispacion": 45,
-    "motivo_crispacion": "La tensión política se concentra en el enfrentamiento entre Kemi Badenoch y Andy Burnham sobre las prestaciones y los recortes por discapacidad. The Guardian también cuestiona la gestión de Reform UK en los ayuntamientos, mientras The Telegraph emplea lenguaje polarizador sobre una versión de la bandera británica. Los conflictos internacionales y el ataque investigado junto a una sinagoga añaden tensión, al igual que varios sucesos violentos. La cobertura de videojuegos, espectáculos, salud y deporte aporta noticias más tranquilas."
+    "temas": "Los sucesos violentos y los procesos judiciales aparecen en los cinco periódicos; tres recogen la condena de cuatro hombres por abusar sexualmente de Joanne Young. También se repiten la muerte de Alice Webb tras una intervención estética, el fútbol y la salida a bolsa de Anthropic. Solo The Guardian destaca el fallo que declara que Myanmar cometió genocidio contra los rohinyás.",
+    "crispacion": 53,
+    "motivo_crispacion": "La tensión política se refleja en las acusaciones de división en el Gobierno laborista por el proyecto petrolífero de Rosebank y en la disputa por la alcaldía de Londres entre conservadores y laboristas. También aparecen críticas a Reform y controversias sobre los comentarios de Kemi Badenoch. En el plano internacional, la cumbre entre Trump, Xi y Putin termina sin avances claros, mientras abundan las noticias sobre delitos graves. Las reseñas culturales, el deporte y los consejos de consumo aportan contenidos más tranquilos."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "La previsión de que la factura energética media en Gran Bretaña suba un 26% desde enero revela, a mi juicio, una contradicción de clase: una necesidad básica queda sometida a las reglas de un mercado que las familias trabajadoras no controlan. No basta con pedirles que busquen una tarifa mejor. Defiendo una energía de propiedad colectiva, gestionada democráticamente, con precios asequibles y sus recursos destinados al bienestar común.\n\nTambién rechazo que los recortes a las prestaciones por discapacidad se presenten como una cuestión de ahorro. Una sociedad justa garantiza ingresos y servicios públicos suficientes, sin convertir la vulnerabilidad en sospecha.\n\nMientras tanto, la ofensiva prometida por Reform en los ayuntamientos no ha conseguido recortar más rápido que otras autoridades comparables. Para mí, la respuesta no es buscar recortes más eficaces, sino fortalecer lo público frente al poder del gran capital."
+      "texto": "Hoy veo un contraste que resume la lucha de clases: Anthropic se prepara para salir a bolsa con una valoración gigantesca, mientras las autoridades sanitarias aconsejan a las personas mayores cómo calentarse. Una cifra bursátil no es dinero disponible para repartir, pero sí revela cuánto poder y riqueza puede concentrar la propiedad privada de una tecnología desarrollada gracias al trabajo colectivo.\n\nNo me basta con celebrar a nuevos multimillonarios ni con pedir que actúen responsablemente. Defiendo la propiedad colectiva de infraestructuras tecnológicas estratégicas y una inversión pública que ponga sus frutos al servicio de toda la sociedad. También necesitamos servicios públicos fuertes que garanticen una vida digna, incluida la energía necesaria para vivir con seguridad. El progreso no debería medirse por el precio de unas acciones, sino por lo que la clase trabajadora gana en bienestar y control sobre su futuro."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "La previsión de que la factura energética suba un 26 % en Gran Bretaña me recuerda hasta qué punto necesidades básicas como la calefacción dependen de decisiones ajenas al control de quienes las sufragan. No me basta con esperar que el Gobierno conceda ayudas: quiero comunidades capaces de organizarse, compartir recursos y reclamar el control colectivo de la energía.\n\nTampoco veo una salida en cambiar de dirigentes. La izquierda estadounidense busca convencer a Alexandria Ocasio-Cortez de que se presente a la presidencia; Reform prometió recortar los ayuntamientos ingleses y, según una investigación, no lo ha hecho con mayor rapidez que otros. Son proyectos distintos, pero ambos depositan sus esperanzas en la autoridad. Yo prefiero construir desde abajo: apoyo mutuo, decisiones horizontales y libertad para que cada comunidad determine sus necesidades sin imponer una jerarquía sobre las demás."
+      "texto": "Hoy veo dos caras del poder. La sentencia sobre el genocidio contra los rohinyás recuerda hasta dónde puede llegar la violencia estatal cuando una minoría queda a merced de la maquinaria militar. Y la advertencia de la ONU sobre las leyes de seguridad en Reino Unido señala otro peligro: normas vagas que permiten restringir la asociación en nombre de la seguridad.\n\nNo confío en que cambiar de partido baste para protegernos de esas jerarquías. La libertad necesita comunidades capaces de organizarse, cuidar de sus miembros y defender sus derechos sin esperar permiso de los gobernantes. Tampoco la concentración de riqueza que acompaña la salida a bolsa de Anthropic me parece una promesa de emancipación tecnológica: prefiero una tecnología sometida al control colectivo de quienes la crean y utilizan, no a las prioridades de los inversores."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "La previsión de una subida del 26 % en las facturas energéticas británicas recuerda que el coste de la vida no se resuelve con discursos. Yo quiero un mercado energético abierto a la competencia, donde cambiar de proveedor sea sencillo y las empresas puedan invertir. También quiero impuestos más bajos, para que las familias conserven más de lo que ganan. La ayuda pública debe concentrarse en quienes realmente la necesitan, no convertirse en una promesa indiscriminada que otros terminarán pagando.\n\nLa noticia sobre los recortes de Reform en los ayuntamientos ofrece otra lección: proclamar que se reducirá el Estado no equivale a hacerlo. Un Estado limitado requiere revisar gastos, medir resultados y rendir cuentas, no solo adoptar eslóganes. La responsabilidad personal importa, pero también la responsabilidad de quienes administran dinero ajeno."
+      "texto": "Hoy me preocupan dos caras del poder. La ONU advierte del uso indebido de leyes de seguridad mientras se examina la prohibición de Palestine Action. Creo que combatir la violencia exige leyes claras y controles judiciales, no facultades vagas que puedan restringir la libertad de asociación. Un Estado limitado también debe protegernos de sus propios excesos.\n\nA la vez, la salida a bolsa de Anthropic muestra el potencial de los mercados para financiar la innovación. No sé si su valoración está justificada: esa es una decisión que corresponde a inversores dispuestos a asumir riesgos, no a políticos decididos a escoger ganadores. Prefiero impuestos bajos y reglas generales que permitan emprender, competir y conservar los frutos del trabajo. La libertad económica, eso sí, no exonera de responsabilidad: quien defrauda debe responder ante la justicia."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Me preocupa un país que discute constantemente sobre su futuro mientras parece perder el control de las decisiones más básicas. Apoyo las medidas anunciadas contra las donaciones políticas extranjeras: la democracia británica debe responder a sus ciudadanos, no a intereses ocultos tras empresas pantalla. Pero las promesas de los ministros merecen escrutinio, no un cheque en blanco.\n\nEl incendio de vehículos junto a una sinagoga, investigado como incidente de odio antisemita, exige protección efectiva y una investigación rigurosa. La seguridad de todos nuestros vecinos es una obligación del Estado. También lo es controlar estrictamente la inmigración, con reglas decididas democráticamente y aplicadas sin excepciones.\n\nMientras se prevé un fuerte aumento de las facturas energéticas, quiero una política que defienda la autonomía nacional y a las familias. Nuestras tradiciones y nuestra cohesión social valen más que las consignas de unas élites alejadas de la vida cotidiana."
+      "texto": "Quiero un Reino Unido que gobierne sus fronteras, proteja a sus ciudadanos y no venda su democracia al mejor postor. El anuncio de restricciones a las donaciones políticas extranjeras va en la dirección correcta, pero habrá que examinar la letra pequeña: las empresas pantalla no deben servir para comprar influencia sobre decisiones que corresponden al pueblo británico. También defiendo una inmigración estrictamente controlada, con límites claros y expulsión de quienes no tengan derecho a permanecer.\n\nLa investigación del incendio de vehículos ante una sinagoga exige firmeza frente al antisemitismo y, si se confirma una implicación extranjera, una respuesta soberana. Seguridad no significa poderes vagos y sin control: el Estado debe actuar dentro de la ley. Y sobre Rosebank, yo priorizaría los recursos nacionales y la seguridad energética frente a objetivos que nuestras élites defienden sin asumir sus costes."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Me preocupa que el debate sobre el bienestar social se reduzca a elegir entre recortes indiscriminados y promesas sin financiación. La previsión de una subida del 26 % en las facturas de energía exige ayuda para los hogares más vulnerables, pero también un plan creíble para pagarla. Un mercado competitivo puede ofrecer mejores opciones; no sustituye, sin embargo, la protección de quienes no pueden absorber el golpe.\n\nLa política necesita menos gestos y más resultados. Si la ofensiva de Reform contra el gasto municipal no ha producido recortes mayores o más rápidos que en otros ayuntamientos, conviene medir las propuestas por sus efectos, no por su retórica. Yo defiendo reformas graduales, evaluables y acordadas entre partidos: unas instituciones eficaces no son un obstáculo para el cambio, sino la mejor garantía de que este dure."
+      "texto": "Me parece acertado endurecer las normas sobre donaciones políticas extranjeras y empresas pantalla: una democracia no puede defenderse si desconoce quién financia a quienes buscan influir en ella. Pero la seguridad también exige límites al poder público. La advertencia de la ONU sobre leyes vagas contra el extremismo merece atención: combatir amenazas reales no debe convertirse en una excusa para restringir arbitrariamente la libertad de asociación.\n\nLa prevista salida a bolsa de Anthropic recuerda, por otra parte, la capacidad del mercado para movilizar recursos hacia la innovación. Yo quiero que esa innovación prospere, pero con reglas claras, competencia y protección para quienes puedan quedar rezagados. No creo que debamos elegir entre dinamismo económico y cohesión social: las reformas graduales, negociadas y sujetas a control democrático pueden reforzar ambos."
     }
   ],
   "periodicos": [
@@ -42,71 +42,71 @@
       "web": "https://www.theguardian.com/uk",
       "noticias": [
         {
-          "titulo": "Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story",
-          "entradilla": "With realism that defies belief, this vast game easily accommodates its trademark foulmouthed, OTT chaos – as well as new empathy for the fugitive couple at its centre In GTA VI, Rockstar has created the most extraordinarily, indulgently detailed virtual world that we have yet seen. Reviewing it fee",
-          "enlace": "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar"
+          "titulo": "You Can See Everything review – unblinking, unhinged and unmissable",
+          "entradilla": "Nathan Fielder’s intense close-range study of fraudster Elizabeth Holmes is as gripping as any thriller • This review contains spoilers Thrillingly reckless, deliciously irresponsible and as gripping as any thriller, this situationist docu-hybrid masterpiece from co-directors Nathan Fielder and Lanc",
+          "enlace": "https://www.theguardian.com/film/2026/nov/19/you-can-see-everything-review-docu-hybrid-masterpiece-nathan-fielder-elizabeth-holmes"
         },
         {
-          "titulo": "Nicola Coughlan on her favourite noodles, getting rejected from drama school and I Am Helen",
-          "entradilla": "What does Lady Whistledown eat when nobody's watching? This week on Comfort Eating, Siobhán McSweeney is joined by the brilliant Nicola Coughlan, star of Derry Girls and Bridgerton, for a seriously fun catch-up involving comfort food, childhood nostalgia and some VERY questionable food combinations.",
-          "enlace": "https://www.theguardian.com/lifeandstyle/video/2026/nov/18/nicola-coughlan-on-her-favourite-noodles-getting-rejected-from-drama-school-and-i-am-helen"
+          "titulo": "‘I came close to killing Sally about six times’: how my abusive father was enabled by his fame",
+          "entradilla": "Like Russell Brand, my father was put on a pedestal by the media, despite a history of troubling, misogynistic comments. Meanwhile, my mother suffered through years of appalling treatment Even though decades have passed, part of me feels I should not be telling this story. Not because it isn’t true,",
+          "enlace": "https://www.theguardian.com/society/2026/nov/19/my-abusive-father-was-enabled-by-his-fame"
         },
         {
-          "titulo": "Fresh off recent wins, the left has a new goal: get AOC to run for president",
-          "entradilla": "With its policy priorities more mainstream than ever, the left is directing its momentum toward 2028 A week after the US midterms elections swept an unprecedented number of leftists into office across the country, about 600 people joined a Zoom call. The goal: to convince rep Alexandria Ocasio-Corte",
-          "enlace": "https://www.theguardian.com/us-news/2026/nov/18/presidential-election-aoc-candidate"
+          "titulo": "Will Pochettino fix Manchester United? Will Unwin is answering your questions – live",
+          "entradilla": "As Mauricio Pochettino prepares for his first game in charge at Anfield, the Guardian’s Will Unwin is taking your questions on Manchester United’s new head coach, the crisis he inherits and what comes next. Ask a question: log in or sign up here tetters asks: Every few months there is the report of ",
+          "enlace": "https://www.theguardian.com/football/live/2026/nov/19/will-pochettino-fix-manchester-united-put-your-questions-to-will-unwin"
         },
         {
-          "titulo": "Get vaccinated, don’t vape – and moisturise liberally! 10 doctors on how to avoid and treat winter ailments",
-          "entradilla": "The nights are drawing in, the temperature is dropping, festive overindulgence is on the horizon and it’s easy to get run down. Here’s some expert advice to help you safely through the season Winter can be a challenging time, with bad weather, dark evenings, horrible bugs circulating, plus plenty of",
-          "enlace": "https://www.theguardian.com/lifeandstyle/2026/nov/18/get-vaccinated-dont-vape-and-moisturise-liberally-10-doctors-on-how-to-avoid-and-treat-winter-ailments"
+          "titulo": "The Altruists review – two of TV’s best actors light up this chaotic crypto tale",
+          "entradilla": "Julia Garner and Anthony Boyle play the FTX founders behind ‘the greatest fraud ever committed’ in the US. It’s a mind-boggling story – just make sure you don’t miss a single moment What happens when you put really stupid clever people in charge of the world? Not as presidents (they currently trend ",
+          "enlace": "https://www.theguardian.com/tv-and-radio/2026/nov/19/the-altruists-review-anthony-boyle-julia-garner"
         },
         {
-          "titulo": "‘Worst decision in history’: Guardian readers shaken and stirred by the casting of Robert Pattinson as Bond",
-          "entradilla": "‘Deliciously dark’! ‘Not sexy enough’! Opinion is split on whether the star of Twilight and The Batman is the right choice to play 007. Here’s what some of you thought So it’s official, Robert Pattinson will be James Bond. The long-awaited announcement of who would be stepping into 007’s tuxedo came",
-          "enlace": "https://www.theguardian.com/film/2026/nov/18/readers-casting-robert-pattinson-bond-007"
+          "titulo": "Nothing but highlights: is Power Slap the sport we deserve?",
+          "entradilla": "Slap fighting is the world’s newest combat sport. Built for short attention spans and super-viral moments, it’s aiming for global dominance. No flinching In the days before Power Slap 22, in Belgrade, Serbia, in late July, the organisers of the world’s newest combat sport were taking no chances. At ",
+          "enlace": "https://www.theguardian.com/news/2026/nov/19/nothing-but-highlights-is-power-slap-the-sport-we-deserve"
         },
         {
-          "titulo": "‘In the end, nothing happened’: how Reform’s Doge-style crackdown fell flat",
-          "entradilla": "Party promised a Musk-inspired blitz at councils in England, but research shows it has failed to cut harder or faster than comparable local authorities When Reform UK secured a historic breakthrough in the May local elections last year, it was – according to the party leader, Nigel Farage – time for",
-          "enlace": "https://www.theguardian.com/politics/2026/nov/18/reform-doge-style-crackdown-fell-flat"
+          "titulo": "Want to shop more sustainably this Black Friday? The best UK deals on eco-friendly products we love",
+          "entradilla": "Save money and help the planet with these genuine discounts on everything from bamboo toilet paper to B Corp-certified bedding • Expert tips for buying refurbished phones and laptops • The best early Black Friday deals Ethical and sustainable probably aren’t the first words that spring to mind when ",
+          "enlace": "https://www.theguardian.com/thefilter/2026/nov/19/best-eco-friendly-sustainable-b-corp-black-friday-deals-2026-uk"
         },
         {
-          "titulo": "Doctor whose evidence helped to convict Lucy Letby was barred from treating patients during trial",
-          "entradilla": "Exclusive: Jury was never told that Prof Peter Hindmarsh was barred from practising over concerns for patients’ safety A senior doctor whose evidence helped to convict Lucy Letby and who was held up by prosecutors as a pre-eminent expert was barred from treating patients during the trial over fears ",
-          "enlace": "https://www.theguardian.com/uk-news/2026/nov/18/doctor-whose-evidence-helped-to-convict-lucy-letby-was-barred-from-treating-patients-during-trial"
+          "titulo": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
+          "entradilla": "Judgment finds ‘intent to destroy a substantial part of the Rohingya population’ after case seen as critical test for dealing with most serious of state crimes Myanmar committed genocide against its Rohingya minority during a 2017 military campaign, the world’s highest court has ruled, in a historic",
+          "enlace": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar"
         },
         {
-          "titulo": "Energy bills in Great Britain forecast to rise by 26% to £2,166 from January",
-          "entradilla": "Government under pressure to help households as increase would add £443 to average annual dual-fuel bill Energy price cap rise: how to switch providers Tell us: are you shopping around for a better deal? UK inflation rises to 3.6% Business live – latest updates Energy bills across Great Britain are ",
-          "enlace": "https://www.theguardian.com/money/2026/nov/18/energy-bills-great-britain-forecast-rise"
+          "titulo": "Four UK men convicted of sexual assault and rape of woman at invitation of husband",
+          "entradilla": "Former Tory councillor advertised ex-wife on swinging websites and drugged and bound her for sex Four men have been convicted of sexually assaulting and raping a woman at the invitation of her husband who had drugged and bound her. Philip Young, 50, advertised his then wife, Joanne Young, on dating ",
+          "enlace": "https://www.theguardian.com/uk-news/2026/nov/19/men-convicted-sexual-assault-and-rape-woman-at-invitation-of-husband"
         },
         {
-          "titulo": "Burnham urges Badenoch to withdraw ‘crass’ comment defending disability cuts on grounds ‘amputees run marathons’ – UK politics live",
-          "entradilla": "PM and leader of the opposition clashed at PMQs over welfare In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream police leadership programme for up to 200 recruits a year. Vikram Dodd has the details. The Conservatives and Reform UK do not seem v",
-          "enlace": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates"
+          "titulo": "Lawyer calls for urgent review of Letby convictions after expert witness revelations",
+          "entradilla": "Failure to disclose Peter Hindmarsh’s exclusion from practice raises ‘fundamental questions’ over nurse’s case Lucy Letby’s lawyer has said the court of appeal must urgently review her convictions, after it was revealed that a key medical witness in the prosecution’s case was barred from treating pa",
+          "enlace": "https://www.theguardian.com/uk-news/2026/nov/19/lawyers-urgent-review-lucy-letby-convictions-after-expert-witness-revelations"
         },
         {
-          "titulo": "Boy, three, dies after ‘medical emergency’ at Greater Manchester nursery",
-          "entradilla": "Police are investigating death of child three days after emergency services were called to Cosy Toes nursery in Middleton A three-year-old boy has died after a “medical emergency” at a nursery in Greater Manchester. Emergency services were called to Cosy Toes nursery in Middleton, near Manchester on",
-          "enlace": "https://www.theguardian.com/uk-news/2026/nov/18/boy-three-dies-medical-emergency-cosy-toes-nursery-middleton-greater-manchester"
+          "titulo": "Anthropic ‘to open up more than 20% higher at over $100 a share’ after blockbuster IPO – business live",
+          "entradilla": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic to begin public trading at $1.5tn valuation after largest ever IPO Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB: Anthropic’s triumphant IPO and its trillio",
+          "enlace": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates"
         },
         {
-          "titulo": "Israel delays building contracts for West Bank settlement after UK sanctions",
-          "entradilla": "Attorney general says E1 settlement decision should not be taken by caretaker government led by Netanyahu Israel has postponed issuing contracts for the construction of a large settlement on the West Bank seen as likely to render a two-state solution unviable, days after the UK imposed sanctions aga",
-          "enlace": "https://www.theguardian.com/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions"
+          "titulo": "Apec summit live: Trump, Xi and Putin make ‘peace declaration’ but talks end without clear breakthrough",
+          "entradilla": "Meeting covered nuclear profileration and Ukraine but ended without concrete agreement on main issues discussed What is Apec? Explained in 30 seconds There has been both warm welcomes, and muted greetings on the red carpet rolled out at Apec, writes the Guardian’s Japan correspondent, Justin McCurry",
+          "enlace": "https://www.theguardian.com/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china"
         },
         {
-          "titulo": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
-          "entradilla": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another car",
-          "enlace": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china"
+          "titulo": "UN warns against misuse of security laws as UK weighs Palestine Action ban",
+          "entradilla": "Human rights committee publishes guidance on freedom of association, which criticises vague laws targeting ‘extremism’ The UN human rights committee has warned against the misuse of counter-terrorism and national security legislation as the UK’s highest court considers the lawfulness of the ban on P",
+          "enlace": "https://www.theguardian.com/uk-news/2026/nov/19/un-warns-misuse-security-laws-uk-palestine-action-ban"
         }
       ],
       "analisis": {
-        "resumen": "- Las facturas energéticas en Gran Bretaña podrían subir un 26% desde enero.\n- Un médico que declaró en el juicio de Lucy Letby tenía prohibido tratar pacientes por motivos de seguridad.\n- La portada examina las críticas a los recortes de Reform UK y a unas declaraciones conservadoras sobre discapacidad, y recoge el impulso de la izquierda estadounidense a una posible candidatura presidencial de Alexandria Ocasio-Cortez.\n- Israel retrasa contratos para un asentamiento en Cisjordania; además, Xi recibe a Trump en China en el marco de la cumbre de APEC.\n- Se informa de la muerte de un niño tras una emergencia en una guardería y se incluyen temas culturales, de entretenimiento y salud invernal.",
-        "populismo": 20,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «el mundo más depravado» y la cita «la peor decisión de la historia» aportan sensacionalismo y exageración.",
-        "sesgo": "La selección muestra una atención crítica hacia Reform UK y los conservadores, junto con una presentación del impulso de la izquierda estadounidense hacia 2028. También combina política y asuntos sociales con contenidos culturales y de servicio."
+        "resumen": "- Reseñas de series sobre Elizabeth Holmes y los fundadores de FTX, junto a un relato de abuso familiar y fama.\n- Un tribunal internacional determina que Myanmar cometió genocidio contra la minoría rohinyá.\n- Cuatro hombres son condenados por agredir sexualmente y violar a una mujer; un abogado pide revisar las condenas de Lucy Letby.\n- La cumbre de APEC termina sin acuerdos concretos y la ONU advierte sobre el uso de leyes de seguridad en Reino Unido.\n- La portada incluye noticias sobre Manchester United, Power Slap, la salida a bolsa de Anthropic y compras sostenibles para el Black Friday.",
+        "populismo": 22,
+        "motivo_populismo": "Hay lenguaje emocional y enfático en expresiones como «el mayor fraude jamás cometido» y «crisis», pero no destaca una confrontación entre el pueblo y las élites.",
+        "sesgo": "La selección presta atención a los derechos humanos, la violencia y la responsabilidad de figuras e instituciones con poder. También incorpora un enfoque favorable al consumo sostenible, sin que se aprecie una orientación política explícita y uniforme."
       }
     },
     {
@@ -175,10 +175,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- Esther Rantzen, presentadora y fundadora de Childline, muere a los 86 años.\n- Varias noticias recogen muertes violentas, detenciones por presunta violación y un ciberataque a una cadena de guarderías.\n- La policía antiterrorista investiga el incendio de vehículos ante una sinagoga de Londres, descrito como un incidente de odio antisemita.\n- Los ministros anunciarán medidas para endurecer las normas sobre donaciones políticas extranjeras.\n- La portada incluye alertas sobre posibles riesgos para 2026, una columna sobre una bandera «antirracista», premios de prensa y un juego de palabras.",
-        "populismo": 58,
-        "motivo_populismo": "La nota refleja el lenguaje descalificador de «la izquierda woke ha empezado a devorarse a sí misma», el reclamo «nunca adivinarás qué pasó» y la presentación alarmante de posibles riesgos, aunque otros titulares son principalmente informativos.",
-        "sesgo": "La selección da mucho espacio a sucesos violentos, delitos y amenazas. En una columna se aprecia además un enfoque crítico y confrontativo hacia la llamada «izquierda woke»."
+        "resumen": "- Muere a los 86 años Esther Rantzen, presentadora de la BBC y fundadora de Childline.\n- La portada destaca varias investigaciones por muertes, apuñalamientos, una presunta violación y un ataque incendiario ante una sinagoga.\n- El Gobierno prepara restricciones a las donaciones políticas extranjeras y a la influencia de sociedades instrumentales.\n- Un artículo explora amenazas futuras como la gripe aviar, las armas nucleares y los asteroides; otro critica a la «izquierda woke» a propósito de una bandera.\n- También se mencionan un ciberataque a guarderías, nominaciones a premios de prensa y un nuevo juego de palabras.",
+        "populismo": 48,
+        "motivo_populismo": "Aunque muchos titulares son informativos, destacan el tono alarmista sobre amenazas futuras y expresiones polarizadoras como «la izquierda woke ha empezado a devorarse a sí misma».",
+        "sesgo": "La selección da mucho peso a sucesos violentos y amenazas a la seguridad. Un artículo adopta además un enfoque explícitamente crítico hacia la llamada «izquierda woke»."
       }
     },
     {
@@ -186,71 +186,71 @@
       "web": "https://www.independent.co.uk",
       "noticias": [
         {
-          "titulo": "Where to buy limited-edition GTA 6 PS5 controllers before they sell out",
-          "entradilla": "Limited edition GTA 6 PS5 controllers are available to pre-order ahead of the game’s launch – here’s where you can buy them Follow live: GTA 6 latest updates",
-          "enlace": "https://www.independent.co.uk/extras/indybest/gadgets-tech/video-games-consoles/buy-gta-6-ps5-controller-white-black-b3081592.html"
+          "titulo": "Elon Musk’s deMAGAfication: The man who screamed to the world he is ‘dark, gothic MAGA’ is trying to erase history",
+          "entradilla": "In a remarkable U-turn, Musk now claims that he is ‘not even sure what MAGA means’",
+          "enlace": "https://www.independent.co.uk/news/world/americas/us-politics/elon-musk-maga-u-turn-b3087951.html"
         },
         {
-          "titulo": "Fury vs Joshua undercard chaos could have brutal knock-on effect",
-          "entradilla": "Comment: With Opetaia out of his fight with Wilder, the only worthwhile undercard bout has been cancelled. It’s a even bigger blow considering Fury and Joshua will not fight until the early hours of the morning",
-          "enlace": "https://www.independent.co.uk/sport/boxing/fury-joshua-undercard-fights-opetaia-wilder-cancelled-b3087153.html"
+          "titulo": "An obsessed ‘predator’ murdered eight months pregnant woman and her husband. Thirty five years later he faces execution",
+          "entradilla": "Couple Susan ‘Missy’ MacIvor and Michael MacIvor were killed in their Florida home on August 22, 1991 by Thomas Mitchell Overton, who the state is set to put to death Thursday",
+          "enlace": "https://www.independent.co.uk/news/world/americas/crime/thomas-mitchell-overton-execution-florida-b3087911.html"
         },
         {
-          "titulo": "EasyJet flight diverts back to Bristol after bird strike",
-          "entradilla": "Passengers were provided with a replacement flight later in the day",
-          "enlace": "https://www.independent.co.uk/travel/news-and-advice/easyjet-bristol-edinburgh-bird-strike-diversion-b3087246.html"
+          "titulo": "Helicopter was flying ‘extremely’ close to water before deadly crash in Florida, NTSB says",
+          "entradilla": "The pilot was killed and a photographer and videographer on board suffered injuries",
+          "enlace": "https://www.independent.co.uk/news/world/americas/helicopter-crash-miami-biscayne-bay-b3088017.html"
         },
         {
-          "titulo": "Suspect stabbed victim to death at party to celebrate his own release from prison, cops say",
-          "entradilla": "The dead man, whom the murder suspect reportedly knew, was found in a car with a large cut on his chest",
-          "enlace": "https://www.independent.co.uk/news/world/americas/crime/south-carolina-man-stabbed-prison-release-party-b3087188.html"
+          "titulo": "Mauricio Pochettino: I was cheering for Man Utd at the 1999 Champions League final",
+          "entradilla": "Pochettino has revealed his connection with United dates back to before the millennium as he takes charge of the struggling Red Devils",
+          "enlace": "https://www.independent.co.uk/sport/football/mauricio-pochettino-man-united-new-manager-interview-b3088020.html"
         },
         {
-          "titulo": "Ukraine says it hit 2 Russian oil refineries as Zelenskyy hails weapons produced in the country",
-          "entradilla": "Ukraine says it has carried out new strikes on two oil refineries in southern Russia",
-          "enlace": "https://www.independent.co.uk/news/ukraine-kyiv-donald-trump-kerch-bridge-xi-jinping-b3087265.html"
-        },
-        {
-          "titulo": "Carlos Alcaraz powers past Daniil Medvedev in straight sets at ATP finals",
+          "titulo": "White House takes reporters’ phones aboard Air Force One leaving China",
           "entradilla": "",
-          "enlace": "https://www.independent.co.uk/bulletin/sport/carlos-alcaraz-atp-finals-daniil-medvedev-b3087257.html"
+          "enlace": "https://www.independent.co.uk/bulletin/news/white-house-reporters-phones-air-force-one-b3088036.html"
         },
         {
-          "titulo": "Hegseth has pastor who doesn’t believe in women voting lead Pentagon prayer",
+          "titulo": "Badenoch defends comment linking amputee’s marathon to ability to work",
+          "entradilla": "The Conservative Party leader would not accept that her comments were insensitive",
+          "enlace": "https://www.independent.co.uk/news/uk/politics/kemi-badenoch-burnham-amputee-richard-whitehead-b3087972.html"
+        },
+        {
+          "titulo": "Four men guilty of abusing woman drugged and advertised for sex by ‘vile monster’ husband",
+          "entradilla": "Four men have been found guilty of sexually abusing a woman who was advertised for sex by her “vile monster” husband in the first prosecution of its kind in the UK.",
+          "enlace": "https://www.independent.co.uk/news/uk/crime/joanne-young-husband-philip-young-sexual-abuse-men-guilty-b3088033.html"
+        },
+        {
+          "titulo": "Premier League chiefs given extra legal protection amid threats of action from Man City sponsors",
           "entradilla": "",
-          "enlace": "https://www.independent.co.uk/bulletin/news/pete-hegseth-christian-pastor-douglas-wilson-women-vote-b3087260.html"
+          "enlace": "https://www.independent.co.uk/bulletin/sport/man-city-premier-league-rules-verdict-etihad-airways-b3088029.html"
         },
         {
-          "titulo": "Bass guitar used to record the James Bond theme tune to fetch £10,000 at auction",
+          "titulo": "Ireland confirm back row shake-up for Springboks as Caelan Doris and Jack Conan out injured",
           "entradilla": "",
-          "enlace": "https://www.independent.co.uk/bulletin/culture/james-bond-bass-guitar-auction-dr-no-b3087263.html"
+          "enlace": "https://www.independent.co.uk/bulletin/sport/ireland-team-news-south-africa-b3088023.html"
         },
         {
-          "titulo": "Spain’s High Court opens probe into Julio Iglesias over alleged sexual offences",
-          "entradilla": "Singer Julio Iglesias, 83, has previously denied the allegations",
-          "enlace": "https://www.independent.co.uk/news/world/europe/julio-iglesias-accusations-court-spain-b3087226.html"
-        },
-        {
-          "titulo": "South Africa issue statement after Rassie Erasmus ban sparks backlash",
+          "titulo": "You Can See Everything: Critics hail Nathan Fielder’s Elizabeth Holmes documentary",
           "entradilla": "",
-          "enlace": "https://www.independent.co.uk/bulletin/sport/south-africa-rassie-erasmus-world-rugby-b3087237.html"
+          "enlace": "https://www.independent.co.uk/bulletin/culture/you-can-see-everything-review-uk-elizabeth-holmes-b3088007.html"
         },
         {
-          "titulo": "Muslims are projected to outnumber Christians by 2035 as the world's largest religion",
-          "entradilla": "The Pew Research Center has released new projections that show that Islam will surpass Christianity as the world's largest religion by 2035",
-          "enlace": "https://www.independent.co.uk/news/islam-christians-muslims-china-united-states-b3087262.html"
+          "titulo": "Thomas Markle is in court today. Here’s what to know",
+          "entradilla": "",
+          "enlace": "https://www.independent.co.uk/bulletin/news/thomas-markle-mental-competency-child-sex-abuse-b3088026.html"
         },
         {
-          "titulo": "Baroness Floella Benjamin among stars backing The Independent’s Christmas campaign",
-          "entradilla": "The children’s TV presenter and actor said the campaign will give young people ‘hope, opportunity and a fresh start’",
-          "enlace": "https://www.independent.co.uk/news/uk/home-news/project-nest-christmas-campaign-every-youth-homelessness-youth-b3087170.html"
+          "titulo": "Anthony Joshua won’t meet newborn daughter until after Tyson Fury fight",
+          "entradilla": "Joshua’s daughter is his second child, arriving 11 years after the boxer’s son JJ was born",
+          "enlace": "https://www.independent.co.uk/sport/boxing/anthony-joshua-nicole-osbourne-daughter-girlfriend-wife-mother-b3088003.html"
         }
       ],
       "analisis": {
-        "resumen": "- Venta anticipada de mandos de edición limitada de GTA 6 para PS5.\n- Cancelación de un combate previo a Fury contra Joshua; victoria de Alcaraz y polémica por la sanción a Rassie Erasmus.\n- Un vuelo de EasyJet regresa a Bristol tras chocar con un ave; se investiga un asesinato ocurrido durante una fiesta.\n- Ucrania afirma haber atacado dos refinerías rusas; el Pentágono celebra un rezo dirigido por un pastor que rechaza el voto femenino.\n- Investigación sobre Julio Iglesias por presuntos delitos sexuales; proyecciones sobre religiones y campaña navideña respaldada por famosos.",
-        "populismo": 25,
-        "motivo_populismo": "Expresiones como «caos», «brutal» y «antes de que se agoten», junto con detalles gráficos de un crimen, aportan sensacionalismo, aunque no se aprecia una apelación al pueblo contra las élites.",
-        "sesgo": "La selección combina sucesos, deporte y entretenimiento con noticias internacionales, y da espacio a contenidos de consumo y a la campaña del propio periódico. Algunos titulares priorizan la tensión o la polémica, pero no se aprecia una orientación política uniforme."
+        "resumen": "- Elon Musk se distancia de MAGA, pese a sus anteriores declaraciones de apoyo.\n- Un hombre condenado por asesinar a una pareja en Florida afronta su ejecución; en Reino Unido, cuatro hombres son declarados culpables de abusos sexuales.\n- Una investigación examina la cercanía al agua de un helicóptero antes de un accidente mortal en Florida.\n- La Casa Blanca retira los teléfonos a periodistas a bordo del Air Force One; Badenoch defiende sus comentarios sobre discapacidad y trabajo.\n- La portada incluye noticias de fútbol, rugby y boxeo, así como una reseña de un documental y una información sobre Thomas Markle.",
+        "populismo": 36,
+        "motivo_populismo": "Expresiones como «borrar la historia», «depredador» y «monstruo despreciable» aportan dramatismo y descalificación, aunque no predomina una apelación al pueblo contra las élites.",
+        "sesgo": "La redacción adopta un enfoque crítico hacia Musk y destaca la controversia sobre Badenoch. La selección también da protagonismo a sucesos violentos y a noticias deportivas y de celebridades."
       }
     },
     {
@@ -258,71 +258,71 @@
       "web": "https://www.dailymail.co.uk",
       "noticias": [
         {
-          "titulo": "British music tutor told 'sadist', 'I can't be without you' before he lured her to US and executed her, murder trial hears",
-          "entradilla": "Sonia Exelby, from Portsmouth, spent two years talking to Dwain Hall on a hardcore fetish website and offered to pay him to help brutally end her life.",
-          "enlace": "https://www.dailymail.com/crime-desk/article-16302273/British-music-tutor-told-sadist-without-you-lured-US-executed-murder-trial-hears.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+          "titulo": "Moment Raise the Colours campaign founder cries as he's told he's murdered pub owner in unprompted attack on bar dancefloor",
+          "entradilla": "Billy Allison cried, holding his head in his hands, as he heard the news that he had murdered Matthew O'Gara at Ricco and Loren bar on May 24.",
+          "enlace": "https://www.dailymail.com/news/article-16305237/Raise-Colours-campaign-founder-cries-murdered-pub-owner-unprompted-attack-bar-dancefloor.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
         },
         {
-          "titulo": "Is this Britain's smallest castle? Tiny turreted 200-year-old fortified home goes on sale with one acre of land for less than the price of a London flat",
-          "entradilla": "The Grade II-listed castellated Caroline Cottage in the historic market town of Penrith, Cumbria, has gone on the market for £360,000 to cash buyers.",
-          "enlace": "https://www.dailymail.com/news/article-16302365/castle-like-cottage-sale-cheaper-london-flat.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+          "titulo": "Mother-of-five who died undergoing a Brazilian Butt Lift was trying to find 'elusive perfection', inquest told",
+          "entradilla": "Alice Webb, 33, died in September 2024 after receiving the cosmetic procedure at a beauty salon within a friend's home in Gloucester, a coroner was told.",
+          "enlace": "https://www.dailymail.com/news/article-16305585/Mother-five-died-undergoing-Brazilian-Butt-Lift-trying-elusive-perfection-inquest-told.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
         },
         {
-          "titulo": "Female army officer tried to kill herself after captain raped her in her sleep when they were at Sandhurst, court hears",
-          "entradilla": "The female officer said she set out to take her own life but was saved by her best friend after Captain Nathanael Rennie raped her while she was asleep in her bed at Sandhurst.",
-          "enlace": "https://www.dailymail.com/news/article-16302245/Female-army-officer-tried-kill-captain-raped-sleep-Sandhurst-court-hears.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+          "titulo": "James Cleverly vows to end Sadiq Khan era and restore 'pride' in London after winning battle to be Tory candidate for Mayor",
+          "entradilla": "James Cleverly has won the battle to be selected as the Tory candidate for London Mayor.",
+          "enlace": "https://www.dailymail.com/news/article-16305291/Ex-Cabinet-minister-James-Cleverly-wins-battle-Tory-candidate-London-Mayor.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
         },
         {
-          "titulo": "Kate's glamorous night with Bollywood royalty: How Prince and Princess of Wales mingled with India's biggest movie stars and billionaire families at star-studded Earthshot Prize awards",
-          "entradilla": "The awards ceremony at Mumbai's Jio Convention Centre was hosted by one of the country's most influential filmmakers, with silver screen stars and business scions both in attendance.",
-          "enlace": "https://www.dailymail.com/news/royals/article-16302097/Kates-glamorous-night-Bollywood-royalty-Prince-Princess-Wales-mingled-Indias-biggest-movie-stars-billionaire-families-star-studded-Earthshot-Prize-awards.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+          "titulo": "The state school boy set to become AI's mega-billionaire: Anthropic's Jack Clark goes from £20,000-a-year journalism job to being worth $19.7BN today",
+          "entradilla": "Today, Brighton-born Jack is on the verge of becoming one of the richest men on the planet as his AI giant Anthropic prepares for its hotly anticipated stock market debut.",
+          "enlace": "https://www.dailymail.com/news/article-16305175/The-state-school-boy-set-AI-mega-billionaire-Anthropic-founder-Jack-Clark-born-bred-Brighton-worth-19-7BN-AI-giant-makes-stock-market-debut.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
         },
         {
-          "titulo": "Newly released Jeffrey Epstein autopsy photos that show grim images of his neck prove he was strangled, says top forensic investigator",
-          "entradilla": "The entire set of the late pedophile's autopsy photos have been posted online by his brother amid fresh claims about whether his 2019 death was a murder.",
-          "enlace": "https://www.dailymail.com/news/article-16299691/Jeffrey-Epstein-autopsy-photos-strangled.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+          "titulo": "Die-hard GTA 6 players complain sleeping with prostitutes is now banned in 'bid to deter incel culture among gamers'",
+          "entradilla": "It's only been hours since the long-awaiting launch of Grand Theft Auto 6, but players have already branded the long-awaited game as 'woke'.",
+          "enlace": "https://www.dailymail.com/sciencetech/article-16305019/Grand-Theft-Auto-6-WOKE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
         },
         {
-          "titulo": "'He isn't finding any savings for 10 years!' Kemi Badenoch roasts Burnham over 'vibes' NEETs plan as she brands Labour 'the welfare party'",
-          "entradilla": "Kemi Badenoch accused Andy Burnham of heading the 'welfare party' as she pointed out the Milburn plan did not envisage any savings for a decade.",
-          "enlace": "https://www.dailymail.com/news/article-16302601/Kemi-Badenoch-Burnham-NEETs-plan-Labour-welfare-benefits.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+          "titulo": "BBC and Sky Sports female rugby pundit breaks down in tears as she is cleared of sexually assaulting woman by putting hand up her skirt",
+          "entradilla": "Danika Priim, 42, was accused of putting her hand up the skirt of a woman in a cricket club bathroom.",
+          "enlace": "https://www.dailymail.com/news/article-16305581/BBC-Sky-Sports-female-rugby-pundit-cleared-sexually-assaulting-woman-hand-skirt-cricket-club-toilet.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
         },
         {
-          "titulo": "Robert Pattinson's secret weapon: How nailing a 'half-dressed' Sean Connery seduction scene landed actor the role of James Bond",
-          "entradilla": "He's played a brooding vampire and the Caped Crusader on screen but for the role of a lifetime Robert Pattinson had to tap into his seductive side.",
-          "enlace": "https://www.dailymail.com/tvshowbiz/article-16302029/Robert-Pattinsons-secret-weapon-nailing-half-dressed-Sean-Connery-seduction-scene-landed-actor-role-James-Bond.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+          "titulo": "Awkward! What happened when RICHARD EDEN bumped into Harry and Meghan at Winter Wonderland, behind-the-scenes detail that's SO telling... and why a Palace insider tells me: 'It's clear to me what Harry's up to'",
+          "entradilla": "The Sussexes' spokesmen stress that they don't seek to undermine the work of Their Majesties. But the spotlight seems to always find them, and this time at Winter Wonderland.",
+          "enlace": "https://www.dailymail.com/news/royals/article-16305315/RICHARD-EDEN-Harry-Meghan-Winter-Wonderland-Palace-insiders.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
         },
         {
-          "titulo": "SARAH VINE: Dr Renee, an impressive and clever woman, is the same age as me - 59. That's why I think she's off her rocker to get pregnant now",
-          "entradilla": "I was astonished to read about Dr Renee Hoenderkamp, who at the age of 59 - the same age as me - has announced she is in her 12th week of pregnancy. If I'm honest, I think she's off her rocker.",
-          "enlace": "https://www.dailymail.com/debate/article-16300601/SARAH-VINE-Dr-Renee-age-pregnant.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+          "titulo": "Labour Net Zero chaos as Cabinet minister is accused of encouraging MPs to revolt against Rosebank oilfield scheme",
+          "entradilla": "Cabinet ministers are said to believe that Miatta Fahnbulleh has been privately inciting MPs objecting to the drilling going ahead in the North Sea.",
+          "enlace": "https://www.dailymail.com/news/article-16305195/Labour-Net-Zero-Cabinet-MPs-revolt-Rosebank-oilfield.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
         },
         {
-          "titulo": "RICHARD EDEN: 'Harry and Meghan talk to family a lot', says pal",
-          "entradilla": "The Duke and Duchess of Sussex have been back in Britain for 12 weeks and still haven't met King Charles and Queen Camilla. Yet a friend insists that things are far from how they may seem.",
-          "enlace": "https://www.dailymail.com/tvshowbiz/article-16300897/RICHARD-EDEN-Harry-Meghan-talk-family-says-pal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+          "titulo": "We forgave the man who killed our daughter... and even let him move into our home: Maria was just 24 when she died after a night drinking with her boyfriend. Here's why her parents have now embraced him",
+          "entradilla": "Elizabeth Jimenez remembers how her hands shook as she dialled the phone number, grief so heavy that her body ached.",
+          "enlace": "https://www.dailymail.com/lifestyle/family-parenting/article-16305523/forgave-man-killed-daughter-drinking-boyfriend-parents.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
         },
         {
-          "titulo": "Businessman who says he was struck down with chronic fatigue after taking hepatitis B vaccine sues NHS for more than £1m",
-          "entradilla": "Wayne Bloore ran his own IT firm and six Subway sandwich shops when he was first advised by a doctor to take the hep B vaccine in 2008.",
-          "enlace": "https://www.dailymail.com/news/article-16302431/businessman-chronic-fatigue-hepatitis-B-vaccine-sues-NHS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+          "titulo": "BBC bosses put out pointed job advert for 'team player' to replace Naga Munchetty on Breakfast following second high-profile exit",
+          "entradilla": "In their job advert to find Ms Munchetty's successor, which closes this Sunday, bosses state that they must be a 'team player' and bring 'warmth and humanity'",
+          "enlace": "https://www.dailymail.com/news/article-16302899/BBC-bosses-pointed-job-advert-team-player-replace-Naga-Munchetty-Breakfast-following-second-high-profile-exit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
         },
         {
-          "titulo": "Glastonbury 2027 line-up revealed: Harry Styles, Sam Fender and Billie Eilish announced as youngest headliners in 30 years - with Cher taking the iconic Legends slot",
-          "entradilla": "The line-up for the 2027 Glastonbury Festival has been announced, with its youngest trio of headliners in 30 years.",
-          "enlace": "https://www.dailymail.com/tvshowbiz/article-16302005/Glastonbury-2027-line-revealed-Harry-Styles-Sam-Fender-Billie-Eilish.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+          "titulo": "Harry and Meghan enjoy an evening at Winter Wonderland in London with Archie and Lilibet",
+          "entradilla": "The Duke of Sussex was pictured grinning as he rode the dodgems with son Archie at the Hyde Park attraction on Wednesday evening ahead of their first Christmas back in Britain.",
+          "enlace": "https://www.dailymail.com/news/article-16304907/Harry-Meghan-enjoy-evening-Winter-Wonderland-London-Archie-Lilibet.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
         },
         {
-          "titulo": "Irishman charged with trying to dissolve $60 million US military aircraft at Shannon Airport",
-          "entradilla": "Daithi O'Corrain, 48, is accused of using an axe and a highly corrosive substance to destroy a $60 million plane that was sat at Ireland's Shannon Airport in April",
-          "enlace": "https://www.dailymail.com/news/article-16300621/Irishman-dissolve-US-military-aircraft-charged.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+          "titulo": "Glampsite owner is locked in bitter £135,000 court fight with her neighbours after she tried to stop them parking their car in their own garden",
+          "entradilla": "Carol Esteban, 60, (pictured) who runs a farm site on the edge of the Brecon Beacons national park in Wales, sparked a feud with her neighbours over a shared driveway.",
+          "enlace": "https://www.dailymail.com/news/article-16305511/Glampsite-court-fight-neighbours-stop-parking-car-garden.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
         }
       ],
       "analisis": {
-        "resumen": "- Un juicio aborda la muerte de una profesora británica en Estados Unidos; otro, la presunta violación de una oficial en Sandhurst.\n- Un investigador forense sostiene que las fotos de la autopsia de Jeffrey Epstein apuntan a un estrangulamiento. En Irlanda, un hombre está acusado de intentar destruir un avión militar estadounidense.\n- Kemi Badenoch critica el plan de Andy Burnham y acusa a los laboristas de ser el partido de las prestaciones sociales.\n- La portada destaca la asistencia de los príncipes de Gales a los premios Earthshot, noticias sobre Harry y Meghan, el reparto de James Bond y el cartel de Glastonbury 2027.\n- También recoge la venta de una pequeña casa fortificada, una demanda contra el NHS relacionada con una vacuna y una columna crítica con el embarazo de una mujer de 59 años.",
-        "populismo": 60,
-        "motivo_populismo": "Abundan el lenguaje sensacionalista sobre crímenes, expresiones como «noche glamurosa» y descalificaciones como «ha perdido la cabeza», además del tono de confrontación política de «el partido de las prestaciones sociales».",
-        "sesgo": "La selección privilegia sucesos violentos, celebridades y asuntos personales, con énfasis en detalles llamativos. La crítica política se presenta principalmente desde el ataque de Badenoch a los laboristas, sin recoger en el texto una respuesta de Burnham."
+        "resumen": "- Un hombre llora al conocer que ha matado al dueño de un pub; una investigación aborda la muerte de una madre tras una intervención estética.\n- James Cleverly es elegido candidato conservador a la alcaldía de Londres; una ministra laborista es acusada de alentar una rebelión contra el proyecto petrolero Rosebank.\n- Jack Clark, cofundador de Anthropic, figura entre los protagonistas de una noticia sobre grandes fortunas tecnológicas.\n- Una comentarista de rugby es absuelta de una acusación de agresión sexual y unos padres relatan cómo perdonaron al hombre que mató a su hija.\n- La portada incluye noticias sobre Harry y Meghan, la BBC, GTA 6 y un litigio entre vecinos por una zona de aparcamiento.",
+        "populismo": 55,
+        "motivo_populismo": "Abundan el lenguaje emocional y sensacionalista, como «chaos», «bitter» y «breaks down in tears», junto con encuadres de confrontación como «woke» y promesas de recuperar el «orgullo» de Londres.",
+        "sesgo": "La selección prioriza sucesos, celebridades y conflictos personales, con énfasis en emociones y polémicas. En política, destaca un enfoque de confrontación: presenta la candidatura de Cleverly como el fin de una era y las discrepancias laboristas como «caos»."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://www.mirror.co.uk",
       "noticias": [
         {
-          "titulo": "GTA 6 release LIVE: Record Metacritic reviews revealed after New Zealand launch",
-          "entradilla": "Players can now finally get their hands on GTA 6 after years of delays as Rockstar Games begins its massive worldwide launch - and some will be able to try it out before others",
-          "enlace": "https://www.mirror.co.uk/gaming/gta-6-metacritic-release-reviews-37888503"
+          "titulo": "Bradford stabbing live: 'Councillor' knifed before 'suspect in police stand-off'",
+          "entradilla": "A man has been arrested on suspicion of attempted murder after reports of a stabbing in Bradford - a 52-year-old man, named locally as Cllr Ibrar Ali, has been seriously injured",
+          "enlace": "https://www.mirror.co.uk/news/uk-news/bradford-stabbing-councillor-ibrar-ali-37895423"
         },
         {
-          "titulo": "Most medicines 'stop working' if stored in these rooms, pharmacist warns",
-          "entradilla": "Pills could end up spoiled long before the expiry date if kept in these places",
-          "enlace": "https://www.mirror.co.uk/news/health/most-medicines-stop-working-stored-37890908"
+          "titulo": "Four men guilty of sexually abusing Joanne Young after being advertised for sex online by her husband",
+          "entradilla": "Four men have been found guilty at Winchester Crown Court of sexually abusing Joanne Young, who was advertised for sex by her husband Philip Young",
+          "enlace": "https://www.mirror.co.uk/news/uk-news/four-men-guilty-sexually-abusing-37895651"
         },
         {
-          "titulo": "Girl, 2, dies after police called to high street",
-          "entradilla": "Two ambulances and a specialist paramedic attended the scene in Spennymoor, County Durham",
-          "enlace": "https://www.mirror.co.uk/news/uk-news/girl-2-dies-after-police-37890989"
+          "titulo": "Lloyds issues new 'fake websites' Black Friday fraud warning",
+          "entradilla": "Tha banking giants said fraudsters were waiting to exploit one mistake people make on Black Friday",
+          "enlace": "https://www.mirror.co.uk/money/savings-banks/lloyds-issues-new-fake-websites-37895425"
         },
         {
-          "titulo": "Ice see you! Polar bear peering through frozen water among  Nature Photographer of the Year winners",
-          "entradilla": "Finnish photographer Hannu Ahonen scooped the overall title with an extraordinary image of a water lily leaf beside a delicate replica formed by ice.",
-          "enlace": "https://www.mirror.co.uk/news/world-news/gallery/animal-photos-competition-nature-pictures-37890677"
+          "titulo": "Anyone over 65 urged to make simple heating change this month",
+          "entradilla": "The NHS and Met Office has issued advice",
+          "enlace": "https://www.mirror.co.uk/news/health/temperature-homes-over-65s-advice-37895480"
         },
         {
-          "titulo": "Liverpool star fined over £1,000 after failing to identify driver of speeding Lamborghini",
-          "entradilla": "Liverpool defender Jeremie Frimpong was handed six penalty points and ordered to pay £1,044 after failing to identify the driver of his £200,000 Lamborghini Urus, which was caught speeding in Manchester.",
-          "enlace": "https://www.mirror.co.uk/news/uk-news/liverpool-jeremie-frimpong-lamborghini-fine-37890988"
+          "titulo": "Chrissie Hynde felt 'physically sick' after obsessed fan's worrying actions, court hears",
+          "entradilla": "Bruce Krom, 50, is accused of stalking Pretenders singer Chrissie Hynde from May 2024, sending messages to her London agency and later moving from Texas to Notting Hill.",
+          "enlace": "https://www.mirror.co.uk/news/uk-news/chrissie-hynde-felt-physically-sick-37895143"
         },
         {
-          "titulo": "Treasury announces new UK bank change to 'protect' 4 million customers - key details",
-          "entradilla": "The UK Treasury has announced new changes it is vowing to make after the publication of a review on UK banking",
-          "enlace": "https://www.mirror.co.uk/money/treasury-announces-new-uk-bank-37890995"
+          "titulo": "10 outdated Christmas hosting rules Brits want to ditch this festive season",
+          "entradilla": "A poll reveals the Christmas hosting rules Brits want to ditch – and the festive traditions they're determined to keep.",
+          "enlace": "https://www.mirror.co.uk/news/uk-news/10-outdated-christmas-hosting-rules-37893286"
         },
         {
-          "titulo": "I’m A Celebrity LIVE: New campmate Leigh Francis speaks out ahead of AJ twist",
-          "entradilla": "I'm a A Celebrity returned for its second episode with more drama and trials last night - as fans were given a huge shock when it was confirmed AJ Odudu would be back",
-          "enlace": "https://www.mirror.co.uk/tv/tv-news/im-celebrity-live-stars-head-37881874"
+          "titulo": "Reform mocked over GTA ‘AI slop’ after top Farage ally posts bizarre video called ‘Grand Theft Jenrick’",
+          "entradilla": "Grand Theft Jenrick sees an animated version of the Reform MP cutting the cost of living, controlling migration and tracking down fare dodgers",
+          "enlace": "https://www.mirror.co.uk/news/robert-jenrick-gta-video-reform-37894372"
         },
         {
-          "titulo": "RUSSELL MYERS: 'Prince William and Kate's whirlwind Mumbai trip is royal turning point'",
-          "entradilla": "OPINION: Having followed the Prince and Princess of Wales in Mumbai this week, it has been a whirlwind watching them embark on their first major joint overseas tour in two years",
-          "enlace": "https://www.mirror.co.uk/news/royals/william-kate-harry-earthshot-mumbai-37890759"
+          "titulo": "Premier League clubs reach agreement after Man City’s guilty verdict threat",
+          "entradilla": "Manchester City were found guilty of breaching the Premier League's financial rules in September, and English top flight officials could be facing backlash as a result",
+          "enlace": "https://www.mirror.co.uk/sport/football/news/manchester-city-premier-league-charges-37895271"
         },
         {
-          "titulo": "Why being in an unhappy marriage can put you at greater risk of dementia",
-          "entradilla": "Researchers say even people in relationships can experience “chronic” loneliness",
-          "enlace": "https://www.mirror.co.uk/news/health/dementia-loneliness-study-alzheimers-37890741"
+          "titulo": "Hackers leak data for 'thousands of JPMorgan Chase's richest clients' on dark web",
+          "entradilla": "JPMorgan Chase said third parties who provide services to the firm were the target of a cyber attack, with some of its richest clients' details leaked on the dark web",
+          "enlace": "https://www.mirror.co.uk/news/world-news/jpmorgan-chase-hack-data-leak-37895005"
         },
         {
-          "titulo": "The best boozy advent calendars 2026",
-          "entradilla": "Whether your tipple is wine, whisky or an espresso martini, 2026 has a truly bumper crop of boozy advent calendars to enjoy. Here are some of the best of the bunch",
-          "enlace": "https://www.mirror.co.uk/lifestyle/food-drink/best-booze-advent-calendars-2026-37890275"
+          "titulo": "Illegal £4.5m cigarette crime gang smashed with 5.5 tonnes of tobacco seized - and four gold bars",
+          "entradilla": "Hundreds of customs officers have raided homes and units across the country, arresting 21 suspects, seizing gold bars and nearly a million in cash as well as 1.4 million illegal cigarettes",
+          "enlace": "https://www.mirror.co.uk/news/uk-news/illegal-cigarette-crime-gang-smash-37894303"
         },
         {
-          "titulo": "Baby found dead at Shoebury home is pictured after man and woman arrested",
-          "entradilla": "Blake Branch, one, sadly died at an address on Eagle Way in Shoebury, Essex last month - his 'heartbroken' family said their 'world has been shattered in a way we never imagined possible'",
-          "enlace": "https://www.mirror.co.uk/news/uk-news/essex-police-blake-branch-crime-37890916"
+          "titulo": "'Lip King' influencer moaned 'I'm exhausted' during 'naturally beautiful' mum's  fatal BBL",
+          "entradilla": "Alice Webb, 33, a mum-of-five from Gloucestershire, died after a Brazilian butt lift performed by Jordan Parke, known as the Lip King.",
+          "enlace": "https://www.mirror.co.uk/news/uk-news/alice-webb-bbl-inquest-gloucester-37894804"
         },
         {
-          "titulo": "RBS, Lloyds, Nationwide and NatWest customers could get up to £200 - check if you're eligible",
-          "entradilla": "Don't wait around too long as the offers may change - anf if you act fast you could have the cash boost in time for Christmas",
-          "enlace": "https://www.mirror.co.uk/money/savings-banks/rbs-lloyds-nationwide-natwest-customers-37890507"
+          "titulo": "Millions of crabs bring roads to a standstill in extraordinary annual Christmas Island migration",
+          "entradilla": "Tens of millions of bright red crabs have flooded streets, woodland paths and specially built crossings on Austalia's Christmas Island, creating a spectacular sea of red as they leave their forest homes and head towards the ocean to mate",
+          "enlace": "https://www.mirror.co.uk/news/world-news/gallery/christmas-island-crabs-road-crossing-37894815"
         }
       ],
       "analisis": {
-        "resumen": "- Lanzamiento mundial de GTA 6 y primeras reseñas tras su salida en Nueva Zelanda.\n- Advertencia sobre la conservación de medicamentos y estudio sobre soledad y riesgo de demencia.\n- Muerte de una niña de dos años en Durham y de un bebé en Essex, donde fueron detenidas dos personas.\n- Cambios bancarios anunciados por el Tesoro y ofertas de hasta 200 libras para algunos clientes.\n- Noticias de famosos, realeza, deporte y fotografía, junto con recomendaciones de calendarios de adviento.",
-        "populismo": 40,
-        "motivo_populismo": "Abundan el sensacionalismo y las apelaciones a la urgencia, como «la mayoría de los medicamentos dejan de funcionar», «gran sorpresa» o «actúa rápido», aunque no destaca un enfrentamiento entre pueblo y élites.",
-        "sesgo": "La selección prioriza el entretenimiento, los sucesos y la información de consumo, con titulares diseñados para despertar alarma o curiosidad. No se aprecia un sesgo político claro en el conjunto proporcionado."
+        "resumen": "- Un hombre resulta gravemente herido en un apuñalamiento en Bradford y otro es detenido como sospechoso.\n- Cuatro hombres son declarados culpables de abusar sexualmente de Joanne Young, anunciada en internet por su marido.\n- Lloyds alerta sobre fraudes en Black Friday y se filtran datos de clientes de JPMorgan; también se ofrecen consejos de calefacción a mayores de 65 años.\n- Un vídeo de Reform recibe burlas y los clubes de la Premier League alcanzan un acuerdo tras una infracción financiera del Manchester City.\n- La portada incluye noticias sobre acoso a Chrissie Hynde, contrabando de tabaco, una intervención estética mortal, tradiciones navideñas y una migración de cangrejos.",
+        "populismo": 42,
+        "motivo_populismo": "Expresiones como «bizarre», «AI slop» y «crime gang smashed», junto con advertencias de fraude y relatos de sucesos, aportan sensacionalismo, aunque no aparece una oposición explícita entre el pueblo y las élites.",
+        "sesgo": "La selección da protagonismo a sucesos, delitos, riesgos para el consumidor y noticias llamativas. El titular sobre el vídeo de Reform adopta un tono despectivo, pero el conjunto no permite establecer una orientación política general."
       }
     }
   ]
