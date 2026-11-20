@@ -1,39 +1,39 @@
 {
   "pais": "Francia",
-  "fecha": "2026-11-19",
-  "turno": 18,
-  "generado": "19/11/2026 23:55",
+  "fecha": "2026-11-20",
+  "turno": 8,
+  "generado": "20/11/2026 15:55",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "La presidencial de 2027 y las alianzas políticas, especialmente la posible colaboración entre los ecologistas y Jean-Luc Mélenchon, aparecen en varios diarios. También se repiten la cumbre de Shenzhen, la investigación sobre filtraciones al RN, la condena por el genocidio rohinyá y la muerte del diputado David Habib. Solo Le Parisien destaca el paso de un tornado por Bourguignons.",
-    "crispacion": 65,
-    "motivo_crispacion": "La preparación de la presidencial genera enfrentamientos, en particular por la propuesta de alianza con Mélenchon y la salida de Yannick Jadot de Los Ecologistas. La investigación sobre posibles filtraciones al RN y la obstrucción parlamentaria en torno al control de alquileres añaden tensión institucional. En el plano internacional, la guerra en Ucrania y los desacuerdos entre grandes potencias reflejan conflictos importantes. Noticias sobre deporte, cultura y tecnología, así como el homenaje al diputado fallecido David Habib, ofrecen un contrapunto menos conflictivo."
+    "temas": "Se repiten las manifestaciones contra la carestía, la carrera presidencial de 2027, las sospechas de filtraciones al RN y la guerra en Ucrania. También aparecen el acuerdo entre la Unión Europea y el Reino Unido y el encuentro futbolístico entre Francia y España. Solo Le Monde destaca la desindustrialización francesa y sus consecuencias sociales y territoriales.",
+    "crispacion": 72,
+    "motivo_crispacion": "La tensión es elevada por las movilizaciones contra la carestía, las convocatorias de huelga y la preocupación por posibles disturbios. La carrera presidencial presenta ataques entre dirigentes y divisiones dentro de los partidos, mientras la investigación sobre presuntas filtraciones del Ministerio del Interior al RN alimenta la controversia política. La guerra en Ucrania añade enfrentamiento internacional y preocupación por la seguridad europea. Noticias deportivas, culturales y el acuerdo entre el Reino Unido y la UE aportan temas menos conflictivos."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "La prórroga del control de alquileres es una buena noticia para quienes viven de su trabajo y necesitan un techo. La obstrucción del Reagrupamiento Nacional muestra de qué lado se sitúa cuando se intenta limitar el poder de los propietarios. Pero contener las rentas no basta: yo defiendo un gran parque público de vivienda y formas de propiedad colectiva que saquen los hogares de la lógica de la especulación.\n\nMientras las fuerzas políticas debaten posibles coaliciones, me importa menos el reparto de candidaturas que el programa: salarios, vivienda y servicios públicos universales, financiados exigiendo más al gran capital. Una unión de izquierdas merece apoyo si sirve para cambiar las relaciones de poder, no solo para administrar las mismas desigualdades. La clase trabajadora necesita organización y derechos, no únicamente promesas electorales."
+      "texto": "Yo veo un mismo conflicto detrás de varias portadas: quién decide sobre la riqueza que producimos y quién paga cuando falla el mercado. Francia ha perdido más de 3.000 fábricas desde 2009, con consecuencias sociales y territoriales profundas. No basta con lamentar la desindustrialización mientras la inversión y el empleo dependen de la rentabilidad privada. Defiendo una política industrial bajo propiedad colectiva y control democrático de los trabajadores.\n\nLa convocatoria sindical del 1 de diciembre y las movilizaciones contra la vida cara recuerdan que los salarios no son un coste que deba comprimirse, sino el sustento de millones de personas. Subirlos y fortalecer los servicios públicos exige disputar recursos y poder al gran capital. También la vivienda debe tratarse como un derecho: limitar los alquileres protege a quienes necesitan un hogar, no solo a quienes esperan obtener una renta."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "Veo en la cumbre de Shenzhen una imagen elocuente del poder: tres dirigentes hablan de paz sin alcanzar un acuerdo vinculante, mientras los pueblos quedan reducidos a espectadores. No confío en que la seguridad colectiva pueda descansar en la voluntad de quienes administran arsenales y fronteras.\n\nEn Francia, la prolongación del control de alquileres puede aliviar a quienes necesitan vivienda, y no voy a despreciar ese alivio. Pero tampoco quiero que la vida de los inquilinos dependa únicamente de mayorías parlamentarias y maniobras de partido. Prefiero que quienes habitan los barrios se organicen, compartan recursos y decidan juntos cómo defender sus necesidades. La autogestión no es una promesa mágica: exige participación, desacuerdo y responsabilidad compartida. Es, aun así, una vía para construir libertad individual y colectiva sin entregar nuestro destino a una jerarquía."
+      "texto": "Veo una conexión entre la concentración de riqueza que alimenta el debate sobre la oligarquía y el cierre de miles de fábricas: demasiadas decisiones que afectan a comunidades enteras quedan en manos de unos pocos. No confío en que otro partido o un nuevo presidente resuelvan esa dependencia. Prefiero que trabajadores y vecinos decidan directamente sobre la producción y los recursos de sus territorios.\n\nLas movilizaciones contra la carestía y la huelga convocada por los salarios recuerdan que la fuerza colectiva no nace en los despachos. Ojalá sirvan para construir asambleas abiertas, redes de apoyo mutuo y proyectos autogestionados, sin jefes que hablen permanentemente por los demás. La libertad individual necesita medios materiales; la libertad colectiva, la participación de quienes viven las consecuencias de cada decisión."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "La prolongación del control de alquileres en Francia me parece una respuesta equivocada a un problema real. Limitar precios puede aliviar a algunos inquilinos, pero también desincentiva la construcción y la oferta de viviendas. Prefiero que se facilite construir, se proteja la propiedad y se reduzcan las trabas y los impuestos que encarecen la inversión. Un mercado más libre no elimina todas las dificultades, pero permite que más personas encuentren soluciones sin depender de decisiones administrativas.\n\nTambién me inquieta la investigación sobre presuntas filtraciones desde el Ministerio del Interior. Un Estado limitado necesita instituciones imparciales: quien maneja información reservada debe responder por sus actos, sea cual sea el partido beneficiado. Libertad y responsabilidad personal van juntas; ninguna causa política justifica convertir el poder público en herramienta de privilegio."
+      "texto": "El cierre de más de 3.000 fábricas en Francia desde 2009 exige algo más que nostalgia industrial. Yo quiero un país donde emprender, contratar e invertir sea menos costoso: impuestos más bajos, reglas estables y un Estado limitado que deje a trabajadores y empresarios crear riqueza. No hay prosperidad duradera sin libertad para asumir riesgos y responsabilidad por las propias decisiones.\n\nTampoco creo que controlar los alquileres resuelva la escasez de vivienda. Si se desalienta la inversión, puede terminar habiendo menos oferta y menos oportunidades para los inquilinos. Prefiero facilitar la construcción y la competencia.\n\nEl debate sobre la oligarquía sí plantea una pregunta importante: ¿quién obtiene privilegios del poder? La respuesta liberal no es castigar la riqueza por existir, sino impedir que el Estado reparta favores y garantizar que todos compitan bajo las mismas reglas."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "La cumbre de Shenzhen confirma una lección incómoda: las grandes potencias defienden sus intereses, por mucho que envuelvan sus reuniones en palabras de paz. Yo quiero que Francia haga lo mismo. Apoyar a Ucrania no debe significar entregar a otros la decisión sobre nuestros compromisos militares ni aceptar que el futuro de Europa se negocie sin nosotros.\n\nEn casa, la alerta del fiscal de Toulouse sobre los homicidios ligados al narcotráfico recuerda que la seguridad es la primera obligación del Estado. No basta con discursos: hacen falta justicia eficaz y autoridad en nuestras calles. Esa misma exigencia de soberanía reclama un control estricto de la inmigración y la defensa de nuestras tradiciones comunes. Las élites políticas y mediáticas prefieren hablar de alianzas electorales; yo prefiero que rindan cuentas por su capacidad para proteger a los franceses."
+      "texto": "Me preocupa una Francia que ha visto cerrar más de 3.000 fábricas desde 2009 mientras sus dirigentes se acostumbran a consumir lo que otros producen. Sin industria, la soberanía es una palabra vacía: necesitamos defender la producción nacional y devolver a nuestros territorios el trabajo y la dignidad que han perdido.\n\nLa suspensión del centro de retención de Nantes recuerda otra exigencia: controlar la inmigración y ejecutar las expulsiones conforme a la ley. Un país debe decidir quién entra y quién permanece, sin renunciar a su identidad ni a sus tradiciones. También debe proteger el derecho a manifestarse y garantizar la seguridad de los comercios y las familias. Desconfío de unas élites políticas y mediáticas que parecen más cómodas administrando el declive que enfrentándolo. Y si se confirman las filtraciones investigadas hacia el RN, deberán sancionarse: ninguna causa justifica poner al Estado al servicio de un partido."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "La fotografía de Shenzhen no sustituye a una diplomacia basada en compromisos verificables. Me parece acertado que Europa reafirme su apoyo a Ucrania y reclame un lugar en futuras negociaciones: la seguridad del continente no debería decidirse sin quienes asumirán sus consecuencias. Una paz duradera exige garantías creíbles, no solo declaraciones de buena voluntad.\n\nEn Francia, celebro la prórroga del control de alquileres como una protección frente a la presión sobre los hogares. Pero regular los precios no basta: también hay que favorecer la construcción y la inversión para ampliar la oferta. Rechazo la obstrucción parlamentaria como sustituto del debate, aunque el recurso del Gobierno a la Constitución tampoco debería convertirse en una forma rutinaria de evitarlo. Prefiero reformas evaluables y acuerdos amplios: son más difíciles de lograr, pero también más capaces de perdurar."
+      "texto": "Me preocupa que la desindustrialización francesa haya dejado heridas sociales y territoriales que ningún eslogan puede cerrar. Recuperar capacidad productiva exige inversión privada, formación y políticas públicas estables, acordadas más allá de una legislatura. No se trata de elegir entre mercado y protección social: sin empresas competitivas no hay empleo duradero, pero sin seguridad para los trabajadores tampoco habrá confianza en las reformas.\n\nTambién creo que las sospechas de filtraciones del Ministerio del Interior hacia el RN deben investigarse con independencia y sin prejuzgar a nadie. Si se confirman, serían una grave quiebra de la neutralidad institucional. Y ante la guerra en Ucrania, respaldo que Europa tenga un lugar pleno en las negociaciones: una paz duradera necesita garantías de seguridad creíbles, no solo declaraciones de buena voluntad."
     }
   ],
   "periodicos": [
@@ -42,71 +42,71 @@
       "web": "https://www.lemonde.fr",
       "noticias": [
         {
-          "titulo": "A Shenzhen, Xi Jinping et « l’ami » Vladimir Poutine ont endormi Donald Trump sous les fastes",
-          "entradilla": "Les chefs d’Etat des trois grandes puissances ont profité du sommet en Chine pour entretenir une fausse proximité, qui ne dit rien de leurs désaccords sur des sujets comme l’intelligence artificielle ou les arsenaux nucléaires.",
-          "enlace": "https://www.lemonde.fr/international/article/2026/11/19/a-shenzhen-xi-jinping-et-l-ami-vladimir-ont-endormi-donald-trump-sous-les-fastes_6813336_3210.html"
+          "titulo": "Comment le problème oligarchique s’est imposé dans le débat démocratique",
+          "entradilla": "Samedi 21 novembre doit se tenir à Paris un sommet contre l’oligarchie internationale avec la participation de plusieurs Prix Nobel. Car s’il y a encore quinze ans, le mot « oligarque » visait surtout les ultrariches russes corrompus, les milliardaires sont aujourd’hui sortis de leur invisibilité.",
+          "enlace": "https://www.lemonde.fr/idees/article/2026/11/20/comment-le-probleme-oligarchique-s-est-impose-dans-le-debat-democratique_6813586_3232.html"
         },
         {
-          "titulo": "EN DIRECT, guerre en Ukraine : les Européens réaffirment leur soutien à Kiev et évoquent leur participation à de futures négociations avec les Russes et les Américains",
-          "entradilla": "A l’issue d’une ‌réunion ‌des membres de la coalition des volontaires, Emmanuel Macron a avancé l’idée de « rouvrir la question de l’adhésion à l’OTAN ». L’émissaire américain a déclaré que les Etats-Unis seraient disposés à accorder à l’Ukraine une protection de type OTAN.",
-          "enlace": "https://www.lemonde.fr/international/live/2026/11/19/en-direct-guerre-en-ukraine-les-europeens-reaffirment-leur-soutien-a-kiev-et-evoquent-leur-participation-a-de-futures-negociations-avec-les-russes-et-les-americains_6810982_3210.html"
+          "titulo": "Comment la France a échoué à enrayer sa désindustrialisation : « Plus de 3 000 usines ont fermé depuis 2009 »",
+          "entradilla": "En cinq décennies, la France, longtemps pays de production, est devenue un pays de consommation de biens produits à l’étranger. L’ensemble des filières a été touché par ce mouvement, avec des répercussions sociales et territoriales profondes.",
+          "enlace": "https://www.lemonde.fr/economie/article/2026/11/20/comment-la-france-a-echoue-a-enrayer-sa-desindustrialisation-plus-de-3-000-usines-ont-ferme-depuis-2009_6813580_3234.html"
         },
         {
-          "titulo": "Une enquête ouverte sur des fuites en provenance du ministère de l’intérieur vers le RN",
-          "entradilla": "Selon les informations du « Monde », une information judiciaire a été ouverte pour « violation du secret professionnel », « violation du secret de l’enquête » et « recel » de ces délits. La justice soupçonne des fuites d’éléments liés à des enquêtes en cours concernant le Rassemblement national. Des",
-          "enlace": "https://www.lemonde.fr/societe/article/2026/11/19/une-enquete-ouverte-sur-des-fuites-en-provenance-du-ministere-de-l-interieur-vers-le-rn_6813316_3224.html"
+          "titulo": "EN DIRECT, guerre en Ukraine | Garanties de sécurité : l’Elysée évoque une adhésion à l’OTAN et réclame une pleine place pour les Européens dans les négociations",
+          "entradilla": "Fournir à Kiev une protection comparable à celle prévue par le traité de l’Alliance atlantique équivaudrait à une adhésion de l’Ukraine à l’OTAN, défendue par la France, a estimé vendredi la présidence française.",
+          "enlace": "https://www.lemonde.fr/international/live/2026/11/20/en-direct-guerre-en-ukraine-la-pologne-accuse-la-russie-d-avoir-viole-son-espace-aerien-et-evoque-un-lien-avec-l-exercice-de-la-coalition-des-volontaires_6810982_3210.html"
         },
         {
-          "titulo": "Encadrement des loyers : malgré l’obstruction systématique du RN, la prolongation du dispositif adoptée à l’Assemblée nationale",
-          "entradilla": "Les députés d’extrême droite ont multiplié les amendements pour tenter d’empêcher l’adoption de la proposition de loi portée par le député socialiste Iñaki Echaniz. Le ministre du logement a finalement eu recours à l’article 44, alinéa 2 de la Constitution pour mettre fin à cette obstruction.",
-          "enlace": "https://www.lemonde.fr/societe/article/2026/11/19/encadrement-des-loyers-malgre-l-obstruction-systematique-du-rn-la-prolongation-du-dispositif-adoptee-a-l-assemblee-nationale_6813374_3224.html"
+          "titulo": "Présidentielle 2027 : David Lisnard, promoteur puis torpilleur de la primaire de la droite et du centre",
+          "entradilla": "Le candidat Nouvelle Energie a été l’un des premiers, à droite, à défendre une primaire avec un large périmètre. Mais il est suspecté par les équipes de Gabriel Attal et de Bruno Retailleau de vouloir faire échouer le processus en souhaitant y inclure le polémiste d’extrême droite Eric Zemmour.",
+          "enlace": "https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-david-lisnard-promoteur-puis-torpilleur-de-la-primaire-de-la-droite-et-du-centre_6813615_823448.html"
         },
         {
-          "titulo": "Rohingya : un arrêt historique de la Cour de justice internationale reconnaît la Birmanie coupable de génocide",
-          "entradilla": "L’organe judiciaire de l’ONU a considéré que le pays a violé six fois la convention sur le génocide de 1948. C’est la première fois de l’histoire qu’un Etat est condamné pour le « crime des crimes ». Quelque 10 000 Rohingya, une minorité musulmane, ont été massacrés par l’armée birmane, et leurs vil",
-          "enlace": "https://www.lemonde.fr/international/article/2026/11/19/rohingya-un-arret-historique-de-la-cour-de-justice-internationale-reconnait-la-birmanie-coupable-de-genocide_6813377_3210.html"
+          "titulo": "La Birmanie rattrapée par sa longue persécution des Rohingya après sa condamnation pour génocide",
+          "entradilla": "Le régime du président Min Aung Hlaing, principal instigateur des massacres de 2017 en tant que chef de l’armée birmane, est cloué au pilori par la justice internationale pour « intention génocidaire » après des décennies d’exclusion et de violences contre les Rohingya.",
+          "enlace": "https://www.lemonde.fr/international/article/2026/11/20/la-birmanie-rattrapee-par-sa-longue-persecution-des-rohingya-apres-sa-condamnation-pour-genocide_6813628_3210.html"
         },
         {
-          "titulo": "« Il ne s’agit plus seulement d’exciser, certaines filles sont également cousues » : en Gambie, un puissant mouvement conservateur tente de réhabiliter l’excision",
-          "entradilla": "Dans un pays où près des trois quarts des femmes âgées de 15 à 49 ans sont des victimes de mutilations génitales, une coalition de figures religieuses, de chefs coutumiers et d’élus conservateurs tente d’abroger la loi de 2015 qui criminalise ces actes.",
-          "enlace": "https://www.lemonde.fr/afrique/article/2026/11/19/il-ne-s-agit-plus-seulement-d-exciser-certaines-filles-sont-egalement-cousues-en-gambie-un-puissant-mouvement-conservateur-tente-de-rehabiliter-l-excision_6813366_3212.html"
+          "titulo": "Au secours, maman fait une « tempête émotionnelle »",
+          "entradilla": "« Nos émotions : la colère ». D’habitude réservée à la famille, la colère parentale se déploie désormais aussi dans l’espace public. Des débordements liés à la frustration et à l’angoisse, explique la philosophe Nicole Prieur à Clara Georges, pour la newsletter « Darons daronnes ».",
+          "enlace": "https://www.lemonde.fr/intimites/article/2026/11/20/au-secours-maman-fait-une-tempete-emotionnelle_6813649_6190330.html"
         },
         {
-          "titulo": "Municipales 2026 : 105 maires de grandes villes se voient refuser le remboursement de leurs frais de campagne",
-          "entradilla": "Pour avoir déposé leur déclaration de situation patrimoniale hors délai, 105 maires élus en mars se voient refuser le remboursement de leurs dépenses de campagne. Selon les informations du « Monde », le tiers des maires des villes de plus de 100 000 habitants sont concernés. Pour pallier cette situa",
-          "enlace": "https://www.lemonde.fr/politique/article/2026/11/19/municipales-2026-105-maires-de-grandes-villes-se-voient-refuser-le-remboursement-de-leurs-frais-de-campagne_6813354_823448.html"
+          "titulo": "Concert interrompu de Barbara Butch à Grenoble : un élu local LFI, Allan Brunon, sera jugé en février",
+          "entradilla": "L’élu municipal d’opposition encourt jusqu’à trois ans de prison pour « complicité d’entrave concertée à la liberté artistique ». Le 18 juillet, à Grenoble, un concert de l’artiste Barbara Butch avait été interrompu au bout d’une vingtaine de minutes en raison d’une action de militants propalestinie",
+          "enlace": "https://www.lemonde.fr/politique/article/2026/11/20/concert-interrompu-de-barbara-butch-a-grenoble-un-elu-local-lfi-allan-brunon-sera-juge-en-fevrier_6813650_823448.html"
         },
         {
-          "titulo": "« GTA VI » : en vidéo, notre journaliste découvre le jeu",
-          "entradilla": "Pierre Trouvé, journaliste spécialiste des jeux vidéo au « Monde » a testé le nouveau « Grand Theft Auto » dès le lancement du jeu, et donne ses premières impressions en vidéo.",
-          "enlace": "https://www.lemonde.fr/videos/video/2026/11/19/gta-vi-en-video-notre-journaliste-decouvre-le-jeu_6813360_1669088.html"
+          "titulo": "Fuites en provenance du ministère de l’intérieur vers le RN : des faits « extrêmement graves » s’ils sont avérés, juge Laurent Nuñez",
+          "entradilla": "La justice soupçonne des fuites d’éléments liés à des enquêtes en cours concernant le Rassemblement national. Des perquisitions ont été menées au siège du parti et au ministère de l’intérieur. Le préfet Hugues Moutouh est suspecté.",
+          "enlace": "https://www.lemonde.fr/societe/article/2026/11/20/fuites-en-provenance-du-ministere-de-l-interieur-vers-le-rn-des-faits-extremement-graves-s-ils-sont-averes-juge-laurent-nunez_6813604_3224.html"
         },
         {
-          "titulo": "Entre le Royaume-Uni et l’UE, des retrouvailles complexes lors d’un sommet à Bruxelles",
-          "entradilla": "Malgré la volonté affichée du premier ministre britannique, Andy Burnham, de renforcer les relations économiques et politiques avec l’Union européenne, les deux parties sont encore loin d’un consensus sur les dossiers qui seront abordés.",
-          "enlace": "https://www.lemonde.fr/international/article/2026/11/19/entre-le-royaume-uni-et-l-union-europeenne-des-retrouvailles-complexes_6813267_3210.html"
+          "titulo": "A la COP31, une militante des droits humains exclue de la délégation française après avoir interpellé la ministre Monique Barbut",
+          "entradilla": "Mariam Touré a interrogé la ministre de l’environnement sur les financements en faveur de l’adaptation au réchauffement climatique dans un couloir du centre de conférences à Antalya, au cours d’un échange filmé. Le cabinet ministériel a jugé que la jeune activiste avait enfreint la charte de bonne c",
+          "enlace": "https://www.lemonde.fr/planete/article/2026/11/20/a-la-cop31-une-militante-des-droits-humains-exclue-de-la-delegation-francaise-apres-avoir-interpelle-la-ministre-monique-barbut_6813643_3244.html"
         },
         {
-          "titulo": "Anne Le Hénanff, ministre déléguée au numérique au « Monde » : en matière de cybersécurité, « il y a urgence pour la résilience de la Nation »",
-          "entradilla": "Après l’adoption à l’Assemblée d’une loi sur la cybersécurité très attendue, la ministre du numérique prévient que les 20 000 entreprises et entités publiques concernées par de nouvelles obligations en matière de sécurité auront deux ans pour les mettre en œuvre.",
-          "enlace": "https://www.lemonde.fr/pixels/article/2026/11/19/anne-le-henanff-en-matiere-de-cybersecurite-il-y-a-urgence-pour-la-resilience-de-la-nation_6813364_4408996.html"
+          "titulo": "En Haïti, l’offensive militaire du président salvadorien Nayib Bukele renforce la lutte contre les gangs",
+          "entradilla": "Depuis l’arrivée en octobre de 2 500 soldats salvadoriens à Port-au-Prince, les opérations des forces de sécurité contre les groupes criminels se multiplient. Les Haïtiens, terrorisés par des années de violence, veulent croire que « la peur commence à changer de camp ».",
+          "enlace": "https://www.lemonde.fr/international/article/2026/11/20/en-haiti-l-offensive-militaire-du-president-salvadorien-nayib-bukele-renforce-la-lutte-contre-les-gangs_6813647_3210.html"
         },
         {
-          "titulo": "David Habib, figure de l’Assemblée nationale et de la social-démocratie, meurt brutalement",
-          "entradilla": "Longtemps, le député des Pyrénées-Atlantiques avait siégé au sein du groupe socialiste avant de devenir vice-président de l’Assemblée nationale en 2019 puis de rejoindre le groupe Libertés, indépendants, Outre-mer et territoires.",
-          "enlace": "https://www.lemonde.fr/politique/article/2026/11/19/david-habib-figure-de-l-assemblee-nationale-et-de-la-social-democratie-meurt-brutalement_6813379_823448.html"
+          "titulo": "Pluie-inondation : dans le Pas-de-Calais, toujours placé en vigilance orange, des routes et des maisons inondées",
+          "entradilla": "Il est tombé jusqu’à plus de 100 millimètres dans le sud-ouest du Pas-de-Calais en soixante-douze heures, selon Météo-France, qui prévoit la fin des pluies significatives en début d’après-midi, vendredi.",
+          "enlace": "https://www.lemonde.fr/planete/article/2026/11/20/pluie-inondation-dans-le-pas-de-calais-toujours-place-en-vigilance-orange-des-routes-et-maisons-sous-les-eaux_6813624_3244.html"
         },
         {
-          "titulo": "Présidentielle 2027 : le président du Sénat, Gérard Larcher, a demandé à Sébastien Lecornu d’avancer la date de l’élection",
-          "entradilla": "Les dates entérinées le 1ᵉʳ juillet par l’exécutif prévoient un premier tour le 18 avril et un second tour le 2 mai, au lendemain des défilés du 1ᵉʳ-Mai. Cela fait craindre à M. Larcher, comme à plusieurs candidats, un non-respect de la pause de campagne à partir du 30 avril.",
-          "enlace": "https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-le-president-du-senat-gerard-larcher-a-demande-a-sebastien-lecornu-d-avancer-la-date-de-l-election_6813382_823448.html"
+          "titulo": "Un accord conclu entre le Royaume-Uni et l’Union européenne, cinq ans après la mise en œuvre du Brexit",
+          "entradilla": "Au sortir d’un sommet, vendredi, le premier ministre britannique a salué un « accord historique », et la présidente de la Commission européenne a évoqué « un tournant » dans les relations avec Londres.",
+          "enlace": "https://www.lemonde.fr/international/article/2026/11/20/un-accord-conclu-entre-le-royaume-uni-et-l-union-europeenne-cinq-ans-apres-la-mise-en-uvre-du-brexit_6813648_3210.html"
         }
       ],
       "analisis": {
-        "resumen": "- Xi Jinping, Vladímir Putin y Donald Trump exhiben cercanía en China pese a sus desacuerdos; Europa reafirma su apoyo a Ucrania.\n- La justicia investiga presuntas filtraciones hacia el RN; la Asamblea aprueba prolongar el control de alquileres pese a su oposición.\n- La Corte Internacional de Justicia declara a Birmania culpable de genocidio contra los rohinyás; en Gambia, conservadores buscan despenalizar la mutilación genital femenina.\n- A 105 alcaldes franceses se les deniega el reembolso de gastos electorales; Gérard Larcher pide adelantar la presidencial de 2027.\n- También destacan las relaciones entre el Reino Unido y la UE, la ciberseguridad, la muerte del diputado David Habib y el lanzamiento de «GTA VI».",
+        "resumen": "- El debate sobre la oligarquía y el fracaso en frenar la desindustrialización centran la atención en Francia.\n- El Elíseo defiende la adhesión de Ucrania a la OTAN y una participación europea plena en las negociaciones.\n- La primaria de la derecha francesa afronta tensiones y la justicia investiga posibles filtraciones al RN.\n- Birmania es condenada por genocidio contra los rohinyás; en Haití se intensifican las operaciones contra las bandas.\n- La portada también aborda la COP31, las inundaciones en Pas-de-Calais y un acuerdo entre el Reino Unido y la UE.",
         "populismo": 20,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «adormecieron» a Trump y «obstrucción sistemática» aportan una carga valorativa, sin una apelación clara al pueblo contra las élites.",
-        "sesgo": "La portada presta especial atención a asuntos internacionales e institucionales y presenta una mirada crítica hacia el RN, al destacar una investigación por presuntas filtraciones y atribuirle una obstrucción sistemática en la Asamblea."
+        "motivo_populismo": "Predomina un lenguaje informativo, aunque expresiones como «problema oligárquico», «torpilleur» y «cloué au pilori» aportan dramatización y confrontación.",
+        "sesgo": "La selección prioriza asuntos políticos e institucionales, con atención a las desigualdades de poder, las consecuencias sociales de la desindustrialización y los derechos humanos. Algunos titulares adoptan un enfoque crítico hacia actores políticos y gobiernos."
       }
     },
     {
@@ -114,71 +114,71 @@
       "web": "https://www.lefigaro.fr",
       "noticias": [
         {
-          "titulo": "Le sommet de Shenzhen, symbole du grand recul américain sous Donald Trump",
-          "entradilla": "ANALYSE - La rencontre entre Xi Jinping, Donald Trump et Vladimir Poutine illustre les limites de la diplomatie personnelle du président des États-Unis.",
-          "enlace": "https://www.lefigaro.fr/international/le-sommet-de-shenzhen-symbole-du-grand-recul-americain-sous-donald-trump-20261119"
+          "titulo": "EN DIRECT - Présidentielle 2027 : le candidat Dominique de Villepin attaque le RN, LFI et les macronistes, «responsables d’un pourrissement» du pays",
+          "entradilla": "Il aime le risque et la lumière. L’ancien premier ministre Dominique de Villepin, dont les paris n’ont pas toujours été gagnants, s’est fixé un défi particulièrement audacieux en se lançant pour la deuxième fois dans la course à l’Élysée.",
+          "enlace": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-tensions-chez-les-ecologistes-villepin-se-prepare-a-entrer-en-scene-20261120"
         },
         {
-          "titulo": "Sommet de Shenzhen : la déclaration Trump-Xi-Poutine «ne conduit pas à une réorganisation du monde», dit Macron",
-          "entradilla": "Donald Trump a annoncé jeudi qu’il donnerait vendredi à la Maison-Blanche une conférence de presse après sa rencontre avec Vladimir Poutine et Xi Jinping en Chine.",
-          "enlace": "https://www.lefigaro.fr/international/en-direct-a-shenzhen-donald-trump-xi-jinping-et-vladimir-poutine-se-retrouvent-pour-un-face-a-face-inedit-20261119"
+          "titulo": "Présidentielle 2027 : Édouard Philippe devance Jean-Luc Mélenchon, s'il devient candidat unique du centre et de la droite, selon un sondage",
+          "entradilla": "Édouard Philippe, qui refuse toujours l’idée d’une primaire, s’est dit prêt dimanche à participer à une réunion permettant aux quatre candidats déclarés de trouver une «méthode de départage».",
+          "enlace": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-edouard-philippe-devance-jean-luc-melenchon-s-il-devient-candidat-unique-du-centre-et-de-la-droite-selon-un-sondage-20261120"
         },
         {
-          "titulo": "À Shenzhen, Xi Jinping s’affiche en pilier d’un nouvel ordre mondial",
-          "entradilla": "RÉCIT - À l’issue d’une rencontre ce jeudi, les présidents chinois, américain et russe ont assuré s’engager en faveur de la « paix », avec le maintien de la « stabilité stratégique », et contre la « guerre nucléaire », sans accord contraignant.",
-          "enlace": "https://www.lefigaro.fr/international/a-shenzhen-xi-jinping-s-affiche-en-pilier-d-un-nouvel-ordre-mondial-en-tutoyant-trump-et-en-menageant-poutine-20261119"
-        },
-        {
-          "titulo": "Jean-François Colosimo : « Lire Carl Schmitt pour comprendre le sommet Xi-Trump-Poutine »",
-          "entradilla": "TRIBUNE - Le sommet de Shenzhen doit se décrypter à l’aune des écrits du juriste allemand que lisent assidûment les conseillers de Xi Jinping, Donald Trump et Vladimir Poutine. Ces derniers prônent la fin de l’universalisme au profit d’une planète partagée entre quelques « grands espaces », analyse ",
-          "enlace": "https://www.lefigaro.fr/vox/monde/jean-francois-colosimo-lire-carl-schmitt-pour-comprendre-le-sommet-xi-trump-poutine-20261119"
-        },
-        {
-          "titulo": "L’éditorial de Philippe Gélie : « À Shenzhen, le sommet du nouveau monde »",
-          "entradilla": "Si de multiples différends - commerciaux, technologiques, stratégiques - compliquent leur relation trilatérale, on voit bien ce qui réunit Xi Jinping, Donald Trump et Vladimir Poutine.",
-          "enlace": "https://www.lefigaro.fr/vox/monde/l-editorial-de-philippe-gelie-a-shenzhen-le-sommet-du-nouveau-monde-20261119"
-        },
-        {
-          "titulo": "Pensez-vous que le sommet de Shenzhen, Xi Jinping, Donald Trump et Vladimir Poutine, est une bonne chose pour la stabilité du monde ?",
+          "titulo": "Pensez-vous que Dominique de Villepin peut être élu président de la République ?",
           "entradilla": "",
-          "enlace": "https://www.lefigaro.fr/international/pensez-vous-que-le-sommet-de-shenzhen-xi-jinping-donald-trump-et-vladimir-poutine-est-une-bonne-chose-pour-la-stabilite-du-monde-20261119"
+          "enlace": "https://www.lefigaro.fr/politique/pensez-vous-que-dominique-de-villepin-peut-etre-elu-president-de-la-republique-20261120"
         },
         {
-          "titulo": "EN DIRECT - Présidentielle 2027 : «Je n’ai pas convaincu les Français que j’étais en capacité d’apporter un réel changement», reconnaît Attal",
-          "entradilla": "L’ancien premier ministre est en chute dans les sondages, alors qu’une primaire de la droite et du centre est en discussion entre ses équipes, celles de David Lisnard et de Bruno Retailleau.",
-          "enlace": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-c-est-une-bonne-nouvelle-faisons-le-repond-lfi-a-marine-tondelier-prete-a-une-coalition-autour-de-melenchon-20261119"
+          "titulo": "L’encadrement des loyers, cette «fausse bonne idée» qui plombe le moral des propriétaires",
+          "entradilla": "DÉCRYPTAGE - Dans la même semaine, les propriétaires ont appris une bonne nouvelle, la possible fin de l’interdiction de louer des passoires thermiques, rapidement effacée par une autre, plus mauvaise, qui menace l’investissement locatif.",
+          "enlace": "https://immobilier.lefigaro.fr/article/un-loyer-plafonne-sur-un-logement-qui-n-existe-plus-ne-protege-personne-cette-fausse-bonne-idee-plombe-le-moral-des-proprietaires-20261120"
         },
         {
-          "titulo": "«Quand vous avez autant de concitoyens hostiles…» : pour Hollande, Mélenchon ne peut pas être président, tout au plus espérer le second tour",
-          "entradilla": "Sur LCI, l’ancien président juge «impossible» qu’une personnalité comme le leader LFI soit envoyée à l’Élysée lorsque tant de Français rejettent ses «propositions», ses «idées» et sa «façon de brutaliser la vie politique».",
-          "enlace": "https://www.lefigaro.fr/elections/presidentielles/quand-vous-avez-autant-de-concitoyens-hostiles-pour-hollande-melenchon-ne-peut-pas-etre-president-tout-au-plus-esperer-le-second-tour-20261119"
+          "titulo": "Messages de soulèvements, « Black Friday » du pillage : les « gilets jaunes » et l’ultragauche veulent relancer le mouvement de colère sociale",
+          "entradilla": "Alors que les pilleurs pourraient s’en prendre aux boutiques et aux marchés de Noël, 70.000 policiers et gendarmes seront déployés ce samedi. Pour cet «Acte VI», les émeutiers veulent faire renaître la flamme des «gilets», huit ans après.",
+          "enlace": "https://www.lefigaro.fr/actualite-france/messages-de-soulevements-black-friday-du-pillage-les-gilets-jaunes-et-l-ultragauche-veulent-relancer-le-mouvement-de-colere-sociale-20261120"
         },
         {
-          "titulo": "«J’ai demandé qu’elle soit avancée» : Larcher plaide lui aussi pour changer la date du second tour de la présidentielle, prévu au lendemain du 1er mai",
-          "entradilla": "Invité jeudi soir sur BFMTV, le président du Sénat a dit avoir officiellement réclamé au premier ministre d’avancer le scrutin prévu les 18 avril et 2 mai 2027, précisant ne pas être «le seul à l’avoir demandé».",
-          "enlace": "https://www.lefigaro.fr/elections/presidentielles/j-ai-demande-qu-elle-soit-avancee-larcher-plaide-lui-aussi-pour-changer-la-date-du-second-tour-de-la-presidentielle-prevu-au-lendemain-du-1er-mai-20261119"
+          "titulo": "Salaires : la fonction publique et le secteur privé appelés à une journée de grève par les syndicats le 1er décembre",
+          "entradilla": "Dans un communiqué commun publié vendredi, les organisations syndicales du public dénoncent la dégradation de la situation salariale des agents et les invitent à se mobiliser partout en France.",
+          "enlace": "https://www.lefigaro.fr/social/salaires-huit-syndicats-de-la-fonction-publique-appellent-a-une-journee-de-greve-le-1er-decembre-20261120"
         },
         {
-          "titulo": "«Je vote pour lui» : Fabrice Luchini et Carole Bouquet convaincus par la candidature de Teddy Riner",
-          "entradilla": "Les deux comédiens étaient les invités d’Anne-Élisabeth Lemoine dans «C à vous» sur France 5 ce jeudi 19 novembre. L’occasion de revenir sur les ambitions politiques du judoka lors de l’élection présidentielle de 2027.",
-          "enlace": "https://tvmag.lefigaro.fr/programme-tv/actu-tele/je-vote-pour-lui-fabrice-luchini-et-carole-bouquet-convaincus-par-la-candidature-de-teddy-riner-20261119"
+          "titulo": "Guerre en Ukraine : les Européens iront à Moscou s’ils ont «bien désormais» toute leur place dans les négociations, indique l’Élysée",
+          "entradilla": "Fournir à l’Ukraine une protection «de type article 5» du traité de l’Alliance atlantique, comme l’ont envisagé les États-Unis, équivaut à faire entrer Kiev dans l’Otan, comme le plaide la France, a estimé vendredi la présidence française.",
+          "enlace": "https://www.lefigaro.fr/international/guerre-en-ukraine-les-europeens-iront-a-moscou-s-ils-ont-bien-desormais-toute-leur-place-dans-les-negociations-indique-l-elysee-20261120"
         },
         {
-          "titulo": "Présidentielle 2027 : Yannick Jadot annonce quitter Les Écologistes après la main tendue de Tondelier à Mélenchon",
-          "entradilla": "Pour l’ancien candidat à la présidentielle, Marine Tondelier «tourne le dos à toute» l’histoire de la «famille» de «l’écologie politique».",
-          "enlace": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-yannick-jadot-annonce-quitter-les-ecologistes-apres-la-main-tendue-de-tondelier-a-melenchon-20261119"
+          "titulo": "«La Russie devra rendre des comptes» : Paris demande une réunion du Conseil de sécurité de l'ONU après les frappes de Moscou en Ukraine",
+          "entradilla": "«Le Kremlin a encore frappé Kiev. Des civils tués. Les ambassades d’Autriche et des Pays-Bas touchées. Ce sont des crimes», a écrit le chef de la diplomatie française Jean-Noël Barrot.",
+          "enlace": "https://www.lefigaro.fr/international/la-russie-devra-rendre-des-comptes-paris-demande-une-reunion-du-conseil-de-securite-de-l-onu-apres-les-frappes-de-moscou-en-ukraine-20261120"
         },
         {
-          "titulo": "« C’est la fin des Écologistes » : la drôle de main tendue de Marine Tondelier à Jean-Luc Mélenchon",
-          "entradilla": "DÉCRYPTAGE - La patronne des Verts s’est dite prête mercredi soir à bâtir une « coalition » autour de l’Insoumis en chef, provoquant l’indignation de Raphaël Glucksmann.",
-          "enlace": "https://www.lefigaro.fr/politique/c-est-la-fin-des-ecologistes-marine-tondelier-tend-la-main-a-jean-luc-melenchon-20261119"
+          "titulo": "Guerre en Ukraine : «Refuser enverrait un signal inapproprié», Boris Pistorius estime que l’invitation de Vladimir Poutine aux Européens est acceptable",
+          "entradilla": "Le Kremlin veut lier la fin de la guerre à la refonte de l’architecture sécuritaire européenne, jugée hostile par la Russie car largement fondée sur l’Otan.",
+          "enlace": "https://www.lefigaro.fr/international/guerre-en-ukraine-refuser-enverrait-un-signal-inapproprie-boris-pistorius-estime-que-l-invitation-de-vladimir-poutine-aux-europeens-est-acceptable-20261120"
+        },
+        {
+          "titulo": "Guerre en Ukraine : Jared Kushner affirme que Donald Trump serait «disposé» à envisager la protection de l’Otan pour Kiev",
+          "entradilla": "«Je pense que le président Trump est ouvert à cette idée, mais il va de soi que cela doit servir les intérêts des États-Unis», a ajouté l’émissaire américain.",
+          "enlace": "https://www.lefigaro.fr/international/guerre-en-ukraine-jared-kushner-affirme-que-donald-trump-serait-dispose-a-envisager-la-protection-de-l-otan-pour-kiev-20261119"
+        },
+        {
+          "titulo": "Guerre en Ukraine : face à Marine Le Pen ou Jean-Luc Mélenchon, les inquiétudes de Kiev, contrainte de préparer l’après-Macron",
+          "entradilla": "DÉCRYPTAGE - Les programmes du RN et de LFI font planer la menace d’un recul du soutien français à Kiev. Volodymyr Zelensky, pragmatique, se dit ouvert au dialogue et invite Marine Le Pen à faire le déplacement.",
+          "enlace": "https://www.lefigaro.fr/international/guerre-en-ukraine-face-a-marine-le-pen-ou-jean-luc-melenchon-les-inquietudes-de-kiev-contrainte-de-preparer-l-apres-macron-20261119"
+        },
+        {
+          "titulo": "Le géant de l’IA Anthropic chute de 9 % pour sa deuxième séance à Wall Street",
+          "entradilla": "Après avoir brièvement dépassé les 2000 milliards de dollars de valorisation jeudi, le créateur de l’IA Claude recule nettement lors de sa deuxième séance, dans un environnement boursier difficile pour les valeurs associées à l’IA.",
+          "enlace": "https://www.lefigaro.fr/secteur/high-tech/le-geant-de-l-ia-anthropic-chute-de-9-pour-sa-deuxieme-seance-a-wall-street-20261120"
         }
       ],
       "analisis": {
-        "resumen": "- La cumbre de Shenzhen concentra la atención: se analiza el papel de Xi, Trump y Putin y sus efectos sobre el orden mundial.\n- Macron afirma que la declaración conjunta no reorganiza el mundo; los tres dirigentes expresan compromisos sin acuerdo vinculante.\n- La presidencial francesa de 2027 ocupa buena parte de la portada, con la caída de Attal en los sondeos y el debate sobre la fecha de la segunda vuelta.\n- Hollande cuestiona las posibilidades de Mélenchon, mientras la propuesta de Tondelier de una coalición con él provoca críticas y la salida de Jadot de Los Ecologistas.\n- Dos actores expresan su apoyo a la candidatura presidencial del judoca Teddy Riner.",
-        "populismo": 25,
-        "motivo_populismo": "Expresiones como «gran retroceso» o «es el fin de Los Ecologistas» aportan dramatismo, aunque predominan el análisis, la información y las citas atribuidas, sin una apelación clara del pueblo contra las élites.",
-        "sesgo": "La portada da especial peso a la idea de un cambio en el orden mundial y a una valoración crítica de la diplomacia de Trump. En la política francesa destaca los conflictos, las rivalidades y las reacciones negativas, especialmente en torno a Mélenchon y Los Ecologistas."
+        "resumen": "- La presidencial de 2027 ocupa un lugar destacado: Villepin critica a varios bloques políticos y un sondeo sitúa a Philippe por delante de Mélenchon en un supuesto de candidatura única.\n- El control de alquileres se presenta como una amenaza para los propietarios y la inversión; los sindicatos convocan una huelga por los salarios.\n- La portada advierte de posibles disturbios y saqueos en una movilización vinculada a los chalecos amarillos y la ultraizquierda.\n- Sobre Ucrania, recoge las posiciones de Francia, Alemania y Estados Unidos ante las negociaciones, así como la preocupación de Kiev por el futuro apoyo francés.\n- Anthropic cae un 9 % en su segunda sesión en Wall Street, según la portada.",
+        "populismo": 40,
+        "motivo_populismo": "Predominan titulares informativos, pero expresiones como «Black Friday del saqueo», «falsa buena idea» y «amenaza» aportan dramatización; también se cita la acusación de Villepin sobre la «degradación» del país.",
+        "sesgo": "La cobertura del alquiler adopta la perspectiva de los propietarios, mientras que la de las protestas enfatiza el riesgo de violencia y saqueos. En la guerra de Ucrania, destaca la preocupación por una posible reducción del apoyo francés bajo RN o LFI."
       }
     },
     {
@@ -186,71 +186,71 @@
       "web": "https://www.liberation.fr",
       "noticias": [
         {
-          "titulo": "Présidentielle 2027 : la centrifugeuse est en marche",
-          "entradilla": "Une élection ne semble plus se gagner au centre mais sur les extrémités du champ politique. En témoignent l’alliance des ciottistes avec le RN en 2022 et le potentiel ralliement des écologistes à la candidature de Jean-Luc Mélenchon.",
-          "enlace": "https://www.liberation.fr/politique/presidentielle-2027-la-centrifugeuse-est-en-marche-20261119_XNI2TB7S7ZFWXD6QXA6MZR2ESA/"
+          "titulo": "Affaire des fuites d’infos du ministère de l’Intérieur vers le RN : tout comprendre à cette enquête à tiroirs",
+          "entradilla": "La justice enquête depuis juillet sur des dossiers judiciaires confidentiels qui auraient transité de Beauvau vers le parti de Marine Le Pen. Mais ces investigations ont de multiples ramifications.",
+          "enlace": "https://www.liberation.fr/societe/police-justice/affaire-des-fuites-dinfos-du-ministere-de-linterieur-vers-le-rn-tout-comprendre-a-cette-enquete-a-tiroirs-20261120_XRT3JQFE2BDDDOKY6IAISBFNYU/"
         },
         {
-          "titulo": "Présidentielle 2027 : Tondelier penche vers Mélenchon, mais pour quelle union ?",
-          "entradilla": "La candidate des verts a annoncé mercredi 18 novembre vouloir «travailler à une coalition» avec les insoumis, dont le leader s’est dit ouvert à cette proposition jeudi. L’option Glucksmann et celle d’une candidature autonome restent toutefois sur la table, avant le vote des militants écologistes à l",
-          "enlace": "https://www.liberation.fr/politique/elections/presidentielle-2027-tondelier-penche-vers-melenchon-mais-pour-quelle-union-20261119_XUODGNQFVZHENBNUDVGXNICMIM/"
+          "titulo": "EN DIRECT – Affaire des fuites d’infos de l’Intérieur vers le RN : le préfet mis en cause convoqué à Beauvau par Laurent Nuñez",
+          "entradilla": "Des perquisitions ont eu lieu ces dernières semaines au siège du parti de Marine Le Pen et à Beauvau, dans le cadre d’une enquête judiciaire pour des soupçons de transmissions d’informations confidentielles au profit du parti d’extrême droite.",
+          "enlace": "https://www.liberation.fr/societe/police-justice/en-diret-affaire-des-fuites-dinfos-de-linterieur-vers-le-rn-le-prefet-suspecte-convoque-en-fin-de-matinee-par-laurent-nunez-20261120_WG2TEKBGI5E4HOV6APKLT4AM6I/"
         },
         {
-          "titulo": "Génocide des Rohingyas en Birmanie : une reconnaissance historique aux résonances internationales",
-          "entradilla": "Dans un arrêt inédit, les juges de la Cour internationale de justice de La Haye ont établi ce jeudi 19 novembre que les autorités birmanes avaient commis un génocide à l’encontre de cette communauté musulmane. Un arrêt qui pourrait avoir une résonance à Gaza ou en Ukraine.",
-          "enlace": "https://www.liberation.fr/international/asie-pacifique/genocide-des-rohingyas-en-birmanie-une-reconnaissance-historique-aux-resonances-internationales-20261119_SMD5LGHKP5FNFLOWYVCVUQWBPU/"
+          "titulo": "«Je n’ai pas amassé énormément d’argent» : à Paris, ce mac qui récidive depuis sa cellule",
+          "entradilla": "«Libération» a suivi cinq procès pour proxénétisme aggravé, impliquant des mineures parfois très jeunes, afin d’entendre les victimes, leurs parents, les proxénètes, les magistrats… Cinquième épisode : le témoignage d’Adam, condamné pour des faits survenus six mois seulement après son incarcération.",
+          "enlace": "https://www.liberation.fr/societe/je-nai-pas-amasse-enormement-dargent-a-paris-ce-mac-qui-recidive-depuis-sa-cellule-20261120_IFM43HFJ5RE3DGH3IES2YTFDHA/"
         },
         {
-          "titulo": "Au procès de membres d’un groupe masculiniste sur Telegram, l’impossible prise de conscience de prévenus enfermés dans leur «radicalisation»",
-          "entradilla": "Sept participants au canal «Femmeblancherie» étaient jugés à Paris cette semaine. Ils ont pour la plupart plaidé l’humour et le droit à la «vulgarité» pour défendre leurs propos racistes, antisémites et misogynes tenus en ligne, fermement ancrés dans une réalité alternative.",
-          "enlace": "https://www.liberation.fr/societe/droits-des-femmes/au-proces-de-membres-dun-groupe-masculiniste-sur-telegram-limpossible-prise-de-conscience-de-prevenus-enfermes-dans-leur-radicalisation-20261119_5VR65MXKS5E6PI7YYOHAZNESFY/"
+          "titulo": "Non, madame Le Pen, les associations ne sont pas «un ramassis de gauchistes» : elles sont des piliers de la démocratie",
+          "entradilla": "Après la mise en cause de la Ligue des droits de l’homme par la candidate d’extrême droite, Ismaël Le Mouël, le président de HelloAsso, rappelle que le monde associatif, le cinquième pouvoir exercé par les citoyens, fait vivre la démocratie au quotidien.",
+          "enlace": "https://www.liberation.fr/idees-et-debats/tribunes/non-madame-le-pen-les-associations-ne-sont-pas-un-ramassis-de-gauchistes-elles-sont-des-piliers-de-la-democratie-20261120_VJCVAPOO2RDGNKVWS5J6OPBZI4/"
         },
         {
-          "titulo": "La douleur des femmes toujours en proie au mépris du monde médical",
-          "entradilla": "Pour «Libé» la journaliste Salomé Saqué et la médecin spécialiste de la douleur, Delphine Lhuillery, ont échangé sur les raisons qui font que les médecins ignorent trop souvent la parole des femmes qui souffrent. Une rencontre passionnante… et accablante.",
-          "enlace": "https://www.liberation.fr/idees-et-debats/la-douleur-des-femmes-toujours-en-proie-au-mepris-du-monde-medical-20261119_56PKTXUH7JAMZDXNL7FZ2PH2J4/"
+          "titulo": "10 expositions à voir en ce moment, à Paris et ailleurs en France : Kurt Schwitters, Louise Bourgeois, Nathalie Magnan…",
+          "entradilla": "Peinture, hacktivisme et mignonitude : «Libé» vous guide dans les expositions à arpenter, à Paris ou en régions. A voir aussi : la nouvelle fondation Large de l’île Seguin, le musée Unterlinden de Colmar ou Kerry James Marshall au musée d’art moderne.",
+          "enlace": "https://www.liberation.fr/culture/arts/dix-expositions-a-voir-en-ce-moment-a-paris-et-ailleurs-en-france-kurt-schwitters-louise-bourgeois-nathalie-magnan-20261120_WFWS3X3ZQVBQLHXQ74JD6GI6T4/"
         },
         {
-          "titulo": "Pomme à propos de «la Forteresse», son nouvel album : «Je suis hyper politisée et la musique est le seul endroit de ma vie qui ne l’est pas»",
-          "entradilla": "Dans un nouvel album plus rugueux, qu’elle a façonné de bout en bout, la chanteuse s’éloigne des sonorités acoustiques et s’autorise diverses explorations. Un projet synonyme d’émancipation pour l’artiste engagée.",
-          "enlace": "https://www.liberation.fr/culture/musique/pomme-a-propos-de-la-forteresse-son-nouvel-album-je-suis-hyper-politisee-et-la-musique-est-le-seul-endroit-de-ma-vie-qui-ne-lest-pas-20261119_NLIWQOGZY5EDZCYLBDCWV5E2PM/"
+          "titulo": "«Je suis candidat à l’élection présidentielle de 2027», annonce Dominique de Villepin",
+          "entradilla": "L’ex-Premier ministre de Jacques Chirac, promoteur d’un rassemblement dépassant le clivage droite-gauche, a tenu une conférence de presse ce vendredi 20 novembre à la Maison de l’Amérique latine à Paris pour officialiser sa candidature.",
+          "enlace": "https://www.liberation.fr/politique/elections/je-suis-candidat-a-lelection-presidentielle-de-2027-annonce-dominique-de-villepin-20261120_SF2ZFQEWNJEXNAR3E2QCZPRSFI/"
         },
         {
-          "titulo": "Rencontre Trump-Xi-Poutine : à Shenzhen, une photo pour «l’histoire» sur laquelle personne ne se mouille",
-          "entradilla": "La discussion entre les trois dirigeants, jeudi 19 novembre en Chine, a été brève et sans grandes conclusions. Le dirigeant chinois en ressort auréolé d’un certain prestige, et son homologue russe peut se réjouir de s’être affiché aux côtés des deux superpuissances.",
-          "enlace": "https://www.liberation.fr/international/asie-pacifique/rencontre-trump-xi-poutine-a-shenzhen-une-photo-pour-lhistoire-sur-laquelle-personne-ne-se-mouille-20261119_MXOZJVJCVZDXBFM22RHDV2PKGY/"
+          "titulo": "Génocide en Birmanie : malgré l’horreur, un arrêt qui apporte satisfaction et délivrance",
+          "entradilla": "Il peut sembler incongru et morbide de saluer la décision établissant la commission d’un génocide à l’encontre des Rohingyas. Mais le message envoyé par la Cour internationale de justice a malgré tout des vertus.",
+          "enlace": "https://www.liberation.fr/international/asie-pacifique/reconnaissance-du-genocide-en-birmanie-par-la-cij-malgre-lhorreur-un-arret-qui-apporte-satisfaction-et-delivrance-20261120_IQYFVVD7GZB7VLUP43TBIAUPZM/"
         },
         {
-          "titulo": "David Habib, député des Pyrénées-Atlantiques, meurt subitement à 65 ans",
-          "entradilla": "La présidente de l’Assemblée nationale a annoncé ce jeudi la mort dans la nuit de l’ancien socialiste qui siégeait au sein du groupe indépendant Liot. Dans l’hémicycle, les élus ont observé une minute de silence.",
-          "enlace": "https://www.liberation.fr/politique/david-habib-depute-des-pyrenees-atlantiques-meurt-a-65-ans-20261119_MNFSZ5HHXJBV5FI6XT6RB5EQYM/"
+          "titulo": "Comment David Lisnard, le patron des maires de France, mène une double campagne, présidentielle et pour l’AMF",
+          "entradilla": "Le maire de Cannes compte être reconduit pour un nouveau mandat, en début de semaine prochaine, à l’occasion du Congrès des maires de France. Mais ses déclarations clivantes et sa proximité avec l’extrême droite déroutent plusieurs édiles qui dénoncent un mélange des genres.",
+          "enlace": "https://www.liberation.fr/politique/comment-david-lisnard-le-patron-des-maires-de-france-mene-une-double-campagne-presidentielle-et-pour-lamf-20261120_2ZVVCQSKEFGJZKOEMDV6QIQSCE/"
         },
         {
-          "titulo": "Des perquisitions au RN et au ministère de l’Intérieur après des fuites de documents sensibles vers des proches de Marine Le Pen",
-          "entradilla": "Selon les informations de «Libération», les perquisitions menées au siège du Rassemblement national et à Beauvau découleraient d’éléments judiciaires confidentiels découverts dans un bureau de Frédéric Chatillon, ancien chef du GUD et ami de la patronne de l’extrême droite.",
-          "enlace": "https://www.liberation.fr/societe/police-justice/des-perquisitions-au-siege-du-rn-et-au-ministere-de-linterieur-pour-des-soupcons-de-violation-du-secret-de-linstruction-20261119_6GA46AAFMNBSTNRTK2JUTI7BKQ/"
+          "titulo": "17 octobre : comment Youcef A. a passé trois semaines en prison pour des ballons d’eau lancés sur la police",
+          "entradilla": "A l’issue de vingt-cinq jours de détention préventive, ce jeune étudiant tunisien a été condamné par le tribunal correctionnel de Paris à huit mois de prison avec sursis, dans la nuit de jeudi 19 à vendredi 20 novembre.",
+          "enlace": "https://www.liberation.fr/societe/police-justice/17-octobre-comment-youcef-a-a-passe-trois-semaines-en-prison-pour-des-ballons-deau-lances-sur-la-police-20261120_N5JJ2QMU7NHPTPDJLYUDYWJSZY/"
         },
         {
-          "titulo": "Pistes cyclables glissantes et risques de chute sur les trottoirs : à Paris, l’épineux ramassage des feuilles mortes",
-          "entradilla": "Après plusieurs jours marqués par des vents violents et de fortes précipitations, des riverains alertent sur les amas de feuillages qui encombrent les chaussées de la capitale. La mairie assure être «mobilisée» mais sollicite l’aide des Parisiens.",
-          "enlace": "https://www.liberation.fr/societe/ville/pistes-cyclables-glissantes-et-risques-de-chute-sur-les-trottoirs-a-paris-lepineux-ramassage-des-feuilles-mortes-20261119_2UZ2OATKCRC55OFAX4T66UZHSA/"
+          "titulo": "Pour les «enfants de la Creuse», une Réunion tant attendue : «On veut rattraper le temps perdu»",
+          "entradilla": "Exilés de force en métropole par l’aide à l’enfance entre 1962 et 1984, ces personnes originaires de l’île sont revenus, dimanche 15 novembre, sur les lieux de leur enfance, pour tenter de renouer avec leur famille et leur jeunesse volée.",
+          "enlace": "https://www.liberation.fr/societe/on-veut-rattraper-le-temps-perdu-pour-les-enfants-de-la-creuse-une-reunion-tant-attendue-20261120_U2HLDQHUYVGM5GD5F62XBD6Y74/"
         },
         {
-          "titulo": "Les principaux créateurs de contenus devront pour la première fois respecter les règles de l’Arcom pendant la campagne présidentielle",
-          "entradilla": "Le régulateur de l’audiovisuel et du numérique a présenté ce jeudi, dans un flou relatif, les nouvelles modalités concernant l’élection en 2027. Les influenceurs, tels HugoDécrypte ou Guillaume Pley, pourraient être soumis aux mêmes contraintes que les radios et les télés.",
-          "enlace": "https://www.liberation.fr/politique/presidentielle-2027-les-createurs-de-contenus-devront-pour-la-premiere-fois-respecter-le-pluralisme-annonce-larcom-20261119_DNP6YZIHU5AWDK4OWE4OMSCQSE/"
+          "titulo": "Mouvement social : quelles sont les manifestations prévues ce samedi 21 novembre ?",
+          "entradilla": "De nouveaux rassemblements sont annoncés ce samedi dans toute la France pour l’acte VI de la mobilisation contre la vie chère. En Espagne, en Italie, en Allemagne ou en Belgique, syndicats et organisations de jeunesse appellent aussi à la manifestation.",
+          "enlace": "https://www.liberation.fr/economie/social/mouvement-social-quelles-sont-les-manifestations-prevues-ce-samedi-21-novembre-20261120_XZ5KDQQYXJG3HEERFX5OP6WSHI/"
         },
         {
-          "titulo": "Programme LFI pour la présidentielle : «Nous proposons un nouveau congé d’accueil obligatoire de l’enfant de vingt semaines par parent après l’accouchement»",
-          "entradilla": "Jean-Luc Mélenchon doit rendre public ce jeudi 19 novembre au soir son plan pour l’enfance lors d’une soirée-débat à Paris. La députée insoumise Marianne Maximi présente en amont à «Libération» les nouvelles mesures du candidat.",
-          "enlace": "https://www.liberation.fr/politique/elections/programme-lfi-pour-la-presidentielle-nous-proposons-un-nouveau-conge-daccueil-de-lenfant-de-vingt-semaines-par-parent-apres-laccouchement-20261119_RP5VUJVV35AG7M3YG3QRPCMBIY/"
+          "titulo": "Le statut de favori du RN à l’épreuve de l’avalanche des affaires",
+          "entradilla": "Soupçonné d’avoir bénéficié de fuites illégales du ministère de l’Intérieur via le préfet Hugues Moutouh, le parti fait le dos rond. L’accumulation des controverses n’a pour l’instant pas nui à son potentiel électoral.",
+          "enlace": "https://www.liberation.fr/politique/le-statut-de-favori-du-rn-a-lepreuve-de-lavalanche-des-affaires-20261120_4QE66TMBRNCKFPSTKZ7QH3F34M/"
         }
       ],
       "analisis": {
-        "resumen": "- La presidencial de 2027 centra la portada: se analizan la polarización, las posibles alianzas de los ecologistas y las propuestas de La Francia Insumisa.\n- La Corte Internacional de Justicia reconoce el genocidio de los rohinyás en Birmania.\n- Se registran sedes del RN y del Ministerio del Interior por filtraciones de documentos sensibles.\n- Un juicio a miembros de un grupo masculinista y el trato médico al dolor de las mujeres destacan entre los temas sociales.\n- También se abordan la reunión de Trump, Xi y Putin, la muerte del diputado David Habib, la regulación de influencers, las hojas en París y el nuevo álbum de Pomme.",
-        "populismo": 24,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «el desprecio del mundo médico», «la imposible toma de conciencia» o «la centrifugadora está en marcha» aportan carga emocional y simplificadora.",
-        "sesgo": "La selección muestra sensibilidad hacia los derechos de las minorías y de las mujeres, y presta atención a las alianzas y propuestas de la izquierda. Algunas noticias sociales emplean una redacción valorativa, aunque también se incluyen enfoques políticos y temas diversos."
+        "resumen": "- La justicia investiga presuntas filtraciones confidenciales del Ministerio del Interior al RN, en medio de otras controversias que afectan al partido.\n- Dominique de Villepin anuncia su candidatura presidencial para 2027; también se examina la doble campaña de David Lisnard.\n- Un artículo defiende el papel democrático de las asociaciones frente a las críticas de Marine Le Pen.\n- La portada aborda juicios por proxenetismo, la detención de un estudiante y el regreso de los «niños de la Creuse» a Reunión.\n- Se destacan manifestaciones contra el alto coste de la vida, una decisión sobre el genocidio rohinyá y una selección de exposiciones.",
+        "populismo": 25,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «avalancha de asuntos» y «juventud robada», junto con la confrontación directa con Le Pen, aportan carga emocional.",
+        "sesgo": "La portada presta especial atención crítica al RN y da espacio a una defensa explícita del mundo asociativo frente a Marine Le Pen. También destaca las consecuencias humanas de decisiones judiciales y políticas."
       }
     },
     {
@@ -258,71 +258,71 @@
       "web": "https://www.leparisien.fr",
       "noticias": [
         {
-          "titulo": "Aube : le village de Bourguignons frappé par une tornade, 60 habitations touchées et une jument tuée",
+          "titulo": "« J’essayais de remettre le postiche sur mon crâne » : le joueur brésilien qui a perdu ses cheveux en plein match raconte sa mésaventure",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/environnement/climat/aube-le-village-de-bourguignons-frappe-par-une-tornade-60-habitations-touchees-et-une-jument-tuee-19-11-2026-EJBRQM5SHVD7XF7HQEXWWVHCNI.php"
+          "enlace": "https://www.leparisien.fr/sports/football/jessayais-de-remettre-le-postiche-sur-mon-crane-le-joueur-bresilien-qui-a-perdu-ses-cheveux-en-plein-match-raconte-sa-mesaventure-20-11-2026-TVROEX5V4RGKVAWAN36UMK3UVM.php"
         },
         {
-          "titulo": "Fiona, l’hippopotame star du zoo de Cincinnati, est décédée après avoir avalé un bonnet",
+          "titulo": "« Je ne reconnais plus mon parti » : après la main tendue de Marine Tondelier à Jean-Luc Mélenchon, un député quitte les Écologistes",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/animaux/fiona-lhippopotame-star-du-zoo-de-cincinnati-est-decedee-apres-avoir-avale-un-bonnet-19-11-2026-MKWWTPREEZCKRGG6PDTYHQQXI4.php"
+          "enlace": "https://www.leparisien.fr/elections/presidentielle/je-ne-reconnais-plus-mon-parti-apres-la-main-tendue-de-marine-tondelier-a-jean-luc-melenchon-un-depute-quitte-les-ecologistes-20-11-2026-7XUDPI3WRREKJKPNYFECEVDYNU.php"
         },
         {
-          "titulo": "« Je les vanne comme les autres » : critiqué sur ses blagues au sujet de ses fans en situation de handicap, Jarry se défend",
+          "titulo": "« C’est un privilège » : à 12 ans, elles contestent la gratuité d’emprunt à la médiathèque réservée aux mentions « très bien »",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/culture-loisirs/humour/je-les-vanne-comme-les-autres-critique-sur-ses-blagues-au-sujet-de-ses-fans-en-situation-de-handicap-jarry-se-defend-19-11-2026-XG4NSHVTORH75GXFU75HHTSEOI.php"
+          "enlace": "https://www.leparisien.fr/loire-atlantique-44/cest-un-privilege-a-12-ans-elles-contestent-la-gratuite-demprunt-a-la-mediatheque-reservee-aux-mentions-tres-bien-20-11-2026-2KAJOVWYHJHA7EP5TYXGFA4BNA.php"
         },
         {
-          "titulo": "« L’enfant terrible du Pacifique » : une violente tempête inonde les rues de Los Angeles et San Francisco",
+          "titulo": "En deux ans, il touche deux fois le quinté et empoche plus de 395 000 euros !",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/international/etats-unis/lenfant-terrible-du-pacifique-une-violente-tempete-inonde-les-rues-de-los-angeles-et-san-francisco-19-11-2026-PHMG2OQKUZBN5EQWAS6AMOKZRY.php"
+          "enlace": "https://www.leparisien.fr/sports/hippisme/en-deux-ans-il-touche-deux-fois-le-quinte-et-empoche-plus-de-395-000-euros-20-11-2026-YPWA5ID5NVFVBLUD3ZICQ76ULY.php"
         },
         {
-          "titulo": "« Je quitte le mouvement » : Yannick Jadot claque la porte des Écologistes",
+          "titulo": "« Ça dépasse nos attentes ! » : ce gîte inspiré de la saga Harry Potter attire dans l’Aube des touristes de toute l’Europe",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/politique/je-quitte-le-mouvement-yannick-jadot-claque-la-porte-des-ecologistes-19-11-2026-R7JKKIKPBVH6JDETG6WOUBGLNA.php"
+          "enlace": "https://www.leparisien.fr/aube-10/ca-depasse-nos-attentes-ce-gite-inspire-de-la-saga-harry-potter-attire-dans-laube-des-touristes-de-toute-leurope-20-11-2026-P3ZBVRPWFVHBNMN36SSHKNNZ2A.php"
         },
         {
-          "titulo": "« Son appétit de requin reste le même » : Ferran Torres a encore plus les crocs pour inverser la tendance au PSG",
+          "titulo": "« Pas une revanche de la demi-finale de la Coupe du monde » : Zidane réagit au choc France-Espagne en Ligue des nations",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/sports/football/psg/son-appetit-de-requin-reste-le-meme-ferran-torres-a-encore-plus-les-crocs-pour-inverser-la-tendance-au-psg-19-11-2026-RGUOC3WOYZGYFJRJD3WDPOI5J4.php"
+          "enlace": "https://www.leparisien.fr/sports/football/equipe-de-france/pas-une-revanche-de-la-demi-finale-de-la-coupe-du-monde-zidane-reagit-au-choc-france-espagne-en-ligue-des-nations-20-11-2026-3RLT7A7VJ5F2VLJICXYCHEPG6A.php"
         },
         {
-          "titulo": "La Maison Blanche confisque les téléphones des journalistes à bord d’Air Force One",
+          "titulo": "Qui a gagné 12 millions d’euros au loto, le plus gros jackpot des Yvelines depuis douze ans ?",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/international/etats-unis/la-maison-blanche-confisque-les-telephones-des-journalistes-a-bord-dair-force-one-19-11-2026-RCTCUKO2RFEKVGKFXXH72WR6SM.php"
+          "enlace": "https://www.leparisien.fr/yvelines-78/qui-a-gagne-12-millions-deuros-au-loto-le-plus-gros-jackpot-des-yvelines-depuis-douze-ans-20-11-2026-BWMVSMVXBNAM7JV422BKX3H2OE.php"
         },
         {
-          "titulo": "Présidentielle 2027 : Gabriel Attal admet qu’il n’a « pas convaincu » à « ce stade » de la campagne",
+          "titulo": "« Un mini-zoo totalement anachronique » : la Ville de Paris veut vider de ses animaux la ménagerie du Jardin des plantes",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-gabriel-attal-admet-quil-na-pas-convaincu-a-ce-stade-de-la-campagne-19-11-2026-2HQ26H4WVVCBBD5FALSQKBRBYU.php"
+          "enlace": "https://www.leparisien.fr/paris-75/un-mini-zoo-totalement-anachronique-la-ville-de-paris-veut-vider-de-ses-animaux-la-menagerie-du-jardin-des-plantes-20-11-2026-H76JOGPGWBGJJJIUED4AXF5L3E.php"
         },
         {
-          "titulo": "Donald Trump accusé de s’être assoupi pendant le discours de Xi Jinping lors du sommet en Chine",
+          "titulo": "Ligue des nations : face à l’Espagne, des airs de Coupe du monde et un défi majeur pour la France en quart de finale",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/international/etats-unis/donald-trump-accuse-de-setre-assoupi-pendant-le-discours-de-xi-jinping-lors-du-sommet-en-chine-19-11-2026-FPVOHWSCQ5DDPIIX7HCC4KE2SE.php"
+          "enlace": "https://www.leparisien.fr/sports/football/equipe-de-france/ligue-des-nations-face-a-lespagne-des-airs-de-coupe-du-monde-et-un-defi-majeur-pour-la-france-en-quart-de-finale-20-11-2026-RRKQYTMOFBDRBAXTC7GKHP5IME.php"
         },
         {
-          "titulo": "Munitions, équipements, frais opérationnels : la guerre en Iran lancée par Donald Trump a coûté plus de 48 milliards de dollars aux États-Unis",
+          "titulo": "Gilets jaunes, parcours… À quoi faut-il s’attendre ce samedi 21 novembre pour l’acte VI des manifestations « contre la vie chère » ?",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/international/etats-unis/munitions-equipements-frais-operationnels-la-guerre-en-iran-lancee-par-donald-trump-a-coute-plus-de-48-milliards-de-dollars-aux-etats-unis-19-11-2026-LUL3QG5TXVHPNKD6WOJTDRBJZI.php"
+          "enlace": "https://www.leparisien.fr/societe/gilets-jaunes-parcours-a-quoi-faut-il-sattendre-ce-samedi-21-novembre-pour-lacte-vi-des-manifestations-contre-la-vie-chere-20-11-2026-47RB7KI76ZBL5MQNMRPBNDYVVU.php"
         },
         {
-          "titulo": "« Un pic de trafic jamais atteint » : comment la sortie de GTA 6 met les réseaux Internet français sous tension",
+          "titulo": "« Il était hors de question que je finisse à l’Ehpad » : à 79 ans, cet Eurois a dépensé moins de 24 000 € pour rester chez lui",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/high-tech/un-pic-de-trafic-jamais-atteint-comment-la-sortie-de-gta-6-met-les-reseaux-internet-francais-sous-tension-19-11-2026-LIPY7LQEDJANNH4BP2ZA3P2VXI.php"
+          "enlace": "https://www.leparisien.fr/eure-27/il-etait-hors-de-question-que-je-finisse-a-lehpad-a-79-ans-cet-eurois-a-depense-moins-de-24-000-pour-rester-chez-lui-20-11-2026-S3Y4I5ESFFFADBBUJNNUINGVSM.php"
         },
         {
-          "titulo": "Narcotrafic : le procureur de Toulouse alerte sur le nombre d’homicides, supérieur à celui de Marseille depuis le début d’année",
+          "titulo": "« Un accord historique » : 10 ans après le référendum du Brexit, le Royaume-Uni et l’Union européenne relancent leurs relations",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/faits-divers/narcotrafic-le-procureur-de-toulouse-alerte-sur-le-nombre-dhomicides-superieur-a-celui-de-marseille-depuis-le-debut-dannee-19-11-2026-J2ITMKQJSJBJZK66KI7NN2BZYI.php"
+          "enlace": "https://www.leparisien.fr/international/royaume-uni/un-accord-historique-dix-ans-apres-le-referendum-du-brexit-le-royaume-uni-et-lunion-europeenne-relancent-leurs-relations-20-11-2026-INZMFPDOUZD75LXFXGSRGVWJLQ.php"
         }
       ],
       "analisis": {
-        "resumen": "- Un tornado afecta a 60 viviendas y mata a una yegua en el pueblo de Bourguignons; una fuerte tormenta inunda calles de Los Ángeles y San Francisco.\n- Muere Fiona, la hipopótama del zoo de Cincinnati, tras tragarse un gorro; el humorista Jarry responde a críticas por sus bromas sobre personas con discapacidad.\n- Yannick Jadot abandona Los Ecologistas y Gabriel Attal admite que aún no ha convencido en la campaña presidencial de 2027.\n- La Casa Blanca retira los teléfonos a periodistas a bordo del Air Force One; otros titulares abordan a Trump en la cumbre en China y el coste de la guerra en Irán.\n- La portada también trata del tráfico de Internet ante GTA 6, los homicidios ligados al narcotráfico en Toulouse y el futbolista Ferran Torres.",
+        "resumen": "- Un futbolista brasileño relata la pérdida de su peluquín durante un partido.\n- Un diputado abandona Los Ecologistas tras el acercamiento de Marine Tondelier a Jean-Luc Mélenchon.\n- Dos niñas de 12 años cuestionan que el préstamo gratuito en una mediateca se reserve a quienes obtienen la mención «muy bien».\n- La portada recoge premios de lotería, un alojamiento inspirado en Harry Potter y la previa del Francia-España de fútbol.\n- También aborda las protestas contra la carestía, la atención a mayores, la colección de animales del Jardín de Plantas y las relaciones entre el Reino Unido y la UE.",
         "populismo": 25,
-        "motivo_populismo": "Hay expresiones llamativas y dramatizadoras como «el niño terrible del Pacífico», «da un portazo» y «apetito de tiburón», pero no se aprecia una apelación al pueblo contra las élites.",
-        "sesgo": "La selección combina política y sucesos con noticias de entretenimiento y deporte, y destaca episodios de conflicto, críticas y situaciones excepcionales. No se aprecia una orientación política definida a partir de estos titulares."
+        "motivo_populismo": "Hay titulares llamativos con exclamaciones y citas como «¡Supera nuestras expectativas!», pero apenas se aprecia enfrentamiento entre pueblo y élites ni descalificación.",
+        "sesgo": "La selección favorece las historias personales, curiosas y cercanas, junto con deporte y actualidad política. En la redacción destaca un enfoque de interés humano y cierta búsqueda de sorpresa."
       }
     },
     {
@@ -330,61 +330,61 @@
       "web": "https://www.ouest-france.fr",
       "noticias": [
         {
-          "titulo": "ATP Finals. Malgré son élimination du Masters, Arthur Fils retiendra « une saison d’enfer »",
-          "entradilla": "Éliminé du Masters de fin de saison à Turin après sa défaite face à Alexander Zverev ce jeudi 19 novembre, Arthur Fils ne veut garder que le positif de sa saison 2026, auréolée de deux succès (ATP 500 de Barcelone et Masters 1000 de Cincinnati.",
-          "enlace": "https://www.ouest-france.fr/sport/tennis/arthur-fils/atp-finals-malgre-son-elimination-du-masters-arthur-fils-retiendra-une-saison-denfer-6cd3f2ee-e05a-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "POINT DE VUE. Lueurs démocratiques dans les Balkans occidentaux",
+          "entradilla": "Il faut entendre le message pro-européen qu’envoient les jeunesses albanaise et serbe et les aider à le rendre concret dans leur pays, écrit Christian Lequesne, professeur de science politique à Sciences Po.",
+          "enlace": "https://www.ouest-france.fr/reflexion/point-de-vue-lueurs-democratiques-dans-les-balkans-occidentaux-f1f1824e-e41e-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "Yannick Jadot quitte Les Écologistes après la main tendue de Marine Tondelier à Jean-Luc Mélenchon",
-          "entradilla": "Le sénateur, désormais rallié à Raphaël Glucksmann, dénonce une « trahison » après que Marine Tondelier s’est dite prête à travailler à une coalition autour d’une candidature de Jean-Luc Mélenchon à la présidentielle.",
-          "enlace": "https://www.ouest-france.fr/politique/yannick-jadot/yannick-jadot-quitte-les-ecologistes-apres-la-main-tendue-de-marine-tondelier-a-jean-luc-melenchon-1665dce2-e46a-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Stade Brestois. « Une décompression peut arriver » : pourquoi le match à Strasbourg est à haut risque",
+          "entradilla": "Sur une belle dynamique avant la trêve, le Stade Brestois retrouve le championnat, samedi 21 novembre (20 h 45), à Strasbourg. Avec le défi de repartir du bon pied face à un adversaire qui n’offre aucun repère après avoir changé d’entraîneur.",
+          "enlace": "https://www.ouest-france.fr/sport/football/stade-brestois/stade-brestois-une-decompression-peut-arriver-pourquoi-le-match-a-strasbourg-est-a-haut-risque-75205022-e425-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "Une plainte pour violences sexuelles contre Gérard Depardieu et Michel Houellebecq lors du tournage du film « Thalasso »",
-          "entradilla": "Une plainte a été déposée par une actrice en mai 2025 contre l’acteur Gérard Depardieu et l’écrivain Michel Houellebecq pour des violences sexuelles qui auraient eu lieu pendant le tournage d’une scène du film « Thalasso », tourné à Cabourg, en Normandie, en 2018, révèle « Mediapart ».",
-          "enlace": "https://www.ouest-france.fr/cinema/gerard-depardieu/une-plainte-pour-violences-sexuelles-contre-gerard-depardieu-et-michel-houellebecq-lors-du-tournage-du-film-thalasso-155c0230-e45c-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "138 € pour une course de 4 km : un client aveugle dénonce les tarifs d’un taxi commandé sur Uber",
+          "entradilla": "Un juriste aveugle a dû débourser près de 140 € pour une course de taxi de 4 kilomètres à Zurich (Suisse). Depuis, l’homme a réussi à faire baisser la facture. Son cas est loin d’être isolé depuis le déplafonnement des tarifs des taxis dans la ville.",
+          "enlace": "https://www.ouest-france.fr/europe/suisse/138-euros-pour-une-course-de-4-km-un-client-aveugle-denonce-les-tarifs-dun-taxi-commande-sur-uber-5e021b12-e4ef-11f1-b9ed-164c427aef07?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "Euroligue. Paris Basket signe sa sixième victoire consécutive, la troisième de suite grâce à Nadir Hifi",
-          "entradilla": "Le Paris Basket marche sur l’eau en Euroligue, en ayant signé son sixième succès consécutif ce jeudi 19 novembre contre l’Hapoël Tel-Aviv (97-96). Pour la troisième fois consécutive et quasiment au buzzer encore, c’est Nadir Hifi qui a délivré le panier de la gagne…",
-          "enlace": "https://www.ouest-france.fr/sport/basket/euroligue/euroligue-paris-basket-signe-sa-sixieme-victoire-consecutive-la-troisieme-de-suite-grace-a-nadir-hifi-67712326-e465-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Ligue des nations. Les dates du quart de finale aller-retour entre la France et l’Espagne sont tombées",
+          "entradilla": "Quelques heures après le tirage au sort des quarts de finale de la Ligue des nations, qui a accouché d’un choc entre la France et l’Espagne, l’UEFA a fixé le calendrier de cette échéance. Les Bleus se rendront de l’autre côté des Pyrénées le jeudi 25 mars, dans une ville qui reste à déterminer, alor",
+          "enlace": "https://www.ouest-france.fr/sport/football/equipe-de-france/ligue-des-nations-les-dates-du-quart-de-finale-aller-retour-entre-la-france-et-lespagne-sont-tombees-5e3ce48c-e4ee-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "Handball. Le PSG débute le tour principal de la Ligue des champions par un succès",
-          "entradilla": "Le Paris Saint-Germain Handball a démarré le tour principal de la Ligue des champions par un court mais précieux succès dans la salle des Allemands de Melsungen (33-35), jeudi 19 novembre, ce qui maintient sa dynamique en vue de la qualification.",
-          "enlace": "https://www.ouest-france.fr/sport/handball/handball-le-psg-debute-le-tour-principal-de-la-ligue-des-champions-par-un-succes-30892590-e463-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "INFO OUEST-FRANCE. Le tribunal administratif suspend le chantier du centre de rétention administrative de Nantes",
+          "entradilla": "La décision a été rendue ce vendredi 20 novembre 2026. Plusieurs recours avaient été déposés par des avocats contre le projet de centre de rétention administrative (CRA), un lieu d’enfermement de 140 places pour les étrangers en attente d’expulsion. Le juge des référés a décidé de suspendre l’exécut",
+          "enlace": "https://www.ouest-france.fr/societe/justice/info-ouest-france-le-tribunal-administratif-suspend-le-chantier-du-centre-de-retention-administrative-de-nantes-bc4a9aba-e4ee-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "Top 14. Le troisième ligne international Anthony Jelonch prolonge jusqu’en 2030 avec le Stade Toulousain",
-          "entradilla": "Le troisième ligne international Anthony Jelonch a prolongé de trois ans son contrat avec le Stade Toulousain, jusqu’en 2030, a annoncé le quadruple champion de France en titre jeudi 19 novembre sur ses réseaux sociaux.",
-          "enlace": "https://www.ouest-france.fr/sport/rugby/anthony-jelonch/top-14-le-troisieme-ligne-international-anthony-jelonch-prolonge-jusquen-2030-avec-le-stade-toulousain-0d1ddfcc-e460-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Une enquête ouverte après la découverte d’un bébé seul, oublié dans une crèche fermée dans l’Oise",
+          "entradilla": "Un bébé a été retrouvé seul, en pleurs, dans le dortoir d’une crèche qui était fermée depuis plusieurs heures à Montataire, dans l’Oise, jeudi 19 novembre. Une enquête pour « suspicion de privation de soins ou d’aliments compromettant la santé d’un mineur par personne ayant autorité » a été ouverte.",
+          "enlace": "https://www.ouest-france.fr/societe/faits-divers/un-bebe-retrouve-seul-oublie-dans-une-creche-fermee-dans-loise-6966b344-e4d3-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "Ligue 1. Hors-jeu semi-automatique : une idée séduisante qui a fait ses preuves, mais coûteuse",
-          "entradilla": "Déjà utilisé lors des deux dernières Coupes du monde, en Ligue des champions et dans le championnat d’Angleterre, le hors-jeu semi-automatique a séduit bon nombre d’arbitres, mais tarde à se faire une place en Ligue 1 pour des raisons essentiellement économiques.",
-          "enlace": "https://www.ouest-france.fr/sport/football/ligue-1/ligue-1-hors-jeu-semi-automatique-une-idee-seduisante-qui-a-fait-ses-preuves-mais-couteuse-4a596f4c-e45a-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Cargo échoué sur le littoral des Landes : difficultés à manœuvrer, suite des opérations… Ce que l’on sait",
+          "entradilla": "Tôt dans la nuit, vendredi 20 novembre, un cargo sous pavillon maltais s’est échoué au niveau de la commune de Lit-et-Mixe, dans les Landes. Une partie de l’équipage a été évacuée et les autorités cherchent à remettre en mer le navire. Voici ce que l’on sait de cet incident.",
+          "enlace": "https://www.ouest-france.fr/mer/securite-en-mer/naufrage/cargo-echoue-sur-le-littoral-des-landes-difficultes-a-manuvrer-suite-des-operations-ce-que-lon-sait-5b629d42-e4df-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "Trop grandes, trop complexes… Les Cop environnementales sont-elles encore efficaces ?",
-          "entradilla": "Depuis les années 1990, les pays du monde entier se réunissent annuellement autour des Cop, conférences des Nations unies sur le climat, pour échanger sur la crise climatique et trouver des solutions communes pour la ralentir. Mais ces grands rassemblements sont-ils encore pertinents ? Décriée pour ",
-          "enlace": "https://www.ouest-france.fr/leditiondusoir/2026-11-19/trop-grandes-trop-complexes-les-cop-environnementales-sont-elles-encore-efficaces-c13b4419-1af5-426e-9fdd-5c34bf8f8598?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "« Si le Kenya a réussi à éradiquer le braconnage… » : comment la lutte antidopage mène la chasse aux tricheurs",
+          "entradilla": "À l’image de l’Unité d’intégrité d’athlétisme, qui a fait développer un logiciel pour lutter plus efficacement contre le dopage au Kenya, les efforts se concentrent sur ce pays d’Afrique orientale, longtemps sous les radars, mais désormais dans l’oeil du cyclone. Près de 150 athlètes kenyans sont ac",
+          "enlace": "https://www.ouest-france.fr/sport/dopage/si-le-kenya-a-reussi-a-eradiquer-le-braconnage-comment-la-lutte-antidopage-mene-la-chasse-aux-tricheurs-6cf2ffce-e4c7-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "Le député David Habib, figure politique du Béarn, décède à 65 ans",
-          "entradilla": "Un « décès soudain ». Le député des Pyrénées-Atlantiques David Habib est décédé à 65 ans, a annoncé ce jeudi 19 novembre 2026 la présidente de l’Assemblée nationale, Yaël Braun-Pivet, dans l’hémicycle. Les députés ont observé une minute de silence.",
-          "enlace": "https://www.ouest-france.fr/politique/le-depute-david-habib-figure-politique-du-bearn-decede-a-65-ans-b66cbfdc-e459-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Où seront diffusés les épisodes des « Feux de l’amour » après l’arrêt de la diffusion sur TF1 le 4 janvier ?",
+          "entradilla": "Après 37 ans de diffusion sur la Une, la série américaine disparaîtra de la grille début janvier, au profit du retour du jeu « Pyramide », présenté et produit par Arthur. Pour autant, cette saga emblématique se poursuivra. On vous explique où seront diffusés les nouveaux épisodes une fois leur dispa",
+          "enlace": "https://programmetv.ouest-france.fr/serie/ou-seront-diffuses-les-episodes-des-feux-de-lamour-apres-larret-de-la-diffusion-sur-tf1-le-4-janvier-e8734e22-e4e7-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "Cette épice protège votre cerveau et favorise sa plasticité, essentielle pour les apprentissages : voici comment",
-          "entradilla": "Déjà présentée comme ayant des propriétés antioxydantes et anti-inflammatoires, cette épice issue des régions tropicales se montre également prometteuse dans l’optique de trouver des thérapies contre les maladies neurodégénératives. Le principe actif qu’elle contient soutiendrait la capacité du syst",
-          "enlace": "https://www.ouest-france.fr/leditiondusoir/2026-11-19/cette-epice-protege-votre-cerveau-et-favorise-sa-plasticite-essentielle-pour-les-apprentissages-voici-comment-160f8c95-bd5d-427f-9c55-9f7e40dae471?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "« Un jour, j’ai osé pousser la porte des Restos du Cœur, et je ne m’attendais pas à trouver tout cela derrière… »",
+          "entradilla": "Courrier des lectrices et des lecteurs. « On n’imagine jamais que l’on puisse un jour être amené à demander de l’aide. Croyez-moi, cela demande une certaine dose de courage. Il faut mettre sa fierté de côté, affronter ses appréhensions et accepter que, parfois, la vie nous conduise sur des chemins q",
+          "enlace": "https://www.ouest-france.fr/medias/restos-du-coeur/un-jour-jai-ose-pousser-la-porte-des-restos-du-cur-et-je-ne-mattendais-pas-a-trouver-tout-cela-derriere-bdb69722-e3fa-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         }
       ],
       "analisis": {
-        "resumen": "- Arthur Fils destaca su temporada pese a quedar eliminado del Masters de tenis.\n- Yannick Jadot abandona Los Ecologistas y denuncia una «traición» por el acercamiento de Marine Tondelier a Jean-Luc Mélenchon.\n- Una actriz denuncia presuntas violencias sexuales de Gérard Depardieu y Michel Houellebecq durante el rodaje de «Thalasso».\n- La portada recoge victorias en baloncesto y balonmano, la renovación de Anthony Jelonch y el debate sobre el coste del fuera de juego semiautomático.\n- También aborda la eficacia de las COP ambientales, la muerte del diputado David Habib y posibles propiedades de una especia para el cerebro.",
-        "populismo": 15,
-        "motivo_populismo": "Predomina un tono informativo, aunque el titular sobre la especia recurre al reclamo y la palabra «traición» aporta dramatismo, atribuida a Yannick Jadot.",
-        "sesgo": "La selección da mucho espacio al deporte y combina noticias políticas, judiciales y ambientales con un titular de salud de tono llamativo. No se aprecia un sesgo ideológico claro en los titulares proporcionados."
+        "resumen": "- Un artículo de opinión pide apoyar el mensaje proeuropeo de jóvenes de Albania y Serbia.\n- En deportes, el Brest prepara su partido ante el Estrasburgo y se anuncian las fechas del Francia-España de la Liga de Naciones.\n- Un cliente ciego denuncia el coste de un taxi de cuatro kilómetros en Zúrich.\n- Un tribunal suspende las obras de un centro de retención en Nantes; también se informa de un bebé hallado solo en una guardería y de un carguero encallado en las Landas.\n- La portada aborda además la lucha contra el dopaje en Kenia, el futuro televisivo de «Les Feux de l’amour» y el testimonio de una persona que acudió a Restos du Cœur.",
+        "populismo": 20,
+        "motivo_populismo": "Expresiones como «partido de alto riesgo» o «a la caza de los tramposos» aportan dramatismo, pero predominan los titulares informativos y no se aprecia una oposición entre pueblo y élites.",
+        "sesgo": "La selección combina actualidad local, deportes y casos de interés humano, con atención a situaciones de vulnerabilidad. El punto de vista sobre los Balcanes adopta una posición favorable a apoyar a las juventudes proeuropeas, explícitamente atribuida a su autor."
       }
     }
   ]

@@ -1,39 +1,39 @@
 {
   "pais": "China",
-  "fecha": "2026-11-19",
-  "turno": 18,
-  "generado": "19/11/2026 23:55",
+  "fecha": "2026-11-20",
+  "turno": 8,
+  "generado": "20/11/2026 15:55",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "La diplomacia y las relaciones entre China y Estados Unidos aparecen en varios medios; CGTN y South China Morning Post destacan especialmente la cumbre de APEC y el encuentro con Rusia. También se repiten la tecnología y la cooperación internacional, mientras Diario del Pueblo y Xinhua abordan el medioambiente. Las portadas incluyen referencias a fechas distintas. Solo Xinhua destaca la COVID-19, con noticias sobre vacunación y prevención.",
+    "temas": "Se repiten la diplomacia china y las relaciones con Estados Unidos, con especial atención a Xi Jinping y a la cooperación regional. También aparecen el desarrollo tecnológico y la protección de la naturaleza. Xinhua destaca en solitario por sus informaciones y consejos sobre la COVID-19.",
     "crispacion": 35,
-    "motivo_crispacion": "La tensión se concentra en las medidas estadounidenses que afectan a empresas chinas de telecomunicaciones y en el plan relativo a laboratorios de ensayo, además de las críticas de un experto chino a Filipinas y Japón. Global Times también recoge protestas en Estados Unidos durante los ataques contra Irán. Frente a ello, abundan las noticias sobre diálogo diplomático, cooperación tecnológica y asuntos cotidianos. La valoración compara contenidos de fechas distintas, no necesariamente de un mismo día."
+    "motivo_crispacion": "La tensión se concentra en las diferencias entre China y Estados Unidos sobre Taiwán, la tecnología y el riesgo nuclear, así como en la disputa marítima entre China y Filipinas. Global Times también recoge protestas en Estados Unidos contra los ataques a Irán. Estas noticias se equilibran con otras sobre cooperación diplomática, medioambiente, salud y avances tecnológicos. Las portadas facilitadas contienen referencias a fechas distintas, por lo que la valoración corresponde al conjunto y no necesariamente a un mismo día."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "La portada sobre el medio ambiente acierta en algo esencial: proteger la naturaleza es proteger la vida cotidiana. Pero yo desconfío de cualquier transición ecológica que deje intacto el poder del gran capital y haga pagar la factura a quienes trabajan. La inspección de la ley de ahorro energético debe traducirse en controles efectivos sobre las empresas, inversión pública y participación de las comunidades afectadas.\n\nLo mismo vale para la seguridad alimentaria, destacada en la visita a Anhui y en el anuncio del censo agrícola. No basta con medir cosechas: hay que garantizar medios de producción, servicios públicos y condiciones dignas para quienes sostienen el campo. Defiendo la propiedad colectiva y la planificación democrática porque permiten orientar la tierra, la energía y los recursos hacia las necesidades comunes, en lugar de someterlos a la rentabilidad privada."
+      "texto": "La protección ambiental y la seguridad alimentaria ocupan las portadas, y me parece justo ponerlas en el centro. Pero una modernización ecológica no se mide solo por sus planes: debe garantizar agua limpia, servicios públicos y condiciones dignas para quienes trabajan la tierra. Si los beneficios quedan en manos del gran capital mientras las comunidades soportan los costes, la promesa de prosperidad compartida se vacía.\n\nLa inspección de la ley de ahorro energético y el próximo censo agrícola pueden ser herramientas útiles, siempre que sus resultados sirvan a la población y no solo a los indicadores oficiales. Yo defiendo una planificación democrática, con participación efectiva de trabajadores y campesinos, y una propiedad colectiva capaz de orientar la producción hacia las necesidades comunes. Proteger la naturaleza también exige decidir colectivamente quién produce, para quién y a qué precio social."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "Leo las noticias sobre protección ambiental y pienso que cuidar ríos y campos no debería depender de las directrices de un partido ni de la voluntad de sus dirigentes. Quienes viven y trabajan en esos territorios necesitan poder decidir cómo protegerlos, compartir conocimientos y organizar los recursos mediante acuerdos libres. La autogestión no garantiza por sí sola el acierto, pero permite corregir errores desde abajo, sin esperar permiso de una jerarquía.\n\nTambién veo que las grandes potencias hablan de paz y cooperación nuclear. Prefiero el diálogo a la confrontación, pero desconfío de una paz definida exclusivamente por quienes controlan los Estados y sus arsenales. La libertad individual y colectiva exige que las comunidades puedan vigilar, cuestionar y organizarse más allá de las fronteras. El apoyo mutuo entre pueblos ofrece una base más sólida que la obediencia a cualquier gobierno."
+      "texto": "El Día Mundial del Medio Ambiente nos recuerda que proteger ríos y montañas es inseparable de cuidar la vida cotidiana. Pero desconfío de una ecología presentada como visión de los dirigentes: quienes habitan y trabajan la tierra deben poder decidir cómo se protege, con acceso a la información y recursos para organizarse. La autogestión no elimina la necesidad de coordinarse; la hace nacer del acuerdo entre comunidades, no de la obediencia a un partido.\n\nTambién miro con cautela la promesa de reducir el riesgo nuclear si no viene acompañada de medidas concretas. La seguridad no puede quedar encerrada en reuniones entre Estados que conservan el poder de poner en peligro a todos. Frente a esa jerarquía, defiendo el apoyo mutuo y la libertad individual y colectiva: ningún gobierno debería reclamar para sí la voz de quienes sufrirían las consecuencias."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "La protección ambiental y la seguridad alimentaria ocupan un lugar destacado en las noticias. Comparto ambos objetivos, pero desconfío de que la planificación central sea el mejor camino para alcanzarlos. Un entorno limpio exige reglas claras contra la contaminación y que quien cause daños responda por ellos; también necesita espacio para que comunidades y empresas encuentren soluciones adaptadas a cada lugar.\n\nEn el campo, prefiero agricultores libres para decidir qué producir y cómo invertir, antes que una economía guiada por metas políticas. Un Estado limitado debe proteger derechos y hacer cumplir contratos, no sustituir las decisiones de millones de personas. Con impuestos bajos, las familias y los productores conservarían más recursos para ahorrar, innovar y asumir la responsabilidad de sus elecciones. La prosperidad sostenible nace de esa libertad, no solo de las consignas."
+      "texto": "La protección del medio ambiente y la seguridad alimentaria merecen atención, pero desconfío de que las consignas y los objetivos centrales basten para garantizarlas. Yo prefiero reglas claras que obliguen a quien contamina a responder por los daños, protejan los derechos de propiedad y permitan a agricultores y empresas encontrar soluciones. La responsabilidad personal también cuenta: conservar los recursos no es tarea exclusiva del gobierno.\n\nMe preocupa, además, el plan estadounidense de excluir a laboratorios chinos de pruebas electrónicas. Las barreras comerciales pueden encarecer productos y perjudicar a consumidores y empresas de ambos países. Defiendo un comercio abierto, con controles justificados por riesgos concretos, no por nacionalidad. Un Estado limitado, impuestos bajos y competencia dejan más recursos y libertad para innovar, producir y cuidar el entorno sin convertir cada desafío en una orden administrativa."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Veo en la cumbre de Shenzhen una lección incómoda: las grandes potencias hablan de paz y cooperación, pero cada una defiende ante todo sus intereses. No me escandaliza; me preocupa que otros países confundan los gestos diplomáticos con garantías de seguridad. Ninguna declaración debe sustituir una defensa sólida ni entregar decisiones nacionales a acuerdos negociados a puerta cerrada. Desconfío de las élites políticas y mediáticas cuando venden esas fotografías como una solución.\n\nTambién me parece acertado poner la seguridad alimentaria y el cuidado del campo en el centro del debate. Una nación que no protege su agricultura pierde margen para decidir su futuro. Y preservar los paisajes y oficios tradicionales, como la elaboración del té, no es nostalgia: es mantener vivo el legado que une a las generaciones. La modernización merece apoyo si fortalece esas raíces, no si las convierte en decoración."
+      "texto": "Veo en estas portadas una lección clara: una nación que no protege su alimentación, su tecnología y su defensa acaba dependiendo de decisiones ajenas. La atención a las cosechas y a las instalaciones militares responde a prioridades que comparto. También respaldo el cuidado del campo y de los oficios tradicionales: una patria no es solo un mercado, sino una herencia que debemos transmitir.\n\nPero no confundo soberanía con confianza ciega en las élites. La insistencia de la prensa oficial en celebrar la visión de los dirigentes deja una pregunta indispensable: ¿qué resultados concretos obtienen las familias? Del mismo modo, el compromiso de China, Estados Unidos y Rusia para reducir el riesgo nuclear merece apoyo, pero sin medidas verificables puede quedarse en una fotografía. Yo prefiero cooperación entre naciones fuertes a promesas solemnes sin responsabilidad."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Me parece positivo que China, Estados Unidos y Rusia hayan dialogado y que su declaración conjunta incluya la no proliferación nuclear y la cooperación energética. Pero una cumbre no sustituye a instituciones internacionales sólidas ni a la consulta con los países que pueden verse afectados. Prefiero acuerdos verificables y avances graduales a la diplomacia de los gestos. También creo que las restricciones estadounidenses a las telecomunicaciones chinas deben justificarse con pruebas y someterse a revisión: la seguridad importa, pero no debería convertirse en una excusa automática para cerrar mercados.\n\nEn China, la protección ambiental y la seguridad alimentaria merecen atención sostenida. Yo defendería controles públicos eficaces, información accesible y participación de las comunidades rurales, junto con incentivos para que las empresas inviertan en soluciones limpias. Crecer y proteger el entorno no son objetivos enemigos; conciliarlos exige reglas estables y rendición de cuentas."
+      "texto": "Celebro que China, Estados Unidos y Rusia hablen de reducir el riesgo nuclear, pero una declaración no sustituye a los acuerdos verificables. Si los líderes quieren que el diálogo genere confianza, deben traducirlo en medidas concretas y mecanismos de seguimiento. También veo una señal alentadora en las conversaciones de seguridad marítima entre China y Estados Unidos: mantener canales abiertos es especialmente importante cuando existen desacuerdos profundos.\n\nMe preocupa, en cambio, el cuestionamiento conjunto de la autoridad de los órganos judiciales internacionales. Las grandes potencias no deberían tratar las reglas como instrumentos útiles solo cuando les convienen. Yo prefiero una diplomacia paciente, apoyada en instituciones y compromisos verificables. El consenso no exige ocultar las diferencias; exige gestionarlas sin debilitar las normas que protegen también a los países menos poderosos."
     }
   ],
   "periodicos": [
@@ -103,10 +103,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- La protección ambiental y el desarrollo sostenible protagonizan varias noticias centradas en Xi Jinping.\n- Liu Guozhong supervisa la producción agrícola en Anhui y el Gobierno anuncia un censo agrícola para 2026.\n- Han Zheng se reúne con una delegación estadounidense; Xi firma un reglamento sobre instalaciones militares.\n- Se abordan la organización del examen de acceso a la universidad, la disciplina interna del Partido y el cumplimiento de la ley de ahorro energético.\n- La portada también destaca la elaboración tradicional del té Longjing y repasa la agenda de Xi en mayo.",
-        "populismo": 18,
-        "motivo_populismo": "Predomina un tono institucional e informativo, aunque aparecen expresiones enfáticas como «esforzarse al máximo» y un titular llamativo sobre cómo el té «conquista el corazón del mundo».",
-        "sesgo": "La selección y la redacción muestran un enfoque institucional favorable a las autoridades, con especial protagonismo de Xi Jinping y de sus iniciativas. Las noticias destacan sus actuaciones y objetivos sin incluir perspectivas críticas en los textos facilitados."
+        "resumen": "- El Día Mundial del Medio Ambiente centra varias noticias sobre protección ecológica y declaraciones de Xi Jinping.\n- La producción de cereales y el cuarto censo agrícola nacional ocupan un lugar destacado.\n- Se anuncian normas sobre instalaciones militares y procedimientos disciplinarios del Partido Comunista.\n- Han Zheng recibe a una delegación estadounidense de diálogo no oficial; también se repasa la agenda de Xi en mayo.\n- La portada aborda los exámenes de acceso a la universidad, el ahorro energético y la tradición del té Longjing.",
+        "populismo": 20,
+        "motivo_populismo": "Los titulares son mayormente institucionales, aunque emplean expresiones emotivas como «línea de vida» para la equidad y preguntan cómo un té «conquista el corazón del mundo», sin plantear un enfrentamiento entre pueblo y élites.",
+        "sesgo": "La selección y la redacción privilegian la perspectiva de las autoridades y presentan de forma favorable el liderazgo de Xi Jinping y las iniciativas oficiales. Apenas aparecen voces críticas o enfoques alternativos."
       }
     },
     {
@@ -175,10 +175,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- Optimización de las medidas contra la COVID y reapertura de comercios.\n- Plan para una segunda dosis de refuerzo y consejos de vacunación para personas mayores.\n- Orientaciones para pacientes cardiovasculares y explicaciones sobre datos de contagios y la variante BQ.1.\n- Noticias sobre la preparación de astronautas y un próximo descenso de temperaturas.\n- Intervención prevista de Xi Jinping sobre biodiversidad y refuerzo de la supervisión financiera.",
+        "resumen": "- Optimización de las medidas contra la COVID-19 y reapertura de comercios.\n- Plan para una segunda dosis de refuerzo y recomendaciones de vacunación y prevención.\n- Expertos responden sobre los datos de infecciones asintomáticas y la variante BQ.1.\n- Actividades de Xi Jinping sobre biodiversidad y diplomacia, y reforma de la supervisión financiera.\n- Entrenamiento de astronautas y previsión de una nueva ola de frío.",
         "populismo": 15,
-        "motivo_populismo": "Predomina un tono informativo, aunque aparecen formulaciones emotivas como «cumplir el sueño de volar al espacio»; la noticia sobre BQ.1 reproduce además un rumor alarmista.",
-        "sesgo": "La selección prioriza las medidas oficiales frente a la COVID y las explicaciones de autoridades y expertos. También destaca las actividades de Xi Jinping y las directrices del Partido, con un enfoque institucional."
+        "motivo_populismo": "Los titulares son mayoritariamente informativos, aunque algunos apelan a la emoción, como los años de preparación de los astronautas; el texto sobre BQ.1 reproduce expresiones alarmistas atribuidas a rumores en internet.",
+        "sesgo": "La selección prioriza las políticas públicas, las declaraciones oficiales y las explicaciones de expertos vinculados a instituciones. También presenta el desarrollo de China en términos positivos, sin incluir perspectivas alternativas en los textos facilitados."
       }
     },
     {
@@ -247,10 +247,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- Analistas advierten de que un plan estadounidense para excluir laboratorios chinos podría afectar a las cadenas de suministro y elevar los costes.\n- Un experto chino critica una declaración filipina sobre la delimitación con Japón; otro titular cuestiona el relato del santuario Yasukuni sobre el juicio de Tokio.\n- La portada recoge protestas en Estados Unidos por los ataques contra Irán y un tiroteo en una gala en Washington.\n- China anuncia cambios ferroviarios y una misión lunar, mientras una asesora expresa confianza en el desarrollo de la inteligencia artificial.\n- También se abordan la conmemoración de la libertad en Sudáfrica, el multilateralismo, las visitas desde Taiwán y la educación sexual en China.",
+        "resumen": "- Analistas advierten de que un plan de la FCC estadounidense sobre laboratorios chinos podría alterar las cadenas de suministro y elevar costes.\n- Una conmemoración sudafricana destaca la dignidad y la gobernanza inclusiva tras el apartheid.\n- China anuncia nuevos horarios ferroviarios desde el 1 de julio, con alta velocidad entre Pekín y Urumqi.\n- Varios titulares abordan disputas regionales, el santuario de Yasukuni y la visión de China sobre el multilateralismo.\n- Otras noticias tratan sobre protestas y un tiroteo en Estados Unidos, una misión lunar china, visitas desde Taiwán, educación sexual e inteligencia artificial.",
         "populismo": 38,
-        "motivo_populismo": "Conviven titulares informativos con expresiones valorativas o alarmistas como «notorious», «ulterior purposes» y «more chaos», que intensifican algunos conflictos.",
-        "sesgo": "La selección presenta iniciativas y capacidades chinas de forma favorable y destaca críticas o advertencias sobre Estados Unidos, Japón y Filipinas. También da protagonismo a expertos y representantes chinos como fuentes."
+        "motivo_populismo": "Aunque muchos titulares son informativos, expresiones como «propósitos ocultos», «narrativa invertida» y «más caos» introducen confrontación y alarma.",
+        "sesgo": "La selección da protagonismo a perspectivas y fuentes chinas, mientras presenta algunas actuaciones de Estados Unidos, Japón y Filipinas en términos críticos. También destaca avances y propuestas internas de China."
       }
     },
     {
@@ -258,71 +258,71 @@
       "web": "https://www.cgtn.com",
       "noticias": [
         {
-          "titulo": "Xi Jinping's key quotes at APEC CEO Summit in Shenzhen",
-          "entradilla": "Xi Jinping's key quotes at APEC CEO Summit in Shenzhen",
-          "enlace": "https://news.cgtn.com/news/2026-11-18/Xi-Jinping-s-key-quotes-at-APEC-CEO-Summit-in-Shenzhen-1Sb0BfFr3bO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China"
+          "titulo": "Xi's vision for Asia-Pacific development wins support at APEC meeting",
+          "entradilla": "Chinese President Xi Jinping's speech at the 33rd APEC Economic Leaders' Meeting on Thursday has drawn widespread support from attendees, who stressed the importance of Asia-Pacific cooperation and welcomed his vision as offering clear direction for the region's future development.",
+          "enlace": "https://news.cgtn.com/news/2026-11-19/Xi-s-vision-for-Asia-Pacific-development-wins-support-at-APEC-meeting-1Scy00AGorC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China"
         },
         {
-          "titulo": "Full text: Xi Jinping's toast remarks at 33rd APEC's welcome dinner",
-          "entradilla": "Full text: Xi Jinping's toast remarks at 33rd APEC's welcome dinner",
-          "enlace": "https://news.cgtn.com/news/2026-11-18/Full-text-Xi-Jinping-s-toast-remarks-at-33rd-APEC-s-welcome-dinner-1Sbc97wP58Q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China"
+          "titulo": "The Shenzhen Miracle: From fishing village to global tech hub",
+          "entradilla": "The Shenzhen Miracle: From fishing village to global tech hub",
+          "enlace": "https://news.cgtn.com/news/2026-11-19/The-Shenzhen-Miracle-From-fishing-village-to-global-tech-hub-1ScIA9Zc7V6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China"
         },
         {
-          "titulo": "Xi, Putin and Trump: What to expect from historic trilateral meeting",
-          "entradilla": "Xi, Putin and Trump: What to expect from historic trilateral meeting",
-          "enlace": "https://news.cgtn.com/news/2026-11-18/Xi-Putin-and-Trump-What-to-expect-from-historic-trilateral-meeting-1Satv5TGiKk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China"
+          "titulo": "Xi, Trump conclude meeting in Shenzhen",
+          "entradilla": "Xi, Trump conclude meeting in Shenzhen",
+          "enlace": "https://news.cgtn.com/news/2026-11-19/Xi-Trump-conclude-meeting-in-Shenzhen-1SbT1vQRYIM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China"
         },
         {
-          "titulo": "A Future We Share: Technology and Innovation Expand Cooperation",
-          "entradilla": "The world's most expensive ore sorting equipment uses X-rays and AI technology to recover value from discarded ore in Peru;",
-          "enlace": "https://news.cgtn.com/news/2026-11-18/A-Future-We-Share-Technology-and-Innovation-Expand-Cooperation-1Satcx4KcRa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China"
+          "titulo": "A Future We Share | China Singapore Team Up to Battle Gastric Cancer",
+          "entradilla": "New progress has been made in early gastric cancer screening.",
+          "enlace": "https://news.cgtn.com/news/2026-11-19/A-Future-We-Share-China-Singapore-Team-Up-to-Battle-Gastric-Cancer-1SaCxvn99n2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China"
         },
         {
-          "titulo": "Xi: China-Russia ties bring stability, certainty to turbulent world",
-          "entradilla": "Chinese President Xi Jinping said Wednesday that China-Russia relations have brought greater stability and certainty to a world of turbulence and transformation.",
-          "enlace": "https://news.cgtn.com/news/2026-11-18/Xi-meets-Putin-in-Shenzhen-1SaoTwj04Ks/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China"
+          "titulo": "Trump arrives at venue for meeting with Xi in Shenzhen",
+          "entradilla": "Trump arrives at venue for meeting with Xi in Shenzhen",
+          "enlace": "https://news.cgtn.com/news/2026-11-19/Trump-arrives-at-venue-for-meeting-with-Xi-in-Shenzhen-1SccMOdOLmM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China"
         },
         {
-          "titulo": "AI takes center stage on first day of APEC CEO Summit",
-          "entradilla": "AI takes center stage on first day of APEC CEO Summit",
-          "enlace": "https://news.cgtn.com/news/2026-11-18/AI-takes-center-stage-on-first-day-of-APEC-CEO-Summit-1SaObU8tqXS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China"
+          "titulo": "Over half a century of diplomatic relations celebrated in Reykjavik",
+          "entradilla": "A concert celebrating the 55th anniversary of China-Iceland diplomatic relations was held on Saturday evening at the Harpa Concert Hall and Conference Centre in Reykjavik. Organized by the Chinese Embassy in Iceland, the concert featured artists from both countries performing together.",
+          "enlace": "https://news.cgtn.com/news/2026-11-19/Over-half-a-century-of-diplomatic-relations-celebrated-in-Reykjavik-1ScpXorYTxm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China"
         },
         {
-          "titulo": "Shenzhen robot carnival draws visitors with 500-plus robots",
-          "entradilla": "Shenzhen robot carnival draws visitors with 500-plus robots",
-          "enlace": "https://news.cgtn.com/news/2026-11-18/Shenzhen-robot-carnival-draws-visitors-with-500-plus-robots-1Sb5I94RI1q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China"
+          "titulo": "John Lee outlines Hong Kong's development priorities",
+          "entradilla": "John Lee outlines Hong Kong's development priorities",
+          "enlace": "https://news.cgtn.com/news/2026-11-19/John-Lee-outlines-Hong-Kong-s-development-priorities-1ScEFFKV0ME/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China"
         },
         {
-          "titulo": "A Family Genealogy Connecting Both Sides of the Strait",
-          "entradilla": "A Family Genealogy Connecting Both Sides of the Strait",
-          "enlace": "https://news.cgtn.com/news/2026-11-18/A-Family-Genealogy-Connecting-Both-Sides-of-the-Strait-1SaPsMdTyRa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China"
+          "titulo": "Exploring the Natural Treasures of the Three Gorges",
+          "entradilla": "Exploring the Natural Treasures of the Three Gorges",
+          "enlace": "https://news.cgtn.com/news/2026-11-19/Exploring-the-Natural-Treasures-of-the-Three-Gorges-1SchOLkmtO0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China"
         },
         {
-          "titulo": "Leaders of China, Russia, US will discuss issues on world peace",
-          "entradilla": "Guo Jiakun, a spokesperson for the Chinese Foreign Ministry, said the heads of state of China, Russia and the US will have an in-depth exchange of views on maintaining world peace during their meeting at the Asia-Pacific Economic Cooperation (APEC) CEO Summit in Shenzhen.",
-          "enlace": "https://news.cgtn.com/news/2026-11-18/Leaders-of-China-Russia-US-will-discuss-issues-on-world-peace-1SaGyw5fqhy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China"
+          "titulo": "Xi Jinping's key remarks at 33rd APEC Economic Leaders' Meeting",
+          "entradilla": "Chinese President Xi Jinping on Thursday addressed the 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting in Shenzhen, south China's Guangdong Province. Here are some highlights from his remarks.",
+          "enlace": "https://news.cgtn.com/news/2026-11-19/Xi-Jinping-s-key-remarks-at-33rd-APEC-Economic-Leaders-Meeting-1Scc6uqDW3S/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China"
         },
         {
-          "titulo": "Xi welcomes Trump at airport in Shenzhen",
-          "entradilla": "Chinese President Xi Jinping on Wednesday welcomed US President Donald Trump at Shenzhen Bao'an International Airport in south China's Guangdong Province.",
-          "enlace": "https://news.cgtn.com/news/2026-11-18/Xi-welcomes-Trump-at-airport-in-Shenzhen--1SaMI3OUejK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China"
+          "titulo": "China names 34 new leading smart factories in second batch",
+          "entradilla": "China names 34 new leading smart factories in second batch",
+          "enlace": "https://news.cgtn.com/news/2026-11-19/China-names-34-new-leading-smart-factories-in-second-batch-1ScDQHOB3Zm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China"
         },
         {
-          "titulo": "Trump arrives at APEC meeting venue in Shenzhen",
-          "entradilla": "Trump arrives at APEC meeting venue in Shenzhen",
-          "enlace": "https://news.cgtn.com/news/2026-11-19/Trump-arrives-at-APEC-meeting-venue-in-Shenzhen-1QnMK4VCcE0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China"
+          "titulo": "How cultural exchanges build a close Asia-Pacific community",
+          "entradilla": "As a group of children brought the traditional Xingshi (lion awakening) performance and Yingge dance to life, Peng Liyuan, wife of Chinese President Xi Jinping, and spouses of the leaders of Asia-Pacific Economic Cooperation (APEC) economies, witnessed how centuries-old art forms from southern China",
+          "enlace": "https://news.cgtn.com/news/2026-11-19/How-cultural-exchanges-build-a-close-Asia-Pacific-community-1ScMKLIdOKs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China"
         },
         {
-          "titulo": "Shenzhen initiative released at APEC 2026",
-          "entradilla": "The Shenzhen initiative of the Asia-Pacific Economic Cooperation (APEC) CEO Summit 2026 was released on Wednesday, calling for deepening an open regional economy, driving inclusive growth through technological innovation, strengthening regional connectivity, and working together to achieve shared pr",
-          "enlace": "https://news.cgtn.com/news/2026-11-18/Shenzhen-initiative-released-at-APEC-2026--1Sb2VwqwHXG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China"
+          "titulo": "John Lee outlines five key takeaways from HK's APEC participation",
+          "entradilla": "John Lee outlines five key takeaways from HK's APEC participation",
+          "enlace": "https://news.cgtn.com/news/2026-11-19/John-Lee-outlines-five-key-takeaways-from-HK-s-APEC-participation-1ScC9zhA6xq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China"
         }
       ],
       "analisis": {
-        "resumen": "- Xi Jinping protagoniza la cobertura de la cumbre de APEC, con sus declaraciones y su brindis de bienvenida.\n- La portada anticipa una reunión entre los dirigentes de China, Rusia y Estados Unidos y recoge la llegada de Trump a Shenzhen.\n- Xi destaca la estabilidad que, según afirma, aportan las relaciones entre China y Rusia.\n- La inteligencia artificial, la innovación y la cooperación económica centran varias noticias de la cumbre.\n- Otros temas son una muestra de robots en Shenzhen y una genealogía familiar que conecta ambos lados del estrecho.",
+        "resumen": "- Xi Jinping presenta su visión del desarrollo de Asia-Pacífico en la reunión de APEC, donde recibe apoyo de los asistentes.\n- Xi y Donald Trump concluyen una reunión en Shenzhen.\n- La portada destaca la transformación de Shenzhen y las prioridades de desarrollo de Hong Kong.\n- China designa 34 nuevas fábricas inteligentes y colabora con Singapur en la detección temprana del cáncer gástrico.\n- También se destacan intercambios culturales en Asia-Pacífico, el aniversario de las relaciones entre China e Islandia y la naturaleza de las Tres Gargantas.",
         "populismo": 15,
-        "motivo_populismo": "Predomina un tono informativo, aunque términos como «histórica» y «mundo turbulento» aportan cierta carga emocional.",
-        "sesgo": "La selección da amplio protagonismo a Xi Jinping y a la perspectiva oficial china sobre la diplomacia y la cooperación internacional. También destaca una visión positiva de la innovación y de los vínculos entre ambos lados del estrecho."
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «el milagro de Shenzhen» y la presentación de la visión de Xi como una «dirección clara» aportan énfasis elogioso; no se aprecia enfrentamiento ni apelación contra las élites.",
+        "sesgo": "La selección y la redacción ofrecen un enfoque favorable a las autoridades chinas y destacan logros, cooperación y desarrollo. No se presentan perspectivas críticas en los textos facilitados."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://www.scmp.com",
       "noticias": [
         {
-          "titulo": "US crackdown on scam networks connected to Chinese-born tycoon Chen Zhi ramps up",
-          "entradilla": "The United States sanctioned three individuals and two companies on Thursday over their alleged links to scam centre compounds in Southeast Asia, in the latest US crackdown on networks connected to Chinese-born tycoon Chen Zhi.\n“Southeast Asia-based scam centres, most of them run by Chinese organise",
-          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3375133/us-crackdown-scam-networks-connected-chinese-born-tycoon-chen-zhi-ramps"
+          "titulo": "Concrete aims or just symbolism? Trump, Xi and Putin talk nuclear risk but controls stall",
+          "entradilla": "The joint pledge to reduce nuclear risk by the United States, China and Russia during their unprecedented three-way summit this week sends a positive signal on stability, analysts say, although they warn that there is little room for optimism without concrete measures.\nNuclear arms control among the",
+          "enlace": "https://www.scmp.com/news/china/military/article/3375268/concrete-aims-or-just-symbolism-trump-xi-and-putin-talk-nuclear-risk-controls-stall"
         },
         {
-          "titulo": "China-centred order or host duties? Experts weigh in on Xi-Trump-Putin seating",
-          "entradilla": "The seating arrangement at Thursday’s historic trilateral summit in Shenzhen sparked debate among former US officials and analysts over whether the optics reflected standard host protocol or a deliberate bid by China to place itself at the centre of the discussions.\n“A stunning image of a China-cent",
-          "enlace": "https://www.scmp.com/news/china/article/3375131/china-centred-order-or-host-duties-experts-weigh-xi-trump-putin-seating"
+          "titulo": "The real ‘fifth force’: how quantum statistics shapes our world in profound ways",
+          "entradilla": "Modern physics recognises four fundamental forces: gravity, electromagnetism and the weak and strong subnuclear forces. (Professional physicists usually speak of “interactions” rather than “forces”, but here I’ll use the more familiar, more vivid alternative.) Each of these forces plays an important",
+          "enlace": "https://www.scmp.com/news/china/science/article/3375177/real-fifth-force-how-quantum-statistics-shapes-our-world-profound-ways"
         },
         {
-          "titulo": "Xi, Trump and Putin ‘peace declaration’ suggests summit is more than a photo op",
-          "entradilla": "What was teased for weeks as an unprecedented three-way photo opportunity ended up rattling the geopolitical landscape on Thursday with the release of a China-US-Russia joint “peace declaration” outlining areas of cooperation in worldwide energy markets, nuclear non-proliferation and global governan",
-          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3375130/xi-trump-and-putin-peace-declaration-suggests-summit-more-photo-op"
+          "titulo": "How Beijing’s South China Sea stance benefits from a rare joint warning to the ICC",
+          "entradilla": "A rare consensus reached by China, Russia and the US that challenges the authority of international judicial bodies matters for Beijing’s rejection of a 2016 arbitration ruling on the South China Sea, according to analysts.\nThe joint declaration issued after the unprecedented trilateral summit betwe",
+          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3375277/how-beijings-south-china-sea-stance-benefits-rare-joint-warning-icc"
         },
         {
-          "titulo": "US acts against Chinese telecoms firms hours after Trump-Xi meeting",
-          "entradilla": "The United States on Thursday banned Chinese telecoms operators from directly accessing US phone numbers on national security grounds, just hours after President Donald Trump held talks with Chinese leader Xi Jinping in Shenzhen.\nThe Federal Communications Commission (FCC) voted to bar China Mobile,",
-          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3375128/fcc-votes-ban-chinese-telecoms-direct-access-us-phone-numbers"
+          "titulo": "US and China hold maritime security talks in parallel with Xi-Trump meetings",
+          "entradilla": "China and the United States discussed maritime security this week in talks in Shanghai that ran in parallel to the summit between Presidents Xi Jinping and Donald Trump.\nRepresentatives from the People’s Liberation Army Navy hosted officials from US Pacific Command, the Pacific Fleet and Air Force, ",
+          "enlace": "https://www.scmp.com/news/china/military/article/3375274/us-and-china-hold-maritime-security-talks-parallel-trump-xi-meetings"
         },
         {
-          "titulo": "Nuclear arms, energy supplies - but no Kim: the main takeaways from a historic Apec summit",
-          "entradilla": "Thursday’s Asia-Pacific Economic Cooperation (Apec) summit in Shenzhen saw unprecedented three-way talks between Xi Jinping, Donald Trump and Vladimir Putin as well as separate bilateral meetings between the presidents.\nHere are some of the key events from this important day of China diplomacy.\nNucl",
-          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3375124/nuclear-arms-energy-supplies-no-kim-main-takeaways-historic-apec-summit"
+          "titulo": "China didn’t just host an Apec summit. It ran a year-long campaign",
+          "entradilla": "The image everyone will remember from Shenzhen is three men in one frame – Chinese President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin, with Xi at the centre. But the story is not the smiling photos, or even the week. It is the 11 months that produced it. Beijing did",
+          "enlace": "https://www.scmp.com/opinion/china-opinion/article/3375119/china-didnt-just-host-apec-summit-it-ran-year-long-campaign"
         },
         {
-          "titulo": "China, Russia and US at Apec: 3 presidents, 3 nuclear powers and 1 historic precedent",
-          "entradilla": "When the leaders of the world’s three biggest nuclear powers sat down for talks in the southern Chinese city of Shenzhen on Thursday, they not only made history, they were likely setting a precedent.\nThe presidents of China, Russia and the United States – countries that were once also wartime allies",
-          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3375114/china-russia-and-us-3-presidents-3-nuclear-powers-and-1-historic-precedent"
+          "titulo": "Xi presses Trump to do ‘the right thing’ on Taiwan. Where does that leave US arms sales?",
+          "entradilla": "Chinese President Xi Jinping urged visiting US President Donald Trump to do “the right thing” on Taiwan this week – a remark experts said suggested a push for further restrictions on US arms sales to the island.\n“The US must keep doing the right thing to avoid major setbacks in China-US relations,” ",
+          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3375260/xi-presses-trump-do-right-thing-taiwan-where-does-leave-us-arms-sales"
         },
         {
-          "titulo": "Power plays, verbal displays, Xi-Trump-Putin talk: historic Apec summit explained",
-          "entradilla": "We have put together the top 12 stories from our coverage of the 2026 Apec summit held in Shenzhen, China. If you would like to see more of our reporting, please consider subscribing.\n1. China, Russia and US: 3 presidents, 3 nuclear powers and 1 historic precedent\nWhen Chinese President Xi Jinping, ",
-          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3375122/power-plays-verbal-displays-xi-trump-putin-talk-historic-apec-summit-explained"
+          "titulo": "It’s just a song: Philippine leader Marcos laughs off debate over Apec welcome track Anak",
+          "entradilla": "Philippine President Ferdinand Marcos Jnr has downplayed Beijing’s choice of music to greet him at the Apec summit, saying the debate about possible hidden meanings was overblown.\nA Chinese orchestra played the classic Philippine song “Anak”, which means child, when the Philippine presidential coupl",
+          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3375258/its-just-song-philippine-leader-laughs-debate-over-apec-welcome-track-anak"
         },
         {
-          "titulo": "Asia watches from the outside waiting to see if Xi-Trump-Putin talks bear fruit",
-          "entradilla": "When the leaders of China, the United States and Russia sat down in Shenzhen, the rest of Asia watched with a mix of cautious optimism and wary anticipation – knowing that any deal struck behind closed doors might redraw the regional balance of power.\nThe historic meeting between Xi Jinping, Donald ",
-          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3375116/asia-watches-outside-waiting-see-if-xi-trump-putin-talks-bear-fruit"
+          "titulo": "Mexican leader Sheinbaum’s 21-hour economy-class journey draws praise in China",
+          "entradilla": "Mexican President Claudia Sheinbaum’s journey in economy class from Mexico City to Shenzhen for the Asia-Pacific Economic Cooperation summit has gone viral on Chinese social media.\nWhile most world leaders travelled to the southern Chinese city on chartered airliners or government aircraft, Sheinbau",
+          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3375244/mexican-leader-sheinbaums-21-hour-economy-class-journey-draws-praise-china"
         },
         {
-          "titulo": "Handshakes, hugs and subtle power plays: decoding the Xi-Trump-Putin dynamic in Shenzhen",
-          "entradilla": "After weeks of intense speculation, this year’s Asia-Pacific Economic Cooperation (Apec) summit in Shenzhen delivered an unscripted diplomatic spectacle – where every lingering handshake, pat on the back and side-by-side stride carried as much weight as the closed-door talks.\nThe tone was set before",
-          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3375112/handshakes-hugs-and-subtle-power-plays-decoding-xi-trump-putin-dynamic-shenzhen"
+          "titulo": "China-US-Russia talks, economy concerns, Auto Guangzhou",
+          "entradilla": "An unprecedented trilateral meeting between the leaders of China, the United States and Russia produced a pledge “to increase the production and supply of refined petroleum products for the benefit of all nations”. Turning that into a reality is likely to prove a challenge.\nThe pledge should carry w",
+          "enlace": "https://www.scmp.com/plus/economy/china-economy/article/3375227/china-us-russia-talks-economy-concerns-auto-guangzhou"
         },
         {
-          "titulo": "Japanese PM Takaichi tries to break ice with Xi by thanking him for hosting Apec summit",
-          "entradilla": "Japanese Prime Minister Sanae Takaichi thanked Chinese President Xi Jinping for inviting her to the Apec summit and congratulated him on successfully hosting the event on Thursday.\nSpeaking at a press conference at the end of her visit to Shenzhen, Takaichi described her brief interactions with the ",
-          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3375103/japanese-pm-takaichi-tries-break-ice-xi-thanking-him-hosting-apec-summit"
+          "titulo": "The subtle symbolism behind the silk scarves worn by the Apec leaders at Shenzhen summit",
+          "entradilla": "When Apec leaders assembled in Shenzhen on Thursday for their group photo, they kept up one of the bloc’s traditions by donning traditional garb from the host country.\nThis time, rather than the more elaborate outfits worn at some previous summits – including the “new Chinese-style” jackets worn the",
+          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3375195/subtle-symbolism-behind-silk-scarves-worn-apec-leaders-shenzhen-summit"
         },
         {
-          "titulo": "Apec sartorial diplomacy: first ladies Peng Liyuan, Ngo Phuong Ly and Kim Hea Kyung shine",
-          "entradilla": "When Vietnam’s first lady Ngo Phuong Ly shook hands with China’s Peng Liyuan in the receiving line at Wednesday night’s Apec welcome banquet in Shenzhen, Peng seemed impressed by her guest’s outfit.\nAfter posing for photographs, the two appeared to exchange a few words about the traditional black-an",
-          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3375087/apec-sartorial-diplomacy-first-ladies-peng-liyuan-ngo-phuong-ly-and-kim-hea-kyung-shine"
+          "titulo": "Xi tells Southeast Asian leaders deeper AI cooperation is needed",
+          "entradilla": "Chinese President Xi Jinping on Friday urged Southeast Asian leaders to deepen cooperation on AI, days after US President Donald Trump struck deals in the region amid an intensifying technology race between the two powers.\nIn talks with Singaporean Prime Minister Lawrence Wong on Friday, Xi said the",
+          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3375196/xi-urges-china-singapore-innovation-partnership-talks-pm-lawrence-wong"
         },
         {
-          "titulo": "Presidents of Mexico, Peru enchanted by Chinese tech advances in musical instruments",
-          "entradilla": "Two Latin American presidents have shown their appreciation for tech advancements in musical instruments on display during the Apec summit in Shenzhen.\nMexican President Claudia Sheinbaum was captured playing a traditional Chinese folk song, “Jasmine Flower”, using a stringless guitar ahead of the w",
-          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3375081/presidents-mexico-peru-enchanted-chinese-tech-advances-musical-instruments"
+          "titulo": "11-second handshake: Takaichi adopts more proactive approach with Xi at Apec, experts say",
+          "entradilla": "Exchanges between top Chinese and Japanese leaders show Prime Minister Sanae Takaichi adopting a far more proactive approach to assert control and seek direct communication, according to body language experts.\nOver the past two days, the Apec gala in Shenzhen has been the scene of rare in-person, hi",
+          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3375179/11-second-handshake-takaichi-adopts-more-proactive-approach-xi-apec-say-experts"
         }
       ],
       "analisis": {
-        "resumen": "- La cumbre de APEC en Shenzhen reúne a Xi Jinping, Donald Trump y Vladímir Putin, que emiten una declaración conjunta de paz.\n- Varios titulares examinan los gestos, la disposición de los líderes y las posibles consecuencias de sus conversaciones para Asia.\n- Estados Unidos adopta medidas contra redes de estafas vinculadas a Chen Zhi y restringe el acceso de operadoras chinas a números telefónicos estadounidenses.\n- La primera ministra japonesa agradece a Xi la organización de la cumbre tras sus breves encuentros.\n- Otras noticias destacan la vestimenta de las primeras damas y el interés de los presidentes de México y Perú por instrumentos musicales con tecnología china.",
-        "populismo": 24,
-        "motivo_populismo": "Los titulares usan expresiones enfáticas como «histórico», «juegos de poder» y «encantados», pero no apelan al pueblo contra las élites ni recurren a descalificaciones.",
-        "sesgo": "La portada se centra en China como anfitriona y en la dimensión diplomática y simbólica de la cumbre, con atención a la imagen de sus líderes. Combina noticias sobre cooperación y aspectos culturales con otras sobre medidas estadounidenses contra intereses vinculados a China."
+        "resumen": "- La cumbre entre China, Estados Unidos y Rusia deja compromisos sobre riesgo nuclear y suministro de petróleo, con dudas sobre su aplicación.\n- China y Estados Unidos celebran conversaciones de seguridad marítima, mientras Xi aborda con Trump la cuestión de Taiwán y la venta de armas.\n- Analistas examinan las implicaciones para Pekín de una advertencia conjunta sobre la autoridad de organismos judiciales internacionales.\n- La portada repasa la diplomacia de la cumbre de Apec, la cooperación en inteligencia artificial y varios gestos y símbolos de los líderes.\n- Un artículo explica el papel de la estadística cuántica en la física.",
+        "populismo": 15,
+        "motivo_populismo": "Predomina un tono informativo y analítico, aunque expresiones como «la verdadera quinta fuerza» y la atención a gestos y elementos virales buscan atraer interés.",
+        "sesgo": "La selección se centra en la diplomacia china y en cómo los acuerdos y encuentros afectan a Pekín. También presta atención a la imagen y el simbolismo de la cumbre, sin que se aprecien descalificaciones partidistas explícitas."
       }
     }
   ]
