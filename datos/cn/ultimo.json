@@ -1,39 +1,39 @@
 {
   "pais": "China",
   "fecha": "2026-11-20",
-  "turno": 8,
-  "generado": "20/11/2026 15:55",
+  "turno": 18,
+  "generado": "20/11/2026 23:30",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "Se repiten la diplomacia china y las relaciones con Estados Unidos, con especial atención a Xi Jinping y a la cooperación regional. También aparecen el desarrollo tecnológico y la protección de la naturaleza. Xinhua destaca en solitario por sus informaciones y consejos sobre la COVID-19.",
-    "crispacion": 35,
-    "motivo_crispacion": "La tensión se concentra en las diferencias entre China y Estados Unidos sobre Taiwán, la tecnología y el riesgo nuclear, así como en la disputa marítima entre China y Filipinas. Global Times también recoge protestas en Estados Unidos contra los ataques a Irán. Estas noticias se equilibran con otras sobre cooperación diplomática, medioambiente, salud y avances tecnológicos. Las portadas facilitadas contienen referencias a fechas distintas, por lo que la valoración corresponde al conjunto y no necesariamente a un mismo día."
+    "temas": "Se repiten las relaciones diplomáticas de China, especialmente con Estados Unidos, y la cooperación económica en Asia-Pacífico. También aparecen la protección ambiental, la tecnología y la salud. Xinhua destaca especialmente la información sobre la covid-19 y la vacunación.",
+    "crispacion": 40,
+    "motivo_crispacion": "La tensión procede de las acusaciones estadounidenses contra China por los precursores de metanfetamina y de las diferencias sobre Taiwán y la seguridad regional. Global Times recoge críticas a una iniciativa de Filipinas y Japón, además de protestas en Estados Unidos contra los ataques a Irán. Las reuniones diplomáticas y las noticias sobre medio ambiente, salud y tecnología aportan un tono más tranquilo. Las portadas incluyen referencias a fechas distintas, por lo que la valoración no describe necesariamente un solo día."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "La protección ambiental y la seguridad alimentaria ocupan las portadas, y me parece justo ponerlas en el centro. Pero una modernización ecológica no se mide solo por sus planes: debe garantizar agua limpia, servicios públicos y condiciones dignas para quienes trabajan la tierra. Si los beneficios quedan en manos del gran capital mientras las comunidades soportan los costes, la promesa de prosperidad compartida se vacía.\n\nLa inspección de la ley de ahorro energético y el próximo censo agrícola pueden ser herramientas útiles, siempre que sus resultados sirvan a la población y no solo a los indicadores oficiales. Yo defiendo una planificación democrática, con participación efectiva de trabajadores y campesinos, y una propiedad colectiva capaz de orientar la producción hacia las necesidades comunes. Proteger la naturaleza también exige decidir colectivamente quién produce, para quién y a qué precio social."
+      "texto": "Veo en las noticias ambientales una pregunta de clase: ¿quién disfruta del desarrollo y quién paga sus costes? La mejora del entorno rural y la protección de ríos y montañas no son lujos, sino condiciones de vida para quienes trabajan la tierra y habitan esos territorios. Para que no queden en promesas, defiendo inversión pública, control democrático y participación de las comunidades.\n\nLa atención a las cosechas y el próximo censo agrícola ofrecen una oportunidad para orientar los recursos hacia las necesidades campesinas, no hacia la rentabilidad del gran capital. Yo apostaría por servicios públicos rurales fuertes y formas de propiedad colectiva que den a los trabajadores poder sobre la producción. Proteger la naturaleza y garantizar alimentos deben ser tareas comunes, no negocios subordinados al beneficio privado."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "El Día Mundial del Medio Ambiente nos recuerda que proteger ríos y montañas es inseparable de cuidar la vida cotidiana. Pero desconfío de una ecología presentada como visión de los dirigentes: quienes habitan y trabajan la tierra deben poder decidir cómo se protege, con acceso a la información y recursos para organizarse. La autogestión no elimina la necesidad de coordinarse; la hace nacer del acuerdo entre comunidades, no de la obediencia a un partido.\n\nTambién miro con cautela la promesa de reducir el riesgo nuclear si no viene acompañada de medidas concretas. La seguridad no puede quedar encerrada en reuniones entre Estados que conservan el poder de poner en peligro a todos. Frente a esa jerarquía, defiendo el apoyo mutuo y la libertad individual y colectiva: ningún gobierno debería reclamar para sí la voz de quienes sufrirían las consecuencias."
+      "texto": "Hoy leo promesas de protección ambiental y de seguridad alimentaria formuladas desde arriba. No dudo de que cuidar ríos, campos y cosechas sea urgente; dudo de que concentrar las decisiones en el Estado y el partido sea la mejor manera de hacerlo. Quienes viven y trabajan en esos territorios necesitan poder decidir, acceder a la información y organizarse sin subordinación a una jerarquía.\n\nEl anuncio de un nuevo censo agrícola puede aportar conocimientos útiles, pero su valor dependerá también de que las comunidades puedan utilizarlos para sus propios fines. Yo defendería cooperativas autogestionadas, apoyo mutuo entre pueblos y deliberación libre sobre el uso de la tierra. La protección de la naturaleza no debería ser una consigna dictada desde un despacho, sino una responsabilidad compartida por personas libres."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "La protección del medio ambiente y la seguridad alimentaria merecen atención, pero desconfío de que las consignas y los objetivos centrales basten para garantizarlas. Yo prefiero reglas claras que obliguen a quien contamina a responder por los daños, protejan los derechos de propiedad y permitan a agricultores y empresas encontrar soluciones. La responsabilidad personal también cuenta: conservar los recursos no es tarea exclusiva del gobierno.\n\nMe preocupa, además, el plan estadounidense de excluir a laboratorios chinos de pruebas electrónicas. Las barreras comerciales pueden encarecer productos y perjudicar a consumidores y empresas de ambos países. Defiendo un comercio abierto, con controles justificados por riesgos concretos, no por nacionalidad. Un Estado limitado, impuestos bajos y competencia dejan más recursos y libertad para innovar, producir y cuidar el entorno sin convertir cada desafío en una orden administrativa."
+      "texto": "La protección del medio ambiente merece seriedad, no solo grandes planes. Yo quiero ríos limpios y comunidades prósperas, pero también reglas claras que responsabilicen a quien contamina, protejan los derechos de propiedad y permitan a agricultores y empresas encontrar soluciones. Un Estado limitado no es un Estado indiferente: debe hacer cumplir la ley sin sustituir la iniciativa de quienes conocen el terreno.\n\nTambién me preocupa el plan estadounidense de excluir a laboratorios chinos de pruebas electrónicas. Levantar barreras puede encarecer las cadenas de suministro y castigar a consumidores y empresas; la seguridad exige criterios concretos, no restricciones indiscriminadas. Prefiero el comercio abierto, impuestos bajos y libertad para invertir e innovar. La prosperidad sostenible no nace de dirigir cada decisión desde arriba, sino de personas libres que asumen las consecuencias de sus actos."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Veo en estas portadas una lección clara: una nación que no protege su alimentación, su tecnología y su defensa acaba dependiendo de decisiones ajenas. La atención a las cosechas y a las instalaciones militares responde a prioridades que comparto. También respaldo el cuidado del campo y de los oficios tradicionales: una patria no es solo un mercado, sino una herencia que debemos transmitir.\n\nPero no confundo soberanía con confianza ciega en las élites. La insistencia de la prensa oficial en celebrar la visión de los dirigentes deja una pregunta indispensable: ¿qué resultados concretos obtienen las familias? Del mismo modo, el compromiso de China, Estados Unidos y Rusia para reducir el riesgo nuclear merece apoyo, pero sin medidas verificables puede quedarse en una fotografía. Yo prefiero cooperación entre naciones fuertes a promesas solemnes sin responsabilidad."
+      "texto": "Veo en las noticias una verdad que los discursos internacionales suelen olvidar: una nación que no puede alimentar a su pueblo ni proteger su territorio depende de la voluntad ajena. Por eso respaldo la atención a la cosecha y el censo agrícola anunciado por China. Pero contar recursos no basta: la prioridad debe ser preservar las tierras productivas y garantizar que quienes trabajan el campo puedan vivir de él.\n\nTambién creo que defender la patria significa conservar sus paisajes y sus tradiciones, como el oficio del té de Longjing. No quiero que la protección ambiental se reduzca a consignas ni que el patrimonio sea solo un escaparate para visitantes. Exijo a las élites políticas y mediáticas menos exaltación del poder y más resultados comprobables. La seguridad nacional necesita instituciones eficaces, no obediencia ciega."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Celebro que China, Estados Unidos y Rusia hablen de reducir el riesgo nuclear, pero una declaración no sustituye a los acuerdos verificables. Si los líderes quieren que el diálogo genere confianza, deben traducirlo en medidas concretas y mecanismos de seguimiento. También veo una señal alentadora en las conversaciones de seguridad marítima entre China y Estados Unidos: mantener canales abiertos es especialmente importante cuando existen desacuerdos profundos.\n\nMe preocupa, en cambio, el cuestionamiento conjunto de la autoridad de los órganos judiciales internacionales. Las grandes potencias no deberían tratar las reglas como instrumentos útiles solo cuando les convienen. Yo prefiero una diplomacia paciente, apoyada en instituciones y compromisos verificables. El consenso no exige ocultar las diferencias; exige gestionarlas sin debilitar las normas que protegen también a los países menos poderosos."
+      "texto": "Veo razones para valorar el diálogo entre China y Estados Unidos, tanto en seguridad marítima como en la reducción del riesgo nuclear. Pero las declaraciones de buena voluntad no bastan: prefiero acuerdos verificables y canales permanentes que permitan gestionar las diferencias antes de que se conviertan en crisis. La estabilidad internacional exige también respetar las instituciones jurídicas, no debilitarlas cuando sus decisiones resultan incómodas.\n\nEn el terreno ambiental, celebro que la protección de la naturaleza ocupe un lugar destacado y que se revise la aplicación de la ley de ahorro energético. Para que esas prioridades se traduzcan en resultados, hacen falta información pública fiable, supervisión efectiva y participación de las comunidades afectadas. Un mercado dinámico puede impulsar la innovación, pero necesita reglas claras y protección social para que el coste de la transición no recaiga injustamente sobre las familias."
     }
   ],
   "periodicos": [
@@ -103,10 +103,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- El Día Mundial del Medio Ambiente centra varias noticias sobre protección ecológica y declaraciones de Xi Jinping.\n- La producción de cereales y el cuarto censo agrícola nacional ocupan un lugar destacado.\n- Se anuncian normas sobre instalaciones militares y procedimientos disciplinarios del Partido Comunista.\n- Han Zheng recibe a una delegación estadounidense de diálogo no oficial; también se repasa la agenda de Xi en mayo.\n- La portada aborda los exámenes de acceso a la universidad, el ahorro energético y la tradición del té Longjing.",
-        "populismo": 20,
-        "motivo_populismo": "Los titulares son mayormente institucionales, aunque emplean expresiones emotivas como «línea de vida» para la equidad y preguntan cómo un té «conquista el corazón del mundo», sin plantear un enfrentamiento entre pueblo y élites.",
-        "sesgo": "La selección y la redacción privilegian la perspectiva de las autoridades y presentan de forma favorable el liderazgo de Xi Jinping y las iniciativas oficiales. Apenas aparecen voces críticas o enfoques alternativos."
+        "resumen": "- El Día Mundial del Medio Ambiente centra varias noticias sobre protección ecológica y actuaciones de Xi Jinping, incluida una iniciativa rural en Zhejiang.\n- Liu Guozhong supervisa la cosecha y la siembra en Anhui, mientras el Consejo de Estado anuncia un censo agrícola para 2026.\n- Han Zheng se reúne con una delegación estadounidense de diálogo no oficial; otra pieza repasa la actividad de Xi en mayo.\n- Se destacan medidas sobre instalaciones militares, disciplina del Partido, ahorro energético y organización de los exámenes de acceso a la universidad.\n- Una pieza cultural presenta la elaboración tradicional del té Longjing del Lago del Oeste.",
+        "populismo": 15,
+        "motivo_populismo": "Predomina un tono institucional, aunque algunos titulares usan expresiones emotivas como «conmover el corazón del mundo» y «línea de vida»; no se aprecia un enfrentamiento entre pueblo y élites.",
+        "sesgo": "La selección y la redacción priorizan la perspectiva de las autoridades y presentan de forma favorable el liderazgo de Xi Jinping y las iniciativas oficiales. No se incluyen voces críticas en los textos aportados."
       }
     },
     {
@@ -175,10 +175,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- Optimización de las medidas contra la COVID-19 y reapertura de comercios.\n- Plan para una segunda dosis de refuerzo y recomendaciones de vacunación y prevención.\n- Expertos responden sobre los datos de infecciones asintomáticas y la variante BQ.1.\n- Actividades de Xi Jinping sobre biodiversidad y diplomacia, y reforma de la supervisión financiera.\n- Entrenamiento de astronautas y previsión de una nueva ola de frío.",
-        "populismo": 15,
-        "motivo_populismo": "Los titulares son mayoritariamente informativos, aunque algunos apelan a la emoción, como los años de preparación de los astronautas; el texto sobre BQ.1 reproduce expresiones alarmistas atribuidas a rumores en internet.",
-        "sesgo": "La selección prioriza las políticas públicas, las declaraciones oficiales y las explicaciones de expertos vinculados a instituciones. También presenta el desarrollo de China en términos positivos, sin incluir perspectivas alternativas en los textos facilitados."
+        "resumen": "- Se informa de la reapertura comercial y de un plan para una segunda dosis de refuerzo contra la COVID-19.\n- Consejos de prevención para mayores y pacientes cardiovasculares, y explicaciones sobre los datos de contagios y la variante BQ.1.\n- Se destacan actividades diplomáticas de Xi Jinping y propuestas para reforzar la supervisión financiera.\n- Un vídeo presenta los cambios en China y otra noticia repasa la preparación de tres astronautas.\n- Se prevé una nueva ola de frío, con viento y descenso de temperaturas en gran parte del país.",
+        "populismo": 10,
+        "motivo_populismo": "Los titulares son mayoritariamente informativos; algunos recurren a la curiosidad, como la pregunta sobre los años de preparación de los astronautas, pero no plantean un enfrentamiento ni descalifican a nadie.",
+        "sesgo": "La selección da protagonismo a las decisiones oficiales, las recomendaciones sanitarias y las actividades de Xi Jinping. El enfoque es favorable a la acción institucional y no presenta perspectivas críticas en los textos facilitados."
       }
     },
     {
@@ -247,10 +247,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- Analistas advierten de que un plan de la FCC estadounidense sobre laboratorios chinos podría alterar las cadenas de suministro y elevar costes.\n- Una conmemoración sudafricana destaca la dignidad y la gobernanza inclusiva tras el apartheid.\n- China anuncia nuevos horarios ferroviarios desde el 1 de julio, con alta velocidad entre Pekín y Urumqi.\n- Varios titulares abordan disputas regionales, el santuario de Yasukuni y la visión de China sobre el multilateralismo.\n- Otras noticias tratan sobre protestas y un tiroteo en Estados Unidos, una misión lunar china, visitas desde Taiwán, educación sexual e inteligencia artificial.",
-        "populismo": 38,
-        "motivo_populismo": "Aunque muchos titulares son informativos, expresiones como «propósitos ocultos», «narrativa invertida» y «más caos» introducen confrontación y alarma.",
-        "sesgo": "La selección da protagonismo a perspectivas y fuentes chinas, mientras presenta algunas actuaciones de Estados Unidos, Japón y Filipinas en términos críticos. También destaca avances y propuestas internas de China."
+        "resumen": "- Analistas advierten de posibles costes y alteraciones en las cadenas de suministro por un plan estadounidense sobre laboratorios chinos.\n- Un experto chino critica las conversaciones entre Japón y Filipinas; otro titular cuestiona el relato del santuario de Yasukuni.\n- La portada destaca un acto por la libertad en Sudáfrica y el interés por China en el Foro Global de Bakú.\n- Se informa de un tiroteo en Washington y de protestas en EE. UU. contra los ataques a Irán.\n- En China se anuncian cambios ferroviarios y una misión lunar, y se abordan las visitas desde Taiwán, la educación sexual y la inteligencia artificial.",
+        "populismo": 35,
+        "motivo_populismo": "Aunque varios titulares son informativos, expresiones como «propósitos ocultos», «más caos» y la descalificación del santuario de Yasukuni introducen un tono alarmista y confrontativo.",
+        "sesgo": "La selección presenta de forma favorable el desarrollo y el papel internacional de China, mientras destaca críticas a decisiones o actuaciones de Estados Unidos, Japón y Filipinas. Predominan las voces de expertos y representantes chinos en varios asuntos controvertidos."
       }
     },
     {
@@ -319,16 +319,41 @@
         }
       ],
       "analisis": {
-        "resumen": "- Xi Jinping presenta su visión del desarrollo de Asia-Pacífico en la reunión de APEC, donde recibe apoyo de los asistentes.\n- Xi y Donald Trump concluyen una reunión en Shenzhen.\n- La portada destaca la transformación de Shenzhen y las prioridades de desarrollo de Hong Kong.\n- China designa 34 nuevas fábricas inteligentes y colabora con Singapur en la detección temprana del cáncer gástrico.\n- También se destacan intercambios culturales en Asia-Pacífico, el aniversario de las relaciones entre China e Islandia y la naturaleza de las Tres Gargantas.",
+        "resumen": "- Xi Jinping presenta su visión para Asia-Pacífico en la reunión de APEC, donde recibe apoyo de asistentes.\n- Xi y Donald Trump concluyen una reunión en Shenzhen, ciudad destacada también por su desarrollo tecnológico.\n- John Lee expone prioridades de desarrollo de Hong Kong y conclusiones de su participación en APEC.\n- China y Singapur avanzan en la detección temprana del cáncer gástrico; China designa 34 nuevas fábricas inteligentes.\n- La portada recoge intercambios culturales en Asia-Pacífico, un concierto por las relaciones entre China e Islandia y los atractivos naturales de las Tres Gargantas.",
         "populismo": 15,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «el milagro de Shenzhen» y la presentación de la visión de Xi como una «dirección clara» aportan énfasis elogioso; no se aprecia enfrentamiento ni apelación contra las élites.",
-        "sesgo": "La selección y la redacción ofrecen un enfoque favorable a las autoridades chinas y destacan logros, cooperación y desarrollo. No se presentan perspectivas críticas en los textos facilitados."
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «el milagro de Shenzhen» y la visión que ofrece «una dirección clara» son celebratorias y simplificadoras.",
+        "sesgo": "La selección y la redacción destacan favorablemente el liderazgo de Xi, la cooperación internacional y los avances económicos y tecnológicos de China. Apenas se incluyen perspectivas críticas o discrepantes."
       }
     },
     {
       "nombre": "South China Morning Post",
       "web": "https://www.scmp.com",
       "noticias": [
+        {
+          "titulo": "Princeton PhD student from China detained by ICE after academic conference",
+          "entradilla": "A Chinese PhD student at Princeton University, New Jersey, was detained by US Immigration and Customs Enforcement (ICE) on Thursday after presenting her research at a neuroscience conference in Washington, the South China Morning Post has confirmed.\nEva Yi Xie, a third-year neuroscience student, was",
+          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3375301/princeton-phd-student-china-detained-ice-after-academic-conference"
+        },
+        {
+          "titulo": "Can China’s top-down military adapt to the speed of AI and drone warfare?",
+          "entradilla": "Drawing on lessons from the Ukraine war, Chinese military commentators are calling for frontline commanders to have greater freedom to make battlefield decisions without waiting for orders from above, as drones and AI accelerate the pace of combat.\nSince July, several commentaries in the PLA Daily, ",
+          "enlace": "https://www.scmp.com/news/china/military/article/3375250/can-chinas-top-down-military-adapt-speed-ai-and-drone-warfare"
+        },
+        {
+          "titulo": "US embassy steps up attack on China over cartel meth as Mexico signs deals with Beijing",
+          "entradilla": "The US embassy in Mexico accused China on Thursday of supplying Mexican cartels with chemicals used to make methamphetamine, on the same day President Claudia Sheinbaum wrapped up a visit to Shenzhen during which she signed cooperation agreements with Beijing covering energy, science and the environ",
+          "enlace": "https://www.scmp.com/news/us/article/3375300/us-embassy-steps-attack-china-over-cartel-meth-mexico-signs-deals-beijing"
+        },
+        {
+          "titulo": "Trump replaces US cyber chief after outages hit flights, banks and NSA",
+          "entradilla": "US President Donald Trump has tapped the Pentagon’s chief information officer as his new cyber chief following a series of major outages that disrupted air travel, banking and classified communications, saying on Friday that her predecessor was not “good enough”.\nKirsten Davies will serve as acting ",
+          "enlace": "https://www.scmp.com/news/us/politics/article/3375298/trump-replaces-us-cyber-chief-after-outages-hit-flights-banks-and-nsa"
+        },
+        {
+          "titulo": "Trump says China agreed to trilateral despite reluctance, notes nuclear gap",
+          "entradilla": "US President Donald Trump said on Friday that China had agreed to hold trilateral nuclear risk-reduction talks for the first time despite earlier reluctance, as he acknowledged the wide gap between Beijing’s arsenal and the much larger stockpiles held by the US and Russia.\n“They didn’t want to do th",
+          "enlace": "https://www.scmp.com/news/us/diplomacy/article/3375296/trump-says-china-agreed-trilateral-despite-reluctance-notes-nuclear-gap"
+        },
         {
           "titulo": "Concrete aims or just symbolism? Trump, Xi and Putin talk nuclear risk but controls stall",
           "entradilla": "The joint pledge to reduce nuclear risk by the United States, China and Russia during their unprecedented three-way summit this week sends a positive signal on stability, analysts say, although they warn that there is little room for optimism without concrete measures.\nNuclear arms control among the",
@@ -363,38 +388,13 @@
           "titulo": "It’s just a song: Philippine leader Marcos laughs off debate over Apec welcome track Anak",
           "entradilla": "Philippine President Ferdinand Marcos Jnr has downplayed Beijing’s choice of music to greet him at the Apec summit, saying the debate about possible hidden meanings was overblown.\nA Chinese orchestra played the classic Philippine song “Anak”, which means child, when the Philippine presidential coupl",
           "enlace": "https://www.scmp.com/news/china/diplomacy/article/3375258/its-just-song-philippine-leader-laughs-debate-over-apec-welcome-track-anak"
-        },
-        {
-          "titulo": "Mexican leader Sheinbaum’s 21-hour economy-class journey draws praise in China",
-          "entradilla": "Mexican President Claudia Sheinbaum’s journey in economy class from Mexico City to Shenzhen for the Asia-Pacific Economic Cooperation summit has gone viral on Chinese social media.\nWhile most world leaders travelled to the southern Chinese city on chartered airliners or government aircraft, Sheinbau",
-          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3375244/mexican-leader-sheinbaums-21-hour-economy-class-journey-draws-praise-china"
-        },
-        {
-          "titulo": "China-US-Russia talks, economy concerns, Auto Guangzhou",
-          "entradilla": "An unprecedented trilateral meeting between the leaders of China, the United States and Russia produced a pledge “to increase the production and supply of refined petroleum products for the benefit of all nations”. Turning that into a reality is likely to prove a challenge.\nThe pledge should carry w",
-          "enlace": "https://www.scmp.com/plus/economy/china-economy/article/3375227/china-us-russia-talks-economy-concerns-auto-guangzhou"
-        },
-        {
-          "titulo": "The subtle symbolism behind the silk scarves worn by the Apec leaders at Shenzhen summit",
-          "entradilla": "When Apec leaders assembled in Shenzhen on Thursday for their group photo, they kept up one of the bloc’s traditions by donning traditional garb from the host country.\nThis time, rather than the more elaborate outfits worn at some previous summits – including the “new Chinese-style” jackets worn the",
-          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3375195/subtle-symbolism-behind-silk-scarves-worn-apec-leaders-shenzhen-summit"
-        },
-        {
-          "titulo": "Xi tells Southeast Asian leaders deeper AI cooperation is needed",
-          "entradilla": "Chinese President Xi Jinping on Friday urged Southeast Asian leaders to deepen cooperation on AI, days after US President Donald Trump struck deals in the region amid an intensifying technology race between the two powers.\nIn talks with Singaporean Prime Minister Lawrence Wong on Friday, Xi said the",
-          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3375196/xi-urges-china-singapore-innovation-partnership-talks-pm-lawrence-wong"
-        },
-        {
-          "titulo": "11-second handshake: Takaichi adopts more proactive approach with Xi at Apec, experts say",
-          "entradilla": "Exchanges between top Chinese and Japanese leaders show Prime Minister Sanae Takaichi adopting a far more proactive approach to assert control and seek direct communication, according to body language experts.\nOver the past two days, the Apec gala in Shenzhen has been the scene of rare in-person, hi",
-          "enlace": "https://www.scmp.com/news/china/diplomacy/article/3375179/11-second-handshake-takaichi-adopts-more-proactive-approach-xi-apec-say-experts"
         }
       ],
       "analisis": {
-        "resumen": "- La cumbre entre China, Estados Unidos y Rusia deja compromisos sobre riesgo nuclear y suministro de petróleo, con dudas sobre su aplicación.\n- China y Estados Unidos celebran conversaciones de seguridad marítima, mientras Xi aborda con Trump la cuestión de Taiwán y la venta de armas.\n- Analistas examinan las implicaciones para Pekín de una advertencia conjunta sobre la autoridad de organismos judiciales internacionales.\n- La portada repasa la diplomacia de la cumbre de Apec, la cooperación en inteligencia artificial y varios gestos y símbolos de los líderes.\n- Un artículo explica el papel de la estadística cuántica en la física.",
+        "resumen": "- La cumbre entre China, Estados Unidos y Rusia centra la atención en el riesgo nuclear, con dudas sobre las medidas concretas.\n- Las relaciones entre Pekín y Washington abarcan Taiwán, la seguridad marítima y una acusación estadounidense sobre químicos para cárteles mexicanos.\n- Analistas examinan la postura china sobre el mar de China Meridional y la adaptación militar a los drones y la inteligencia artificial.\n- Una doctoranda china de Princeton fue detenida por ICE; Trump sustituyó a su jefe de ciberseguridad tras varias interrupciones.\n- También se abordan la organización china de la cumbre de APEC, la música de bienvenida al presidente filipino y la estadística cuántica.",
         "populismo": 15,
-        "motivo_populismo": "Predomina un tono informativo y analítico, aunque expresiones como «la verdadera quinta fuerza» y la atención a gestos y elementos virales buscan atraer interés.",
-        "sesgo": "La selección se centra en la diplomacia china y en cómo los acuerdos y encuentros afectan a Pekín. También presta atención a la imagen y el simbolismo de la cumbre, sin que se aprecien descalificaciones partidistas explícitas."
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «intensifica el ataque» y preguntas como «¿objetivos concretos o solo simbolismo?» aportan cierta tensión y dramatización.",
+        "sesgo": "La portada privilegia la diplomacia y la seguridad internacional desde el ángulo de las relaciones de China con Estados Unidos. Combina las posiciones oficiales con preguntas y análisis sobre sus posibles consecuencias, sin que se aprecie una alineación partidista clara."
       }
     }
   ]
