@@ -1,39 +1,39 @@
 {
   "pais": "Italia",
-  "fecha": "2026-11-20",
-  "turno": 18,
-  "generado": "20/11/2026 23:30",
+  "fecha": "2026-11-21",
+  "turno": 14,
+  "generado": "21/11/2026 19:41",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "La huelga general y las protestas estudiantiles, con movilizaciones y enfrentamientos en varias ciudades, dominan varias portadas. También se repiten la guerra en Ucrania y las declaraciones de Trump, la inteligencia artificial y el acuerdo entre la UE y el Reino Unido. Solo Corriere della Sera destaca los encuentros de Toti con un empresario y la presunta manipulación de datos de la pandemia en Liguria.",
-    "crispacion": 78,
-    "motivo_crispacion": "La crispación es alta por las protestas contra la política presupuestaria, el rearme y el coste de vida, con enfrentamientos entre manifestantes y policía en varias ciudades. Se mencionan agentes heridos, cargas, gases lacrimógenos y la quema de imágenes de dirigentes políticos. También aportan tensión la guerra en Ucrania, las acusaciones sobre Liguria y el choque entre partidos de la mayoría por medidas fiscales. Noticias como el acuerdo entre la UE y el Reino Unido y las informaciones deportivas ofrecen un contrapunto más tranquilo."
+    "temas": "La muerte de Gianni De Gennaro, la investigación sobre presuntos desvíos en el caso de la matanza de via D’Amelio y las reacciones institucionales dominan cuatro portadas. También se repiten las medidas sobre estudiantes y protestas, el asesinato del dueño de un pub en Turín y algunas noticias deportivas. Solo Corriere della Sera destaca el caso del gobernador ligur Giovanni Toti y sus vínculos con el empresario Spinelli.",
+    "crispacion": 70,
+    "motivo_crispacion": "La muerte de De Gennaro concentra una fuerte tensión por las acusaciones dirigidas a la fiscalía y el debate sobre su investigación por presuntos desvíos. Las propuestas de Hermanos de Italia sobre estudiantes investigados y manifestaciones enfrentan al partido con la oposición. Corriere della Sera recoge además choques dentro de la mayoría de Gobierno y controversias en Liguria. El deporte, los homenajes y las informaciones culturales aportan algunas noticias menos conflictivas."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Hoy veo en las calles una alianza que merece atención: trabajadores, estudiantes y docentes protestan contra la carestía, la falta de inversión educativa y el rearme. Para mí, no son demandas separadas. Revelan una lucha por decidir a qué necesidades se destinan los recursos que producimos entre todos.\n\nMientras las bolsas padecen una semana de fuertes caídas, se nos invita a confiar el futuro al ahorro individual y a los mercados. Yo defiendo lo contrario: educación y pensiones públicas sólidas, financiadas con justicia, y propiedad colectiva de los sectores estratégicos, bajo control democrático de quienes trabajan y de la sociedad. No basta con repartir las pérdidas cuando la especulación falla y dejar las ganancias en manos privadas.\n\nLa protesta debe ser pacífica: su fuerza está en organizar a la mayoría, no en la violencia."
+      "texto": "Veo en la propuesta de suspender las becas a estudiantes investigados por hechos relacionados con protestas una decisión de clase: quien depende de esa ayuda para estudiar podría pagar antes incluso de que se determine su responsabilidad. La presunción de inocencia y el derecho a manifestarse no deberían valer solo para quienes tienen recursos.\n\nTambién me parece significativo que en Trieste un tribunal haya suspendido las restricciones a la asistencia a migrantes. La solidaridad no es un problema de orden público: es una necesidad que las instituciones deben respaldar con servicios públicos suficientes.\n\nFrente a una política que amenaza derechos y deja necesidades básicas a la caridad, defiendo la organización de la clase trabajadora y la propiedad colectiva de los recursos esenciales. No basta con pedir al gran capital que sea generoso: hay que someter las decisiones económicas al control democrático de quienes producen y sostienen la sociedad."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "Veo en la huelga y en las marchas de estudiantes y docentes una respuesta necesaria a la falta de inversión en educación y a la carrera armamentística. No basta con pedir a los partidos que administren mejor nuestras vidas: quienes estudian y trabajan deberían poder decidir directamente sobre sus necesidades, mediante asambleas y organizaciones autogestionadas, sin jefes permanentes ni delegaciones ciegas.\n\nEn Turín, la policía respondió a manifestantes con cañones de agua y gases lacrimógenos. Esa forma de gestionar la protesta muestra por qué desconfío de un Estado que reserva para sí el control de la calle. También rechazo la violencia en las movilizaciones: debilita la libertad que decimos defender. El apoyo mutuo y la acción colectiva no necesitan imponer obediencia; pueden construir una fuerza capaz de sostener tanto la autonomía individual como la libertad compartida."
+      "texto": "Hoy me preocupa que se proponga suspender las becas de estudiantes simplemente investigados por hechos relacionados con protestas. No hace falta esperar una condena para que el miedo a perder los estudios desaliente la participación. Yo no confío en que los partidos, desde arriba, protejan una libertad que pueden restringir cuando les resulta incómoda. Defenderla exige organización autónoma, asambleas abiertas y apoyo material entre quienes estudian y trabajan.\n\nEn Trieste, la suspensión judicial de las prohibiciones de asistencia a migrantes deja ver otra tensión: la solidaridad no debería depender del permiso de la autoridad. Prefiero una sociedad en la que las personas puedan organizar ayuda directamente, sin jerarquías que decidan quién merece recibirla. La libertad individual necesita vínculos colectivos; el apoyo mutuo, a su vez, pierde sentido si se convierte en obediencia."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "Veo en las protestas estudiantiles una inquietud legítima por el futuro. Pero no creo que la respuesta sea entregar más recursos y competencias a un Estado que ya pide demasiado a quienes trabajan y emprenden. Una educación mejor necesita también libertad de elección, pluralidad de proyectos y responsabilidad en el uso del dinero público. Defender el derecho a manifestarse exige, a la vez, respetar la libertad de quienes necesitan circular y rechazar la violencia.\n\nLa disputa por el Superbonus y el impuesto a las bebidas recuerda otro principio: las reglas fiscales deben ser previsibles. Me opongo a la retroactividad y a nuevos impuestos que reducen la capacidad de decisión de familias y empresas. Prefiero impuestos bajos, gasto contenido y mercados abiertos: la prosperidad duradera nace de personas libres que asumen riesgos y responden por sus decisiones, no de privilegios repartidos desde el poder."
+      "texto": "Me preocupa la propuesta de suspender becas a estudiantes solo por estar investigados por hechos relacionados con protestas. Defender la libertad de manifestación no significa tolerar daños: quien los cause debe responder por ellos. Pero una investigación no es una condena, y el Estado no debería convertirla en un castigo anticipado. La presunción de inocencia protege también a quienes nos incomodan.\n\nEn economía, el choque por el Superbonus y el impuesto a las bebidas recuerda por qué defiendo reglas estables e impuestos bajos. Cambiar las condiciones con retroactividad erosiona la confianza necesaria para invertir; añadir gravámenes reduce el margen de familias y empresas para decidir. Prefiero un Estado limitado que respete los compromisos y controle el gasto, en vez de acumular deuda sin atender a quién tendrá que pagarla. La libertad exige responsabilidad, también en las cuentas públicas."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Hoy veo una Italia que necesita recuperar el control de su destino. Las protestas de estudiantes y trabajadores merecen ser escuchadas, pero lanzar botellas y petardos contra la policía no es ejercer un derecho: es poner en peligro la convivencia. La seguridad de las calles debe ser una prioridad, no una concesión negociable.\n\nTambién creo que la expulsión del aspirante yihadista recuerda por qué necesitamos fronteras vigiladas, controles rigurosos y decisiones soberanas sobre quién puede permanecer en nuestro país. Eso no significa juzgar a comunidades enteras, sino exigir el cumplimiento de nuestras leyes. Y mientras las élites discuten sobre acuerdos y equilibrios internacionales, yo quiero una nación capaz de defender sus intereses, sus tradiciones y el futuro de sus jóvenes. La paz en Ucrania importa, pero Italia no debe renunciar a decidir por sí misma."
+      "texto": "No quiero una Italia donde la autoridad del Estado se confunda con el espectáculo de los titulares. La muerte del exjefe de la Policía, investigado por presunto encubrimiento en el caso de la matanza de via D’Amelio, exige respeto y una investigación rigurosa, no sentencias mediáticas. La presunción de inocencia protege a todos; la búsqueda de la verdad también es un deber hacia las víctimas.\n\nDefiendo el orden público y que quienes causen daños durante las ocupaciones respondan por ellos. Pero retirar becas por el mero hecho de estar investigado supone castigar antes de demostrar la culpa. Y en Trieste, asistir humanitariamente a los migrantes no debe impedir que el Estado controle sus fronteras y decida quién entra y permanece. La soberanía exige firmeza, pero también instituciones que respeten sus propias reglas."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Veo en las protestas de estudiantes y trabajadores una demanda que la política no debería despachar como ruido: invertir en educación y ofrecer perspectivas de futuro. Escucharlos exige negociar prioridades y financiar compromisos de forma responsable, no prometerlo todo sin explicar quién pagará. También exige distinguir la protesta pacífica de los episodios de violencia, que no fortalecen ninguna causa.\n\nMientras tanto, los ataques contra Ucrania recuerdan que desear la paz no basta. Yo apoyo una diplomacia sostenida, pero una paz duradera requiere escuchar a Kiev y proteger su seguridad. Y celebro el acuerdo entre la Unión Europea y el Reino Unido sobre movilidad juvenil: no resuelve todas las diferencias de la Brexit, pero demuestra que el diálogo y los avances graduales pueden devolver oportunidades concretas a la gente."
+      "texto": "La muerte de Gianni De Gennaro merece respeto y prudencia, no un juicio político precipitado. Creo que defender la presunción de inocencia y buscar la verdad sobre los presuntos desvíos de la investigación de via D’Amelio son deberes compatibles. La justicia debe trabajar sin presiones, y las familias tienen derecho a respuestas fundadas en pruebas.\n\nPor eso también me preocupa la propuesta de suspender becas a estudiantes investigados por hechos relacionados con protestas. Causar daños debe tener consecuencias, pero una investigación no equivale a una condena, y privar de ayudas antes de esclarecer los hechos puede castigar injustamente y dificultar el acceso a los estudios. Yo buscaría un consenso para garantizar la seguridad y reparar los daños sin convertir la sospecha en sanción. Las instituciones se fortalecen cuando protegen derechos incluso en momentos de tensión."
     }
   ],
   "periodicos": [
@@ -103,10 +103,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- La portada destaca las investigaciones en Liguria, con encuentros en un yate y presuntas manipulaciones de datos de la pandemia; el alcalde de Génova pide aclaraciones.\n- Un titular cuestiona que los cambios en el código de circulación reduzcan las víctimas.\n- Se aborda el conflicto en la mayoría gubernamental por el Superbonus y el impuesto a las bebidas azucaradas, junto con una crítica al endeudamiento.\n- Rusia avanza hacia Járkov y Zelenski describe la situación como extremadamente difícil.\n- Se informa de la denuncia contra Fedez, que niega haber estado presente, y de la situación fiscal de Camila Giorgi; también se ofrecen consejos de ahorro.",
+        "resumen": "- La reforma del código de circulación no reduciría el número de víctimas, según un titular.\n- Se destacan las conversaciones y reuniones en un yate entre Toti y el empresario Spinelli, junto con la defensa del alcalde de Génova, Marco Bucci.\n- Según los fiscales, en Liguria se manipularon datos de la pandemia.\n- La portada recoge tensiones en la mayoría de gobierno por el Superbonus y el impuesto a las bebidas, así como una crítica al endeudamiento.\n- También aborda el avance ruso hacia Járkov, noticias sobre Fedez y Camila Giorgi y consejos de inversión.",
         "populismo": 25,
-        "motivo_populismo": "Expresiones como «estalla el caso» o «perseguida por el fisco» dramatizan algunas noticias, pero no se aprecia una apelación al pueblo contra las élites.",
-        "sesgo": "La selección da especial protagonismo a las investigaciones sobre autoridades de Liguria y a los conflictos de la mayoría gubernamental. El enfoque es crítico con la deuda y con la eficacia de la reforma vial."
+        "motivo_populismo": "Predomina la información, aunque expresiones como «estalla el caso», «ataque» y «perseguida por el fisco» añaden dramatismo y énfasis en el conflicto.",
+        "sesgo": "La portada da especial protagonismo a las presuntas irregularidades vinculadas a dirigentes de Liguria y a los desacuerdos dentro de la mayoría de gobierno. Algunos titulares adoptan un enfoque crítico, como los relativos a la reforma vial y al endeudamiento."
       }
     },
     {
@@ -114,71 +114,71 @@
       "web": "https://www.repubblica.it",
       "noticias": [
         {
-          "titulo": "La settimana nera delle Borse: fuga dal tech, Anthropic crolla",
-          "entradilla": "Il Nasdaq perde il 5,8% e l’Asia paga l’esposizione sui chip, in Europa bruciati 370 miliardi. Nvidia a picco con tutti i titoli legati all’IA, si salva solo Apple",
-          "enlace": "https://www.repubblica.it/economia/2026/11/20/news/quotazione_anthropic_mercati_bolla_ai_titoli-425739269/"
+          "titulo": "Noslin scatenato, Lazio spettacolo: batte 3-0 il Lecce e resta capolista",
+          "entradilla": "Doppietta dell’olandese e sigillo di Frattesi per l’ennesima gara di alto livello della squadra di Gattuso",
+          "enlace": "https://www.repubblica.it/sport/calcio/serie-a/lazio/2026/11/21/news/lazio_lecce_gol-425740477/"
         },
         {
-          "titulo": "I percorsi (quasi) paralleli di Alcaraz e Cobolli",
-          "entradilla": "Le parole di Carlos e Flavio dopo il match alle Atp Finals",
-          "enlace": "https://www.repubblica.it/sport/rubriche/monday-s-net/2026/11/20/news/i_percorsi_quasi_paralleli_di_alcaraz_e_cobolli-425739222/"
+          "titulo": "De Gennaro e la casa in Maremma: “Sapevamo che era qui quando vedevamo la polizia”",
+          "entradilla": "Prima viveva in paese, a Montiano; poi l’acquisto di una colonica in campagna",
+          "enlace": "https://firenze.repubblica.it/cronaca/2026/11/21/news/casa_suicidio_de_gennaro_montiano_maremma_toscana-425740206/"
         },
         {
-          "titulo": "Mps: il prezzo di Intesa Sanpaolo è giusto. Ma Passera protesta e si dimette",
-          "entradilla": "ll cda della banca senese vota unanime il “comunicato dell’emittente” sulla congruità del corrispettivo. Anche l’ad Lovaglio, grande oppositore dell’offerta di Messina, si allinea agli altri consiglieri",
-          "enlace": "https://www.repubblica.it/economia/2026/11/20/news/mps_cda_opas_intesa_sanpaolo-425739198/"
+          "titulo": "De Gennaro, trovati biglietti per i familiari nella villa. La pistola era accanto al corpo",
+          "entradilla": "A Montiano, nella campagna della Maremma, l’ex capo della polizia era arrivato ieri sera da solo. Il cadavere trovato dal guardiano nella dépendance: “Non ho aperto, ho subito chiamato i carabinieri”. Disposta l’autopsia. Il vicino: “Ieri sera ho visto la luce accesa alle 21.30”",
+          "enlace": "https://www.repubblica.it/cronaca/2026/11/21/news/montiano_villa_de_gennaro_perquisizione-425740167/"
         },
         {
-          "titulo": "Gli effetti di Gta VI sul calcio, allenatori sul piede di guerra. De Zerbi: “Spacco la console”",
-          "entradilla": "L’uscita del nuovo videogame è sulla bocca di tutti. Gattuso: “Dele-Bashiru e Gta? Saranno c....i suoi”",
-          "enlace": "https://www.repubblica.it/sport/calcio/2026/11/20/news/gta_vi_gattuso_de_zerbi-425739094/"
+          "titulo": "Addio a Paolo Bulgari, muore a 89 anni il gioielliere che si fingeva commesso",
+          "entradilla": "Fondatore dell’omonimo marchio del lusso, oggi nel gruppo Lvmh. I funerali lunedì 23 novembre a Roma",
+          "enlace": "https://www.repubblica.it/economia/2026/11/21/news/addio_paolo_bulgari_morto_89_anni_gioielliere-425740116/"
         },
         {
-          "titulo": "I capitani di Serie C in campo con la fascia contro la violenza sulle donne: ma Portanova è un caso",
-          "entradilla": "Il centrocampista è stato condannato in primo grado e in appello per violenza sessuale di gruppo",
-          "enlace": "https://www.repubblica.it/sport/calcio/2026/11/20/news/portanova_capitani_serie_c_violenza_donne_fascia-425738794/"
+          "titulo": "La resistenza silenziosa di Leonardo: non finì alcune opere per sfuggire al controllo dei potenti",
+          "entradilla": "E’ il risultato di uno studio che propone una nuova lettura delle opere incompiute non sempre per limiti tecnici o per la ricerca della perfezione. In alcuni casi alla base ci fu una scelta consapevole per difendere la propria libertà dai committenti",
+          "enlace": "https://firenze.repubblica.it/cronaca/2026/11/21/news/leonardo_opere_incompiute_resistenza_controllo_potenti-425740047/"
         },
         {
-          "titulo": "La Formula 1 ritrova la sua voce: dal 2030 torna il rombo dei motori V8",
-          "entradilla": "Accordo raggiunto per il ritorno dei propulsori aspirati, con una componente ibrida ridotta. L'obiettivo è ritrovare spettacolo e identità",
-          "enlace": "https://www.repubblica.it/sport/formulauno/2026/11/20/news/formula_1_ritorno_motori_v8-425738775/"
+          "titulo": "Le due anime dei Borsellino: la silenziosa richiesta di verità dei figli e le accuse di Salvatore",
+          "entradilla": "Anche sul suicidio di Gianni De Gennaro Manfredi si limita a dire: “Potrebbe essersene andato un pezzo di verità”, mentre lo zio affonda: “Si è suicidato perché le accuse a lui rivolte erano sicuramente infondate”.",
+          "enlace": "https://palermo.repubblica.it/cronaca/2026/11/21/news/due_anime_borsellino_salvatore_attacca_figli_prudenti_suicidio_de_gennaro_le_notizie-425740014/"
         },
         {
-          "titulo": "Trump ha fretta: “Presto la pace in Ucraina, con Putin rapporti fantastici”",
-          "entradilla": "La conferenza stampa del presidente americano dopo il trilaterale a Shenzhen: “Una delle visite presidenziali di maggior successo nella storia Usa”",
-          "enlace": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/"
+          "titulo": "Sinner, come opera il chirurgo che deve salvare il ginocchio di Jannik",
+          "entradilla": "A Milano Lasse Lempainen a un convegno racconta come decide se intervenire",
+          "enlace": "https://www.repubblica.it/sport/tennis/2026/11/21/news/sinner_chirurgo_ginocchio-425739980/"
         },
         {
-          "titulo": "Andrea Pacifico, lo studente che ha fermato gli incappucciati: “La violenza non risolve nulla”",
-          "entradilla": "Il ventenne di Formia studia Storia alla Sapienza: “Ho avuto paura, ma non si poteva continuare così. Quando i camionisti protestavano al Sud, si parlava solo delle vetrine rotte al Nord. Ora chiedo solo di non essere strumentalizzato dalla destra, io sono di sinistra”",
-          "enlace": "https://roma.repubblica.it/cronaca/2026/11/20/news/andrea_pacifico_studente_corteo_manifestazione_roma_scontri-425738592/"
+          "titulo": "De Gennaro, Mattarella chiama il fratello Andrea. Salvatore Borsellino: istigazione al suicidio",
+          "entradilla": "L'ex capo della polizia si è tolto la vita sconvolto dopo essere stato indagato dalla procura di Caltanissetta per depistaggio nell'inchiesta sulla strage di via D'Amelio. Trovati biglietti per i familiari. Crosetto: “Vittima di un processo preventivo e senza appello”. Schlein: “Fatto sconvolgente, ",
+          "enlace": "https://www.repubblica.it/politica/2026/11/21/diretta/de_gennaro_morto_suicidio_capo_polizia_indagato_borsellino_falcone_news_oggi-425739807/"
         },
         {
-          "titulo": "Migliaia di studenti in corteo: “Il futuro è nostro”",
-          "entradilla": "La protesta contro i mancati investimenti nell’istruzione e la corsa al riarmo. Tensioni a Roma, Bologna e Genova",
-          "enlace": "https://www.repubblica.it/cronaca/2026/11/20/news/sciopero_20_novembre_corteo_studenti_roma_bologna_venezia_padova-425738465/"
+          "titulo": "Stretta FdI su studenti e manifestanti: “Via le borse di studio e paghino i danni delle occupazioni”",
+          "entradilla": "Gli emendamenti al decreto Cortei: tolti gli aiuti economici ai ragazzi indagati per gl scontri. La polizia potrà usare la vernice contro chi scende in piazza. E niente risarcimenti per legittima difesa",
+          "enlace": "https://www.repubblica.it/politica/2026/11/21/news/fdi_stretta_studenti_manifestanti_borse_di_studio_e_paghino_i_danni_delle_occupazioni-425739795/"
         },
         {
-          "titulo": "Un attore famoso, i dipendenti, l’anonimo risparmiatore: storie di nuovi ricchi grazie ad Anthropic",
-          "entradilla": "C’è anche chi ha investito i risparmi della mamma: così lo sbarco della società di IA a Wall Street ha cambiato la vita a centinaia di persone",
-          "enlace": "https://www.repubblica.it/economia/2026/11/20/news/ricchi_azioni_anthropic_wall_street_intelligenza_artificiale_borsa_ia-425738309/"
+          "titulo": "È morta Raffaella Curiel, tra le regine della moda italiana: la stilista milanese aveva 83 anni",
+          "entradilla": "Era ricoverata per una polmonite. A dare la notizia i figli Gaetano e Gigliola. Moratti: “Confezionò il mio abito da sposa e quello per il giuramento da ministro”",
+          "enlace": "https://milano.repubblica.it/cronaca/2026/11/21/news/morta_raffaella_curiel_stilista_milanese_moda-425739774/"
         },
         {
-          "titulo": "Il paradosso dell’e-book: chi studia risparmia di più ma impara di meno",
-          "entradilla": "Dall’Ocse al Parlamento europeo, si evidenzia come la lettura dei libri stampati sia più efficace per lo sviluppo delle competenze cognitive e di alfabetizzazione dei bambini",
-          "enlace": "https://www.repubblica.it/politica/2026/11/20/news/ebook_dl_scuola_risparmio_carta-425738250/"
+          "titulo": "Gianni De Gennaro è morto. Si è sparato mentre era solo nella sua casa di campagna in Toscana",
+          "entradilla": "L’ex capo della Polizia aveva 78 anni. Una settimana fa era stato rivelato il suo coinvolgimento nell’inchiesta per depistaggio su via D’Amelio. Aperta un’inchiesta per istigazione al suicidio. Il suo difensore Coppi: “Addolorato ma non stupito”",
+          "enlace": "https://www.repubblica.it/cronaca/2026/11/21/news/gianni_de_gennaro_morto_sparato_casa-425739732/"
         },
         {
-          "titulo": "Cobolli saluta le Finals con un altro ko, Alcaraz lo consola: “Testa alta”",
-          "entradilla": "L’azzurro chiude il torneo di Torino cedendo 6-4, 6-1 allo spagnolo: “Cosa ho imparato? Che ho ancora le mie fragilità”. Carlos in semifinale contro Shelton, Zverev sfiderà Medvedev",
-          "enlace": "https://www.repubblica.it/sport/tennis/2026/11/20/news/cobolli_alcaraz_atp_finals-425738114/"
+          "titulo": "Augias, camera ardente in Campidoglio. Gualtieri: “La sua voce ci mancherà tantissimo” | La diretta",
+          "entradilla": "L’addio al grande scrittore nella Sala Protomoteca",
+          "enlace": "https://roma.repubblica.it/cronaca/2026/11/21/diretta/corrado_augias_morto_camera_ardente_roma_campidoglio_oggi-425739692/"
         }
       ],
       "analisis": {
-        "resumen": "- Las bolsas sufren fuertes caídas, especialmente en tecnología e inteligencia artificial; otra noticia recoge historias de personas enriquecidas gracias a Anthropic.\n- El consejo de MPS considera justo el precio ofrecido por Intesa Sanpaolo, pero Passera protesta y dimite.\n- Trump afirma que la paz en Ucrania llegará pronto y destaca sus buenas relaciones con Putin.\n- Miles de estudiantes protestan por la educación y contra el rearme; un estudiante que frenó a encapuchados rechaza la violencia y su instrumentalización política.\n- En deportes destacan la derrota de Cobolli ante Alcaraz, el regreso de los motores V8 a la Fórmula 1 y las controversias sobre GTA VI y la campaña contra la violencia hacia las mujeres.",
+        "resumen": "- La muerte del exjefe de Policía Gianni De Gennaro domina la portada: se investigan las circunstancias y se recogen reacciones.\n- Se destacan enmiendas de FdI que endurecerían las medidas contra estudiantes y manifestantes.\n- La Lazio vence 3-0 al Lecce y sigue líder; también se aborda una posible operación de rodilla de Sinner.\n- La portada informa de las muertes del joyero Paolo Bulgari y la diseñadora Raffaella Curiel, y de la despedida a Augias.\n- Un estudio propone que Leonardo dejó algunas obras inacabadas para preservar su libertad frente a sus mecenas.",
         "populismo": 25,
-        "motivo_populismo": "Expresiones como «semana negra», «fuga del tech» y «caída en picado» aportan dramatismo, aunque predominan los datos y no aparece un enfrentamiento explícito entre pueblo y élites.",
-        "sesgo": "La selección da especial espacio a las finanzas, el deporte y las protestas estudiantiles, con atención a conflictos y experiencias personales. No se aprecia una orientación política inequívoca en el conjunto de los titulares."
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «stretta» o «debe salvar la rodilla» y el énfasis en detalles del suicidio aportan dramatismo y simplificación.",
+        "sesgo": "La selección y redacción ponen el foco en las consecuencias restrictivas de las propuestas de FdI para estudiantes y manifestantes. Sobre De Gennaro se recogen distintas reacciones, aunque la cobertura concede amplio espacio a las circunstancias de su muerte."
       }
     },
     {
@@ -186,71 +186,71 @@
       "web": "https://www.lastampa.it",
       "noticias": [
         {
-          "titulo": "Trump spera nella pace entro l’anno: “Ma Kiev e Mosca non sanno come farla”",
-          "entradilla": "Il leader Usa: “Intesa con Xi sull’AI ma gli darà solo chip vecchi. Proibirò alle aziende di costruire data center all’estero”",
-          "enlace": "https://www.lastampa.it/esteri/2026/11/20/news/trump_iran_cina_asia_russia-15804488/"
+          "titulo": "De Gennaro, si indaga per istigazione al suicidio. Trovati documenti e lettere ai famigliari",
+          "entradilla": "La Procura di Grosseto apre un fascicolo sulla morte dell’ex capo della Polizia. Due reparti del Ris al lavoro nella sua abitazione in Maremma per ricostruire le ultime ore di vita. Nei giorni scorsi la perquisizione nell’ambito dell’inchiesta sui presunti depistaggi della strage di via D’Amelio",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/21/news/gianni-de-gennaro-morte-inchiesta-istigazione-suicidio-ris-villa-15805268/"
         },
         {
-          "titulo": "Due missili russi in Polonia. Tusk: “Una provocazione”. Nuovi attacchi anche su Kiev",
-          "entradilla": "La denuncia di Varsavia, Trump: «Un errore». Nella capitale ucraina almeno 6 morti e 15 feriti",
-          "enlace": "https://www.lastampa.it/esteri/2026/11/20/diretta/guerra_russia_ucraina_news_oggi-15803451/"
+          "titulo": "De Gennaro si è sparato in casa: l’ex capo della polizia era indagato per depistaggio sulla strage di via D’Amelio",
+          "entradilla": "Aveva 78 anni. La procura di Grosseto indaga per istigazione al suicidio",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/21/news/gianni_de_gennaro_morto_suicida-15804978/"
         },
         {
-          "titulo": "Dopo il trilaterale di Shenzhen, è pioggia di meme sui social: Putin diventa il “bambino escluso”",
-          "entradilla": "Dall'Happy Meal al tavolo dei bambini, fino al Lego del ponte di Crimea: i fotomontaggi che hanno trasformato il trilaterale in un fenomeno virale sul web",
-          "enlace": "https://www.lastampa.it/esteri/2026/11/20/news/shenzhen_meme_putin_bambino_escluso_trump_xi_social-15804206/"
+          "titulo": "Meloni: profondamente scioccata. Il figlio di Borsellino: sparito un pezzo di verità",
+          "entradilla": "Il fratello del giudice ucciso in via D’Amelio: «Istigazione al suicidio da parte della Procura di Caltanissetta». Tajani: «L’ennesimo processo al di fuori dei tribunali». Calenda: «Servitore della Patria, tradito dalle istituzioni che ha servito»",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/21/news/calenda_de_gennaro_e_stato_un_servitore_della_patria_tradito_dalle_istituzioni_che_ha_servito-15804991/"
         },
         {
-          "titulo": "La Cina caccia dal vertice la giornalista Bloomberg che aveva osato chiedere di Nvidia",
-          "entradilla": "Alla presenza di Xi Jinping, Annemarie Hordern, corrispondente politica di Bloomberg, ha fatto ad alta voce una domanda imprevista: ha chiesto se l’ex ceo di Nvidia Jensen Huang fosse stato sleale verso gli Stati Uniti. E della spia cinese Alice Huang",
-          "enlace": "https://www.lastampa.it/esteri/2026/11/20/news/la_cina_caccia_del_vertice_la_giornalista_bloomberg_che_aveva_osato_chiedere_di_jensen_huang-nvidia-15803748/"
+          "titulo": "L’avvocato Coppi: “Mi chiese di difenderlo solo se credevo nella sua innocenza”",
+          "entradilla": "Il legale: «Evidentemente non ha retto al peso di un'accusa che negava tutto quello che lui nella sua vita aveva fatto»",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/21/news/de_gennaro_l_avvocato_coppi_mi_chiese_di_difenderlo_solo_se_credevo_nella_sua_innocenza-15805102/"
         },
         {
-          "titulo": "Sciopero, a Torino bloccato l'accesso all'autostrada. In serata scontri in centro / Video",
-          "entradilla": "Vie del centro paralizzate, applauso ai lavoratori negli ospedali. Bloccato l’accesso in autostrada. Nuovo raduno e tensioni con la polizia: idranti e lacrimogeni. Appuntamento per i 30 anni del centro sociale Askatasuna",
-          "enlace": "https://www.lastampa.it/torino/2026/11/20/diretta/sciopero_generale_corteo_oggi_torino-15803356/"
+          "titulo": "De Gennaro, le luci accese nella villa prima della morte. Il ristoratore: “Era turbato, non era più lui”",
+          "entradilla": "Il titolare della trattoria che l’ex capo della polizia frequentava in Toscana racconta gli ultimi incontri: «Era teso e preoccupato. L’ultima volta era con due uomini della scorta». Poi le luci accese nella villa e la terribile notizia",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/21/news/de-gennaro-morte-ultimi-giorni-ristoratore-toscana-turbato-preoccupato-15805227/"
         },
         {
-          "titulo": "Landini: “Un milione e mezzo di persone in piazza”. Tensioni anche a Roma e Bologna Video",
-          "entradilla": "La Cgil ha organizzato il corteo contro la manovra, con gli studenti e i Cobas. Schlein, Conte e Fratoianni a Roma",
-          "enlace": "https://www.lastampa.it/cronaca/2026/11/20/diretta/sciopero_generale_20_novembre_2026_notizie_diretta-15803658/"
+          "titulo": "I segreti di De Gennaro: l’agenda rossa di Borsellino e i veleni sulla strage di via D’Amelio",
+          "entradilla": "Dall’inchiesta di Caltanissetta al presunto patto con Arnaldo La Barbera, passando per il pentito Totuccio Contorno: la morte dell’ex capo della polizia lascia aperti molti interrogativi",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/21/news/i_segreti_di_de_gennaro_l_agenda_rossa_di_borsellino_e_i_veleni_sulla_strage_di_via_d_amelio-15805041/"
         },
         {
-          "titulo": "Roma, il ragazzo che ha fatto da scudo ai poliziotti: \"A cosa serve la violenza?\"",
-          "entradilla": "«A che serve la violenza?», chiede Andrea, 20 anni, iscritto alla Sapienza. Durante il corteo studentesco del 20 novembre a Roma si è seduto con un amico davanti ai poliziotti schierati al ministero dell’Istruzione, dove sono stati lanciati petardi e bottiglie. Due studenti gli chiedono che cosa si ",
-          "enlace": "https://www.lastampa.it/cronaca/2026/11/20/video/corteo_roma_poliziotti_confronto_studenti_violenza-15804246/"
+          "titulo": "Quando De Gennaro scortò Buscetta in Italia: \"Avrei due cose da dirle\"",
+          "entradilla": "I produttori di cereali: “Terreno troppo duro”. Crolla anche la produzione del miele",
+          "enlace": "https://www.lastampa.it/topnews/edizioni-locali/biella/2017/11/09/news/la-siccita-blocca-le-semine-autunnali-1.34381903"
         },
         {
-          "titulo": "A Milano il corteo arriva in Duomo: in fiamme i manichini di Trump e Netanyahu",
-          "entradilla": "In piazza anche la provocazione contro Trump e Netanyahu e le critiche alla manovra",
-          "enlace": "https://www.lastampa.it/cronaca/2026/11/20/news/milano_corteo_cgil_meloni_trump-15804156/"
+          "titulo": "Come conobbe Giovanni Falcone? Gianni De Gennaro lo racconta in aula a Palermo",
+          "entradilla": "Dal banco dei testimoni, Gianni De Gennaro raccontò la prima volta che incontrò Giovanni Falcone. L’ex capo della Polizia si è tolto la vita oggi, sabato 21 novembre. Aveva 78 anni. Il video risale al 9 ottobre 2015, quando De Gennaro depose a Palermo al processo sulla trattativa Stato-mafia. In aul",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/21/video/gianni_de_gennaro_primo_incontro_giovanni_falcone_deposizione_processo_trattativa_stato_mafia-15804987/"
         },
         {
-          "titulo": "Dario Amodei atterra in Puglia, mistero sulla visita del Ceo di Anthropic",
-          "entradilla": "L’imprenditore è atterrato a Brindisi poche ore dopo il debutto record a Wall Street: tra le ipotesi anche quella di una vacanza in una masseria",
-          "enlace": "https://www.lastampa.it/cronaca/2026/11/20/news/anthropic_ceo_dario_amodei_puglia-15804270/"
+          "titulo": "Ucciso a calci e pugni Francesco Zangari, titolare del Manhattan Pub a Torino: fermato un dipendente",
+          "entradilla": "A trovare il corpo nel cortile del locale è stata una vicina di casa: ieri mattina aveva litigato con il suo aggressore",
+          "enlace": "https://www.lastampa.it/torino/2026/11/21/news/francesco_zangari_morto_titolare_manhattan_pub-15804984/"
         },
         {
-          "titulo": "Londra riapre le porte ai giovani Ue nonostante la Brexit. Intese anche su commercio ed emissioni",
-          "entradilla": "L'accordo con il Regno Unito prevede fino a 100 mila partecipanti per ciascuna direzione. Scatterà nel 2028. Possibilità di soggiornare temporaneamente per lavorare o studiare, senza ripristinare la libera circolazione",
-          "enlace": "https://www.lastampa.it/esteri/2026/11/20/news/regno_unito_ue_mobilita_giovanile_under_30_brexit-15803855/"
+          "titulo": "Torino, il cuore spezzato del Manhattan: Franco, ucciso a calci e pugni. “Faceva suonare chiunque”",
+          "entradilla": "In tanti ricordano il titolare del pub ammazzato da un suo dipendente: “Era un altruista incallito”",
+          "enlace": "https://www.lastampa.it/torino/2026/11/21/news/torino_il_cuore_spezzato_del_manhattan_franco_ucciso_a_calci_e_pugni_faceva_suonare_chiunque-15805342/"
         },
         {
-          "titulo": "Depardieu e Houellebecq accusati di stupro di gruppo sul set di un film: aperta inchiesta a Parigi",
-          "entradilla": "Una donna denuncia le violenze che avrebbe subito nel 2018 durante le riprese di \"Thalasso”. Coinvolto anche il regista Guillaume Nicloux, che avrebbe filmato la scena. Nessuno dei tre è stato finora interrogato",
-          "enlace": "https://www.lastampa.it/esteri/2026/11/20/news/depardieu_houellebecq_denuncia_stupro_gruppo_film_thalasso-15804000/"
+          "titulo": "Atp Finals: Alcaraz in rimonta batte Shelton e vola in finale",
+          "entradilla": "LO statunitense sconfitto in tre set",
+          "enlace": "https://www.lastampa.it/sport/2026/11/21/news/atp_finals_alcaraz_in_rimonta_batte_shelton_e_vola_in_finale-15805222/"
         },
         {
-          "titulo": "Erika Eleniak, da Baywatch a OnlyFans: “300mila dollari in tre mesi, mi ha salvata dallo sfratto”",
-          "entradilla": "L'ex star della tv ha aperto un profilo sulla piattaforma e ora punta al milione di dollari",
-          "enlace": "https://www.lastampa.it/spettacoli/2026/11/20/news/baywatch_erika_eleniak_onlyfans-15803993/"
+          "titulo": "Catturato in Messico El Chapo Isidro, boss dei narcos tra i dieci più ricercati dall’Fbi",
+          "entradilla": "Il suo vero nome è Fausto Isidro Meza Flores. Nello stato di Sinaloa, dopo la cattura, disordini e attacchi alle forze di sicurezza da parte di milizie armate",
+          "enlace": "https://www.lastampa.it/esteri/2026/11/21/news/messico_catturato_el_chapo_isidro_e_il_boss_dei_narcos_fra_i_10_piu_ricercati_dall_fbi-15805124/"
         }
       ],
       "analisis": {
-        "resumen": "- Trump espera un acuerdo de paz este año; Varsovia denuncia la caída de dos misiles rusos en Polonia y hay nuevas víctimas en Kiev.\n- La huelga contra la maniobra económica reúne manifestantes y registra tensiones en Turín, Roma y Bolonia; en Milán se queman muñecos de Trump y Netanyahu.\n- China expulsa de una cumbre a una periodista de Bloomberg tras una pregunta sobre Nvidia; los memes sobre Putin se viralizan después del encuentro de Shenzhen.\n- El Reino Unido y la UE acuerdan un programa de estancias temporales para jóvenes, previsto para 2028.\n- Se abre una investigación en París por una denuncia de violación en grupo contra Depardieu y Houellebecq; también destacan noticias sobre el CEO de Anthropic y Erika Eleniak.",
-        "populismo": 27,
-        "motivo_populismo": "Predomina la información factual, aunque expresiones como «había osado», «misterio» y «lluvia de memes», junto con el énfasis en los choques, aportan dramatización y sensacionalismo.",
-        "sesgo": "La selección privilegia los conflictos internacionales y las tensiones en las protestas, aunque también recoge la apelación de un estudiante contra la violencia. Algunas noticias se enfocan en el espectáculo y la curiosidad, sin que se aprecie una apelación sistemática al pueblo frente a las élites."
+        "resumen": "- La Fiscalía de Grosseto investiga una posible instigación al suicidio tras la muerte del exjefe de Policía Gianni De Gennaro.\n- La portada recoge reacciones de dirigentes, familiares de Borsellino y el abogado de De Gennaro, junto a testimonios sobre sus últimos días.\n- Varias piezas repasan su relación con las investigaciones sobre la matanza de vía D’Amelio y su trayectoria junto a figuras como Falcone y Buscetta.\n- Un empleado ha sido detenido tras la muerte a golpes del dueño de un pub de Turín, al que recuerdan sus allegados.\n- Alcaraz alcanza la final de las ATP Finals y el narcotraficante conocido como El Chapo Isidro es capturado en México.",
+        "populismo": 30,
+        "motivo_populismo": "Predomina la información factual, aunque expresiones como «los secretos» y «los venenos» o «el corazón roto» aportan dramatismo y sensacionalismo, sin un enfrentamiento sostenido entre pueblo y élites.",
+        "sesgo": "La portada se concentra en la muerte de De Gennaro y da espacio a testimonios que muestran cercanía hacia él y a críticas a las instituciones. También destaca los interrogantes sobre la matanza de vía D’Amelio, por lo que no se aprecia una orientación política definida."
       }
     },
     {
@@ -258,71 +258,71 @@
       "web": "https://www.ilgiornale.it",
       "noticias": [
         {
-          "titulo": "L’Aquila rialza il sipario dopo 17 anni, Meloni: “Commovente”. E rivendica: “Abbiamo sbloccato fondi e stanziato oltre 1,3 miliardi” Tutte le foto dell'inaugurazione",
+          "titulo": "L’ex capo della polizia Gianni De Gennaro si è ucciso con un colpo di pistola, era indagato per depistaggio sulla strage di Borsellino. Trovati dei biglietti e altri documenti Una vita ai vertici dello Stato tra successi, potere e ombre",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/governo/laquila-rialza-il-sipario-dopo-17-anni-dal-terremoto-con-meloni-riapre-il-teatro-comunale/"
+          "enlace": "https://www.ilgiornale.it/news/cronache/gianni-de-gennaro-si-e-sparato-morto-lex-capo-della-polizia-era-indagato-per-depistaggio-sulla-strage-di-borsellino/"
         },
         {
-          "titulo": "Trump: “La guerra all’Iran? La rifarei. Voglio un accordo vero”. E sull’Ucraina: “Putin vuole la pace, ma con Zelensky c’è troppo odio” Melania rompe il silenzio sulla cerchia del tycoon: “Troppi yes men alla Casa Bianca”",
+          "titulo": "Meloni: “Profondamente scioccata”, La Russa al Giornale: “Si è innocenti fino alla condanna definitiva”. E Mattarella chiama il fratello di De Gennaro Dai pentiti ai depistaggi: tutte le tappe nell’inchiesta",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/diretta/politica-estera/trump-liran-vuole-un-accordo-per-me-non-accettabile-lai-impediremo-alla-cina-di-prendersi-tutti-i-data-center/"
+          "enlace": "https://www.ilgiornale.it/news/cronaca-giudiziaria/tragica-morte-di-un-servitore-dello-stato-vittima-di-un-massacro-mediatico-giudiziario-le-reazioni-della-politica-al-suicido-di-de-gennaro/"
         },
         {
-          "titulo": "Bandiere palestinesi e titine a Roma, mentre a Bologna sfilano i medici anti-Cpr Sciopero generale, tra tensioni e disagi. Bruciate foto di Meloni e Crosetto: sette agenti feriti, uno da una bomba carta alla gamba",
+          "titulo": "L'accusa di Salvatore Borsellino: “Istigazione al suicidio”. Il legale dell’ex capo della Polizia: “Conseguenza di accuse infamanti”",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/nazionale/bandiere-palestinesi-e-titine-a-roma-mentre-a-bologna-sfilano-i-medici-anti-cpr/"
+          "enlace": "https://www.ilgiornale.it/news/cronaca-giudiziaria/morte-de-gennaro-laccusa-di-salvatore-borsellino-la-procura-responsabile-di-istigazione-al-suicidio/"
         },
         {
-          "titulo": "Il boss di spicco della mala albanese, Elvis Demce, ha tentato il suicidio in carcere a Opera | Esclusivo",
+          "titulo": "Rifondazione Comunista non si ferma neanche davanti alla morte e torna all’attacco sul G8 di Genova",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/cronaca-nera/il-boss-di-spicco-della-mala-albanese-elvis-demce-ha-tentato-il-suicidio-in-carcere-a-opera-esclusivo/"
+          "enlace": "https://www.ilgiornale.it/news/interni/de-gennaro-rifondazione-comunista-non-si-ferma-neanche-davanti-alla-morte-e-torna-allattacco-sul-g8-di-genova/"
         },
         {
-          "titulo": "La nuova verità su Berlusconi Le reazioni della politica: \"Finalmente fatta piena luce su una stagione di calunnie e diffamazioni\"",
+          "titulo": "Il giorno più oscuro per l’ex capo della polizia",
+          "entradilla": "",
+          "enlace": "https://www.ilgiornale.it/news/magistratura/il-giorno-piu-oscuro-per-lex-capo-della-polizia/"
+        },
+        {
+          "titulo": "Niente WhatsApp, telefoni lontani e uffici bonificati: così De Gennaro temeva ed evitava le intercettazioni",
+          "entradilla": "",
+          "enlace": "https://www.ilgiornale.it/news/cronaca-giudiziaria/niente-whatsapp-telefoni-lontani-e-uffici-bonificati-cosi-de-gennaro-temeva-ed-evitava-le-intercettazioni/"
+        },
+        {
+          "titulo": "Omicidio Borsellino, De Gennaro indagato",
+          "entradilla": "",
+          "enlace": "https://www.ilgiornale.it/news/magistratura/omicidio-borsellino-de-gennaro-indagato/"
+        },
+        {
+          "titulo": "La nuova verità su Berlusconi \"Finalmente fatta piena luce su una stagione di calunnie e diffamazioni\"",
           "entradilla": "",
           "enlace": "https://www.ilgiornale.it/news/magistratura/la-nuova-verita-su-berlusconi/"
         },
         {
-          "titulo": "Preservativi gratis nelle scuole e cannabis legale. Gli emendamenti choc di +Europa alla manovra",
+          "titulo": "Missili russi in Polonia e un complotto in Danimarca: cresce la tensione in Europa. Palazzo Chigi: “Gravi episodi, restiamo uniti” Droni sulla base di Sigonella: indicato il cambio di rotta ai voli militari, poi l’allarme rientra. Indagini in corso",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/parlamento/preservativi-gratis-nelle-scuole-e-cannabis-legale-gli-emendamenti-choc-di-europa-alla-manovra/"
+          "enlace": "https://www.ilgiornale.it/news/guerra/missili-russi-in-polonia-e-un-complotto-in-danimarca-cresce-la-tensione-in-europa-palazzo-chigi-gravi-episodi-restiamo-uniti/"
         },
         {
-          "titulo": "Il burqa che acceca la sinistra",
+          "titulo": "Naufragio della Costa Concordia, Schettino lascia il carcere dopo 9 anni: affidato ai servizi sociali",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/interni/il-burqa-che-acceca-la-sinistra/"
+          "enlace": "https://www.ilgiornale.it/news/cronaca-giudiziaria/naufragio-della-costa-concordia-schettino-lascia-il-carcere-dopo-nove-anni-affidato-ai-servizi-sociali/"
         },
         {
-          "titulo": "Da pizzaiolo ad aspirante jihadista: espulso e rimpatriato",
+          "titulo": "“Una lezione per tutti”. Quei ragazzi che sfidano i violenti ai cortei Chi sono Andrea e Marcos",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/attualita/da-pizzaiolo-ad-aspirante-jihadista-espulso-e-rimpatriato/"
+          "enlace": "https://www.ilgiornale.it/news/interni/una-lezione-per-tutti-quei-ragazzi-che-sfidano-i-violenti-ai-cortei/"
         },
         {
-          "titulo": "Gli islamici nel 2035? Più dei cristiani. E ai giovani Usa già piace la Sharia",
+          "titulo": "La Cisl demolisce Landini: “Lo sciopero? Non c’è stata una grande partecipazione”",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/attualita/gli-islamici-nel-2035-piu-dei-cristiani-e-ai-giovani-usa-gia-piace-la-sharia/"
-        },
-        {
-          "titulo": "“Dovete portare il velo”. A Genova tunisino si scaglia contro le dipendenti delle Poste: arrestato",
-          "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/cronache/dovete-portare-il-velo-a-genova-tunisino-si-scaglia-contro-le-dipendenti-delle-poste-arrestato/"
-        },
-        {
-          "titulo": "Urla “Allah Akbar” e tenta di far saltare in aria un distributore: strage sfiorata in Francia",
-          "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/nazionale/urla-allah-akbar-e-tenta-di-far-saltare-in-aria-un-distributore-strage-sfiorata-in-francia/"
-        },
-        {
-          "titulo": "“Black Christmas” e Babbo Natale nero: l’ultima frontiera del Natale inclusivo",
-          "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/politica-estera/black-christmas-e-babbo-natale-nero-lultima-frontiera-del-natale-inclusivo/"
+          "enlace": "https://www.ilgiornale.it/news/interni/la-cisl-demolisce-landini-lo-sciopero-non-ce-stata-una-grande-partecipazione/"
         }
       ],
       "analisis": {
-        "resumen": "- L’Aquila celebra una inauguración tras 17 años; Meloni destaca la financiación aportada.\n- Trump habla de Irán y Ucrania, mientras Melania critica a los aduladores de la Casa Blanca.\n- La huelga general deja tensiones y siete agentes heridos; también se destacan las protestas en Roma y Bolonia.\n- La portada recoge reacciones políticas sobre Berlusconi y el intento de suicidio de Elvis Demce en prisión.\n- Varios titulares abordan el islam, la inmigración y el velo; otros cuestionan propuestas sobre cannabis, preservativos y Navidad inclusiva.",
-        "populismo": 76,
-        "motivo_populismo": "Expresiones como «enmiendas choc», «el burka que ciega a la izquierda» y «masacre rozada» recurren al alarmismo, la descalificación y la simplificación.",
-        "sesgo": "Se aprecia un enfoque crítico con la izquierda, el islam y las iniciativas inclusivas, mediante una selección de noticias y un lenguaje que destacan conflictos y riesgos. La portada también reproduce declaraciones favorables a la gestión de Meloni y a Berlusconi."
+        "resumen": "- El exjefe de la Policía Gianni De Gennaro se suicidó; estaba investigado por el desvío de la investigación sobre la matanza de Borsellino.\n- La portada recoge reacciones políticas y acusaciones sobre las circunstancias de su muerte, además de repasar la investigación.\n- Un titular presenta una «nueva verdad» sobre Berlusconi y alude a una etapa de calumnias y difamaciones.\n- Crece la tensión en Europa por misiles rusos en Polonia y un complot en Dinamarca; también se investiga una alerta por drones en Sigonella.\n- Schettino sale de prisión bajo supervisión de servicios sociales; otros titulares abordan las protestas y la participación en una huelga.",
+        "populismo": 55,
+        "motivo_populismo": "Conviven titulares informativos con expresiones emocionales y de confrontación como «el día más oscuro», «no se detiene ni ante la muerte» y «demuele a Landini».",
+        "sesgo": "La selección y redacción muestran un enfoque favorable a De Gennaro y Berlusconi, con espacio destacado para sus defensas. También se aprecia un tono crítico hacia Rifondazione Comunista y Landini."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://www.ilfattoquotidiano.it",
       "noticias": [
         {
-          "titulo": "A Milano le manifestazioni proseguono anche di notte: dj set, balli e occupazione dell’ex Macello che diventa l’ennesimo complesso edilizio",
-          "entradilla": "La protesta a Milano continua anche dopo i cortei del mattino di venerdì. In serata i manifestanti sono tornati in strada con una street parade che, dopo aver attraversato le vie di Milano Est, ha continuando il proprio percorso in via Molise, davanti all’ex Macello sono entrati occupandone l’area. ",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/20/proteste-milano-ex-macello-street-parade-notizie/8579234/"
+          "titulo": "“De Gennaro? A volte il suicidio è anche coraggio”: così il presidente del Senato La Russa",
+          "entradilla": "La decisione di Gianni De Gennaro, ex capo della Polizia, di togliersi la vita forse a causa dell’inchiesta per depistaggio sulla strage di via D’Amelio? “A volte il suicidio è anche coraggio”. Almeno secondo il presidente del Senato, Ignazio La Russa. La seconda carica dello Stato ha commentato cos",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/21/de-gennaro-suicidio-la-russa-coraggio-notizie/8579844/"
         },
         {
-          "titulo": "Sciopero generale, anche gli insegnanti in piazza con gli studenti: “Vediamo i loro sogni spezzarsi. Non sappiamo come dirgli che andrà meglio”",
-          "entradilla": "Non soltanto studenti. Nelle piazze di tutta Italia, accanto ai giovani che da settimane animano le mobilitazioni, sono scesi anche lavoratori e lavoratrici. Una partecipazione favorita dallo sciopero generale indetto dalla Cgil, ma anche dalla scelta di diverse categorie di continuare a sostenere u",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/20/sciopero-generale-insegnanti-studenti-piazza-notizie/8579108/"
+          "titulo": "Corrado Augias, in diecimila al Campidoglio per l’ultimo saluto. La figlia Natalia: “Colpita da chi ha parlato di mio padre come di una persona importante nella loro vita”",
+          "entradilla": "Un flusso ininterrotto di persone, una lunga fila lungo la scalinata del Campidoglio e migliaia di cittadini arrivati per rendere omaggio a Corrado Augias, morto a 91 anni lasciando un vuoto nel giornalismo e nella tv italiana. Sono stati almeno diecimila coloro che nella giornata di sabato hanno ra",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/21/corrado-augias-camera-ardente-campidoglio-notizie/8579845/"
         },
         {
-          "titulo": "La marcia dei 100mila studenti di Milano: “Ci siamo ripresi piazza Duomo, stanchi di chi ci guarda come se dessimo fastidio appena alziamo la voce”",
-          "entradilla": "Dalle piazze europee alle mobilitazione dei giorni scorsi negli Stati Uniti, Giappone, Indonesia e Australia. Lo sciopero internazionale studentesco sembra aver centrato il suo obiettivo: portare contemporaneamente nelle strade migliaia di giovani, bloccare scuole e università e dare vita a circa 40",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/20/sciopero-studentesco-milano-piazza-duomo-notizie/8579089/"
+          "titulo": "Ucciso a calcia e pugni il titolare del Manhattan Pub di Torino, fermato un dipendente",
+          "entradilla": "Una discussione, poi la violenza e un’aggressione finita nel sangue. È stato fermato dalla polizia D. L., 45 anni, dipendente del Manhattan Pub di Torino, accusato dell’omicidio del titolare Francesco Zangari, 66 anni, per tutti semplicemente Franco. L’uomo è stato trovato senza vita venerdì mattina",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/21/omicidio-manhattan-pub-torino-zangari-notizie/8579829/"
         },
         {
-          "titulo": "Sciopero giovanile, anche Bruxelles in piazza contro austerità e riarmo: “Vogliamo un futuro di pace, non andare in guerra”",
-          "entradilla": "Bruxelles è in piazza. Nella giornata dello sciopero giovanile che attraversa l’Europa, anche nella capitale belga circa duecento persone si sono radunate in place de la Monnaie per dire no all’austerità e alla guerra. Non sono i numeri delle grandi manifestazioni, ma la protesta non è isolata: scio",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/20/sciopero-giovanile-bruxelles-austerita-riarmo-notizie/8579093/"
+          "titulo": "Decreto sicurezza, FdI vuole sospendere le borse di studio agli studenti indagati. Conte: “Repressione per chi protesta e scudo per chi è in Parlamento”",
+          "entradilla": "Sospensione di tutti i benefici economici, incluse le borse di studio, per gli studenti che vengono anche solo sottoposti a indagini preliminari per una serie di reati commessi durante le manifestazioni di piazza, le proteste e le occupazioni, fino alla definizione del procedimento penale. E in caso",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/21/decreto-sicurezza-borse-studio-studenti-indagati-notizie/8579795/"
         },
         {
-          "titulo": "Sciopero a Torino, idranti e lacrimogeni contro i manifestanti su Ponte Vittorio Emanuele – Video",
-          "entradilla": "Ancora momenti di tensione a Torino. La polizia ha usato idranti e lacrimogeni contro il corteo. I manifestanti si trovavano su Ponte Vittorio Emanuele, nel tentativo di attraversare il Po e raggiungere il centro città. Il corteo contro guerra e carovita, composto da qualche centinaio di persone, si",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/20/sciopero-torino-idranti-lacrimogeni-notizie/8579062/"
+          "titulo": "“Non ho pensato all’infortunio, non era il momento di avere dubbi. Bisognava andare a tutto gas. Ma non ho fatto il matto come faccio di solito”: così Alcaraz",
+          "entradilla": "“Oggi onestamente non ho pensato al fisico. Mi sentivo bene, nel tie–break del terzo set ho detto “o la va o la spacca“, non provo a fare nulla di diverso. Cerco solo di giocare un buon tennis e cerco di non far sì che il momento influenzi il mio gioco, influenzi me stesso“. Ha esordito […] L'artico",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/21/alcaraz-atp-finals-conferenza-stampa-non-ho-pensato-infortunio/8579798/"
         },
         {
-          "titulo": "Omicidio Maria Rita Valerio, svolta dopo 23 anni: arrestato l’ex fidanzato. “Minacce all’attuale compagna, si rischiava un nuovo delitto”",
-          "entradilla": "A 23 anni dalla morte di Maria Rita Valerio, ci sono un movente e un indagato. Si tratta dell’ex fidanzato della ragazza, Vincenzo Fiore. Svolta su un cold case che nel 2003 sconvolse la Puglia. Valerio, all’epoca 25enne, viveva a Capurso, in provincia di Bari, e lavorava come attrice in una sit-com",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/20/omicidio-maria-rita-valerio-svolta-dopo-23-anni-arrestato-lex-fidanzato-si-rischiava-un-nuovo-delitto-minacce-allattuale-compagna/8579051/"
+          "titulo": "Autopsia, telecamere e vicini ascoltati dagli investigatori: l’indagine sulla morte di De Gennaro per istigazione al suicidio",
+          "entradilla": "Un’indagine per istigazione al suicidio: è la scelta compiuta dalla procura di Grosseto e dalla Dda di Firenze che da sabato mattina devono sciogliere ogni dubbio sulla morte di Gianni De Gennaro, l’ex capo della Polizia che è stato ritrovato cadavere in una rimessa della sua villa di Montiano, nell",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/21/morte-de-gennaro-indagine-autopsia-notizie/8579802/"
         },
         {
-          "titulo": "Banca Etica deve riaprire il conto del collettivo Autistici/Inventati, finito sotto sanzioni degli Usa",
-          "entradilla": "Il tribunale di Pisa ha disposto il ripristino dell’operatività di un conto corrente intestato all’associazione riconducibile ad Autistici/Inventati, il collettivo sottoposto a sanzioni dagli Stati Uniti lo scorso agosto dopo l’inserimento nella lista Ofac dei soggetti indicati come ‘Specially Desig",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/20/autistici-inventati-banca-etica-conto-notizie/8579042/"
+          "titulo": "Il Tar sospende i divieti della Questura di Trieste per l’assistenza ai migranti. L’invito al Comune: “Organizzarla in spazi attrezzati”",
+          "entradilla": "Niente timer per l’assistenza ai migranti. Le associazioni potranno continuare ad assisterli in piazza Libertà, davanti alla stazione di Trieste, almeno fino al prossimo 16 dicembre. Il Tribunale amministrativo regionale del Friuli Venezia-Giulia ha infatti sospeso i provvedimenti della Questura che",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/21/migranti-trieste-tar-sospensione-divieti-notizie/8579792/"
         },
         {
-          "titulo": "Sciopero a Torino, la polizia respinge i manifestanti con una carica di alleggerimento – Video",
-          "entradilla": "Breve momento di tensione in via Accademia Albertina, a Torino, appena il corteo contro guerra e carovita ha cercato di deviare da via Po. I manifestanti, che da piazza Castello stavano andando in direzione di piazza Vittorio Veneto, hanno improvvisamente svoltato in direzione di corso Vittorio Eman",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/20/sciopero-generale-torino-carica-alleggerimento-notizie/8579044/"
+          "titulo": "De Gennaro non si è ucciso in casa: i rilievi della Scientifica in una rimessa svelati dal drone",
+          "entradilla": "Gianni De Gennaro non si è ucciso nella sua casa a Montiano, in Toscana, ma all’interno di quella che sembra una rimessa – o un box per cavalli – sempre all’interno della sua villa nelle campagne della Maremma. Il particolare è svelato da un video girato con il drone da Local Team che riprende gli [",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/21/de-gennaro-suicidio-video-villa-drone-investigatori-rimessa-notizie/8579786/"
         },
         {
-          "titulo": "Ue-Regno Unito, “svolta” nei rapporti dopo la Brexit: accordi su commercio, emissioni e mobilità dei giovani. Burnham: “Ricostruiamo i ponti”",
-          "entradilla": "Commercio, emissioni di carbonio e mobilità giovanile. Sono i temi principali affrontati dai vertici dell’Unione Europea e dal premier britannico Andy Burnham nel summit andato in scena venerdì a Bruxelles. Un incontro che promette di ricostruire i legami post-Brexit, recuperando una relazione “ambi",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/20/summit-ue-regno-unito-accordi-bruxelles-notizie/8578993/"
+          "titulo": "Bolelli e Vavassori si separano: dalle finali Slam alla vittoria a Roma, finisce l’era della coppia d’oro del doppio maschile italiano",
+          "entradilla": "Simone Bolelli e Andrea Vavassori si dividono. Il duo azzurro saluta le Atp Finals di Torino con un bilancio di tre sconfitte in altrettante partite. L’ultima, contro i tedeschi Krawietz e Puetz, segna la fine di un’era per una delle coppie simbolo del doppio italiano: 10 i titoli conquistati nei tr",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/21/bolelli-vavassori-separazione-doppio-notizie/8579773/"
         },
         {
-          "titulo": "Ora sono tutte definitive le sentenze per l’omicidio di Willy Monteiro: ergastolo per Gabriele Bianchi",
-          "entradilla": "Dopo oltre sei anni, sei processi e vari gradi di giudizio si conclude la vicenda sull’assassinio di Willy Monteiro Duarte, il giovane di 21 anni pestato a Colleferro, in provincia di Roma, la sera del 6 settembre 2020. L’ultimo capitolo si consuma con la condanna definitiva all’ergastolo, pronuncia",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/20/omicidio-willy-monteiro-ergastolo-bianchi-notizie/8578995/"
+          "titulo": "Gianni De Gennaro morto suicida: dal caso dello scoop che ha bruciato l’indagine su Berlusconi e Cosa Nostra, alla richiesta d’arresto per depistaggio",
+          "entradilla": "L’ultima conferma è arrivata da Attilio Bolzoni sul Domani: era Gianni De Gennaro la fonte dello scoop di Repubblica, che ha “bruciato” la prima indagine sui soldi di Silvio Berlusconi a Cosa Nostra. Un mistero durato fin dal 1994 e poi svelato trent’anni dopo dall’ex pm Ilda Boccassini, che dopo av",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/21/gianni-de-gennaro-morto-suicida-dal-caso-dello-scoop-che-ha-bruciato-lindagine-su-berlusconi-e-cosa-nostra-alla-richiesta-darresto-per-depistaggio/8579378/"
         },
         {
-          "titulo": "“Nessuno ci rappresenta, vogliamo un’alternativa radicale a questo sistema”. Le voci dei giovani dal corteo di Roma per lo sciopero generale",
-          "entradilla": "Migliaia i manifestanti scesi in piazza a Roma nella giornata internazionale di sciopero studentesco che ha interessato 25 Paesi in Europa. La protesta arriva dopo settimane di occupazioni nelle scuole di tutta Italia. Al centro delle richieste lo stop al riarmo e ai finanziamenti alla guerra. Poco ",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/20/sciopero-studentesco-corteo-roma-notizie/8578982/"
+          "titulo": "“Non provo più rancore per Schettino. Spero abbia capito quello che ha fatto”, il sopravvissuto al naufragio della Concordia: “Bisogna andare avanti”",
+          "entradilla": "“Non provo più rancore, perché nella vita bisogna anche cercare di andare avanti”. A distanza di anni dal naufragio della Costa Concordia, Umberto Trotti, ristoratore di Ferentillo, in provincia di Terni, torna con la memoria a quella notte e commenta l’uscita dal carcere di Francesco Schettino, l’e",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/21/non-provo-piu-rancore-per-schettino-spero-abbia-capito-quello-che-ha-fatto-il-sopravvissuto-al-naufragio-della-concordia-bisogna-andare-avanti/8579737/"
         },
         {
-          "titulo": "“L’Iran sta sviluppando armi chimiche”: l’allarme del capo del Mossad a Washington. Teheran: “Un nuovo inganno, come per l’Iraq nel 2003”",
-          "entradilla": "Sembra un salto indietro di 23 anni che riporta il mondo agli albori della Seconda Guerra all’Iraq. Questa volta, però, a brandire la minaccia delle armi di distruzione di massa non è il segretario di Stato americano dell’amministrazione Bush, Colin Powell, ma il capo del Mossad Roman Gofman. Second",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/20/iran-armi-chimiche-mossad-allerta-notizie/8578957/"
+          "titulo": "“Il cancro mi ha cambiato la vita”: la principessa Kate Middleton piange nel docu-film “Heal”. Scala in meno di 24 ore le tre montagne più alte del Regno Unito a pochi mesi dalla remissione",
+          "entradilla": "Vento, nebbia e, a tratti, solo maglietta e pantaloncini: Kate Middleton si mostra più determinata che mai in “Heal”, il documentario della BBC – in onda su BBC1 domenica 29 novembre alle 18.40 – che racconta la sua malattia, il cancro, e la scalata delle tre vette più alte della Gran Bretagna in me",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/21/il-cancro-mi-ha-cambiato-la-vita-la-principessa-kate-middleton-piange-nel-docu-film-heal-scala-in-meno-di-24-ore-le-tre-montagne-piu-alte-del-regno-unito/8579727/"
         }
       ],
       "analisis": {
-        "resumen": "- Las protestas estudiantiles y la huelga general reúnen a jóvenes, docentes y trabajadores en varias ciudades italianas.\n- En Milán, las movilizaciones continúan de noche y un grupo ocupa el antiguo matadero.\n- En Turín, la policía utiliza cargas, cañones de agua y gases lacrimógenos contra manifestantes.\n- Un tribunal ordena reabrir la cuenta de un colectivo sancionado por Estados Unidos; también destacan novedades judiciales en dos casos de homicidio.\n- En el ámbito internacional, se recogen protestas en Bruselas, acuerdos entre la UE y el Reino Unido y acusaciones contrapuestas sobre Irán.",
-        "populismo": 35,
-        "motivo_populismo": "Predominan titulares informativos, pero algunas citas emplean lenguaje emotivo y de confrontación, como «sueños rotos» y «nadie nos representa», y aparece la expresión «alarma» sobre Irán.",
-        "sesgo": "La portada da un protagonismo amplio a las protestas y a las voces de estudiantes y manifestantes, con especial atención a sus reivindicaciones y a la actuación policial. La selección ofrece menos espacio a otras perspectivas sobre las movilizaciones."
+        "resumen": "- La muerte de Gianni De Gennaro centra varias noticias: las declaraciones de La Russa, la investigación y la trayectoria del exjefe de Policía.\n- FdI propone suspender ayudas a estudiantes investigados por delitos relacionados con protestas; Conte critica la medida.\n- Miles de personas despiden a Corrado Augias en Roma; en Turín, un empleado ha sido detenido por la muerte del dueño de un pub.\n- Un tribunal suspende las restricciones a la asistencia a migrantes en Trieste. Un superviviente de la Concordia habla de Schettino.\n- En deportes, Alcaraz habla de su juego y Bolelli y Vavassori se separan. También se destaca un documental sobre Kate Middleton.",
+        "populismo": 30,
+        "motivo_populismo": "Hay formulaciones emotivas como «finisce l’era della coppia d’oro» y un contraste político en la cita «repressione per chi protesta e scudo per chi è in Parlamento», aunque predominan titulares informativos.",
+        "sesgo": "La portada dedica especial atención a la muerte y trayectoria de De Gennaro y presenta medidas de FdI junto a una crítica de Conte. También destaca una resolución favorable a la asistencia a migrantes, sin que ello baste para atribuir una orientación política definida al conjunto."
       }
     }
   ]
