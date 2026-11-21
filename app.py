@@ -2,7 +2,7 @@
 Portadas IA · la web
 --------------------
 Esta página solo ENSEÑA los datos. No llama a los periódicos ni a ChatGPT:
-de eso se encarga actualizar.py, que GitHub ejecuta a las 8:00 y a las 18:00
+de eso se encarga actualizar.py, que GitHub ejecuta a las 14:00
 y deja el resultado en datos/<país>/ (datos/es, datos/fr…).
 El selector de arriba decide de qué carpeta se lee.
 
@@ -21,7 +21,7 @@ import streamlit as st
 
 import seccion_discapacidad
 
-HORAS = [8, 18]                # las mismas que en actualizar.py
+HORAS = [14]                # las mismas que en actualizar.py
 CARPETA = Path(__file__).parent / "datos"
 
 # Crispito, la mascota. Sus GIF se crean con crear_crispito.py.

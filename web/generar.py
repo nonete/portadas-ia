@@ -159,7 +159,7 @@ PAISES = {
     },
 }
 
-HORAS = [8, 18]                             # las mismas que en actualizar.py
+HORAS = [14]                             # las mismas que en actualizar.py
 DIAS_GRAFICO = 30                            # días que caben en el gráfico
 
 # Con --vista-previa los enlaces entre páginas acaban en "index.html".
@@ -196,7 +196,7 @@ def enumerar(elementos: list) -> str:
 
 
 def lista_horas() -> str:
-    """'8:00 y 18:00'"""
+    """'14:00' (o '8:00 y 18:00' si hubiera varias horas)"""
     return enumerar([f"{hora}:00" for hora in HORAS])
 
 

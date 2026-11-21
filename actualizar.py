@@ -2,7 +2,7 @@
 Portadas IA · el "robot" que actualiza los datos
 ------------------------------------------------
 Este programa NO es la web. Lo ejecuta GitHub automáticamente (ver
-.github/workflows/actualizar.yml) a las 8:00 y a las 18:00.
+.github/workflows/actualizar.yml) a las 14:00.
 
 Pasos que sigue:
   1. Descargar los titulares de portada de cada periódico (por RSS).
@@ -347,7 +347,7 @@ IDIOMAS_TRADUCCION = {
 }
 DIAS_HISTORIAL_POR_TRADUCIR = 40   # como mucho, comentarios de días pasados por llamada
 
-HORAS = [8, 18]                # horas (de Madrid) a las que se actualiza
+HORAS = [14]                # horas (de Madrid) a las que se actualiza
 MAX_TITULARES = 12              # noticias de cada portada que se envían a ChatGPT
 MADRID = ZoneInfo("Europe/Madrid")
 
@@ -391,9 +391,9 @@ def leer_secreto(nombre: str) -> str:
 
 
 def turno_actual(ahora: datetime) -> int | None:
-    """Devuelve la última hora de actualización ya cumplida hoy (8 o 18).
+    """Devuelve la última hora de actualización ya cumplida hoy (14).
 
-    Antes de las 8:00 devuelve None: todavía no toca.
+    Antes de las 14:00 devuelve None: todavía no toca.
     GitHub puede arrancar con retraso, por eso no exigimos la hora exacta.
     """
     cumplidas = [hora for hora in HORAS if hora <= ahora.hour]
@@ -621,7 +621,7 @@ def archivar_dia(codigo: str, ultimo: dict) -> None:
 
     La web estática crea con ella una página fija por día (por ejemplo
     /francia/2026-11-12/). Se sobrescribe en cada lectura, así que al acabar el
-    día queda la última (la de las 18:00). Se omiten las opiniones de los
+    día queda la última (la de las 14:00, salvo que se lance otra a mano). Se omiten las opiniones de los
     personajes para que los archivos pesen menos.
     """
     dia = {clave: valor for clave, valor in ultimo.items() if clave != "opiniones"}
@@ -833,11 +833,11 @@ def main() -> None:
     forzar = os.environ.get("FORZAR") == "1"   # ejecución manual desde GitHub
 
     if forzar and turno is None:
-        # Lanzada a mano antes de las 8:00: se apunta como turno 0, para que
-        # la automática de las 8:00 se haga igualmente.
+        # Lanzada a mano antes de las 14:00: se apunta como turno 0, para que
+        # la automática de las 14:00 se haga igualmente.
         turno = 0
     if turno is None:
-        print("Todavía no son las 8:00 en Madrid: no toca actualizar.")
+        print("Todavía no son las 14:00 en Madrid: no toca actualizar.")
         return
 
     # PAIS: si se lanza a mano para un solo país (por ejemplo "br"), solo se

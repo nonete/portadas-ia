@@ -2,7 +2,7 @@
 Portadas IA · el "robot" de la sección Discapacidad
 ---------------------------------------------------
 Lo ejecuta GitHub justo después de actualizar.py (ver
-.github/workflows/actualizar.yml), a las 8:00 y a las 18:00.
+.github/workflows/actualizar.yml), a las 14:00.
 
 Pasos que sigue:
   1. Buscar noticias sobre discapacidad en la prensa española. Usa tres vías,
@@ -659,7 +659,7 @@ def main() -> None:
     if forzar and turno is None:
         turno = 0
     if turno is None:
-        print("Todavía no son las 8:00 en Madrid: no toca actualizar.")
+        print("Todavía no son las 14:00 en Madrid: no toca actualizar.")
         return
 
     fecha = ahora.strftime("%Y-%m-%d")
