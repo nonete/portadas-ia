@@ -1,39 +1,39 @@
 {
   "pais": "Estados Unidos",
-  "fecha": "2026-11-21",
+  "fecha": "2026-11-22",
   "turno": 14,
-  "generado": "21/11/2026 19:41",
+  "generado": "22/11/2026 20:02",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "Se repiten la condena por provocar el incendio de Palisades, la inteligencia artificial y sus efectos en los mercados y la educación, y las preocupaciones por los cambios en un comité federal de salud. También aparecen noticias sobre delincuencia y seguridad, así como decisiones y disputas políticas. Solo el New York Post destaca la infestación de chinches en el centro de llamadas al 911 de Nueva York.",
-    "crispacion": 48,
-    "motivo_crispacion": "La crispación es moderada: los cambios en el comité federal de salud suscitan inquietudes por posibles interferencias políticas, mientras un tribunal cuestiona la aprobación de una ley de la era Biden. En Los Ángeles, el controlador acusa al concejo municipal de intentar debilitar a la alcaldesa. También generan tensión las noticias sobre inmigración y violencia. En cambio, la colaboración sobre seguridad fronteriza entre Trump y la gobernadora electa demócrata de Texas, junto con informaciones de educación, deportes y entretenimiento, equilibra el conjunto."
+    "temas": "Las elecciones legislativas y la carrera presidencial de 2028 aparecen en The New York Times, The Washington Post y Los Angeles Times. La condena por el incendio de Palisades figura en The Washington Post y The Wall Street Journal. También se repiten noticias sobre clima, tribunales y sucesos. El New York Post destaca en solitario la publicación de archivos sobre los efectos sanitarios de los atentados del 11 de septiembre.",
+    "crispacion": 58,
+    "motivo_crispacion": "La crispación es moderada: los resultados electorales alimentan el debate entre republicanos sobre sus derrotas y el papel de Trump, mientras los demócratas miran hacia 2028. También hay tensión entre la Administración y grupos ambientales por la detonación prevista en Iowa, así como conflictos judiciales relacionados con proyectos del Gobierno. En el plano internacional, las negociaciones climáticas fracasan por el desacuerdo sobre los combustibles fósiles. Noticias sobre cultura, recetas, deporte y avances médicos ofrecen un contrapunto más tranquilo."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Veo en las portadas una vieja contradicción con ropaje nuevo: la inteligencia artificial promete transformar la economía mientras Wall Street celebra su entrada en bolsa y se inquieta por sus costes. Pero ¿quién decide cómo se usa esa tecnología y quién recogerá sus beneficios? El acuerdo de la Universidad de California con OpenAI, frente al que docentes piden cautela, hace urgente esa pregunta.\n\nAl mismo tiempo, cambiar las reglas de financiación amenaza proyectos de transporte público, y una decisión judicial mantiene paralizadas en Texas las adaptaciones laborales para trabajadoras embarazadas. Yo defiendo lo contrario: servicios públicos sólidos, derechos laborales efectivos y propiedad colectiva de las infraestructuras esenciales. La tecnología debe estar bajo control democrático y servir a la mayoría trabajadora, no quedar subordinada a la rentabilidad del gran capital."
+      "texto": "El derrumbe de la COP31 muestra, a mi juicio, una contradicción central de nuestro tiempo: mientras las costas de California afrontan inundaciones extremas, los intereses ligados a los combustibles fósiles siguen frenando una salida de ellos. La transición no puede dejarse al mercado ni pagarse con el empleo y la vivienda de la clase trabajadora. Defiendo una energía de propiedad colectiva, inversión pública y empleos dignos para transformar la producción.\n\nLa amplia mayoría demócrata en la Cámara abre una oportunidad, pero cambiar la composición del Congreso no cambia por sí solo quién posee la riqueza y decide las prioridades económicas. Yo la mediría por su disposición a fortalecer los servicios públicos, proteger a quienes trabajan y enfrentarse al poder del gran capital. Sin organización de la clase trabajadora, las promesas electorales corren el riesgo de quedarse en promesas."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "Veo en las noticias una misma apuesta por concentrar poder y llamar a eso solución. En Los Ángeles, levantar una valla alrededor de MacArthur Park no resuelve por sí mismo la falta de vivienda, las drogas ni la violencia. Prefiero que quienes viven y trabajan en el barrio decidan cómo organizar el cuidado, el espacio común y la ayuda mutua, con recursos bajo control comunitario.\n\nTambién me inquieta que la Universidad de California adopte la inteligencia artificial a gran escala mientras parte del profesorado pide cautela. No rechazo la tecnología: rechazo que decisiones que afectan al aprendizaje se tomen desde arriba, sin control efectivo de quienes enseñan y estudian. Ni el Estado ni los partidos ni las empresas deberían administrar nuestra vida en nuestro nombre. La libertad necesita autonomía individual, cooperación voluntaria y comunidades capaces de gobernarse sin jerarquías."
+      "texto": "La mayoría demócrata en la Cámara puede cambiar decisiones concretas, pero no confundamos la alternancia de partidos con la emancipación. Yo no quiero limitar mi libertad a elegir quién gobierna: quiero que quienes compartimos un barrio o un lugar de trabajo podamos decidir directamente sobre nuestras vidas, sin jefes ni representantes intocables.\n\nEl fracaso de la COP31 muestra los límites de confiar el futuro climático a negociaciones entre Estados, algunos de ellos defensores de los combustibles fósiles. Frente a las inundaciones que amenazan la costa de California, la respuesta no puede reducirse a esperar otra cumbre: necesitamos redes vecinales de apoyo mutuo, preparación y decisiones tomadas por las comunidades afectadas. La autogestión no elimina por sí sola el peligro, pero permite afrontar sus consecuencias sin entregar nuestra capacidad de actuar a quienes concentran el poder."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "Veo en las noticias de hoy una lección sobre los límites del poder y las virtudes de la libertad. Los fallos de formación detectados en la contratación acelerada de agentes migratorios recuerdan que dar más recursos y facultades al Estado no garantiza competencia. Incluso al ejercer su función legítima de controlar fronteras, el Gobierno debe respetar los derechos individuales y responder por sus decisiones.\n\nTambién celebro que más universidades ofrezcan carreras de tres años: la competencia y la libertad para ensayar modelos distintos pueden aliviar el coste para las familias sin esperar otra solución burocrática. Y ante las vulnerabilidades digitales, las empresas deben asumir la responsabilidad de proteger a sus clientes. Prefiero impuestos bajos, un Estado limitado y ciudadanos y empresas responsables a la ilusión de que cada problema exige una nueva expansión del poder público."
+      "texto": "La victoria demócrata en la Cámara merece respeto: las urnas han hablado. Pero una mayoría no convierte automáticamente cada expansión del gobierno en buena política. Yo pediría a los nuevos legisladores impuestos bajos y un Estado limitado, que deje a familias y empresas decidir cómo utilizar más de lo que ganan. La responsabilidad personal exige precisamente espacio para elegir, emprender y asumir las consecuencias.\n\nTambién celebro que algunas universidades ofrezcan carreras de tres años para reducir costes. Es un ejemplo de cómo la competencia y la innovación pueden ampliar oportunidades sin esperar siempre una solución desde Washington. Y ante el fracaso de la COP31, creo que proteger el clima requiere reglas claras y responsabilidad por los daños, pero también libertad para que los mercados desarrollen tecnologías mejores. Sustituir la innovación por prohibiciones generales puede encarecer la energía sin resolver el problema."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "La soberanía no consiste en anunciar mano dura ante las cámaras, sino en controlar de verdad quién entra en el país y hacer cumplir la ley con agentes bien preparados. El informe preliminar sobre las carencias de formación en ICE debería inquietar a cualquiera que defienda una frontera segura: contratar deprisa no sustituye al entrenamiento ni a la responsabilidad. Celebro que la gobernadora electa de Texas y el presidente hablen de seguridad fronteriza; espero que sus palabras se traduzcan en decisiones firmes.\n\nTambién quiero calles y espacios públicos recuperados para las familias. La valla de MacArthur Park puede ser una medida útil, pero no reemplaza la aplicación sostenida de la ley. Mientras tanto, las élites tecnológicas nos prometen maravillas de la inteligencia artificial pese a vulnerabilidades acumuladas durante décadas. Prefiero un país que proteja sus fronteras, eduque a sus hijos y cuide sus instituciones antes que otro fascinado por cada novedad."
+      "texto": "Veo en la victoria demócrata una advertencia que la derecha no puede despachar culpando a un solo dirigente. Si queremos recuperar la confianza de los ciudadanos, debemos defender la soberanía nacional con propuestas concretas y rendir cuentas cuando gobernamos. Las fronteras deben controlarse con rigor, pero también con procedimientos claros y sometidos a la ley: la seguridad no exige poderes sin límites.\n\nMe preocupa, además, la campaña de espionaje china para obtener chips avanzados. No podemos dejar tecnologías estratégicas a merced de intereses comerciales ni confiar ciegamente en que las élites económicas antepongan el país al negocio. Y celebro que se estudien límites a los teléfonos en las escuelas: educar exige atención, disciplina y autoridad. Una nación fuerte protege sus fronteras, su capacidad industrial y las instituciones que transmiten sus valores."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Me preocupa que el afán de actuar rápido termine debilitando al Estado que necesitamos. El borrador sobre las carencias de formación en ICE debería llevar a revisar la contratación y el despliegue de agentes: una política migratoria eficaz exige controlar la frontera, pero también respetar el debido proceso. Del mismo modo, un panel de salud paralizado y expuesto a posibles conflictos de interés no sirve a nadie. Sus recomendaciones deben apoyarse en evidencia y en expertos independientes.\n\nTambién creo que la inteligencia artificial puede impulsar la prosperidad, aunque las vulnerabilidades digitales y las turbulencias del mercado recuerdan que innovar no basta: hacen falta inversión en seguridad y reglas claras. Prefiero reformas graduales que protejan a las personas sin sofocar la iniciativa privada. La conversación entre Trump y la gobernadora electa demócrata de Texas ofrece, al menos, una oportunidad para buscar acuerdos sobre seguridad fronteriza."
+      "texto": "La mayoría demócrata en la Cámara es una oportunidad, no un cheque en blanco. Yo celebraría la victoria trabajando desde ahora con quienes estén dispuestos a llegar a acuerdos, incluso al otro lado del pasillo. Gobernar bien exige reformas duraderas, no solo preparar la próxima elección.\n\nMe preocupa que la administración pretenda seguir adelante con una detonación en Iowa mientras hay una demanda ambiental pendiente. Una emergencia no debe convertirse en excusa para eludir el escrutinio judicial. Y el fracaso de la COP31 recuerda que necesitamos una transición energética negociada, con metas creíbles y apoyo a las comunidades afectadas. El mercado puede impulsar la innovación, pero no sustituye reglas públicas ni protección social. Esa combinación, gradual y exigente, me parece más útil que prometer soluciones instantáneas."
     }
   ],
   "periodicos": [
@@ -42,77 +42,112 @@
       "web": "https://www.nytimes.com",
       "noticias": [
         {
-          "titulo": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
-          "entradilla": "Cybersecurity has been an afterthought since the early days of the internet. Now A.I. is uncovering dormant problems, making the bill come due for decades of vulnerable code.",
-          "enlace": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html"
+          "titulo": "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
+          "entradilla": "After sweeping midterm wins, Democrats have secured the largest House majority in a national election for either party in three decades.",
+          "enlace": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html"
         },
         {
-          "titulo": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
-          "entradilla": "The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending.",
-          "enlace": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html"
+          "titulo": "Democrat Chuck Hubbard Defeats 11-Term Republican Virginia Foxx in North Carolina",
+          "entradilla": "Chuck Hubbard, a retired journalist, defeated Representative Virginia Foxx in a conservative district.",
+          "enlace": "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html"
         },
         {
-          "titulo": "Officials Find Cascade of Problems With ICE Training in Trump’s Immigration Crackdown",
-          "entradilla": "In a draft report, officials found widespread training gaps as the Department of Homeland Security sought to rapidly hire and deploy 10,000 new officers.",
-          "enlace": "https://www.nytimes.com/2026/11/20/us/politics/training-ice-immigration-inspector-general.html"
+          "titulo": "Republicans Debate Why They Lost the Midterms, and if Trump Is to Blame",
+          "entradilla": "A divide is emerging in the party over what caused its wipeout midterm defeats, foreshadowing a battle over how to move forward before 2028.",
+          "enlace": "https://www.nytimes.com/2026/11/22/us/politics/republican-midterm-loss-debate-trump.html"
         },
         {
-          "titulo": "Powerful Health Panel Has Tumultuous First Meeting With RFK Jr’s Appointees",
-          "entradilla": "Since March 2025, the work of the U.S. Preventive Services Task Force has been at a standstill.",
-          "enlace": "https://www.nytimes.com/2026/11/20/well/rfk-jr-uspstf-panel-meeting.html"
+          "titulo": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
+          "entradilla": "The pediatrician, who once compared JD Vance to the herpes virus, notched one of the most shocking upsets of the midterm elections by defeating Senator Darline Graham.",
+          "enlace": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html"
         },
         {
-          "titulo": "A New Trump Tactic to Restrict Transit Funding: Rewrite the Rules",
-          "entradilla": "The changes could make it harder for dozens of projects across the country to get funding they have pursued for years.",
-          "enlace": "https://www.nytimes.com/2026/11/21/upshot/trump-transit-grants.html"
+          "titulo": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+          "entradilla": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
+          "enlace": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html"
         },
         {
-          "titulo": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
-          "entradilla": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.",
-          "enlace": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html"
+          "titulo": "How Melania Trump Found a Diplomatic Opening in the War in Ukraine",
+          "entradilla": "The first lady, who has little experience in international affairs, developed back channels to key figures on both sides of the conflict through her longtime agent.",
+          "enlace": "https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html"
         },
         {
-          "titulo": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
-          "entradilla": "The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives.",
-          "enlace": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html"
+          "titulo": "Fact-Checking Stephen Miller, the New White House Chief of Staff",
+          "entradilla": "Mr. Miller has promoted some of the second Trump administration’s most egregious falsehoods about immigration policy, the economy and political opposition.",
+          "enlace": "https://www.nytimes.com/2026/11/22/us/politics/stephen-miller-fact-check.html"
         },
         {
-          "titulo": "Hakeem Jeffries on Trump, Stephen Miller, AIPAC and the Road Ahead",
-          "entradilla": "The Democratic nominee for House speaker will have a challenging job. We asked him how he plans to lead.",
-          "enlace": "https://www.nytimes.com/2026/11/21/magazine/hakeem-jeffries-interview.html"
+          "titulo": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
+          "entradilla": "China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.",
+          "enlace": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html"
         },
         {
-          "titulo": "From ‘Stranger Things’ to Broadway, Everyone Knows Joe Keery",
-          "entradilla": "“Stranger Things” vaulted him to stardom. With his Broadway debut in “Other Desert Cities,” he wants to get back to “why I started doing this in the first place.”",
-          "enlace": "https://www.nytimes.com/2026/11/21/theater/joe-keery-other-desert-cities-broadway.html"
+          "titulo": "Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China",
+          "entradilla": "The treasury secretary said on CBS that it was too soon to say if Jensen Huang should return as the company’s chief executive.",
+          "enlace": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html"
         },
         {
-          "titulo": "The Sisterhood Rocks!",
-          "entradilla": "But should daughters bear the brunt of their folks’ care?",
-          "enlace": "https://www.nytimes.com/2026/11/21/opinion/sister-snl-family-care-parents.html"
+          "titulo": "Looking for the Formula to Stop an Apocalypse",
+          "entradilla": "Mike Winer and his colleagues are trying to build a mathematical safeguard to keep A.I. under human control. They fear they are running out of time.",
+          "enlace": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html"
         },
         {
-          "titulo": "Advice to Democrats: Impeach Trump’s Cabinet",
-          "entradilla": "Autocrats, tech lords and a whole lot of hubris: a week in politics.",
-          "enlace": "https://www.nytimes.com/2026/11/21/opinion/trump-xi-putin-summit-china-ai-democrats.html"
+          "titulo": "Easy Thanksgiving Recipes That Take Up Absolutely No Oven Space",
+          "entradilla": "Dishes for the stovetop, the slow-cooker, the air fryer, the Instant Pot and more.",
+          "enlace": "https://cooking.nytimes.com/article/easy-thanksgiving-recipes-no-oven-space"
         },
         {
-          "titulo": "Who Owns Thanksgiving?",
-          "entradilla": "How to claim a stake in the holiday, even if you’re not hosting.",
-          "enlace": "https://www.nytimes.com/2026/11/21/briefing/who-owns-thanksgiving.html"
+          "titulo": "Andrew Scott on the Shattering Feat of Playing Ian Charleson in ‘Elsinore’",
+          "entradilla": "Scott is the subject of Oscar chatter for his performance recreating the last months of Ian Charleson for the biopic “Elsinore.”",
+          "enlace": "https://www.nytimes.com/2026/11/22/movies/andrew-scott-elsinore-ian-charleson.html"
         }
       ],
       "analisis": {
-        "resumen": "- La inteligencia artificial protagoniza noticias sobre riesgos de ciberseguridad y tensiones entre Wall Street y Silicon Valley.\n- Dos artículos examinan problemas de formación en inmigración y cambios que podrían dificultar la financiación del transporte bajo Trump.\n- Una comisión de salud celebra una primera reunión agitada con los nombrados por RFK Jr., tras meses de paralización.\n- El ejército mexicano captura a El Chapo Isidro en una operación violenta; otra pieza repasa su trayectoria.\n- La portada incluye una entrevista a Hakeem Jeffries, opinión política y temas de cultura, cuidados familiares y Acción de Gracias.",
-        "populismo": 25,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «cascada de problemas» y «autócratas, señores de la tecnología» aportan dramatismo y descalificación, esta última en una pieza de opinión.",
-        "sesgo": "La selección destaca problemas asociados a medidas de Trump e incluye una entrevista a un dirigente demócrata y una columna crítica con el Gobierno. También enfatiza los riesgos y las tensiones económicas vinculados a la inteligencia artificial."
+        "resumen": "- Los demócratas logran 258 escaños en la Cámara de Representantes y varias victorias destacadas.\n- Los republicanos debaten las causas de su derrota y el papel de Trump.\n- Las conversaciones de la COP31 fracasan por desacuerdos sobre los combustibles fósiles.\n- La portada aborda la guerra en Ucrania, las afirmaciones de Stephen Miller y la disputa por los chips de IA.\n- También incluye noticias sobre seguridad de la IA, recetas de Acción de Gracias y cine.",
+        "populismo": 24,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «derrota aplastante», «sorprendente vuelco» y «apocalipsis» aportan dramatismo y sensacionalismo.",
+        "sesgo": "La selección destaca los triunfos demócratas y las divisiones y afirmaciones falsas atribuidas a figuras republicanas. Al mismo tiempo, incluye una noticia sobre el papel diplomático de Melania Trump y asuntos ajenos a la política electoral."
       }
     },
     {
       "nombre": "The Washington Post",
       "web": "https://www.washingtonpost.com",
       "noticias": [
+        {
+          "titulo": "U.S. Army tells court it will go ahead with detonation in Iowa by Tuesday",
+          "entradilla": "The Trump administration says an emergency provision allows it proceed despite a pending lawsuit by environmental groups.",
+          "enlace": "https://www.washingtonpost.com/nation/2026/11/22/us-army-tells-court-it-will-go-ahead-with-detonation-iowa-by-tuesday/"
+        },
+        {
+          "titulo": "Why this incoming congresswoman opposed Jeffries for speaker",
+          "entradilla": "Rep.-elect Angela Gonzales-Torres on that decision and her goals in Congress.",
+          "enlace": "https://www.washingtonpost.com/politics/2026/11/22/why-this-incoming-congresswoman-opposed-jeffries-speaker/"
+        },
+        {
+          "titulo": "Why Jackie Kennedy wore the gore-spattered suit all day (and why we won’t see it again)",
+          "entradilla": "The raspberry pink jacket and skirt, stained with President John F. Kennedy's blood, may not be shown to the public until at least 2103.",
+          "enlace": "https://www.washingtonpost.com/nation/2026/11/22/why-jackie-kennedy-wore-gore-spattered-suit-all-day-why-we-wont-see-it-again/"
+        },
+        {
+          "titulo": "He wrote personal notes on hundreds of Christmas cards every year",
+          "entradilla": "A teacher who loved folk dancing. A father’s words of wisdom. Intimate obituaries, in 150 words or less.",
+          "enlace": "https://www.washingtonpost.com/obituaries/2026/11/22/he-wrote-personal-notes-hundreds-christmas-cards-every-year/"
+        },
+        {
+          "titulo": "The remarkable recovery of a National Guardsman shot near the White House",
+          "entradilla": "A year after Staff Sgt. Andrew Wolfe was shot in the head, his mind and body are healing. But his life was turned upside down.",
+          "enlace": "https://www.washingtonpost.com/nation/2026/11/22/long-journey-remarkable-recovery-staff-sgt-andrew-wolfe/"
+        },
+        {
+          "titulo": "Trump keeps losing in court. Here’s how he gets what he wants anyway.",
+          "entradilla": "Judges have been unable to slow or stop some of the administration’s highest-profile projects.",
+          "enlace": "https://www.washingtonpost.com/politics/2026/11/22/trump-keeps-losing-court-heres-how-he-gets-what-he-wants-anyway/"
+        },
+        {
+          "titulo": "When Captain Kirk and Lieutenant Uhura kissed, and America was pretty okay with it",
+          "entradilla": "On Nov. 22, 1968, William Shatner and Nichelle Nichols shared U.S. television’s first scripted kiss between Black and White characters. An expected backlash failed to materialize.",
+          "enlace": "https://www.washingtonpost.com/nation/2026/11/22/when-captain-kirk-lieutenant-uhura-kissed-people-were-pretty-okay-with-it/"
+        },
         {
           "titulo": "Was Trump’s news conference with Vance and Rubio an audition for 2028?",
           "entradilla": "Vice President JD Vance and Secretary of State Marco Rubio are widely considered to be potential Republican presidential candidates.",
@@ -137,48 +172,13 @@
           "titulo": "A fixture behind the plate for two teams and part of ‘baseball’s first family’",
           "entradilla": "Bob Boone endured the grueling physical toll of catching in the majors with remarkable toughness.",
           "enlace": "https://www.washingtonpost.com/obituaries/2026/11/21/fixture-behind-plate-two-teams-part-baseballs-first-family/"
-        },
-        {
-          "titulo": "A stray puppy hopped onto a car salesman’s lap. It may have saved her life.",
-          "entradilla": "When it turned out the dog was seriously ill, the family paid her $4,000 vet bill and adopted her.",
-          "enlace": "https://www.washingtonpost.com/lifestyle/2026/11/21/this-stray-puppy-hopped-into-car-salesmans-lap-his-heart/"
-        },
-        {
-          "titulo": "Pandemic-era law passed unconstitutionally because of proxy voting, appeals court rules",
-          "entradilla": "The U.S. Court of Appeals for the 5th Circuit upheld Texas’s injunction stopping accommodations for pregnant workers by targeting how Congress passed a massive Biden-era funding bill.",
-          "enlace": "https://www.washingtonpost.com/business/2026/11/21/pandemic-era-law-passed-unconstitutionally-because-proxy-voting-appeals-court-rules/"
-        },
-        {
-          "titulo": "L.A. train heists net thieves more than $22 million in goods, feds say",
-          "entradilla": "A Southern California crew is charged with breaking into more than 70 shipping containers in 31 months, stealing more than $22 million in shoes and other goods.",
-          "enlace": "https://www.washingtonpost.com/nation/2026/11/20/la-train-heists-net-thieves-more-than-22-million-goods-feds-say/"
-        },
-        {
-          "titulo": "Federal health panel reshaped by RFK Jr. faces political interference concerns",
-          "entradilla": "Some members of the U.S. Preventive Services Task Force expressed concerns that the changes from the Trump administration could make the group less reliable and more open to conflicts of interest.",
-          "enlace": "https://www.washingtonpost.com/health/2026/11/20/federal-health-panel-reshaped-by-rfk-jr-faces-political-interference-concerns/"
-        },
-        {
-          "titulo": "U.S. stocks slump into correction territory amid tech and AI worries",
-          "entradilla": "Markets on Friday posted their worst week since worries about President Donald Trump’s tariffs caused a global sell-off in April 2025.",
-          "enlace": "https://www.washingtonpost.com/business/2026/11/20/us-stock-market-slumps-amid-rising-tech-ai-worries/"
-        },
-        {
-          "titulo": "Texas governor-elect and Trump agree to work together on border security",
-          "entradilla": "President Donald Trump says he had a “very productive call” with Democratic Gov.-elect Gina Hinojosa, who characterized it as “a very positive conversation.”",
-          "enlace": "https://www.washingtonpost.com/politics/2026/11/20/texas-governor-elect-trump-agree-work-together-border-security/"
-        },
-        {
-          "titulo": "Hat had traveled too far into Fiona’s intestines to safely remove, zoo says",
-          "entradilla": "There was no way to use endoscopy to reach the hat that the beloved hippo ingested, Cincinnati Zoo officials said, and laparoscopic surgery was not possible.",
-          "enlace": "https://www.washingtonpost.com/nation/2026/11/20/hat-had-traveled-too-far-into-fionas-intestines-safely-remove-zoo-says/"
         }
       ],
       "analisis": {
-        "resumen": "- La rueda de prensa de Trump con Vance y Rubio plantea preguntas sobre las presidenciales de 2028; Trump y la gobernadora electa de Texas acuerdan colaborar en seguridad fronteriza.\n- Un tribunal cuestiona la aprobación por voto delegado de una ley de la pandemia; miembros de un panel federal de salud alertan de posibles interferencias políticas.\n- Condenan a un hombre por iniciar el incendio de Palisades y acusan a una banda de robar más de 22 millones de dólares en mercancías de trenes.\n- Las bolsas estadounidenses entran en corrección por inquietudes sobre tecnología e inteligencia artificial; programas piloto prueban drones para transportar suministros médicos.\n- La portada incluye historias humanas sobre un anillo recuperado y una perrita adoptada, un perfil del beisbolista Bob Boone y noticias sobre la hipopótama Fiona.",
-        "populismo": 12,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «puede haberle salvado la vida» y referencias al incendio mortal añaden carga emocional; no se aprecia una oposición entre pueblo y élites.",
-        "sesgo": "La selección presta atención a las decisiones y posibles conflictos de la administración Trump, pero también recoge su acuerdo con una gobernadora demócrata. Con estos titulares no se aprecia un sesgo partidista concluyente."
+        "resumen": "- El Ejército prevé una detonación en Iowa pese a una demanda ambiental; otra noticia examina cómo Trump avanza en proyectos pese a reveses judiciales.\n- La congresista electa Angela Gonzales-Torres explica su oposición a Jeffries; también se analizan las posibles aspiraciones presidenciales de Vance y Rubio.\n- Un hombre fue condenado por provocar el incendio de Palisades, que destruyó más de 6.800 edificios.\n- La portada recuerda el traje ensangrentado de Jackie Kennedy y un beso interracial en la televisión estadounidense.\n- Otras historias abordan la recuperación de un guardia nacional, servicios médicos con drones, obituarios y relatos personales.",
+        "populismo": 18,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «sigue perdiendo en los tribunales» y la referencia al traje «salpicado de sangre» aportan dramatismo; no se aprecia una apelación al pueblo contra las élites.",
+        "sesgo": "La selección incluye un enfoque de vigilancia crítica sobre la actuación de la Administración Trump ante los tribunales. También da espacio a historias humanas, culturales y científicas; con estos titulares no se puede establecer una orientación partidista general."
       }
     },
     {
@@ -247,10 +247,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- La jefa policial multimillonaria de Nueva York y su alcalde socialista han formado una alianza poco probable.\n- Un jurado de California condenó a un hombre por provocar el mortal incendio de Palisades de 2025.\n- Varios agentes fueron acusados de mala conducta en relación con un tiroteo mortal en Carolina del Sur.\n- La educación ocupa varias noticias: restricciones a móviles, carreras más cortas, discriminación racial, litigios por notas y una donación de 3.000 millones de dólares.\n- La portada también aborda cambios en grandes despachos de abogados, la vida en un portaaviones y la muerte de la hipopótama Fiona.",
+        "resumen": "- La jefa policial multimillonaria de Nueva York y el alcalde socialista mantienen una colaboración descrita como improbable.\n- Un jurado declara culpable a un hombre de provocar el incendio de Palisades; en Carolina del Sur, varios agentes afrontan cargos por mala conducta en un tiroteo mortal.\n- La portada aborda la prohibición de móviles en escuelas, carreras universitarias más cortas, demandas de padres y una norma propuesta sobre discriminación racial.\n- Ken Griffin destina 3.000 millones de dólares a Carnegie Mellon; también hay cambios de liderazgo y equipos en grandes bufetes.\n- Un reportaje retrata la vida en un portaaviones, mientras otra noticia informa de la muerte de Fiona, la hipopótama de Cincinnati.",
         "populismo": 15,
-        "motivo_populismo": "Predomina un lenguaje informativo, aunque expresiones como «el peor temor» de un piloto y el contraste entre «multimillonaria» y «socialista» añaden dramatización; no se aprecia una apelación al pueblo contra las élites.",
-        "sesgo": "La selección presta especial atención a figuras influyentes, grandes instituciones, asuntos legales y educación. El titular sobre Nueva York destaca el contraste ideológico y económico entre sus protagonistas."
+        "motivo_populismo": "Predomina un tono informativo, aunque contrastes como «multimillonaria» y «socialista» y expresiones como «el peor temor» aportan dramatización.",
+        "sesgo": "La selección presta atención a instituciones, grandes fortunas, educación y asuntos jurídicos. No se aprecia una orientación partidista clara en los titulares proporcionados."
       }
     },
     {
@@ -258,34 +258,54 @@
       "web": "https://www.latimes.com",
       "noticias": [
         {
-          "titulo": "Desperate to curb drugs and crime, L.A. is building a fence around MacArthur Park",
-          "entradilla": "Los Angeles officials have battled waves of gang violence, homelessness, drugs and deaths in once-picturesque MacArthur Park, tucked in the heart of one of America's most densely populated neighborhoods. But sustained improvement has proved difficult, and now the city is trying a new approach.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-21/desperate-to-curb-drugs-crime-la-is-building-fence-around-macarthur-park"
+          "titulo": "Bay Area airports, coast under extreme flood threat, residents told to avoid travel",
+          "entradilla": "Extreme flooding of the coast from rising seawater is possible from San Francisco Bay to San Diego",
+          "enlace": "https://www.latimes.com/california/story/2026-11-22/bay-area-airports-coast-under-extreme-flood-threat-residents-told-to-avoid-travel"
         },
         {
-          "titulo": "UC jumps into AI with systemwide OpenAI deal as faculty urge caution",
-          "entradilla": "The deal gives hundreds of thousands of students, faculty and staff access to ChatGPT. Faculty leaders say they had asked university administration to move with more caution.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-21/uc-openai-chatgpt-deal"
+          "titulo": "Buoyed by midterms, Democrats start looking to 2028",
+          "entradilla": "The 2028 presidential election will be a race to chart America's course after a decade that has been dominated by President Trump.",
+          "enlace": "https://www.latimes.com/politics/story/2026-11-22/buoyed-by-midterms-democrats-start-looking-to-2028"
         },
         {
-          "titulo": "Honeymoon over? Controller Mejia accuses L.A. Council of trying to sabotage Raman",
-          "entradilla": "Mejia is taking aim at proposals that would cut the mayor's authority to hire and fire and increase the council's power to overturn mayoral orders.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-21/honeymoon-over-controller-mejia-accuses-la-council-of-trying-to-sabotage-raman"
+          "titulo": "Barabak: A blue Texas is a monumental shift. That's already reshaping the 2028 presidential race",
+          "entradilla": "It's been 50 years since a Democrat won the state, but after a midterm blowout Texas is now competitive. The shift is the most significant change to the presidential map since California went blue.",
+          "enlace": "https://www.latimes.com/politics/story/2026-11-22/2028-presidential-race-political-map-texas-earthquake"
         },
         {
-          "titulo": "Lopez: A sporty red Cadillac, rock 'n' roll, ice cream and cookies. They got to 100 by staying young",
-          "entradilla": "A La Verne retirement village boasts 10 centenarians, with more closing in behind them.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-21/red-cadillac-rock-n-roll-ice-cream-cookies-they-got-to-100-by-staying-young"
+          "titulo": "Saudi Arabia turns to Ukraine, South Korea and others to counter attacks",
+          "entradilla": "Faced with the persistent threat of missile and drone attacks from Iran and Houthi rebels, Saudi Arabia is scrambling to find alternatives to U.S. weapons systems.",
+          "enlace": "https://www.latimes.com/world-nation/story/2026-11-22/saudi-arabia-turns-to-ukraine-south-korea-others-to-counter-attacks"
         },
         {
-          "titulo": "D.A. won't charge LAPD officer who shot mentally ill man in family's Koreatown apartment",
-          "entradilla": "The Los Angeles County district attorney's office said it would not file charges against the police officer who shot Yong Yang in 2024, killing the 40-year-old man inside his family's apartment as he wielded a knife during a mental health crisis.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-20/yong-yang-lapd-officer-koreatown-shooting-da-charging-decision"
+          "titulo": "As El Niño and rising seas batter California homes, experts point to a novel buyout solution",
+          "entradilla": "Exceptionally high tides and El Niño have forced Californians to reckon with the realities of sea level rise. Experts say it's time for a new strategy: Buyout, rentback, then retreat.",
+          "enlace": "https://www.latimes.com/environment/story/2026-11-22/el-nino-sea-level-rise-buyout-rentback-california"
         },
         {
-          "titulo": "Palisades arson retrial ends with conviction of man accused of sparking deadly wildfire",
-          "entradilla": "Jonathan Rinderknecht, a 30-year-old former Uber driver, was on trial for a second time after a jury over the summer deadlocked 10-2 in favor of his acquittal.",
-          "enlace": "https://www.latimes.com/california/story/2026-11-20/palisades-fire-arson-retrial-verdict"
+          "titulo": "ICE officer seen on video smashing window to detain man at Santa Clarita sheriff's station",
+          "entradilla": "A video shared with The Times shows federal immigration officers surrounding a car in the parking lot of a sherriff's station in Santa Clarita and then detaining an individual in the backseat.",
+          "enlace": "https://www.latimes.com/california/story/2026-11-21/ice-officer-seen-on-video-smashing-window-to-detain-man-at-santa-clarita-sheriffs-station"
+        },
+        {
+          "titulo": "Billie Jean King wanted an unfiltered look at her life in 'Give Me the Ball!'",
+          "entradilla": "The tennis great spoke about her new '30 for 30' documentary, which she purposely chose not to produce, and recommendations for three other docs to watch this month.",
+          "enlace": "https://www.latimes.com/entertainment-arts/tv/story/2026-11-22/billie-jean-king-30-for-30-give-me-ball"
+        },
+        {
+          "titulo": "LAUSD special education assistant is charged with molesting juvenile",
+          "entradilla": "A special education teaching assistant for the Los Angeles Unified School District was charged Friday with molesting a child.",
+          "enlace": "https://www.latimes.com/california/story/2026-11-21/lausd-special-education-assistant-molested-juvenile-authorities-say"
+        },
+        {
+          "titulo": "Another quake rattles Southern California, this time off the coast of San Pedro",
+          "entradilla": "A magnitude 3.3 quake struck off the coast of San Pedro on Saturday morning, a day after a magnitude 3.9 temblor in L.A. County.",
+          "enlace": "https://www.latimes.com/california/story/2026-11-21/another-quake-rattles-southern-california-this-time-off-coast-of-san-pedro"
+        },
+        {
+          "titulo": "L.A. County wants to talk with neighbors of Chiquita Canyon trash juice explosion",
+          "entradilla": "A large, dark cloud of gas and decomposing trash spewed from the landfill Monday night. Residents complained of dizziness, headache and coughing.",
+          "enlace": "https://www.latimes.com/california/story/2026-11-21/la-county-wants-to-talk-with-chiquita-canyon-trash-geyser-neighbors"
         },
         {
           "titulo": "Dozens of dogs recovered in Pasadena need fur-ever homes. Here's how you can help",
@@ -293,36 +313,16 @@
           "enlace": "https://www.latimes.com/california/story/2026-11-21/dogs-recovered-pasadena-need-homes-how-you-can-help"
         },
         {
-          "titulo": "Zoox launches its first robotaxi rides in L.A. County",
-          "entradilla": "The Amazon-owned robotaxi company Zoox is bringing its purpose-built autonomous vehicles to Los Angeles County for the first time.",
-          "enlace": "https://www.latimes.com/business/story/2026-11-21/zoox-launches-its-first-robotaxi-rides-in-la-county"
-        },
-        {
-          "titulo": "AT&T can phase out California copper landlines, FCC says",
-          "entradilla": "The FCC said that its rules preempt California provisions that have required AT&T to offer traditional copper landlines.",
-          "enlace": "https://www.latimes.com/entertainment-arts/business/story/2026-11-20/fcc-says-att-can-discontinue-copper-phone-landlines"
-        },
-        {
           "titulo": "Body pulled from L.A. River following powerful storm, investigation underway",
           "entradilla": "A body was found Friday on an island in the Los Angeles River between the Los Feliz Boulevard Bridge and the Colorado Street Bridge — a day after a powerful storm soaked the area.",
           "enlace": "https://www.latimes.com/california/story/2026-11-21/body-pulled-from-la-river-following-powerful-storm"
-        },
-        {
-          "titulo": "Ronny Hallin, 'Laverne & Shirley' producer and sister of Garry and Penny Marshall, dies at 88",
-          "entradilla": "Ronny Hallin, a longtime sitcom producer who worked on \"Happy Days,\" \"Laverne & Shirley\" and \"Step by Step\" alongside her siblings Garry and Penny Marshall, has died at 88.",
-          "enlace": "https://www.latimes.com/entertainment-arts/story/2026-11-20/ronny-hallin-tv-producer-known-for-laverne-shirley-dies-at-88"
-        },
-        {
-          "titulo": "Commentary: Despite RFK Jr.'s claim, Arabs do win awards. Getting a U.S. visa to receive their prize is harder",
-          "entradilla": "Egyptian author Abdelrahman ElGendy won the National Book Award for nonfiction but was denied a visitor visa and was unable to attend the ceremony in New York.",
-          "enlace": "https://www.latimes.com/politics/story/2026-11-20/despite-rfk-jrs-claim-arabs-do-win-awards-getting-us-visa-to-receive-their-prize-is-harder"
         }
       ],
       "analisis": {
-        "resumen": "- Los Ángeles instalará una cerca alrededor de MacArthur Park ante los problemas de drogas, violencia y sinhogarismo.\n- La Universidad de California acuerda el acceso a ChatGPT para estudiantes y personal, pese a las cautelas del profesorado.\n- El contralor Mejia acusa al Concejo de Los Ángeles de intentar reducir el poder de la alcaldesa Raman.\n- La fiscalía no acusará al policía que mató a Yong Yang; otro juicio termina con una condena por provocar un incendio mortal en Palisades.\n- La portada también aborda tecnología, animales rescatados, una tormenta, personas centenarias y un comentario sobre visados para premiados árabes.",
-        "populismo": 22,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «desesperados», «sabotear» y «¿se acabó la luna de miel?» dramatizan algunos asuntos.",
-        "sesgo": "La selección prioriza asuntos locales de Los Ángeles y presta atención a problemas sociales, decisiones institucionales y posibles conflictos. Incluye además un comentario explícito que cuestiona una afirmación de RFK Jr. y las dificultades para obtener un visado."
+        "resumen": "- Amenaza de inundaciones extremas en la costa californiana y recomendaciones de evitar desplazamientos.\n- Los demócratas miran a 2028 tras las elecciones legislativas, con Texas como estado competitivo.\n- Arabia Saudita busca alternativas al armamento estadounidense ante ataques de Irán y los hutíes.\n- Expertos proponen comprar viviendas costeras y alquilarlas antes de retirarse por la subida del mar.\n- Sucesos locales: una detención por agentes de inmigración, un seísmo, una explosión en un vertedero y un cuerpo hallado en el río de Los Ángeles.",
+        "populismo": 18,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «amenaza de inundaciones extremas», «cambio monumental» y «rompiendo una ventanilla» aportan dramatismo; no se aprecia una apelación al pueblo contra las élites.",
+        "sesgo": "La selección tiene un marcado enfoque local en California, con atención a riesgos ambientales y sucesos. La cobertura política se centra en las perspectivas electorales de los demócratas, sin que esto permita concluir por sí solo una orientación partidista de la portada."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://nypost.com",
       "noticias": [
         {
-          "titulo": "NYC 911 call center fights major bedbug infestation — forcing staff to work from home, pulling cops from streets to answer phones: sources",
-          "entradilla": "A bedbug infestation at NYC's 911 call center in Brooklyn has forced the NYPD to pull uniformed officers off the streets to help with calls.",
-          "enlace": "https://nypost.com/2026/11/21/us-news/bedbug-infestation-plaguing-nyc-911-call-center-sources/"
+          "titulo": "NYC releases another massive trove of secret 9/11 health records: ‘Waited 25 years to see’",
+          "entradilla": "Mayor Zohran Mamdani announced Sunday that his office has released a massive trove of 84,000 additional secret records about air quality and toxic health concerns following the Sept. 11, 2001 terrorist attacks that toppled the World Trade Center towers.",
+          "enlace": "https://nypost.com/2026/11/22/us-news/nyc-releases-another-massive-trove-of-secret-9-11-health-records/"
         },
         {
-          "titulo": "Jordan Stout tells The Post how he overcame ‘mental hump’ to become Giants’ game-changing ‘weapon’",
-          "entradilla": "Giants punter Jordan Stout takes a timeout to kick around some Q&A with Post columnist Steve Serby.",
-          "enlace": "https://nypost.com/2026/11/21/sports/jordan-stout-tells-the-post-how-he-became-giants-game-changing-weapon/"
+          "titulo": "Your home decor can say a lot about your childhood trauma, therapist says",
+          "entradilla": "Pain has a palette.",
+          "enlace": "https://nypost.com/2026/11/22/lifestyle/home-decorating-can-feel-dangerous-for-trauma-survivors-heres-why/"
         },
         {
-          "titulo": "In-N-Out CEO reveals simple secret behind burger chain’s cult following",
-          "entradilla": "“There’s that saying, ‘Keep it simple, stupid,’\" the burger chain's CEO said.",
-          "enlace": "https://nypost.com/2026/11/21/us-news/in-n-out-ceo-reveals-the-secret-behind-its-cult-following/"
+          "titulo": "Kalshi promo code NYPMAX55: Trade $25, get up to $55 bonus for Giants vs. Jaguars",
+          "entradilla": "Trade $25, get up to $55 bonus for NFL games with the Kalshi promo code NYPMAX55.",
+          "enlace": "https://nypost.com/2026/11/22/betting/kalshi-promo-code-nypmax55-trade-25-get-up-to-55-bonus-for-giants-vs-jaguars/"
         },
         {
-          "titulo": "When to dodge brutal Thanksgiving traffic on California highways",
-          "entradilla": "There's one time next week that California drivers can actually catch a break.",
-          "enlace": "https://nypost.com/2026/11/21/us-news/thanksgiving-traffic-best-and-worst-times-to-drive-in-california/"
+          "titulo": "Brittany Mahomes shares behind-the-scenes photos from Kansas City Current’s NWSL title celebration",
+          "entradilla": "Brittany Mahomes' sports-filled weekend got off to an early and celebratory start.",
+          "enlace": "https://nypost.com/2026/11/22/sports/brittany-mahomes-shares-behind-the-scenes-photos-from-kansas-city-currents-celebration/"
         },
         {
-          "titulo": "Biohacker Bryan Johnson calls popular drink ‘the worst’ thing you could ever consume: ‘How is this legal?’",
-          "entradilla": "Bryan Johnson's latest target isn't the \"biological attack\" of Halloween candy or mold in his gym — it's in a cup thousands of people drink a day.",
-          "enlace": "https://nypost.com/2026/11/21/health/biohacker-calls-popular-drink-the-worst-legal-thing-you-could-consume/"
+          "titulo": "6 retro Thanksgiving dishes disappearing as American tastes change — including hot Dr. Pepper",
+          "entradilla": "Forgotten holiday classics show how Thanksgiving tastes have evolved over time",
+          "enlace": "https://nypost.com/2026/11/22/lifestyle/6-vintage-thanksgiving-recipes-of-decades-past-from-oyster-stuffing-to-hot-dr-pepper/"
         },
         {
-          "titulo": "Disgraced bourbon baron Wes Henderson sued by castle hotel guests fearful they were also secretly filmed",
-          "entradilla": "Angel's Envy co-founder Wes Henderson faces a lawsuit alleging he used 15 hidden cameras to secretly record guests at The Kentucky Castle hotel.",
-          "enlace": "https://nypost.com/2026/11/21/us-news/disgraced-bourbon-baron-sued-by-castle-hotel-guests-fearful-they-were-recorded-on-hidden-camera/"
+          "titulo": "Panelists tout emergence of 42BELOW, the ‘hot new’ Midtown neighborhood",
+          "entradilla": "Retail-space occupancy has grown 65% faster in 42BELOW than in Manhattan overall, and vacant storefronts fell 19% over the past two years.",
+          "enlace": "https://nypost.com/2026/11/22/business/panelists-tout-emergence-of-42below-in-midtown/"
         },
         {
-          "titulo": "The desperate Jets really need to get ‘one’ vs. woeful Chargers — or things could get really ugly",
-          "entradilla": "The 2-8 Jets need what the Chargers got on Monday.",
-          "enlace": "https://nypost.com/2026/11/21/sports/the-desperate-jets-really-need-to-get-one-vs-woeful-chargers/"
+          "titulo": "Adrian Morejon is a ‘now’ opportunity worthy of a Yankees gamble",
+          "entradilla": "If Hal Steinbrenner is going to spend multi-year big money on a player this offseason, it should be on a reliever — Adrian Morejon.",
+          "enlace": "https://nypost.com/2026/11/22/sports/adrian-morejon-is-a-now-opportunity-worthy-of-a-yankees-gamble/"
         },
         {
-          "titulo": "The most expensive cities in the US to raise a family — here’s where NYC lands",
-          "entradilla": "The eye-popping findings come from a new survey by personal loan experts Achieve, which examined the cost of family life in 50 US cities.",
-          "enlace": "https://nypost.com/2026/11/21/us-news/nyc-tops-list-of-most-expensive-cities-to-raise-family-in-us/"
+          "titulo": "Los Tacos signs big lease in Midtown",
+          "entradilla": "The Los Tacos' 12th Manhattan location is is expected to open in mid-2027.",
+          "enlace": "https://nypost.com/2026/11/22/business/los-tacos-signs-big-lease-in-midtown/"
         },
         {
-          "titulo": "Mets signing A.J. Ewing to eight-year, $95 million extension to lock up key outfielder",
-          "entradilla": "The deal, worth $95 million, also includes a ninth-year club option.",
-          "enlace": "https://nypost.com/2026/11/21/sports/mets-give-a-j-ewing-eight-year-95-million-extension/"
+          "titulo": "Argentina star Leandro Paredes collapses during interview after Copa Sudamericana win",
+          "entradilla": "Argentina national team midfielder Leandro Paredes collapsed during a live television interview Saturday following a championship victory.",
+          "enlace": "https://nypost.com/2026/11/22/sports/argentinas-leandro-paredes-collapses-during-interview-after-copa-sudamericana-win/"
         },
         {
-          "titulo": "Kalshi promo code NYPMAX55: Trade $25, get up to $55 bonus for Virginia Tech vs. Miami",
-          "entradilla": "Traders can use the Kalshi promo code NYPMAX55 to trade $25, to get up to a $55 bonus for Week 12.",
-          "enlace": "https://nypost.com/2026/11/21/betting/kalshi-promo-code-nypmax55-trade-25-get-up-to-55-bonus-for-virginia-tech-vs-miami/"
+          "titulo": "Off-duty NYPD officer opens fire at cop girlfriend, then turns gun on himself in horrific NYC shooting",
+          "entradilla": "The wounded officer was undergoing surgery early on Sunday afternoon.",
+          "enlace": "https://nypost.com/2026/11/22/us-news/off-duty-nypd-officer-opens-fire-at-cop-girlfriend-then-turns-gun-on-himself/"
         },
         {
-          "titulo": "Titans’ Jaylen Harrell hospitalized after ‘serious’ car accident",
-          "entradilla": "The Titans are holding their breath after one of their players ended up in the hospital after getting into what the team is calling a \"serious car accident.\"",
-          "enlace": "https://nypost.com/2026/11/21/sports/titans-jaylen-harrell-hospitalized-after-serious-car-accident/"
+          "titulo": "Matty Healy’s wife, Gabbriette Bechtel, pregnant with first baby: report",
+          "entradilla": "The model's growing baby bump was on full display during a Los Angeles outing with the 1975 frontman on Saturday.",
+          "enlace": "https://pagesix.com/2026/11/22/parents/matty-healys-wife-gabbriette-bechtel-pregnant-with-first-baby-report/"
         },
         {
-          "titulo": "Wild moment beach ‘waterfall’ floods legendary SoCal surf spot as El Niño wreaks havoc",
-          "entradilla": "Wild storms overwhelmed an iconic Southern California surf spot and turned a beachfront staircase into a roaring \"waterfall.\"",
-          "enlace": "https://nypost.com/2026/11/21/us-news/wild-moment-beach-waterfall-floods-legendary-el-porto-beach-surf-spot-as-el-nino-wreaks-havoc/"
+          "titulo": "Matty Healy’s wife, Gabbriette Bechtel, pregnant with first baby: report",
+          "entradilla": "The model's growing baby bump was on full display during a Los Angeles outing with the 1975 frontman on Saturday.",
+          "enlace": "https://pagesix.com/2026/11/22/parents/matty-healys-wife-gabbriette-bechtel-pregnant-with-first-baby-report/"
         }
       ],
       "analisis": {
-        "resumen": "- Una infestación de chinches en el centro de llamadas al 911 de Nueva York obliga a reasignar a policías.\n- Huéspedes de un hotel demandan al cofundador de Angel’s Envy por presuntas grabaciones con cámaras ocultas.\n- La portada destaca noticias deportivas sobre los Giants, los Jets, los Mets y la hospitalización de un jugador de los Titans.\n- Varias noticias tratan sobre el costo de criar una familia, el tráfico de Acción de Gracias, una cadena de hamburguesas y una bebida criticada por Bryan Johnson.\n- También aparecen una promoción de Kalshi y las inundaciones causadas por tormentas en una playa del sur de California.",
-        "populismo": 38,
-        "motivo_populismo": "Abundan expresiones sensacionalistas o alarmistas como «brutal», «desesperados» y «¿Cómo es esto legal?», aunque no se aprecia una apelación al pueblo contra las élites.",
-        "sesgo": "La selección favorece noticias locales, deportes, consumo y sucesos llamativos, con un enfoque de entretenimiento y servicio. No se aprecia un sesgo político claro."
+        "resumen": "- Nueva York publica 84.000 documentos adicionales sobre la calidad del aire y los efectos tóxicos tras el 11-S.\n- Un policía fuera de servicio dispara contra su pareja, también agente, y después contra sí mismo.\n- El futbolista Leandro Paredes se desploma durante una entrevista; también destacan noticias sobre los Yankees y la celebración del Kansas City Current.\n- La portada recoge el crecimiento comercial de una zona de Midtown y la apertura prevista de un nuevo local de Los Tacos.\n- Otras piezas tratan sobre decoración y trauma, platos de Acción de Gracias, un embarazo de celebridad y una promoción para operar en Kalshi.",
+        "populismo": 25,
+        "motivo_populismo": "Expresiones como «horrific» y «massive trove of secret records» aportan dramatismo, aunque no se aprecia una confrontación entre el pueblo y las élites.",
+        "sesgo": "La selección combina una marcada atención a Nueva York con sucesos, deportes, celebridades y contenido promocional. Algunos titulares enfatizan el dramatismo o la curiosidad; no se aprecia un sesgo político claro."
       }
     }
   ]

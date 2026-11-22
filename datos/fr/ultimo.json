@@ -1,39 +1,39 @@
 {
   "pais": "Francia",
-  "fecha": "2026-11-21",
+  "fecha": "2026-11-22",
   "turno": 14,
-  "generado": "21/11/2026 19:41",
+  "generado": "22/11/2026 20:02",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "Las sospechas de filtraciones a Agrupación Nacional y la petición del prefecto Hugues Moutouh de ser relevado aparecen en los cinco periódicos. También se repiten la retirada de François Ruffin de la carrera presidencial, las protestas contra el coste de la vida y, en dos cabeceras, el partido Niza-PSG y la lesión de Désiré Doué. Solo Le Parisien destaca la muerte de dos marroquíes abatidos por Argelia en un contexto de tensión diplomática.",
+    "temas": "El asunto más repetido es el fracaso de la COP31 por la división sobre las energías fósiles. También aparecen en varias portadas la presidencial francesa de 2027, las inversiones de Choose France, la guerra en Ucrania y las sospechas de filtraciones al RN. Le Parisien y Ouest-France recogen los mensajes racistas y el saludo nazi en una escuela de policía. Solo Libération destaca los carteles municipales invertidos en apoyo a la protesta agrícola.",
     "crispacion": 62,
-    "motivo_crispacion": "Las sospechas de filtraciones vinculan a un alto funcionario con Agrupación Nacional y afectan a investigaciones sobre el partido. Las protestas contra el coste de la vida reflejan malestar social y registraron incidentes, aunque en París la jornada transcurrió en general con calma. La campaña presidencial muestra tensiones entre candidaturas y preocupación ante la posible llegada de la extrema derecha al poder. Las noticias deportivas y otras informaciones cotidianas, especialmente en Le Parisien y Ouest-France, compensan parcialmente ese clima."
+    "motivo_crispacion": "La tensión procede de las divisiones entre países en la COP31 y de la guerra en Ucrania, con víctimas y episodios que afectan a países de la OTAN. En Francia, las sospechas de filtraciones al RN y las discrepancias sobre la primaria de la derecha reflejan enfrentamientos políticos. Los mensajes racistas en una escuela de policía y el testimonio de las hermanas de una víctima de un atentado racista añaden preocupación social. Las noticias deportivas, culturales y de inversiones compensan parcialmente ese clima."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Hoy veo en las marchas contra la carestía una verdad de clase: quienes viven de su salario no pueden esperar indefinidamente a que la política electoral resuelva sus problemas. Que algunos se manifiesten en sábado porque no pueden permitirse perder un día de sueldo muestra cuánto cuesta incluso defender los propios derechos.\n\nLa retirada de Ruffin expresa una dificultad de la izquierda, pero frenar a la extrema derecha exige más que cálculos de candidatura. Hace falta una alternativa mayoritaria que devuelva poder a la clase trabajadora: salarios dignos, servicios públicos robustos y propiedad colectiva de sectores esenciales, para que las necesidades sociales no dependan de la rentabilidad del gran capital. La movilización de hoy, aunque menor que la anterior, recuerda que esa alternativa debe construirse también desde abajo."
+      "texto": "La COP31 termina sin acuerdo sobre los combustibles fósiles, mientras Choose France celebra inversiones empresariales. Yo veo una misma pregunta en ambas noticias: ¿quién decide qué se produce, para qué y a costa de quién? Dejar la transición ecológica al cálculo privado significa subordinar una necesidad colectiva a la rentabilidad. Defiendo una energía de propiedad pública y colectiva, planificada democráticamente y capaz de garantizar empleo digno.\n\nTambién me preocupa la propuesta de blindar límites al déficit en la Constitución. Convertir la austeridad en regla superior puede atar las manos a la sociedad cuando necesita invertir en sanidad, educación o transporte. Prefiero gravar las grandes fortunas y reforzar los servicios públicos. La clase trabajadora no debe pagar la crisis climática ni financiar, con recortes, los privilegios del gran capital."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "Me importa más la gente que salió a protestar contra la carestía que la carrera por el Elíseo. Que algunos manifestantes elijan el sábado porque no pueden permitirse perder un salario dice mucho sobre una libertad que existe en el papel, pero tropieza con la necesidad. No basta con esperar a que un partido gane: propongo organizarnos en nuestros barrios y lugares de trabajo, compartir recursos y decidir juntos, sin jefes ni tutelas.\n\nLa retirada de una candidatura ante el riesgo de que gobierne la extrema derecha muestra la gravedad del momento. Yo no confío en que otra candidatura resuelva por sí sola ese peligro. Combatirlo exige vínculos cotidianos, solidaridad frente al racismo y espacios donde cada persona pueda participar en igualdad. La libertad individual necesita apoyo mutuo; la colectiva, autonomía frente al Estado y sus jerarquías."
+      "texto": "La COP31 termina sin acuerdo sobre los combustibles fósiles. Yo no espero que los Estados, reunidos entre intereses enfrentados, resuelvan por sí solos una crisis que afecta a todos. La respuesta también debe construirse desde abajo: comunidades y trabajadores organizados para decidir cómo producir y consumir, sin entregar el futuro a gobiernos ni a empresas.\n\nMientras tanto, la carrera presidencial se mide en encuestas y maniobras entre partidos. Se nos invita a escoger quién mandará, pero apenas se pregunta por qué debemos delegar tanto poder. Y las inversiones anunciadas en Choose France plantean otra cuestión: ¿quién decide sus prioridades y quién controlará sus beneficios? Yo defiendo la autogestión y el apoyo mutuo, no como consignas, sino como formas de hacer compatible la libertad individual con decisiones colectivas tomadas por quienes viven sus consecuencias."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "Veo en las protestas contra el coste de la vida una preocupación legítima: a muchas familias les cuesta llegar a fin de mes, y hasta perder un día de salario para manifestarse puede ser demasiado. Pero no creo que la respuesta sea entregar más decisiones y recursos al Estado. Prefiero impuestos más bajos, menos trabas para emprender y mercados abiertos a la competencia: así trabajadores y consumidores conservan más libertad y las empresas tienen incentivos para ofrecer mejores precios.\n\nTambién defiendo el derecho a manifestarse pacíficamente y la responsabilidad personal por los daños causados. La autoridad pública debe proteger ese derecho, no quedar por encima de la ley. Por eso, las sospechas de violencia policial y de filtraciones de información confidencial deben investigarse con rigor y garantías. Un Estado limitado necesita instituciones imparciales, no poderes sin control."
+      "texto": "Veo en los anuncios de inversión de Choose France una buena noticia, pero no confundo el dinamismo empresarial con una ceremonia política. Para que más personas inviertan y creen empleo, prefiero reglas estables, impuestos bajos y menos trabas a la iniciativa privada, no empresarios pendientes del favor del Gobierno.\n\nLa propuesta de una regla presupuestaria merece atención: endeudarse sin límites traslada a otros el coste de decisiones presentes. Pero una regla solo será útil si contiene el gasto, en vez de justificar nuevas subidas de impuestos. Un Estado limitado debe cumplir bien sus funciones esenciales y rendir cuentas.\n\nEl fracaso de la COP31 recuerda, además, que el cambio climático exige respuestas. Yo apostaría por innovación, competencia y responsabilidad de quienes contaminan, antes que por hacer del intervencionismo la respuesta automática."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Veo en las manifestaciones contra la carestía una advertencia que las élites políticas y mediáticas harían mal en despreciar. Los franceses necesitan poder vivir de su trabajo y decidir su futuro en una nación soberana. Defender el orden no significa ignorar su malestar: significa proteger el derecho a protestar y, al mismo tiempo, impedir que los disturbios castiguen a comerciantes y vecinos.\n\nAnte la amenaza terrorista, reclamo firmeza judicial y un control estricto de la inmigración, dentro de la ley. La seguridad es una obligación del Estado, no un eslogan electoral. Y esa obligación exige instituciones íntegras: las presuntas filtraciones al RN deben investigarse sin privilegios ni condenas anticipadas. No confiaré en una clase dirigente que pide sacrificios a la nación mientras convierte la política en un juego de maniobras presidenciales."
+      "texto": "Me preocupa que la campaña presidencial se reduzca a primarias y curvas de sondeos, mientras Francia necesita recuperar el control de su destino. Yo quiero que los candidatos se comprometan a controlar estrictamente la inmigración, defender nuestras fronteras y hacer respetar la ley. No es hostilidad hacia nadie: una nación debe poder decidir a quién acoge y en qué condiciones.\n\nEl asesinato de un padre de familia en Guadalupe recuerda que la seguridad no es una abstracción. Exijo una justicia eficaz y medios para proteger a los ciudadanos, sin prejuzgar una investigación. También prefiero menos ceremonias alrededor de los anuncios de inversión y más atención a quienes producen aquí: la empresa textil que apuesta por fabricar en Francia y los agricultores que mantienen su protesta merecen una política que proteja el trabajo nacional y nuestras tradiciones rurales."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Veo en las manifestaciones contra la carestía una advertencia que ningún gobierno debería ignorar, aunque la participación haya disminuido. Escuchar no basta: hacen falta ayudas focalizadas para quienes más sufren y reformas que favorezcan la competencia y la inversión. Una economía de mercado necesita una protección social sólida para conservar su legitimidad; esa protección, a su vez, debe financiarse de manera sostenible.\n\nTambién me preocupan las sospechas de filtraciones a favor del RN. No prejuzgo responsabilidades, pero la confianza en el Estado exige una investigación independiente y el mismo rigor para todos. La retirada de François Ruffin recuerda que el temor a la extrema derecha condiciona ya la contienda presidencial. Frente a él, prefiero una mayoría construida sobre propuestas verificables y acuerdos amplios, no solo sobre el rechazo al adversario."
+      "texto": "El fracaso de la COP31 es una mala noticia, pero no creo que la respuesta sea renunciar a la negociación internacional. Rechazar un texto que ni siquiera menciona los combustibles fósiles defiende la credibilidad del proceso; ahora toca construir acuerdos que impulsen la transición sin dejar solas a las familias y regiones que dependen de esas energías.\n\nEn Francia, los anuncios de inversión de Choose France son bienvenidos, aunque anunciarlos no equivale a ejecutarlos. Necesitamos empresas capaces de invertir y crear empleo, junto con servicios públicos y formación que permitan repartir las oportunidades. También conviene prudencia ante una regla de oro constitucional: la responsabilidad presupuestaria importa, pero una norma demasiado rígida podría dificultar la respuesta a una crisis. Prefiero compromisos fiscales realistas, debatidos democráticamente, a soluciones que prometen resolverlo todo de una vez."
     }
   ],
   "periodicos": [
@@ -42,71 +42,71 @@
       "web": "https://www.lemonde.fr",
       "noticias": [
         {
-          "titulo": "Manifestations du 21 novembre : entre 80 000 et 150 000 personnes se sont mobilisées en France",
-          "entradilla": "Cette nouvelle journée de protestation, moins suivie, s’est déroulée dans le calme à Paris, mais avec des tensions dans l’après-midi à Marseille et à Lyon. Cet « acte VI » de la mobilisation contre la vie chère s’inscrit aussi dans le cadre d’un appel européen de syndicats et d’associations de défen",
-          "enlace": "https://www.lemonde.fr/societe/article/2026/11/21/manifestations-du-21-novembre-le-nombre-de-personnes-mobilisees-en-baisse-dans-l-apres-midi-le-cortege-parisien-est-arrive-place-de-la-nation_6813913_3225.html"
+          "titulo": "Présidentielle 2027 : découvrez les grandes tendances des sondages avec notre agrégateur",
+          "entradilla": "Avec notre agrégateur, explorez les tendances fortes qui se dégagent des nombreuses enquêtes d’opinion menées en vue du premier et du second tour de l’élection présidentielle.",
+          "enlace": "https://www.lemonde.fr/les-decodeurs/article/2026/11/22/presidentielle-2027-decouvrez-ce-que-disent-les-sondages-avec-notre-agregateur_6814213_4355770.html"
         },
         {
-          "titulo": "Hugues Moutouh, le préfet soupçonné de fuites d’informations confidentielles vers le RN, a demandé à être relevé de ses fonctions",
-          "entradilla": "L’ancien haut fonctionnaire du ministère de l’intérieur est soupçonné d’avoir joué un rôle dans la transmission au Rassemblement national d’informations confidentielles sur les enquêtes visant le parti. Des perquisitions ont été menées au siège du parti et au ministère de l’intérieur.",
-          "enlace": "https://www.lemonde.fr/societe/article/2026/11/21/hugues-moutouh-le-prefet-soupconne-de-fuites-d-informations-confidentielles-vers-le-rn-a-demande-a-etre-releve-de-ses-fonctions_6814056_3224.html"
+          "titulo": "La COP31 s’achève sur un échec, sans accord devant la division des pays sur les énergies fossiles",
+          "entradilla": "« Nous n’approuverons pas une décision (…) ne mentionnant même pas les combustibles fossiles, qui sont le principal moteur du changement climatique », a déclaré le ministre du climat irlandais, Darragh O’Brien, dont le pays assure actuellement la présidence du Conseil de l’Union européenne.",
+          "enlace": "https://www.lemonde.fr/climat/article/2026/11/22/la-cop31-s-acheve-sur-un-echec-sans-accord-devant-la-division-des-pays-sur-les-energies-fossiles_6814199_1652613.html"
         },
         {
-          "titulo": "Présidentielle 2027 : François Ruffin renonce à sa candidature « face au risque » de l’arrivée de l’extrême droite au pouvoir",
-          "entradilla": "Le député de la Somme n’apporte son soutien à aucun candidat et souhaite « bon courage et bonne campagne » aux « candidats de gauche encore en lice », sans les citer, « pour porter un projet à vocation majoritaire » face à un Rassemblement national « aux portes du pouvoir ».",
-          "enlace": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-francois-ruffin-renonce-a-sa-candidature-face-au-risque-de-l-arrivee-de-l-extreme-droite-au-pouvoir_6814051_823448.html"
+          "titulo": "Fuites vers le RN : Marine Le Pen dit n’avoir « jamais reçu d’informations confidentielles » du préfet Hugues Moutouh",
+          "entradilla": "La candidate du RN à l’élection présidentielle 2027 a également assuré ne pas connaître personnellement le haut fonctionnaire, qui a annoncé, samedi, avoir demandé à être relevé de ses fonctions.",
+          "enlace": "https://www.lemonde.fr/societe/article/2026/11/22/fuites-vers-le-rn-marine-le-pen-dit-n-avoir-jamais-recu-d-informations-confidentielles-du-prefet-hugues-moutouh_6814216_3224.html"
         },
         {
-          "titulo": "Roberto Saviano, auteur de « Gomorra » : « Le suicide de l’ancien chef de la police italienne Gianni De Gennaro est un choc immense »",
-          "entradilla": "Ce suicide, le 21 novembre, intervient quelques jours après sa mise en examen pour « détournement d’enquête » par le parquet de Caltanissetta, en Sicile, qui l’accuse d’avoir brouillé les pistes dans les investigations sur l’assassinat du juge antimafia Paolo Borsellino, le 19 juillet 1992. Pour l’é",
-          "enlace": "https://www.lemonde.fr/international/article/2026/11/21/roberto-saviano-auteur-de-gomorra-le-suicide-de-l-ancien-chef-de-la-police-italienne-gianni-de-gennaro-est-un-choc-immense_6814054_3210.html"
+          "titulo": "Le « poisson à poumons » éclaire l’énigme de la sortie de la mer des vertébrés",
+          "entradilla": "L’été venu, le dipneuste africain s’enterre et transforme sa peau grâce à une toxine véhiculée par le système immunitaire. Et si nos ancêtres avaient emprunté le même chemin il y a 400 millions d’années ?",
+          "enlace": "https://www.lemonde.fr/sciences/article/2026/11/22/le-poisson-a-poumons-eclaire-l-enigme-de-la-sortie-de-la-mer-des-vertebres_6814219_1650684.html"
         },
         {
-          "titulo": "EN DIRECT, guerre en Ukraine : la Finlande soupçonne un hélicoptère russe d’être entré dans son espace aérien, quelques heures après une attaque au drone d’un cargo russe en mer Baltique",
-          "entradilla": "« Cette violation présumée de l’espace aérien pourrait être liée à des opérations de sauvetage ou de surveillance menées à la suite des dommages subis par un navire cargo dans le golfe de Finlande », a déclaré le ministre de la défense finlandais, Antti Häkkänen.",
-          "enlace": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-la-finlande-soupconne-un-helicoptere-russe-d-etre-entre-dans-son-espace-aerien-quelques-heures-apres-une-attaque-de-drone-sur-un-cargo-russe-en-mer-baltique_6810982_3210.html"
+          "titulo": "L’ascension éclair de la paire française Arribagé-Olivetti, sacrés « maîtres » des finales ATP à peine un an après leurs débuts",
+          "entradilla": "Les Français l’ont emporté, dimanche à Turin, en finale du tournoi des maîtres face à la paire Arévalo-Pavic (3-6, 7-6, 10-6). Une victoire qui vient couronner une première saison presque parfaite.",
+          "enlace": "https://www.lemonde.fr/sport/article/2026/11/22/l-ascension-eclair-de-la-paire-francaise-arribage-olivetti-sacres-maitres-des-finales-atp-a-peine-un-an-apres-leurs-debuts_6814235_3242.html"
         },
         {
-          "titulo": "Faire l’amour en se faisant la guerre : comment les adeptes du « hate sex » lient colère et coït",
-          "entradilla": "« Nos émotions : la colère ». Une sexualité épanouie, synonyme de complicité avec son ou sa partenaire, semble a priori incompatible avec la colère, qui rend agressif et égoïste. Et pourtant… livres et films témoignent qu’il existe bel et bien des amateurs de « sexe enragé ».",
-          "enlace": "https://www.lemonde.fr/intimites/article/2026/11/21/faire-l-amour-en-se-faisant-la-guerre-comment-les-adeptes-du-hate-sex-lient-colere-et-coit_6814049_6190330.html"
+          "titulo": "Mathématiques et IA : prenons le temps de comprendre",
+          "entradilla": "Dans sa carte blanche au « Monde », le mathématicien et académicien Etienne Ghys prend acte de l’accélération que l’intelligence artificielle apporte à sa discipline. Mais il rappelle que les maths ne se réduisent pas à des résultats.",
+          "enlace": "https://www.lemonde.fr/sciences/article/2026/11/22/mathematiques-et-ia-prenons-le-temps-de-comprendre_6814234_1650684.html"
         },
         {
-          "titulo": "A Genève, la communauté internationale échoue à interdire les robots tueurs",
-          "entradilla": "Alors que la menace des systèmes d’armes létales autonomes, désormais assistées par l’intelligence artificielle, se fait chaque jour plus précise dans les zones de combat, la Russie, les Etats-Unis et Israël se sont opposés à l’ouverture de négociations pour un traité international sur ce type d’arm",
-          "enlace": "https://www.lemonde.fr/international/article/2026/11/21/a-geneve-la-communaute-internationale-echoue-a-interdire-les-robots-tueurs_6814012_3210.html"
+          "titulo": "EN DIRECT, guerre en Ukraine : un cargo russe en feu à Benghazi, les autorités de l’est de la Libye suspectent une attaque de drones",
+          "entradilla": "Dans un communiqué, le gouvernement basé à Benghazi a annoncé « qu’il est probable qu’il ait été visé par une attaque de drones », et que « le navire était en route pour la Russie et que son escale avait pour but de se ravitailler en carburant et en vivres ».",
+          "enlace": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-un-cargo-russe-en-feu-a-benghazi-les-autorites-de-l-est-de-la-libye-suspectent-une-attaque-de-drones_6814183_3210.html"
         },
         {
-          "titulo": "Dans la défense, le rapprochement entre le Canada et l’Union européenne prend corps",
-          "entradilla": "Sur fond de tensions géopolitiques mondiales et d’incertitudes quant à l’engagement américain, Ottawa et Bruxelles coopèrent sur le soutien à l’Ukraine et le réarmement du Vieux Continent.",
-          "enlace": "https://www.lemonde.fr/international/article/2026/11/21/dans-la-defense-le-rapprochement-entre-le-canada-et-l-union-europeenne-prend-corps_6814009_3210.html"
+          "titulo": "Aux Etats-Unis, Melat Kiros, 29 ans, démocrate, socialiste et première femme de la génération Z à entrer au Congrès",
+          "entradilla": "Née en Ethiopie et élue à la Chambre des représentants lors des midterms dans le Colorado, cette ex-avocate incarne une jeune génération de parlementaires qui renouvellent aussi bien la forme que le fond de leurs messages.",
+          "enlace": "https://www.lemonde.fr/international/article/2026/11/22/aux-etats-unis-melat-kiros-29-ans-democrate-socialiste-et-premiere-femme-de-la-generation-z-a-entrer-au-congres_6814225_3210.html"
         },
         {
-          "titulo": "Quand Ninho et Koba LaD dévoilent les dessous du rap dans deux « documentaires-vérité »",
-          "entradilla": "Deux films, diffusés sur Netflix et Prime Video, promettent de tout révéler sur le parcours des deux artistes, des arnaques jusqu’aux démêlés judiciaires. Décryptage de deux formules à succès.",
-          "enlace": "https://www.lemonde.fr/culture/article/2026/11/21/quand-ninho-et-koba-lad-devoilent-les-dessous-du-rap-dans-deux-documentaires-verite_6814043_3246.html"
+          "titulo": "L’idée d’une « règle d’or » budgétaire dans la Constitution soutenue par Marine Le Pen et Thierry Breton, critiquée par Gabriel Zucman",
+          "entradilla": "Le projet d’un Congrès convoqué par Emmanuel Macron sur ce sujet avant l’élection présidentielle, évoqué dans « La Tribune Dimanche », et sur lequel l’Elysée n’a fait aucun commentaire, consisterait à faire adopter un projet de loi constitutionnel encadrant les déficits publics.",
+          "enlace": "https://www.lemonde.fr/politique/article/2026/11/22/l-idee-d-une-regle-d-or-budgetaire-dans-la-constitution-soutenue-par-marine-le-pen-et-thierry-breton-critiquee-par-gabriel-zucman_6814238_823448.html"
         },
         {
-          "titulo": "Au Brésil, une nouvelle génération de gauche s’apprête à faire son entrée au Parlement",
-          "entradilla": "Lors des législatives du 4 octobre, les électeurs ont voté pour de jeunes députés progressistes. Alors que le gouvernement de Lula propose des économies budgétaires, ces élus veulent veiller à ce qu’il respecte ses promesses de campagne.",
-          "enlace": "https://www.lemonde.fr/international/article/2026/11/21/au-bresil-une-nouvelle-generation-de-gauche-s-apprete-a-faire-son-entree-au-parlement_6814016_3210.html"
+          "titulo": "L’Italie secouée par le suicide de l’ancien chef de la police Gianni De Gennaro",
+          "entradilla": "La mort de Gianni De Gennaro survient alors qu’il était mis en examen pour avoir entravé l’enquête sur l’assassinat, en 1992, du juge antimafia Paolo Borsellino. Aux côtés du magistrat Giovanni Falcone, tué la même année, il avait joué un rôle déterminant pour retourner certains parrains.",
+          "enlace": "https://www.lemonde.fr/international/article/2026/11/22/l-italie-secouee-par-le-suicide-de-l-ancien-chef-de-la-police_6814214_3210.html"
         },
         {
-          "titulo": "Génocide des Rohingya : la Cour internationale de justice rend un arrêt pour l’histoire",
-          "entradilla": "La plus haute Cour de l’ONU établit pour la première fois la responsabilité d’un Etat, la Birmanie, dans « le crime des crimes ». Alors que l’Afrique du Sud a saisi l’institution contre Israël, accusant l’Etat hébreu d’un génocide contre les Palestiniens de Gaza, l’arrêt prononcé jeudi pourrait fair",
-          "enlace": "https://www.lemonde.fr/international/article/2026/11/20/genocide-des-rohingya-la-cour-internationale-de-justice-confirme-qu-elle-est-indubitablement-la-boussole-du-droit-international_6813702_3210.html"
+          "titulo": "Dans le Nord, Vanderschooten fait le pari de relancer le linge de maison made in France",
+          "entradilla": "Dans ce département, où la filière textile a été balayée par les importations asiatiques, une entreprise familiale installée à Nieppe s’emploie à relancer du linge de maison entièrement fabriqué en France. Un pari, alors que les produits tricolores pâtissent de la crise du pouvoir d’achat.",
+          "enlace": "https://www.lemonde.fr/economie/article/2026/11/22/dans-le-nord-vanderschooten-fait-le-pari-de-relancer-le-linge-de-maison-made-in-france_6814226_3234.html"
         },
         {
-          "titulo": "France-Argentine : face aux Pumas, le XV de France veut confirmer l’« exploit » réalisé contre les Springboks",
-          "entradilla": "Antoine Dupont et ses coéquipiers affrontent les joueurs argentins, samedi, au Stade de France, lors de la dernière journée de la phase de groupes du Championnat des nations, avec l’objectif de se qualifier pour la finale, prévue le 29 novembre, à Twickenham, au Royaume-Uni.",
-          "enlace": "https://www.lemonde.fr/sport/article/2026/11/21/france-argentine-face-aux-pumas-le-xv-de-france-veut-confirmer-l-exploit-realise-contre-les-springboks_6813952_3242.html"
+          "titulo": "Pierre Adrian, écrivain : « Après coup, je revois ces années-là comme une belle période alors que j’étais déchiré par les angoisses »",
+          "entradilla": "« J’avais 20 ans ». « Le Monde » interroge une personnalité sur ses années d’études et son passage à l’âge adulte. Ce mois-ci, l’écrivain de 35 ans, qui vient de publier « Le Pays des étés », raconte cette transition qui fut pour lui pleine d’ambivalences, entre moments de gravité et « puissant appé",
+          "enlace": "https://www.lemonde.fr/campus/article/2026/11/22/pierre-adrian-ecrivain-apres-coup-je-revois-ces-annees-la-comme-une-belle-periode-alors-que-j-etais-dechire-par-les-angoisses_6814212_4401467.html"
         }
       ],
       "analisis": {
-        "resumen": "- Las protestas contra la carestía reúnen entre 80.000 y 150.000 personas en Francia, con tensiones en Marsella y Lyon.\n- El prefecto Hugues Moutouh pide dejar su cargo tras ser sospechoso de filtrar información confidencial al RN.\n- François Ruffin renuncia a presentarse a las presidenciales de 2027 ante el riesgo de una victoria de la extrema derecha.\n- La portada aborda la guerra en Ucrania, la cooperación defensiva entre Canadá y la UE, los «robots asesinos» y el fallo sobre el genocidio rohinyá.\n- También incluye noticias sobre Italia y Brasil, documentales de rap, sexualidad y el partido de rugby Francia-Argentina.",
-        "populismo": 15,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «robots asesinos» y «a las puertas del poder» aportan dramatismo.",
-        "sesgo": "La selección privilegia la política, la seguridad internacional y los conflictos sociales, con atención a la carestía, la extrema derecha y los derechos humanos. No se aprecia una orientación partidista inequívoca en el conjunto."
+        "resumen": "- Un agregador muestra las tendencias de las encuestas para las presidenciales francesas de 2027.\n- La COP31 termina sin acuerdo por la división sobre los combustibles fósiles.\n- Marine Le Pen niega haber recibido información confidencial de un prefecto; también se aborda el debate sobre una regla fiscal constitucional.\n- Un carguero ruso arde en Bengasi y las autoridades locales sospechan un ataque con drones; en Italia se informa del suicidio del exjefe de policía Gianni De Gennaro.\n- La portada incluye ciencia, inteligencia artificial, tenis, industria textil francesa y una entrevista al escritor Pierre Adrian.",
+        "populismo": 12,
+        "motivo_populismo": "Predomina un lenguaje informativo y atribuido, aunque expresiones como «fracaso», «ascenso relámpago» e «Italia sacudida» aportan cierta intensidad.",
+        "sesgo": "La selección prioriza la política francesa y la actualidad internacional, con atención al cambio climático y a las finanzas públicas. No se aprecia una orientación partidista clara en el conjunto de los titulares."
       }
     },
     {
@@ -114,54 +114,44 @@
       "web": "https://www.lefigaro.fr",
       "noticias": [
         {
-          "titulo": "Soupçons de fuites au profit du RN : le préfet Hugues Moutouh demande à être relevé de ses fonctions",
-          "entradilla": "Le préfet de la région Centre-Val de Loire est soupçonné d’être impliqué dans des fuites sur des enquêtes mettant en cause le Rassemblement national.",
-          "enlace": "https://www.lefigaro.fr/politique/enquete-visant-le-rn-le-prefet-moutouh-demande-a-etre-releve-de-ses-fonctions-20261121"
+          "titulo": "Présidentielle 2027 : la dynamique David  Lisnard s’installe tandis que la primaire de la droite et du centre est dans l’impasse",
+          "entradilla": "DÉCRYPTAGE - La progression du candidat de Nouvelle Énergie dans l’opinion bouscule les discussions avec Bruno Retailleau et Gabriel Attal. Les divergences sur l’arc des candidats et le refus d’Édouard Philippe compliquent sensiblement le projet.",
+          "enlace": "https://www.lefigaro.fr/elections/presidentielles/primaire-de-la-droite-et-du-centre-les-limites-fixees-par-larcher-et-la-ligne-soutenue-par-lisnard-aiguisent-les-craintes-d-une-impasse-20261122"
         },
         {
-          "titulo": "Soupçons de fuites au profit du RN : le préfet Hugues Moutouh dans la tempête",
-          "entradilla": "RÉCIT - Convoqué vendredi par le ministre de l’Intérieur Laurent Nuñez, il est soupçonné d’avoir renseigné le Rassemblement national sur des affaires en cours. Le préfet a demandé ce samedi à être relevé de ses fonctions.",
-          "enlace": "https://www.lefigaro.fr/actualite-france/soupcons-de-fuites-au-profit-du-rn-le-prefet-hugues-moutouh-dans-la-tempete-20261120"
+          "titulo": "Présidentielle 2027 : pour David Lisnard, une primaire sans Édouard Philippe n’aurait « aucun sens »",
+          "entradilla": "Invité dimanche du « Grand Oral 2027 BFMTV-Le Figaro », le candidat Nouvelle Énergie à l’Élysée, porté par sa percée dans les sondages, pose ses conditions à une primaire.",
+          "enlace": "https://www.lefigaro.fr/elections/presidentielles/primaires-droite/presidentielle-2027-pour-david-lisnard-une-primaire-sans-edouard-philippe-n-aurait-aucun-sens-20261122"
         },
         {
-          "titulo": "Présidentielle 2027 : François Ruffin retire sa candidature et souhaite «bonne campagne» aux «candidats de gauche encore en lice»",
-          "entradilla": "Dans son communiqué publié sur X ce samedi, le député ex-insoumis n’apporte son soutien à aucun candidat.",
-          "enlace": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-francois-ruffin-retire-sa-candidature-et-souhaite-bonne-campagne-aux-candidats-de-gauche-encore-en-lice-20261121"
+          "titulo": "EN DIRECT - Présidentielle 2027 : David Lisnard assure qu’il ne gouvernera pas avec le RN et qu’il n’a pas «voulu devenir ministre macroniste»",
+          "entradilla": "Le maire de Cannes dit combattre «depuis toujours le social-étatisme», dont Marine Le Pen serait, selon lui, «une version».",
+          "enlace": "https://www.lefigaro.fr/politique/en-direct-presidentielle-2027-david-lisnard-voit-une-primaire-comme-un-moyen-d-exclure-les-macronistes-20261122"
         },
         {
-          "titulo": "Primaire : la date du prochain rendez-vous entre les camps Attal, Retailleau et Lisnard a été fixée",
-          "entradilla": "INFO LE FIGARO - Après un premier rendez-vous, et l’esquisse de convergences, les représentants des candidats à l’élection présidentielle poursuivent leurs discussions.",
-          "enlace": "https://www.lefigaro.fr/politique/primaire-la-date-du-prochain-rendez-vous-entre-les-camps-attal-retailleau-et-lisnard-a-ete-fixee-20261121"
+          "titulo": "L’éditorial de Vincent Trémolet de Villers : « La dynamique David Lisnard, bulle ou réalité ? »",
+          "entradilla": "Tout est possible dans cette campagne chamboule-tout, mais, aujourd’hui, le « moment Lisnard » est tout sauf un artifice médiatique ou numérique.",
+          "enlace": "https://www.lefigaro.fr/vox/politique/l-editorial-de-vincent-tremolet-de-villers-la-dynamique-david-lisnard-bulle-ou-realite-20261122"
         },
         {
-          "titulo": "Présidentielle 2027 : en meeting à Toulon, Éric Zemmour cherche un élan en «candidat de la liberté»",
-          "entradilla": "REPORTAGE - Loin des liesses de 2022, Éric Zemmour, de nouveau en course pour l’Élysée, a posé des bases programmatiques plus larges que le seul thème de l’immigration tout en défendant une primaire «de droite».",
-          "enlace": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-en-meeting-a-toulon-eric-zemmour-cherche-un-elan-en-candidat-de-la-liberte-20261121"
+          "titulo": "Pensez-vous que la primaire de la droite et du centre aura lieu ?",
+          "entradilla": "",
+          "enlace": "https://www.lefigaro.fr/politique/pensez-vous-que-la-primaire-de-la-droite-et-du-centre-aura-lieu-20261122"
         },
         {
-          "titulo": "EN DIRECT - Colère sociale : 82.500 personnes présentes dans les cortèges en France ce samedi, annonce le ministère de l’Intérieur",
-          "entradilla": "À Paris, la mobilisation était toujours en baisse lors de cet «Acte VI», où de premiers incidents ont été recensés, après l’arrivée du cortège à Nation. À Marseille, des débordements sont constatés.",
-          "enlace": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-laurent-nunez-appelle-les-prefets-a-la-vigilance-20261121"
+          "titulo": "Énergie, data centers, cosmétique… Plus de 42 milliards d’euros d’investissements français en 2026 pour le «Choose France»",
+          "entradilla": "DÉCRYPTAGE - À l’occasion de la déclinaison tricolore du sommet Choose France, 81 nouveaux projets d’investissements en France sont dévoilés. En incluant les projets déjà lancés depuis janvier, l’enveloppe dépasse celle de 2025 dans une industrie hexagonale pourtant en berne.",
+          "enlace": "https://www.lefigaro.fr/societes/energie-data-centers-cosmetique-plus-de-42-milliards-d-euros-d-investissements-francais-en-2026-pour-le-choose-france-20261122"
         },
         {
-          "titulo": "«Ça va être fun, y’a pas de caméra dans la bagnole»: enquête ouverte contre des policiers pour violences et agression sexuelle lors d’une manifestation",
-          "entradilla": "Les faits se seraient produits en marge de la manifestation parisienne du 31 octobre. Les plaignants sont également accusés d’avoir frappé des policiers.",
-          "enlace": "https://www.lefigaro.fr/faits-divers/ca-va-etre-fun-y-a-pas-de-camera-dans-la-bagnole-enquete-ouverte-contre-des-policiers-pour-violences-et-agression-sexuelle-lors-d-une-manifestation-20261121"
+          "titulo": "«Combien de familles devront encore être brisées ?»: en Guadeloupe, le choc après le meurtre par arme à feu d'un père de famille",
+          "entradilla": "Chirurgien-dentiste et père de famille, Alexis Gabriele a été abattu alors qu’il faisait son jogging samedi. À Pointe-à-Pitre, il est unanimement décrit comme «un homme profondément bienveillant».",
+          "enlace": "https://www.lefigaro.fr/faits-divers/combien-de-familles-devront-encore-etre-brisees-en-guadeloupe-le-choc-apres-le-meurtre-par-arme-a-feu-d-un-pere-de-famille-20261122"
         },
         {
-          "titulo": "Nicolas Baverez : « L’ultra violence, arme de destruction massive de la démocratie »",
-          "entradilla": "CHRONIQUE - Depuis le 17 octobre, l’ultra violence s’est installée en France comme un régime permanent et elle ne cesse de gagner du terrain. Il est de notre responsabilité de l’éradiquer maintenant, avant qu’il ne soit trop tard.",
-          "enlace": "https://www.lefigaro.fr/vox/societe/nicolas-baverez-l-ultra-violence-arme-de-destruction-massive-de-la-democratie-20261121"
-        },
-        {
-          "titulo": "Jusqu’à 10.000 euros : le guichet d’aide aux commerces dégradés à cause des violences urbaines est ouvert",
-          "entradilla": "Les entreprises concernées disposent d’un délai de six semaines pour déposer leur demande d’aide qui peut grimper jusqu’à 10.000 euros.",
-          "enlace": "https://www.lefigaro.fr/conjoncture/commerces-degrades-a-cause-des-violences-urbaines-le-guichet-national-d-aide-est-ouvert-20261121"
-        },
-        {
-          "titulo": "Affaire Mohamed Amra : la justice refuse le statut de témoin assisté au rappeur Koba LaD, ses avocats dénoncent un «acharnement»",
-          "entradilla": "INFO LE FIGARO - Le rappeur est poursuivi pour «association de malfaiteurs» dans l’enquête sur l’évasion sanglante du narcotrafiquant. La juge d’instruction vient de lui refuser le statut de témoin assisté, selon nos informations.",
-          "enlace": "https://www.lefigaro.fr/faits-divers/affaire-mohamed-amra-la-justice-refuse-le-statut-de-temoin-assiste-au-rappeur-koba-lad-ses-avocats-denoncent-un-acharnement-20261121"
+          "titulo": "«La France doit entendre la demande d’Alger» : l’offensive algérienne pour son agent consulaire détenu à Paris",
+          "entradilla": "DÉCRYPTAGE - Détenu depuis avril 2025 pour son rôle présumé dans l’enlèvement d’un opposant, l’agent consulaire Smaïl R. est devenu le préalable du pouvoir à toute normalisation.",
+          "enlace": "https://www.lefigaro.fr/international/la-france-doit-entendre-la-demande-d-alger-l-offensive-algerienne-pour-son-agent-consulaire-detenu-a-paris-20261122"
         },
         {
           "titulo": "Les 40 vins à tester une fois dans sa vie selon les grands sommeliers, à partir de 25 euros",
@@ -169,16 +159,26 @@
           "enlace": "https://avis-vin.lefigaro.fr/tops-selections-vins-spiritueux/les-40-vins-a-tester-une-fois-dans-sa-vie-selon-les-grands-sommeliers-a-partir-de-25-euros-20261121"
         },
         {
-          "titulo": "«La Champagne solaire» : découvrez la nouvelle vente très privée du Figaro",
-          "entradilla": "À l’approche des fêtes de fin d’année, c’est une cuvée très singulière de la Champagne que nous avons le plaisir de proposer aux abonnés du Figaro en quantité limitée et à un prix exclusif.",
-          "enlace": "https://avis-vin.lefigaro.fr/vins-champagne/la-champagne-solaire-decouvrez-notre-nouvelle-vente-tres-privee-du-figaro-20261120"
+          "titulo": "Ligue 1 : Lorient reste sur sa faim face à Rennes dans un derby breton indécis",
+          "entradilla": "Dominateurs en première période, les Rennais ont subi les offensives lorientaises après la pause (1-1), dimanche, lors de la 11e journée de Ligue 1. Résultat laissant des regrets aux deux formations.",
+          "enlace": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-lorient-reste-sur-sa-faim-face-a-rennes-dans-un-derby-breton-indecis-20261122"
+        },
+        {
+          "titulo": "MMA : vainqueur dans la cage, un combattant russe de l’organisation française ARES interpellé pour une affaire de viol",
+          "entradilla": "Le combattant de 27 ans a été arrêté ce vendredi soir à Paris, quelques instants après son combat à l’Adidas Arena. Il est soupçonné de faits qui se seraient déroulés à Montreuil.",
+          "enlace": "https://www.lefigaro.fr/sports/mma/mma-vainqueur-dans-la-cage-un-combattant-russe-de-l-ares-interpelle-pour-une-affaire-de-viol-20261122"
+        },
+        {
+          "titulo": "États-Unis : un problème technique provoque des milliers de retards sur les vols Delta Airlines",
+          "entradilla": "Ces perturbations concernent notamment l’automatisation des calculs de poids et d’équilibre des vols. Selon le centre météorologique d’Atlanta, 3500 vols devraient être affectés.",
+          "enlace": "https://www.lefigaro.fr/international/etats-unis-un-probleme-technique-provoque-des-milliers-de-retards-sur-les-vols-delta-airlines-20261122"
         }
       ],
       "analisis": {
-        "resumen": "- El prefecto Hugues Moutouh pide ser relevado de sus funciones ante sospechas de filtraciones favorables al Rassemblement national.\n- François Ruffin retira su candidatura presidencial; continúan los contactos sobre una primaria entre los equipos de Attal, Retailleau y Lisnard, y Zemmour celebra un mitin.\n- El Ministerio del Interior cifra en 82.500 los participantes en las manifestaciones, en las que se registraron incidentes.\n- Se investiga a policías por presuntas violencias y agresión sexual; una columna alerta sobre la «ultraviolencia» y se abre una ayuda para comercios dañados.\n- La portada incluye novedades judiciales sobre el rapero Koba LaD y contenidos sobre vinos y champán.",
-        "populismo": 30,
-        "motivo_populismo": "Predomina un tono informativo, pero expresiones como «en la tormenta» y, sobre todo, «la ultraviolencia, arma de destrucción masiva de la democracia» aportan dramatismo y alarma.",
-        "sesgo": "La selección concede un lugar destacado a la política presidencial, la seguridad y la violencia en las protestas. El enfoque sobre la violencia es especialmente alarmante en una columna de opinión, aunque la portada también recoge denuncias contra policías."
+        "resumen": "- La presidencial de 2027 domina la portada, con especial atención al avance de David Lisnard y las dificultades de una primaria de la derecha y el centro.\n- Se anuncian más de 42.000 millones de euros en inversiones francesas para 2026 vinculadas a Choose France.\n- Conmoción en Guadalupe por el asesinato de un padre de familia; Argel reclama la liberación de un agente consular detenido en París.\n- Lorient y Rennes empatan; un luchador de MMA es detenido por una presunta violación.\n- La portada incluye una selección de vinos y noticias sobre retrasos masivos en vuelos de Delta.",
+        "populismo": 22,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «familias destrozadas» y «campaña que lo revuelve todo» aportan carga emocional y dramatización.",
+        "sesgo": "La portada dedica una atención destacada a David Lisnard y a la primaria de la derecha y el centro; además, el editorial presenta su impulso como algo más que un artificio mediático. El enfoque es, por tanto, marcadamente centrado en ese espacio político y en su candidatura."
       }
     },
     {
@@ -186,71 +186,71 @@
       "web": "https://www.liberation.fr",
       "noticias": [
         {
-          "titulo": "Présidentielle 2027 : prenant acte d’une «impasse», François Ruffin retire sa candidature",
-          "entradilla": "Le député de la Somme, en rupture avec La France insoumise, a annoncé renoncer à l’élection présidentielle, ce samedi 21 novembre, face au risque de voir le RN prendre le pouvoir. Il n’apporte son soutien à aucun candidat.",
-          "enlace": "https://www.liberation.fr/politique/elections/presidentielle-2027-francois-ruffin-retire-sa-candidature-20261121_KUCTZ27WZFBDRP62V22OJEAVBY/"
+          "titulo": "«Une COP de l’abandon» : en Turquie, les Etats échouent à s’entendre sur un accord et à sortir des énergies fossiles",
+          "entradilla": "Après deux semaines de négociations, la conférence de l’ONU sur le climat s’est officiellement terminée ce dimanche, à Antalya, sans adopter un projet de décision finale qui omettait le pétrole, le gaz et le charbon. L’obstruction de l’Arabie saoudite et de la Russie sur le sujet a conduit les Europ",
+          "enlace": "https://www.liberation.fr/environnement/climat/cop31-la-france-denonce-un-projet-de-texte-qui-nous-ramenerait-en-arriere-sans-sortie-des-energies-fossiles-20261122_OLT6XUDZDFFKNBW754OHFUAAOU/"
         },
         {
-          "titulo": "«Perdre une journée de salaire, c’est compliqué» : à Paris, ces manifestants qui privilégient le samedi",
-          "entradilla": "Pour le sixième samedi consécutif de mobilisation, des cortèges ont défilé partout en France notamment contre la vie chère. A Paris, des manifestants continuent de descendre dans la rue, faute de pouvoir faire grève en semaine.",
-          "enlace": "https://www.liberation.fr/societe/education/perdre-une-journee-de-salaire-cest-complique-a-paris-ces-manifestants-qui-privilegient-le-samedi-20261121_QY2Q4N3XNNFNFGCOST3KXLKXCY/"
+          "titulo": "Un mois après l’attentat de Trappes, les sœurs de Pengo Bossio Wangi témoignent : «Je suis fière d’être française, mais j’ai peur de vivre ici désormais»",
+          "entradilla": "Le 23 octobre, à Trappes, l’homme de 26 ans était tué dans un attentat raciste. Ritsia et Tiffany Brou, qui racontent n’avoir pas vécu de discriminations par le passé, partagent leur sidération et leur volonté d’entretenir la mémoire de leur frère.",
+          "enlace": "https://www.liberation.fr/societe/un-mois-apres-lattentat-de-trappes-les-soeurs-de-pengo-bossio-wangi-temoignent-je-suis-fiere-detre-francaise-mais-jai-peur-de-vivre-ici-desormais-20261122_KQBCHHPEQNCLRMD7ZLN7U3GFSA/"
         },
         {
-          "titulo": "EN DIRECT – Mobilisation du 21 novembre : entre 82 500 et 150 000 personnes ont défilé en France",
-          "entradilla": "Qu’il s’agisse des autorités ou des organisateurs, tout le monde s’accorde à décrire des rangs plus clairsemés ce samedi 21 novembre par rapport à la semaine précédente.",
-          "enlace": "https://www.liberation.fr/societe/en-direct-mobilisation-contre-la-vie-chere-coup-denvoi-du-sixieme-samedi-de-manifestations-20261121_VKY5SCSHIRDTXE7DUOQNMMRLWY/"
+          "titulo": "Abigail Disney, l’héritière qui veut taxer les grandes fortunes : «Les ultrariches sont convaincus que seuls les imbéciles paient des impôts»",
+          "entradilla": "Elle compte parmi les héritiers d’un empire hollywoodien, mais elle est aussi membre d’un mouvement pour la taxation des grandes fortunes. La petite-nièce de Walt Disney explique son engagement pour dépasser la philanthropie.",
+          "enlace": "https://www.liberation.fr/economie/abigail-disney-heritiere-les-ultrariches-sont-convaincus-que-seuls-les-imbeciles-paient-des-impots-20261122_X7TXCNR3PNG4DPZVOVM4GDA6KQ/"
         },
         {
-          "titulo": "Suspecté d’être une taupe du RN, le préfet Moutouh demande à être relevé de ses fonctions",
-          "entradilla": "Le représentant de l’Etat dans la région Centre-Val de Loire est soupçonné d’être impliqué dans des fuites sur des enquêtes mettant en cause le parti d’extrême droite.",
-          "enlace": "https://www.liberation.fr/societe/police-justice/suspecte-detre-une-taupe-du-rn-le-prefet-moutouh-demande-a-etre-releve-de-ses-fonctions-20261121_LUXHW7N52BELTCNJHZ6VHWMFHU/"
+          "titulo": "Choose France : une deuxième «édition française» aux allures de bilan pour Emmanuel Macron, dans une économie plombée",
+          "entradilla": "Le sommet se tient ce lundi à la Cité universitaire de Paris pour mettre en lumière les investisseurs hexagonaux. L’Elysée annonce 15 milliards d’euros de dépenses dans des projets «strictement nouveaux».",
+          "enlace": "https://www.liberation.fr/economie/choose-france-une-deuxieme-edition-francaise-aux-allures-de-bilan-pour-emmanuel-macron-dans-une-economie-plombee-20261122_ROFFBLVQHNHVVGBYUGNVMTK7EM/"
         },
         {
-          "titulo": "Une attente «pesante» : un mois après l’attentat raciste de Trappes, la date de l’hommage national toujours inconnue",
-          "entradilla": "Alors que le gouvernement avait annoncé dès le 28 octobre la tenue d’une cérémonie pour les victimes de cette attaque raciste, les familles sont toujours suspendues à l’annonce d’une date. Matignon répond être en lien avec elles.",
-          "enlace": "https://www.liberation.fr/societe/une-attente-pesante-un-mois-apres-lattentat-raciste-de-trappes-la-date-de-lhommage-national-toujours-inconnue-20261121_W73UZDAYXZBQFFKPO34XLBKWQI/"
+          "titulo": "Affaire Hugues Moutouh : comment un préfet à ce point politisé a-t-il pu rester si longtemps en poste ?",
+          "entradilla": "Soupçonné d’avoir transmis des informations confidentielles au RN, l’ancien conseiller de Nicolas Sarkozy et de Bruno Retailleau a choisi le «JDD» pour se défendre, mais utilise aussi les voies de communication officielles de la préfecture.",
+          "enlace": "https://www.liberation.fr/politique/affaire-hugues-moutouh-comment-un-prefet-a-ce-point-politise-a-t-il-pu-rester-si-longtemps-en-poste-20261122_6KDHMC2N45H4NOR4LMXSFPFTHQ/"
         },
         {
-          "titulo": "«Legend», HugoDécrypte ou Blast : quels créateurs de contenus et médias en ligne sont vraiment concernés par la régulation de l’Arcom ?",
-          "entradilla": "Selon les informations de «CheckNews», seule une dizaine de youtubeurs et médias vidéos seront contraints de respecter l’obligation de pluralisme. Une émission comme «BackSeat» ne cumulerait pas assez d’audience, tandis que Brut aurait été approché et que Konbini pourrait l’être bientôt.",
-          "enlace": "https://www.liberation.fr/checknews/legend-hugodecrypte-ou-blast-quels-createurs-de-contenus-et-medias-en-ligne-sont-vraiment-concernes-par-la-regulation-de-larcom-20261121_DVECUULTW5BTNH232B2IBVLBT4/"
+          "titulo": "«Un jour ou l’autre, on les remettra bien à l’endroit» : dans les campagnes françaises, pourquoi certains panneaux gardent la tête à l’envers",
+          "entradilla": "Trois ans après le mouvement des agriculteurs qui les avait retournés, nombre de panneaux d’entrée de commune n’ont pas été remis d’équerre par les maires ruraux. Une manière, souvent, de continuer à soutenir la colère agricole, et de faire aussi entendre la leur.",
+          "enlace": "https://www.liberation.fr/societe/un-jour-ou-lautre-on-les-remettra-bien-a-lendroit-dans-les-campagnes-francaises-pourquoi-certains-panneaux-gardent-la-tete-a-lenvers-20261122_SJM4R3CYO5CB3HSZ3FOSJM2SMU/"
         },
         {
-          "titulo": "Mathieu Souquière : «Face à l’extrême droite, il faut des politiques visant à renforcer nos liens, faire régresser la solitude et consolider notre “souveraineté individuelle”»",
-          "entradilla": "La défiance et la déshumanisation sont les principaux carburants du vote RN, analyse dans son dernier ouvrage Mathieu Souquière, expert associé à Terra Nova. Il propose plusieurs pistes pour faire reculer le «populisme d’atmosphère» sur lequel surfe l’extrême droite.",
-          "enlace": "https://www.liberation.fr/politique/mathieu-souquiere-face-a-lextreme-droite-il-faut-des-politiques-visant-a-renforcer-nos-liens-faire-regresser-la-solitude-et-consolider-notre-souverainete-individuelle-20261121_TURRMXEAHRBAVNDNEOVBZ534HE/"
+          "titulo": "Guerre Russie-Ukraine : la «zone grise» rétrécit pour les pays de l’Otan",
+          "entradilla": "Des drones ukrainiens dans le golfe de Finlande samedi 21 novembre aux missiles russes en Pologne vendredi, la guerre déborde sur le territoire et dans les eaux de l’Otan. Moscou crie à la cobelligérance.",
+          "enlace": "https://www.liberation.fr/international/europe/guerre-russie-ukraine-la-zone-grise-retrecit-pour-les-pays-de-lotan-20261122_DHP2YVAFPJDIXEAGXYF4X5SUFE/"
         },
         {
-          "titulo": "Tondelier-Mélenchon : et si l’histoire n’était pas encore écrite ?",
-          "entradilla": "Le choix de l’écologiste de se tourner vers les insoumis pour «travailler à une coalition» est loin de signifier la fin de sa candidature. Le candidat LFI ne goûte guère ses discussions d’appareil et n’a pas l’air partant pour «mettre de l’eau dans [son] vin» international.",
-          "enlace": "https://www.liberation.fr/politique/elections/tondelier-melenchon-et-si-lhistoire-netait-pas-encore-ecrite-20261121_HK7DHTMEIJC2LMGTVCRHITA4HU/"
+          "titulo": "Tété, artiste : quinqua requinqué",
+          "entradilla": "Ex-coqueluche folk, le chanteur montreuillois a puisé dans les épreuves de la vie un nouvel élan créatif.",
+          "enlace": "https://www.liberation.fr/portraits/tete-artiste-quinqua-requinque-20261122_LRI23JXAPZDLVMECLNUQUYTHNU/"
         },
         {
-          "titulo": "Racisme, mensonges, incompétence… Ce que le procès des agresseurs de Michel Zecler dit de la police française",
-          "entradilla": "Durant deux semaines, des policiers ont défilé à la barre pour l’agression du producteur de rap en novembre 2020, donnant à voir les pratiques et les logiques des agents sur le terrain. Une photographie inquiétante de l’institution.",
-          "enlace": "https://www.liberation.fr/societe/police-justice/racisme-mensonges-incompetence-ce-que-le-proces-des-agresseurs-de-michel-zecler-dit-de-la-police-francaise-20261121_43MGR2EKZBFOXN77M5LOWKB5OY/"
+          "titulo": "Jeff Mills, pionnier de la techno : «Plus nous imaginerons un avenir dystopique, plus nous participerons à le créer»",
+          "entradilla": "Depuis Détroit, à l’occasion de la sortie de «The Forbidden Planet», le nouvel album de sa formation Tomorrow Comes The Harvest, le DJ et producteur américain confie son désarroi devant l’état du monde, mais aussi son optimisme face aux mobilisations de jeunesse et aux pouvoirs de la musique.",
+          "enlace": "https://www.liberation.fr/culture/musique/jeff-mills-pionnier-de-la-techno-plus-nous-imaginerons-un-avenir-dystopique-plus-nous-participerons-a-le-creer-20261122_B2NUB43WQRGMPIZ2SCS7J6SAJU/"
         },
         {
-          "titulo": "David Lisnard, dynamiteur populiste de la bataille à droite",
-          "entradilla": "Le maire de Cannes et candidat Nouvelle Energie à la présidentielle a réussi à bousculer le trio Attal-Philippe-Retailleau. Ses rivaux dénoncent sa proximité avec l’extrême droite et refusent sa proposition d’une primaire jusqu’à Zemmour.",
-          "enlace": "https://www.liberation.fr/politique/lisnard-dynamiteur-populiste-de-la-bataille-a-droite-20261120_XBOH6GUQORBZPOVFP6T6TZRUFA/"
+          "titulo": "En Turquie, le pouvoir s’attaque aux derniers médias d’opposition",
+          "entradilla": "Ce dimanche 22 novembre, une manifestation de soutien à la presse était organisée à Istanbul, après la mise sous tutelle par les autorités de Sozcu TV, la première chaîne d’information du pays. Une décision qui survient après la fermeture d’autres médias ces derniers mois.",
+          "enlace": "https://www.liberation.fr/international/en-turquie-le-pouvoir-sattaque-aux-derniers-medias-dopposition-20261122_M5FWN344FNBOHJBS25MN6QO7NA/"
         },
         {
-          "titulo": "Château des Bogdanoff, demeures privées… Sur les réseaux, l’urbex 2.0 cherche «l’aventure au bout de la rue»",
-          "entradilla": "L’exploration urbaine des friches industrielles d’il y a trente ans s’est aujourd’hui transformée en visites massives et filmées de résidences privées, dont certaines ne sont pas forcément abandonnées. Décortiquons les mutations de cette pratique légale mais aux contours juridiques restant flous.",
-          "enlace": "https://www.liberation.fr/societe/chateau-des-bogdanoff-demeures-privees-sur-les-reseaux-lurbex-20-cherche-laventure-au-bout-de-la-rue-20261121_IUQCDNIXCNFRHMRCOEMX6RNXUI/"
+          "titulo": "Législatives espagnoles : Vox, l’extrême droite en campagne contre «l’invasion migratoire»",
+          "entradilla": "En meeting ce dimanche 22 novembre à Saragosse, le chef du parti d’extrême droite, Santiago Abascal, a multiplié les saillies contre les étrangers. Et capitalise sur les faiblesses des partis traditionnels.",
+          "enlace": "https://www.liberation.fr/international/europe/legislatives-espagnoles-vox-lextreme-droite-en-campagne-contre-linvasion-migratoire-20261122_3NKCB75PWFGJZC2K2QKXSPJYVE/"
         },
         {
-          "titulo": "«Fais ce que tu as à faire» : à l’audience, le client entendu comme témoin… et non pas accusé",
-          "entradilla": "«Libération» a suivi cinq procès pour proxénétisme aggravé, impliquant des mineures parfois très jeunes, afin d’entendre les victimes, leurs parents, les proxénètes, les magistrats… Sixième épisode : le client, et le poids de l’absence de tous les autres.",
-          "enlace": "https://www.liberation.fr/societe/police-justice/fais-ce-que-tu-as-a-faire-a-laudience-le-client-entendu-comme-temoin-et-non-pas-accuse-20261121_HRC2BZLGYFBMTFYYAPFBHDJOKE/"
+          "titulo": "«On pourra bientôt sortir de cette folie» : au Sommet de Paris, les économistes à l’offensive contre l’oligarchie",
+          "entradilla": "Réunis au théâtre de la Concorde ce samedi 21 novembre, les partisans de la taxe Zucman ont débattu, avec espoir et optimisme, de solutions pour taxer les ultrariches et mettre fin à l’emprise de l’extrême richesse sur nos démocraties.",
+          "enlace": "https://www.liberation.fr/idees-et-debats/on-pourra-bientot-sortir-de-cette-folie-au-sommet-de-paris-les-economistes-a-loffensive-contre-loligarchie-20261122_IIVO5RYF5ND53A7YWEWMXZCJ5Y/"
         }
       ],
       "analisis": {
-        "resumen": "- François Ruffin retira su candidatura presidencial de 2027 sin apoyar a otro candidato.\n- Las protestas contra el alto coste de la vida reúnen entre 82.500 y 150.000 personas, menos que la semana anterior.\n- Un prefecto sospechoso de filtrar información al RN pide ser relevado; también se aborda la espera de un homenaje a las víctimas del atentado racista de Trappes.\n- La portada examina las relaciones entre Tondelier y Mélenchon, el ascenso de Lisnard y un juicio por agresión policial.\n- Otros temas son la regulación de medios digitales, la exploración urbana y los juicios por proxenetismo.",
-        "populismo": 30,
-        "motivo_populismo": "Predominan titulares informativos, aunque expresiones como «racismo, mentiras, incompetencia» y «dinamitador populista» recurren a la descalificación y a un lenguaje enfático.",
-        "sesgo": "Se aprecia un enfoque crítico hacia la extrema derecha y la actuación policial, junto con atención a las dificultades económicas de los manifestantes. Algunas formulaciones, como «fotografía inquietante» de la policía, incorporan una valoración editorial."
+        "resumen": "- La cumbre climática en Turquía termina sin acuerdo; Arabia Saudí y Rusia obstaculizaron las negociaciones sobre los combustibles fósiles.\n- Las hermanas de una víctima del atentado racista de Trappes cuentan su miedo y su voluntad de preservar su memoria.\n- Abigail Disney y economistas reunidos en París defienden gravar las grandes fortunas; el Gobierno francés anuncia inversiones en Choose France.\n- La portada aborda la politización de un exprefecto, la protesta agrícola, la guerra en Ucrania, la presión sobre la prensa turca y la campaña de Vox contra la inmigración.\n- En cultura, presenta la renovación creativa del cantante Tété y una entrevista al músico Jeff Mills.",
+        "populismo": 38,
+        "motivo_populismo": "Expresiones como «COP del abandono», «economía lastrada» y la ofensiva contra la «oligarquía» aportan dramatización y confrontación, aunque varios titulares son informativos y algunas frases polémicas se atribuyen a sus protagonistas.",
+        "sesgo": "La selección y la redacción dan relevancia a la emergencia climática, el racismo, la desigualdad económica y la libertad de prensa. Se aprecia un enfoque crítico hacia la concentración de riqueza, ciertas actuaciones del poder y los discursos de extrema derecha."
       }
     },
     {
@@ -258,71 +258,71 @@
       "web": "https://www.leparisien.fr",
       "noticias": [
         {
-          "titulo": "Nice-PSG (2-3) : Paris s’impose mais fait grise mine",
+          "titulo": "Leader de Betclic Élite, le Paris Basketball s’impose confortablement contre Gravelines-Dunkerque",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/sports/football/psg/nice-psg-2-3-paris-simpose-mais-fais-grise-mine-21-11-2026-WEMJ4JA4SJFGZDNHAAFYC7IIT4.php"
+          "enlace": "https://www.leparisien.fr/sports/basket/leader-de-betclic-elite-le-paris-basketball-simpose-confortablement-contre-gravelines-dunkerque-22-11-2026-SXSPNA2RKVCJHIU4BVQ32YC5DQ.php"
         },
         {
-          "titulo": "Météo : le Pas-de-Calais maintenu en vigilance orange crues, le Jura placé en alerte pluie inondations dimanche",
+          "titulo": "Le patron de la police saisit la justice après un salut nazi et des messages racistes dans une école de police",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/meteo/meteo-le-pas-de-calais-maintenu-en-vigilance-orange-crues-le-jura-place-en-alerte-pluie-inondations-dimanche-21-11-2026-6SWOVN4CAFERJFFMAUVXLJXKNE.php"
+          "enlace": "https://www.leparisien.fr/faits-divers/le-patron-de-la-police-saisit-la-justice-apres-un-salut-nazi-et-des-messages-racistes-dans-une-ecole-de-police-22-11-2026-GCZTL5OLM5GRHOQ2WUULXQNOIU.php"
         },
         {
-          "titulo": "Préfet soupçonné de collusion avec le RN : Hugues Moutouh demande à être relevé de ses fonctions",
+          "titulo": "Large succès et Barcola décisif : Liverpool fait vivre un enfer à Manchester United pour les débuts de Pochettino",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/faits-divers/prefet-soupconne-de-collusion-avec-le-rn-hugues-moutouh-demande-a-etre-releve-de-ses-fonctions-21-11-2026-4DJEEFY23REJJCYLEICO6FH734.php"
+          "enlace": "https://www.leparisien.fr/sports/football/large-succes-et-barcola-decisif-liverpool-fait-vivre-un-enfer-a-manchester-united-pour-les-debuts-de-pochettino-22-11-2026-IHDBYUS7RBD5DHJQ5MI5JGV434.php"
         },
         {
-          "titulo": "« C’est une guerre déclarée » : l’Algérie abat deux Marocains, trafiquants de drogue présumés, dans un contexte de fortes tensions diplomatiques",
+          "titulo": "Bourse, or, bitcoin… Les marchés financiers en pleine période noire : à quand la sortie de crise ?",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/international/cest-une-guerre-declaree-lalgerie-abat-deux-marocains-trafiquants-de-drogue-presumes-dans-un-contexte-de-fortes-tensions-diplomatiques-21-11-2026-SVJCZR5GQ5FL5LG64T6DOMMZQ4.php"
+          "enlace": "https://www.leparisien.fr/economie/bourse-or-bitcoin-les-marches-financiers-en-pleine-periode-noire-a-quand-la-sortie-de-crise-22-11-2026-4FIMCBAZZ5A4NDPKD2EA5NKWYM.php"
         },
         {
-          "titulo": "« Sur un malentendu, ça peut marcher » : David Lisnard, l’homme qui bouscule la campagne présidentielle",
+          "titulo": "Gouvernement en Israël : aucun signe de rapprochement entre Gadi Eisenkot et le parti de Benyamin Netanyahou, malgré de nouvelles négociations",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/politique/sur-un-malentendu-ca-peut-marcher-david-lisnard-lhomme-qui-bouscule-la-campagne-presidentielle-21-11-2026-PLZP2HYR4NEG7LL22MUOFZMRXA.php"
+          "enlace": "https://www.leparisien.fr/international/israel/gouvernement-en-israel-aucun-signe-de-rapprochement-entre-gadi-eisenkot-et-le-parti-de-benyamin-netanyahou-malgre-de-nouvelles-negociations-22-11-2026-HH2DXEWVSVADPDVW3ZC7NPCEYA.php"
         },
         {
-          "titulo": "« On a ramé pendant des années » : Nico Moreno, l’ex-éboueur normand devenu star mondiale de la techno",
+          "titulo": "À Porto-Vecchio, la statue de la Vierge Marie à nouveau prise pour cible",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/culture-loisirs/musique/on-a-rame-pendant-des-annees-nico-moreno-lex-eboueur-normand-devenu-star-mondiale-de-la-techno-21-11-2026-OUGDS3ELVJD7BOOIEVSN62WDIY.php"
+          "enlace": "https://www.leparisien.fr/faits-divers/a-porto-vecchio-la-statue-de-la-vierge-marie-a-nouveau-prise-pour-cible-22-11-2026-WVRCDPMPVVAQLC3Z4GCMDMAUPY.php"
         },
         {
-          "titulo": "Nice-PSG : on craint le pire pour Désiré Doué qui sort sur civière en larmes après s’être blessé à un genou",
+          "titulo": "« Combien de familles devront être brisées ? » : en Guadeloupe, le choc après le meurtre par arme à feu d’un joggeur de 38 ans",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/sports/football/ligue-1/nice-psg-on-craint-le-pire-pour-desire-doue-qui-sort-sur-civiere-en-larmes-apres-setre-blesse-a-un-genou-21-11-2026-INDAAPSHYJD3NB26QCN5BG3KW4.php"
+          "enlace": "https://www.leparisien.fr/faits-divers/combien-de-familles-devront-etre-brisees-en-guadeloupe-le-choc-apres-le-meurtre-par-arme-a-feu-dun-joggeur-de-38-ans-22-11-2026-CMHLX5F7XJHJTKRPMKKE7BEYFI.php"
         },
         {
-          "titulo": "Présidentielle 2027 : François Ruffin retire sa candidature prenant « acte de l’impasse » de sa campagne",
+          "titulo": "Versailles : un policier de la BAC tire accidentellement sur un collègue en nettoyant son arme",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-francois-ruffin-retire-sa-candidature-prenant-acte-de-limpasse-de-sa-campagne-21-11-2026-U32SHNW4YVHQNKT3Z6GQX5AEVM.php"
+          "enlace": "https://www.leparisien.fr/faits-divers/versailles-un-policier-de-la-bac-tire-accidentellement-sur-un-collegue-en-nettoyant-son-arme-22-11-2026-5RSZ4KRBLFA5DL2SHNK3W5BFKY.php"
         },
         {
-          "titulo": "Moins chers et plus écolos : des chargeurs made in France en pleine ascension",
+          "titulo": "« Une dynamique assez unique » : comment Céline Dion a boosté l’activité commerciale à Paris",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/economie/moins-chers-et-plus-ecolos-des-chargeurs-made-in-france-en-pleine-ascension-21-11-2026-X7UZUI2S25BOVKXROIKRG7FMRY.php"
+          "enlace": "https://www.leparisien.fr/economie/une-dynamique-assez-unique-comment-celine-dion-a-booste-lactivite-commerciale-a-paris-22-11-2026-ITLKPGEADVDVTK2X5LSRTYEBXI.php"
         },
         {
-          "titulo": "« Le premier jour, il y a une excitation particulière » : les skieurs alpins se pressent à l’ouverture des stations dans les Alpes",
+          "titulo": "« Un échec » : en Turquie, l’impasse sur les énergies fossiles condamne la COP31",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/savoie-73/le-premier-jour-il-y-a-une-excitation-particuliere-les-skieurs-alpins-se-pressent-a-louverture-des-stations-dans-les-alpes-21-11-2026-JB7P4E4X5RB33M7RKBB2BWFIAY.php"
+          "enlace": "https://www.leparisien.fr/environnement/climat/un-echec-en-turquie-limpasse-sur-les-energies-fossiles-condamne-la-cop31-22-11-2026-F2WMO6SWBNHLNNGBPG3WEDTD4E.php"
         },
         {
-          "titulo": "Quinté du dimanche 22 novembre à Paris-Vincennes : Marc Sassier vise le très haut niveau pour ce meeting d’hiver",
+          "titulo": "Mercato PSG : après la blessure de Désiré Doué, Paris va se mettre en quête de la perle rare",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/sports/hippisme/quinte-du-dimanche-22-novembre-a-paris-vincennes-marc-sassier-vise-le-tres-haut-niveau-pour-ce-meeting-dhiver-21-11-2026-KFPQB3AXMREP3ASY5ED52DBQJI.php"
+          "enlace": "https://www.leparisien.fr/sports/football/psg/mercato-psg-apres-la-blessure-de-desire-doue-paris-va-se-mettre-en-quete-de-la-perle-rare-22-11-2026-SZCM5AI27FEC5DBFK4P2B7HEJI.php"
         },
         {
-          "titulo": "Élection à la Fifa : « Vous êtes notre candidat », l’Afrique s’unit derrière Gianni Infantino sous les yeux de Philippe Diallo",
+          "titulo": "Un doublé en deux minutes : le Marocain Yassir Zabiri porte encore le Racing Santander contre la Real Sociedad",
           "entradilla": "",
-          "enlace": "https://www.leparisien.fr/sports/football/election-a-la-fifa-vous-etes-notre-candidat-lafrique-sunit-derriere-gianni-infantino-sous-les-yeux-de-philippe-diallo-21-11-2026-B4YSQRKQTJEEXIMG6LVVUJ6GJA.php"
+          "enlace": "https://www.leparisien.fr/sports/football/un-double-en-deux-minutes-le-marocain-yassir-zabiri-porte-encore-le-racing-santander-contre-la-real-sociedad-22-11-2026-6NFSYB5F2JDA5LYSVC5GZGEIK4.php"
         }
       ],
       "analisis": {
-        "resumen": "- El PSG gana 3-2 al Niza, pero preocupa la lesión de rodilla de Désiré Doué.\n- Pas-de-Calais sigue en alerta naranja por crecidas y Jura entra en alerta por lluvias e inundaciones.\n- El prefecto Hugues Moutouh pide ser relevado tras sospechas de connivencia con el RN.\n- Argelia abate a dos marroquíes, presuntos traficantes de droga, en un contexto de tensión diplomática.\n- En la carrera presidencial, François Ruffin retira su candidatura y David Lisnard gana protagonismo.",
-        "populismo": 20,
-        "motivo_populismo": "Expresiones como «es una guerra declarada» y «se teme lo peor» aportan dramatismo, pero no se aprecia una apelación al pueblo contra las élites.",
-        "sesgo": "La portada combina política, sucesos y deporte, con atención destacada al fútbol y a la campaña presidencial. Algunos titulares recurren a citas y expresiones emotivas, sin que se aprecie una orientación política clara."
+        "resumen": "- El Paris Basketball gana a Gravelines-Dunkerque; el Liverpool vence al Manchester United con Barcola decisivo.\n- El jefe de la policía recurre a la justicia tras un saludo nazi y mensajes racistas en una escuela policial.\n- Los mercados financieros atraviesan una etapa difícil, con caídas o problemas que afectan a la bolsa, el oro y el bitcoin.\n- En Guadalupe causa conmoción el asesinato a tiros de un corredor; en Versalles, un policía hiere accidentalmente a un compañero.\n- Las negociaciones políticas en Israel siguen sin acercamiento, mientras la COP31 afronta un bloqueo sobre las energías fósiles.",
+        "populismo": 25,
+        "motivo_populismo": "Algunos titulares recurren a expresiones emotivas o dramáticas como «familias destrozadas», «período negro» y «un infierno», pero no plantean un enfrentamiento entre pueblo y élites.",
+        "sesgo": "La portada da bastante espacio al deporte y a sucesos impactantes, con un tono dramático en algunos titulares. No se aprecia un sesgo ideológico claro en la selección y redacción disponibles."
       }
     },
     {
@@ -330,61 +330,61 @@
       "web": "https://www.ouest-france.fr",
       "noticias": [
         {
-          "titulo": "Ligue 1. Paris s’impose à Nice et enchaîne un huitième succès en championnat, mais perd Désiré Doué sur blessure",
-          "entradilla": "Le Paris Saint-Germain s’est imposé dans cette onzième journée de Ligue 1, sur la pelouse de l’OGC Nice (2-3). Le point noir de la soirée sera la blessure de Désiré Doué, sorti sur civière à la demi-heure de jeu.",
-          "enlace": "https://www.ouest-france.fr/sport/football/ligue-1/ligue-1-paris-simpose-a-nice-et-enchaine-un-huitieme-succes-en-championnat-mais-perd-desire-doue-sur-blessure-32feebde-e5d5-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Des propos racistes et salut nazi diffusés dans des conversations entre élèves d’une école de police de Seine-et-Marne",
+          "entradilla": "Caricatures, messages racistes ou encore salut nazi ont été découverts dans des conversations entre élèves officiers d’une école de police en Seine-et-Marne. La direction générale de la police nationale a saisi la justice, apprend-on ce dimanche.",
+          "enlace": "https://www.ouest-france.fr/societe/police/des-propos-racistes-et-salut-nazi-diffuses-dans-des-conversations-entre-eleves-dune-ecole-de-police-de-seine-et-marne-c0ff6ebc-e6a3-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "Soupçonné de fuites en faveur du RN, le préfet Hugues Moutouh demande à être relevé de ses fonctions",
-          "entradilla": "Hugues Moutouh est soupçonné d’avoir transmis au Rassemblement national des informations sur des enquêtes visant le parti. Ce samedi, il annoncé avoir demandé à être relevé de ses fonctions.",
-          "enlace": "https://www.ouest-france.fr/politique/rassemblement-national/soupconne-de-fuites-en-faveur-du-rn-le-prefet-hugues-moutouh-demande-a-etre-releve-de-ses-fonctions-68217a22-e5d3-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "« Ça n’a aucun sens » : sans Édouard Philippe à la primaire de la droite, David Lisnard n’y participera pas",
+          "entradilla": "David Lisnard a expliqué, ce dimanche 22 novembre sur BFMTV, que si Édouard Philippe ne participait à la primaire de la droite et du centre, il ne serait pas de la partie non plus. Le maire de Cannes a aussi évoqué la présence d’Éric Zemmour à ce scrutin.",
+          "enlace": "https://www.ouest-france.fr/politique/david-lisnard/ca-na-aucun-sens-sans-edouard-philippe-a-la-primaire-de-la-droite-david-lisnard-ny-participera-pas-70977960-e685-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "Coupe Gambardella. Rennes Bréquigny se montre efficace et s’impose à Plouvorn lors de la finale régionale",
-          "entradilla": "Ce samedi 21 novembre, lors de la finale régionale de la Coupe Gambardella, Rennes Bréquigny (R1) a su faire preuve d’efficacité pour s’imposer sur la pelouse des Finistériens de Plouvorn (R2) (3-0). Voici ce qu’il faut retenir du match.",
-          "enlace": "https://www.ouest-france.fr/sport/football/coupe-gambardella/coupe-gambardella-rennes-brequigny-se-montre-efficace-et-simpose-a-plouvorn-lors-de-la-finale-regionale-423af2e6-e5d0-11f1-b9ed-164c427aef07?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Premier League. Liverpool enfonce Manchester United dans la crise pour la première sur le banc de Pochettino",
+          "entradilla": "Mauricio Pochettino a vécu un baptême du feu cauchemardesque sur le banc de Manchester United. Réduits à dix après moins de dix minutes de jeu après l’expulsion de Yoro, ses protégés ont été corrigés 4-0, ce dimanche 22 novembre, sur la pelouse de Liverpool lors de la 11e journée de Premier League. ",
+          "enlace": "https://www.ouest-france.fr/sport/football/angleterre/liverpool/premier-league-liverpool-enfonce-manchester-united-dans-la-crise-pour-la-premiere-sur-le-banc-de-pochettino-59d8623e-e69e-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "Le remorquage du cargo échoué dans les Landes pourrait prendre plusieurs jours, voire davantage",
-          "entradilla": "Échoué dans la nuit du 19 au 20 novembre, le cargo sous pavillon maltais s’avère difficile d’accès. Le bateau remorqueur l’Abeille Bretagne est attendu sur zone samedi, mais ne pourra pas s’approcher à moins de 900 mètres en raison des faibles fonds marins.",
-          "enlace": "https://www.ouest-france.fr/mer/le-remorquage-du-cargo-echoue-dans-les-landes-pourrait-prendre-plusieurs-jours-voire-davantage-7e51a148-e5c7-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Victime d’un grave accident, un joueur de NFL soupçonné d’avoir agressé son chauffeur avant le choc",
+          "entradilla": "Toujours hospitalisé, deux jours après un accident de voiture survenu vendredi 20 novembre à Tampa (Floride), Jaylen Harrell, joueur des Tennessee Titans en NFL, est suspecté d’avoir agressé le conducteur alors que la voiture roulait encore. Une enquête a été ouverte par la police locale.",
+          "enlace": "https://www.ouest-france.fr/sport/football-americain/victime-dun-grave-accident-un-joueur-de-nfl-soupconne-davoir-agresse-son-chauffeur-avant-le-choc-9a9c293c-e69d-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "ENTRETIEN. « 88 % des procédures sont djihadistes, d’autres menaces sont apparues », annonce le procureur antiterroriste",
-          "entradilla": "À la veille du procès d’Émilie König, l’ex-« égérie de Daech », le patron du parquet national antiterroriste, Olivier Christen, évoque le traitement pénal des femmes djihadistes revenues de Syrie. Il explique aussi une menace terroriste qui évolue.",
-          "enlace": "https://www.ouest-france.fr/terrorisme/entretien-88-pourcent-des-procedures-sont-djihadistes-dautres-menaces-sont-apparues-annonce-le-procureur-antiterroriste-6f2f08e6-e4bd-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "En Turquie, la Cop31 échoue sur la question de l’abandon des énergies fossiles",
+          "entradilla": "La plus longue conférence de l’Onu sur le climat de l’histoire s’est terminée sur un échec dimanche en Turquie, en l’absence d’accord final. Le texte discuté, rejeté par l’Union européenne, omettait, entre autres, tout objectif de sortie des énergies fossiles.",
+          "enlace": "https://www.ouest-france.fr/environnement/cop21/en-turquie-la-cop-31-echoue-sur-la-question-de-labandon-des-energies-fossiles-de1759c2-e682-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "Tennis. Battu par Carlos Alcaraz, Ben Shelton dresse « un bilan mitigé » de sa saison 2026, conclut au 4e rang mondial",
-          "entradilla": "Ben Shelton a vu sa saison prendre fin au terme de sa défaite en demi-finale des ATP Finals, ce samedi 21 novembre face à Carlos Alcaraz (3-6, 6-3, 7-6 [1]). L’Américain a ainsi dressé un bilan de son année, conclut au 4e rang mondial et au cours de laquelle il a disputé sa première finale en Grand ",
-          "enlace": "https://www.ouest-france.fr/sport/tennis/tennis-battu-par-carlos-alcaraz-ben-shelton-dresse-un-bilan-mitige-de-sa-saison-2026-conclut-au-4e-rang-mondial-b1a3c662-e5d0-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Choose France : 42,5 milliards d’euros d’investissements annoncés",
+          "entradilla": "Emmanuel Macron reçoit ce lundi 150 chefs d’entreprise à l’Élysée pour la deuxième édition de Choose France consacrée aux investissements dans l’Hexagone. Au total, 273 projets représentant 42,5 milliards d’euros sont mis en avant. Le Grand Ouest en concentre 37, pour 5,45 milliards d’euros.",
+          "enlace": "https://www.ouest-france.fr/economie/choose-france-42-5-milliards-deuros-dinvestissements-annonces-15306b32-e68e-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "VIDÉO OGC Nice - PSG. Touché à un genou, Désiré Doué sort en larmes et sur civière",
-          "entradilla": "Titulaire face à l’OGC Nice pour cette onzième journée de Ligue 1, samedi 21 novembre 2026, l’international français Désiré Doué est sorti sur civière en larmes, peu après la demi-heure de jeu.",
-          "enlace": "https://www.ouest-france.fr/sport/football/paris-sg/ogc-nice-psg-touche-a-un-genou-desire-doue-sort-en-larmes-et-sur-civiere-b9a3ad1c-e5cd-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Coupe de France féminine (1er tour fédéral). Valeureux, le Quimper KFC logiquement éliminé par Rueil-Malmaison",
+          "entradilla": "Valeureuses en deuxième période, les Quimpéroises se sont néanmoins inclinées logiquement face aux Franciliennes de Rueil-Malmaison (1-2). Elles ne verront pas les 32es de finale.",
+          "enlace": "https://www.ouest-france.fr/sport/football/coupe-de-france/coupe-de-france-feminine-1er-tour-federal-valeureux-le-quimper-kfc-logiquement-elimine-par-rueil-malmaison-c62f110e-e69d-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "Présidentielle. « Je n’emploierai pas une tronçonneuse mais le bulldozer » : Bruno Retailleau se « Miléise » en Anjou",
-          "entradilla": "Le candidat des Républicains a fait étape à Nyoiseau (Maine-et-Loire) ce samedi 21 novembre pour une réunion publique offensive mais tenue en petit comité.",
-          "enlace": "https://www.ouest-france.fr/politique/bruno-retailleau/presidentielle-je-nemploierai-pas-une-tronconneuse-mais-le-bulldozer-bruno-retailleau-se-mileise-en-anjou-8444d94a-e5bc-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "« C’est mon grand-père de cœur » : à 30 ans, Paul vit en colocation avec le doyen du village âgé de 97 ans",
+          "entradilla": "Depuis octobre 2025, Paul Canet, autoentrepreneur de 30 ans, vit en colocation au Vieux Moulin de Neuville-sur-Sarthe avec Jean-Paul Sivadier (97 ans), doyen de la commune. Une relation emplie d’affection et de respect.",
+          "enlace": "https://www.ouest-france.fr/societe/logement/cest-mon-grand-pere-de-cur-a-30-ans-paul-vit-en-colocation-avec-le-doyen-du-village-age-de-97-ans-bf313a66-e289-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "Championnat des nations. Après le succès écrasant de l’Angleterre, la France qualifiée pour la finale si…",
-          "entradilla": "Après le succès de l’Angleterre face à la Nouvelle-Zélande (37-12) en début d’après-midi, ce samedi 21 novembre, la France doit à tout prix battre l’Argentine pour espérer jouer la finale de ce Championnat des nations, mais pas que…",
-          "enlace": "https://www.ouest-france.fr/sport/rugby/equipe-de-france/championnat-des-nations-apres-le-succes-ecrasant-de-langleterre-la-france-qualifiee-pour-la-finale-si-00d65bce-e5cb-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "Guerre en Ukraine : au moins six morts dans des frappes russes dans la région de Kiev",
+          "entradilla": "L’armée russe a encore frappé fort la nuit dernière en Ukraine. À Dymer, au moins trois personnes sont mortes dans un immeuble d’habitation. Ailleurs dans la région de Kiev, au moins trois personnes sont mortes. Le pays compte aussi ses blessés dans différentes régions.",
+          "enlace": "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-au-moins-quatre-morts-dans-des-frappes-russes-dans-la-region-de-kiev-3b4a00a6-e67c-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         },
         {
-          "titulo": "MotoGP. Aprilia sacré champion du monde des constructeurs après la victoire en sprint de Bezzecchi au GP du Portugal",
-          "entradilla": "Marco Bezzechi a signé sa première victoire de la saison en course sprint, ce samedi 21 novembre, lors du Grand Prix du Portugal. Au passage, l’Italien a offert le tout premier titre de champion du monde des constructeurs à son écurie Aprilia qui a pleinement tiré profit de la chute de Marc Marquez ",
-          "enlace": "https://www.ouest-france.fr/sport/moto/motogp/aprilia/motogp-aprilia-sacre-champion-du-monde-des-constructeurs-apres-la-victoire-en-sprint-de-bezzecchi-au-gp-du-portugal-6abb8268-e5ca-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "titulo": "ATP Finals. Combien vont gagner Théo Arribagé et Albano Olivetti après leur sacre en double ?",
+          "entradilla": "Vainqueurs des ATP Finals pour leur toute première participation, dimanche 22 novembre 2026, Théo Arribagé et Albano Olivetti terminent l’année 2026 sur le plus grand succès de leur carrière. Un sacre assorti d’une jolie récompense financière.",
+          "enlace": "https://www.ouest-france.fr/sport/tennis/atp-finals-combien-vont-gagner-theo-arribage-et-albano-olivetti-apres-leur-sacre-en-double-4d6e2e2a-e699-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         }
       ],
       "analisis": {
-        "resumen": "- El PSG gana 2-3 al Niza, pero Désiré Doué se lesiona y sale en camilla.\n- El prefecto Hugues Moutouh pide ser relevado, bajo sospecha de haber filtrado información al RN.\n- El remolque de un carguero encallado en las Landas podría durar varios días o más.\n- El fiscal antiterrorista aborda el tratamiento de las mujeres yihadistas y la evolución de la amenaza.\n- La portada también recoge la campaña de Bruno Retailleau y varios resultados deportivos.",
-        "populismo": 18,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «sale en lágrimas», «éxito aplastante» y la cita del «bulldozer» aportan dramatismo o énfasis.",
-        "sesgo": "La selección da amplio protagonismo al deporte, junto con noticias de seguridad, política y sucesos. En la noticia sobre el prefecto, la redacción presenta las filtraciones como una sospecha, no como un hecho probado."
+        "resumen": "- Se investigan mensajes racistas y un saludo nazi en conversaciones entre alumnos de una escuela de policía francesa.\n- David Lisnard descarta participar en las primarias de la derecha y el centro si no lo hace Édouard Philippe.\n- La COP31 termina sin acuerdo final sobre el abandono de los combustibles fósiles; en Choose France se anuncian inversiones por 42.500 millones de euros.\n- Al menos seis personas mueren en ataques rusos en la región de Kiev.\n- La portada incluye resultados deportivos, una investigación sobre un jugador de la NFL y una historia de convivencia intergeneracional.",
+        "populismo": 15,
+        "motivo_populismo": "Predomina el lenguaje informativo, aunque expresiones deportivas como «hunde en la crisis» y «pesadilla» aportan dramatismo; no se aprecia una oposición entre pueblo y élites.",
+        "sesgo": "La selección combina política y actualidad internacional con deporte y noticias humanas, con atención a Francia y al ámbito local. No se aprecia un sesgo político claro en los titulares."
       }
     }
   ]
