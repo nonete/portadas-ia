@@ -1,39 +1,39 @@
 {
   "pais": "Italia",
-  "fecha": "2026-11-22",
+  "fecha": "2026-11-24",
   "turno": 14,
-  "generado": "22/11/2026 20:02",
+  "generado": "24/11/2026 22:55",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "Il Giornale e Il Fatto Quotidiano coinciden en la investigación tras el suicidio de Gianni De Gennaro, el ataque contra un buque ruso en Libia y el desacuerdo sobre los combustibles fósiles en la COP31. La guerra vinculada a Rusia también aparece en Corriere della Sera, con el avance hacia Járkov. Entre los asuntos particulares, Corriere destaca el caso político y judicial de Liguria.",
-    "crispacion": 67,
-    "motivo_crispacion": "La tensión es notable por el enfrentamiento dentro de la mayoría de Gobierno sobre el Superbonus y la tasa a las bebidas azucaradas, así como por las acusaciones y defensas en el caso de Liguria. También aparecen críticas de estudiantes a una propuesta de Fratelli d’Italia y desacuerdos en la COP31. La guerra y el ataque al buque ruso añaden tensión internacional. Noticias deportivas, de ahorro y de interés humano ofrecen un contraste más tranquilo."
+    "temas": "Se repiten las noticias sobre la operación de rodilla de Jannik Sinner y su recuperación, así como las disculpas y el regreso de Jensen Huang a Nvidia. También destacan el caso De Gennaro y sus cartas, y los debates sobre las cuentas públicas y las medidas fiscales. Solo Il Fatto Quotidiano dedica varios titulares a la violencia contra las mujeres.",
+    "crispacion": 64,
+    "motivo_crispacion": "La tensión procede de los desacuerdos entre mayoría y oposición sobre las cartas de De Gennaro y el trabajo de la comisión Antimafia. También hay enfrentamientos dentro de la mayoría por medidas fiscales, además de acusaciones e investigaciones relacionadas con la política ligur. Las noticias sobre la guerra en Ucrania y la violencia contra las mujeres reflejan conflictos y problemas sociales graves. Frente a ello, la recuperación de Sinner y otras informaciones deportivas aportan asuntos menos confrontativos."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Veo en las noticias de hoy una misma disputa: quién tiene poder para decidir sobre nuestros derechos y nuestro futuro. El borrador final de la COP31 no menciona los combustibles fósiles, mientras quienes se benefician de ellos conservan una influencia decisiva. Una transición justa no puede dejarse en manos del gran capital: defiendo la propiedad colectiva de la energía, la inversión pública y empleos dignos para quienes trabajan en el sector.\n\nTambién me preocupa la propuesta de retirar becas a estudiantes investigados. El derecho a estudiar no debería depender de la capacidad económica de una familia ni utilizarse para castigar la participación política. Desde una perspectiva comunista, defender servicios públicos universales y proteger las libertades de organización son partes de la misma lucha de clases."
+      "texto": "Veo la lucha de clases en dos noticias que conviene leer juntas: las pensiones pierden fuerza frente al coste de la vida y los tribunales del norte no logran cubrir puestos por los bajos salarios y la carestía. No son problemas separados: cuando se debilitan los ingresos de quienes trabajan, también se debilitan los servicios de los que dependemos, incluidos los que deben proteger a las víctimas de violencia.\n\nNo me basta con celebrar la prudencia presupuestaria que reclama Bruselas mientras se discuten recortes y ventajas fiscales. Quiero salarios y pensiones dignos, una fiscalidad progresiva que grave al gran capital y recursos suficientes para la justicia y la sanidad públicas. Y quiero propiedad colectiva de los sectores estratégicos, bajo control democrático: las decisiones sobre necesidades comunes no deberían quedar subordinadas a la rentabilidad privada."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "Me preocupa la propuesta de retirar becas a estudiantes investigados. El derecho a estudiar y la libertad de manifestarse no deberían depender de la docilidad ante el poder. Convertir una investigación en motivo para perder una beca castiga antes de que se demuestre nada y desalienta la protesta.\n\nTampoco confío en que las cumbres climáticas, donde los Estados negocian bajo la presión de intereses económicos, resuelvan por sí solas la crisis. Que el borrador final no mencione los combustibles fósiles muestra los límites de esa diplomacia. Frente a ello, defiendo comunidades capaces de organizar su energía, cuidar sus territorios y coordinarse sin entregar las decisiones a una élite política o empresarial. La libertad individual necesita condiciones materiales; la colectiva exige apoyo mutuo y control desde abajo."
+      "texto": "Leo que casi una de cada tres mujeres en Italia ha sufrido violencia física o sexual a lo largo de su vida. No veo en ello una suma de tragedias privadas, sino una expresión de relaciones de poder que también debemos combatir en nuestras comunidades. Cuando los tribunales carecen de personal y los procesos son lentos, quienes buscan ayuda pueden quedar aún más desprotegidas.\n\nNo confío en que los partidos resuelvan esto desde arriba mientras negocian presupuestos y se disputan sus réditos. Exijo recursos y atención competente, pero no quiero delegar toda la respuesta en el Estado: necesitamos redes autogestionadas de apoyo, espacios seguros y educación que cuestione la dominación desde la escuela. El apoyo mutuo no sustituye la responsabilidad institucional; hace posible que nadie tenga que afrontar la violencia en soledad. La libertad colectiva empieza por poder vivir sin miedo."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "Me preocupa que el debate sobre el Superbonus vuelva a enfrentar al Gobierno con la tentación de cambiar las reglas a posteriori. La seguridad jurídica no es un privilegio de las empresas: permite que familias y emprendedores tomen decisiones sin temer que el Estado altere después sus compromisos. Tampoco creo que otro impuesto sobre las bebidas sea el camino hacia una sociedad más responsable. Prefiero impuestos bajos y personas libres para decidir, asumiendo las consecuencias de sus elecciones.\n\nLa deuda merece la misma honestidad: gastar hoy no elimina la factura, se la traslada a los contribuyentes de mañana. Quiero un Estado limitado que cumpla bien sus funciones y rinda cuentas. Por eso, las informaciones sobre los encuentros entre dirigentes y empresarios en Liguria exigen transparencia e investigación, sin anticipar culpabilidades. La libertad económica necesita reglas iguales para todos, no favores."
+      "texto": "Veo en la discusión sobre la ley de presupuestos una oportunidad para elegir entre una fiscalidad sencilla y baja para todos o una colección de beneficios para grupos concretos. La propuesta de un tipo reducido para los aumentos salariales de los jóvenes apunta en la dirección correcta, pero preferiría una rebaja más amplia, financiada con menos gasto y menos privilegios. Acumular deuda no elimina la factura: la traslada a quienes tendrán que pagarla.\n\nTambién me preocupan los posibles nuevos aranceles de Estados Unidos a Europa y China. Proteger a unos productores de la competencia significa encarecer las opciones de consumidores y empresas. Un Estado limitado debe defender reglas claras, no repartir favores ni levantar barreras. La libertad económica exige, además, responsabilidad personal: cumplir las obligaciones fiscales y no esperar que otros costeen indefinidamente nuestras decisiones."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "La ruptura en la conferencia climática deja una lección: Italia debe defender su soberanía energética y su industria, no aceptar que los objetivos internacionales se traduzcan en cargas que paguen nuestras familias y empresas. Proteger el medio ambiente importa, pero ningún acuerdo merece sacrificar el trabajo nacional en nombre de consignas dictadas desde despachos lejanos.\n\nTambién quiero un Estado que garantice el orden y respete sus propias leyes. La protesta estudiantil es legítima; la violencia, no. Pero retirar una beca por una mera investigación sería castigar antes de demostrar la culpa. Y ante las reuniones reservadas entre dirigentes y empresarios en Liguria, exijo transparencia sin convertir las sospechas en condenas mediáticas. Una nación fuerte necesita instituciones responsables, ciudadanos tratados con justicia y dirigentes que rindan cuentas a su pueblo."
+      "texto": "Veo un país que necesita recuperar el sentido de sus prioridades. La seguridad nacional no consiste solo en celebrar el escudo antimisiles de la Marina: también exige garantizar energía asequible y suministros fiables. Ante las advertencias sobre el gas, Italia debe reducir sus dependencias sin entregar su futuro industrial a decisiones tomadas lejos de sus ciudadanos.\n\nTambién quiero un Estado capaz de proteger a las mujeres: los tribunales con puestos vacantes y los procesos lentos no son una abstracción, sino un fallo concreto de nuestras instituciones. Menos anuncios y más recursos para hacer cumplir la ley.\n\nY defiendo que la Navidad conserve su nombre y su significado. No se trata de excluir a nadie, sino de respetar una tradición que forma parte de nuestra identidad. Las élites pueden cambiar las etiquetas; no deberían avergonzarnos de lo que somos."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Me preocupa la propuesta de retirar becas a estudiantes investigados: una investigación no equivale a una condena, y el derecho a estudiar no debería convertirse en una herramienta para disuadir la protesta. Defender las instituciones exige respetar también las garantías de quienes las cuestionan.\n\nVeo con inquietud que el borrador final del acuerdo climático rechazado por la UE no mencione los combustibles fósiles. Necesitamos acuerdos más ambiciosos, pero también viables: una transición gradual que movilice inversión privada y proteja a quienes afrontan mayores costes. En Liguria, las informaciones sobre contactos entre responsables públicos y empresarios, y las presuntas manipulaciones de datos de la pandemia, reclaman una investigación rigurosa. No adelanto culpabilidades; sí exijo transparencia y rendición de cuentas. Sin reglas claras ni confianza pública, ni el mercado ni la protección social funcionan como deberían."
+      "texto": "Me preocupa que el debate sobre los presupuestos italianos se reduzca a repartir ventajas fiscales sin aclarar cómo se financiarán las prioridades comunes. La prudencia que pide la Comisión Europea no debería ser una excusa para recortar indiscriminadamente, sino una obligación de elegir: revisar las exenciones, combatir la evasión y proteger los servicios esenciales. Un mercado dinámico necesita reglas estables y unas cuentas públicas sostenibles; una sociedad decente necesita, además, protección social eficaz.\n\nLos datos sobre violencia contra las mujeres hacen más urgente esa elección. No basta con aprobar normas si faltan profesionales en los tribunales y formación para atender a las víctimas. Yo defendería un acuerdo amplio que combine prevención en las escuelas, recursos para la justicia y evaluación de resultados. Las reformas graduales pueden ser ambiciosas cuando se sostienen en consensos duraderos."
     }
   ],
   "periodicos": [
@@ -103,94 +103,226 @@
         }
       ],
       "analisis": {
-        "resumen": "- La portada cuestiona que los cambios en el código de circulación reduzcan las víctimas.\n- Destacan las informaciones sobre Toti y otros cargos ligures: encuentros en un yate y presunta manipulación de datos de la pandemia, según los fiscales.\n- Forza Italia discrepa de medidas del Gobierno sobre el Superbonus y el impuesto a las bebidas azucaradas.\n- Las tropas rusas avanzan hacia Járkov; Zelenski reconoce que la situación es muy difícil.\n- También se informa de la denuncia contra Fedez, las deudas fiscales de Camila Giorgi y opciones para invertir los ahorros.",
-        "populismo": 30,
-        "motivo_populismo": "Predomina la información atribuida a fuentes, aunque expresiones como «estalla el caso», «ataque» y «juego de masacre» intensifican el conflicto y el dramatismo.",
-        "sesgo": "La selección da especial relevancia a posibles irregularidades de cargos ligures y a las divisiones en la mayoría gubernamental, con un enfoque crítico hacia la gestión pública. También presenta posturas de los implicados, sin que se aprecie claramente una preferencia partidista."
+        "resumen": "- El posible impacto del nuevo código de circulación y las investigaciones sobre el gobernador de Liguria y sus contactos con empresarios destacan en portada.\n- El alcalde de Génova rechaza las acusaciones relacionadas con Spinelli; los fiscales investigan también una presunta manipulación de datos de la pandemia.\n- Forza Italia discrepa con sus socios de gobierno sobre el Superbonus y la tasa sobre bebidas azucaradas; otro titular critica la acumulación de deuda.\n- El ejército ruso avanza hacia Járkov y Zelenski describe la situación como extremadamente difícil.\n- Aparecen noticias sobre Fedez y Camila Giorgi, además de consejos para invertir y aumentar los ahorros.",
+        "populismo": 25,
+        "motivo_populismo": "Predomina la información, aunque expresiones como «estalla el caso», «juego de masacre» y «perseguida por Hacienda» aportan dramatismo, y se presenta de forma tajante el efecto del código de circulación.",
+        "sesgo": "La selección da especial atención a las posibles irregularidades en Liguria y a las tensiones dentro de la mayoría gobernante, con un enfoque crítico hacia decisiones públicas. También incluye la versión de algunos de los implicados."
       }
     },
     {
       "nombre": "la Repubblica",
       "web": "https://www.repubblica.it",
-      "noticias": [],
-      "analisis": null
+      "noticias": [
+        {
+          "titulo": "Jensen Huang chiede scusa ai dipendenti Nvidia: “Ho avuto quattro relazioni, ora sono in terapia”",
+          "entradilla": "Il ritorno del manager alla guida del colosso dei chip, fortemente voluto da Trump, ha fatto balzare il titolo del 30% in una seduta: così anche il presidente ha guadagnato almeno 15 milioni di dollari. Clinton lo accusa di insider trading",
+          "enlace": "https://www.repubblica.it/economia/2026/11/24/news/jensen_huang_scusa_dipendenti_nvidia_relazioni_amanti_terapia_trump-425747583/"
+        },
+        {
+          "titulo": "Pensioni, l’inflazione sale al 3,2%. Più soldi negli assegni, ma il taglio della manovra pesa di più",
+          "entradilla": "Il decreto interministeriale fa lievitare di oltre un miliardo la spesa prevista per il 2027, in parte compensata dal maggior gettito Irpef. Ecco le nuove fasce",
+          "enlace": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/11/24/news/pensioni_sale_inflazione_impatto_su_manovra_rivalutazione-425747390/"
+        },
+        {
+          "titulo": "Mentana verso Tv8: guiderà il tg e una striscia alla stessa ora di Lilli Gruber",
+          "entradilla": "Il giornalista lascerà La7 il prossimo 23 dicembre e andrà a rifondare il telegiornale sul canale in chiaro di Sky Italia. Poi dal lunedì al venerdì condurrà anche un preserale, con la Gialappa’s a fare da spalla, programmato nello stesso orario di Otto e mezzo",
+          "enlace": "https://www.repubblica.it/politica/2026/11/24/news/enrico_mentana_tv8_tg_striscia_preserale_gruber-425747025/"
+        },
+        {
+          "titulo": "Meloni rilancia la flat tax per i giovani sui social. Ma autorizza FdI a cambiarla con Giorgetti",
+          "entradilla": "La premier pubblicizza ancora la tassa piatta all’1% da applicare sugli aumenti degli stipendi degli under 30, ma intanto dà il via libera ai suoi per rimpiazzarla. Domani la maggioranza da Mantovano per discutere dell’iter parlamentare della manovra, poi il vertice dei leader a palazzo Chigi per le",
+          "enlace": "https://www.repubblica.it/economia/2026/11/24/news/flat_tax_giovani_meloni_aumenti_stipendi_modifiche-425746976/"
+        },
+        {
+          "titulo": "Repubblica 50, ecco tutti i talk con la mostra al Museo della Permanente",
+          "entradilla": "Sabato 21 il primo appuntamento per dialogare su attualità, cultura, giornalismo e futuro. Fra i protagonisti Michele Serra, Massimo Bottura e Francesco Piccolo. L’elenco completo qui",
+          "enlace": "https://milano.repubblica.it/cronaca/2026/11/24/news/repubblica_50_programma_talk_mostra_milano_permanente-425746970/"
+        },
+        {
+          "titulo": "Lasse Lempainen, chi è il chirurgo dei calciatori che ha operato Sinner",
+          "entradilla": "L’ortopedico finlandese ha avuto tra i suoi pazienti diversi giocatori di calcio e anche lo sciatore Franzoni, che da piccolo sfidava Jannik sulle piste",
+          "enlace": "https://www.repubblica.it/sport/tennis/2026/11/24/news/lasse_lempainen_chi_e_medico_che_ha_operato_sinner-425746680/"
+        },
+        {
+          "titulo": "L’Antimafia prende tempo sulle lettere di De Gennaro, Colosimo nega la “pista nera” su via D’Amelio",
+          "entradilla": "La commissione acquisirà i documenti dell’ex capo della polizia dopo che saranno conosciuti dalla famiglia. Ma l'opposizione: “Vanno acquisite subito”",
+          "enlace": "https://www.repubblica.it/politica/2026/11/24/news/antimafia_de_gennaro_lettere_colosimo_pista_nera_via_d_amelio-425746601/"
+        },
+        {
+          "titulo": "Sinner operato in Finlandia: “Volevo evitarlo in ogni modo ma il ginocchio non aveva risposto”",
+          "entradilla": "Jannik sotto i ferri per risolvere il problema che lo tiene fermo da metà luglio: “Un piccolo intervento per migliorare le condizioni della mia bandelletta ileotibiale. Mi manca molto stare in campo e ora inizierò il mio percorso di recupero insieme al mio team”",
+          "enlace": "https://www.repubblica.it/sport/tennis/2026/11/24/news/sinner_operato_tempi_recupero-425746234/"
+        },
+        {
+          "titulo": "Descalzi avverte sul gas: “Difficoltà in inverno ma dipende dal clima”",
+          "entradilla": "Da gennaio scatta il blocco dell’import dalla Russia. Il ministro Pichetto: “Riserve abbondanti, non credo ci saranno problemi”",
+          "enlace": "https://www.repubblica.it/economia/2026/11/24/news/descalzi_eni_tetto_carburanti_fine_anno_gas_inverno-425746223/"
+        },
+        {
+          "titulo": "Operativo lo scudo della Marina contro i missili balistici: è l’unico in Europa",
+          "entradilla": "Il “Giovanni dalle Bande Nere” ha individuato e intercettato un ordigno nella fase di rientro nell’atmosfera. Un risultato ottenuto solo con tecnologie italiane",
+          "enlace": "https://www.repubblica.it/esteri/2026/11/24/news/scudo_marina_italia_missili_balistici_europa-425746142/"
+        },
+        {
+          "titulo": "Caso De Gennaro, il Ris apre le lettere. I funerali a Roma",
+          "entradilla": "Gli accertamenti sono stati svolti a Roma. Fissata intanto per venerdì l’autopsia sul corpo dell’ex capo della polizia",
+          "enlace": "https://firenze.repubblica.it/cronaca/2026/11/24/news/gianni_de_gennaro_morte_autopsia_firenze_27_novembre-425745939/"
+        },
+        {
+          "titulo": "Nuovo bilancio della guerra in Ucraina: “Settecentomila morti e mille suicidi tra i soldati russi”",
+          "entradilla": "I dati emergono dai file riservati dell'agenzia statale di statistica russa, Rosstat, ottenuti dal gruppo hacker bielorusso legato all'opposizione “Cyber Partisans” e dal collettivo hacker ucraino “Silent Crow”",
+          "enlace": "https://www.repubblica.it/esteri/2026/11/24/news/quanti_soldati_russi_morti_guerra_ucraina_suicidi-425745898/"
+        }
+      ],
+      "analisis": {
+        "resumen": "- Jensen Huang se disculpa ante empleados de Nvidia; se informa de ganancias de Trump y de una acusación de Clinton por uso de información privilegiada.\n- Las pensiones subirán con la inflación, pero el recorte presupuestario tendrá más peso; Meloni promociona una medida fiscal juvenil que podría modificarse.\n- Mentana se dirige a Tv8 y Sinner ha sido operado de la rodilla en Finlandia.\n- La comisión Antimafia espera para adquirir las cartas de De Gennaro, mientras se investigan los documentos y se preparan sus funerales.\n- La portada recoge advertencias sobre el suministro de gas, una prueba de defensa antimisiles y datos filtrados sobre bajas rusas en Ucrania.",
+        "populismo": 20,
+        "motivo_populismo": "Predomina el tono informativo, aunque expresiones como «el recorte pesa más» y la atención a cifras llamativas aportan cierto énfasis; no se aprecia una apelación al pueblo contra las élites.",
+        "sesgo": "La selección muestra un enfoque crítico hacia algunas decisiones del Gobierno, especialmente en pensiones y fiscalidad juvenil. También da espacio a posturas contrapuestas, como en las previsiones sobre el suministro de gas."
+      }
     },
     {
       "nombre": "La Stampa",
       "web": "https://www.lastampa.it",
-      "noticias": [],
-      "analisis": null
+      "noticias": [
+        {
+          "titulo": "Huang si scusa: “Ora vado in terapia. Non è stato Trump a farmi tornare”. E spunta il trader che ha guadagnato 312 milioni",
+          "entradilla": "Il ritorno del ceo scatena polemiche bipartisan e accuse di insider trading. Hillary Clinton parla di scandalo di sicurezza nazionale, mentre il Congresso chiede a Huang di testimoniare",
+          "enlace": "https://www.lastampa.it/esteri/2026/11/24/news/nvidia_huang_ritorno_trump-15808283/"
+        },
+        {
+          "titulo": "Sinner è stato operato al ginocchio, intervento riuscito. In campo fra 3 mesi",
+          "entradilla": "L’intervento effettuato in Finlandia è riuscito, riparte il conto alla rovescia per il suo rientro. Si apre l’ipotesi del ranking protetto",
+          "enlace": "https://www.lastampa.it/sport/2026/11/24/news/sinner_operazione_ginocchio_intervento_riuscito-15807630/"
+        },
+        {
+          "titulo": "Di Giacomo, il medico Atp: “Sinner? Guarigione più veloce, giusta un’altra strategia”",
+          "entradilla": "Il responsabile sanitario per l’Italia dell’associazione dei tennisti: «Hanno capito che i trattamenti conservativi non potevano bastare»",
+          "enlace": "https://www.lastampa.it/sport/2026/11/24/news/sinner_operazione_intervista_medico_atp-15807250/"
+        },
+        {
+          "titulo": "Sindrome e allungamento della bandelletta ileotibiale: in cosa consiste l'intervento al ginocchio di Sinner",
+          "entradilla": "Intervento riuscito in Finlandia, dove il campione azzurro si è affidato al chirurgo Lasse Lempainen. La tecnica per ridurre la tensione della fascia fibrosa e scongiurare nuove infiammazioni. Almeno tre mesi prima del possibile ritorno alle competizioni",
+          "enlace": "https://www.lastampa.it/sport/2026/11/24/news/sinner_intervento_ginocchio_allungamento_bandelletta_ileotibiale-15807654/"
+        },
+        {
+          "titulo": "Federica Brignone, ritorno sugli sci a Cervinia con vista sui Mondiali: “Sono contenta”",
+          "entradilla": "Riecco la campionessa in pista 91 giorni dopo la rimozione di placca e viti dal ginocchio sinistro",
+          "enlace": "https://www.lastampa.it/sport/2026/11/24/news/federica_brignone_ritorno_post_infortunio_cervinia-15807696/"
+        },
+        {
+          "titulo": "Via libera Ue alla manovra italiana: \"Ma ora serve prudenza sui conti\". Germania nei guai",
+          "entradilla": "La Commissione promuove la legge di Bilancio: «Possibile chiudere la procedura in primavera»",
+          "enlace": "https://www.lastampa.it/politica/2026/11/24/news/unione_europea_manovra_italia_commissione_bilancio-15807806/"
+        },
+        {
+          "titulo": "Manovra, in Aula il 18 dicembre. Salvini: “C’è la copertura per Quota 64, si parte nel 2027”",
+          "entradilla": "Il leader della Lega: «Per le pensioni stanziati 850 milioni». Sul condono atteso un emendamento della maggioranza. In arrivo il condono edilizio",
+          "enlace": "https://www.lastampa.it/economia/2026/11/24/news/manovra_aula_18_dicembre_salvini_pensioni_quota_64-15807714/"
+        },
+        {
+          "titulo": "Palazzo Chigi serra i ranghi,\n\ndomani maggioranza e Giorgetti a rapporto da Mantovano",
+          "entradilla": "Sul tavolo i nodi da sciogliere: da sanità a pensioni. Nel pomeriggio possibile nuovo incontro tra i leader a margine del Cdm",
+          "enlace": "https://www.lastampa.it/politica/2026/11/24/news/palazzo_chigi_serra_i_ranghi_domani_maggioranza_e_giorgetti_a_rapporto_da_mantovano-15807951/"
+        },
+        {
+          "titulo": "Dazi, il Wsj: “Trump pronto ad applicare nuove tariffe a Europa e Cina”",
+          "entradilla": "Le misure riguarderebbero altri 14 Paesi, per l’Ue è possibile un ritorno ad aliquote del 15%",
+          "enlace": "https://www.lastampa.it/economia/2026/11/24/news/dazi_trump_pronto_a_nuove_tariffe_a_europa_e_cina-15807772/"
+        },
+        {
+          "titulo": "De Gennaro, venerdì l’autopsia: cosa cercano i magistrati e il mistero delle ultime lettere",
+          "entradilla": "L’esame sarà eseguito dalla dottoressa Beatrice Defraia dell'Istituto di Medicina Legale dell'ospedale Careggi di Firenze e dalla dottoressa Andrea Paterna dell'Istituto di Medicina Legale di Siena",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/24/news/venerdi_sara_eseguita_l_autopsia_su_de_gennaro-15807521/"
+        },
+        {
+          "titulo": "Le lettere di De Gennaro all’Antimafia. E la destra prende tempo per la relazione sulle stragi",
+          "entradilla": "La commissione avvierà i contatti con le procure per acquisire lettere e documenti dell’ex capo della Polizia. Ma sulla relazione mafia e appalti la maggioranza frena e considera il lavoro già concluso",
+          "enlace": "https://www.lastampa.it/politica/2026/11/24/news/de_gennaro_lettere_antimafia_relazione_stragi_mafia_appalti-15807861/"
+        },
+        {
+          "titulo": "Dall’Antimafia al Covid: il centrodestra e il cortocircuito delle Commissioni d’inchiesta",
+          "entradilla": "I dossier irrisolti riaprono lo scontro tra maggioranza e opposizioni. E la riunione dell'ufficio di presidenza rischia di diventare un regolamento di conti su Chiara Colosimo",
+          "enlace": "https://www.lastampa.it/politica/2026/11/24/news/antimafia_covid_commissioni_inchiesta_centrodestra_diviso-15807474/"
+        }
+      ],
+      "analisis": {
+        "resumen": "- Huang se disculpa tras su regreso como consejero delegado, rodeado de polémicas y acusaciones de uso de información privilegiada.\n- Sinner ha sido operado con éxito de la rodilla; se calcula que volverá a competir en unos tres meses. Brignone regresa a las pistas.\n- La Comisión Europea avala los presupuestos italianos, pero pide prudencia; la mayoría debate medidas sobre pensiones, sanidad y regularización urbanística.\n- Trump estudia nuevos aranceles para Europa, China y otros países, según The Wall Street Journal.\n- La autopsia y las cartas de De Gennaro centran la atención, mientras las comisiones de investigación reavivan la disputa política.",
+        "populismo": 25,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «el misterio de las últimas cartas», «cortocircuito» y «ajuste de cuentas» dramatizan algunos asuntos.",
+        "sesgo": "La selección prioriza la política italiana y el deporte, con especial atención a Sinner. Algunos titulares enfocan la actividad de la mayoría gubernamental desde sus desacuerdos y demoras, sin que ello permita atribuir una orientación ideológica definida a toda la portada."
+      }
     },
     {
       "nombre": "Il Giornale",
       "web": "https://www.ilgiornale.it",
       "noticias": [
         {
-          "titulo": "Cop31, l’Ue boccia la bozza finale dell’accordo sul clima: nessun riferimento ai combustibili fossili Cosa sono e perché sono al centro del cambiamento climatico",
+          "titulo": "Qualcuno ha provato a zittire il Giornale: tentato attacco hacker al nostro profilo Instagram",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/politica-estera/cop-31-il-no-dellunione-europea-alla-bozza-finale-una-delusione/"
+          "enlace": "https://www.ilgiornale.it/news/attualita/qualcuno-ha-provato-a-zittire-il-giornale-tentato-attacco-hacker-al-nostro-profilo-instagram/"
         },
         {
-          "titulo": "Trovate 20 armi in casa, lo sparo da una semiautomatica Il racconto delle ultime ore",
+          "titulo": "De Gennaro e le prove del complotto contro Berlusconi Spuntano i video dell’arrivo nella villa e dello sparo di prova. Venerdì l’autopsia",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/nazionale/de-gennaro-trovate-20-armi-in-casa-lo-sparo-da-una-semiautomatica/"
+          "enlace": "https://www.ilgiornale.it/video/interni/de-gennaro-e-le-prove-del-complotto-contro-berlusconi/"
         },
         {
-          "titulo": "L’uomo di ghiaccio travolto dai misteri",
+          "titulo": "De Gennaro, Piantedosi: “Gesto di grande dignità”",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/nazionale/luomo-di-ghiaccio-travolto-dai-misteri/"
+          "enlace": "https://www.ilgiornale.it/news/politica/de-gennaro-piantedosi-gesto-di-grande-dignita/"
         },
         {
-          "titulo": "Quello sparo ci obbliga alla verità",
+          "titulo": "Spunta Firenze: nuova inchiesta su De Gennaro e possibile ruolo dell’Antimafia",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/nazionale/quello-sparo-ci-obbliga-alla-verita/"
+          "enlace": "https://www.ilgiornale.it/news/magistratura/cosi-firenze-vuole-le-carte/"
         },
         {
-          "titulo": "Come Gardini si è sentito sotto attacco",
+          "titulo": "“Io e Violante? Abbiamo avuto contatti molteplici”",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/nazionale/come-gardini-si-e-sentito-sotto-attacco/"
+          "enlace": "https://www.ilgiornale.it/news/magistratura/io-e-violante-abbiamo-avuto-contatti-molteplici/"
         },
         {
-          "titulo": "Quelle telefonate a Borsellino Una vita in simbiosi con il Palazzo",
+          "titulo": "Le ombre che non convincono Caltanissetta",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/nazionale/quelle-telefonate-a-borsellino/"
+          "enlace": "https://www.ilgiornale.it/news/magistratura/le-ombre-che-non-convincono-caltanissetta/"
         },
         {
-          "titulo": "Antonio Di Pietro: “Ha voluto evitare la gogna mediatica. Criminale accusare i pm di Caltanissetta”",
+          "titulo": "Il diario segreto di Papa Francesco: “Ho visto il diavolo, mi osserva sempre” L'ESTRATTO - “Sono stato alle porte dell’Inferno”",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/magistratura/antonio-di-pietro-ha-voluto-evitare-la-gogna-mediatica-criminale-accusare-i-pm-di-caltanissetta/"
+          "enlace": "https://www.ilgiornale.it/news/letteratura/il-diario-segreto-di-papa-francesco-ho-visto-il-diavolo/"
         },
         {
-          "titulo": "Francesca Immacolata Chaouqui: “Lo capisco, anch’io tentai il suicidio dopo l’onda di fango”",
+          "titulo": "Sinner, operazione al ginocchio riuscita. “Mi manca essere in campo, grazie del supporto”. Previsti tre mesi per il recupero Il retroscena: cosa succede adesso",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/nazionale/francesca-immacolata-chaouqui-lo-capisco-anchio-tentai-il-suicidio-dopo-londa-di-fango/"
+          "enlace": "https://www.ilgiornale.it/news/tennis/sinner-operazione-al-ginocchio-riuscita-previsti-tre-mesi-per-il-recupero/"
         },
         {
-          "titulo": "La lunga carriera di “Dick Tracy”, “sbirro” dai mille successi",
+          "titulo": "Vergogna Ue. La Germania sfora, ma per Berlino nessuna procedura di infrazione Dombrovskis: “Italia è conforme alle raccomandazioni dell’Unione”",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/nazionale/la-lunga-carriera-di-dick-tracy-sbirro-dai-mille-successi/"
+          "enlace": "https://www.ilgiornale.it/news/politica-economica/germania-con-deficit-oltre-il-3-ma-bruxelles-non-apre-la-procedura/"
         },
         {
-          "titulo": "Nave russa colpita in Libia: “Attacco a lungo raggio ucraino”. Zakharova contro Meloni",
+          "titulo": "Trump prepara una nuova raffica di dazi contro Europa e Cina: chi rischia e quanto potrebbero aumentare Nvidia, il ritorno di Huang fa ricchi il tycoon e 5mila “visionari”. Il ceo si scusa: “Vado in terapia ogni giorno”",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/diretta/guerra/ucraina-raid-russi-sulla-citta-natale-di-zelensky-2-morti-e-73-feriti-kiev-ringrazia-melania-trump-per-le-evacuazioni/"
+          "enlace": "https://www.ilgiornale.it/news/politica-estera/trump-prepara-una-nuova-raffica-di-dazi-contro-europa-e-cina-chi-rischia-e-quanto-potrebbero-aumentare/"
         },
         {
-          "titulo": "Il governo a testa in giù. La foto choc pubblicata dalla dirigente Cgil",
+          "titulo": "Milano, l’albero di Natale in Duomo diventa “l’albero del dono”: scoppia la polemica sui social",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/interni/il-governo-a-testa-in-giu-la-foto-choc-pubblicata-dalla-dirigente-cgil/"
+          "enlace": "https://www.ilgiornale.it/news/attualita/milano-lalbero-di-natale-in-duomo-diventa-lalbero-del-dono-scoppia-la-polemica-sui-social/"
         },
         {
-          "titulo": "Rula Jebreal e Scanzi pronti a scendere in campo per Di Battista",
+          "titulo": "Il Natale woke di Nantes: Babbo Natale lascia spazio alla “Mamma Natale” femminista",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/interni/rula-jebreal-e-scanzi-pronti-a-scendere-in-campo-per-di-battista/"
+          "enlace": "https://www.ilgiornale.it/news/cronaca-internazionale/il-natale-woke-di-nantes-babbo-natale-lascia-spazio-alla-mamma-natale-femminista/"
         }
       ],
       "analisis": {
-        "resumen": "- La UE rechaza el borrador final de la COP31 por no mencionar los combustibles fósiles.\n- El hallazgo de 20 armas y un disparo centran varias noticias, testimonios y comentarios.\n- Se recogen declaraciones de Di Pietro y Chaouqui sobre la presión mediática.\n- Una nave rusa resulta alcanzada en Libia y Zakharova se pronuncia contra Meloni.\n- La portada aborda una polémica imagen del Gobierno y el posible apoyo de Jebreal y Scanzi a Di Battista.",
-        "populismo": 40,
-        "motivo_populismo": "Expresiones como «foto choc» y «nos obliga a la verdad», junto con citas como «ola de fango» y «criminal acusar», aportan dramatismo y descalificación, aunque también hay titulares informativos.",
-        "sesgo": "La selección da protagonismo a sucesos, polémicas y testimonios de tono dramático. Con estos titulares no se aprecia una orientación política inequívoca."
+        "resumen": "- La portada destaca varias noticias sobre De Gennaro, entre ellas supuestas pruebas de un complot contra Berlusconi y una nueva investigación en Florencia.\n- El periódico denuncia un intento de ataque informático a su cuenta de Instagram.\n- Un extracto atribuido al diario secreto del papa Francisco recoge referencias al diablo y al infierno.\n- La portada critica el trato de la UE a Alemania e informa de posibles nuevos aranceles de Trump a Europa y China.\n- También aborda la recuperación de Sinner tras una operación y las polémicas navideñas en Milán y Nantes.",
+        "populismo": 58,
+        "motivo_populismo": "Expresiones como «Vergogna Ue», «ha provato a zittire» y «Natale woke», junto con las referencias a un «complotto» y al diablo, aportan carga emocional y sensacionalismo.",
+        "sesgo": "La portada enfatiza sospechas y controversias, y presenta la actuación de la UE como un posible trato desigual hacia Alemania. El titular sobre la Navidad en Nantes adopta un enfoque crítico mediante la etiqueta «woke»."
       }
     },
     {
@@ -198,71 +330,71 @@
       "web": "https://www.ilfattoquotidiano.it",
       "noticias": [
         {
-          "titulo": "Suicidio De Gennaro: si indaga sui documenti sequestrati, al vaglio anche le immagini delle telecamere. L’inchiesta di Caltanissetta va avanti, il legale: “Aprano gli hard disk, non c’è nulla”",
-          "entradilla": "“Che si aprano gli hard disk sequestrati e si veda cosa c’è dentro, così sarà chiaro che certo non ci sono documenti scottanti, segreti indicibili e tantomeno l’agenda rossa“. La sfida alla Procura di Caltanissetta arriva dall’avvocato Francesco Bertorotta, legale di Gianni De Gennaro, l’ex capo del",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/22/depistaggio-via-amelio-de-gennaro-hard-disk-notizie/8580501/"
+          "titulo": "Champions League, il Napoli sfiora l’impresa contro il City. Il Como vola: battuto l’AEK | Risultati e nuova classifica",
+          "entradilla": "Il Napoli sfiora l’impresa a Manchester: finisce 2 a 2 contro il City. La squadra di Allegri è andata per due volte in vantaggio, prima con Hojlund e poi con Lang, subendo però la rimonta firmata Cherki. Un punto comunque prezioso e inaspettato per i partenopei, autori di una grande prestazione. Vol",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/24/champions-league-napoli-como-risultati-nuova-classifica/8582865/"
         },
         {
-          "titulo": "Finale Atp Finals, Alcaraz-Zverev: reazione improvvisa del tedesco, tutto riaperto. Fase decisiva del set | La diretta",
-          "entradilla": "L'articolo Finale Atp Finals, Alcaraz-Zverev: reazione improvvisa del tedesco, tutto riaperto. Fase decisiva del set | La diretta proviene da Il Fatto Quotidiano .",
-          "enlace": "https://www.ilfattoquotidiano.it/sport-miliardi/live-post/2026/11/22/finale-atp-finals-2026-alcaraz-zverev-diretta-live-risultato/8580425/"
+          "titulo": "Nvidia, Huang dopo il reintegro: “Ho commesso errori terribili, ora vado in terapia”. Poi difende Trump: “Non è stato lui a farmi tornare”",
+          "entradilla": "Durante una riunione aziendale l’amministratore delegato di Nvidia, Jensen Huang, ha rivelato ai dipendenti che sta andando ogni giorno in terapia per un’ora e mezza. “Ho commesso errori terribili. Sono stato infedele a Lori, ho ferito i miei figli e, naturalmente, ho ferito tutti voi”, ha detto Hua",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/24/jensen-huang-nvidia-reintegro-trump-notizie-2/8582914/"
         },
         {
-          "titulo": "Attacco con droni a una nave militare russa nella base di Bengasi in Libia: esplosione e incendio",
-          "entradilla": "Una nave russa è stata colpita da un’esplosione mentre si trovava ormeggiata nella base navale di Bengasi, in Libia. L’ipotesi privilegiata dalle autorità locali è quella di un attacco condotto con droni, la cui provenienza resta tuttavia sconosciuta anche se la responsabilità viene attribuita all’U",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/22/attacco-droni-nave-russa-bengasi-notizie/8580421/"
+          "titulo": "Fifa, Infantino a caccia di voti con il jet privato: 39 voli in 32 Paesi, ha percorso oltre 100mila miglia in meno di 4 mesi",
+          "entradilla": "Gianni Infantino gira il mondo a caccia di voti al bordo del suo jet privato. Il presidente della Fifa sta preparando la battaglia per la sua rielezione: a marzo 2027 dovrà sfidare il candidato dell’Uefa, Philippe Diallo, per rimanere sul trono del calcio mondiale. Dopo un decennio di dominio incont",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/24/infantino-jet-privato-elezioni-fifa-notizie/8582749/"
         },
         {
-          "titulo": "La battuta infelice di Binaghi: “Se a corteggiarmi fossero state due belle ragazze, sarebbe stato più carino”",
-          "entradilla": "“Io non sono mai stato corteggiato così in vita mia. Lo prendo come qualcosa di importante da un punto di vista umano, è una grande gratificazione come persona e come dirigente. Certo che se a corteggiarmi fossero state due belle ragazze, anziché il sindaco di Torino e il presidente della Regione Pi",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/22/binaghi-battuta-atp-finals-torino-conferenza-stampa-se-a-corteggiarmi-fossero-state-due-belle-ragazze-sarebbe-stato-piu-carino/8580404/"
+          "titulo": "Coppa Davis 2026, risultati e tabellone LIVE: avanza la Repubblica Ceca",
+          "entradilla": "Sul cemento indoor della BolognaFiere Arena va in scena la Final 8 della Coppa Davis 2026. Il tabellone vede l’Italia (campione in carica e Paese ospitante) come prima testa di serie e la Spagna come seconda: le due nazionali sono inserite nelle metà opposte e potranno incrociarsi soltanto nell’even",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/24/coppa-davis-2026-tabellone-diretta-risultati-live/8582841/"
         },
         {
-          "titulo": "“Ho speso 4500 euro per trasformare una stanza nella biblioteca della Bella e la Bestia. Ho fatto tutto da sola. La parte più difficile? Il soffitto, non avevo fatto i conti con la forza di gravità”: la storia di Erika Mathews",
-          "entradilla": "Una biblioteca che sembra uscita da un castello, con scaffali pieni di libri, decorazioni dorate, vetrate colorate e un soffitto che ricorda quello di un palazzo antico. Per realizzarla, Erika Mathews ha impiegato quattro mesi e speso circa 5.000 dollari, poco più di 4.500 euro. Ma la particolarità ",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/22/ho-speso-4500-euro-per-trasformare-una-stanza-nella-biblioteca-della-bella-e-la-bestia-ho-fatto-tutto-da-sola-la-parte-piu-difficile-il-soffitto-non-avevo-fatto-i-conti-con-la-forza-di-gravita/8580398/"
+          "titulo": "Corriere della Sera, verso il cambio di direzione: Stefano Barigelli al posto di Luciano Fontana dopo 11 anni e mezzo",
+          "entradilla": "Rivoluzione in vista in via Solferino. Secondo alcune indiscrezioni, Luciano Fontana non sarà più il direttore del Corriere della Sera. A prendere il suo posto alla guida del quotidiano milanese dovrebbe essere Stefano Barigelli, attuale direttore della Gazzetta dello Sport. La decisione dell’editor",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/24/corriere-della-sera-barigelli-direttore-notizie/8582834/"
         },
         {
-          "titulo": "Bimba di due anni si perde nel deserto dell’Arizona: ritrovata dopo cinque ore. Indossava solo un pannolino",
-          "entradilla": "Un nonno dell’Arizona è stato riconosciuto come un eroe locale dopo aver ritrovato una bimba di due anni che si era allontanata da casa e vagava nel deserto. “Non lo dimenticherò mai finché vivrò”, ha dichiarato Jay Stewart, raccontando in una conferenza stampa il momento in cui ha ritrovato la picc",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/22/bimba-di-due-anni-si-perde-nel-deserto-dellarizona-ritrovata-dopo-cinque-ore/8580403/"
+          "titulo": "Violenza sulle donne, in Italia 6 milioni di vittime. Una su 3 ha figli e nel 61,5% dei casi questi hanno assistito agli abusi",
+          "entradilla": "Nel nostro Paese, circa 6,4 milioni di donne tra i 16 e i 75 anni hanno subito nel corso della vita una forma di violenza fisica o sessuale. È il 31,9% del totale, quasi una su tre. E quando le violenze sono perpetrate dal partner o dall’ex e le vittime hanno figli, in oltre sei […] L'articolo Viole",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/24/violenza-donne-italia-vittime-notizie/8582713/"
         },
         {
-          "titulo": "Binaghi su Sinner: “Non ha nessuna colpa, similitudini con il caso doping. Finals a Torino o Milano nel 2028? Non so, è complesso”",
-          "entradilla": "“Dove saremo nel 2028? Molto sinceramente non lo so. Chi decide? Questa manifestazione è organizzata da noi insieme a Sport e Salute, di proprietà dell’ATP, sostenuta dal governo, dal Comune e dalla Regione ed è sostenuta da sponsor di grande dimensione, italiana ma anche estera. È quindi evidente c",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/22/sinner-binaghi-caso-doping-atp-finals-notizie/8580244/"
+          "titulo": "“È un attimo che vieni a fare il gelato con me, ne ho visti tanti che sono passati dall’altra parte”: Riccò risponde a Pogacar sul doping",
+          "entradilla": "Il dissing che non ti aspetti agita il mondo del ciclismo. Riccardo Riccò, ex corridore radiato per doping, ha replicato alle parole di Tadej Pogacar alla Gazzetta dello Sport proprio su questo argomento. Il campione sloveno ha giurato di non fare uso di doping e ha dichiarato: “Metto la mano sul fu",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/24/ricco-pogacar-doping-gelato-notizie/8582670/"
         },
         {
-          "titulo": "Cop 31 fallita, Guterres: “Combustibili fossili, chi trae profitto dalla distruzione del pianeta non detti le regole della lotta per salvarlo”",
-          "entradilla": "La Cop 31 è fallita perché i Paesi che fanno affari con i combustibili fossili hanno imposto i loro veti. Ma è anche vero che a questi Paesi sono stati forniti diversi alibi, da chi nulla in più ha voluto concedere, per esempio su finanza e adattamento. Appena conclusa la Conferenza delle Parti sul ",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/22/cop31-fallita-guterres-combustibili-fossili-notizie/8580379/"
+          "titulo": "“Se domani non torno” nelle scuole e alla Camera per il 25 novembre: da Milano a Palermo il film su Giulia Cecchettin proiettato per gli studenti",
+          "entradilla": "In vista del 25 novembre, Giornata internazionale per l’eliminazione della violenza contro le donne, Se domani non torno, il film diretto da Paola Randi e dedicato alla storia di Giulia Cecchettin, continua a raggiungere le scuole. Accanto ai due appuntamenti già previsti a Roma, sono diversi i lice",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/24/undefined-85/8582262/"
         },
         {
-          "titulo": "Atlante dei luoghi maestri, l’estratto del libro di Alex Corlazzoli sulla casa del presidente Pertini",
-          "entradilla": "Un estratto del libro “Atlante dei luoghi maestri” di Alex Corlazzoli (Edicicloeditore). Si tratta del capitolo dedicato alla casa del Presidente Sandro Pertini a Stella. L’autore compie un percorso civico in quindici tappe alle radici dell’Italia Repubblicana: Omegna, il Vajont, il Binario 21, la r",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/22/pertini-casa-stella-corlazzoli-notizie/8580363/"
+          "titulo": "Carovita e stipendi bassi, continua la fuga dei lavoratori dai Tribunali del Nord: “Così a rischio i servizi per le vittime di violenza”",
+          "entradilla": "A Milano e a Brescia è rimasto scoperto il 77% dei posti, a Monza il 79%, a Venezia l’83%. In alcune sedi minori (Aosta, Ivrea, Lecco, Saluzzo, Voghera) addirittura non si è presentato nessuno. Lo scorrimento della graduatoria dell’ultimo concorso conferma la fuga dal Nord degli assistenti giudiziar",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/24/assistenti-giudiziari-fuga-tribunali-nord-notizie/8577159/"
         },
         {
-          "titulo": "Abbattimento viadotto Tevere a Orte: il momento delle esplosioni in un video",
-          "entradilla": "Il momento della demolizione con esplosivo di un tratto del viadotto Tevere a Orte (Viterbo), operazione completata attorno alle 11.20 di domenica 22 novembre. Ad essere abbattute sono state alcune campate lungo la Strada Statale 675 Umbro-Laziale. L'articolo Abbattimento viadotto Tevere a Orte: il ",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/22/viadotto-tevere-orte-demolizione-notizie/8580389/"
+          "titulo": "Violenza contro le donne, i magistrati esperti di codice rosso: “Serve più formazione per ascoltare le vittime. E processi troppo lenti prolungano la sofferenza”",
+          "entradilla": "Più prevenzione a partire dalla scuola, perché la risposta giudiziaria arriva quando il danno è già fatto. Più formazione e specializzazione di magistrati e forze dell’ordine, perché trattare la violenza di genere richiede competenze specifiche. E più mezzi e risorse a disposizione, per non abbandon",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/24/violenza-donne-magistrati-formazione-processi-notizie/8582229/"
         },
         {
-          "titulo": "Rete studenti medi contro FdI per lo stop alle borse di studio agli studenti indagati: “Diritto allo studio usato per ricatti politici”",
-          "entradilla": "“Troviamo profondamente problematica la proposta di Fratelli d’Italia di togliere la borsa di studio agli studenti che partecipano a cortei e manifestazioni. Il diritto allo studio non può essere usato per ricatti politici”, così i rappresentanti della Rete studenti medi criticano la proposta del pa",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/22/borse-studio-studenti-manifestazioni-notizie/8580369/"
+          "titulo": "L’evasione in Italia resta sopra la media Ue. E le agevolazioni fiscali valgono 119 miliardi l’anno – Il report della Commissione",
+          "entradilla": "Da un lato i progressi nella digitalizzazione e negli strumenti di controllo. Dall’altro enormi buchi strutturali: evasione elevata, una giungla di agevolazioni fiscali, flat tax e regimi sostitutivi che erodono la base imponibile e una riscossione incapace di recuperare la gran parte dei crediti ac",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/24/evasione-fiscale-italia-mind-gap-notizie/8582572/"
         },
         {
-          "titulo": "“Dopo aver lasciato il Grande Fratello nessuno mi cercava più, poi è arrivata la Rai. Io ‘bravo ragazzo’? Non mi dispiace. Mi hanno consigliato di essere più cattivo sul lavoro, ma non credo in questo approccio”: Marco Liorni si racconta",
-          "entradilla": "Si chiama “Dove la luce ritorna” il primo romanzo di Marco Liorni, che però al Corriere della Sera precisa di non essere diventato scrittore: “Ho solo scritto questo libro. È stato come creare un mondo, un mondo abitato da persone, un mondo in cui accadono cose. È stato molto bello e anche molto fat",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/22/dopo-aver-lasciato-il-grande-fratello-nessuno-mi-cercava-piu-mi-ero-dato-una-scadenza-per-cambiare-lavoro-io-bravo-ragazzo-non-mi-dispiace-mi-hanno-consigliato-di-essere-piu-cattivo-cosi-marco-liorni/8580353/"
+          "titulo": "Sinner e il ranking protetto: cos’è, come funziona e perché all’azzurro potrebbe non servire",
+          "entradilla": "L’infortunio, l’operazione e una lunga strada verso il ritorno in campo. Per Jannik Sinner si apre una fase delicata, non soltanto dal punto di vista fisico, ma anche sotto il profilo della classifica ATP. Lo stop di almeno altri tre mesi (il messaggio social dell’azzurro dopo l’intervento) avrà inf",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/24/sinner-ranking-protetto-cose-come-funziona-punti-persi/8582666/"
         }
       ],
       "analisis": {
-        "resumen": "- Continúa la investigación sobre el suicidio de De Gennaro; su abogado pide examinar los discos incautados.\n- La final de las ATP Finals entre Alcaraz y Zverev entra en una fase decisiva; Binaghi habla de Sinner y de la futura sede del torneo.\n- Una explosión y un incendio afectan a un buque militar ruso en Bengasi; las autoridades locales apuntan a un ataque con drones.\n- La portada presenta la COP 31 como un fracaso y recoge críticas estudiantiles a una propuesta de Fratelli d’Italia sobre las becas.\n- También incluye noticias de sociedad y cultura, entre ellas el rescate de una niña en Arizona y un extracto de un libro sobre Pertini.",
-        "populismo": 30,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «COP 31 fallida», «chiste desafortunado» y la cita «chantajes políticos» introducen valoración y confrontación.",
-        "sesgo": "Se aprecia un enfoque crítico en la cobertura de la COP 31 y de la propuesta de Fratelli d’Italia, con protagonismo de las voces que las cuestionan. En el caso de Binaghi, el titular califica directamente su comentario de desafortunado."
+        "resumen": "- El Nápoles empata con el Manchester City y el Como vence al AEK en la Liga de Campeones.\n- La portada aborda la violencia contra las mujeres con cifras, propuestas de magistrados y una película sobre Giulia Cecchettin proyectada en escuelas.\n- La falta de personal en tribunales del norte amenaza servicios; otro artículo destaca la elevada evasión fiscal en Italia.\n- Jensen Huang habla de sus errores y su terapia; el Corriere della Sera podría cambiar de director.\n- En deporte, se informa sobre los viajes de Infantino, la Copa Davis, el debate sobre dopaje y la situación de Sinner.",
+        "populismo": 20,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «a la caza de votos», «trono del fútbol mundial» y «fuga de trabajadores» añaden dramatismo.",
+        "sesgo": "La selección da especial atención al deporte y a la violencia contra las mujeres, con un enfoque en sus consecuencias y en las respuestas institucionales. También destaca problemas de funcionamiento de la justicia y del sistema fiscal, sin que se aprecie una orientación partidista clara."
       }
     }
   ]

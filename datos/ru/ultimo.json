@@ -1,39 +1,39 @@
 {
   "pais": "Rusia",
-  "fecha": "2026-11-22",
+  "fecha": "2026-11-24",
   "turno": 14,
-  "generado": "22/11/2026 20:02",
+  "generado": "24/11/2026 22:55",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "La guerra entre Rusia y Ucrania y sus repercusiones diplomáticas aparecen en varias portadas; Rossíiskaya Gazeta y Meduza informan sobre ataques en Bengasi. Kommersant y Meduza coinciden en el caso judicial de Karina Tsurkan, mientras que Kommersant y Rossíiskaya Gazeta destacan el liderato del Dinamo de Moscú. También hay noticias culturales y económicas. Solo Meduza destaca el desacuerdo en la cumbre climática COP31.",
-    "crispacion": 68,
-    "motivo_crispacion": "La guerra entre Rusia y Ucrania concentra tensión, con informaciones sobre ataques en Bengasi y heridos en el territorio de Krasnodar. Rossíiskaya Gazeta recoge acusaciones contra la inteligencia ucraniana, mientras Komsomólskaya Pravda presenta desacuerdos entre Italia y Ucrania y cuestiona la posición europea sobre las negociaciones. Meduza también destaca el desacuerdo entre delegaciones en la cumbre climática. En contraste, las noticias deportivas, culturales y de consumo aportan contenidos menos conflictivos, aunque las caídas de los mercados añaden preocupación económica."
+    "temas": "La guerra en Ucrania y sus consecuencias aparecen en varias portadas, con atención a los combates, las bajas y la situación de los veteranos. También se repiten las noticias económicas, el caso del gobernador de Múrmansk y la restitución del título africano de fútbol a Senegal. Solo Védomosti destaca el aumento de las ventas de tranquilizantes para mascotas.",
+    "crispacion": 72,
+    "motivo_crispacion": "La guerra entre Rusia y Ucrania concentra buena parte de la tensión, con noticias sobre combates, ataques y bajas, además de titulares de lenguaje polarizador. Se suman las acusaciones de países de la OTAN sobre un posible despliegue de armas nucleares rusas en el espacio y el desacuerdo entre Rusia y Letonia sobre las pensiones. El caso del gobernador de Múrmansk añade un escándalo institucional. Noticias sobre cultura, deporte y actividad económica ofrecen un contrapunto más tranquilo."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Veo una contradicción de clase en el crecimiento de las ventas de automóviles de lujo: sus compradores resisten mejor la subida de precios y el encarecimiento del crédito. El mercado llama a eso demanda solvente; yo lo llamo desigualdad de poder adquisitivo. Mientras el capital atiende a quienes más tienen, las necesidades colectivas no pueden depender de su rentabilidad.\n\nTambién leo que Rusia planea digitalizar el transporte e introducir sistemas sin conductor. La tecnología podría aliviar el trabajo y mejorar el servicio, pero solo si sus beneficios se reparten. Defiendo la propiedad colectiva y el control democrático de sectores estratégicos, con participación de sus trabajadores: de otro modo, el aumento de productividad puede convertirse en otra fuente de ganancias privadas. El transporte público debe organizarse para garantizar derechos, no dividendos."
+      "texto": "Hoy veo una misma pregunta detrás de noticias distintas: ¿para quién funciona la economía? En Moscú cae el volumen de permisos de vivienda concedidos a los grandes promotores, mientras una disputa publicitaria entre empresas supera los 1.250 millones de rublos. No confundo esa demanda con una prueba de despilfarro, pero sí veo un modelo que deja una necesidad básica sometida a decisiones privadas. Yo defiendo vivienda pública y propiedad colectiva, con control democrático de quienes trabajan y habitan.\n\nTambién me preocupa que casi 45.000 veteranos hayan pedido ayuda para encontrar empleo. La formación pública es necesaria, pero debe acompañarse de empleos dignos, atención sanitaria y protección social para todos. Y la propuesta de aliviar las deudas de participantes en la guerra, aprobada solo en primera lectura, plantea otra cuestión: nadie debería quedar a merced de los acreedores por una emergencia vital."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "La cumbre climática terminó sin acuerdo sobre el documento principal. Yo no confío en que los gobiernos resuelvan desde arriba una crisis que exige transformar cómo producimos y consumimos. Prefiero comunidades capaces de organizar su energía, sus cuidados y sus recursos en común, sin entregar las decisiones a partidos ni jerarquías empresariales. La libertad colectiva no consiste en esperar instrucciones de una cumbre.\n\nTambién me inquieta que un tribunal sustituya la prisión de la exdirectiva de Inter RAO por trabajos forzados: cambiar el encierro por otra forma de coerción no convierte el castigo en justicia. Y ante la explosión de gas en Vladikavkaz, con dos personas fallecidas y dos heridas, pienso en la importancia de redes vecinales de apoyo mutuo: la seguridad y el cuidado no deberían depender únicamente de autoridades lejanas."
+      "texto": "Hoy leo que la Duma estudia condonar hasta diez millones de rublos en deudas a participantes en la guerra, mientras miles de veteranos piden ayuda para encontrar trabajo. Aliviar deudas y facilitar empleo es necesario; convertir ese alivio en un privilegio ligado al servicio militar revela, sin embargo, quién decide qué vidas merecen protección. Yo defiendo una solidaridad que no dependa de uniformes ni de la obediencia al Estado.\n\nTambién leo que un activista checheno fue trasladado sin aviso a sus abogados y teme ser extraditado. Ningún gobierno debería disponer así de la libertad de una persona. Frente a los Estados, sus partidos y sus jerarquías, prefiero comunidades capaces de organizar apoyo mutuo, defenderse jurídicamente y gestionar sus propios recursos. La libertad individual no se opone a la colectiva: necesita de ella."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "La caída semanal de la bolsa de Moscú y el retroceso del bitcoin recuerdan que invertir implica riesgos. Yo no pediría al Estado que proteja a cada inversor de sus propias decisiones: las ganancias son privadas y las pérdidas también deben asumirse. La libertad económica exige responsabilidad, información fiable y reglas iguales para todos.\n\nTambién me interesa el anuncio de que Rusia impulsará sistemas digitales y vehículos no tripulados en el transporte. La innovación prosperará mejor si las empresas pueden competir sin privilegios ni trabas innecesarias, y si responden por los daños que causen. Prefiero impuestos bajos y un Estado limitado, dedicado a garantizar la seguridad y hacer cumplir contratos, antes que uno que pretenda escoger qué tecnologías deben triunfar. La competencia, con sus aciertos y errores, sirve mejor a los ciudadanos que la planificación desde arriba."
+      "texto": "La Duma ha aprobado aplazar el pago del IVA y los impuestos especiales para ciertos importadores, a cambio de una garantía bancaria. Me parece un paso en la dirección correcta: el dinero que permanece en una empresa puede financiar actividad en vez de quedar inmovilizado. Pero preferiría impuestos más bajos y reglas sencillas para todos, no alivios condicionados que también tienen un coste.\n\nLa propuesta de perdonar determinadas deudas a participantes en la guerra plantea otra cuestión. Comprendo que quienes regresan necesiten oportunidades, pero no creo que el Estado deba borrar obligaciones sin considerar los derechos de los acreedores. La libertad económica exige responsabilidad personal y contratos fiables. Un Estado limitado debería proteger esos principios y dejar espacio a la ayuda voluntaria, en lugar de repartir privilegios."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "La seguridad nacional no puede depender de titulares triunfalistas. Ante los informes contradictorios sobre los ataques cerca de Bengasi, yo exijo información verificable y una defensa eficaz de nuestros barcos. El patriotismo no consiste en aceptar cualquier versión oficial, sino en pedir cuentas a quienes tienen el deber de proteger al país.\n\nTambién me preocupa que las reparaciones de refinerías puedan reducir los suministros de combustible. Rusia necesita asegurar primero su propio abastecimiento y su capacidad industrial, sin subordinar decisiones estratégicas a intereses financieros o compromisos exteriores. Y, ante el debate sobre la educación familiar, defiendo el derecho de los padres a transmitir nuestras tradiciones: el Estado debe apoyar a las familias, no reemplazar su autoridad con criterios dictados desde despachos. Soberanía significa poder proteger nuestras fronteras, nuestra economía y nuestra cultura."
+      "texto": "Yo no concibo la soberanía como un eslogan para las élites, sino como la obligación de proteger a los rusos y exigir cuentas a quienes gobiernan. Las acusaciones de corrupción contra el gobernador de Múrmansk deben investigarse con rigor y sin privilegios, respetando la presunción de inocencia. La lealtad política no puede sustituir a la honestidad.\n\nTambién debemos cuidar a quienes han servido al país: el proyecto para aliviar las deudas de combatientes y los programas de empleo para veteranos son pasos que merecen atención, aunque no bastan las promesas. Y frente a las posibles restricciones europeas a nuestros deportistas, defender la bandera y el himno es defender la dignidad nacional. La tradición no es un adorno: es un vínculo entre generaciones que ninguna decisión burocrática debería obligarnos a ocultar."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Veo en las noticias dos razones para defender una política menos dada a los gestos y más comprometida con los acuerdos. El fracaso de la COP31 para consensuar un documento clave es una mala noticia: sin cooperación internacional, la transición climática será más difícil. Yo prefiero compromisos graduales, verificables y financiables a promesas grandiosas que nadie cumple. El mercado puede movilizar inversión, pero los gobiernos deben proteger a quienes afronten los mayores costes del cambio.\n\nTambién espero que las informaciones sobre posibles garantías de seguridad para Ucrania abran espacio a una negociación seria. Por ahora son informaciones atribuidas a una fuente, no un acuerdo. La paz necesita garantías concretas, respeto a la soberanía y mecanismos creíbles de cumplimiento. Negociar no es una muestra de debilidad: es asumir la responsabilidad de convertir la seguridad en algo más que una declaración."
+      "texto": "Me inquieta que, mientras Meduza y Mediazona estiman en al menos 700.000 los militares rusos muertos en la guerra contra Ucrania, la respuesta política siga ocupándose de sus consecuencias sin afrontar suficientemente su causa. Esa estimación merece verificación independiente, pero la magnitud del sufrimiento exige un esfuerzo diplomático serio y una rendición de cuentas pública.\n\nTambién considero imprescindible ayudar a los veteranos a regresar a la vida civil: casi 45.000 han pedido apoyo para encontrar empleo. La formación y la intermediación laboral son inversiones sociales razonables. En cuanto a la propuesta de aliviar sus deudas, apoyaría una solución debatida con transparencia, que tenga en cuenta tanto las necesidades de los afectados como los derechos de los acreedores. Una sociedad justa necesita solidaridad, pero también reglas previsibles y oportunidades para todos."
     }
   ],
   "periodicos": [
@@ -42,71 +42,71 @@
       "web": "https://www.kommersant.ru",
       "noticias": [
         {
-          "titulo": "Пятнадцатый тур",
-          "entradilla": "«Оренбург»—«Балтика» 0:2  Хотулев, 13 (автогол); Голенков, 65  «Акрон»—«Факел» 0:2  Турищев, 43; Пуси, 45+1. Удаление: Бардыбахин («Акрон»), 20  «Рубин»—«Зенит» 3:1  Бабаев, 27; Вуячич, 30; Ходжа, 67 — Луис Энрике, 50. Незабитый пенальти: Сальседо, 27  ЦСКА—«Ахмат» 1:2  Кармо, 69 — Садулаев, 52 (пен",
-          "enlace": "https://www.kommersant.ru/doc/9127536"
+          "titulo": "Первым иском самолеты // Рекламная группа SA Media Group подала к ГК «Самолет» иск более чем на 1,25 млрд рублей",
+          "entradilla": "23 ноября рекламная группа SA Media подала два иска к застройщику ГК «Самолет» в совокупности более чем на 1,25 млрд руб. Собеседники “Ъ” называют это рекордной для российского рекламного рынка суммой требований. По оценке участников рынка, общие затраты «Самолета» на рекламу только в классических к",
+          "enlace": "https://www.kommersant.ru/doc/9129649"
         },
         {
-          "titulo": "Карину Цуркан поощрили принудительным трудом // Бывшему топ-менеджеру компании «Интер РАО» колонию заменили исправительным центром",
-          "entradilla": "Суд во Владимирской области заменил оставшуюся часть срока в колонии принудительными работами бывшему топ-менеджеру компании «Интер РАО» Карине Цуркан. Она была осуждена на 15 лет за шпионаж в пользу Молдавии и отбыла больше половины из них. Если решение суда первой инстанции вступит в силу, то Цурк",
-          "enlace": "https://www.kommersant.ru/doc/9127483"
+          "titulo": "Кто первый встал, того и титул // CAS вернул сборной Сенегала статус победителя Кубка африканских наций",
+          "entradilla": "Битва за право владеть Кубком африканских наций по футболу, перетекшая после скандального январского финала из спортивной плоскости в юридическую, все-таки осталась за сборной Сенегала. Команда, со счетом 1:0 победившая на поле, но из-за демарша в конце основного времени лишенная титула, была призна",
+          "enlace": "https://www.kommersant.ru/doc/9129664"
         },
         {
-          "titulo": "«Динамо» пробежало круг первым // Московский клуб лидирует в Российской премьер-лиге после 15 туров",
-          "entradilla": "В 15-м туре чемпионата России по футболу московское «Динамо» дома сыграло вничью с «Краснодаром» — 1:1. Большую часть матча бело-голубые провели в меньшинстве после удаления Максима Осипенко, но добились результата, который вывел их на первое место. Теперь они на одно очко опережают «Зенит» и на два",
-          "enlace": "https://www.kommersant.ru/doc/9127463"
+          "titulo": "У Чибиса пошло по откатанной // Бизнесмены рассказали о даче мурманскому губернатору взяток на 100 млн рублей",
+          "entradilla": "Как стало известно “Ъ”, обвинение задержанного 23 ноября губернатора Мурманской области Андрея Чибиса может быть связано не только с хищениями на сумму более 1 млрд руб., но и получением взяток. По данным “Ъ”, показания о передаче чиновнику наличных на сумму около 100 млн руб., а также оказании услу",
+          "enlace": "https://www.kommersant.ru/doc/9129675"
         },
         {
-          "titulo": "Заниженная Италия // В Москве идет новый мюзикл «Все будет Челентано»",
-          "entradilla": "Карикатурный образ Адриано Челентано и песни Тото Кутуньо, переведенные на русский язык Сергеем Плотовым, легли в основу нового мюзикла «Все будет Челентано», который идет в Московском дворце молодежи. Как пишет в программке спектакля его продюсер, глава компании «Бродвей Москва» Дмитрий Богачев, со",
-          "enlace": "https://www.kommersant.ru/doc/9127456"
+          "titulo": "Мученье юбилейное // Третьяковская галерея разложила историю отечественного искусства по «Стилям и направлениям»",
+          "entradilla": "Государственная Третьяковская галерея отмечает 170-летие масштабным проектом «Стили и направления». Его создатели попытались изложить всю историю русского искусства — от древней иконописи до цифровых произведений. В итоге тысяча лет оказалась утрамбована в краткий дайджест, больше напоминающий облег",
+          "enlace": "https://www.kommersant.ru/doc/9129574"
         },
         {
-          "titulo": "Claude обвалил биткойн // Ведущая криптовалюта обновила двухлетние минимумы из-за IPO Anthropic",
-          "entradilla": "По итогам прошедшей недели цена биткойна удержалась выше $60 тыс., хотя в ходе торгов в выходные опускалась до $55 тыс., обновив двухлетние минимумы. Основной причиной оттока ликвидности из криптовалюты стало крупнейшее в истории IPO, в которое перекладывали капитал институциональные инвесторы. Обва",
-          "enlace": "https://www.kommersant.ru/doc/9127194"
+          "titulo": "Банкротство службе не помеха // Бойцов СВО освободят от долгов на сумму не более 10 млн рублей",
+          "entradilla": "Госдума 24 ноября одобрила в первом чтении законопроект об особом порядке личного банкротства для участников специальной военной операции (СВО). Долги бойцов могут быть списаны, если их общая сумма не превышает 10 млн руб. Депутаты предложили ко второму чтению расширить круг лиц, на которых может ра",
+          "enlace": "https://www.kommersant.ru/doc/9129650"
         },
         {
-          "titulo": "За сто первым классные // В Музее AZ «второй русский авангард» становится тарусским",
-          "entradilla": "В московском Музее AZ проходит выставка «Территория свободы. Нонконформисты в Тарусе». Прославленный «русский Барбизон» с его пейзажами предстает мостиком, соединяющим художников начала XX века с неофициальным искусством эпохи оттепели. Рассказывает Ксения Воротынцева.",
-          "enlace": "https://www.kommersant.ru/doc/9127457"
+          "titulo": "Пленум ВС уточнил порядок конфискации криптовалюты",
+          "entradilla": "Верховный суд (ВС) напомнил, что цифровая валюта признается имуществом, подлежащим конфискации, если она признана орудием или средством совершения преступления. Это касается не только прямой конфискации криптовалюты, но и ситуаций, когда применяется ч. 2 ст. 104.2 УК РФ.",
+          "enlace": "https://www.kommersant.ru/doc/9129526"
         },
         {
-          "titulo": "В премиум провели электричество // На российском авторынке растет доля премиальных машин",
-          "entradilla": "Дилеры фиксируют рост продаж автомобилей премиум-класса: по отдельным оценкам, их доля приближается к 10%. Спрос разгоняет расширение предложения, в первую очередь за счет гибридных и электрических автомобилей, а также большая устойчивость покупателей таких машин к удорожанию кредитов и росту цен. Д",
-          "enlace": "https://www.kommersant.ru/doc/9127484"
+          "titulo": "Формула участия // Верховный суд уточнил правила использования видео-конференц-связи в уголовном процессе",
+          "entradilla": "Верховный суд (ВС) назвал участие в судебном процессе по видео-конференц-связи одной из процессуальных форм личного участия. Об этом говорится в подготовленных судом разъяснениях пленума ВС. Однако для рассмотрения дел в первой инстанции действуют особые правила, подразумевающие личное присутствие о",
+          "enlace": "https://www.kommersant.ru/doc/9129537"
         },
         {
-          "titulo": "Истина в последней субстанции // Международный фестиваль документального кино IDFA раздал призы",
-          "entradilla": "В Амстердаме завершился международный фестиваль документального кино IDFA. О том, как на первый план в современных документальных фильмах выходит жанр автофикшен, рассказывает Андрей Плахов.",
-          "enlace": "https://www.kommersant.ru/doc/9127462"
+          "titulo": "Не аванс, так гарантия // Поправки к СПОТ одобрены Госдумой",
+          "entradilla": "Порядок уплаты импортерами НДС и акциза при ввозе товаров из стран ЕАЭС будет изменен — Госдума приняла поправки, позволяющие делать это не авансом, а на следующий месяц после поставки. Для этого участникам внешней торговли потребуется банковская гарантия. Она позволит не отвлекать средства из оборо",
+          "enlace": "https://www.kommersant.ru/doc/9129640"
         },
         {
-          "titulo": "Чистота держит марку // Бывшее подразделение Henkel в России спорит за свой бренд",
-          "entradilla": "Lab Industries, бывшая российская «дочка» немецкого производителя бытовой химии Henkel, через суд просит взыскать ущерб за нарушение прав на товарный знак «Ласка», под которым выпускается популярный гель для стирки. Иск подан к бывшему российскому подразделению британской Reckitt, принадлежащему сей",
-          "enlace": "https://www.kommersant.ru/doc/9126659"
+          "titulo": "На орбиту запущена утка // На каком основании Россию вновь обвиняют в стремлении разместить ядерное оружие в космосе",
+          "entradilla": "Страны НАТО вновь утверждают, что Россия готовится вывести ядерное оружие в космос: в отличие от прошлой волны обвинений, запущенной США два года назад, на сей раз инициатором выступили европейские страны. По данным разведслужб Германии, Россия якобы еще до конца года планирует вывести на орбиту нек",
+          "enlace": "https://www.kommersant.ru/doc/9129585"
         },
         {
-          "titulo": "Дизель сливает покупателей // Предложение топлива из России в Центральной Азии может сократиться",
-          "entradilla": "Ремонты на российских НПЗ могут привести к сокращению поставок топлива в Центральную Азию, не исключают аналитики Argus. Наиболее вероятно ограничения затронут Киргизию и Таджикистан, зависимость которых от поставок из России особенно высока. Узбекистан и Казахстан хеджируют эти риски за счет собств",
-          "enlace": "https://www.kommersant.ru/doc/9127184"
+          "titulo": "Спето не со зла // Вышел новый альбом Дельфина",
+          "entradilla": "Дельфин (Андрей Лысиков) выпустил 14-й сольный альбом. Он получил название «Зла нет». В нем поэт и музыкант одновременно расширяет свою и без того огромную музыкальную палитру, пробует на вкус поэтический стиль русских классиков и, наконец, отчаянно исповедуется. Для 55-летнего артиста — самое время",
+          "enlace": "https://www.kommersant.ru/doc/9129433"
         },
         {
-          "titulo": "Лучшего шахматиста мира проверят на беспартийность // Пропуски Магнусом Карлсеном партий изучит комиссия по этике FIDE",
-          "entradilla": "Выступление главной шахматной звезды Магнуса Карлсена на пилотном турнире нового проекта Total Chess World Championship в Будапеште рассмотрит комиссия по этике Международной шахматной федерации (FIDE). Она может применить в отношении норвежца санкции вплоть до дисквалификации за пропуски партий, пр",
-          "enlace": "https://www.kommersant.ru/doc/9127386"
+          "titulo": "Бомбардир-миннесотник // Кирилл Капризов набирает очки в чемпионате НХЛ по рекордному графику",
+          "entradilla": "Кирилл Капризов, одна из главных российских хоккейных звезд, стал самым эффективным игроком НХЛ второй половины осени. Четыре очка, набранные им в матче регулярного чемпионата, в котором его «Миннесота Уайлд» обыграла на выезде — 5:2 — «Сан-Хосе Шаркс», продлили серию встреч Капризова с результативн",
+          "enlace": "https://www.kommersant.ru/doc/9129431"
         },
         {
-          "titulo": "Московское вино // Ресторанная критика с Еленой Ремчуковой",
-          "entradilla": "Мой гастрономический интерес и обычай формировались во Франции. И каждый год поздней осенью меня тянет выйти из дома, чтобы выпить плохого вина, потому что настало время «Божоле нуво». Boujolais nouveu est arrive! Это резкое, но душистое молодое вино из сорта гаме появляется в ресторанах в третий че",
-          "enlace": "https://www.kommersant.ru/doc/9127353"
+          "titulo": "Возвращение с барьерами // Евросоюз пытается осложнить реинтеграцию России в мировой спорт новыми санкциями",
+          "entradilla": "Очередным препятствием на пути реинтеграции российского спорта в мировой может стать подготовленный Евросоюзом новый санкционный пакет. Его авторы собираются запретить отечественным атлетам выступать на территории входящих в него стран в полноценном, то есть с флагом и гимном, статусе. Эта мера очен",
+          "enlace": "https://www.kommersant.ru/doc/9129496"
         }
       ],
       "analisis": {
-        "resumen": "- Fútbol ruso: el Dinamo de Moscú lidera la liga tras empatar con el Krasnodar; la portada recoge otros resultados de la jornada.\n- La exdirectiva de Inter RAO Karina Tsurkan podría cumplir el resto de su condena por espionaje mediante trabajos forzados, si la decisión judicial entra en vigor.\n- El bitcóin tocó mínimos de dos años y crece la cuota de automóviles prémium en Rusia.\n- Analistas advierten de una posible reducción de suministros rusos de combustible a Asia Central; además, hay un litigio por la marca de detergente Laska.\n- La portada incluye noticias culturales, gastronomía y una posible investigación de la FIDE sobre Magnus Carlsen.",
-        "populismo": 15,
-        "motivo_populismo": "Predominan los titulares informativos y los juegos de palabras, aunque «Claude hundió el bitcóin» presenta de forma llamativa y simplificada una caída financiera.",
-        "sesgo": "La selección se centra en la actualidad rusa, especialmente en el fútbol, la economía y la cultura de Moscú, aunque también incluye noticias internacionales. No se aprecia un sesgo político claro en los textos proporcionados."
+        "resumen": "- Una agencia publicitaria demanda a la constructora Samolet por más de 1.250 millones de rublos.\n- Empresarios declaran que entregaron unos 100 millones de rublos en sobornos al gobernador detenido de Múrmansk.\n- La Duma aprueba en primera lectura un procedimiento de quiebra para participantes en la operación militar en Ucrania, con límites a la condonación de deudas.\n- El Supremo aclara criterios sobre confiscación de criptomonedas y participación por videoconferencia; también se aprueban cambios tributarios para importaciones de la UEE.\n- La portada aborda acusaciones sobre armas nucleares en el espacio, posibles sanciones deportivas de la UE, el título de Senegal en fútbol y noticias culturales.",
+        "populismo": 30,
+        "motivo_populismo": "Predomina la información institucional y económica, aunque titulares como «Se lanzó un bulo a la órbita» y «La UE intenta obstaculizar la reintegración de Rusia» introducen descalificación y un marco de confrontación.",
+        "sesgo": "Las noticias internacionales y deportivas adoptan un enfoque favorable a la posición rusa: presentan las acusaciones sobre armas nucleares como un bulo y las posibles sanciones de la UE como un obstáculo deliberado. El resto de la portada combina asuntos económicos, judiciales, culturales y deportivos."
       }
     },
     {
@@ -114,71 +114,71 @@
       "web": "https://rg.ru",
       "noticias": [
         {
-          "titulo": "Червинский: ГУР Украины прикрывало массовые поставки наркотиков в Россию",
-          "entradilla": "Главное управление разведки Минобороны Украины прикрывало массовые поставки наркотиков в РФ для подрыва здоровья россиян. Об этом радиостанции NV заявил бывший украинский разведчик и полковник СБУ Роман Червинский.",
-          "enlace": "https://rg.ru/2026/11/22/chervinskij-gur-ukrainy-prikryvalo-massovye-postavki-narkotikov-v-rossiiu.html"
+          "titulo": "МегаФон обновил спутниковое оборудование в северном селе Хабаровского края",
+          "entradilla": "У жителей села Аян Аяно-Майского района появился доступ к более надежной и устойчивой мобильной связи. Инженеры МегаФона обновили в поселении телеком-оборудование на базе спутниковых каналов. Работы были выполнены по соглашению с региональным министерством цифрового развития и связи.",
+          "enlace": "https://rg.ru/2026/11/25/reg-dfo/megafon-obnovil-sputnikovoe-oborudovanie-v-severnom-sele-habarovskogo-kraia.html"
         },
         {
-          "titulo": "В Мавритании изъяли рекордную для всего региона партию кокаина",
-          "entradilla": "Полиция Мавритании объявила об изъятии 1,7 тонны кокаина в регионе Ход-эш-Шарги на востоке страны. Операция стала итогом трех месяцев расследования, позволившего выйти на международную сеть наркоторговли, сообщает \"Африканское агентство печати\" (APAnews).",
-          "enlace": "https://rg.ru/2026/11/22/v-mavritanii-iziali-rekordnuiu-dlia-vsego-regiona-partiiu-kokaina.html"
+          "titulo": "В РК хакеры похитили данные более 1,5 миллиона клиентов и сотрудников компании",
+          "entradilla": "В Южной Корее произошла масштабная утечка персональных данных государственной электроэнергетической компании Korea Electric Power Corporation (KEPCO). Как сообщило агентство \"Ёнхап\", в результате хакерской атаки были скомпрометированы сведения примерно 1,52 млн пользователей двух информационных сист",
+          "enlace": "https://rg.ru/2026/11/25/v-rk-hakery-pohitili-dannye-bolee-15-milliona-klientov-i-sotrudnikov-kompanii.html"
         },
         {
-          "titulo": "Самолет Саддама Хуссейна выставили на продажу",
-          "entradilla": "Власти Ирака выставили на продажу самолет, принадлежавший Саддаму Хуссейну. Речь идет о лайнере Boeing 747SP с регистрационным номером YI-ALM.",
-          "enlace": "https://rg.ru/2026/11/22/samolet-saddama-husejna-vystavili-na-prodazhu.html"
+          "titulo": "Число погибших при пожаре на заводе пиротехники под Ярославлем увеличилось до 15",
+          "entradilla": "По уточненным данным, 15 человек погибли в результате пожара на предприятии по производству петард в Ярославской области, произошедшем в сентябре. Об этом сообщает РИА Новости , ссылаясь на пресс-службу судов региона.",
+          "enlace": "https://rg.ru/2026/11/25/reg-cfo/chislo-pogibshih-pri-pozhare-na-zavode-pirotehniki-pod-iaroslavlem-uvelichilos-do-15.html"
         },
         {
-          "titulo": "В Нигерии при крушении лодки погибли 24 человека",
-          "entradilla": "По меньшей мере 24 человека погибли в результате крушения переполненной лодки на юге Нигерии. Судно перевозило пассажиров из населенного пункта Аяма в общину Укубие штата Байельса, куда люди направлялись на похоронную церемонию. Об этом сообщила Национальное агентство по чрезвычайным ситуациям стран",
-          "enlace": "https://rg.ru/2026/11/22/v-nigerii-pri-krushenii-lodki-pogibli-24-cheloveka.html"
+          "titulo": "На Украине убит сын актрисы из \"Людей Икс\", офицер армии США Миллер",
+          "entradilla": "В Киеве похоронили гражданина США Гейдена Фишера Миллера. Он воевал на стороне Украины в составе \"Интернационального легиона\" ВСУ.",
+          "enlace": "https://rg.ru/2026/11/25/na-ukraine-ubit-syn-aktrisy-iz-liudej-iks-oficer-armii-ssha-miller.html"
         },
         {
-          "titulo": "В Бенгази отразили несколько атак украинских безэкипажных катеров",
-          "entradilla": "Ливийская национальная армия сообщила о пресечении нескольких попыток атаковать суда, в том числе российские, в районе порта Бенгази. По информации военных источников, переданной RT , в ходе одного из нападений были перехвачены четыре из шести украинских безэкипажных катеров типа Magura.",
-          "enlace": "https://rg.ru/2026/11/22/v-bengazi-otrazili-neskolko-atak-ukrainskih-bezekipazhnyh-katerov.html"
+          "titulo": "Серьезно скорректировать историю кыргызов обещают исследования древнего городища",
+          "entradilla": "Серьезно скорректировать летопись кыргызов обещают исследования городища Кочкор-Башы в Кочкорском районе. Здесь прошел богатый на находки археологический сезон в рамках государственной программы \"Тайны древней истории\", утвержденной в 2023 году.",
+          "enlace": "https://rg.ru/2026/11/25/zoloto-runy-i-bani.html"
         },
         {
-          "titulo": "Parisien: В Париже арестовали российского бойца ММА Алиева после боя на арене",
-          "entradilla": "Боец смешанных боевых искусств (MMA) Амир Алиев был арестован вечером 20 ноября на арене Adidas Arena в Париже. Об этом сообщает газета Le Parisien.",
-          "enlace": "https://rg.ru/2026/11/22/parisien-v-parizhe-arestovali-rossijskogo-bojca-mma-alieva-posle-boia-na-arene.html"
+          "titulo": "Штурмовики уничтожили диверсантов и наемников ВСУ, переодетых в российскую форму",
+          "entradilla": "Штурмовой отряд ВС РФ ликвидировал переодетых в российскую форму группу диверсантов ВСУ, среди которых были двое иностранных наемников. Об этом сообщил командир отделения группировки \"Центр\" Сергей Левчуков.",
+          "enlace": "https://rg.ru/2026/11/25/shturmoviki-unichtozhili-diversantov-i-naemnikov-vsu-pereodetyh-v-rossijskuiu-formu.html"
         },
         {
-          "titulo": "Никитин: Россия будет внедрять цифровизацию и беспилотные системы на транспорте",
-          "entradilla": "Россия намерена активно внедрять цифровые технологии и беспилотные системы в транспортной отрасли, заявил вице-премьер РФ Андрей Никитин.",
-          "enlace": "https://rg.ru/2026/11/22/nikitin-rossiia-budet-vnedriat-cifrovizaciiu-i-bespilotnye-sistemy-na-transporte.html"
+          "titulo": "Зеленский с обидой ответил на предложение Лукашенко вместе слетать в Москву",
+          "entradilla": "Владимир Зеленский прокомментировал предложение президента Беларуси Александра Лукашенко вместе слетать в Москву на переговоры к российскому лидеру Владимиру Путину. Слова украинского политика приводит \"Страна.ua\".",
+          "enlace": "https://rg.ru/2026/11/25/zelenskij-s-obidoj-otvetil-na-predlozhenie-lukashenko-vmeste-sletat-v-moskvu.html"
         },
         {
-          "titulo": "Московское \"Динамо\" выиграло первый круг РПЛ",
-          "entradilla": "Завершился первый круг чемпионата России. По итогам прошедшего отрезка лидирует столичное \"Динамо\", сыгравшее вничью дома с \"Краснодаром\" в центральном матче 15-го тура - 1:1.",
-          "enlace": "https://rg.ru/2026/11/22/v-kruge-pervom.html"
+          "titulo": "В НРА назвали главный вызов для банков в 2026 году",
+          "entradilla": "Структурный дефицит ликвидности российского банковского сектора за девять месяцев 2026 года вырос в 5,5 раза. Это стало главным вызовом года для банков, говорится в отчете рейтингового агентства НРА, с которым ознакомилась \"Российская газета\".",
+          "enlace": "https://rg.ru/2026/11/25/v-nra-nazvali-glavnyj-vyzov-dlia-bankov-v-2026-godu.html"
         },
         {
-          "titulo": "Анна Кузнецова поделилась личной историей помощи святой Матроны Московской",
-          "entradilla": "22 ноября православные отмечают 145-летие со дня рождения святой праведной блаженной Матроны Московской. Вице-спикер Госдумы Анна Кузнецова поделилась личной историей помощи знаменитой святой старицы ее семье.",
-          "enlace": "https://rg.ru/2026/11/22/anna-kuznecova-podelilas-lichnoj-istoriej-pomoshchi-sviatoj-matrony-moskovskoj.html"
+          "titulo": "Цены на курицу начали стабилизироваться",
+          "entradilla": "После нескольких месяцев роста цены на курицу на российском рынке начали стабилизироваться. Правда, пока производство птицы продолжает сокращаться. Все дело в значительном росте затрат птицеводов. Но теперь сложившиеся высокие цены подтолкнут птицефабрики к восстановлению производства, прогнозируют ",
+          "enlace": "https://rg.ru/2026/11/25/ceny-na-kuricu-nachali-stabilizirovatsia.html"
         },
         {
-          "titulo": "Дмитриев заявил об истерике Лондона и ЕС из-за поста Трампа о Путине",
-          "entradilla": "Великобритания и Евросоюз находятся в \"панической истерике\" из-за поста президента США Дональда Трампа о российском лидере Владимире Путине. На это обратил внимание спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странами, глава РФПИ Кирилл Дмитриев в соц",
-          "enlace": "https://rg.ru/2026/11/22/dmitriev-zaiavil-ob-isterike-londona-i-es-iz-za-posta-trampa-o-putine.html"
+          "titulo": "Как жены и матери становятся надежным тылом для бойцов СВО",
+          "entradilla": "Женское сердце умеет ждать, но оно не умеет молчать. Пока отцы, мужья, братья и сыновья служат на передовой, их родные женщины стали мощным тылом. Они собирают гуманитарную помощь, плетут маскировочные сети, готовят вкусные блюда и даже выходят на сцену, чтобы поддержать раненых. Словом, живут и дар",
+          "enlace": "https://rg.ru/2026/11/25/reg-cfo/s-pesnej-po-zhizni.html"
         },
         {
-          "titulo": "Вице-спикер Госдумы рассказала о работе над законом о психологической помощи",
-          "entradilla": "В День психолога, который отмечают 22 ноября, вице-спикер Госдумы Анна Кузнецова поздравила специалистов и рассказала о системной работе над базовым законом о психологической помощи.",
-          "enlace": "https://rg.ru/2026/11/22/vice-spiker-gosdumy-rasskazala-o-rabote-nad-zakonom-o-psihologicheskoj-pomoshchi.html"
+          "titulo": "Как ветераны СВО в Москве находят себя в мирной жизни",
+          "entradilla": "В цехах, IT-студиях, за токарными станками... У ветеранов специальной военной операции в Москве - надежный тыл, они знают, что, выполнив свой долг, смогут найти дело по душе. Помогают бойцам в этом уникальные программы обучения и повышения квалификации городской службы занятости.",
+          "enlace": "https://rg.ru/2026/11/25/reg-cfo/snova-v-stroiu.html"
         },
         {
-          "titulo": "Кузнецова рассказала о законодательных инициативах по семейному образованию",
-          "entradilla": "Вопросы семейного образования детей волнуют сегодня многих. Вице-спикер Госдумы Анна Кузнецова сообщила, что поступает много обращений по теме возможного изменения законодательства о семейном образовании. Но есть и то, что необходимо непременно учесть.",
-          "enlace": "https://rg.ru/2026/11/22/kuznecova-rasskazala-o-zakonodatelnyh-iniciativah-po-semejnomu-obrazovaniiu.html"
+          "titulo": "Как добровольцы-москвичи заботятся о бойцах",
+          "entradilla": "Более 1,7 миллиона волонтеров объединяет главный социальный проект города \"Москва помогает\". По словам директора ресурсного центра \"Мосволонтер\" Александра Левита, он действует с 2022 года. Добровольцы собирают гуманитарную помощь для участников СВО, жителей приграничных и новых регионов. Прием помо",
+          "enlace": "https://rg.ru/2026/11/25/reg-cfo/moskva-pomogaet.html"
         }
       ],
       "analisis": {
-        "resumen": "- Un exagente ucraniano acusa a la inteligencia de Ucrania de amparar envíos masivos de drogas a Rusia.\n- La policía de Mauritania incauta 1,7 toneladas de cocaína; en Nigeria mueren al menos 24 personas en un naufragio.\n- El Ejército Nacional Libio afirma haber frustrado ataques de embarcaciones ucranianas cerca de Bengasi, contra buques entre ellos rusos.\n- Un representante ruso acusa a Londres y a la UE de reaccionar con «histeria» a una publicación de Trump sobre Putin; Rusia anuncia planes de digitalización del transporte.\n- La portada recoge iniciativas de Anna Kuznetsova sobre familia y salud mental, noticias deportivas y la venta de un avión de Sadam Huseín.",
-        "populismo": 30,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «histérica de pánico» y la acusación de un plan para dañar la salud de los rusos introducen dramatización y confrontación.",
-        "sesgo": "La selección da espacio a voces oficiales rusas y presenta acusaciones contra Ucrania y críticas a Londres y la UE desde fuentes próximas a Rusia. También incluye noticias internacionales y de interés general redactadas de forma más descriptiva."
+        "resumen": "- Varias noticias abordan la guerra en Ucrania y el apoyo a los militares rusos, sus familiares y veteranos.\n- Un incendio en una fábrica de pirotecnia de la región de Yaroslavl dejó 15 muertos.\n- Un ciberataque comprometió datos de unos 1,52 millones de usuarios vinculados a una empresa eléctrica surcoreana.\n- En Rusia, se destaca el déficit de liquidez bancaria y la estabilización del precio del pollo.\n- Otras noticias tratan sobre mejoras de conexión en Jabárovsk y hallazgos arqueológicos en Kirguistán.",
+        "populismo": 40,
+        "motivo_populismo": "Algunos titulares recurren a un lenguaje valorativo o emocional, como «respondió con resentimiento» y «retaguardia fiable», mientras que otros mantienen un tono informativo.",
+        "sesgo": "La cobertura de la guerra prioriza la perspectiva rusa y presenta de forma favorable el apoyo a sus militares y veteranos. No se recoge una perspectiva alternativa sobre esos hechos en los textos proporcionados."
       }
     },
     {
@@ -186,71 +186,71 @@
       "web": "https://www.kp.ru",
       "noticias": [
         {
-          "titulo": "Луиса не выпустили: блогер Лерчек одна полетела на лечение в Китай",
-          "entradilla": "Блогер Лерчек полетела на лечение в Китай одна, ее мужа не выпустили",
-          "enlace": "https://www.kp.ru/daily/277835.5/5332094/?from=twall"
+          "titulo": "«Сделаю из праха бриллиант и буду носить»: Финалистка шоу «Голос» Ян Гэ подписала документы об отключении мамы от аппарата жизнеобеспечения",
+          "entradilla": "Китайская певица, говорящая по-русски, дико скорбит",
+          "enlace": "https://www.kp.ru/daily/277835.4/5333175/?from=twall"
         },
         {
-          "titulo": "Уильям хочет лишить брата Гарри королевского титула: он задумал провести радикальную реформу британской монархии",
-          "entradilla": "Наследник британского трона Уильям разжалует из принцев своего брата Гарри",
-          "enlace": "https://www.kp.ru/daily/277835.5/5332072/?from=twall"
+          "titulo": "Сын Романа Абрамовича тайно женился на матери своих детей: их двое",
+          "entradilla": "Сын Романа Абрамовича тайно женился на матери троих детей",
+          "enlace": "https://www.kp.ru/daily/277835.4/5333173/?from=twall"
         },
         {
-          "titulo": "Глюкоза вышла в топе с шипами, Савичева рассказала, как переживала развод, а madk1d признался, что он далеко не святой: как прошла «Распаковка 2026»",
-          "entradilla": "Российские артисты собрались на сцене музыкальной премии «Распаковка 2026»",
-          "enlace": "https://www.kp.ru/daily/277835.5/5332070/?from=twall"
+          "titulo": "Новости СВО на Украине и боевая сводка на 25 ноября:  Рэперы и комики бегут из Киева, Зеленский достал Кушнера, британцы гнали не ту взрывчатку для ВСУ",
+          "entradilla": "«КП» публикует боевые сводки и последние новости вокруг СВО на Украине на 25 ноября",
+          "enlace": "https://www.kp.ru/daily/277835.4/5333118/?from=twall"
         },
         {
-          "titulo": "Китайское послевкусие: за что Шэньчжэнь называют «китайским чудом» и в чем его обошла Москва",
-          "entradilla": "KP.RU перечислил преимущества Москвы перед Шэньчжэнем, где прошел саммит АТЭС",
-          "enlace": "https://www.kp.ru/daily/277835.5/5332069/?from=twall"
+          "titulo": "Муж-губернатор испереживался за Надю Михалкову: вот что случилось",
+          "entradilla": "Муж-губернатор поддержал Надю Михалкову на премьере",
+          "enlace": "https://www.kp.ru/daily/277835.4/5333167/?from=twall"
         },
         {
-          "titulo": "«Повторить подобное невозможно»: что за икону подарил Путин патриарху Кириллу",
-          "entradilla": "KP.RU: Путин подарил патриарху Кириллу уникальную икону уральских мастеров",
-          "enlace": "https://www.kp.ru/daily/277835.5/5332060/?from=twall"
+          "titulo": "Крепкие объятия душегубов: Киев может вернуть спасенных из Алешек обратно - с оружием в руках",
+          "entradilla": "Депутат Рады Козырь: эвакуированным из Алешек вручали повестки ТЦК",
+          "enlace": "https://www.kp.ru/daily/277835.4/5333149/?from=twall"
         },
         {
-          "titulo": "Волкова стала бабушкой в четвертый раз, Пересильд впервые вышла в свет с мужем, а Нюша рассталась с возлюбленным: главные новости шоу-бизнеса",
-          "entradilla": "Сайт KP.RU вспоминает главные новости из мира шоу-бизнеса за неделю с 16 по 22 ноября 2026 года",
-          "enlace": "https://www.kp.ru/daily/277835.5/5332055/?from=twall"
+          "titulo": "Зеленский получил отпор в Африке: враждующие правительства Ливии осудили атаку на российские суда",
+          "entradilla": "Правительство Западной Ливии потребовало внести Зеленского в список террористов",
+          "enlace": "https://www.kp.ru/daily/277835.4/5333135/?from=twall"
         },
         {
-          "titulo": "«Хочу, чтобы мама выздоровела»: стример с миллионами подписчиков Генсуха призналась, о чем мечтает перед Новым годом",
-          "entradilla": "Стример Генсуха рассказала, что мечтает о выздоровлении своей мамы",
-          "enlace": "https://www.kp.ru/daily/277835.5/5332056/?from=twall"
+          "titulo": "Итальянские власти впервые выступили с публичной критикой действий Киева: что случилось",
+          "entradilla": "МИД Италии: Конфликт на Украине может перекинуться на Средиземное море",
+          "enlace": "https://www.kp.ru/daily/277835.4/5333132/?from=twall"
         },
         {
-          "titulo": "Рим разгневан решением Киева: вице-премьера Италии внесли в список «врагов Украины»",
-          "entradilla": "Мелони отчитала Зеленского за итальянцев, попавших в базу «Миротворца»",
-          "enlace": "https://www.kp.ru/daily/277835.5/5332058/?from=twall"
+          "titulo": "Киев не прекращает атак на нефтезаводы, ответ будет неизбежен: что сказал Путин на заседании по развитию ТЭК",
+          "entradilla": "Владимир Путин: в России удалось сохранить стабильность топливного рынка",
+          "enlace": "https://www.kp.ru/daily/277835.4/5333130/?from=twall"
         },
         {
-          "titulo": "14-летняя вокалистка выступала в госпитале для участников СВО, а 8-летний пианист выучил китайский за полгода: истории талантливых детей из популярного телепроекта",
-          "entradilla": "13-й сезон конкурса юных талантов «Синяя птица» стартует 22 ноября",
-          "enlace": "https://www.kp.ru/daily/277835.5/5332046/?from=twall"
+          "titulo": "Обольстительный взгляд: папа римский Франциск описал встречи с дьяволом",
+          "entradilla": "Папа римский Франциск оставил воспоминания о встречах с дьяволом",
+          "enlace": "https://www.kp.ru/daily/277835.4/5333122/?from=twall"
         },
         {
-          "titulo": "В Сеть попало видео безобразной драки Романа и Елены Товстиков",
-          "entradilla": "Роман Товстик заявил, что его бывшая жена кричала на детей и ударила дочь",
-          "enlace": "https://www.kp.ru/daily/277835.5/5332051/?from=twall"
+          "titulo": "Образы Shaman’а на юбилейном концерте: куртка-триколор, неоновые джинсы с дыркой и элегантный смокинг",
+          "entradilla": "KP.RU собрал образы Shaman’а на юбилейном концерте в Кремле",
+          "enlace": "https://www.kp.ru/daily/277835.4/5333108/?from=twall"
         },
         {
-          "titulo": "Завтрак не пропускать: врач дала семь советов, как побороть сонливость в ноябре",
-          "entradilla": "Врач Шарапова перечислила шаги, которые помогут побороть сонливость в ноябре",
-          "enlace": "https://www.kp.ru/daily/277835.5/5332041/?from=twall"
+          "titulo": "Николай Ефремов тюкнул своего отца Михаила в темечко, и тот помер",
+          "entradilla": "В театре «Мастерская «12» Никиты Михалкова – премьера спектакля «Васса Железнова» (18+) в постановке Надежды Михалковой, которая недавно стала женой губернатора. Надо смотреть",
+          "enlace": "https://www.kp.ru/daily/277835.4/5333111/?from=twall"
         },
         {
-          "titulo": "Европа разыгрывает «переговорный спектакль» по Украине: настоящий мир ей не нужен",
-          "entradilla": "Умеренков: Европа тянет время, имитируя интерес к переговорам по Украине",
-          "enlace": "https://www.kp.ru/daily/277835.5/5332038/?from=twall"
+          "titulo": "Фиаско Марко Рубио: возвращение Хуанга на пост главы Nvidia ударило по госсекретарю США",
+          "entradilla": "Возвращение Хуанга в Nvidia ударило по Марко Рубио",
+          "enlace": "https://www.kp.ru/daily/277835.4/5333099/?from=twall"
         }
       ],
       "analisis": {
-        "resumen": "- Predominan las noticias de famosos: la bloguera Lerchek viaja sola a China para recibir tratamiento y se repasan novedades del espectáculo.\n- La portada aborda una supuesta reforma de la monarquía británica que afectaría al título del príncipe Harry.\n- Sobre la guerra en Ucrania, recoge la reacción italiana a una lista de «enemigos de Ucrania» y una opinión crítica con Europa y las negociaciones.\n- Compara Moscú con Shenzhen y presenta el icono que Putin regaló al patriarca Kiril.\n- Incluye historias de jóvenes talentos, un conflicto familiar difundido en video y consejos médicos contra la somnolencia.",
-        "populismo": 58,
-        "motivo_populismo": "Expresiones como «Roma está furiosa», «pelea vergonzosa» y «espectáculo de negociaciones», junto con la afirmación categórica de que Europa no quiere la paz, aportan dramatización y simplifican asuntos complejos.",
-        "sesgo": "La selección favorece el entretenimiento y los aspectos personales de las noticias, con titulares llamativos. En los asuntos internacionales se aprecia un enfoque crítico hacia Europa y Kiev, junto con una presentación favorable de Moscú y del regalo de Putin."
+        "resumen": "- La guerra en Ucrania ocupa un lugar destacado, con partes de combate, ataques a refinerías y declaraciones de Putin sobre el mercado de combustibles.\n- Varios titulares presentan críticas o reveses para Kiev en relación con Libia e Italia, y recogen denuncias sobre personas evacuadas de Oleshki.\n- La cantante Yan Ge relata el dolor por la desconexión del soporte vital de su madre; otra noticia aborda la boda del hijo de Román Abramóvich.\n- La portada incluye noticias sobre la familia Mijalkov, una obra teatral y los atuendos de Shaman en un concierto.\n- También recoge recuerdos atribuidos al papa Francisco sobre encuentros con el diablo y un supuesto revés para Marco Rubio vinculado a Nvidia.",
+        "populismo": 78,
+        "motivo_populismo": "Abundan las descalificaciones y expresiones sensacionalistas, como «abrazos de asesinos», «huyen de Kiev», «Zelenski recibió un rechazo» y «fiasco de Marco Rubio», junto con titulares emocionales sobre famosos.",
+        "sesgo": "La selección y la redacción ofrecen un enfoque favorable a la posición rusa y crítico con Kiev y figuras occidentales, destacando supuestos reveses y amenazas. En la información de sociedad predomina el interés por el drama personal y la vida de los famosos."
       }
     },
     {
@@ -258,71 +258,71 @@
       "web": "https://www.vedomosti.ru",
       "noticias": [
         {
-          "titulo": "Итоги торгов на Мосбирже с 16 по 20 ноября",
-          "entradilla": "Главный бенчмарк российского фондового рынка за неделю с 16 по 20 ноября уменьшился на 6,19% до 2354,4 пункта. Его долларовый аналог индекс РТС потерял 6,23% и составил 902,39 пункта. Ни одна акция из состава индекса Мосбиржи не выросла в цене. В аутсайдерах оказались бумаги АФК «Система» (-16,7%), ",
-          "enlace": "https://www.vedomosti.ru/investments/articles/2026/11/22/1414102-itogi-torgov"
+          "titulo": "Объем нового жилья у крупнейших столичных девелоперов сократился в 2,5 раза",
+          "entradilla": "Средний объем выданных разрешений на строительство (РНС) жилья в Москве, которые ежемесячно получали 20 крупнейших столичных девелоперов, по итогам января – октября 2026 г. составил 124 600 кв. м, подсчитала Urban на основе данных Единой информационной системы жилищного строительства (ЕИСЖС). Относи",
+          "enlace": "https://www.vedomosti.ru/realty/articles/2026/11/25/1414999-obem-novogo-zhilya-sokratilsya"
         },
         {
-          "titulo": "NYT предупредила о риске новых сбоев в работе госведомств и компаний из-за ИИ",
-          "entradilla": "Развитие искусственного интеллекта (ИИ) может привести к учащению масштабных сбоев в работе государственных ведомств, крупных компаний и критически важной инфраструктуры. Об этом пишет The New York Times (NYT) со ссылкой на экспертов по кибербезопасности и представителей американских разведывательны",
-          "enlace": "https://www.vedomosti.ru/technology/articles/2026/11/22/1414079-nyt-predupredila-o-riske"
+          "titulo": "Партийный босс Шанхая стал новой жертвой чисток в Китае",
+          "entradilla": "Секретарь шанхайского горкома Компартии Китая (КПК) Чэнь Цзинин, который одновременно входит в состав политбюро Центрального комитета (ЦК) партии, стал очередным объектом антикоррупционного расследования. Об этом стало известно 24 ноября из новости госагентства «Синьхуа». В его коротком сообщении ли",
+          "enlace": "https://www.vedomosti.ru/politics/articles/2026/11/25/1415010-partiinii-boss-shanhaya-stal-zhertvoi"
         },
         {
-          "titulo": "Историческая встреча в КНР и гастротуры в КНДР. Помните ли вы события 16–22 ноября?",
-          "entradilla": "",
-          "enlace": "https://www.vedomosti.ru/society/test/2026/11/22/1413443-istoricheskaya-vstrecha"
+          "titulo": "СР поменяет руководителя столичного отделения партии",
+          "entradilla": "Экс-депутат Госдумы от «Справедливой России» (СР) Дмитрий Гусев, известный как политолог и политтехнолог, в ближайшее время покинет пост руководителя московского отделения партии. На его место президиум центрального совета СР рекомендовал председателя комитета Госдумы по науке и высшему образованию ",
+          "enlace": "https://www.vedomosti.ru/politics/articles/2026/11/25/1414997-sr-pomenyaet-rukovoditelya"
         },
         {
-          "titulo": "«Увидеть все»: что не так с фильмом об основательнице Theranos Элизабет Холмс",
-          "entradilla": "19 ноября в российский прокат вышел документальный фильм «Увидеть все» (You can see everything) о последних днях скандально известной основательницы Theranos Элизабет Холмс на свободе перед отправкой в тюрьму. Картину хвалят и прочат ей «Оскар». Однако Тайлер Шульц, чьи показания помогли разоблачить",
-          "enlace": "https://www.vedomosti.ru/technology/articles/2026/11/22/1280464-uvidet-vse-chto"
+          "titulo": "Почему Запорожская область два месяца не может выбрать сенатора",
+          "entradilla": "Процедура назначения нового представителя заксобрания Запорожской области в Совет Федерации (СФ) затянулась и превысила предельный срок, предусмотренный законом о порядке формирования верхней палаты парламента. У регионального парламента был месяц после досрочного прекращения полномочий сенатора Дми",
+          "enlace": "https://www.vedomosti.ru/politics/articles/2026/11/25/1414995-zaporozhskaya-oblast-ne-mozhet-vibrat-senatora"
         },
         {
-          "titulo": "Наследники советских лидеров: как власть отцов определила судьбы их детей",
-          "entradilla": "22 ноября 2011 г. в американском доме престарелых умерла дочь Иосифа Сталина Светлана Аллилуева. Она стала широко известной благодаря побегу из СССР и нескольким мемуарам, раскрывающим изнанку жизни «отца народов». Как складывались судьбы других отпрысков советских лидеров – в подборке «Ведомостей».",
-          "enlace": "https://www.vedomosti.ru/politics/selection/2026/11/22/1413712-nasledniki-sovetskih-liderov"
+          "titulo": "Минтруд сообщил о просьбах 45 000 ветеранов СВО помочь в поиске работы",
+          "entradilla": "Помощь в трудоустройстве попросили 44 868 ветеранов спецоперации на Украине, следует из данных мониторинга Минтруда на конец сентября 2026 г. Его представил в Общественной палате России советник министра труда и соцзащиты Дмитрий Мячин, выступая на круглом столе «Социальная и трудовая адаптация вете",
+          "enlace": "https://www.vedomosti.ru/society/articles/2026/11/25/1415013-mintrud-soobschil-o-prosbah"
         },
         {
-          "titulo": "Исчезнувший: как Дэн Купер угнал самолет и растворился в небе",
-          "entradilla": "24 ноября 1971 г. мужчина по имени Дэн Купер угнал самолет Boeing 727 в небе над США. Он потребовал $200 000 и четыре парашюта, а затем бесследно исчез. Это дело до сих пор остается самой известной нераскрытой загадкой американской авиации. Ни поисковые операции ФБР, ни привлечение тысяч свидетелей ",
-          "enlace": "https://www.vedomosti.ru/society/articles/2026/11/22/1413433-ischeznuvshii-kak-den-kuper"
+          "titulo": "Росгвардии хотят дать право штрафовать ЧОПы по отчетам об охране объектов",
+          "entradilla": "Войскам национальной гвардии России (Росгвардия, в нее входят ОМОН и СОБР) могут дать право накладывать на частные охранные предприятия (ЧОП) и подразделения ведомственной охраны штрафы до 50 000 руб. за представление недостоверной отчетности об охране объектов критической инфраструктуры. А обязанно",
+          "enlace": "https://www.vedomosti.ru/society/articles/2026/11/25/1415001-rosgvardii-hotyat-dat-pravo"
         },
         {
-          "titulo": "Что известно о взрыве газа в многоэтажке во Владикавказе",
-          "entradilla": "Во Владикавказе в многоквартирном доме на улице Курсантов-кировцев произошел взрыв бытового газа. По данным МЧС Северной Осетии, погибли два человека, еще двое пострадали. Взрыв произошел на шестом этаже: в здании выбило окна, однако возгорания не последовало. «Ведомости» собрали главное, что извест",
-          "enlace": "https://www.vedomosti.ru/society/articles/2026/11/21/1413994-chto-izvestno-o-vzrive"
+          "titulo": "Продажи успокоительных для животных за год выросли более чем в шесть раз",
+          "entradilla": "Россияне стали чаще покупать успокоительные и противотревожные препараты для домашних животных, сообщил «Ведомостям» представитель Центра развития перспективных технологий (ЦРПТ) – оператора системы маркировки «Честный знак». С мая по октябрь 2026 г. жители страны приобрели почти 1,4 млн упаковок та",
+          "enlace": "https://www.vedomosti.ru/society/articles/2026/11/25/1414994-prodazhi-uspokoitelnih-dlya-zhivotnih"
         },
         {
-          "titulo": "Что известно об атаке на грузовое судно в Финском заливе",
-          "entradilla": "В Финском заливе атаковано судно, следовавшее в Калининград. Об этом сообщил губернатор Ленинградской области Александр Дрозденко в Telegram-канале.",
-          "enlace": "https://www.vedomosti.ru/politics/articles/2026/11/21/1413975-atake-sudno"
+          "titulo": "Регионы зафиксировали профицит бюджета за девять месяцев",
+          "entradilla": "Бюджеты субъектов Федерации (без учета муниципалитетов) показали совокупный профицит по итогам девяти месяцев 2026 г. – 28,5 млрд руб. против прошлогоднего дефицита в 149,3 млрд руб. Положительный результат все еще кратно меньше уровня 2024 г., когда профицит достиг за три квартала 849,1 млрд руб. Э",
+          "enlace": "https://www.vedomosti.ru/economics/articles/2026/11/25/1415011-regioni-zafiksirovali-profitsit-byudzheta"
         },
         {
-          "titulo": "Онлайн-цены зависят от заряда телефона: новости, которые вы могли пропустить",
-          "entradilla": "На этой неделе стало известно, что владельцы криптобирж сами плохо торгуют криптой, японцы выиграли «носочный бунт», американцы запрещают онлайн-магазинам увеличивать ценник на товар, если ваш смартфон вот-вот сядет, а корейцы запретили летать самолетам, чтобы не мешали сдавать экзамен.",
-          "enlace": "https://www.vedomosti.ru/technology/articles/2026/11/21/1413741-mogli-propustit"
+          "titulo": "Минэк планирует изменить критерий новизны для получения льготы на НИОКР",
+          "entradilla": "Минэкономразвития внесло в правительство законопроект с изменениями критериев для получения льготы на научно-исследовательские и опытно-конструкторские работы (НИОКР) и ожидает его скорого принятия. Об этом рассказал первый замминистра экономического развития РФ Максим Колесников в ходе международно",
+          "enlace": "https://www.vedomosti.ru/economics/articles/2026/11/25/1415003-minek-planiruet-izmenit"
         },
         {
-          "titulo": "Эпидемия отгулов, контракты с семьей и атаки хакеров: к чему привел релиз GTA VI",
-          "entradilla": "GTA VI, релиз которой состоялся на этой неделе, окрестили самой долгожданной игрой: геймеры ждали ее 13 лет. За это время вокруг проекта накопилось немало историй – удивительных, невероятных, а порой и печальных. «Ведомости» собрали самые любопытные.",
-          "enlace": "https://www.vedomosti.ru/technology/articles/2026/11/21/1413619-reliz-gta"
+          "titulo": "Суд признал банкротом основное юрлицо сети магазинов «Кораблик»",
+          "entradilla": "Арбитражный суд Москвы 24 ноября признал банкротом ООО «Кораблик-Р» – основное юридическое лицо закрывшейся сети магазинов детских товаров «Кораблик». Процедуру банкротства инициировал один из кредиторов компании. Решение принято по заявлению ЗАО «Крок инкорпорейтед», структуры IT-компании «Крок», с",
+          "enlace": "https://www.vedomosti.ru/business/articles/2026/11/25/1415012-sud-priznal-bankrotom-korablik"
         },
         {
-          "titulo": "На пути к общему рынку: история и устройство ЕАЭС",
-          "entradilla": "18 ноября 2011 г. в Москве президенты Дмитрий Медведев, Александр Лукашенко и Нурсултан Назарбаев подписали Декларацию о евразийской экономической интеграции, положив начало созданию Евразийского экономического союза (ЕАЭС). Через четыре года он официально начал работу, объединив пять стран: Россию,",
-          "enlace": "https://www.vedomosti.ru/spravka/istoriya-eaes"
+          "titulo": "Lamoda планирует открыть порядка 500 ПВЗ в 2027 году",
+          "entradilla": "Интернет-магазин Lamoda планирует открыть порядка 500 пунктов выдачи заказов (ПВЗ) за январь – октябрь 2027 г. По крайней мере это следует из закупки, размещенной 23 ноября на электронной торговой площадке Bidzaar.",
+          "enlace": "https://www.vedomosti.ru/business/articles/2026/11/25/1415009-lamoda-planiruet-otkrit"
         },
         {
-          "titulo": "От мотоцикла к самолету: как Соитиро Хонда превратил неудачи в технопрорыв",
-          "entradilla": "17 ноября 1906 г. в деревне Хамамацу японской префектуры Сидзуока в небогатой семье кузнеца на свет появился мальчик Соитиро Хонда. Благодаря технической жилке и предпринимательской хватке он сумел создать компанию, ставшую мировым лидером в производстве мотоциклов. Чему у основателя Honda можно поу",
-          "enlace": "https://www.vedomosti.ru/auto/articles/2026/11/21/1413410-mototsikla-samoletu"
+          "titulo": "«Новакард» может запустить производство по сборке и корпусированию чипов",
+          "entradilla": "Один из крупнейших российских производителей банковских и сим-карт АО «Новакард» готовит к запуску новую производственную площадку по сборке и инкапсуляции, т. е. заливке защитным материалом кристалла, чипов в Нижнем Новгороде. «Ведомости» обнаружили три вакансии компании, опубликованные в ноябре 20",
+          "enlace": "https://www.vedomosti.ru/technology/articles/2026/11/25/1415006-novakard-mozhet-zapustit-proizvodstvo"
         }
       ],
       "analisis": {
-        "resumen": "- La bolsa de Moscú cayó un 6,19 % en la semana; ninguna acción de su índice principal subió.\n- Una explosión de gas en un edificio de Vladikavkaz dejó dos muertos y dos heridos; también se informa de un ataque a un carguero que se dirigía a Kaliningrado.\n- The New York Times advierte, citando a expertos, del riesgo de fallos en organismos, empresas e infraestructuras por la inteligencia artificial.\n- La portada repasa la historia de la Unión Económica Euroasiática, los hijos de líderes soviéticos y la desaparición del secuestrador aéreo Dan Cooper.\n- Incluye cultura y curiosidades: un documental sobre Elizabeth Holmes, el lanzamiento de GTA VI, noticias internacionales breves y la trayectoria del fundador de Honda.",
-        "populismo": 15,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «epidemia de días libres», «histórica reunión» y «desapareció en el cielo» aportan énfasis y atractivo sensacionalista.",
-        "sesgo": "La selección combina economía y sucesos de Rusia con temas internacionales, históricos y de entretenimiento. No se aprecia un sesgo político partidista claro en los textos facilitados."
+        "resumen": "- El volumen medio de permisos de vivienda para los mayores promotores de Moscú cayó 2,5 veces.\n- El jefe del Partido Comunista en Shanghái es investigado por corrupción.\n- Un partido ruso cambiará a su responsable en Moscú y se retrasa la elección de un senador por la región de Zaporiyia.\n- Cerca de 45.000 veteranos de la operación en Ucrania solicitaron ayuda para encontrar empleo; se plantea ampliar las facultades sancionadoras de la Guardia Nacional.\n- Las regiones registraron superávit presupuestario; también destacan noticias sobre empresas, comercio y medidas para la investigación.",
+        "populismo": 12,
+        "motivo_populismo": "Predomina un lenguaje informativo y basado en datos, aunque «nueva víctima de las purgas» introduce una formulación más dramática.",
+        "sesgo": "La selección se centra en asuntos económicos e institucionales de Rusia, con atención a decisiones oficiales y empresariales. No se aprecia una orientación política explícita en los titulares."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://meduza.io",
       "noticias": [
         {
-          "titulo": "У берегов Ливии атаковано грузовое судно. Возможно, снова российское",
-          "entradilla": "Украинский морской беспилотник атаковал коммерческое судно под флагом Мальты у побережья ливийского города Бенгази, сообщил местный телеканал «Аль-Масар». Он опубликовал в соцсети икс видео, на котором запечатлен момент атаки.",
-          "enlace": "https://meduza.io/news/2026/11/22/u-beregov-livii-atakovano-gruzovoe-sudno-vozmozhno-snova-rossiyskoe"
+          "titulo": "Акции Anthropic упали ниже цены размещения в ходе IPO. Выход на биржу сделал миллионерами около 5000 сотрудников компании",
+          "entradilla": "Акции Anthropic (владельца Claude) торгуются в конце сессии 24 ноября в районе 82 долларов за штуку. Это ниже цены размещения акций в ходе IPO Anthropic, которое состоялось на прошлой неделе — компания продавала инвесторам акции по 83 доллара за штуку.",
+          "enlace": "https://meduza.io/news/2026/11/25/aktsii-anthropic-upali-nizhe-tseny-razmescheniya-v-hode-ipo-vyhod-na-birzhu-sdelal-millionerami-okolo-5000-sotrudnikov-kompanii"
         },
         {
-          "titulo": "Бывшему топ-менеджеру «Интер РАО» Карине Цуркан, получившей 15 лет колонии за шпионаж, заменили наказание на принудительные работы",
-          "entradilla": "Карине Цуркан — бывшему топ-менеджеру энергетической компании «Интер РАО», которая получила 15 лет колонии по делу о шпионаже, — суд заменил оставшуюся часть наказания на принудительные работы. Об этом сообщил ТАСС; решение суда подтвердила «Медиазона».",
-          "enlace": "https://meduza.io/news/2026/11/22/byvshiy-top-menedzher-inter-rao-karina-tsurkan-poluchivshaya-15-let-za-shpionazh-dobilas-zameny-nakazaniya-prinuditelnye-raboty-vmesto-lisheniya-svobody"
+          "titulo": "МИД России пригрозил Латвии приостановить выплату пенсий бывшим советским военным",
+          "entradilla": "МИД России заявил, что не сможет продолжать выплаты пенсий проживающим в Латвии военным пенсионерам, если по требованию властей страны будут уволены сотрудники отдела социального обеспечения при консульском отделе посольства России.",
+          "enlace": "https://meduza.io/news/2026/11/24/mid-rossii-prigrozil-latvii-priostanovit-vyplatu-pensiy-byvshim-sovetskim-voennym"
         },
         {
-          "titulo": "Умер Альберт Иванов, автор сказок о Хоме и Суслике",
-          "entradilla": "Писатель и сценарист Альберт Иванов умер в возрасте 88 лет. О его смерти сообщил Союз писателей России.",
-          "enlace": "https://meduza.io/news/2026/11/22/umer-albert-ivanov-avtor-skazok-o-home-i-suslike"
+          "titulo": "Посещаемость Pornhub в США резко упала после выхода GTA VI",
+          "entradilla": "После выхода игры Grand Theft Auto VI трафик Pornhub снизился на 15,5%, сообщает издание Mashable, которое ознакомилось со статистикой сайта.",
+          "enlace": "https://meduza.io/news/2026/11/24/poseschaemost-pornhub-v-ssha-rezko-upala-posle-vyhoda-gta-vi"
         },
         {
-          "titulo": "«Худший саммит в истории». Главная в мире конференция по климату завершается скандалом: ее участники не смогли согласовать текст ключевого документа",
-          "entradilla": "В Турции подошел к концу главный мировой саммит по климату — 31-я конференция сторон Рамочной конвенции ООН об изменении климата, или просто COP31 (от английского Conference of the Parties to the UNFCCC). Форум длился две недели — с 9 ноября. В нем участвовали делегации из почти 200 государств. И за",
-          "enlace": "https://meduza.io/feature/2026/11/22/hudshiy-sammit-v-istorii"
+          "titulo": "Казахстан хотел тайно этапировать чеченского активиста Мансура Мовлаева в Россию. Он дважды пытался покончить с собой, опасаясь экстрадиции",
+          "entradilla": "Власти Казахстана 24 ноября попытались этапировать чеченского активиста Мансура Мовлаева из СИЗО Алматы в Петропавловск. Адвокатам об этом не сообщили.",
+          "enlace": "https://meduza.io/news/2026/11/24/kazahstan-popytalsya-tayno-etapirovat-chechenskogo-aktivista-mansura-movlaeva-v-rossiyu-on-dvazhdy-pytalsya-pokonchit-s-soboy-opasayas-ekstraditsii"
         },
         {
-          "titulo": "The Washington Post: Путин согласился на гарантии для Украины по аналогии с пятой статьей устава НАТО — но без размещения войск альянса в стране",
-          "entradilla": "Владимир Путин в частном порядке согласился с тем, что после окончания войны Украина может получить гарантии безопасности, аналогичные пятой статье устава НАТО. Об этом сообщил колумнист The Washington Post Дэвид Игнатиус со ссылкой на источник, близкий к переговорам.",
-          "enlace": "https://meduza.io/news/2026/11/22/the-washington-post-putin-soglasilsya-na-garantii-bezopasnosti-dlya-ukrainy-po-analogii-s-pyatoy-statiey-ustava-nato-no-bez-razmescheniya-voysk-alyansa-v-strane"
+          "titulo": "В США выпустили аналог «Оземпика» в виде шоколада",
+          "entradilla": "Американская телемедицинская компания Journi Health выпустила шоколад для снижения веса под названием Melt, сообщает Wired. В его состав входит орфорглипрон — активный ингредиент рецептурного препарата для похудения Foundayo компании Eli Lilly. Компания также производит инъекционный препарат на осно",
+          "enlace": "https://meduza.io/news/2026/11/24/v-ssha-vypustili-analog-ozempika-v-vide-shokolada"
         },
         {
-          "titulo": "Украинские дроны атаковали российский корвет «Меркурий» в порту Бенгази. Он затонул",
-          "entradilla": "В порту ливийского города Бенгази произошел взрыв на российском корвете «Меркурий». Об этом сообщает издание Naval News со ссылкой на источники. Причина взрыва неизвестна.",
-          "enlace": "https://meduza.io/news/2026/11/22/naval-news-v-livii-vzorvalsya-rossiyskiy-voennyy-korabl"
+          "titulo": "Из пользовательского соглашения «Яндекс Браузера» убрали все упоминания об анонимности",
+          "entradilla": "Компания «Яндекс» убрала из пользовательского соглашения своего браузера все упоминания об анонимности, пишет CNews.",
+          "enlace": "https://meduza.io/news/2026/11/24/iz-polzovatelskogo-soglasheniya-yandeks-brauzera-ubrali-vse-upominaniya-ob-anonimnosti"
         },
         {
-          "titulo": "Война. 1733-й день. Украинский оборонный сектор, вероятно, достиг своего потолка. Причины — фрагментарное финансирование, нехватка персонала и российские обстрелы",
-          "entradilla": "«Медуза» с 24 февраля 2022 года в прямом эфире рассказывает о российско-украинской войне. Мы ежедневно публикуем ваши письма, потому что уверены: о войне нужно продолжать говорить. Поделитесь с нами мыслями о войне. Какие чувства вы испытываете? Как война влияет на вашу жизнь и ваше отношение к миру",
-          "enlace": "https://meduza.io/feature/2026/11/22/voyna"
+          "titulo": "Утечка базы Росстата позволила нам заново оценить потери России в войне с Украиной. Погибших — более 700 тысяч человек. Что еще смогли найти журналисты в данных, которые им передали хакеры?",
+          "entradilla": "На войне с Украиной погибли не менее 700 тысяч военнослужащих ВС РФ. К такому выводу пришли журналисты «Медузы» и «Медиазоны», используя данные, полученные в результате взлома базы Росстата хакерами из группировки «Киберпартизаны Беларуси» и Silent Crow. Эта оценка впервые включает в себя людей из к",
+          "enlace": "https://meduza.io/feature/2026/11/24/utechka-bazy-rosstata-pozvolila-otsenit-poteri-rossii-v-voyne-s-ukrainoy-a-chto-stalo-izvestno-esche"
         },
         {
-          "titulo": "Ким Чен Ын не отвечает на письма и звонки Трампа. Хотя еще несколько лет назад президент США говорил, что они с лидером КНДР «влюбились» друг в друга",
-          "entradilla": "Дональд Трамп на этой неделе провел важные переговоры с Си Цзиньпином и Владимиром Путиным. Но так и не смог добиться встречи с руководителем Северной Кореи Ким Чен Ыном. Президент США не оставляет надежды убедить его в отказе от развития ядерной программы еще со своего первого срока в Белом доме — ",
-          "enlace": "https://meduza.io/feature/2026/11/22/kim-chen-yn-ne-otvechaet-na-pisma-i-zvonki-trampa-hotya-esche-neskolko-let-nazad-prezident-ssha-govoril-chto-oni-s-liderom-kndr-vlyubilis-drug-v-druga"
+          "titulo": "Ватикан опубликовал дневники папы Франциска. В них он рассказывает, что трижды видел дьявола",
+          "entradilla": "В Ватикане опубликовали личные дневники папы римского Франциска, умершего в апреле 2025 года. Как отмечает Reuters, это первая подобная публикация с 1963 года — большинство понтификов завещали уничтожить свои личные записи после своей смерти.",
+          "enlace": "https://meduza.io/news/2026/11/24/vatikan-opublikoval-dnevniki-papy-frantsiska-v-nih-on-rasskazyval-chto-trizhdy-videl-dyavola"
         },
         {
-          "titulo": "Пять человек пострадали при атаке украинских дронов на Краснодарский край. Astra писала о возможном ударе по зданию Росгвардии",
-          "entradilla": "В поселке Афипский и станице Медведовской в результате «падения обломков БПЛА» повреждены частные дома. Пострадали пять человек, сообщил оперативный штаб Краснодарского края.",
-          "enlace": "https://meduza.io/news/2026/11/22/pyat-chelovek-postradali-pri-atake-ukrainskih-dronov-na-krasnodarskiy-kray-astra-pisala-o-vozmozhnom-udare-po-zdaniyu-rosgvardii"
+          "titulo": "Футбольную сборную Сенегала (опять) признали победителем Кубка Африки — 2025. Спортивный арбитраж отменил техническое поражение от Марокко",
+          "entradilla": "Спортивный арбитражный суд (CAS) вернул титул победителя Кубка африканских наций 2025 года футбольной сборной Сенегала, лишив победы сборную Марокко. Текст решения по жалобе федерации футбола Сенегала опубликован на сайте CAS (.pdf).",
+          "enlace": "https://meduza.io/news/2026/11/24/futbolnuyu-sbornuyu-senegala-opyat-priznali-pobeditelem-kubka-afriki-2025-sportivnyy-arbitrazh-otmenil-tehnicheskoe-porazhenie-ot-marokko"
         },
         {
-          "titulo": "«Голодные игры: Рассвет жатвы» Фрэнсиса Лоуренса: шестой фильм франшизы — слишком похожий на все предыдущие",
-          "entradilla": "«Голодные игры» — неоспоримо полезная франшиза. Внятно и увлекательно объяснить подросткам, в чем опасность тоталитаризма, и при этом совместить антиутопическую модель с древнеримской имперской атрибутикой — достойная задача. Отвечающий за большинство серий Фрэнсис Лоуренс — весьма техничный режиссе",
-          "enlace": "https://meduza.io/feature/2026/11/22/golodnye-igry-rassvet-zhatvy-frensisa-lourensa-shestoy-film-franshizy-slishkom-pohozhiy-na-vse-predyduschie"
+          "titulo": "На этой волне можно послушать русский рок — и инструкции о том, как сдаться в плен. The New York Times рассказала, как украинские военные ведут психологическую войну в радиоэфире",
+          "entradilla": "Силы специальных операций (ССО) украинской армии располагают сетью радиопередатчиков, с помощью которых ведут психологическую войну против российских военных. Передатчики транслируют разные программы с учетом обстановки на конкретном участке фронта. По содержанию эти программы напоминают эфир местны",
+          "enlace": "https://meduza.io/feature/2026/11/24/na-etoy-volne-mozhno-poslushat-russkiy-rok-i-instruktsii-o-tom-kak-sdatsya-v-plen"
         },
         {
-          "titulo": "Трамп опять назвал Путина «другом». И перепутал Ялтинскую конференцию с Тегеранской",
-          "entradilla": "Президент США Дональд Трамп опубликовал в своей соцсети Truth Social серию изображений, посвященных его недавней встрече с руководителями Китая и России Си Цзиньпином и Владимиром Путиным в китайском Шэньчжэне.",
-          "enlace": "https://meduza.io/news/2026/11/22/tramp-opyat-nazval-putina-drugom-i-pereputal-yaltinskuyu-konferentsiyu-s-tegeranskoy"
+          "titulo": "Андрея Чибиса поставили руководить «арктическим форпостом», а спустя семь лет арестовали за вывод бюджетных средств за рубеж. Рассказываем, как лояльный Кремлю глава Мурманской области подчинил себе регион, но не смог удержать власть",
+          "entradilla": "23 ноября силовики задержали мурманского губернатора Андрея Чибиса прямо у трапа самолета в московском аэропорту Шереметьево: чиновник прилетел в Москву с рабочим визитом. Он стал первым за время войны действующим главой региона, против которого было возбуждено уголовное дело — по статьям о мошеннич",
+          "enlace": "https://meduza.io/feature/2026/11/24/andreya-chibisa-postavili-rukovodit-arkticheskim-forpostom-a-spustya-sem-let-arestovali-za-vyvod-byudzhetnyh-sredstv-za-rubezh"
         },
         {
-          "titulo": "Она переехала в Германию, чтобы работать няней, — а в итоге запустила курсы для русскоязычных детей (и смогла убедить местные власти, что это действительно нужно). Анкета эмигранта: Александра Коноплева из Ганновера",
-          "entradilla": "Новая героиня рубрики «Анкета эмигранта» — Александра Коноплева, которая уже почти 14 лет живет в Германии. В России Александра работала в детском саду, школе и летних лагерях, а в Германию переехала как няня по программе Au Pair. Здесь она окончила магистратуру (хотя не понимала, что ей говорят на ",
-          "enlace": "https://meduza.io/feature/2026/11/22/ona-pereehala-v-germaniyu-chtoby-rabotat-nyaney-a-v-itoge-zapustila-kursy-dlya-russkoyazychnyh-detey-i-smogla-ubedit-mestnye-vlasti-chto-eto-deystvitelno-nuzhno"
+          "titulo": "Хакера, слившего ролики из GTA VI до релиза, приговорили к семи годам и сразу освободили",
+          "entradilla": "Суд в Великобритании приговорил 21-летнего Ариона Куртая к семи годам тюрьмы за серию кибератак на крупные компании, среди которых Uber, Revolut и Rockstar Games. С учетом времени, проведенного под арестом, его освободили в зале суда.",
+          "enlace": "https://meduza.io/news/2026/11/24/hakera-slivshego-roliki-iz-gta-vi-do-reliza-prigovorili-k-semi-godam-kolonii-i-srazu-osvobodili"
         }
       ],
       "analisis": {
-        "resumen": "- Ataques frente a Libia: un buque comercial fue alcanzado y se informó de una explosión en la corbeta rusa «Mercurio».\n- La guerra en Ucrania ocupa varias noticias, entre ellas un ataque con cinco heridos en Krasnodar y las dificultades del sector de defensa ucraniano.\n- Según The Washington Post, Putin aceptó en privado posibles garantías de seguridad para Ucrania; también se destacan las relaciones de Trump con otros dirigentes.\n- La cumbre climática COP31 termina sin acuerdo sobre un documento clave.\n- Una exdirectiva de Inter RAO pasa de prisión a trabajos forzados; la portada incluye además noticias culturales y la historia de una emigrante en Alemania.",
-        "populismo": 20,
-        "motivo_populismo": "Predomina el tono informativo, aunque expresiones como «el peor cónclave de la historia» y «termina en escándalo» aportan dramatismo y sensacionalismo.",
-        "sesgo": "La selección prioriza la guerra en Ucrania y la política internacional, con atención también a sus consecuencias en Rusia. En la noticia sobre la corbeta «Mercurio», el titular atribuye el ataque a drones ucranianos y afirma que el buque se hundió, mientras que el texto facilitado señala que se desconoce la causa de la explosión."
+        "resumen": "- Una investigación de Meduza y Mediazona estima en más de 700.000 los militares rusos muertos en la guerra de Ucrania; otra noticia aborda la guerra psicológica ucraniana por radio.\n- Kazajistán intentó trasladar al activista checheno Mansur Movláyev, que teme ser extraditado a Rusia. Rusia amenaza con suspender pensiones a exmilitares soviéticos en Letonia.\n- El gobernador de Múrmansk, Andréi Chibis, fue detenido por un presunto caso de desvío de fondos. Yandex retiró las menciones a la anonimidad del acuerdo de su navegador.\n- Las acciones de Anthropic cayeron por debajo de su precio de salida a bolsa. Otras noticias tratan sobre un chocolate para adelgazar y los diarios del papa Francisco.\n- La portada también recoge la restitución del título africano de fútbol a Senegal, la caída del tráfico de Pornhub tras el lanzamiento de GTA VI y la condena y liberación de un hacker relacionado con el videojuego.",
+        "populismo": 25,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «quería trasladar en secreto» o «sometió la región» y la selección de detalles impactantes añaden dramatismo.",
+        "sesgo": "La selección presta atención a la guerra y a actuaciones controvertidas de las autoridades rusas, con un enfoque crítico hacia el poder ruso. También combina esas noticias con temas económicos, tecnológicos y de entretenimiento."
       }
     }
   ]
