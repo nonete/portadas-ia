@@ -1,39 +1,39 @@
 {
   "pais": "Alemania",
-  "fecha": "2026-11-24",
+  "fecha": "2026-11-25",
   "turno": 14,
-  "generado": "24/11/2026 22:55",
+  "generado": "25/11/2026 22:02",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "Los asuntos más repetidos son la expulsión de Vanessa Emde del grupo de La Izquierda en Berlín y la guerra en Ucrania, incluidas sus pérdidas y el apoyo militar alemán. También aparecen el fútbol, la violencia contra las mujeres y Nvidia. Solo Die Welt destaca la decisión del Instituto Goethe de dejar de utilizar el asterisco de género en sus comunicaciones.",
-    "crispacion": 68,
-    "motivo_crispacion": "La expulsión de Emde concentra la tensión entre La Izquierda, sus partidarios y los posibles socios de coalición en Berlín. La guerra en Ucrania, el debate sobre la ayuda militar alemana y las discrepancias presupuestarias entre la Unión y los Verdes añaden enfrentamiento político. También destacan el ataque contra una oficina de los Verdes y las noticias sobre violencia contra las mujeres. Las informaciones deportivas y culturales compensan parcialmente ese panorama."
+    "temas": "La reforma de las pensiones aparece en Süddeutsche Zeitung, Die Welt y Der Spiegel. También se repiten las noticias sobre Rusia y Putin, la violencia contra las mujeres, los nuevos aranceles estadounidenses y la misión espacial contra asteroides. Süddeutsche Zeitung y Die Welt informan del presunto abuso de una menor, mientras que Die Welt y Der Spiegel recuerdan a la modelo Veruschka. Solo Bild destaca el incendio mortal causado por la explosión de un camión de gas en Egipto.",
+    "crispacion": 58,
+    "motivo_crispacion": "La crispación es notable por las discrepancias entre la Unión y el SPD sobre las pensiones y la reforma fiscal, con críticas directas al canciller. En el plano internacional, las noticias sobre Rusia, la guerra y los nuevos aranceles estadounidenses reflejan tensiones militares y comerciales. La violencia contra las mujeres y el presunto abuso de una menor añaden preocupación social. En contraste, las informaciones sobre la misión espacial, la cultura y el deporte ofrecen asuntos menos conflictivos."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Veo una lucha de clases detrás de la discusión presupuestaria: se anuncia que habrá que ahorrar, mientras se cuestionan las subvenciones a los multimillonarios. Yo no acepto que los servicios públicos paguen la factura de una economía organizada para proteger grandes fortunas. La deuda no puede ser una excusa para recortar derechos; hay que gravar la riqueza y poner la inversión al servicio de la mayoría.\n\nTambién me preocupa que la semana de 35 horas esté en cuestión en la industria automovilística. La jornada reducida es una conquista de quienes trabajan, no un privilegio que deba sacrificarse cuando convenga al capital. Defiendo una industria bajo propiedad colectiva y control democrático de las trabajadoras y los trabajadores: producir debe significar garantizar empleo, tiempo de vida y bienestar social, no solo beneficios privados."
+      "texto": "Veo en el debate alemán sobre las pensiones una pregunta de clase: ¿quién debe pagar el coste de la vejez? La Unión propone mantener la jubilación anticipada sin recortes para quienes tienen ingresos bajos tras 45 años de cotización. Es preferible a eliminarla para todos, pero convertir un derecho en una excepción deja a demasiados trabajadores a merced de futuros recortes. Yo defiendo pensiones públicas suficientes y una jubilación digna para toda la clase trabajadora, financiadas también por quienes concentran la riqueza.\n\nLa discusión fiscal apunta al mismo conflicto: mientras se retrasa el alivio para los trabajadores, se exigen cambios laborales. Y los bajos niveles de reservas de gas recuerdan que la seguridad energética no debería depender de la lógica del beneficio. Defiendo la propiedad colectiva de las infraestructuras esenciales y servicios públicos fuertes, bajo control democrático, frente al poder del gran capital."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "Hoy leo que aumentan los casos registrados de violencia contra las mujeres y que sigue faltando protección. No creo que baste con reformar una ley: una sentencia llega tarde para quien necesita salir de casa con seguridad. Defiendo redes de apoyo mutuo, refugios accesibles y recursos gestionados por las propias comunidades, sin convertir la autonomía de las supervivientes en una concesión de las autoridades.\n\nTambién veo que la expulsión de una diputada de la fracción de La Izquierda despeja el camino hacia una coalición berlinesa. Un grupo puede y debe responder por las posiciones que representa; pero no confundo esa decisión con una transformación social. Cuando la política se reduce a condiciones para gobernar, la libertad colectiva queda subordinada al reparto de poder. Prefiero organizaciones horizontales donde podamos decidir y actuar sin entregar nuestra voz a una jerarquía."
+      "texto": "La propuesta de conservar la jubilación anticipada sin recortes para quienes tienen ingresos bajos y 45 años de cotización puede evitar daños, pero deja intacta una pregunta: ¿por qué debemos esperar a que los partidos decidan cuánto descanso merecemos después de trabajar? Yo defiendo una vejez digna para todas las personas, no condicionada por una vida laboral que a menudo excluye cuidados y empleos precarios. La autogestión y el apoyo mutuo pueden fortalecer esa seguridad, sin convertir la solidaridad en una excusa para recortar derechos.\n\nTambién me preocupa la presunta vigilancia del teléfono de una portavoz de Sea-Watch. Rescatar vidas no debería someter a nadie al espionaje. Frente a la violencia y al poder que se concentra, prefiero comunidades capaces de cuidarse y decidir juntas, sin renunciar a la libertad de cada persona."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "Me preocupa que Alemania supere los límites europeos de nueva deuda mientras aplaza las decisiones sobre el gasto. La factura no desaparece porque Bruselas no abra todavía un procedimiento: la asumirán los contribuyentes. Prefiero un Estado más limitado, que revise sus prioridades y elimine subvenciones injustificadas, a uno que financie sus compromisos con deuda y mantenga impuestos elevados. Las reclamaciones tributarias que afrontan algunos herederos de inmuebles también merecen revisión: heredar una propiedad no equivale necesariamente a disponer de efectivo.\n\nLos cursos de formación subvencionados que cuestan más que los mismos cursos para particulares ilustran otro riesgo: cuando paga un tercero, hay menos presión para contener los precios. Exigir transparencia y responsabilidad por el dinero público no es abandonar a quienes necesitan ayuda; es respetarlos, junto con la libertad de quienes lo ganaron."
+      "texto": "Hoy veo una contradicción: mientras Alemania discute cómo aliviar el impuesto sobre la renta, la reforma se atasca. Yo prefiero que quienes trabajan conserven más de lo que ganan. Eso exige un Estado más limitado y un gasto revisado con rigor, no promesas de rebajas sin financiación.\n\nLa propuesta de mantener la jubilación anticipada sin recortes para trabajadores con ingresos bajos reconoce una dificultad real. Pero cualquier excepción debe evaluarse por su coste y por la carga que trasladará a quienes cotizan. La solidaridad necesita reglas sostenibles y espacio para que cada persona planifique su futuro.\n\nTambién rechazo los nuevos aranceles estadounidenses: proteger a sectores elegidos mediante barreras comerciales perjudica la libertad de intercambio. La competencia y la responsabilidad individual ofrecen mejores incentivos que una economía dirigida por decisiones políticas."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Veo un país cuyas prioridades necesitan una corrección. La mayoría rechaza, según una encuesta, el apoyo militar a Ucrania; el Gobierno debería escucharla y explicar qué compromisos sirven realmente a la seguridad alemana. La paz importa, pero no puede depender de decisiones tomadas lejos de nuestros ciudadanos. También me preocupa que Europa dependa de infraestructuras espaciales privadas vulnerables: la soberanía exige capacidad propia para proteger servicios esenciales.\n\nEn casa, las noticias sobre violencia contra las mujeres recuerdan que la primera obligación del Estado es proteger a quienes viven bajo sus leyes. Quiero justicia eficaz, seguridad y recursos para las víctimas, no debates simbólicos que sustituyan resultados. Por eso celebro que el Goethe-Institut abandone el asterisco de género: nuestras instituciones deben cuidar una lengua compartida, no convertirla en campo de experimentación ideológica."
+      "texto": "La política debe volver a servir a quienes sostienen Alemania con su trabajo. Mantener la jubilación anticipada sin recortes para quienes tienen ingresos bajos y han cotizado 45 años es una cuestión de justicia. Pero no basta con anunciar compromisos: quiero una reforma que garantice las pensiones sin cargar irresponsablemente el coste sobre las generaciones futuras.\n\nLa escasez de gas en Baviera y los nuevos aranceles estadounidenses muestran por qué la soberanía no es una consigna vacía. Necesitamos asegurar nuestra energía y defender nuestra industria, sin confiar ciegamente en decisiones ajenas. También creo que el Estado debe controlar estrictamente la inmigración y proteger sus fronteras; eso no justifica espiar ilegalmente a nadie, tampoco a una portavoz de rescate marítimo. Una nación libre necesita leyes firmes, instituciones responsables y respeto por sus propias tradiciones."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "La exclusión de Vanessa Emde del grupo parlamentario de La Izquierda despeja un obstáculo para formar Gobierno en Berlín. Me parece razonable que una posible coalición exija claridad ante declaraciones hostiles hacia Israel. Pero gobernar requiere algo más que resolver una disputa interna: SPD, Verdes y La Izquierda deberán acordar prioridades y responder juntos ante los ciudadanos.\n\nTambién me preocupa que la mayoría de los alemanes encuestados rechace la ayuda militar a Ucrania. Entiendo el cansancio, pero una paz duradera no puede construirse presionando solo al país invadido. Los dirigentes deben explicar mejor los costes y objetivos de su apoyo.\n\nEn casa, el riesgo de un procedimiento europeo por déficit exige responsabilidad, no recortes indiscriminados. Yo defendería revisar subvenciones y gastos ineficaces, preservando la protección social y las inversiones necesarias para una economía competitiva."
+      "texto": "Creo que la oferta de la Unión para mantener la jubilación anticipada sin recortes a quienes tienen ingresos bajos y 45 años de cotización merece una negociación seria. Una reforma sostenible no debería ignorar que prolongar la vida laboral pesa de manera desigual. Pero tampoco basta con proteger a un grupo: el acuerdo debe explicar cómo se financiará y qué supondrá para las generaciones futuras.\n\nEl bloqueo de la reforma fiscal muestra el riesgo contrario: convertir cada desacuerdo en una prueba de fuerza. Prefiero alivios para los trabajadores compatibles con unas cuentas públicas responsables, y cambios laborales debatidos por sus propios méritos. Los nuevos aranceles estadounidenses añaden presión sobre la industria europea; responder exige defender el comercio y ayudar a los trabajadores a adaptarse, no abandonar ni el mercado ni la protección social."
     }
   ],
   "periodicos": [
@@ -42,71 +42,71 @@
       "web": "https://www.sueddeutsche.de",
       "noticias": [
         {
-          "titulo": "Berlin: Links ist an Vanessa Emde nichts",
-          "entradilla": "Es ist richtig, dass die Partei, die künftig die Regierende Bürgermeisterin stellen will, diese Abgeordnete aus ihrer Fraktion ausschließt. Zu diesem Kraftakt darf man gratulieren - und noch einen Wunsch äußern.",
-          "enlace": "https://www.sueddeutsche.de/meinung/vanessa-emde-linke-berlin-kommentar-li.3585568"
+          "titulo": "Bundespolitik: Kompromissvorschlag aus der Union: Bleibt „Rente mit 63“ für Geringverdiener?",
+          "entradilla": "Die Abschaffung der abschlagsfreien Frührente nach 45 Beitragsjahren ist Teil der Vorschläge der Rentenkommission. Kanzler Merz möchte die Rentenreform noch vor Weihnachten im Kabinett verabschieden.",
+          "enlace": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-rente-mit-63-rentenreform-union-spd-kompromissvorschlag-li.3580621"
         },
         {
-          "titulo": "Newsblog zu den Landtagswahlen: Berliner SPD-Vorsitzende: „Gut, dass die Linke jetzt für Klarheit gesorgt hat“",
-          "entradilla": "Steffen Krach und Bettina König begrüßen den Ausschluss Emdes aus der Linken-Fraktion. Für Krach ist dieser eine der Bedingungen für ein Zustandekommen einer rot-grün-roten Koalition.",
-          "enlace": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-emde-fraktion-ausschluss-spd-krach-koenig-koalition-li.3540501"
+          "titulo": "Jugendliche unter Verdacht: 13-Jährige über Monate sexuell missbraucht",
+          "entradilla": "Im fränkischen Schweinfurt sollen sieben Jugendliche mehr als ein Jahr lang am Missbrauch einer Schülerin beteiligt gewesen sein. Es gibt Razzien, in U-Haft kommt aber niemand.",
+          "enlace": "https://www.sueddeutsche.de/bayern/schweinfurt-missbrauch-jugendliche-polizei-unterfranken-li.3586286"
         },
         {
-          "titulo": "Javokhir Sindarov bei der Schach-WM: Eine Karriere in Lichtgeschwindigkeit",
-          "entradilla": "Javokhir Sindarov eilte zuletzt von einem Höhepunkt zum nächsten, da wäre der Titel bei der Schach-WM nur folgerichtig. Oder kommt das alles nicht viel zu früh?",
-          "enlace": "https://www.sueddeutsche.de/sport/schach-wm-2026-sindarov-gukesh-gegner-weltmeister-li.3584456"
+          "titulo": "Prozess um Vorteilsnahme im Amt: Champagner, Wiesn-Markerl und Spenden angenommen: Keine Pensionsansprüche mehr für Ex-Polizeichef aus Grünwald",
+          "entradilla": "Er war der lässige „Hubert-ohne-Staller-Typ“, doch Sach- und Geldspenden führten zu seiner Suspendierung. Vor dem Bayerischen Verwaltungsgerichtshof scheitert der ehemalige Polizist nun im Berufungsverfahren.",
+          "enlace": "https://www.sueddeutsche.de/muenchen/muenchen-gruenwald-ex-polizeichef-prozess-vorteilsnahme-li.3583824"
         },
         {
-          "titulo": "Regierungsbildung in Berlin: Ende für Emde – Linksfraktion schließt Abgeordnete aus",
-          "entradilla": "Auf dem Weg zur ersten Linken-Bürgermeisterin in Berlin kann Elif Eralp einen wichtigen Erfolg verbuchen. Die wegen ihrer radikalen Positionen umstrittene Abgeordnete Emde fliegt aus der Fraktion.",
-          "enlace": "https://www.sueddeutsche.de/politik/linke-berlin-koalitionsverhandlungen-vanessa-emde-elif-eralp-li.3585338"
+          "titulo": "Jamal Musiala und der FC Bayern: Die neue Chronik eines beispiellosen Falls",
+          "entradilla": "Der FC Bayern macht öffentlich, wann Jamal Musiala erstmals wegen einer Absence medizinisch untersucht wurde: vor 19 Monaten. Das wirft auf manchen Vorgang seit dem April 2025 ein neues Licht.",
+          "enlace": "https://www.sueddeutsche.de/sport/fc-bayern-jamal-musiala-absence-zeitpunkt-reaktionen-li.3585983"
         },
         {
-          "titulo": "Dokumentarfilm: Der wahre Ort zum Fürchten",
-          "entradilla": "True Crime, diesmal ohne Entschuldigung: Die Dokumentation „Mein Mann, mein Mörder – Wegsehen tötet“ lenkt endlich den Blick auf  den Schauplatz der meisten Gewaltverbrechen gegen Frauen.",
-          "enlace": "https://www.sueddeutsche.de/medien/true-crime-mein-mann-mein-moerder-lena-leonhardt-friedrich-b-brian-wyant-ashley-steinberg-li.3579023"
+          "titulo": "Fußball-Weltverband Fifa: Warum das Urteil zum Afrika-Cup Auswirkungen auf die Präsidentschaftswahl hat",
+          "entradilla": "Fifa-Präsident Gianni Infantino setzt für seine Wiederwahl auf eine geschlossene Zustimmung aus Afrika. Doch nicht nur das Urteil zum Afrika-Cup-Finale zeigt, dass die Lage viel komplizierter ist.",
+          "enlace": "https://www.sueddeutsche.de/sport/fifa-gianni-infantino-afrika-stimmen-africa-cup-li.3585959"
         },
         {
-          "titulo": "Commerzbank/Unicredit: Kanzlei wittert Absprachen bei Commerzbank-Übernahme",
-          "entradilla": "Sie haben bereits die Deutsche Bank das Fürchten gelehrt: Jetzt nimmt sich die Kanzlei Bayer Krauss Hüber die Unicredit vor. Sie prüft, ob sich die Mailänder bei der Commerzbank-Übernahme unzulässigerweise mit zwei Investmentbanken abgestimmt haben.",
-          "enlace": "https://www.sueddeutsche.de/wirtschaft/commerzbank-unicredit-uebernahme-jefferies-nomura-li.3585250"
+          "titulo": "„GTA 6“: Gegen Lucia verlieren alle anderen Frauen",
+          "entradilla": "Sie ist die erste weibliche Hauptperson der „Grand Theft Auto“-Spielereihe. Aber besiegt das Game mit Lucia Caminos wirklich den eigenen Sexismus?",
+          "enlace": "https://www.sueddeutsche.de/kultur/gta-6-gegen-lucia-verlieren-alle-frauen-li.3584886"
         },
         {
-          "titulo": "Champions League: Ach so: In Lille müssen die Bayern übrigens Fußball spielen",
-          "entradilla": "Während sich der Machtkampf um Jamal Musialas Vertrag weiter zuspitzt, hat der FC Bayern ein Champions-League-Spiel ohne Stürmer zu bestreiten. Trainer Vincent Kompany muss kreativ werden.",
-          "enlace": "https://www.sueddeutsche.de/sport/fc-bayern-lille-kane-verletzte-musiala-li.3585218"
+          "titulo": "Vier Wochen nach dem Brand: Kehlsteinhaus: Ruine im Schnee",
+          "entradilla": "Vier Wochen, nachdem Hitlers einstiges Teehaus bis auf die Grundmauern niedergebrannt ist, schützt ein massives Notdach die rußigen Reste vor dem hereinbrechenden Winter. Wie genau es am Kehlstein weitergehen soll, muss das Kabinett beschließen.",
+          "enlace": "https://www.sueddeutsche.de/bayern/kehlsteinhaus-brand-berchtesgaden-adolf-hitler-wiederaufbau-li.3585834"
         },
         {
-          "titulo": "Wettrüsten im Weltraum: Gestörte Verbindung: Wenn plötzlich russische Soldaten durchs Kinderfernsehen laufen",
-          "entradilla": "Angriffe auf Satelliten können bisweilen skurrile Folgen haben. Der ernsthafte Hintergrund aber ist: Wer schützt eigentlich die private Weltraum-Infrastruktur, die auch Europas Streitkräfte nutzen?",
-          "enlace": "https://www.sueddeutsche.de/politik/satelliten-russland-stoerfall-sabotage-hybrider-krieg-li.3583094"
+          "titulo": "Iranische Sängerin Parastoo Ahmadi: „Wenn mein Blut vergossen wird, ist es der Preis für die Befreiung aus dieser Knechtschaft“",
+          "entradilla": "Die 29-jährige Künstlerin ist ausgepeitscht worden – mit 74 Hieben. Es ist eine Strafe, die in ihrer Brutalität bestens passt zu diesem Regime, das sich am allermeisten vor seinem eigenen Volk fürchtet.",
+          "enlace": "https://www.sueddeutsche.de/politik/parastoo-ahmadi-iran-74-peitschenhiebe-li.3585860"
         },
         {
-          "titulo": "Krieg in der Ukraine: Selenskij: USA wollen Friedensschluss mit Russland bis Januar",
-          "entradilla": "Auch er wünsche sich Frieden für sein Land, doch die Forderungen an ukrainische Zugeständnisse dürften nicht zu weit gehen. Laut Welthungerhilfe ist jeder zehnte Ukrainer unterernährt.",
-          "enlace": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-frieden-russland-usa-forderungen-li.3571967"
+          "titulo": "Trauerfeier für Michael Well: Gerhard Polt: „Da ist noch so viel Michael da“",
+          "entradilla": "Hunderte Trauergäste nehmen in Ascholding Abschied vom Musiker und Volkstänzer Michael Well. Gerhard Polt hilft sich mit Humor, die „Toten Hosen“ schweigen erschüttert, Bruder Stofferl und die Familie lassen die Musik sprechen.",
+          "enlace": "https://www.sueddeutsche.de/bayern/michael-well-trauerfeier-ascholding-gerhard-polt-volksmusik-li.3584957"
         },
         {
-          "titulo": "Friedrich Merz: Ein Kanzler muss verhandeln können",
-          "entradilla": "An diesem Mittwoch ist Generaldebatte im Bundestag. Der Regierungschef hält besser eine gute statt eine mittelmäßige Rede.  Vor allem aber sollte er endlich zum Handwerker der Macht werden.",
-          "enlace": "https://www.sueddeutsche.de/meinung/friedrich-merz-generaldebatte-bundestag-kommentar-li.3582968"
+          "titulo": "Gewalt gegen Frauen: „Es ist absurd, dass der Wert des weiblichen Geschlechts noch zur Diskussion steht“",
+          "entradilla": "Gewalt gegen Frauen nimmt in Deutschland zu. Mit einer Ausstellung machen Schülerinnen und Schüler der Berufsschulen in Riem auf das gesellschaftliche Problem aufmerksam – und identifizieren eine Hauptquelle für den Hass.",
+          "enlace": "https://www.sueddeutsche.de/muenchen/muenchen-gewalt-gegen-frauen-schule-aktion-femizide-schuhe-orange-li.3568129"
         },
         {
-          "titulo": "Haushalt: Deutschland entgeht knapp einer Schulden-Rüge aus Brüssel",
-          "entradilla": "Die Neuverschuldung liegt über den EU-Grenzwerten. Konsequenzen hat das vorerst nicht, die Europäische Kommission lässt die Bundesregierung in Ruhe – doch im neuen Jahr droht ein Defizitverfahren.",
-          "enlace": "https://www.sueddeutsche.de/wirtschaft/schulden-eu-deutschland-haushalt-defizit-li.3585011"
+          "titulo": "Litauen: Ehepaar findet verschollenes Gemälde auf der Straße",
+          "entradilla": "1939 wurde das Bild für die Weltausstellung geschaffen, dann verschwand es für ungefähr 86 Jahre. Nun lag es zusammengefaltet neben ein paar Müllcontainern.",
+          "enlace": "https://www.sueddeutsche.de/panorama/litauen-vilnius-gemaelde-sensationsfund-1939-li.3585956"
         },
         {
-          "titulo": "Geldanlage: Was steckt hinter dem Auf und Ab an den Börsen?",
-          "entradilla": "Die weltweiten Aktienmärkte haben unruhige Tage hinter sich. Insbesondere Tech-Werte schwanken stark. Was das mit Nvidia-Chef Jensen Huang zu tun hat. Und wie Anleger reagieren sollten.",
-          "enlace": "https://www.sueddeutsche.de/wirtschaft/ki-aktien-boerse-tech-werte-kursverluste-anleger-huang-li.3584677"
+          "titulo": "Kolumbien: Zehn Jahre nach dem Ende der Farc gehören Kämpfe wieder zum Alltag",
+          "entradilla": "Nach dem historischen Friedensvertrag legten nicht alle Gruppen die Waffen nieder, Kolumbiens Regierung stellt die Vereinbarung inzwischen infrage. Was sagen eine ehemalige Farc-Kämpferin und die Mutter eines Vermissten dazu?",
+          "enlace": "https://www.sueddeutsche.de/politik/kolumbien-friedensvertrag-farc-gewalt-li.3584887"
         }
       ],
       "analisis": {
-        "resumen": "- Berlín: La Izquierda expulsa de su grupo parlamentario a Vanessa Emde, en medio de las negociaciones para formar Gobierno; dirigentes de la SPD celebran la decisión.\n- Ucrania: Zelenski afirma que Estados Unidos quiere un acuerdo de paz con Rusia antes de enero y advierte sobre las concesiones exigidas a Ucrania.\n- Alemania y la UE: un artículo pide más capacidad negociadora al canciller Merz; la Comisión Europea no sanciona por ahora el exceso de deuda alemana.\n- Economía y seguridad: se examinan posibles acuerdos indebidos en la operación de Commerzbank y Unicredit, la volatilidad bursátil y la protección de satélites.\n- Cultura y deporte: una película aborda la violencia contra las mujeres; también destacan la trayectoria ajedrecística de Sindarov y el partido del Bayern en Lille.",
+        "resumen": "- La Unión propone un compromiso sobre la jubilación anticipada para personas con ingresos bajos; Merz quiere aprobar la reforma de las pensiones antes de Navidad.\n- Siete jóvenes son sospechosos de participar durante más de un año en el abuso sexual de una alumna de 13 años en Schweinfurt.\n- Un exjefe de policía pierde sus derechos de pensión tras aceptar regalos y donaciones; también se informa sobre los avances médicos relativos a Jamal Musiala.\n- La portada aborda la violencia contra las mujeres, el castigo a la cantante iraní Parastoo Ahmadi y la persistencia de los combates en Colombia.\n- Entre otros temas figuran el futuro del Kehlsteinhaus tras el incendio, el funeral de Michael Well, un cuadro hallado en Lituania y el papel de la protagonista de GTA 6.",
         "populismo": 25,
-        "motivo_populismo": "Hay expresiones enfáticas como «carrera a la velocidad de la luz», «vuela del grupo» y «el verdadero lugar para temer», pero no se aprecia una apelación al pueblo contra las élites.",
-        "sesgo": "La portada concede especial atención a la política berlinesa y presenta la expulsión de Emde de forma favorable en un artículo de opinión, además de recoger el respaldo de dirigentes socialdemócratas. También combina información con enfoques valorativos sobre el canciller y un documental."
+        "motivo_populismo": "Predomina un tono informativo, aunque hay expresiones enfáticas como «un caso sin precedentes» y una caracterización muy contundente del régimen iraní, que contrastan con la redacción más sobria de otros titulares.",
+        "sesgo": "La selección presta atención a problemas sociales, abusos y violencia contra las mujeres. En la noticia sobre Irán, la redacción adopta una postura claramente crítica hacia el régimen; otras piezas plantean enfoques interpretativos sobre el sexismo y las instituciones deportivas."
       }
     },
     {
@@ -114,71 +114,71 @@
       "web": "https://www.welt.de",
       "noticias": [
         {
-          "titulo": "Goethe-Institut nutzt künftig keine Gendersternchen mehr in Kommunikation",
-          "entradilla": "Aus für das Gendersternchen in der Kommunikation der Goethe-Institute: Ein neuer, jüngst in Kraft getretener Rahmenvertrag regelt, künftig darauf zu verzichten. Intern sorgte das schon vorher für Unmut.",
-          "enlace": "https://www.welt.de/politik/deutschland/article6b05fffb6197c358f99fc6d4/goethe-institut-nutzt-kuenftig-keine-gendersternchen-mehr-in-kommunikation.html"
+          "titulo": "Laimer und Pavlovic stürmen, Upamecano trifft – FC Bayern führt in Lille",
+          "entradilla": "Der FC Bayern muss im Champions-League-Spiel beim OSC Lille auf zahlreiche Offensivstars verzichten. Harry Kane, Michael Olise, Serge Gnabry und Ismael Saibari fehlen verletzt. Verfolgen Sie die Partie hier im Liveticker.",
+          "enlace": "https://www.welt.de/sport/fussball/champions-league/article6b0730d6c75e09cb88d16185/champions-league-ticker-osc-lille-fc-bayern-muenchen-live.html"
         },
         {
-          "titulo": "„Unwürdig und undemokratisch“ – jetzt schlagen Emdes Unterstützer Alarm",
-          "entradilla": "Die Berliner Linke schließt die israelfeindliche Abgeordnete Vanessa Emde aus der Fraktion aus. Doch deren Mitstreiter setzen sich zur Wehr. Die Grenzen des Sagbaren verschieben sich.",
-          "enlace": "https://www.welt.de/politik/deutschland/plus6ad709a151e5094f7a572743/linke-in-berlin-unwuerdig-und-undemokratisch-jetzt-schlagen-emdes-unterstuetzer-alarm.html"
+          "titulo": "„Respekt-Rente“ – Jetzt macht die Union der SPD ein neues Angebot im Reform-Streit",
+          "entradilla": "Die Union bietet der SPD einen Kompromiss für die Rentenreform an: Geringverdiener sollen nach 45 Beitragsjahren weiter ohne Abschläge früher in Rente gehen. Das Konzept nennt sie „Respekt-Rente“.",
+          "enlace": "https://www.welt.de/politik/article6b071e5cbb5effe8198cd777/respekt-rente-jetzt-macht-die-union-der-spd-ein-neues-angebot-im-reformstreit.html"
         },
         {
-          "titulo": "Le Pen verschärft den Ton und fordert Ende von „deutschem Europa“",
-          "entradilla": "Marine Le Pen verschärft im französischen Präsidentschaftswahlkampf ihre Angriffe auf Deutschland. Die Rechtspopulistin wirft Berlin vor, Europa seine Interessen und Strukturen aufzuzwingen.",
-          "enlace": "https://www.welt.de/politik/ausland/article6b05c803d4a4a3142c572186/frankreich-le-pen-verschaerft-den-ton-und-fordert-ende-von-deutschem-europa.html"
+          "titulo": "Wie ist es, Wladimir Putin in Verhandlungen gegenüberzusitzen?",
+          "entradilla": "US-Unterhändler Jared Kushner hat einen Einblick in die Verhandlungen mit Wladimir Putin gegeben. Der Kreml-Chef mache sich viele Notizen, berichtet Kushner im Podcast „MD MEETS“ von Mathias Döpfner.",
+          "enlace": "https://www.welt.de/politik/ausland/plus6b06a022d4a4a3142c5729fb/jared-kushner-im-interview-wie-ist-es-wladimir-putin-in-verhandlungen-gegenueberzusitzen.html"
         },
         {
-          "titulo": "Grüne wollen Anmeldepflicht für Freier statt Sexkaufverbot",
-          "entradilla": "Die Grünen lehnen ein Sexkaufverbot ab und setzen stattdessen auf strengere Regeln für die Kunden von Prostituierten. Künftig sollen Freier ihre Identität überprüfen lassen müssen.",
-          "enlace": "https://www.welt.de/politik/deutschland/article6b05d2c7cd4642ba2eb17698/prostitution-gruene-wollen-anmeldepflicht-fuer-freier-statt-sexkaufverbot.html"
+          "titulo": "„Merz lässt arbeitende Menschen im Stich“ – SPD verschärft Kritik im Steuerstreit",
+          "entradilla": "Die Einkommensteuerreform von Union und SPD gerät ins Stocken. Während die Sozialdemokraten auf eine Entlastung der Beschäftigten ab Januar drängen, fordert die CDU zunächst Änderungen im Arbeitsrecht. Der Konflikt könnte auch den Bundeshaushalt belasten.",
+          "enlace": "https://www.welt.de/politik/article6b070bdfc75e09cb88d15f21/streit-um-entlastungen-merz-laesst-arbeitende-menschen-im-stich-spd-verschaerft-kritik-im-steuerstreit.html"
         },
         {
-          "titulo": "Beier trifft – BVB erkämpft sich einen Punkt bei Arsenal",
-          "entradilla": "Der BVB stellt seine Topform auch in der Champions League unter Beweis. Die Dortmunder erkämpfen sich einen Punkt beim FC Arsenal und sind mit den Engländern besonders in der zweiten Halbzeit auf Augenhöhe.",
-          "enlace": "https://www.welt.de/sport/fussball/article6b05d3e581b7ff1e8177a39c/champions-league-beier-trifft-bvb-erkaempft-sich-einen-punkt-bei-arsenal.html"
+          "titulo": "„Auf die Probe gestellt“ – Nato-Chef Rutte lobt Trumps Umgang mit Putin",
+          "entradilla": "Trumps Umgang mit Putin sorgt im Westen immer wieder für Kritik, zuletzt bezeichnete er den Kreml-Chef als „Freund“. Doch Nato-Chef Mark Rutte findet vor einem Treffen lobende Worte.",
+          "enlace": "https://www.welt.de/politik/article6b071a32bb5effe8198cd747/nato-chef-auf-die-probe-gestellt-mark-rutte-lobt-trumps-umgang-mit-putin.html"
         },
         {
-          "titulo": "„Historischer Tag“ – Ungarns Regierungschef Magyar kündigt „neues Kapitel“ in Ukraine-Politik an",
-          "entradilla": "Nach Jahren der Spannungen unter Viktor Orbán sucht Ungarn wieder die Annäherung an die Ukraine. Der neue Regierungschef Péter Magyar lehnt Waffenlieferungen und einen beschleunigten EU-Beitritt Kiews jedoch ab.",
-          "enlace": "https://www.welt.de/politik/ausland/article6b05da32cd4642ba2eb176fe/selenskyj-in-ungarn-historischer-tag-magyar-kuendigt-neues-kapitel-in-ukraine-politik-an.html"
+          "titulo": "„Ich wollte nie Modell sein, ein sinnloses Objekt“",
+          "entradilla": "Vera von Lehndorff ist im Alter von 87 Jahren gestorben. Als Veruschka wurde sie zur Ikone, wandelbar bis zur Unkenntlichkeit – und zeitlebens auf Distanz zu jener Branche, die sie auf ihr Äußeres reduzieren wollte. Ein Nachruf.",
+          "enlace": "https://www.welt.de/iconist/mode/article6b070c0bd4a4a3142c5739c7/veruschka-von-lehndorff-ist-tot-germanys-first-topmodel-ein-titel-der-ihr-nie-behagte.html"
         },
         {
-          "titulo": "„Das ist leider richtig“ – ARD-Krimischiff sinkt auf Fehmarn",
-          "entradilla": "Ein Fischkutter, der auch Requisite in der ARD-Krimiserie „Nord bei Nordwest“ war, ist auf Fehmarn gesunken. Der Schauspieler Hinnerk Schönemann zeigt sich emotional bewegt.",
-          "enlace": "https://www.welt.de/kultur/article6b05b9c1cd4642ba2eb16b64/nord-bei-nordwest-das-ist-leider-richtig-ard-krimischiff-sinkt-auf-fehmarn.html"
+          "titulo": "13-Jährige offenbar über Monate sexuell missbraucht – Polizei nimmt sechs Verdächtige fest",
+          "entradilla": "Eine 13-Jährige soll über Monate von sieben Jugendlichen sexuell missbraucht worden sein. Die Polizei nahm bei Razzien sechs Verdächtige fest. Die Ermittlungen laufen.",
+          "enlace": "https://www.welt.de/vermischtes/article6b071512c75e09cb88d15fe6/schweinfurt-13-jaehrige-offenbar-ueber-monate-sexuell-missbraucht-polizei-nimmt-sechs-verdaechtige-fest.html"
         },
         {
-          "titulo": "Vanessa Emde wird aus Berliner Linke-Fraktion ausgeschlossen – und kritisiert „mediale Hetzkampagne“",
-          "entradilla": "Vanessa Emde muss die Berliner Linke-Fraktion verlassen. Dafür stimmte bei einer Fraktionssitzung die Mehrheit der Abgeordneten. Sie steht seit Wochen wegen israelfeindlicher Aussagen in der Kritik.",
-          "enlace": "https://www.welt.de/politik/deutschland/article6b05bc84460ead0fdbd80e7e/interne-abstimmung-vanessa-emde-wird-aus-berliner-linke-fraktion-ausgeschlossen-und-kritisiert-mediale-hetzkampagne.html"
+          "titulo": "„Zustand der Paranoia“ – Und ein Problem, das Putin nicht lösen kann",
+          "entradilla": "Rund um Kaliningrad häufen sich gefährliche Zwischenfälle. Die Exklave ist einer der wichtigsten russischen Militärstandorte an der Ostflanke. Doch ihre Lage macht sie verwundbar – ein Umstand, den die Nato ausnutzen will.",
+          "enlace": "https://www.welt.de/politik/ausland/plus6b03302539a3e8110f0e6f71/russische-exklave-kaliningrad-zustand-der-paranoia-und-ein-problem-das-putin-nicht-loesen-kann.html"
         },
         {
-          "titulo": "Das wäre die größte Gefahr von Moskaus Atombombe im Weltall",
-          "entradilla": "Russland soll den Start eines mit einer Atombombe ausgestatteten Satelliten vorbereiten. Ist Putins neue Waffe erst einmal im Weltall, kann der Kreml die Menschheit um ein halbes Jahrhundert zurückwerfen.",
-          "enlace": "https://www.welt.de/politik/ausland/plus6b0558497ad921347676008d/russlands-drohung-das-waere-die-groesste-gefahr-von-moskaus-atombombe-im-weltall.html"
+          "titulo": "Zwei Mitarbeiter von „Compact“-Magazin in Berlin bei YouTube-Gala angegriffen",
+          "entradilla": "Ein Mitarbeiter des rechtsextremen „Compact“-Magazins wurde am Rande einer Veranstaltung offenbar tätlich angegangen. Die Rede ist von einer in der Spree versenkten Kamera und körperlichen Angriffen. Die Polizei ermittelt.",
+          "enlace": "https://www.welt.de/vermischtes/kriminalitaet/article6b07106410bfe646193e972d/zwei-mitarbeiter-von-compact-magazin-in-berlin-bei-youtube-gala-angegriffen-polizei-ermittelt.html"
         },
         {
-          "titulo": "Die erstaunliche Karriere des Grünen, dem jetzt auch die CDU vertraut",
-          "entradilla": "Die CDU verzichtet auf einen eigenen Kandidaten für die Spitzenposition bei der Bundesnetzagentur. Der Grüne Klaus Müller darf Deutschlands wichtigste Energiebehörde weiter leiten. Eine riskante Entscheidung.",
-          "enlace": "https://www.welt.de/wirtschaft/plus6b0436b466a00c9ca1fe0da3/klaus-mueller-die-erstaunliche-karriere-des-gruenen-dem-jetzt-auch-die-cdu-vertraut.html"
+          "titulo": "Bayerns riskante Gas-Lücke",
+          "entradilla": "Die Füllstände der Gasspeicher sind niedrig, besonders in Bayern. Nun soll ein Speicher in Bayern deutlich ausgebaut werden – doch das kommt für diesen Winter viel zu spät.",
+          "enlace": "https://www.welt.de/wirtschaft/plus6b0687b9c75e09cb88d14dab/knappe-versorgung-bayerns-riskante-gas-luecke.html"
         },
         {
-          "titulo": "Strack-Zimmermann als „dreckige Kriegstreiberin“ beleidigt – Geldstrafe für Mann aus München",
-          "entradilla": "Die FDP-Politikerin hatte die Beleidigung persönlich angezeigt: Ein Mann aus München wurde zu einer Geldstrafe verurteilt, weil er im Nachrichtendienst X ausfallend geworden war.",
-          "enlace": "https://www.welt.de/politik/deutschland/article6b05942dd4a4a3142c571159/marie-agnes-strack-zimmermann-als-dreckige-kriegstreiberin-beleidigt-geldstrafe-fuer-mann-aus-muenchen.html"
+          "titulo": "Wie SPD und AfD den Kanzler schrumpfen",
+          "entradilla": "Für die Wirtschaftswende kämpft Friedrich Merz auf verlorenem Posten. Der kleine Koalitionspartner lässt die Union auflaufen. Des Kanzlers Zweckoptimismus verfängt nicht einmal mehr in der eigenen Fraktion.",
+          "enlace": "https://www.welt.de/debatte/plus6b0693e5c75e09cb88d14eb3/bundeshaushalt-wie-spd-und-afd-den-kanzler-schrumpfen.html"
         },
         {
-          "titulo": "Zustimmung für Merz sinkt weiter – Mehrheit der CDU/CSU-Anhänger unzufrieden",
-          "entradilla": "Nicht einmal in den eigenen Reihen kann Friedrich Merz laut dem „Trendbarometer“ von Forsa überzeugen. Im Parteienvergleich bleibt die AfD deutlich vor CDU und CSU.",
-          "enlace": "https://www.welt.de/politik/deutschland/article6b059707460ead0fdbd80498/umfrage-zustimmung-fuer-merz-sinkt-weiter-mehrheit-der-cdu-csu-anhaenger-unzufrieden.html"
+          "titulo": "Mit seinen neuen Zöllen nimmt Trump besonders Deutschland ins Fadenkreuz",
+          "entradilla": "Der Supreme Court stoppte zentrale Teile von Trumps Zollpolitik. Jetzt wählt der Präsident einen neuen Weg – und Deutschlands Industrie gerät besonders unter Druck.",
+          "enlace": "https://www.welt.de/wirtschaft/plus6b06e702d4a4a3142c57344e/us-handelspolitik-mit-seinen-neuen-zoellen-nimmt-trump-besonders-deutschland-ins-fadenkreuz.html"
         }
       ],
       "analisis": {
-        "resumen": "- El Goethe-Institut dejará de usar el asterisco de género en sus comunicaciones, una medida que ha generado malestar interno.\n- La expulsión de Vanessa Emde del grupo de La Izquierda en Berlín suscita críticas de ella y sus partidarios.\n- Marine Le Pen intensifica sus críticas a Alemania; en Hungría, Péter Magyar anuncia una nueva etapa en la política hacia Ucrania.\n- Los Verdes proponen identificar a los clientes de la prostitución, mientras la CDU acepta que el verde Klaus Müller siga al frente de la Agencia Federal de Redes.\n- Una encuesta refleja una caída del apoyo a Merz; otros titulares abordan una posible arma nuclear rusa en el espacio y el empate del Dortmund ante el Arsenal.",
-        "populismo": 40,
-        "motivo_populismo": "Predominan titulares informativos, pero expresiones como «hacen sonar la alarma» y la advertencia de que el Kremlin podría hacer retroceder a la humanidad medio siglo aportan dramatización y lenguaje alarmista.",
-        "sesgo": "La selección prioriza conflictos políticos y controversias, especialmente en torno a La Izquierda, los Verdes y la CDU. Algunas redacciones introducen valoraciones, como calificar de «arriesgada» una decisión de la CDU o afirmar que «se desplazan los límites de lo decible»."
+        "resumen": "- El Bayern juega en Lille con varias bajas ofensivas y va por delante en el marcador.\n- La Union propone una «pensión de respeto», mientras se intensifica su disputa fiscal con el SPD.\n- La portada aborda las relaciones con Putin, la situación de Kaliningrado y los nuevos aranceles de Trump.\n- Preocupan los bajos niveles de gas en Baviera y se cuestiona la capacidad de Merz para impulsar la economía.\n- Se informa de detenciones por el presunto abuso de una menor, de una agresión a empleados de Compact y de la muerte de Vera von Lehndorff.",
+        "populismo": 35,
+        "motivo_populismo": "Expresiones como «reducen al canciller», «pone a Alemania en el punto de mira» y «situación de paranoia» dramatizan o simplifican los asuntos, aunque no aparece una apelación explícita al pueblo contra las élites.",
+        "sesgo": "La selección y la redacción destacan los conflictos de la coalición y ofrecen una visión crítica de la posición de Merz. También enfatizan riesgos para Alemania en materia de energía, seguridad y comercio."
       }
     },
     {
@@ -186,71 +186,71 @@
       "web": "https://www.spiegel.de",
       "noticias": [
         {
-          "titulo": "Vanessa Emde: Berliner Linke stimmt knapp für Ausschluss aus Fraktion",
-          "entradilla": "Die Berliner Linkenabgeordnete Vanessa Emde wird aus ihrer Fraktion ausgeschlossen. Die angehenden Koalitionspartner atmen auf. Doch der Fall dürfte Rot-Grün-Rot auch in Zukunft belasten.",
-          "enlace": "https://www.spiegel.de/politik/vanessa-emde-berliner-linke-stimmt-knapp-fuer-ausschluss-aus-fraktion-a-8de561c3-e2ae-4d93-b6e1-1aa5fb438f7a#ref=rss"
+          "titulo": "Russland: »Putin kann keinen Krieg führen wie Stalin« Sönke Neitzel und Hanna Notte im SPIEGEL-Talk",
+          "entradilla": "Wie weit eskaliert Putin? Hier sprechen Russlandexpertin Hanna Notte und Militärhistoriker Sönke Neitzel über Raketen in Polen, Zeitfenster für Verhandlungen und eine Atomwaffe im All, über die die Szene schon länger spricht.",
+          "enlace": "https://www.spiegel.de/politik/deutschland/russland-putin-kann-keinen-krieg-fuehren-wie-stalin-soenke-neitzel-und-hanna-notte-im-spiegel-talk-a-2bd42a0d-8b31-42fe-adea-9592b8ef2507#ref=rss"
         },
         {
-          "titulo": "News des Tages: Volkswagen, SPIEGEL-Umfrage, teurer Christstollen",
-          "entradilla": "In der Autoindustrie wackelt die 35-Stunden-Woche. Viele Deutsche stehen der militärischen Unterstützung der Ukraine skeptisch gegenüber. Und Sachsens Staatskanzlei lässt einen Christstollen per Dienstwagen zum Papst chauffieren. Das ist die Lage am Dienstagabend.",
-          "enlace": "https://www.spiegel.de/politik/deutschland/news-des-tages-volkswagen-spiegel-umfrage-teurer-christstollen-a-8102ca83-070f-41f7-8fa2-157092ca8452#ref=rss"
+          "titulo": "US-Zölle: Welche Folgen Donald Trumps neue Strafmaßnahmen für die EU haben",
+          "entradilla": "Die USA kündigen neue Zölle gegen mehrere Handelspartner an, darunter die EU. Trotz der jüngsten Niederlage bei den Midterms setzt der US-Präsident seine Lieblingsprojekte durch. Wie weit kann er damit kommen?",
+          "enlace": "https://www.spiegel.de/wirtschaft/us-zoelle-welche-folgen-donald-trumps-neue-strafmassnahmen-fuer-die-eu-haben-a-e8098dd8-1e2e-4161-bd76-0310a466a835#ref=rss"
         },
         {
-          "titulo": "USA nach den Midterms: Können die Demokraten ihre Stärke nutzen?",
-          "entradilla": "Der Triumph der US-Demokraten bei den Midterms legt auch alte Gräben frei: Progressive wie Abdul El-Sayed drängen nach links, Zentristen bremsen. Kann die Partei bis zur nächsten Präsidentenwahl zusammenfinden?",
-          "enlace": "https://www.spiegel.de/ausland/usa-nach-den-midterms-koennen-die-demokraten-ihre-staerke-nutzen-a-3a54f8f3-93f5-40c6-bcdd-487b6d6ea2ac#ref=rss"
+          "titulo": "Chen Jining: Die Angst schmiert Xi Jinpings Machtmaschine",
+          "entradilla": "Chen Jining galt als einer der Shooting-Stars der Kommunistischen Partei. Nun hat Xi Jinping die Karriere des Shanghaier Parteisekretärs aus unbekannten Gründen beendet. Im Apparat wächst die Unsicherheit. Ist genau das Xis Plan?",
+          "enlace": "https://www.spiegel.de/ausland/chen-jining-xi-jinping-laesst-gegen-shanghais-parteichef-ermitteln-die-angst-schmiert-seine-machtmaschine-a-064febf6-98c7-4f63-9a15-3ef355c12df9#ref=rss"
         },
         {
-          "titulo": "Nvidia-Skandal: Wie Donald Trump die Rückkehr von Jensen Huang durchsetzte",
-          "entradilla": "Der Präsident der USA hat eingegriffen, damit Nvidia-Chef Jensen Huang zurück auf seinen Posten kann. Rekonstruktion einer dreisten Kampagne.",
-          "enlace": "https://www.spiegel.de/ausland/nvidia-skandal-wie-donald-trump-die-rueckkehr-von-jensen-huang-durchsetzte-a-5133b7fe-b964-4915-a3ad-579bedcb1659#ref=rss"
+          "titulo": "Rente mit 63: Union bietet SPD Kompromiss für Geringverdiener an",
+          "entradilla": "Union und SPD haben sich beim Rentenpaket verhakt. Nun macht die Kanzlerpartei einen Vorschlag: Nach SPIEGEL-Informationen soll die »Rente mit 63« für Menschen mit kleinem Einkommen erhalten bleiben.",
+          "enlace": "https://www.spiegel.de/politik/deutschland/rente-mit-63-union-bietet-spd-kompromiss-fuer-geringverdiener-an-a-3cfcd68d-7b6c-47e5-bc21-a78860df3b49#ref=rss"
         },
         {
-          "titulo": "Vergewaltigungsprozess gegen Marvin S. in Berlin: »Es ist eigentlich kein Leben mehr, das ich führe«",
-          "entradilla": "Marvin S. hat mehrere Frauen vergewaltigt. Vor Gericht berichten drei Betroffene, wie sehr die abscheulichen Taten ihr Leben bis heute belasten. Eine von ihnen überlebte nur knapp.",
-          "enlace": "https://www.spiegel.de/panorama/justiz/vergewaltigungsprozess-gegen-marvin-s-in-berlin-es-ist-eigentlich-kein-leben-mehr-das-ich-fuehre-a-593e95bd-5231-4c6c-b6a8-35223e945353#ref=rss"
+          "titulo": "Asteroid Dimorphos: Spektakuläre Fotos zeigen Dart-Einschlagkrater",
+          "entradilla": "Die Sonde »Hera« hat Nahaufnahmen des Asteroiden Dimorphos zur Erde gefunkt. Auf ihm war vor vier Jahren absichtlich eine Sonde eingeschlagen. Der Test soll helfen, die Erde vor Gefahren aus dem All zu schützen.",
+          "enlace": "https://www.spiegel.de/wissenschaft/weltall/asteroid-dimorphos-spektakulaere-fotos-zeigen-dart-einschlagkrater-a-7e837a7b-49a8-438b-82e4-fb67fe31c74f#ref=rss"
         },
         {
-          "titulo": "Schwerte: Acht Verletzte nach Angriff auf Grünen-Büro mit Pfefferspray",
-          "entradilla": "Pfefferspray, ein Feuerlöscher, acht Verletzte: Der Angriff auf das Grünen-Büro in Schwerte wirft Fragen auf. Eine davon: Wie offen kann Lokalpolitik sein, wenn jeder von der Straße hereinkommen kann?",
-          "enlace": "https://www.spiegel.de/panorama/justiz/schwerte-acht-verletzte-nach-angriff-auf-gruenen-buero-mit-pfefferspray-a-f2dc573c-07c7-42b8-a5bb-75de5e000e7e#ref=rss"
+          "titulo": "Nord Stream: Die Crew auf der Segeljacht verhielt sich »wie Bergsteiger aufm Golfplatz«",
+          "entradilla": "Im Prozess um die Anschläge auf die Nord-Stream-Pipelines beschreiben Augenzeugen, wie seltsam sich die Verdächtigen verhalten haben. Neben ihrer Kleidung sorgte wohl auch eine Tankaktion ihres Bootes für Verwunderung.",
+          "enlace": "https://www.spiegel.de/panorama/justiz/nord-stream-zeugen-schildern-beobachtungen-im-prozess-um-pipeline-anschlaege-a-32278965-aab3-4f5a-924e-bb5105e94cc8#ref=rss"
         },
         {
-          "titulo": "Ukraine-Hilfe: Mehrheit in Deutschland lehnt militärische Unterstützung ab",
-          "entradilla": "Laut einer Umfrage sind die meisten Menschen in Deutschland gegen militärische Unterstützung für die Ukraine. Außenminister Johann Wadephul zeigt sich besorgt – und warnt davor, Wladimir Putin zu unterschätzen.",
-          "enlace": "https://www.spiegel.de/politik/deutschland/ukraine-hilfe-mehrheit-in-deutschland-lehnt-militaerische-unterstuetzung-ab-a-62f2289c-ef54-44ac-9435-d9788c730d10#ref=rss"
+          "titulo": "Kommission empfiehlt Kriminalisierung von Freiern, wenn Prostituierte nicht angemeldet sind",
+          "entradilla": "Eine Expertenkommission hat Empfehlungen vorgelegt, wie Prostituierte besser geschützt werden sollen. Familienministerin Prien sieht die »Chance auf einen echten Paradigmenwechsel«. Die wichtigsten Fragen und Antworten.",
+          "enlace": "https://www.spiegel.de/politik/deutschland/kommission-empfiehlt-kriminalisierung-von-freiern-wenn-prostituierte-nicht-angemeldet-sind-a-766dc637-4c74-499b-bfce-6739ea704d18#ref=rss"
         },
         {
-          "titulo": "Manuel Neuer soll Partnerin verlassen haben: Paarberaterin Ruth Marquardt über ihr virales Video",
-          "entradilla": "Manuel Neuer soll sich von seiner Partnerin getrennt haben – und die Paarberaterin Ruth Marquardt geht mit einem emotionalen Video viral. Hier sagt sie, warum der Fall so viele Menschen berührt.",
-          "enlace": "https://www.spiegel.de/partnerschaft/manuel-neuer-soll-partnerin-verlassen-haben-paarberaterin-ruth-marquardt-ueber-ihr-virales-video-a-e9912a58-40f2-4b6e-99ad-6860f367b92f#ref=rss"
+          "titulo": "Veruschka: Ihre Freiheit, ihre Verzweiflung, ihr Mut, ihr Eigensinn",
+          "entradilla": "Vera Gräfin von Lehndorff, bekannt als Veruschka, wurde zu einem der bekanntesten Models der Sechzigerjahre, sie hatte nichts von der Biederkeit toupierter Laufstegschönheiten. Dann bahnte sie sich einen Weg als Künstlerin.",
+          "enlace": "https://www.spiegel.de/kultur/veruschka-zum-tod-von-vera-graefin-von-lehndorff-ihre-freiheit-ihre-verzweiflung-ihr-mut-ihr-eigensinn-a-c541bda0-8a1f-45dd-a274-6759b589e1fa#ref=rss"
         },
         {
-          "titulo": "Erbschaftsteuer auf Immobilien: So wehren Sie sich gegen hohe Bewertungen",
-          "entradilla": "Immer häufiger werden Erben vom Finanzamt mit hohen Steuerforderungen überrascht. Eine Nachlassverwalterin erklärt, wie Sie sich wehren.",
-          "enlace": "https://www.spiegel.de/wirtschaft/service/erbschaftsteuer-auf-immobilien-so-wehren-sie-sich-gegen-hohe-bewertungen-a-a1f4353e-95c9-4929-8206-25bae8062d63#ref=rss"
+          "titulo": "Emmy für ARD-Doku »Der talentierte Mr. F.«: »Am Ende haben wir das Geld hart erbettelt.«",
+          "entradilla": "Die ARD-Doku »Der talentierte Mr. F.« über einen Betrug hat einen Emmy gewonnen. Hier erzählen die Macher, warum sie den Mann, der sie beklaut hat, nie verklagt haben. Und warum sie es fast nicht zur Preisverleihung geschafft hätten.",
+          "enlace": "https://www.spiegel.de/kultur/tv/emmy-fuer-ard-dokumentation-der-talentierte-mr-f-am-ende-haben-wir-das-geld-hart-erbettelt-a-11734e62-3184-4d79-ba93-4df809ef47b3#ref=rss"
         },
         {
-          "titulo": "Wladimir Putin wirft bekannten Regisseur Alexander Sokurow aus Menschenrechtsrat",
-          "entradilla": "Alexander Sokurow kritisierte Repression und prangerte Zensur im russischen Kino an. Nun hat Kremlchef Wladimir Putin den Regisseur aus seinem Menschenrechtsrat ausgeschlossen.",
-          "enlace": "https://www.spiegel.de/ausland/wladimir-putin-wirft-bekannten-regisseur-alexander-sokurow-aus-menschenrechtsrat-a-9da133f1-a8d8-4095-bcd9-c6df0c82dd1a#ref=rss"
+          "titulo": "Kryptowährung: »Je mehr ich über den Bitcoin lerne, umso skeptischer werde ich«",
+          "entradilla": "Finanzprofessor Co-Pierre Georg warnt vor »enormen systemischen Risiken« beim Bitcoin – und erhält dafür Drohungen. Der Blockchain-Experte sieht drei Sollbruchstellen, die den Kryptomarkt erschüttern könnten.",
+          "enlace": "https://www.spiegel.de/wirtschaft/service/kryptowaehrung-je-mehr-ich-ueber-den-bitcoin-lerne-umso-skeptischer-werde-ich-a-2bf6bccb-f2a2-4199-97b7-8fac826f23f9#ref=rss"
         },
         {
-          "titulo": "Felix Nmecha: Expertin kritisiert fehlende Distanz zu »Ballers in God«",
-          "entradilla": "Der BVB ist Tabellenführer, aber der umstrittene Torjubel von Felix Nmecha sorgt weiterhin für Streit. Mirijam Wiedemann ist Expertin für Sektenstrukturen und erklärt, was Nmechas Geste so problematisch macht.",
-          "enlace": "https://www.spiegel.de/sport/felix-nmecha-expertin-kritisiert-fehlende-distanz-zu-ballers-in-god-a-ee54d84c-a1b8-4c63-a2ca-cfc594864174#ref=rss"
+          "titulo": "Microsoft: Konzern reagiert mit »Code Red« auf globale IT-Störung",
+          "entradilla": "Ein weltweiter IT-Ausfall hat bei Microsoft Alarm ausgelöst. Der Konzern hat intern die höchste Krisenstufe ausgerufen und plant, seine Notfallabläufe zu überarbeiten. Das Ziel sei eine schnellere Reaktionsfähigkeit.",
+          "enlace": "https://www.spiegel.de/netzwelt/microsoft-konzern-reagiert-mit-code-red-auf-globale-it-stoerung-a-fc06304f-0754-4c93-a44b-c931f775a79c#ref=rss"
         },
         {
-          "titulo": "Schach-WM: Weltmeister Gukesh zieht gegen Sindarovs Angriffe die Berliner Verteidigung hoch",
-          "entradilla": "In der ersten Partie zeigen beide, warum sie um den WM-Titel spielen: Schachweltmeister Gukesh und Herausforderer Sindarov liefern sich ein hochklassiges Duell. Trotz »beängstigenden« Zeitdrucks.",
-          "enlace": "https://www.spiegel.de/sport/schach/schach-wm-weltmeister-gukesh-zieht-gegen-sindarovs-angriffe-die-berliner-verteidigung-hoch-a-1736af5a-6811-4b0a-afc9-3373ecc7cf1f#ref=rss"
+          "titulo": "Warum Sven Hannawald trotz aller Erfolge nichts mehr spürte – und in ein tiefes Loch fiel",
+          "entradilla": "Sven Hannawald hat als bisher einziger deutscher Skispringer alle Wettbewerbe der Vierschanzentournee in einem Winter gewonnen. Hier spricht er darüber, wie der Druck ihm damals zusetzte.",
+          "enlace": "https://www.spiegel.de/sport/wintersport/sven-hannawald-warum-der-skisprungstar-trotz-aller-erfolge-nichts-mehr-spuerte-und-in-ein-tiefes-loch-fiel-a-0078523d-2998-4e78-bb7c-0f4fd2ba3ce6#ref=rss"
         }
       ],
       "analisis": {
-        "resumen": "- La izquierda berlinesa expulsa por estrecho margen a Vanessa Emde de su grupo parlamentario, en un caso que podría afectar a la coalición.\n- Una encuesta señala que la mayoría en Alemania rechaza la ayuda militar a Ucrania; también se aborda el futuro de la semana laboral de 35 horas en la industria del automóvil.\n- En Estados Unidos, los demócratas afrontan divisiones internas y se examina la intervención de Trump para que Jensen Huang regresara al frente de Nvidia.\n- La portada recoge un juicio por violaciones en Berlín, un ataque con ocho heridos a una oficina de Los Verdes y la exclusión del cineasta Alexander Sokurow de un consejo ruso.\n- También trata la fiscalidad de las herencias, la vida privada de Manuel Neuer, una polémica sobre Felix Nmecha y el Mundial de ajedrez.",
-        "populismo": 25,
-        "motivo_populismo": "Expresiones como «escándalo», «campaña descarada» o «defiéndase» aportan dramatización y confrontación, pero no se aprecia una apelación al pueblo contra las élites.",
-        "sesgo": "La selección da prioridad a conflictos políticos, controversias y sucesos, con una mirada crítica hacia actuaciones de dirigentes como Trump y Putin. Hay también un enfoque de servicio al lector y atención a figuras conocidas."
+        "resumen": "- Expertos debaten sobre Rusia, la posible escalada de Putin y las opciones de negociación.\n- La portada examina los nuevos aranceles estadounidenses y sus efectos en la UE, así como la incertidumbre política en China.\n- En Alemania, la Unión propone mantener la jubilación a los 63 años para personas con ingresos bajos; una comisión plantea medidas para proteger a las prostitutas.\n- Testigos relatan conductas extrañas de los sospechosos en el proceso por los ataques a Nord Stream; Microsoft responde a una caída informática global.\n- También destacan imágenes del asteroide Dimorphos, advertencias sobre el bitcoin y noticias de cultura y deporte.",
+        "populismo": 20,
+        "motivo_populismo": "Expresiones como «el miedo lubrica la maquinaria de poder de Xi» y «enormes riesgos sistémicos» aportan dramatismo, pero no se aprecia una contraposición entre pueblo y élites ni descalificaciones generalizadas.",
+        "sesgo": "La selección prioriza conflictos internacionales, decisiones políticas y riesgos, con cierta inclinación hacia los aspectos de crisis e incertidumbre. No se aprecia un sesgo ideológico claro en el conjunto."
       }
     },
     {
@@ -258,71 +258,71 @@
       "web": "https://www.bild.de",
       "noticias": [
         {
-          "titulo": "… aber Ärger um geklauten Elfer! - Geniale Beier-Szene rettet den BVB",
-          "entradilla": "Was für ein Fight des BVB!",
-          "enlace": "https://www.bild.de/sport/fussball/bvb-geniale-beier-szene-rettet-dortmund-gegen-arsenal-6b05e566d4a4a3142c5722d7"
+          "titulo": "15 km von den Gizeh-Pyramiden entfernt - Feuer-Horror! Mindestens 30 Tote in Ägypten",
+          "entradilla": "Das Feuer hatte sich durch mehrere Explosionen schnell ausgebreitet.",
+          "enlace": "https://www.bild.de/news/ausland/gasflaschen-auf-laster-explodiert-mindestens-30-tote-bei-kairo-6b0736f310bfe646193e9a03"
         },
         {
-          "titulo": "Leipzig schlägt Lens - Erst Surf-Jubel, dann Schreck um Klopp-Liebling",
-          "entradilla": "Sieg gegen Lens, Leipzig holt den so wichtigen Dreier  in der Champions League.",
-          "enlace": "https://www.bild.de/sport/fussball/leipzig-schlaegt-lens-erst-surf-jubel-dann-schreck-um-klopp-liebling-6b05bc34aabf9675c80f3f34"
+          "titulo": "Mindestens 30 Tote - Gas-Laster explodiert in Ägypten",
+          "entradilla": "Gewaltige Explosion in Kairo! Ein Tanklaster kippt auf einer Ringautobahn um. Mindestens 30 Menschen sterben, 15 weitere werden verl...",
+          "enlace": "https://www.bild.de/news/mindestens-30-tote-gas-laster-explodiert-in-aegypten-6b0749abd4a4a3142c573d32"
         },
         {
-          "titulo": "Statistikbehörde gehackt - Bis zu 720.000 Russen in Putins Krieg getötet",
-          "entradilla": "Unabhängige Journalisten schätzen Russlands Verluste auf mindestens 700.000 Soldaten.",
-          "enlace": "https://www.bild.de/politik/ausland-und-internationales/neue-zahlen-bis-zu-720-000-russen-in-putins-krieg-getoetet-6b05fc036197c358f99fc69f"
+          "titulo": "Historischer Treffer im All - So können wir die Erde vor Asteroiden retten!",
+          "entradilla": "Die Sonde Hera zeigt die Folgen des ersten großen Tests unserer Planetenabwehr.",
+          "enlace": "https://www.bild.de/leben-wissen/wissenschaft/hera-mission-so-funktioniert-die-asteroiden-abwehr-der-erde-6b041f205842ff528b9e5677"
         },
         {
-          "titulo": "Phrasenmäher vom 24.11.2026: - Was wirklich im Campo Bahia passierte.",
-          "entradilla": "Die neue Folge „Phrasenmäher“ mit Matthias Ginter.",
-          "enlace": "https://www.bild.de/sport/fussball/phrasenmaeher-vom-24-11-2026-was-wirklich-im-campo-bahia-passierte-6b05648a6c27b799309d0437"
+          "titulo": "Stürmer zeigt seinen Power-Körper - Krass, wie Lewandowski mit 38 aussieht",
+          "entradilla": "Der polnische Fußballstar zeigt im Fitnessstudio seinen definierten Körper.",
+          "enlace": "https://www.bild.de/sport/fussball/robert-lewandowski-zeigt-seinen-muskuloesen-koerper-6b073fb5c75e09cb88d16220"
         },
         {
-          "titulo": "Von BILD gekürt - Gewinner\n& Verlierer",
-          "entradilla": "Hier gibt es die aktuellen Gewinner und Verlierer des Tages.",
-          "enlace": "https://www.bild.de/gewinner-verlierer-5c374fa54ae86300019b6bd4"
+          "titulo": "Nach angeblichem Faustschlag - Sportgericht verhängt Mega-Strafe in 4. Liga",
+          "entradilla": "Erfurts Torjäger Hajrulla wird nach Faustschlag-Vorwurf für acht Spiele gesperrt.",
+          "enlace": "https://www.bild.de/sport/fussball/romario-hajrulla-acht-spiele-sperre-nach-faustschlag-vorwurf-6b072fe4d4a4a3142c573c13"
         },
         {
-          "titulo": "Stollen voll ins Gesicht - Ex-Bayern-Star sorgt für Blut-Szene",
-          "entradilla": "Er schießt seinen Klub zum Sieg und bezahlt dafür schmerzhaft! Deniz Gül (22) entscheidet das Champions-League-Spiel von Galatasaray...",
-          "enlace": "https://www.bild.de/sport/fussball/champions-league-ex-bayern-star-sorgt-fuer-blut-szene-6b05f7446197c358f99fc64f"
+          "titulo": "US-Vize setzte sich für Nvidia-Chef ein - Hier erklärt Vance die Gründe für das Huang-Comeback",
+          "entradilla": "Washington – US‑Vizepräsident JD Vance (42) hat sich demonstrativ hinter Nvidia-Chef Jensen Huang (63) gestellt und die Gründe für s...",
+          "enlace": "https://www.bild.de/politik/ausland-und-internationales/jd-vance-verteidigt-huang-keinerlei-beweise-gesehen-6b073ce1c75e09cb88d161fd"
         },
         {
-          "titulo": "„Fühle mich veräppelt!“ - Kandidatin geht auf TV-Bauern los",
-          "entradilla": "Bei „Bauer sucht Frau“ wählt Chris Kandidatin Melissa – Favoritin Lea ist tief verletzt.",
-          "enlace": "https://www.bild.de/unterhaltung/tv-fernsehformate/bauer-sucht-frau-kandidatin-lea-geht-auf-tv-bauern-chris-los-6b05c3fb460ead0fdbd814d0"
+          "titulo": "Kinder-Kunst im Stadion - So süß malen Juve-Fans Woltemade",
+          "entradilla": "Juventus Turin verzichtet auf die gewohnten Aufstellungs-Grafiken und präsentiert stattdessen die Spieler mit Zeichnungen von Kindern.",
+          "enlace": "https://www.bild.de/sport/fussball/kinder-kunst-im-stadion-so-suess-malen-juve-fans-woltemade-und-co-6b06c6a3c75e09cb88d155c7"
         },
         {
-          "titulo": "Teils krasse Preisunterschiede - Jobcenter werden bei der Weiterbildung abgezockt",
-          "entradilla": "Geförderte Kurse kosten oft deutlich mehr als dieselben Angebote für Selbstzahler.",
-          "enlace": "https://www.bild.de/politik/inland/weiterbildung-jobcenter-zahlen-bis-zu-55-prozent-mehr-6b059693460ead0fdbd80486"
+          "titulo": "Im Golf von Mexiko - Sechsköpfige Familie stirbt bei Flugzeugabsturz",
+          "entradilla": "Sie wollten von einem Angelausflug im Süden von Louisiana zurück nach Florida.",
+          "enlace": "https://www.bild.de/news/ausland/sechskoepfige-familie-stirbt-bei-flugzeugabsturz-im-golf-von-mexiko-6b070ec010bfe646193e96eb"
         },
         {
-          "titulo": "Fällt er doch länger aus? - Kompany-Sätze zu Olise lassen aufhorchen",
-          "entradilla": "Bayern muss womöglich doch länger auf den verletzten Michael Olise verzichten.",
-          "enlace": "https://www.bild.de/sport/fussball/michael-olise-kompany-deutet-laengere-bayern-pause-an-6b05f3d6cd4642ba2eb17846"
+          "titulo": "Für den guten Zweck - Weihnachtszug rollt durch die USA",
+          "entradilla": "Der CPKC Holiday Train fährt 2026 durch Kanada und die USA und sammelt Spenden.",
+          "enlace": "https://www.bild.de/news/er-bringt-weihnachten-ins-rollen-dieser-lichterzug-verzaubert-nordamerika-6b072a7dc75e09cb88d1612b"
         },
         {
-          "titulo": "Der Kampf um die DEL - Darum ist Dresden für den DEG-Coach Favorit",
-          "entradilla": "Wie eng wird dieses Aufstiegsduell um die DEL? Düsseldorf und Dresden sind die heißesten Kandidaten.",
-          "enlace": "https://www.bild.de/sport/mehr-sport/eishockey-del-aufstieg-darum-ist-dresden-fuer-den-deg-coach-favorit-6b04526d39a3e8110f0e8cc7"
+          "titulo": "Sonde rammte Asteroiden weg - Retten wir so eines Tages die Erde?",
+          "entradilla": "Spektakuläre Bilder aus dem Weltall! Die ESA-Sonde Hera filmt die Asteroiden Didymos und Dimorphos aus nur 52 Kilometern Entfernung....",
+          "enlace": "https://www.bild.de/news/sonde-rammte-asteroiden-weg-retten-wir-so-eines-tages-die-erde-6b073cc8ece94a045fdcd69f"
         },
         {
-          "titulo": "„Ich fühle mich sehr allein“ - Eric Danes Witwe über letzte Tage am Sterbebett",
-          "entradilla": "Rebecca Gayheart erzählt bei BILD über ihre Angst, die Einsamkeit und eine neue Liebe.",
-          "enlace": "https://www.bild.de/unterhaltung/stars-und-leute/eric-danes-witwe-spricht-bei-bild-manchmal-denke-ich-es-ist-nur-ein-boeser-traum-6afe0545e05f7c0713d4f6d2"
+          "titulo": "Heftige Vorwürfe gegen den Trainer - NFL-Superstar nach Sprengstoff-Interview entlassen",
+          "entradilla": "Was für eine Abrechnung!",
+          "enlace": "https://www.bild.de/sport/mehr-sport/nfl-aaron-rodgers-rechnet-brutal-mit-trainer-mike-mccarthy-ab-6b0734770d5af5eba2d3672b"
         },
         {
-          "titulo": "Wohin die 10 Millionen Euro jetzt gehen - Deutscher Spieler knackt Eurojackpot",
-          "entradilla": "Ein Tipp hat gereicht, um aus einem Glückspilz einen Multimillionär zu machen.",
-          "enlace": "https://www.bild.de/news/inland/deutscher-spieler-knackt-eurojackpot-wohin-10-millionen-euro-jetzt-gehen-6b05f628d4a4a3142c572402"
+          "titulo": "Jared Kushner im Gespräch mit Mathias Döpfner - „Putin ist ein Großmeister der Politik“",
+          "entradilla": "Jared Kushner verhandelt über ein Ende des Ukraine-Kriegs und Gazas Zukunft.",
+          "enlace": "https://www.bild.de/politik/jared-kushner-im-gespraech-mit-mathias-doepfner-ich-glaube-dass-putin-frieden-will-6b06cb9ec75e09cb88d15667"
         }
       ],
       "analisis": {
-        "resumen": "- El fútbol domina la portada: victorias del Dortmund y Leipzig, lesiones y una escena sangrienta en la Champions.\n- Una oficina de estadística rusa sufre un hackeo; periodistas independientes estiman en al menos 700.000 las bajas militares rusas.\n- Los cursos de formación financiados por los Jobcenter presentan, en ocasiones, precios mayores que para quienes pagan por su cuenta.\n- La portada recoge conflictos de un programa de televisión y declaraciones personales de la viuda de Eric Dane.\n- Un jugador alemán gana 10 millones de euros en el Eurojackpot.",
-        "populismo": 58,
-        "motivo_populismo": "Abundan expresiones sensacionalistas y emocionales como «penalti robado», «escena sangrienta» y «estafan a los Jobcenter», aunque no se aprecia una apelación explícita al pueblo contra las élites.",
-        "sesgo": "La selección prioriza el deporte, el entretenimiento y los sucesos personales, con un enfoque dramático y de conflicto. En los titulares aportados no se aprecia una orientación política partidista clara."
+        "resumen": "- Un incendio y la explosión de un camión cisterna en Egipto dejan al menos 30 muertos.\n- La sonda Hera muestra los efectos de una prueba de defensa planetaria contra asteroides.\n- Las noticias deportivas incluyen una sanción en la cuarta división alemana, el despido de una estrella de la NFL y contenidos sobre futbolistas y aficionados.\n- JD Vance respalda al director de Nvidia; Jared Kushner aborda la guerra de Ucrania y el futuro de Gaza.\n- Una familia de seis personas muere en un accidente aéreo; un tren navideño recorre Canadá y Estados Unidos para recaudar donaciones.",
+        "populismo": 55,
+        "motivo_populismo": "Los titulares recurren con frecuencia al lenguaje emocional y sensacionalista, con expresiones como «horror de fuego», «mega-sanción» y «entrevista explosiva», aunque no se aprecia una apelación al pueblo contra las élites.",
+        "sesgo": "La portada prioriza sucesos dramáticos, deporte y contenidos llamativos, con una redacción orientada a captar la atención. En los titulares políticos proporcionados no se aprecia un sesgo ideológico claro."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://taz.de",
       "noticias": [
         {
-          "titulo": "Gewalt gegen Frauen: „Wir können Männer nicht in den Feminismus reinmobben“",
-          "entradilla": "Bestseller-Autorin Sophia Fritz macht in ihrem neuen Buch „Der Mann, das Opfer“ einen ungewöhnlichen Vorschlag, was gegen Gewalt an Frauen helfen könnte. mehr...",
-          "enlace": "https://taz.de/Bestseller-Autorin-Sophia-Fritz-Wir-koennen-Maenner-nicht-in-den-Feminismus-reinmobben/!6232793/"
+          "titulo": "Bill Kaulitz vs. Ordnungsamt Leipzig: Eine Entschuldigung wäre angebracht",
+          "entradilla": "Es ist das Markenzeichen der Kaulitz-Brüder, arrogant und abgehoben und doch irgendwie charmant zu sein. Aber der Vorfall in Leipzig war eins drüber. mehr...",
+          "enlace": "https://taz.de/Bill-Kaulitz-stellt-Sachbearbeiter-an-den-Pranger-und-laesst-ihn-ausbuhen--Stadt-Leipzig-kuendigt-juristische-Pruefung-an/!6233005/"
         },
         {
-          "titulo": "Reform des Mordparagrafen: Eine eigentlich überflüssige Gesetzesreform",
-          "entradilla": "Femizide geschehen stets aus niedrigen Beweggründen und sind damit Mord. Bei dem Urteilsspruch kommt es auf die Rich­te­r:in­nen und deren Auslegung an. mehr...",
-          "enlace": "https://taz.de/Reform-des-Mordparagrafen/!6232722/"
+          "titulo": "Deutsche Bahn und Flixbus: Nur ein erster Schritt",
+          "entradilla": "Bei der Bahn kann man künftig auch Tickets von Flixtrain buchen – gut so. Doch für echte Kundenfreundlichkeit muss noch viel getan werden. mehr...",
+          "enlace": "https://taz.de/Flixtrain-Tickets-bei-der-Deutschen-Bahn-buchen-Nur-ein-erster-Schritt/!6233340/"
         },
         {
-          "titulo": "Tag gegen Gewalt an Frauen: Mehr Gewalt, zu wenig Schutz",
-          "entradilla": "Ob sexualisierte oder häusliche Gewalt – das BKA verzeichnet steigende Fallzahlen. Viele Täter und Betroffene sind minderjährig. mehr...",
-          "enlace": "https://taz.de/Tag-gegen-Gewalt-an-Frauen/!6232595/"
+          "titulo": "EU-Gipfel zum Westbalkan: Jetzt oder vielleicht nie",
+          "entradilla": "Nach dem Machtwechsel in Serbien will die EU die Annäherung der Region beschleunigen. Das Zeitfenster für Beitritte schließt sich aber. mehr...",
+          "enlace": "https://taz.de/EU-Gipfel-zum-Westbalkan/!6233359/"
         },
         {
-          "titulo": "Berliner Linksfraktion schließt Emde aus: Bahn frei für Rot-Grün-Rot in Berlin",
-          "entradilla": "Ein weiteres Hindernis auf dem Weg zur Regierung von Linken, Grünen und SPD in Berlin ist weggeräumt. Vanessa Emde gehört nicht mehr zur Fraktion. mehr...",
-          "enlace": "https://taz.de/Berliner-Linksfraktion-schliesst-Emde-aus/!6232976/"
+          "titulo": "Welttag gegen Gewalt gegen Frauen: Ums nackte Überleben",
+          "entradilla": "Mehr als eine Million Frauen und Kinder sind vor Gewalt und Folter aus Sudan nach Tschad geflüchtet. Dort leiden sie an Hunger und Krankheit. mehr...",
+          "enlace": "https://taz.de/Welttag-gegen-Gewalt-gegen-Frauen/!6214234/"
         },
         {
-          "titulo": "Kriegsverluste seit der Vollinvasion: Mehr tote Soldaten als bei Stalins Sturm auf Berlin",
-          "entradilla": "Russlands Verluste beim Angriffskrieg auf die Ukraine sind verheerend. Ein Datenbank-Leak offenbart nun rund 700.000 tote Soldaten. mehr...",
-          "enlace": "https://taz.de/Kriegsverluste-seit-der-Vollinvasion/!6232723/"
+          "titulo": "YouTuber JP Kraemer: Ganz konkrete Männer",
+          "entradilla": "Ein Youtube-Star wird wegen Gewalt an seiner Partnerin verurteilt – und macht Business as usual. Die nötige Antwort wäre ein kollektiver Aufschrei. mehr...",
+          "enlace": "https://taz.de/Verurteilter-YouTuber-JP-Kraemer-Weitermachen-als-waere-nichts-passiert/!6233291/"
         },
         {
-          "titulo": "Trump, Nvidia und Jensen Huang: Selbst für ein B-Picture zu primitiv",
-          "entradilla": "Was sich dieser Tage in den USA abspielt, ist komplett absurd. Solchen Stoff würden auch die Regisseure von Low-Budget-Produktionen kaum haben wollen. mehr...",
-          "enlace": "https://taz.de/Trump-Nvidia-und-Jensen-Huang/!6232721/"
+          "titulo": "Podcast des Frauenhauses Oberhausen: Geschichten der Gewalt",
+          "entradilla": "Das Frauenhaus Oberhausen lässt Betroffene von häuslicher Gewalt ihre eigenen Geschichten erzählen. So detailliert hört man das selten. mehr...",
+          "enlace": "https://taz.de/Podcast-des-Frauenhauses-Oberhausen/!6233349/"
         },
         {
-          "titulo": "Minister will keine Dunkelfeldstudie: Kultur des Wegschauens",
-          "entradilla": "Dobrindts Beitrag zum Tag gegen Gewalt an Frauen: Er sieht keinen Anlass für eine Dunkelfeldstudie zu Sexismus bei Bundespolizei und BKA. Ernsthaft? mehr...",
-          "enlace": "https://taz.de/Minister-will-keine-Dunkelfeldstudie/!6232724/"
+          "titulo": "Nutzung von Smart Glasses: Klagen gegen Überwachungsbrillen",
+          "entradilla": "Ver­brau­cher­schüt­ze­r:in­nen ziehen wegen Metas Smart Glasses vor Gericht. Risiken gebe es nicht nur für Menschen, die ungewollt gefilmt werden. mehr...",
+          "enlace": "https://taz.de/Smart-Glasses-Verbraucherzentrale-verklagt-Ray-Ban-wegen-Datenschutz-Verstoss/!6233015/"
         },
         {
-          "titulo": "Finale Haushaltswoche im Bundestag: Im nächsten Jahr soll wirklich gespart werden …",
-          "entradilla": "…, aber wo? Während die Union einen aufgeblähten „Nanny-Staat“ beklagt, fordern die Grünen, endlich auch Subventionen für Milliardäre abzuschaffen. mehr...",
-          "enlace": "https://taz.de/Finale-Haushaltswoche-im-Bundestag/!6232740/"
+          "titulo": "Filmdebüt „Barrio Triste“: Aliens in Medellín",
+          "entradilla": "In seinem Spielfilmdebüt „Barrio Triste“ erzählt der Regisseur Stillz von kolumbianischen Jugendlichen. Von deren Elend aus driftet er ins Irreale ab. mehr...",
+          "enlace": "https://taz.de/Filmdebuet-Barrio-Triste-Vom-Elend-kolumbianischer-Jugendlicher-driftet-er-ins-Irreale-ab/!6232385/"
         },
         {
-          "titulo": "Entwicklungszusammenarbeit: Gefährliche Lücken",
-          "entradilla": "Die EU kontrolliert zu wenig, ob ihre Gelder auch wirklich ankommen. Das ist eine schlechte Nachricht für die Reputation der Entwicklungshilfe. mehr...",
-          "enlace": "https://taz.de/Entwicklungszusammenarbeit/!6232764/"
+          "titulo": "Winter im Gazastreifen: In Trümmern zu Hause",
+          "entradilla": "Tausende Menschen im Gazastreifen leben mangels Alternativen in kriegsbeschädigten Gebäuden. Immer wieder kommt es zu Einstürzen mit tödlichen Folgen. mehr...",
+          "enlace": "https://taz.de/Winter-im-Gazastreifen/!6232840/"
         },
         {
-          "titulo": "Sylvester-Stallone-Film „I Play Rocky“: Er will gesehen werden",
-          "entradilla": "Peter Farrellys Komödie „I Play Rocky“ erzählt vom mühsamen Aufstieg Sylvester Stallones zum Hollywoodstar. Wie die Vorlage feiert der Film das Underdog-Sein. mehr...",
-          "enlace": "https://taz.de/Sylvester-Stallone-Making-Of-Film-I-Play-Rocky-Der-muehsame-Aufstieg-zum-Hollywoodstar/!6232403/"
+          "titulo": "Nach den Angriffen auf Russlands Schiffe: Vereinigt die Ukraine aus Versehen Libyen?",
+          "entradilla": "Der ukrainische Militärschlag in Bengasi kann Libyen Krieg bringen. Er könnte aber auch die rivalisierenden Schutzmächte Türkei und Russland annähern. mehr...",
+          "enlace": "https://taz.de/Nach-den-Angriffen-auf-Russlands-Schiffe/!6233326/"
         },
         {
-          "titulo": "Weihnachtsmarkt-Saison in Berlin: Klassenfrage und Kulturkampf am Glühweinstand",
-          "entradilla": "Über 100 Weihnachtsmärkte gibt es in der Hauptstadt. Der Besuch ist längst zu einem Statement über Identität, Geschmack und Geldbeutel geworden. mehr...",
-          "enlace": "https://taz.de/Weihnachtsmarkt-Saison-in-Berlin/!6232720/"
+          "titulo": "Repression gegen Seenotrettung: Spionage bei Sea-Watch",
+          "entradilla": "Das Handy einer Sprecherin der Seenotrettungsorganisation soll über Monate per Spyware überwacht worden sein. Die NGO hat Anzeige erstattet. mehr...",
+          "enlace": "https://taz.de/Repression-gegen-Seenotrettung/!6233407/"
         },
         {
-          "titulo": "Berliner Linke hat entschieden: Emde muss aus Linksfraktion raus",
-          "entradilla": "Die Linke im Berliner Abgeordnetenhaus hat Vanessa Emde aus der Fraktion ausgeschlossen. Drei Abgeordnete mehr als nötig stimmten dafür. mehr...",
-          "enlace": "https://taz.de/Berliner-Linke-hat-entschieden/!6232905/"
+          "titulo": "Diskussion um Kürzungen im EU-Haushalt: Keine Agrarsubventionen, kein Hunger",
+          "entradilla": "Die EU würde auch ohne Milliardenzahlungen für Landwirte genügend Lebensmittel produzieren. Das Geld sollte lieber für die Umwelt eingesetzt werden. mehr...",
+          "enlace": "https://taz.de/Diskussion-um-Kuerzungen-im-EU-Haushalt/!6233117/"
         }
       ],
       "analisis": {
-        "resumen": "- La violencia contra las mujeres ocupa varias noticias: aumentan los casos registrados y se debate la protección y la reforma legal.\n- La expulsión de Vanessa Emde del grupo de La Izquierda en Berlín despeja un obstáculo para una posible coalición con Verdes y socialdemócratas.\n- Una filtración de datos apunta a unos 700.000 soldados rusos muertos desde la invasión a gran escala de Ucrania.\n- En el debate presupuestario, la Unión critica el «Estado niñera» y los Verdes piden eliminar subvenciones para multimillonarios.\n- También se aborda el control de la ayuda europea, la cultura y los mercados navideños de Berlín.",
-        "populismo": 38,
-        "motivo_populismo": "Algunos titulares usan descalificaciones y lenguaje enfático, como «demasiado primitivo», «cultura de mirar hacia otro lado» y «lagunas peligrosas», aunque no se aprecia una apelación explícita al pueblo frente a las élites.",
-        "sesgo": "La portada presta especial atención a la violencia contra las mujeres y adopta un enfoque crítico con la respuesta institucional, en particular con el ministro que rechaza un estudio sobre sexismo. Varias noticias presentan valoraciones editoriales explícitas, incluidas críticas a Trump y a una reforma legal."
+        "resumen": "- Bill Kaulitz es criticado por un incidente con la oficina de orden público de Leipzig; se pide una disculpa.\n- La venta de billetes de Flixtrain por Deutsche Bahn se presenta como un primer paso para mejorar el servicio.\n- La UE busca acelerar el acercamiento de los Balcanes Occidentales, con especial atención a Serbia.\n- Varias noticias abordan la violencia contra las mujeres: el exilio de sudanesas en Chad, la condena al youtuber JP Kraemer y testimonios de un refugio.\n- También se tratan la vida entre ruinas en Gaza, el impacto de un ataque ucraniano en Libia, la vigilancia digital y las ayudas agrícolas europeas.",
+        "populismo": 25,
+        "motivo_populismo": "Hay expresiones enfáticas como «ahora o quizá nunca» y llamamientos a un «clamor colectivo», aunque predominan las descripciones concretas y no aparece un enfrentamiento explícito entre pueblo y élites.",
+        "sesgo": "La selección destaca la violencia de género, las consecuencias de los conflictos y los riesgos de vigilancia. Algunos textos expresan posiciones claras, como reclamar una reacción colectiva ante la violencia de pareja o destinar ayudas agrícolas al medioambiente."
       }
     }
   ]

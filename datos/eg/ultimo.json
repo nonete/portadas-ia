@@ -1,39 +1,39 @@
 {
   "pais": "Egipto",
-  "fecha": "2026-11-24",
+  "fecha": "2026-11-25",
   "turno": 14,
-  "generado": "24/11/2026 22:55",
+  "generado": "25/11/2026 22:02",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "Se repiten los conflictos y la diplomacia internacionales, especialmente la guerra en Ucrania y las tensiones regionales. También aparecen noticias deportivas, de salud y del tiempo. Mada Masr destaca en particular las causas judiciales y detenciones que afectan a periodistas y medios.",
-    "crispacion": 65,
-    "motivo_crispacion": "La guerra entre Rusia y Ucrania y la advertencia de Putin de responder a ataques contra instalaciones petroleras reflejan una tensión internacional elevada. También aparecen fricciones entre Estados Unidos e Irán y noticias sobre la guerra en Gaza y la situación en Sudán. En Egipto, las causas contra periodistas y el desacuerdo de la oposición con el respaldo militar a Arabia Saudí añaden tensión política. Las noticias deportivas, meteorológicas y de servicios ofrecen un contraste más tranquilo."
+    "temas": "El incendio de la carretera de Al Warraq domina las portadas de Youm7, Akhbar El-Yom y Al-Shorouk, con noticias sobre las víctimas, la atención sanitaria y la investigación de sus causas. También se repite el desmentido del Ministerio de Transporte sobre una posible causa del fuego. Solo Mada Masr destaca la detención de periodistas y el cierre de su propio medio.",
+    "crispacion": 42,
+    "motivo_crispacion": "La tensión política se concentra en Mada Masr, con la detención de periodistas, el cierre del medio y el desacuerdo de la oposición con la autorización parlamentaria para apoyar militarmente a Arabia Saudí. También aparece el conflicto en los territorios palestinos, que afecta a los agricultores. El incendio de Al Warraq genera alarma y motivó una investigación, aunque su cobertura se centra en las víctimas y la respuesta institucional. Otras noticias informativas y de entretenimiento moderan la crispación del conjunto."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Hoy veo dos caras de la misma lucha: la necesidad de servicios públicos fuertes y el derecho a conocer qué ocurre en ellos. La convocatoria de 2.666 técnicos ferroviarios recuerda que el transporte no funciona por discursos, sino por el trabajo de quienes mantienen las vías y los trenes. Y el agotamiento de los equipos de ambulancias nos obliga a exigir plantillas suficientes y condiciones dignas, no solo a celebrar su entrega.\n\nComo comunista, defiendo que sectores esenciales como el transporte y la producción de medicamentos estén bajo propiedad colectiva y control democrático: la salud y la movilidad no deben depender de la rentabilidad del gran capital. Pero ese control exige información libre. El cierre de Mada Masr y la detención de su directora son una mala noticia para quienes necesitamos una prensa capaz de fiscalizar al poder. Sin derechos, la clase trabajadora queda más desarmada."
+      "texto": "El incendio de la carretera de Al Warraq exige mucho más que condolencias. Pienso en las familias de las víctimas y en quienes siguen heridos: necesitan atención y apoyo sostenidos. Celebro que los hospitales universitarios hayan elevado su preparación, pero la sanidad pública debe contar siempre con los recursos necesarios, no solo en las emergencias. La investigación anunciada debe esclarecer las causas sin anticipar conclusiones.\n\nTambién me preocupa el cierre de Mada Masr y la detención de su directora. Una prensa libre permite a la clase trabajadora conocer y discutir las decisiones que afectan a su vida.\n\nDesde una perspectiva de clase, defiendo que la seguridad, la salud y la información no se subordinen al beneficio del gran capital. Necesitamos servicios públicos fuertes y propiedad colectiva de los recursos esenciales, bajo control democrático."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "La detención de Lina Attalah y la orden de cerrar Mada Masr por operar sin licencia muestran por qué desconfío de un Estado que se reserva la facultad de autorizar la palabra. Una prensa libre no debería depender del permiso de quienes tienen poder para sancionarla. La libertad de informar es también la libertad de cada persona para entender y discutir lo que se hace en su nombre.\n\nMientras tanto, el Parlamento ha autorizado al presidente a tomar medidas para apoyar militarmente a Arabia Saudí. No creo que un mandato otorgado desde arriba sustituya la deliberación de quienes pueden sufrir las consecuencias. Tampoco confío en que los partidos resuelvan por nosotros ese problema. Prefiero construir una fuerza pública distinta: medios independientes, asambleas abiertas y redes de apoyo mutuo, capaces de defender sin violencia tanto la libertad individual como la colectiva."
+      "texto": "El incendio de Al Warraq deja muerte, heridas y familias que necesitan apoyo. Me uno a su dolor y espero una investigación rigurosa: no sabemos aún qué causó el desastre. La atención médica y las ayudas son necesarias, pero no deberían depender de la magnanimidad de quienes gobiernan. Defiendo que vecinos, trabajadores sanitarios y afectados puedan organizarse y participar en las decisiones que afectan a sus vidas.\n\nTambién me preocupa la detención de la directora de Mada Masr y la orden de cierre del medio. Una prensa sometida a licencias y castigos difícilmente puede vigilar al poder. La libertad de informar nos pertenece a todos, no la conceden los gobiernos. Y el aval parlamentario al apoyo militar a Arabia Saudí me recuerda que los partidos y las jerarquías pueden concentrar decisiones enormes lejos de quienes soportarán sus consecuencias. Prefiero la autogestión y el apoyo mutuo a cualquier obediencia impuesta."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "El cierre de Mada Masr y la detención de su directora tras una condena por operar sin licencia me preocupan. Yo defiendo una prensa libre porque ningún gobierno debería decidir qué voces pueden informar a los ciudadanos. Una sociedad que exige permiso para publicar debilita también la capacidad de exigir cuentas al poder.\n\nLa noticia sobre la industria farmacéutica egipcia me recuerda, además, que la prosperidad necesita empresas capaces de invertir, competir e innovar. Prefiero impuestos bajos y reglas claras a un Estado que pretenda dirigir cada decisión económica: así las personas conservan más recursos para emprender y asumir la responsabilidad de sus proyectos. Un Estado limitado no es un Estado ausente; debe proteger derechos, hacer cumplir contratos y rendir cuentas. La libertad política y la económica se sostienen mutuamente."
+      "texto": "El incendio de Al Warraq exige, ante todo, solidaridad con las víctimas y atención a los heridos. También exige una investigación independiente: no sabemos aún qué lo causó y sería irresponsable atribuir culpas antes de conocer los hechos. Un Estado limitado no es un Estado indiferente; debe cumplir bien sus funciones esenciales y rendir cuentas por ellas.\n\nMe preocupa, además, el cierre ordenado de Mada Masr y la detención de su directora tras una condena relacionada con la falta de licencia. La libertad de prensa no debería depender de un permiso que pueda silenciar a un medio. Para mí, una sociedad libre necesita ciudadanos informados, empresas que puedan competir y personas responsables de sus decisiones. Impuestos bajos y reglas claras dejan más recursos en manos de quienes trabajan, ahorran e invierten, sin renunciar a la justicia ni a la seguridad."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Veo en las noticias una misma exigencia: Egipto debe decidir por sí mismo y responder primero ante sus ciudadanos. El apoyo a la soberanía saudí puede ser legítimo, pero el mandato parlamentario para prestar apoyo militar no debería convertirse en un cheque en blanco. Exijo objetivos claros y control sobre cualquier compromiso que afecte a nuestros soldados.\n\nLa capacidad de la industria farmacéutica egipcia demuestra por qué la producción nacional es una cuestión de seguridad, no un mero eslogan. También lo es proteger nuestras fronteras y mantener un control estricto de la inmigración, sin renunciar a la dignidad de nadie.\n\nMe preocupa, además, el cierre de Mada Masr. Un Estado fuerte no necesita silenciar las preguntas incómodas: necesita instituciones transparentes, ciudadanos informados y dirigentes dispuestos a rendir cuentas."
+      "texto": "La tragedia de Al Warraq exige algo más que condolencias. Pienso en las familias de los fallecidos y en los heridos: proteger a los egipcios es la primera obligación del Estado. Quiero una investigación rigurosa, sin anticipar causas, y responsabilidades claras si se demuestra negligencia. La seguridad nacional empieza también en nuestras carreteras y hospitales.\n\nMe inquieta, además, la autorización parlamentaria para apoyar militarmente a Arabia Saudí. Respetar a un país aliado no significa entregar un cheque en blanco: cualquier intervención debe servir a los intereses de Egipto y estar sometida a control. La soberanía no se declama; se ejerce. Por eso tampoco celebro el cierre de Mada Masr: un Estado fuerte puede exigir el cumplimiento de la ley sin temer el escrutinio. Nuestra nación necesita instituciones responsables, familias protegidas y una prensa capaz de hacer preguntas, no élites que pidan confianza sin rendir cuentas."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Me preocupa el contraste entre el llamado de la comisión consultiva a informar con franqueza a los ciudadanos y el cierre de Mada Masr, junto con la detención de su directora tras una condena por gestionar un sitio sin licencia. Las normas deben cumplirse, pero también deben poder discutirse ante tribunales independientes y aplicarse sin impedir el periodismo. Una prensa libre no debilita al Estado: le permite corregir errores y conservar la confianza pública.\n\nTambién veo una oportunidad en la convocatoria de empleos ferroviarios y en la capacidad de producción farmacéutica que destaca la OMS. Yo apostaría por aprovechar la iniciativa empresarial, con reglas claras y supervisión pública, para crear empleo y proteger el acceso a servicios esenciales. La estabilidad duradera necesita ambas cosas: instituciones abiertas y una economía que ofrezca oportunidades compartidas."
+      "texto": "La tragedia de Al Warraq exige algo más que condolencias. Celebro la movilización de hospitales y equipos de asistencia, pero creo que el Estado también debe garantizar una investigación rigurosa y pública. No conocemos aún las causas, y sería irresponsable adelantarlas. Cuando se esclarezcan, habrá que corregir las fallas que se detecten, con medidas realistas y evaluables, y acompañar a las familias afectadas.\n\nTambién me preocupa el cierre ordenado de Mada Masr y la detención de su directora tras la sentencia por operar sin licencia. Una democracia necesita reglas para los medios, pero también garantías efectivas para la defensa y una prensa capaz de fiscalizar al poder. Espero que los recursos judiciales permitan examinar el caso con todas las garantías. La seguridad y las libertades no compiten: unas instituciones confiables deben proteger ambas."
     }
   ],
   "periodicos": [
@@ -42,71 +42,71 @@
       "web": "https://www.almasryalyoum.com",
       "noticias": [
         {
-          "titulo": "سعد خلف يكتب: قمة شنجين لن تجد حلًا لحربى أوكرانيا وإيران .. بوتين وترامب وشى.. قمة كبيرة لن تنهى الحروب",
-          "entradilla": "تأكد انعقاد القمة الثلاثية بين الرئيس الروسى فلاديمير بوتين ونظيره الأمريكى دونالد ترامب ومضيفهما الرئيس الصينى شى جين بينغ يوم الخميس القادم، 19 نوفمبر 2026، فى مدينة شنجين الصيني...",
-          "enlace": "https://www.almasryalyoum.com/news/details/4418659"
+          "titulo": "«لماذا توليتم المسؤولية؟».. رسائل نارية من نادر السيد إلى مجلس الزمالك",
+          "entradilla": "أشاد نادر السيد نجم الكرة المصرية السابق، بلاعبي الفريق الأول للكرة بنادي الزمالك، مؤكدًا أنهم يقدمون كل ما لديهم من أجل الجمهور، ويتحملون المسؤولية رغم الظروف الصعبة التي يمر بها...",
+          "enlace": "https://www.almasryalyoum.com/news/details/4419710"
         },
         {
-          "titulo": "د. إبراهيم غالي يكتب: شراكة رباعية مرنة .. مجموعة «سكواد» من التشاور الدفاعى إلى بناء أطر مؤسسية وآليات تنفيذية",
-          "entradilla": "تشير التطورات الجديدة داخل مجموعة «سكواد» (SQUAD)، وهى مجموعة أمنية غير رسمية، إلى توجُه دولها الأربع، الولايات المتحدة واليابان وأستراليا والفلبين، إلى الانتقال تدريجيًا من التشاو...",
-          "enlace": "https://www.almasryalyoum.com/news/details/4418658"
+          "titulo": "«رفض نزوله التدريب»… إبراهيم فايق يكشف غضب وائل جمعة ضد نجم الأهلي",
+          "entradilla": "كشف الإعلامي إبراهيم فايق، عن انفعال وغضب وائل جمعة مدير الكرة بالنادي الأهلي، اتجاه اللاعبين بعد الخسارة أمام بيراميدز بهدفين دون رد في الدوري الممتاز.وقال إبراهيم فايق في برنامجه...",
+          "enlace": "https://www.almasryalyoum.com/news/details/4419709"
         },
         {
-          "titulo": "«انسياب».. حين يدفع المسعفون ثمن الإرهاق والضغوط في صمت",
-          "entradilla": "تُعد منظومة الإسعاف فى أى دولة بمثابة القلب النابض لحياة مواطنيها، فهى خط الدفاع الأول فى السباق اليومى مع الزمن لإنقاذ الأرواح، ومن هذه الزاوية شديدة الحساسية، ينطلق الفيلم الروائ...",
-          "enlace": "https://www.almasryalyoum.com/news/details/4418657"
+          "titulo": "عبد الله مجدي الهواري: والدي راجل برنس وعمل نفسه بنفسه.. وعايز أخرج من قوقعة الحج والحاجة",
+          "entradilla": "تحدث عبد الله مجدي الهواري، عن علاقته بوالديه، معربا عن اعتزازه الشديد بهما، ومؤكدا حرصه على دعمهما والوقوف بجانبهما دائما، إلى جانب رغبته في التركيز على عمله ومستقبله.وقال عبد الل...",
+          "enlace": "https://www.almasryalyoum.com/news/details/4419708"
         },
         {
-          "titulo": "الكاراتيه المصرى وبطلاته وأبطاله",
-          "entradilla": "حبيبة أحمد وآية هشام وجنى خميس ومريم أحمد.. أربع لاعبات مصريات يضمهن منتخب مصر لكاراتيه الكاتا.. ومنذ أيام سافرت اللاعبات الأربع من القاهرة إلى مدينة هانجشتو الصينية للمشاركة فى كأ...",
-          "enlace": "https://www.almasryalyoum.com/news/details/4418656"
+          "titulo": "تبدأ يوم خميس إجازة 3 أيام متواصلة.. موعد أول عطلة رسمية للموظفين والطلاب في مصر",
+          "entradilla": "تبدأ يوم خميس إجازة 3 أيام متواصلة خلال موعد أول عطلة رسمية للموظفين والطلاب، حيث يترقب الموظفون والطلاب في مصر موعد أول إجازة رسمية خلال العام الجديد 2027، بالتزامن مع اقتراب بداي...",
+          "enlace": "https://www.almasryalyoum.com/news/details/4419707"
         },
         {
-          "titulo": "تحويل الكارثة إلى خبرة",
-          "entradilla": "يمكن لمؤسسة أن تنجح فى مواجهة كارثة، ثم تفشل فى الاستفادة منها.. تنقذ المصابين، وتعيد تشغيل المرفق، وتعاقب المقصرين، لكنها لا تغير طريقة عملها. وعندما تتكرر الأزمة، تكتشف أن ما اعت...",
-          "enlace": "https://www.almasryalyoum.com/news/details/4418626"
+          "titulo": "زاد الأئمة والخطباء.. وزارة الأوقاف تعلن موضوع خطبة الجمعة القادمة 27 نوفمبر 2026 عن التسامح pdf",
+          "entradilla": "أعلنت وزارة الأوقاف المصرية موضوع خطبة الجمعة القادمة، الموافق 27 نوفمبر 2026، تحت عنوان «التسامح.. ركيزة بناء وصمام أمان»، وذلك ضمن الإصدار الـ 82 من سلسلة زاد الأئمة والخطباء، ال...",
+          "enlace": "https://www.almasryalyoum.com/news/details/4419706"
         },
         {
-          "titulo": "انتخابات نادي الصيد",
-          "entradilla": "اعتدت أن أشارك فى انتخابات نادى الصيد منذ ثمانينيات القرن الماضى، وربما تغيبت عن قلة قليلة منها، إما بسبب السفر أو ظروف قهرية، وفى كل المرات تقريبا كنت أنتخب رئيسا للنادى يفوز سواء...",
-          "enlace": "https://www.almasryalyoum.com/news/details/4418625"
+          "titulo": "ما أقرب إجازة للطلاب في السعودية؟ مواعيد الدراسة والعطلات في 1448",
+          "entradilla": "يتصدر التقويم الدراسي 1448 في السعودية اهتمامات الطلاب وأولياء الأمور، بالتزامن مع استمرار العام الدراسي 1448-1449 هـ، ورغبة الأسر في معرفة مواعيد الإجازات المقبلة، وموعد العودة إل...",
+          "enlace": "https://www.almasryalyoum.com/news/details/4419705"
         },
         {
-          "titulo": "الحشرية والحشريون",
-          "entradilla": "ما هذا الكم المذهل من الحشرية؟ ما الذى يدفع هذه الملايين من البشر لدس أنوفهم ووجوههم بأكملها فى شؤون الآخرين؟ ما الإكسير السرى الذى يمنح هذه الملايين هذا الحجم المهول من الجرأة وال...",
-          "enlace": "https://www.almasryalyoum.com/news/details/4418590"
+          "titulo": "عيار 21 الآن بعد الانخفاض الكبير..سعر الذهب اليوم بالصاغة.والجنيه يخسر 960 جنيهًا خلال يوم واحد",
+          "entradilla": "تصدر سعر الذهب اليوم بالصاغة اهتمامات المواطنين والمقبلين على الشراء والادخار، بعد أن سجلت الأسعار انخفاضًا كبيرًا، حيث شهد تراجعًا ملحوظًا في سعر جرام الذهب عيار 21 الأكثر تداولًا...",
+          "enlace": "https://www.almasryalyoum.com/news/details/4419704"
         },
         {
-          "titulo": "«إسرائيل الجديدة».. أوكرانيا خطر على المنطقة!",
-          "entradilla": "بعد 6 أسابيع من الغزو الروسى لأوكرانيا فى فبراير 2022، قال الرئيس الأوكرانى زيلينسكى: «لن تصبح أوكرانيا دولة ليبرالية أوروبية. لن تكون (سويسرا) المستقبل. ستصبح (إسرائيل الكبرى) بطر...",
-          "enlace": "https://www.almasryalyoum.com/news/details/4418588"
+          "titulo": "حج القرعة 2027.. موعد سداد الرسوم وآخر مهلة للفائزين قبل إلغاء الفرصة",
+          "entradilla": "بدأ العد التنازلي لسداد باقي تكاليف حج القرعة لموسم 1448هـ – 2027م، بعدما أعلنت وزارة الداخلية المصرية بدء تحصيل المبالغ المستحقة من الفائزين اعتبارًا من الأربعاء 25 نوفمبر 2026، م...",
+          "enlace": "https://www.almasryalyoum.com/news/details/4419703"
         },
         {
-          "titulo": "غرفة مزدحمة بالصامتين",
-          "entradilla": "لم يكن زوجها يؤمن بالمرض الذى لا يُرى، فالاكتئاب مجرد دلال زائد، والمرأة التى تملك بيتًا وزوجًا وطفلين لا تحزن، وحين راحت سلمى تقضى أيامها صامتة، وتحدق فى الفراغ، وتبكى دون سبب، قر...",
-          "enlace": "https://www.almasryalyoum.com/news/details/4418589"
+          "titulo": "4 أبراج تنتظرها تغييرات إيجابية اليوم الأربعاء 25 نوفمبر 2026.. هل برجك بينها؟",
+          "entradilla": "تتصدر توقعات الأبراج وقراءة حظك اليوم اهتمامات الكثيرين مع بداية يوم جديد، خاصة مع البحث عن أبرز المفاجآت والتغيرات التي قد تحملها الساعات المقبلة على الصعيدين العاطفي والمهني.وتشي...",
+          "enlace": "https://www.almasryalyoum.com/news/details/4419702"
         },
         {
-          "titulo": "الاضطرار.. والمناخ الإعلامي!",
-          "entradilla": "سألنى الإعلامى خالد أبوبكر فى برنامجه «آخر النهار» عن المناخ الإعلامى، وماذا أرى، هل نتقدم أم لا؟، فأجبت بأن الحالة العامة ضاغطة، وتدفع الجميع إلى التصرف بصورة مغايرة عما مضى؛ أى ا...",
-          "enlace": "https://www.almasryalyoum.com/news/details/4418587"
+          "titulo": "مفاجأة في قطاع الكهرباء.. إجراء جديد يكشف عن مرحلة مختلفة في مستقبل الطاقة بمصر",
+          "entradilla": "تتصدر سرقات التيار الكهربائي ملفات وزارة الكهرباء والطاقة المتجددة، في ظل خسائر مالية تقدر بنحو 30 مليار جنيه، وسط تحركات لمواجهة المخالفات من خلال تطوير منظومة قياس الاستهلاك وتعد...",
+          "enlace": "https://www.almasryalyoum.com/news/details/4419701"
         },
         {
-          "titulo": "«حدوتة».. عودة حلمي إلى حلمي!",
-          "entradilla": "أخيرا، عاد أحمد حلمى إلى جمهوره متصدرا شباك التذاكر فى الداخل والخارج، حلمى عاد أولا إلى حلمى، بأرقام تشير إلى أنه استرد القمة الرقمية، التى كان هو أحد أهم أعضائها الدائمين منذ انط...",
-          "enlace": "https://www.almasryalyoum.com/news/details/4418586"
+          "titulo": "خطأ في الرصد وتعادل بين مرشحين.. النتيجة النهائية لانتخابات المكتب التنفيذي للوفد بعد إعادة الفرز",
+          "entradilla": "انتهت لجنة إعادة فرز الأصوات في انتخابات المكتب التنفيذي لحزب الوفد من أعمالها منذ دقائق، وأكد المستشار ثروت الخرباوي، رئيس اللجنة، أن عملية إعادة الفرز استمرت لأكثر من 7 ساعات متو...",
+          "enlace": "https://www.almasryalyoum.com/news/details/4419700"
         },
         {
-          "titulo": "يحفظ.. ولكنه لا يفهم",
-          "entradilla": "الواقعة التى شهدها مول صينى مؤخراً يمكن أن تكون طريفة فى جانب منها، ولكنها فى جانب آخر تشير إلى المدى الذى يمكن أن تذهب إليه هذه الاندفاعة العالمية وراء الذكاء الاصطناعى!. الواقعة...",
-          "enlace": "https://www.almasryalyoum.com/news/details/4418585"
+          "titulo": "«من غير منظفات دهون».. طريقة تنظيف حوامل البوتاجاز الزهر بسهولة والتخلص من الدهون المتراكمة",
+          "entradilla": "تُعد حوامل البوتاجاز الزهر من أكثر الأجزاء التي تتراكم عليها الدهون وبقايا الطعام نتيجة الاستخدام اليومي، ومع تعرضها للحرارة المتكررة تصبح البقع صعبة الإزالة، خاصة إذا تُركت لفترات...",
+          "enlace": "https://www.almasryalyoum.com/news/details/4419699"
         }
       ],
       "analisis": {
-        "resumen": "- Análisis escéptico sobre la capacidad de una cumbre entre Putin, Trump y Xi para terminar las guerras de Ucrania e Irán.\n- Reflexiones sobre la cooperación de seguridad de Estados Unidos, Japón, Australia y Filipinas, y sobre Ucrania como posible riesgo regional.\n- Artículos sobre el agotamiento de los paramédicos, el aprendizaje tras las catástrofes y la depresión.\n- Opiniones sobre el clima mediático, la intromisión en la vida ajena y los límites de la inteligencia artificial.\n- Noticias y comentarios sobre el kárate egipcio, las elecciones del Club de Tiro y el regreso cinematográfico de Ahmed Helmy.",
-        "populismo": 28,
-        "motivo_populismo": "Predominan titulares analíticos, aunque expresiones como «Ucrania, peligro para la región» y «el precio del agotamiento y las presiones en silencio» recurren a un tono alarmante o emocional, sin una apelación clara del pueblo contra las élites.",
-        "sesgo": "La portada privilegia artículos de opinión y enfoques críticos sobre asuntos internacionales, sociales y mediáticos. La selección también concede espacio a la cultura y al deporte egipcios."
+        "resumen": "- El fútbol destaca con críticas a la directiva del Zamalek y tensiones en el Al Ahly tras una derrota.\n- Se consultan las próximas vacaciones oficiales en Egipto y el calendario escolar saudí.\n- El precio del oro cae y se anuncian medidas frente al robo de electricidad.\n- Se informa sobre el pago de la peregrinación de 2027, el sermón del viernes sobre la tolerancia y el recuento electoral del partido Wafd.\n- La portada incluye una entrevista familiar, horóscopos y consejos de limpieza.",
+        "populismo": 25,
+        "motivo_populismo": "Expresiones como «mensajes incendiarios» y «sorpresa en el sector eléctrico» aportan sensacionalismo, aunque no se aprecia una apelación al pueblo contra las élites.",
+        "sesgo": "La selección prioriza el deporte, los servicios y los contenidos de interés cotidiano, con algunos titulares llamativos. No se aprecia una orientación política clara."
       }
     },
     {
@@ -114,71 +114,71 @@
       "web": "https://www.youm7.com",
       "noticias": [
         {
-          "titulo": "أخبار × 24 ساعة.. الصحة العالمية: مصر تمتلك أكثر من 180 مصنعا دوائيا وتغطى 90% من احتياجاتها",
-          "entradilla": "قدم «اليوم السابع» سلس‎لة من الأخبار التى تهم الجمهور، خاصة الملفات الحيوية والخدمية، وتتضمن عرضًا لأهم الأخبار فى 24 ساعة. المصدر:اليوم السابع أخبار × 24 ساعة.. الصحة العالمية: مصر تمتلك أكثر من 180 مصنعا دوائيا وتغطى 90% من احتياجاتها",
-          "enlace": "https://www.youm7.com/story/2026/11/25/أخبار-×-24-ساعة-الصحة-العالمية-مصر-تمتلك-أكثر-من/7631385"
+          "titulo": "وزير الصحة لإكسترا نيوز: 4 حالات حرجة بحروق تصل لـ80% في حادث الوراق",
+          "entradilla": "أعلن الدكتور خالد عبد الغفار، وزير الصحة والسكان، ارتفاع حصيلة ضحايا حادث الطريق الدائري بمنطقة الوراق في محافظة الجيزة إلى 30 حالة وفاة، بالإضافة إلى 16 مصابا بإصابات متفاوتة.\n\n المصدر:اليوم السابع وزير الصحة لإكسترا نيوز: 4 حالات حرجة بحروق تصل لـ80% في حادث الوراق",
+          "enlace": "https://www.youm7.com/story/2026/11/25/وزير-الصحة-لإكسترا-نيوز-4-حالات-حرجة-بحروق-تصل-لـ80/7632732"
         },
         {
-          "titulo": "انخفاض الحرارة وشبورة كثيفة.. تفاصيل الطقس اليوم الأربعاء 25 نوفمبر 2026",
-          "entradilla": "تتوقع الهيئة العامة للأرصاد الجوية، أن يشهد اليوم الأربعاء 25 نوفمبر 2026، طقس معتدل الحرارة نهاراً على أغلب الأنحاء، حار على جنوب الصعيد. المصدر:اليوم السابع انخفاض الحرارة وشبورة كثيفة.. تفاصيل الطقس اليوم الأربعاء 25 نوفمبر 2026",
-          "enlace": "https://www.youm7.com/story/2026/11/25/انخفاض-الحرارة-وشبورة-كثيفة-تفاصيل-الطقس-اليوم-الأربعاء-25-نوفمبر/7630752"
+          "titulo": "رئيس جامعة القاهرة يوجه بتوفير الرعاية الطبية لمصابي حريق الوراق",
+          "entradilla": "تابع الدكتور محمد سامي عبد الصادق، رئيس جامعة القاهرة، الحالة الصحية لمصابي حادث حريق دائري الوراق، الذين استقبلتهم مستشفيات قصر العيني، موجهًا الدكتور حسام صلاح، عميد كلية طب قصر العيني المصدر:اليوم السابع رئيس جامعة القاهرة يوجه بتوفير الرعاية الطبية لمصابي حريق الوراق",
+          "enlace": "https://www.youm7.com/story/2026/11/25/رئيس-جامعة-القاهرة-يوجه-بتوفير-الرعاية-الطبية-لمصابي-حريق-الوراق/7632709"
         },
         {
-          "titulo": "وظائف السكة الحديد 2026.. تعرف على الشروط والمستندات وموعد التقديم",
-          "entradilla": "​أعلنت الهيئة القومية لسكك حديد مصر عن إعلان رقم (9) لسنة 2026، وذلك للتعيين بالوظائف العامة وحاجتها لتعيين 2666 فنيًا من حملة المؤهلات المتوسطة وفوق المتوسطة. المصدر:اليوم السابع وظائف السكة الحديد 2026.. تعرف على الشروط والمستندات وموعد التقديم",
-          "enlace": "https://www.youm7.com/story/2026/11/24/وظائف-السكة-الحديد-2026-تعرف-على-الشروط-والمستندات-وموعد-التقديم/7630872"
+          "titulo": "حريق الوراق.. وزير التعليم العالى يوجه برفع الاستعداد بالمستشفيات الجامعية",
+          "entradilla": "في ضوء تداعيات حادث الوراق، وجّه الدكتور عبدالعزيز قنصوة، وزير التعليم العالي والبحث العلمي، والقائم بعمل وزير الثقافة برفع درجة الاستعداد القصوى بأقسام الطوارئ.. المصدر:اليوم السابع حريق الوراق.. وزير التعليم العالى يوجه برفع الاستعداد بالمستشفيات الجامعية",
+          "enlace": "https://www.youm7.com/story/2026/11/25/حريق-الوراق-وزير-التعليم-العالى-يوجه-برفع-الاستعداد-بالمستشفيات-الجامعية/7632690"
         },
         {
-          "titulo": "وزير الخارجية يستقبل نظيره الأردني لبحث تعزيز العلاقات الثنائية والتطورات الإقليمية",
-          "entradilla": "استقبل د. بدر عبد العاطي، وزير الخارجية والتعاون الدولي والمصريين بالخارج، الثلاثاء، أيمن الصفدي، نائب رئيس الوزراء ووزير الخارجية وشئون المغتربين بالمملكة الأردنية\n المصدر:اليوم السابع وزير الخارجية يستقبل نظيره الأردني لبحث تعزيز العلاقات الثنائية والتطورات الإقليمية",
-          "enlace": "https://www.youm7.com/story/2026/11/24/وزير-الخارجية-يستقبل-نظيره-الأردني-لبحث-تعزيز-العلاقات-الثنائية-والتطورات/7631516"
+          "titulo": "متحدث الوزراء: توجيه بفتح تحقيق فى ملابسات حادث الوراق للوقوف على أسبابه",
+          "entradilla": "أعرب المستشار محمد عادل، المتحدث الرسمي باسم مجلس الوزراء، نيابة عن الدكتور مصطفى مدبولي رئيس المجلس، عن انضمام الحكومة للتعازي التي قدمها فخامة الرئيس عبد الفتاح السيسي لأسر ضحايا الحادث\n\n المصدر:اليوم السابع متحدث الوزراء: توجيه بفتح تحقيق فى ملابسات حادث الوراق للوقوف على أسبابه",
+          "enlace": "https://www.youm7.com/story/2026/11/25/متحدث-الوزراء-توجيه-بفتح-تحقيق-فى-ملابسات-حادث-الوراق-للوقوف/7632677"
         },
         {
-          "titulo": "وزير الخارجية: تعزيز المشاورات بين مصر والأردن فى ظل تحديات إقليمية تواجه البلدين",
-          "entradilla": "قال وزير الخارجية المصري دكتور بدر عبدالعاطي: اتفقنا مع الأردن على ضرورة الدفع نحو تمكين السلطة الفلسطينية من بسط سلطاتها في الضفة الغربية وقطاع غزة.\n\n المصدر:اليوم السابع وزير الخارجية: تعزيز المشاورات بين مصر والأردن فى ظل تحديات إقليمية تواجه البلدين",
-          "enlace": "https://www.youm7.com/story/2026/11/24/وزير-الخارجية-تعزيز-المشاورات-بين-مصر-والأردن-فى-ظل-تحديات/7631399"
+          "titulo": "السيدة انتصار السيسي تُعزّى أسر ضحايا حادث الطريق الدائرى فى الوراق",
+          "entradilla": "تقدمت السيدة انتصار السيسي، حرم فخامة الرئيس عبد الفتاح السيسي، رئيس جمهورية مصر العربية بخالص التعازي والمواساة إلى أسر ضحايا حادث الطريق الدائري بمنطقة الوراق.. المصدر:اليوم السابع السيدة انتصار السيسي تُعزّى أسر ضحايا حادث الطريق الدائرى فى الوراق",
+          "enlace": "https://www.youm7.com/story/2026/11/25/السيدة-انتصار-السيسي-تُعزّى-أسر-ضحايا-حادث-الطريق-الدائرى-فى/7632686"
         },
         {
-          "titulo": "الرئيس الإيراني: ترامب يتراجع عن مذكرة التفاهم لأنها تصب في مصلحتنا",
-          "entradilla": "قال الرئيس الإيراني، مسعود بزشكيان، إن الرئيس الأمريكي دونالد ترامب تراجع عن مذكرة التفاهم لأنها تصب في مصلحة إيران، حسبما أفادت قناة \"القاهرة الإخبارية\"، في نبأ عاجل.\n\n المصدر:اليوم السابع الرئيس الإيراني: ترامب يتراجع عن مذكرة التفاهم لأنها تصب في مصلحتنا",
-          "enlace": "https://www.youm7.com/story/2026/11/24/الرئيس-الإيراني-ترامب-يتراجع-عن-مذكرة-التفاهم-لأنها-تصب-في/7631358"
+          "titulo": "وزارة التضامن: تحريك فرق الإغاثة وتقديم مساعدات فورية لأسر ضحايا حادث الوراق",
+          "entradilla": "قدّم الدكتور أحمد عبد الرحمن، رئيس الإدارة المركزية للحماية الاجتماعية بوزارة التضامن الاجتماعي، خالص التعازي للشعب المصري ولأسر ضحايا حادث الوراق، متمنيًا الشفاء العاجل للمصابين المصدر:اليوم السابع وزارة التضامن: تحريك فرق الإغاثة وتقديم مساعدات فورية لأسر ضحايا حادث الوراق",
+          "enlace": "https://www.youm7.com/story/2026/11/25/وزارة-التضامن-تحريك-فرق-الإغاثة-وتقديم-مساعدات-فورية-لأسر-ضحايا/7632681"
         },
         {
-          "titulo": "أعضاء اللجنة الاستشارية للشئون السياسية: تعقّد المشهد الراهن واتساع رقعة الصراع",
-          "entradilla": "التقى الدكتور مصطفى مدبولي، رئيس مجلس الوزراء، مساء اليوم، أعضاء اللجنة الاستشارية للشئون السياسية، بمقر الحكومة بالعاصمة الجديدة؛ وذلك في إطار اللقاءات الدورية لتبادل الآراء والأفكار حول القضايا المصدر:اليوم السابع أعضاء اللجنة الاستشارية للشئون السياسية: تعقّد المشهد الراهن واتساع رقعة الصراع",
-          "enlace": "https://www.youm7.com/story/2026/11/24/أعضاء-اللجنة-الاستشارية-للشئون-السياسية-تعقّد-المشهد-الراهن-واتساع-رقعة/7631346"
+          "titulo": "«النقل» تنفى صدور تصريحات بشأن أسباب حريق الوراق: تخضع لتحقيقات النيابة",
+          "entradilla": "​تنفي وزارة النقل ما تم تداوله عبر عدد من المواقع الإلكترونية وصفحات التواصل الاجتماعي تحت عنوان \"وزارة النقل: كابل كهربائي سقط على السيارات قبل الاحتراق.. المصدر:اليوم السابع «النقل» تنفى صدور تصريحات بشأن أسباب حريق الوراق: تخضع لتحقيقات النيابة",
+          "enlace": "https://www.youm7.com/story/2026/11/25/«النقل»-تنفى-صدور-تصريحات-بشأن-أسباب-حريق-الوراق-تخضع-لتحقيقات/7632678"
         },
         {
-          "titulo": "اللجنة الاستشارية للشئون السياسية تطالب بضرورة مصارحة المواطنين وكشف الحقائق",
-          "entradilla": "التقى الدكتور مصطفى مدبولي، رئيس مجلس الوزراء، مساء اليوم، أعضاء اللجنة الاستشارية للشئون السياسية، بمقر الحكومة بالعاصمة الجديدة؛ وذلك في إطار اللقاءات الدورية لتبادل الآراء.. المصدر:اليوم السابع اللجنة الاستشارية للشئون السياسية تطالب بضرورة مصارحة المواطنين وكشف الحقائق",
-          "enlace": "https://www.youm7.com/story/2026/11/24/اللجنة-الاستشارية-للشئون-السياسية-تطالب-بضرورة-مصارحة-المواطنين-وكشف-الحقائق/7631343"
+          "titulo": "وزير الصحة يتابع مصابي حريق الوراق ميدانيًا.. 30 وفاة و19 مصابًا في حصر أولي",
+          "entradilla": "وجّه الدكتور خالد عبدالغفار، وزير الصحة والسكان، برفع درجة الاستعداد بالغرفة المركزية للأزمات بديوان عام الوزارة، لمتابعة التداعيات الصحية لحادث الحريق الذي اندلع أعلى نفق عشرة بحي الوراق المصدر:اليوم السابع وزير الصحة يتابع مصابي حريق الوراق ميدانيًا.. 30 وفاة و19 مصابًا في حصر أولي",
+          "enlace": "https://www.youm7.com/story/2026/11/25/وزير-الصحة-يتابع-مصابي-حريق-الوراق-ميدانيًا-30-وفاة-و19/7632662"
         },
         {
-          "titulo": "رئيس الوزراء يلتقى أعضاء اللجنة الاستشارية للشئون السياسية",
-          "entradilla": "التقى الدكتور مصطفى مدبولي، رئيس مجلس الوزراء، مساء اليوم، أعضاء اللجنة الاستشارية للشئون السياسية، بمقر الحكومة بالعاصمة الجديدة؛ وذلك في إطار اللقاءات الدورية لتبادل الآراء والأفكار حول القضايا المصدر:اليوم السابع رئيس الوزراء يلتقى أعضاء اللجنة الاستشارية للشئون السياسية",
-          "enlace": "https://www.youm7.com/story/2026/11/24/رئيس-الوزراء-يلتقى-أعضاء-اللجنة-الاستشارية-للشئون-السياسية/7631341"
+          "titulo": "حادث الوراق.. لحظة انفجار سيارة المواد البترولية أعلى الطريق الدائرى",
+          "entradilla": "تداول فيديو بموقع التواصل للحظة انفجار  سيارة نقل محملة لمواد بترولية بالطريق الدائرى نطاق منطقة الوراق، وانتقل رجال الحماية المدنية إلى مكان البلاغ وتم السيطرة علي الحريق المصدر:اليوم السابع حادث الوراق.. لحظة انفجار سيارة المواد البترولية أعلى الطريق الدائرى",
+          "enlace": "https://www.youm7.com/story/2026/11/25/حادث-الوراق-لحظة-انفجار-سيارة-المواد-البترولية-أعلى-الطريق-الدائرى/7632630"
         },
         {
-          "titulo": "دعم مصري لوحدة واستقرار وسيادة السودان.. أبرز عناوين اليوم السابع غدا",
-          "entradilla": "تحت عنوان «دعم مصري لوحدة واستقرار وسيادة السودان»، تستعرض «اليوم السابع» في عددها الورقي، غدًا الأربعاء 25 نوفمبر 2026،  المصدر:اليوم السابع دعم مصري لوحدة واستقرار وسيادة السودان.. أبرز عناوين اليوم السابع غدا",
-          "enlace": "https://www.youm7.com/story/2026/11/24/دعم-مصري-لوحدة-واستقرار-وسيادة-السودان-أبرز-عناوين-اليوم-السابع/7631170"
+          "titulo": "البابا تواضروس: نعزى أسر ضحايا حادث طريق الوراق ونصلى لشفاء المصابين",
+          "entradilla": "تقدمت الكنيسة القبطية الأرثوذكسية، بخالص التعزية والمواساة إلى أسر ضحايا حادث الطريق الدائرى بمنطقة الوراق في محافظة الجيزة. المصدر:اليوم السابع البابا تواضروس: نعزى أسر ضحايا حادث طريق الوراق ونصلى لشفاء المصابين",
+          "enlace": "https://www.youm7.com/story/2026/11/25/البابا-تواضروس-نعزى-أسر-ضحايا-حادث-طريق-الوراق-ونصلى-لشفاء/7632638"
         },
         {
-          "titulo": "بوتين: سنرد على مهاجمة أوكرانيا لمنشآت النفط الروسية",
-          "entradilla": "أعلن الرئيس الروسي فلاديمير بوتين، اليوم الثلاثاء، أن قطاع الوقود والطاقة في روسيا يضم كفاءات وتقنيات متطورة، مشيرا إلى أن الشركات الروسية تتبوأ دورا رائدا في سوق الطاقة العالمية. المصدر:اليوم السابع بوتين: سنرد على مهاجمة أوكرانيا لمنشآت النفط الروسية",
-          "enlace": "https://www.youm7.com/story/2026/11/24/بوتين-سنرد-على-مهاجمة-أوكرانيا-لمنشآت-النفط-الروسية/7631242"
+          "titulo": "النيابة: أخذ عينات DNA من جثامين لم يتم التعرف على هوياتهم بحادث الوراق",
+          "entradilla": "أمرت النيابة العامة بأخذ عينات DNA من جثامين المتوفين الذين لم يتم التعرف على هوياتهم، لإجراء المضاهاة اللازمة المصدر:اليوم السابع النيابة: أخذ عينات DNA من جثامين لم يتم التعرف على هوياتهم بحادث الوراق",
+          "enlace": "https://www.youm7.com/story/2026/11/25/النيابة-أخذ-عينات-DNA-من-جثامين-لم-يتم-التعرف-على/7632621"
         },
         {
-          "titulo": "وزيرة الإسكان ومحافظ بورسعيد يشهدان تسليم عقود وحدات محور الإسكان المتوسط",
-          "entradilla": "خلال زيارتها اليوم لمحافظة بورسعيد، قامت المهندسة راندة المنشاوي، وزيرة الإسكان والمرافق والمجتمعات العمرانية، واللواء إبراهيم أبو ليمون، محافظ بورسعيد المصدر:اليوم السابع وزيرة الإسكان ومحافظ بورسعيد يشهدان تسليم عقود وحدات محور الإسكان المتوسط",
-          "enlace": "https://www.youm7.com/story/2026/11/24/وزيرة-الإسكان-ومحافظ-بورسعيد-يشهدان-تسليم-عقود-وحدات-محور-الإسكان/7631192"
+          "titulo": "رئيس الوزراء يؤجل زيارته لـ بنى سويف لمتابعة تداعيات حادث حريق دائرى الوراق",
+          "entradilla": "كشفت مصادر مطلعة لـ \"اليوم السابع\" عن تأجيل الدكتور مصطفى مدبولي، رئيس مجلس الوزراء، زيارته لمحافظة بني سويف التي كان مقرر لها غدا الخميس، وذلك بسبب حادث حريق دائري الوراق. المصدر:اليوم السابع رئيس الوزراء يؤجل زيارته لـ بنى سويف لمتابعة تداعيات حادث حريق دائرى الوراق",
+          "enlace": "https://www.youm7.com/story/2026/11/25/رئيس-الوزراء-يؤجل-زيارته-لـ-بنى-سويف-لمتابعة-تداعيات-حادث/7632625"
         }
       ],
       "analisis": {
-        "resumen": "- La OMS señala que Egipto cuenta con más de 180 fábricas farmacéuticas y cubre el 90 % de sus necesidades.\n- Egipto y Jordania abordan sus relaciones y los desafíos regionales; Egipto también expresa su apoyo a la soberanía de Sudán.\n- El primer ministro se reúne con una comisión política que pide informar con franqueza a la ciudadanía.\n- Rusia anuncia una respuesta a los ataques ucranianos contra instalaciones petroleras; el presidente iraní cuestiona a Trump por un memorando.\n- Se destacan el descenso de temperaturas, las 2.666 plazas de técnicos ferroviarios y la entrega de contratos de vivienda en Puerto Saíd.",
-        "populismo": 15,
-        "motivo_populismo": "Predomina un tono informativo e institucional, aunque expresiones como «se amplía el conflicto» y «responderemos» aportan cierta carga de tensión sin recurrir a la oposición entre pueblo y élites.",
-        "sesgo": "La selección da protagonismo a autoridades egipcias y a sus iniciativas, con especial atención a la diplomacia y los servicios públicos. Las noticias internacionales se presentan principalmente mediante declaraciones de dirigentes."
+        "resumen": "- El incendio en la carretera de circunvalación de Al Warraq deja 30 fallecidos; los balances citan 16 y 19 heridos.\n- Cuatro personas están en estado crítico, con quemaduras de hasta el 80 %; las autoridades refuerzan la atención hospitalaria.\n- Se ordena investigar las causas y tomar muestras de ADN para identificar a las víctimas; Transporte niega haber atribuido el incendio a un cable eléctrico.\n- Se anuncian ayudas a las familias y se recogen condolencias de autoridades y de la Iglesia copta.\n- Se difunde un vídeo de la explosión de un vehículo con productos petrolíferos y el primer ministro aplaza una visita para seguir el caso.",
+        "populismo": 10,
+        "motivo_populismo": "Los titulares son mayormente informativos y no enfrentan a grupos, aunque destacan detalles impactantes como las quemaduras y el momento de la explosión.",
+        "sesgo": "La selección muestra un enfoque institucional: predominan las declaraciones y actuaciones de autoridades, mientras no se recogen testimonios directos de víctimas o familiares."
       }
     },
     {
@@ -186,59 +186,59 @@
       "web": "https://akhbarelyom.com",
       "noticias": [
         {
-          "titulo": "موعد مباريات يوم الأربعاء 25 نوفمبر 2026 | إنفوجراف",
+          "titulo": "محمد صلاح يقدم التعازي لأسر ضحايا حريق الوراق",
           "entradilla": "",
-          "enlace": "https://akhbarelyom.com/news/newdetails/4913339/1/موعد-مباريات-يوم-الأربعاء-25-نوفمبر-2026"
+          "enlace": "https://akhbarelyom.com/news/newdetails/4913934/1/محمد-صلاح-يقدم-التعازي-لأسر-ضحايا-حريق-ا"
         },
         {
-          "titulo": "ريال مدريد يواصل انتصاراته بفوز كبير على آيندهوفن في دوري أبطال أوروبا",
+          "titulo": "مدبولي يوجه بتحقيق فوري للوقوف على أسباب حريق الوراق",
           "entradilla": "",
-          "enlace": "https://akhbarelyom.com/news/newdetails/4913338/1/ريال-مدريد-يواصل-انتصاراته-بفوز-كبير-على"
+          "enlace": "https://akhbarelyom.com/news/newdetails/4913924/1/مدبولي-يوجه-بتحقيق-فوري-للوقوف-على-أسباب"
         },
         {
-          "titulo": "محافظ أسوان: توفير الرعاية الطبية للمصابين في حادث طريق أبوسمبل",
+          "titulo": "حريق الوراق| لحظة بلحظة بالفيديو.. النقل تنفي سقوط كابل كهرباء على السيارات",
           "entradilla": "",
-          "enlace": "https://akhbarelyom.com/news/newdetails/4913304/1/محافظ-أسوان-توفير-الرعاية-الطبية-للمصابي"
+          "enlace": "https://akhbarelyom.com/news/newdetails/4913764/1/حريق-الوراق-لحظة-بلحظة-بالفيديو-النقل-تن"
         },
         {
-          "titulo": "تحطم مروحية تركية تدريبية بولاية أسكي شهير شمال غربي البلاد",
+          "titulo": "حريق الوراق| أسماء المصابين في الحادث الأليم",
           "entradilla": "",
-          "enlace": "https://akhbarelyom.com/news/newdetails/4913308/1/تحطم-مروحية-تركية-تدريبية-بولاية-أسكي-شه"
+          "enlace": "https://akhbarelyom.com/news/newdetails/4913921/1/حريق-الوراق-أسماء-المصابين-في-الحادث-الأ"
         },
         {
-          "titulo": "النيابة الإدارية تباشر تحقيقات عاجلة في حادث انهيار جزئي لعقار بالعطارين",
+          "titulo": "من بداية الحادث.. 15 صورة ترصد تفاصيل حريق الوراق",
           "entradilla": "",
-          "enlace": "https://akhbarelyom.com/news/newdetails/4913291/1/النيابة-الإدارية-تباشر-تحقيقات-عاجلة-في-"
+          "enlace": "https://akhbarelyom.com/news/newdetails/4913914/1/من-بداية-الحادث-15-صورة-ترصد-تفاصيل-حريق"
         },
         {
-          "titulo": "بطل القيادة الطلابية العالمية في حوار خاص: أحلم بقيادة نهضة صناعية تعتمد على التكنولوجيا",
+          "titulo": "حشرة في الفصل وكابوس في البيت.. أمهات يروين تفاصيل أزمة البق بالمدارس",
           "entradilla": "",
-          "enlace": "https://akhbarelyom.com/news/newdetails/4913177/1/بطل-القيادة-الطلابية-العالمية-في-حوار-خا"
+          "enlace": "https://akhbarelyom.com/news/newdetails/4913684/1/حشرة-في-الفصل-وكابوس-في-البيت-أمهات-يروي"
         },
         {
-          "titulo": "ذكرى رحيل الشيخ الحصري.. حكاية قارئ رفض أجر تلاوة القرآن",
+          "titulo": "من قلب حقول الإسماعيلية.. جولة تكشف أسرار زراعة وحصاد «الكلمنتينة»",
           "entradilla": "",
-          "enlace": "https://akhbarelyom.com/news/newdetails/4913167/1/ذكرى-رحيل-الشيخ-الحصري-حكاية-قارئ-رفض-أج"
+          "enlace": "https://akhbarelyom.com/news/newdetails/4913662/1/من-قلب-حقول-الإسماعيلية-جولة-تكشف-أسرار-"
         },
         {
-          "titulo": "من أيزنهاور إلى بوتين.. الحقائب المرافقة للرؤساء استعراض للقوة أم مفاتيح للردع؟",
+          "titulo": "نفق وأسوار.. شواهد جديدة تثير التساؤلات حول أسرار الإسكندرية القديمة",
           "entradilla": "",
-          "enlace": "https://akhbarelyom.com/news/newdetails/4913143/1/من-أيزنهاور-إلى-بوتين-الحقائب-المرافقة-ل"
+          "enlace": "https://akhbarelyom.com/news/newdetails/4913640/1/نفق-وأسوار-شواهد-جديدة-تثير-التساؤلات-حو"
         },
         {
-          "titulo": "خاص| الملاذ الآمن يدخل دوامة الهبوط.. ماذا أصاب الذهب؟",
+          "titulo": "باستثمارات 20 مليون دولار.. تفاصيل إطلاق الإنتاج المحلي لسيارة شيفروليه «جروڤ» بحضور رئيس الوزراء",
           "entradilla": "",
-          "enlace": "https://akhbarelyom.com/news/newdetails/4913121/1/خاص-الملاذ-الآمن-يدخل-دوامة-الهبوط-ماذا-"
+          "enlace": "https://akhbarelyom.com/news/newdetails/4913435/1/باستثمارات-20-مليون-دولار-تفاصيل-إطلاق-ا"
         },
         {
-          "titulo": "الأعلى للشئون الإسلامية يطلق المرحلة الثانية من دورة تعليم اللغة العربية",
+          "titulo": "حريق الوراق| رفع درجة الاستعداد القصوى بالمستشفيات الجامعية",
           "entradilla": "",
-          "enlace": "https://akhbarelyom.com/news/newdetails/4913257/1/الأعلى-للشئون-الإسلامية-يطلق-المرحلة-الث"
+          "enlace": "https://akhbarelyom.com/news/newdetails/4913915/1/حريق-الوراق-رفع-درجة-الاستعداد-القصوى-با"
         },
         {
-          "titulo": "صلاة العصر كانت آخر مشاهد سائق قبل مصرعه في حادث أسوان الذي أودى بحياة 10 أشخاص",
+          "titulo": "مستشفى الشيخ زايد التخصصي تستقبل 7 ضحايا في حادث الوراق| خاص",
           "entradilla": "",
-          "enlace": "https://akhbarelyom.com/news/newdetails/4913323/1/صلاة-العصر-كانت-آخر-مشاهد-سائق-قبل-مصرعه"
+          "enlace": "https://akhbarelyom.com/news/newdetails/4913926/1/مستشفى-الشيخ-زايد-التخصصي-تستقبل-7-ضحايا"
         },
         {
           "titulo": "روبوت «شيك» يقتحم الريد كاربت في ختام مهرجان القاهرة السينمائي| شاهد",
@@ -247,10 +247,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- El accidente de carretera en Asuán, que causó diez muertes, centra noticias sobre la atención a los heridos y los últimos momentos de un conductor.\n- Se informa del accidente de un helicóptero de entrenamiento turco y de una investigación por el derrumbe parcial de un edificio en Al Attarin.\n- La portada recoge los partidos del miércoles y la amplia victoria del Real Madrid sobre el PSV Eindhoven en la Liga de Campeones.\n- Otros temas son la caída del oro, los maletines que acompañan a los presidentes y el proyecto industrial tecnológico de un líder estudiantil.\n- En cultura y religión, aparecen el legado del recitador Al Husari, un curso de árabe y un robot en la clausura del Festival de Cine de El Cairo.",
+        "resumen": "- El incendio de Al Warraq domina la portada: se informa sobre las víctimas, las condolencias de Mohamed Salah y la atención hospitalaria.\n- El primer ministro ordena una investigación inmediata; el Ministerio de Transporte niega que un cable eléctrico cayera sobre los coches.\n- Varias madres relatan la crisis de chinches en las escuelas.\n- Se presentan reportajes sobre el cultivo de clementinas en Ismailía y nuevos indicios sobre la Alejandría antigua.\n- También destacan el lanzamiento de la producción local del Chevrolet Groove y la aparición de un robot en el Festival de Cine de El Cairo.",
         "populismo": 20,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «el refugio seguro entra en una espiral de caída» y la mención a la última oración de un conductor aportan dramatismo; no se aprecia una oposición entre pueblo y élites.",
-        "sesgo": "La selección combina sucesos egipcios, deporte, economía, cultura y religión, con interés por el impacto humano y algunos enfoques llamativos. No se aprecia un sesgo político claro en los titulares."
+        "motivo_populismo": "Predomina la información, aunque expresiones como «pesadilla en casa», «incidente doloroso» y «secretos» aportan carga emocional y cierto sensacionalismo.",
+        "sesgo": "La selección prioriza ampliamente el incendio y la respuesta de las autoridades y los hospitales. Algunos titulares buscan atraer la atención mediante dramatización y misterio."
       }
     },
     {
@@ -258,71 +258,71 @@
       "web": "https://www.shorouknews.com",
       "noticias": [
         {
-          "titulo": "النائب فايز أبو حرب: مبادرة تقنين أوضاع «الدهابة» عبور جديد يشبه نصر أكتوبر والقضاء على الإرهاب",
+          "titulo": "عاجل.. الصحة: الحصيلة النهائية لحادث حريق الوراق 31 وفاة و21 مصابا",
           "entradilla": "",
-          "enlace": "https://www.shorouknews.com/news/view.aspx?cdate=24112026&id=448776aa-362c-40d1-9f6b-c5c0bb7fb742"
+          "enlace": "https://www.shorouknews.com/news/view.aspx?cdate=25112026&id=00e30e1c-27eb-4b0e-aaa9-19d4d004de43"
         },
         {
-          "titulo": "خالد أبو بكر: شهادة بايدن في مذكراته تجعلنا نفتخر بموقف الرئيس السيسي من قضية تهجير الفلسطينيين",
+          "titulo": "سائق ونش يروي لـ الشروق تفاصيل نجاته من حريق دائري الوراق: الطريق تحول لكتلة من اللهب",
           "entradilla": "",
-          "enlace": "https://www.shorouknews.com/news/view.aspx?cdate=24112026&id=fe0decc4-800a-4ff9-860d-4eba4dae0b97"
+          "enlace": "https://www.shorouknews.com/news/view.aspx?cdate=25112026&id=d6cc5ffb-1598-496f-a552-4ca0c6b1a13e"
         },
         {
-          "titulo": "الأرصاد: طقس الغد معتدل نهارا مائل للبرودة ليلا على أغلب الأنحاء.. والعظمى بالقاهرة 24",
+          "titulo": "وزارة النقل تنفي صحة تصريحات منسوبة لها بشأن سقوط كابل كهربائي قبل حريق الدائري",
           "entradilla": "",
-          "enlace": "https://www.shorouknews.com/news/view.aspx?cdate=24112026&id=56943757-3384-4ed9-ae45-ce9cd39ba245"
+          "enlace": "https://www.shorouknews.com/news/view.aspx?cdate=25112026&id=877fd942-ce9a-4d57-84d8-e3716781a940"
         },
         {
-          "titulo": "دونجا : استمرار عموتة في الأهلي كان في صالح الزمالك وبيراميدز",
+          "titulo": "شاهد عيان بحريق دائري الوراق: الضحايا لم يتمكنوا من الخروج وتفحموا داخل السيارات",
           "entradilla": "",
-          "enlace": "https://www.shorouknews.com/news/view.aspx?cdate=24112026&id=917a6618-04db-4a4f-b726-5b33151949ee"
+          "enlace": "https://www.shorouknews.com/news/view.aspx?cdate=25112026&id=94d3e161-192d-4899-9faa-975aa9e92fb4"
         },
         {
-          "titulo": "الشيخ موسى هلال رئيس مجلس الصحوة الثوري السوداني في حوار خاص لـ الشروق 2 _ 2: بن عوف أُجبر على التنازل في 24 ساعة.. وحميدتي كان الرئيس المفترض",
+          "titulo": "وكيل حقوق الإنسان بالنواب يتقدم ببيان عاجل لرئيس الوزراء بشأن حادث الطريق الدائري بالوراق",
           "entradilla": "",
-          "enlace": "https://www.shorouknews.com/news/view.aspx?cdate=24112026&id=d73fbc9e-24b5-4b51-8db6-5ae05a0e5ec1"
+          "enlace": "https://www.shorouknews.com/news/view.aspx?cdate=25112026&id=f343fa26-77eb-41a8-b96c-1c7e5c271be4"
         },
         {
-          "titulo": "الأطباء: مهنة الطب عنيفة في مصر.. والمستشفيات لا يجب أن تباح لأي مسئول",
+          "titulo": "صدام حفتر ينعى ضحايا حادث الوراق: حفظ الله مصر وشعبها",
           "entradilla": "",
-          "enlace": "https://www.shorouknews.com/news/view.aspx?cdate=24112026&id=d1996d86-306a-43e3-9ec6-5c3d970dd21b"
+          "enlace": "https://www.shorouknews.com/news/view.aspx?cdate=25112026&id=527e4d30-2d5d-433d-9331-f3c47d1a424e"
         },
         {
-          "titulo": "مخاوف الملاحة في هرمز تدفع أسعار النفط للارتفاع بأكثر من 2%",
+          "titulo": "السيدة انتصار السيسي تتابع حادث الطريق الدائري وتوجه فرق الهلال الأحمر بتقديم الدعم للمصابين وأسر الضحايا",
           "entradilla": "",
-          "enlace": "https://www.shorouknews.com/news/view.aspx?cdate=24112026&id=b46ecf21-f4a0-4c01-b7cd-d708c40aabde"
+          "enlace": "https://www.shorouknews.com/news/view.aspx?cdate=25112026&id=d0b02d34-e519-4411-9def-c5c518b9a4ac"
         },
         {
-          "titulo": "وزير الكهرباء: إنشاء محطة الضبعة النووية قرار عبقري.. والمشروع يستهدف توفير نحو 12% من القدرات الكهربائية",
+          "titulo": "الأمن يعيد حركة السير بالطريق الدائري بعد رفع حطام حادث حريق الوراق",
           "entradilla": "",
-          "enlace": "https://www.shorouknews.com/news/view.aspx?cdate=24112026&id=eb21b995-a6f6-463a-a031-487302676d19"
+          "enlace": "https://www.shorouknews.com/news/view.aspx?cdate=25112026&id=bfca0de9-cb2f-4dd1-b90b-74f2ce46e294"
         },
         {
-          "titulo": "إن بي سي نيوز: إدارة ترامب تبحث اغتيال مسئولين إيرانيين",
+          "titulo": "النيابة العامة: تفحم 27 مركبة في حريق دائري الوراق ووفاة 30 شخصا وإصابة 25",
           "entradilla": "",
-          "enlace": "https://www.shorouknews.com/news/view.aspx?cdate=24112026&id=b1da7e66-60d4-443b-9770-32a0ed2b5ea6"
+          "enlace": "https://www.shorouknews.com/news/view.aspx?cdate=25112026&id=8d4f1950-a71f-446b-8072-8c96d1e61431"
         },
         {
-          "titulo": "أحمد موسى: مصر وضعت خطوطا حمراء في السودان ولن تسمح بتجاوزها",
+          "titulo": "رئيس الوزراء يوجه بفتح تحقيق في حادث حريق الطريق الدائري بالوراق",
           "entradilla": "",
-          "enlace": "https://www.shorouknews.com/news/view.aspx?cdate=24112026&id=0b6a86bb-352b-4518-ae00-a69d80afea94"
+          "enlace": "https://www.shorouknews.com/news/view.aspx?cdate=25112026&id=0f4b2994-6352-47ec-aa05-aa8978e1016f"
         },
         {
-          "titulo": "الزراعة: صادراتنا تجاوزت 8.5 مليون طن منذ بداية 2026",
+          "titulo": "مصدر بالتضامن لـ الشروق: صرف تعويضات لأسر ضحايا ومصابي حريق الطريق الدائري بالوراق بعد حصر الأعداد",
           "entradilla": "",
-          "enlace": "https://www.shorouknews.com/news/view.aspx?cdate=24112026&id=65223553-f2fa-4bf6-ba02-8139ef89da65"
+          "enlace": "https://www.shorouknews.com/news/view.aspx?cdate=25112026&id=4742a2bb-96ac-408e-aaa9-1600ec2cde87"
         },
         {
-          "titulo": "وزير الكهرباء: أقصى حمل سجلته مصر بلغ 40 جيجاوات خلال الصيف الماضي",
+          "titulo": "فيديو.. لحظة اندلاع حريق دائري الوراق المروع",
           "entradilla": "",
-          "enlace": "https://www.shorouknews.com/news/view.aspx?cdate=24112026&id=56bd6557-66ec-4601-85f7-efbd1bf78fb1"
+          "enlace": "https://www.shorouknews.com/news/view.aspx?cdate=25112026&id=adde7f2e-1ebb-49dc-bd73-fc161d97a520"
         }
       ],
       "analisis": {
-        "resumen": "- Se destacan elogios a la postura de Al Sisi sobre el desplazamiento de palestinos y declaraciones sobre líneas rojas de Egipto en Sudán.\n- Un diputado compara la regularización de los buscadores de oro con la victoria de octubre y la lucha contra el terrorismo.\n- Una entrevista aborda la sucesión política en Sudán; NBC informa de que la administración Trump estudia asesinar a responsables iraníes.\n- El ministro de Electricidad elogia la central nuclear de Al Dabaa; el petróleo sube más de un 2% por temores sobre la navegación en Ormuz.\n- También se informa sobre la situación de los médicos, las exportaciones agrícolas, el tiempo y el fútbol.",
-        "populismo": 45,
-        "motivo_populismo": "Algunos titulares recurren al orgullo, a comparaciones con la victoria de octubre y el terrorismo y a expresiones como «decisión genial» y «líneas rojas», aunque otros mantienen un tono informativo.",
-        "sesgo": "La selección destaca declaraciones favorables al presidente y a decisiones del Gobierno, junto con enfoques de seguridad nacional. También incluye noticias de economía, servicios y deporte."
+        "resumen": "- Un incendio en la carretera de circunvalación de Al Warraq concentra la portada. Sanidad informa de 31 muertos y 21 heridos; la Fiscalía habla de 30 muertos, 25 heridos y 27 vehículos calcinados.\n- Testigos y un superviviente relatan el incendio; también se destaca un vídeo del momento en que comenzó.\n- El primer ministro ordena una investigación y el Ministerio de Transporte desmiente declaraciones atribuidas a este sobre la caída previa de un cable eléctrico.\n- Se anuncian apoyo de la Media Luna Roja y compensaciones para las familias de las víctimas y los heridos.\n- La circulación se restablece tras retirar los restos; también se recogen una iniciativa parlamentaria y mensajes de condolencia.",
+        "populismo": 25,
+        "motivo_populismo": "Expresiones como «la carretera se convirtió en una masa de llamas» y «el espantoso incendio» aportan dramatismo, pero no aparecen apelaciones al pueblo contra las élites ni descalificaciones.",
+        "sesgo": "La portada se centra casi por completo en el incendio, combinando testimonios impactantes con información sobre víctimas y respuestas oficiales. La selección enfatiza tanto la gravedad del suceso como la actuación de las autoridades."
       }
     },
     {
@@ -381,10 +381,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- Una sentencia impone una multa de tres millones de libras a la directora de Mada Masr y ordena el cierre del medio; después, las fuerzas de seguridad la detienen.\n- Mada Masr impugna dos artículos de la ley de regulación de medios; también se renueva por 15 días la prisión preventiva de periodistas de «Matsada2sh».\n- La portada aborda los daños a los olivares palestinos durante la guerra y la ocupación israelí.\n- El Parlamento autoriza a Al Sisi a adoptar medidas de apoyo militar a Arabia Saudí; la oposición lo califica de «cheque en blanco».\n- Se aplazan recursos sobre las tierras de Santa Catalina y comienzan conversaciones con el FMI; también aparecen una reflexión sobre el periodismo y un cuento.",
-        "populismo": 30,
-        "motivo_populismo": "Expresiones como «sin acceso, sin defensa» y «guerra contra la identidad y la resistencia» recurren a un lenguaje contundente y emocional, aunque otros titulares son principalmente informativos.",
-        "sesgo": "La selección destaca las restricciones a medios y periodistas y presenta la situación de Palestina desde la perspectiva de los agricultores afectados. También da espacio a la crítica de la oposición al mandato parlamentario para apoyar a Arabia Saudí."
+        "resumen": "- Se renueva por 15 días la detención de periodistas de «Matصدقش», mientras el titular denuncia falta de acceso y defensa.\n- Una sentencia impone a Lina Attalah una multa de tres millones de libras egipcias y ordena el cierre de Mada Masr; después, las fuerzas de seguridad la detienen. Otra noticia aborda la impugnación de artículos de la ley de medios.\n- La portada destaca los daños a los olivares palestinos y presenta la situación como una amenaza a la identidad y la resistencia.\n- El Parlamento autoriza a Al Sisi a apoyar militarmente a Arabia Saudí; también se menciona la retención de un pesquero egipcio allí.\n- Se aplazan litigios sobre tierras de Santa Catalina y el FMI inicia la revisión final de su programa de préstamo a Egipto; también aparecen textos reflexivos y literarios.",
+        "populismo": 25,
+        "motivo_populismo": "Predominan los titulares informativos, aunque expresiones como «sin acceso, sin defensa» y «guerra contra la identidad y la resistencia» recurren a un lenguaje enfático y de confrontación.",
+        "sesgo": "La selección destaca la situación judicial de periodistas y medios, con atención a las garantías de defensa. La noticia sobre los olivares adopta una perspectiva crítica con la ocupación israelí, mientras que la oposición parlamentaria aparece citada al describir la autorización a Al Sisi como un «cheque en blanco»."
       }
     }
   ]

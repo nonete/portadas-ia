@@ -1,39 +1,39 @@
 {
   "pais": "Brasil",
-  "fecha": "2026-11-24",
+  "fecha": "2026-11-25",
   "turno": 14,
-  "generado": "24/11/2026 22:55",
+  "generado": "25/11/2026 22:02",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "Se repiten los asuntos judiciales y políticos, especialmente las críticas a los informes de la Policía Federal relacionados con Alexandre de Moraes, presentes en O Globo y Gazeta do Povo. También aparecen el ajuste fiscal y la reforma tributaria, así como noticias sobre Petrobras. O Estado de S. Paulo destaca por abordar la crisis diplomática entre Brasil y Argentina en torno a Javier Milei.",
-    "crispacion": 65,
-    "motivo_crispacion": "La tensión se concentra en las críticas a los informes de la Policía Federal y en el enfrentamiento sobre el proceso contra el diputado Marcel van Hattem, que enfrenta a sectores de la oposición con decisiones del Supremo. Algunos titulares de Gazeta do Povo emplean lenguaje especialmente polarizador. También destacan la crisis diplomática con Argentina y las discrepancias sobre el ajuste fiscal. Las noticias deportivas, empresariales y de salud aportan asuntos menos conflictivos al conjunto."
+    "temas": "Se repiten las decisiones judiciales y los asuntos políticos vinculados al Supremo, así como las noticias económicas sobre empresas e inversiones. También aparecen deportes, salud y contenidos de ocio o consumo. Solo Folha de S.Paulo destaca los daños causados por las lluvias en Paraná.",
+    "crispacion": 58,
+    "motivo_crispacion": "La tensión se concentra en las noticias sobre el Supremo, con críticas de Gazeta do Povo a sus ministros y una declaración de una concejala sobre disparar contra Moraes que ella calificó de broma. También hay desacuerdos entre el Gobierno y alcaldes por la financiación del transporte gratuito, además de presiones por un nombramiento judicial. En el plano internacional destacan el conflicto en Gaza y las amenazas rusas señaladas por Polonia. Noticias de deporte, consumo y recetas compensan parcialmente ese clima."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Hoy veo una disputa de clase detrás del debate fiscal. La Cámara aprobó la urgencia para votar el ajuste y la industria advierte sobre sus efectos en la inversión. Pero yo pregunto: ¿quién pagará la cuenta y quién decidirá el destino de los recursos? Un ajuste no es neutral si protege la rentabilidad del gran capital mientras amenaza los derechos y servicios de la mayoría trabajadora.\n\nLa Petrobras anuncia inversiones y, al mismo tiempo, dividendos extraordinarios para sus accionistas. Defiendo que una empresa estratégica responda al interés colectivo, no a la presión de los mercados: sus recursos deben servir a la transición energética y a las necesidades sociales, bajo control público y de los trabajadores. El fin del brote de sarampión en São Paulo recuerda, además, por qué hay que fortalecer la sanidad pública en lugar de tratarla como un gasto prescindible."
+      "texto": "Veo en las noticias de hoy una disputa por quién paga y quién decide. Los alcaldes rechazan financiar la tarifa cero de fin de semana con enmiendas parlamentarias por considerarlas inestables. Comparto esa preocupación: el transporte es un derecho, no puede depender de partidas sujetas a negociación política. Hace falta financiación pública permanente y control de los trabajadores y usuarios.\n\nLa negativa judicial a suspender la subasta de baterías también plantea una pregunta: ¿quedará una infraestructura estratégica al servicio de la rentabilidad privada o de las necesidades colectivas? Yo defiendo la propiedad pública y el control democrático del sistema eléctrico. Las lluvias que han causado daños en decenas de ciudades de Paraná recuerdan, además, por qué necesitamos servicios públicos capaces de responder a las emergencias. La aprobación en el Senado del proyecto para consolidar la fuerza nacional del SUS apunta en esa dirección."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "La compra prevista de nueve vehículos blindados para el Tribunal de Justicia de São Paulo, por unos 5,8 millones de reales, me recuerda cuánto cuesta proteger a quienes ocupan las alturas del poder. Que un diputado pida suspenderla puede abrir una discusión necesaria, pero no confío en que la vigilancia entre instituciones baste: quienes sostienen estos gastos deberían poder decidir directamente sobre ellos.\n\nTambién me preocupa que la Cámara haya aprobado la urgencia para votar el ajuste fiscal sin pasar por las comisiones. Una decisión con consecuencias colectivas merece más debate, no menos. Frente a la concentración de poder en jueces, gobiernos y partidos, defiendo comunidades capaces de deliberar, gestionar sus recursos y apoyarse mutuamente. La libertad individual necesita esa fuerza colectiva; no nace de delegarlo todo en representantes."
+      "texto": "Las lluvias han causado daños en al menos 50 ciudades de Paraná. Ante una emergencia así, pienso en la fuerza del apoyo mutuo: vecinos que puedan organizarse libremente para compartir refugio, alimentos y cuidados. No como excusa para que las instituciones abandonen sus responsabilidades, sino como una forma de que las comunidades decidan y actúen sin esperar órdenes desde arriba.\n\nTambién me preocupa que la tarifa cero de fin de semana dependa de una financiación que los alcaldes consideran inestable. Moverse no debería ser un privilegio ni una promesa sometida a disputas entre partidos. Quiero transporte accesible, gestionado con participación real de trabajadores y usuarios.\n\nY la denuncia de agresión policial contra un niño autista en una escuela de Mato Grosso recuerda por qué desconfío de toda autoridad armada: el cuidado exige escucha y autonomía, no obediencia."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "La compra prevista de nueve todoterrenos blindados por el Tribunal de Justicia de São Paulo merece un examen riguroso. La seguridad puede justificar gastos, pero quien administra dinero público debe demostrar su necesidad y buscar alternativas proporcionadas. No es dinero del Estado: procede de ciudadanos que podrían emplearlo en sus propias prioridades.\n\nTambién me preocupa que el ajuste fiscal pueda apoyarse en más impuestos, como advierte la industria. Equilibrar las cuentas es indispensable, pero hacerlo elevando la carga sobre quienes invierten y trabajan puede debilitar la actividad que sostiene la recaudación. Prefiero un Estado limitado que revise sus gastos, preserve reglas estables y deje espacio al mercado. La libertad económica no elimina la responsabilidad personal: exige que cada uno responda por sus decisiones, mientras el poder público rinde cuentas por las suyas."
+      "texto": "La propuesta de transporte gratuito los fines de semana merece una pregunta sencilla: ¿quién paga y con qué seguridad? Los alcaldes rechazan financiarla con enmiendas parlamentarias por considerarlas inestables. Comparto la preocupación: una tarifa cero no elimina el costo, solo lo traslada. Prefiero ayudas focalizadas y transparentes a promesas universales sostenidas por recursos inciertos.\n\nTambién celebro que el debate sobre las baterías eléctricas continúe tras la decisión judicial de no suspender la subasta. Pero una subasta no garantiza por sí sola competencia: exijo reglas claras, acceso abierto y atención al costo para los consumidores, sin privilegios para empresas elegidas por el poder.\n\nMi ideal es un Estado limitado que proteja derechos y rinda cuentas, impuestos más bajos y ciudadanos libres para decidir y asumir responsabilidades. La prosperidad nace mejor de la competencia que de la discreción política."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Me indigna que el Tribunal de Justicia de São Paulo pretenda comprar nueve vehículos blindados por una suma estimada de 5,8 millones de reales mientras se discute un ajuste fiscal. La seguridad de los funcionarios puede ser necesaria, pero quien administra dinero público debe justificar cada gasto, no tratarlo como un privilegio de casta.\n\nTambién me preocupa que la industria advierta sobre el peso de los impuestos en el ajuste. Un país no fortalece su soberanía castigando a quienes producen, invierten y generan empleo. Y la inquietud de las familias ante los cambios en el impuesto a la herencia merece respeto: transmitir el fruto de una vida de trabajo no debería convertirse en una carrera contra el fisco. Yo quiero un Estado fuerte para garantizar el orden y defender la nación, pero limitado cuando amenaza la libertad parlamentaria, la propiedad y la continuidad de las familias."
+      "texto": "Me preocupa que Brasil confunda gobernar con repartir promesas. Los alcaldes rechazan financiar el transporte gratuito de fin de semana con enmiendas parlamentarias porque consideran inestable esa fuente. Tienen razón en exigir cuentas: una política que beneficia hoy, pero no tiene financiación segura mañana, termina debilitando a los municipios y castigando al contribuyente.\n\nTambién veo una cuestión de soberanía en la subasta de baterías para el sector eléctrico, que seguirá adelante tras la decisión judicial. No basta con celebrar la inversión: quiero saber qué garantías habrá para la seguridad energética y el interés nacional. Las élites empresariales y políticas no deberían decidir asuntos estratégicos como si la ciudadanía fuera una espectadora.\n\nY ante las lluvias que han causado daños en decenas de ciudades de Paraná, la prioridad debe ser proteger a las familias y ayudar a reconstruir sus comunidades. Eso también es defender la nación."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Me preocupa que la urgencia aprobada para el ajuste fiscal reduzca el tiempo de escrutinio. Brasil necesita cuentas públicas sostenibles, pero también un debate transparente sobre quién asumirá los costos. Tomo en serio la advertencia de la industria sobre el impacto de mayores impuestos en la inversión; también creo que cualquier ajuste debe proteger los servicios esenciales y a quienes tienen menos margen para afrontarlo.\n\nLa discusión sobre los vehículos blindados del Tribunal de Justicia de São Paulo apunta a la misma exigencia: el gasto público debe poder justificarse. Confío en que el Tribunal de Cuentas examine la compra con independencia, sin prejuzgar su necesidad. Para mí, la disciplina fiscal no consiste solo en recaudar más o recortar: exige prioridades claras, controles efectivos y acuerdos duraderos."
+      "texto": "Yo veo en las noticias de hoy una misma exigencia: convertir las buenas intenciones en políticas duraderas. La tarifa cero en el transporte de fin de semana puede ampliar oportunidades, pero los alcaldes tienen razón en pedir una financiación estable. Prefiero un acuerdo entre municipios y gobierno que identifique recursos sostenibles antes que prometer un beneficio cuya continuidad quede en duda.\n\nTambién celebro que el Senado haya aprobado un proyecto para dar estabilidad legal a la Fuerza Nacional del SUS. Las lluvias que han causado daños en decenas de ciudades de Paraná recuerdan el valor de contar con servicios públicos preparados para las emergencias. Para mí, proteger a la población y cuidar las cuentas no son objetivos opuestos: ambos requieren instituciones capaces, coordinación y reformas que puedan sostenerse más allá de un mandato."
     }
   ],
   "periodicos": [
@@ -42,71 +42,71 @@
       "web": "https://www.folha.uol.com.br",
       "noticias": [
         {
-          "titulo": "Deputado do Novo aciona TCE contra compra de carros de R$ 5,8 milhões pelo TJSP",
-          "entradilla": "O deputado estadual Leo Siqueira (Novo-SP) acionou o Tribunal de Contas do Estado de São Paulo (TCE-SP) para pedir a suspensão imediata de pregão do Tribunal de Justiça ( TJSP ) destinado à compra de nove SUVs blindados, ao custo estimado de R$ 652 mil cada. Leia mais (11/24/2026 - 18h59)",
-          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/deputado-do-novo-aciona-tce-contra-compra-de-carros-de-r-58-milhoes-pelo-tjsp.shtml"
+          "titulo": "Justiça Federal nega pedido de suspensão do leilão de baterias",
+          "entradilla": "A Justiça Federal do Distrito Federal negou nesta quarta-feira (25) um pedido de tutela de urgência que buscava suspender a realização do primeiro leilão para contratação de baterias para o setor elétrico brasileiro, marcado para a próxima semana. Leia mais (11/25/2026 - 18h10)",
+          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/justica-federal-nega-pedido-de-suspensao-do-leilao-de-baterias.shtml"
         },
         {
-          "titulo": "EUA pedem extradição de líder de cartel após prisão no México",
-          "entradilla": "Os Estados Unidos solicitaram na segunda-feira (23) a extradição do narcotraficante conhecido como El Chapo Isidro , um dos principais criminosos do México . Ele foi capturado no estado de Sinaloa na noite da última sexta-feira (20). Leia mais (11/24/2026 - 18h59)",
-          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/eua-pedem-extradicao-de-lider-de-cartel-apos-prisao-no-mexico.shtml"
+          "titulo": "Narcisa perde prêmio de R$ 41,5 milhões na loteria após motorista resgatar bilhete",
+          "entradilla": "Narcisa Tamborindeguy contou que deixou escapar um prêmio milionário de C$ 10 milhões (cerca de R$ 41,5 milhões) depois que um funcionário encontrou o bilhete premiado e resgatou o dinheiro sem seu conhecimento. O episódio ocorreu no fim dos anos 1980, quando a socialite morava na província de Ontár",
+          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/narcisa-perde-premio-de-r-415-milhoes-na-loteria-apos-motorista-resgatar-bilhete.shtml"
         },
         {
-          "titulo": "'Quem Ama Cuida': Ademir descobre que é pai de Brigitte",
-          "entradilla": "Ademir ( Dan Stulbach ) irá descobrir que é o pai biológico de Brigitte ( Tatá Werneck) nos próximos capítulos de \" Quem Ama Cuida \" ( Globo ). A revelação será feita por Pedro ( Chay Suede ), que também contará ao criminalista que Pilar ( Isabel Teixeira ) escondeu a verdade durante anos e ainda es",
-          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/11/quem-ama-cuida-ademir-descobre-que-e-pai-de-brigitte.shtml"
+          "titulo": "Trabuco, do Bradesco, assume presidência do Movimento Brasil Competitivo no lugar de Jorge Gerdau",
+          "entradilla": "O presidente do Conselho de Administração do Bradesco , Luiz Carlos Trabuco, assumiu na noite de segunda-feira (23), em São Paulo, a presidência do Conselho Superior do MBC (Movimento Brasil Competitivo). Ele sucede o empresário Jorge Gerdau Johannpeter, que fundou a entidade em 2001. Leia mais (11/",
+          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/trabuco-do-bradesco-assume-presidencia-do-movimento-brasil-competitivo-no-lugar-de-jorge-gerdau.shtml"
         },
         {
-          "titulo": "Venezuela divulga plano econômico e estima dívida em US$ 237,5 bilhões",
-          "entradilla": "O governo da Venezuela divulgou nesta terça-feira (24) seu aguardado plano macroeconômico, apresentando um panorama abrangente da economia e de sua dívida pela primeira vez em anos. A medida pode servir de base para uma das maiores reestruturações de dívida já realizadas no mundo. Leia mais (11/24/2",
-          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/venezuela-divulga-plano-economico-e-estima-divida-em-us-2375-bilhoes.shtml"
+          "titulo": "Por que vender o investimento que rende menos pode ser um erro?",
+          "entradilla": "Você abre o extrato e descobre que parte dos seus investimentos está rendendo muito menos que o restante. Sua primeira reação é pensar em vender os que estão indo mal. Mas e se justamente essa diferença de desempenho for um sinal de que sua carteira está funcionando como deveria? Leia mais (11/25/20",
+          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/por-que-vender-o-investimento-que-rende-menos-pode-ser-um-erro.shtml"
         },
         {
-          "titulo": "Casal viraliza ao resgatar lagartixa presa em tampa de concreto",
-          "entradilla": "Uma ida ao mercado terminou em uma operação de resgate para o tatuador Netto Caúla e a ilustradora Isabelle Medeiros. O casal encontrou uma lagartixa presa em uma fresta de uma tampa de concreto no condomínio onde mora, em Jaboatão dos Guararapes, na Grande Recife , em Pernambuco , e decidiu ajudar ",
-          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/bichos/2026/11/casal-viraliza-ao-resgatar-lagartixa-presa-em-tampa-de-concreto.shtml"
+          "titulo": "'A água não parava de subir', diz secretária de cidade paranaense afetada por chuvas",
+          "entradilla": "As chuvas que atingem o Paraná desde segunda-feira (24) já causaram estragos em ao menos 50 cidades até o início da tarde desta quarta-feira (25), segundo a Defesa Civil estadual. Um dos municípios mais afetados foi Nova Esperança do Sudoeste, onde vivem quase 6.000 habitantes. Leia mais (11/25/2026",
+          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/a-agua-nao-parava-de-subir-diz-secretaria-de-cidade-paranaense-afetada-por-chuvas.shtml"
         },
         {
-          "titulo": "Fundador da Hurb é preso no Rio de Janeiro após dez meses foragido",
-          "entradilla": "O empresário João Ricardo Rangel Mendes, fundador e ex-CEO da agência de viagens Hurb (antigo Hotel Urbano), foi preso na manhã desta terça-feira (24), na Barra da Tijuca, na zona oeste do Rio de Janeiro , após passar mais de dez meses foragido. Leia mais (11/24/2026 - 18h51)",
-          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/fundador-da-hurb-e-preso-no-rio-de-janeiro-apos-dez-meses-foragido.shtml"
+          "titulo": "Grão Investimentos, do Grupo Primo, lança ETF de Tesouro Prefixado na B3",
+          "entradilla": "A Grão Investimentos, gestora associada ao Grupo Primo que possui R$ 3 bilhões sob gestão, lançou na B3 , a Bolsa de Valores brasileira, o GPRE11, ETF (fundo de índice negociado em Bolsa) de Tesouro Prefixado. As cotas têm aporte inicial de R$ 25. Leia mais (11/25/2026 - 17h57)",
+          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/grao-investimentos-do-grupo-primo-lanca-etf-de-tesouro-prefixado-na-b3.shtml"
         },
         {
-          "titulo": "Em crise, BRB leiloa 62 imóveis com lances a partir de R$ 19,9 mil",
-          "entradilla": "O BRB (Banco de Brasília) colocou 62 imóveis em leilão extrajudicial, que está marcado para o dia 30 de novembro, com lances iniciais que vão de R$ 19,9 mil a R$ 4,39 milhões Leia mais (11/24/2026 - 18h49)",
-          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/em-crise-brb-leiloa-62-imoveis-com-lances-a-partir-de-r-199-mil.shtml"
+          "titulo": "Ciro Possobom renuncia ao cargo de CEO da Volkswagen do Brasil",
+          "entradilla": "A Volkswagen anunciou nesta quarta (25) que Ciro Possobom deixará o cargo de presidente da montadora no Brasil. Segundo a empresa, o executivo deixa o cargo a pedido por motivos pessoais e familiares. Leia mais (11/25/2026 - 17h55)",
+          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/ciro-possobom-renuncia-ao-cargo-de-ceo-da-volkswagen-do-brasil.shtml"
         },
         {
-          "titulo": "Prédio mais alto da capital da Arábia Saudita é atacado pela 2ª vez em menos de uma semana",
-          "entradilla": "O edifício mais alto de Riad, capital da Arábia Saudita, foi atingido nesta terça-feira (24) pela segunda vez em poucos dias. A coalizão que combate os houthis do Iêmen disse se tratar de um ataque terrorista dos rebeldes. Leia mais (11/24/2026 - 18h41)",
-          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/predio-mais-alto-da-capital-da-arabia-saudita-e-atacado-pela-2a-vez-em-menos-de-uma-semana.shtml"
+          "titulo": "Uma crise na França seria uma ameaça (e uma oportunidade) para a Europa",
+          "entradilla": "Até que ponto a UE ( União Europeia ) conseguirá lidar com o avanço do nacionalismo populista pelo continente? O bloco é o arranjo supranacional mais avançado do mundo. França e Alemanha são seus dois países indispensáveis. No entanto, o cenário que se desenha é de alta probabilidade de governos nac",
+          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/martinwolf/2026/11/uma-crise-na-franca-seria-uma-ameaca-e-uma-oportunidade-para-a-europa.shtml"
         },
         {
-          "titulo": "Petrobras buscará outras empresas de etanol de milho após compra de fatia na Neomille, diz agência",
-          "entradilla": "A Petrobras deverá buscar aquisições de outras participações em usinas de etanol de milho. O movimento ocorrerá à medida que a estatal expande sua atuação em renováveis e vê vantagens em matérias-primas para a produção de outros combustíveis sustentáveis, como o SAF para o setor de aviação, disseram",
-          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-buscara-outras-empresas-de-etanol-de-milho-apos-compra-de-fatia-na-neomille-diz-agencia.shtml"
+          "titulo": "Frente de prefeitos rejeita uso de emendas para bancar tarifa zero no transporte em fins de semana",
+          "entradilla": "A proposta do governo de Luiz Inácio Lula da Silva (PT) para a criação da tarifa zero no transporte coletivo aos sábados e domingos desagrada prefeitos, que consideram a fonte de financiamento instável e politicamente inviável. Leia mais (11/25/2026 - 17h37)",
+          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/frente-de-prefeitos-rejeita-uso-de-emendas-para-bancar-tarifa-zero-no-transporte-em-fins-de-semana.shtml"
         },
         {
-          "titulo": "Tucano encontra Alckmin e defende que ele tenha papel central na economia no Lula 4",
-          "entradilla": "Um dos principais dirigentes do PSDB , o ex-governador de Goiás Marconi Perillo encontrou-se nesta terça-feira (24) com o vice-presidente Geraldo Alckmin e defendeu que ele \"comande o processo de estabilização da economia brasileira\". Leia mais (11/24/2026 - 18h33)",
-          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tucano-encontra-alckmin-e-defende-que-ele-tenha-papel-central-na-economia-no-lula-4.shtml"
+          "titulo": "CVM pede que Abraicc seja assistente em ação contra OPA da Oncoclínicas",
+          "entradilla": "A CVM (Comissão de Valores Mobiliários) se manifestou, no âmbito da ação movida pelo fundo Josephina III contra a OPA (oferta pública de ações) da Oncoclínicas , defendendo que a Abraicc (Associação Brasileira de Investimento, Crédito e Consumo) ingresse como assistente no processo, que corre na 21ª",
+          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/cvm-pede-que-abraicc-seja-assistente-em-acao-contra-opa-da-oncoclinicas.shtml"
         },
         {
-          "titulo": "Estado de São Paulo encerra surto de sarampo, diz Secretaria da Saúde",
-          "entradilla": "A Secretaria de Estado da Saúde de São Paulo (SES-SP) declarou encerrado o surto de sarampo após 12 semanas sem novos casos relacionados às cadeias de transmissão identificadas no estado. Leia mais (11/24/2026 - 18h23)",
-          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/estado-de-sao-paulo-encerra-surto-de-sarampo-diz-secretaria-da-saude.shtml"
+          "titulo": "Neozelandês e chinesa são presos no RJ sob suspeita de operar esquema de tráfico internacional de bebês",
+          "entradilla": "Os partos de duas mulheres tailandesas em um hospital do município de Saquarema, na Região dos Lagos do Rio de Janeiro , levaram à prisão em flagrante de um casal estrangeiro sob suspeita de tráfico internacional de pessoas . Leia mais (11/25/2026 - 17h29)",
+          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/neozelandes-e-chinesa-sao-presos-no-rj-sob-suspeita-de-operar-esquema-de-trafico-internacional-de-bebes.shtml"
         },
         {
-          "titulo": "Frentes parlamentares recebem estudos que revisam cálculo da CBS para menos de 10%",
-          "entradilla": "Estudos entregues nesta terça-feira (24) a frentes parlamentares do Congresso Nacional apontam que a alíquota da CBS (Contribuição sobre Bens e Serviços) poderia ficar próxima de 10% com ajustes na forma como o cálculo foi realizado pelo TCU (Tribunal de Contas da União). A instituição chegou ao val",
-          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/frentes-parlamentares-recebem-estudos-que-revisam-calculo-da-cbs-para-menos-de-10.shtml"
+          "titulo": "Ex-BBB pede apoio dos fãs para voltar ao reality após perder R$ 17 mil em assalto",
+          "entradilla": "A ex- BBB -9 Ana Carolina Madeira gravou um vídeo em suas redes sociais nesta terça-feira (24), no qual pediu ajuda aos fãs para conseguir um emprego ou para que eles façam pressão na Globo para que ela seja inclusa no BBB-27 . A solicitação acontece após ela perder mais de R$ 17 mil em um assalto. ",
+          "enlace": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/ex-bbb-pede-apoio-dos-fas-para-voltar-ao-reality-apos-perder-r-17-mil-em-assalto.shtml"
         }
       ],
       "analisis": {
-        "resumen": "- Un diputado pide suspender la compra de nueve vehículos blindados para el Tribunal de Justicia de São Paulo.\n- Venezuela presenta un plan económico y estima su deuda en 237.500 millones de dólares; estudios proponen revisar el cálculo de la CBS en Brasil.\n- Estados Unidos pide la extradición de un líder de cartel detenido en México; el fundador de Hurb es arrestado en Río.\n- El edificio más alto de Riad sufre un segundo ataque en menos de una semana.\n- São Paulo declara terminado el brote de sarampión; también destacan noticias de empresas y entretenimiento.",
+        "resumen": "- La justicia federal rechaza suspender la primera subasta de baterías para el sector eléctrico brasileño.\n- Narcisa Tamborindeguy relata cómo perdió un premio de lotería que cobró un empleado.\n- Luiz Carlos Trabuco sustituye a Jorge Gerdau al frente del consejo del Movimiento Brasil Competitivo.\n- Las lluvias causan daños en al menos 50 ciudades de Paraná; también se informa de detenciones en Río por sospechas de tráfico internacional de personas.\n- La portada aborda inversiones, cambios empresariales y el rechazo de alcaldes a la financiación propuesta para el transporte gratuito en fines de semana.",
         "populismo": 12,
-        "motivo_populismo": "Los titulares son mayormente informativos, aunque expresiones como «en crisis» y la referencia a un segundo ataque en pocos días aportan cierta carga dramática.",
-        "sesgo": "La selección prioriza asuntos económicos, judiciales y de seguridad, junto con noticias de salud y entretenimiento. No se aprecia una orientación política partidista clara en la redacción."
+        "motivo_populismo": "Predomina un lenguaje informativo, aunque la cita «El agua no dejaba de subir» aporta dramatismo y algunos titulares destacan pérdidas millonarias o delitos llamativos, sin recurrir al enfrentamiento entre pueblo y élites.",
+        "sesgo": "La selección da especial peso a la economía, las inversiones y los movimientos empresariales, combinados con sucesos y noticias de entretenimiento. No se aprecia un sesgo partidista claro en los titulares proporcionados."
       }
     },
     {
@@ -114,71 +114,71 @@
       "web": "https://oglobo.globo.com",
       "noticias": [
         {
-          "titulo": "Após polêmica sobre medalhas a Eduarda Campopiano e Lucas Pavanato, vereadora propõe mudar regras de homenagens na Câmara do Rio",
-          "entradilla": "A concessão de títulos e comendas pela Câmara Municipal do Rio poderá passar a seguir novos critérios. Um projeto de resolução apresentado pela vereadora Tatiana Roque (PSB) conquistou as 17 assinaturas necessárias para avançar na Casa. A proposta estabelece que não poderão receber homenagens do Leg",
-          "enlace": "https://oglobo.globo.com/rio/bairros/noticia/2026/11/24/apos-polemica-sobre-medalhas-a-eduarda-campopiano-e-lucas-pavanato-vereadora-propoe-mudar-regras-de-homenagens-na-camara-do-rio.ghtml"
+          "titulo": "A passagem de bastão para a nova geração dos Batista na JBS",
+          "entradilla": "No rooftop da sede da JBS, em São Paulo, onde funcionava o antigo frigorífico da família Bordon, Wesley Batista Filho já fala como CEO da gigante de proteínas. Falta menos de um mês para a assembleia de acionistas, marcada para 15 de dezembro, que deverá formalizar sua chegada ao comando global da c",
+          "enlace": "https://oglobo.globo.com/blogs/capital/post/2026/11/a-passagem-de-bastao-para-a-nova-geracao-dos-batista-na-jbs.ghtml"
         },
         {
-          "titulo": "Crescimento das compras online amplia debate sobre devolução",
-          "entradilla": "Em 2025, o comércio eletrônico brasileiro movimentou R$ 295,6 bilhões, crescimento de 20% em relação ao ano anterior, segundo levantamento da FecomercioSP. O avanço do setor também amplia a necessidade de organizar o fluxo de mercadorias que retornam às lojas após uma compra.\nUma estimativa da Assoc",
-          "enlace": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/11/24/crescimento-das-compras-online-amplia-debate-sobre-devolucao-1.ghtml"
+          "titulo": "Jennifer Nascimento, Vampeta e ministros do STJ participam de simpósio sobre Consciência Negra no TJ-SP",
+          "entradilla": "O Tribunal de Justiça de São Paulo (TJ-SP) realiza nesta quinta-feira (26) a terceira edição do Simpósio Consciência Negra, com uma programação que reúne integrantes do Judiciário, artistas e representantes de diferentes áreas da sociedade civil. Entre os convidados estão o ex-jogador Vampeta e a at",
+          "enlace": "https://oglobo.globo.com/brasil/noticia/2026/11/25/jennifer-nascimento-vampeta-e-ministros-do-stj-participam-de-simposio-sobre-consciencia-negra-no-tj-sp.ghtml"
         },
         {
-          "titulo": "Expectativa de vida em Cuba cai pela primeira vez em quase 80 anos, alerta OMS",
-          "entradilla": "A expectativa de vida em Cuba diminuiu pela primeira vez em quase 80 anos, com uma queda de mais de quatro anos entre 2020 e 2025, afirmou nesta terça-feira, em Havana, o diretor-geral da Organização Mundial da Saúde (OMS). A ilha, com quase 9,5 milhões de habitantes, atravessa há muito tempo uma gr",
-          "enlace": "https://oglobo.globo.com/mundo/noticia/2026/11/24/expectativa-de-vida-em-cuba-cai-pela-primeira-vez-em-quase-80-anos-alerta-oms.ghtml"
+          "titulo": "Com PC novo mais caro, troca do hardware usado vira caminho para o upgrade",
+          "entradilla": "Trocar de computador ficou mais caro em 2026, e parte da indústria já estuda lançar em 2027 modelos com configuração mais modesta para segurar os preços. A disputa por chips de memória entre os data centers de inteligência artificial e os fabricantes de PCs encareceu componentes e derrubou as vendas",
+          "enlace": "https://oglobo.globo.com/patrocinado/pulse-brand/noticia/2026/11/25/com-pc-novo-mais-caro-troca-do-hardware-usado-vira-caminho-para-o-upgrade-1.ghtml"
         },
         {
-          "titulo": "Casa de campo de William e Kate é invadida por criminosos; dois suspeitos são presos",
-          "entradilla": "A casa de campo do príncipe William e de Kate Middleton foi invadida por criminosos na noite de segunda-feira (23), na Inglaterra. Dois homens foram presos sob suspeita de invasão e roubo após uma operação policial na propriedade de Sandringham, em Norfolk, no leste do país. Segundo as autoridades, ",
-          "enlace": "https://oglobo.globo.com/mundo/noticia/2026/11/24/casa-de-campo-de-william-e-kate-e-invadida-por-criminosos-dois-suspeitos-sao-presos.ghtml"
+          "titulo": "ChatCupom usa IA para cupons de Mercado Livre e Amazon",
+          "entradilla": "Com a aproximação da Black Friday, marcada para 27 de novembro, consumidores brasileiros intensificam a procura por descontos em lojas virtuais. Além das promoções anunciadas pelos varejistas, os cupons se tornaram uma alternativa para reduzir o valor das compras, embora encontrar códigos válidos co",
+          "enlace": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/11/25/chatcupom-usa-ia-para-cupons-de-mercado-livre-e-amazon-1.ghtml"
         },
         {
-          "titulo": "Etesco tenta adiar julgamento sobre dragagem do Porto de Santos",
-          "entradilla": "A Etesco Construções e Comércio pediu ao TCU que retire da pauta desta quarta-feira o julgamento do recurso em que contesta sua desclassificação da licitação para o aprofundamento do canal de acesso ao Porto de Santos. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da mat",
-          "enlace": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/11/etesco-tenta-adiar-julgamento-sobre-dragagem-do-porto-de-santos.ghtml"
+          "titulo": "Macau reúne 30 carros e define campeão do TCR World Tour",
+          "entradilla": "Macau, 23 de novembro de 2026 - A 73.ª edição do Grande Prêmio de Macau recebeu a etapa final do Kumho FIA TCR World Tour, com 30 carros inscritos e 13 representações esportivas da Ásia, Europa e América do Sul. A programação teve vitória de Santiago Urrutia na corrida de sábado e de Ma Qing Hua no ",
+          "enlace": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/11/25/macau-reune-30-carros-e-define-campeao-do-tcr-world-tour-1.ghtml"
         },
         {
-          "titulo": "Guilherme Friol leva ao Paraguai o debate sobre regras para o uso de inteligência artificial nas empresas",
-          "entradilla": "O executivo brasileiro Guilherme Friol ministra nesta quarta-feira (25), em Ciudad del Este, no Paraguai, um workshop sobre governança de inteligência artificial para empresários do país vizinho. Realizado a convite de um grupo de empresários paraguaios, o encontro tem como tema \"IA en tu empresa: p",
-          "enlace": "https://oglobo.globo.com/patrocinado/pulse-brand/noticia/2026/11/24/guilherme-friol-leva-ao-paraguai-o-debate-sobre-regras-para-o-uso-de-inteligencia-artificial-nas-empresas-1.ghtml"
+          "titulo": "Thiago Silva vai ficar? Fluminense faz proposta de renovação e aguarda decisão do zagueiro após o fim do Brasileirão",
+          "entradilla": "O clima no Fluminense é de otimismo sobre a permanência de Thiago Silva. É verdade que o zagueiro de 42 anos afirmou que não jogaria mais a Libertadores pelo clube após a eliminação na semifinal deste ano, mas o pensamento já não é bem assim. Prova disso é que a diretoria fez uma proposta de renovaç",
+          "enlace": "https://oglobo.globo.com/esportes/futebol/fluminense/noticia/2026/11/25/thiago-silva-vai-ficar-fluminense-faz-proposta-de-renovacao-e-aguarda-decisao-do-zagueiro-apos-o-fim-do-brasileirao.ghtml"
         },
         {
-          "titulo": "Relatórios da PF deveriam ser devolvidos",
-          "entradilla": "Nos relatórios entregues pela PF ao ministro Edson Fachin não aparecem os dois contratos de Vorcaro  com a mulher do ministro Alexandre de Moraes: com o escritório de advocacia e com a locação de avião. É ridículo que não mostrem nem as coisas que todo mundo já sabe. Absurdo que esses contratos não ",
-          "enlace": "https://oglobo.globo.com/blogs/merval-pereira/post/2026/11/relatorios-da-pf-deveriam-ser-devolvidos.ghtml"
+          "titulo": "Neymar e Neto superam polêmicas com abraço e emoção do ex-jogador após choro do filho pelo encontro; veja vídeo",
+          "entradilla": "Depois de uma série de polêmicas marcadas por comentários na TV e nas redes sociais, Neymar e o ex-jogador Neto parecem ter resolvido suas diferenças. Convidado pelo craque do Santos, o apresentador da Band foi recebido, junto do filho e da esposa, pelo atleta e seu pai no Instituto Neymar Júnior. O",
+          "enlace": "https://oglobo.globo.com/esportes/futebol/noticia/2026/11/25/neymar-e-neto-superam-polemicas-em-encontro-marcado-por-emocao-do-ex-jogador-com-choro-do-filho.ghtml"
         },
         {
-          "titulo": "Dra. Sandra Müller destaca a importância do cuidado individualizado no tratamento do lipedema",
-          "entradilla": "O lipedema tem ganhado cada vez mais espaço nas discussões sobre saúde feminina, especialmente pelo impacto que pode provocar na qualidade de vida, na mobilidade e na autoestima das mulheres. Caracterizada pelo acúmulo desproporcional de gordura, principalmente nas pernas e, em alguns casos, nos bra",
-          "enlace": "https://oglobo.globo.com/patrocinado/pulse-brand/noticia/2026/11/24/dra-sandra-muller-destaca-a-importancia-do-cuidado-individualizado-no-tratamento-do-lipedema-1.ghtml"
+          "titulo": "Mais um português entra no radar do Flamengo caso Jardim decida deixar o clube",
+          "entradilla": "O Flamengo já avalia o mercado enquanto aguarda a decisão do técnico Leonardo Jardim sobre a permanência para 2027. E o blog apurou alguns nomes em pauta.\nEntre os debatidos internamente, está o do português Sérgio Conceição, sem clube desde que deixou o Al-Ittihad, da Arábia Saudita, onde tralhou e",
+          "enlace": "https://oglobo.globo.com/blogs/diogo-dantas/coluna/2026/11/mais-um-portugues-entra-no-radar-do-flamengo-caso-jardim-decida-deixar-o-clube.ghtml"
         },
         {
-          "titulo": "Angélica Ferreira: Blindagem Trabalhista® e os caminhos para uma gestão empresarial mais segura",
-          "entradilla": "As relações de trabalho no Brasil passaram por profundas transformações nas últimas décadas, exigindo das empresas uma postura cada vez mais estratégica diante da legislação trabalhista. Se antes as principais demandas judiciais estavam relacionadas a horas extras, verbas rescisórias e adicionais, a",
-          "enlace": "https://oglobo.globo.com/patrocinado/pulse-brand/noticia/2026/11/24/angelica-ferreira-blindagem-trabalhista-e-os-caminhos-para-uma-gestao-empresarial-mais-segura-1.ghtml"
+          "titulo": "Rede Teia Agir oferece recursos sensoriais no cuidado do TEA",
+          "entradilla": "Luzes, cores, sons e outros estímulos sensoriais compõem o Espaço Multisense Agir, ambiente que a Rede Teia Agir utiliza para estimular o desenvolvimento de crianças com Transtorno do Espectro Autista (TEA). As atividades são conduzidas pela equipe multiprofissional e adaptadas às necessidades indiv",
+          "enlace": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/11/25/rede-teia-agir-oferece-recursos-sensoriais-no-cuidado-do-tea-1.ghtml"
         },
         {
-          "titulo": "EUA querem que indústria automotiva ajude a produzir drones de guerra, mas executivos estão céticos, diz jornal",
-          "entradilla": "O Departamento de Defesa dos EUA abriu conversas com empresas do setor automobilístico dos EUA em busca de um salto na produção interna de drones, no momento em que outros atores globais, da China até a Ucrânia, estão muitos passos à frente. Segundo o Wall Street Journal (WSJ), que relatou a iniciat",
-          "enlace": "https://oglobo.globo.com/mundo/noticia/2026/11/24/eua-querem-que-industria-automotiva-ajude-a-produzir-drones-de-guerra-mas-executivos-estao-ceticos-diz-jornal.ghtml"
+          "titulo": "Senado aprova projeto que consolida Força Nacional do SUS em lei e dá estabilidade ao programa",
+          "entradilla": "O Senado aprovou nesta quarta-feira um projeto de lei que institucionaliza a Força Nacional do Sistema Único de Saúde (FN-SUS), programa criado em 2011 por decreto presidencial para atuar em situações de emergência sanitária, desastres naturais e desassistência à população. De autoria do ministro da",
+          "enlace": "https://oglobo.globo.com/saude/noticia/2026/11/25/senado-aprova-projeto-que-consolida-forca-nacional-do-sus-em-lei-e-da-estabilidade-ao-programa.ghtml"
         },
         {
-          "titulo": "Eletromobilidade pode se tornar um ativo de valorização para condomínios",
-          "entradilla": "A eletromobilidade começa a influenciar a forma como condomínios planejam sua infraestrutura e se apresentam ao mercado imobiliário. À medida que cresce o uso de veículos elétricos, a possibilidade de recarregá-los com segurança e conveniência pode se tornar um diferencial para moradores e potenciai",
-          "enlace": "https://oglobo.globo.com/patrocinado/pulse-brand/noticia/2026/11/24/eletromobilidade-pode-se-tornar-um-ativo-de-valorizacao-para-condominios-1.ghtml"
+          "titulo": "Acusado de estar bêbado, árbitro é substituído no intervalo de jogo da Liga dos Campeões da Ásia",
+          "entradilla": "Uma suspeita de embriaguez provocou a substituição de um árbitro no intervalo de uma partida da Liga dos Campeões da Ásia 2, nesta quarta-feira. O sírio Hanna Hattab deixou o comando do confronto entre Al-Jazira, dos Emirados Árabes Unidos, e Gol Gohar, do Irã, após o clube visitante ameaçar não vol",
+          "enlace": "https://oglobo.globo.com/esportes/noticia/2026/11/25/acusado-de-estar-bebado-arbitro-e-substituido-no-intervalo-de-jogo-da-liga-dos-campeoes-da-asia.ghtml"
         },
         {
-          "titulo": "Akquinet é reconhecida no Ranking 100 Open Startups 2026",
-          "entradilla": "A empresa de tecnologia Akquinet Brasil conquistou o primeiro lugar na categoria Produtividade entre scale-ups (empresas em fase de escala) no Ranking 100 Open Startups 2026. Além do topo no grupo, ficou em 14º lugar no ranking geral da premiação e levou o 3º lugar na categoria de casos de sucesso n",
-          "enlace": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/11/24/akquinet-e-reconhecida-no-ranking-100-open-startups-2026-1.ghtml"
+          "titulo": "Após batalha judicial com governo Trump, salvadorenho deportado 'por engano' chega à Espanha",
+          "entradilla": "Kilmar Ábrego García, o salvadorenho deportado injustamente dos Estados Unidos em 2025 e transformado em símbolo da política anti-imigração de Donald Trump, chegou a Madri nesta quarta-feira como um homem \"livre\", segundo seu advogado. Neste momento, não se sabe se ele solicitou asilo na Espanha ou ",
+          "enlace": "https://oglobo.globo.com/mundo/noticia/2026/11/25/apos-batalha-judicial-com-governo-trump-salvadorenho-deportado-por-engano-chega-a-espanha.ghtml"
         }
       ],
       "analisis": {
-        "resumen": "- Una concejala propone cambiar las reglas de los homenajes de la Cámara de Río tras una polémica.\n- El crecimiento del comercio electrónico abre el debate sobre la devolución de productos.\n- La OMS alerta de una caída de más de cuatro años en la esperanza de vida en Cuba entre 2020 y 2025.\n- Dos sospechosos son detenidos tras una invasión de la casa de campo de William y Kate en Inglaterra.\n- La portada incluye asuntos empresariales y tecnológicos, el tratamiento del lipedema y una crítica a informes de la Policía Federal.",
-        "populismo": 8,
-        "motivo_populismo": "Los titulares son mayormente informativos; el uso de «alerta» aporta énfasis, mientras que el fragmento sobre los informes policiales emplea descalificaciones como «ridículo» y «absurdo».",
-        "sesgo": "La selección presta considerable atención a empresas, tecnología y gestión, con algunas piezas de tono promocional. También incluye una crítica explícita a informes de la Policía Federal, pero no se aprecia una orientación política general inequívoca."
+        "resumen": "- La nueva generación de la familia Batista se prepara para asumir el mando de JBS.\n- Un simposio sobre Conciencia Negra reúne en São Paulo a representantes judiciales, artistas y deportistas.\n- El encarecimiento de los ordenadores impulsa la renovación de componentes usados; otra noticia aborda el uso de IA para encontrar cupones.\n- En deportes, destacan la renovación de Thiago Silva, la búsqueda de entrenador del Flamengo y el encuentro entre Neymar y Neto.\n- El Senado aprueba un proyecto sobre la Fuerza Nacional del SUS; un salvadoreño deportado por error de EE. UU. llega a España.",
+        "populismo": 15,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «batalla judicial», «polémicas» y «emoción» aportan dramatismo; no se aprecia una apelación al pueblo contra las élites.",
+        "sesgo": "La selección da mucho espacio al deporte y combina noticias empresariales, de consumo y de servicios con asuntos institucionales. Algunos titulares deportivos destacan la emoción y la controversia, pero no se aprecia un sesgo político claro."
       }
     },
     {
@@ -186,71 +186,71 @@
       "web": "https://www.estadao.com.br",
       "noticias": [
         {
-          "titulo": "Bastidores: ataques e ajuda a Flávio fazem governo não convidar Milei para posse de Lula",
+          "titulo": "Seu filho quer o GTA 6. Você diz que é violento, mas ele diz que todo adolescente joga. O que fazer?",
           "entradilla": "",
-          "enlace": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-ataques-e-ajuda-a-flavio-fazem-governo-nao-convidar-milei-para-posse-de-lula/"
+          "enlace": "https://www.estadao.com.br/educacao/seu-filho-quer-o-gta-6-voce-diz-que-e-violento-mas-ele-diz-que-todo-adolescente-joga-o-que-fazer/"
         },
         {
-          "titulo": "Renault Niagara encara bem asfalto e terra com Gemini nativo para tirar o sono da Fiat Toro",
+          "titulo": "Black Eyed Peas fará show em SP para fãs que fizerem 4 horas de trabalho voluntário; entenda",
           "entradilla": "",
-          "enlace": "https://www.estadao.com.br/jornal-do-carro/produto-e-lancamentos/renault-niagara-encara-bem-asfalto-e-terra-com-gemini-nativo-para-tirar-o-sono-da-fiat-toro/"
+          "enlace": "https://www.estadao.com.br/cultura/musica/black-eyed-peas-fara-show-em-sp-para-fas-que-fizerem-4-horas-de-trabalho-voluntario-entenda/"
         },
         {
-          "titulo": "Kagi Mail: rival do Gmail estreia com foco em privacidade, recursos de IA e teste gratuito",
+          "titulo": "Quais small caps da Bolsa combinam alta rentabilidade e baixa dívida?",
+          "entradilla": "Levantamento identifica nove empresas da B3 com rentabilidade consistente e baixo endividamento. Entre elas, a CSU Digital se destaca pelo rendimento de dividendos de 14,28%.",
+          "enlace": "https://www.estadao.com.br/einvestidor/einar-rivero/quais-small-caps-da-bolsa-combinam-alta-rentabilidade-e-baixa-divida/"
+        },
+        {
+          "titulo": "Alcolumbre pressiona Lula a aceitar Pacheco no STF e aponta risco de outro nome ficar para 2027",
           "entradilla": "",
-          "enlace": "https://www.estadao.com.br/tecmundo/produto-e-review/kagi-mail-rival-do-gmail-estreia-com-foco-em-privacidade-recursos-de-ia-e-teste-gratuito/"
+          "enlace": "https://www.estadao.com.br/politica/coluna-do-estadao/alcolumbre-pressiona-lula-a-aceitar-pacheco-no-stf-e-aponta-risco-de-outro-nome-ficar-para-2027/"
         },
         {
-          "titulo": "Lula não irá convidar Milei para posse, diz jornal argentino",
+          "titulo": "Vacina contra o câncer no Brasil: o que já se sabe e o que falta para os testes em pacientes",
           "entradilla": "",
-          "enlace": "https://www.estadao.com.br/internacional/lula-nao-ira-convidar-milei-para-posse-diz-jornal-argentino-npr/"
+          "enlace": "https://www.estadao.com.br/pulsa/medicina-e-estudos/vacina-contra-cancer-o-que-ja-se-sabe-e-o-que-falta-ate-os-testes-em-pacientes-nprm/"
         },
         {
-          "titulo": "Justiça italiana adia julgamento sobre extradição de Carla Zambelli para fevereiro de 2027",
+          "titulo": "Palmeiras x Estudiantes: Libertadores tem uso de IA na final ‘mais tecnológica da história’",
           "entradilla": "",
-          "enlace": "https://www.estadao.com.br/politica/justica-italiana-adia-julgamento-sobre-extradicao-de-carla-zambelli-para-fevereiro-de-2027-nprp/"
+          "enlace": "https://www.estadao.com.br/esportes/futebol/palmeiras-x-estudiantes-libertadores-tem-uso-de-ia-na-final-mais-tecnologica-da-historia/"
         },
         {
-          "titulo": "Vale cai 5,51% na Bolsa e atinge menor valor de mercado em mais de um ano",
-          "entradilla": "As ações da Vale (VALE3) tombam mais 5% e pressionam o Ibovespa nesta terça-feira (24); veja o que explica o desempenho negativo dos papéis",
-          "enlace": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/vale-derrete-quase-5-e-perde-r-119-bilhoes-em-valor-de-mercado-so-hoje/"
-        },
-        {
-          "titulo": "Casal de idosos morre afogado dentro de casa durante enxurrada no Paraná",
+          "titulo": "O que a condenação de Mianmar por genocídio indica sobre o julgamento de Israel",
           "entradilla": "",
-          "enlace": "https://www.estadao.com.br/brasil/casal-de-idosos-morre-afogado-dentro-de-casa-durante-alagamento-no-parana-npr/"
+          "enlace": "https://www.estadao.com.br/internacional/filipe-figueiredo/o-que-a-condenacao-de-mianmar-por-genocidio-indica-sobre-o-julgamento-de-israel/"
         },
         {
-          "titulo": "Crise diplomática com Milei: Brasil encerra missão de embaixador na Argentina",
+          "titulo": "O que acontece quando você troca o leite pelo creme de leite no bolo",
+          "entradilla": "Descubra como substituir leite por creme de leite muda sabor e a aparência da massa de bolo",
+          "enlace": "https://www.estadao.com.br/paladar/comida/o-que-acontece-quando-voce-troca-o-leite-pelo-creme-de-leite-no-bolo/"
+        },
+        {
+          "titulo": "O que você precisa saber sobre o fascinante ‘Tudo Pode Ser Visto’, que pode fazer história no Oscar",
           "entradilla": "",
-          "enlace": "https://www.estadao.com.br/politica/coluna-do-estadao/crise-diplomatica-com-milei-brasil-encerra-missao-de-embaixador-na-argentina/"
+          "enlace": "https://www.estadao.com.br/cultura/cinema/o-que-voce-precisa-saber-sobre-o-fascinante-tudo-pode-ser-visto-que-pode-fazer-historia-no-oscar/"
         },
         {
-          "titulo": "Arrecadação: o efeito do petróleo e da reforma tributária",
+          "titulo": "Motorola Signature (2025): até quanto vale a pena pagar na Black Friday?",
           "entradilla": "",
-          "enlace": "https://www.estadao.com.br/economia/fernando-dantas/arrecadacao-o-efeito-do-petroleo-e-da-reforma-tributaria/"
+          "enlace": "https://www.estadao.com.br/tecmundo/produto-e-review/motorola-signature-2025-ate-quanto-vale-a-pena-pagar-na-black-friday/"
         },
         {
-          "titulo": "Cupom Fever | 20% de desconto em eventos - Novembro 2026",
-          "entradilla": "Use um Cupom de Desconto Fever para economizar em ingressos para eventos como Candlelight, Disney On Ice e outros",
-          "enlace": "https://www.estadao.com.br/tecmundo/guia-de-compras/cupons/cupom-fever/"
-        },
-        {
-          "titulo": "Árvore cai em escola em SP e deixa cinco feridos",
+          "titulo": "TCU afasta multas a membros do governo Dilma Rousseff por irregularidades fiscais de 2014",
           "entradilla": "",
-          "enlace": "https://www.estadao.com.br/sao-paulo/arvore-cai-escola-sp-criancas-feridas-npr/"
+          "enlace": "https://www.estadao.com.br/economia/tcu-afasta-multas-a-membros-do-governo-dilma-por-irregularidades-fiscais-de-2014/"
         },
         {
-          "titulo": "Lula chama Haddad para discutir nova etapa de ajuste fiscal e dá bronca em Lindbergh",
+          "titulo": "Presidente do Santos adota cautela sobre ‘fico’ de Neymar e defende postura do time contra o Grêmio",
           "entradilla": "",
-          "enlace": "https://www.estadao.com.br/politica/vera-rosa/lula-chama-haddad-para-discutir-nova-etapa-de-ajuste-fiscal-e-da-bronca-em-lindbergh/"
+          "enlace": "https://www.estadao.com.br/esportes/futebol/presidente-do-santos-defende-postura-do-time-contra-o-gremio-e-tem-cautela-sobre-fico-de-neymar-npres/"
         }
       ],
       "analisis": {
-        "resumen": "- Dos noticias señalan que Lula no invitará a Milei a su toma de posesión; otra informa del fin de la misión del embajador brasileño en Argentina.\n- Lula convoca a Haddad para tratar el ajuste fiscal y reprende a Lindbergh.\n- Las acciones de Vale caen un 5,51 %; también se aborda el efecto del petróleo y la reforma tributaria en la recaudación.\n- La justicia italiana aplaza el juicio sobre la extradición de Carla Zambelli hasta febrero de 2027.\n- Una inundación en Paraná causa dos muertes y la caída de un árbol en una escuela de São Paulo deja cinco heridos. Completan la portada noticias de tecnología y automóviles y una promoción de eventos.",
-        "populismo": 18,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «crise diplomática», «dá bronca» y «tirar o sono» aportan dramatización; no se aprecia una apelación al pueblo contra las élites.",
-        "sesgo": "La selección destaca las relaciones entre Lula y Milei, con dos noticias sobre la posible ausencia de invitación, y presta atención a tensiones políticas y económicas. No se aprecia una orientación ideológica clara solo a partir de estos titulares."
+        "resumen": "- Una consulta plantea cómo abordar con adolescentes la violencia de GTA 6.\n- Black Eyed Peas dará un concierto en São Paulo para quienes hagan cuatro horas de voluntariado.\n- Un análisis identifica nueve empresas de bolsa rentables y poco endeudadas.\n- Alcolumbre presiona a Lula para que acepte a Pacheco en el STF; el TCU retira multas a miembros del Gobierno de Dilma Rousseff.\n- La portada también aborda la vacuna contra el cáncer, la final de la Libertadores, el juicio por genocidio en Myanmar y contenidos de consumo, cine y cocina.",
+        "populismo": 12,
+        "motivo_populismo": "Predomina un tono informativo y de servicio, aunque expresiones como «fascinante» y «la más tecnológica de la historia» añaden énfasis promocional.",
+        "sesgo": "La selección combina política y justicia con entretenimiento, consumo y consejos prácticos, con un enfoque notable de servicio al lector. No se aprecia un sesgo político claro en el conjunto de los titulares."
       }
     },
     {
@@ -258,24 +258,19 @@
       "web": "https://www.gazetadopovo.com.br",
       "noticias": [
         {
-          "titulo": "Quem é a jovem americana que pode se tornar a primeira santa da geração Z",
-          "entradilla": "Conheça a história da jovem americana que morreu aos 18 anos e pode se tornar a primeira santa da geração Z.",
-          "enlace": "https://www.gazetadopovo.com.br/mundo/quem-e-a-jovem-americana-que-pode-se-tornar-a-primeira-santa-da-geracao-z/"
+          "titulo": "Israel elimina segundo chefe da segurança interna do Hamas em menos de 24 horas",
+          "entradilla": "Israel eliminou Muhammad Abu al-Aouf, chefe da segurança interna do Hamas no norte de Gaza, um dia após eliminar o comandante do setor.",
+          "enlace": "https://www.gazetadopovo.com.br/mundo/israel-elimina-segundo-chefe-da-seguranca-interna-do-hamas-em-menos-de-24-horas/"
         },
         {
-          "titulo": "Blindagem ou omissão? Relatório da PF ignora mensagens de Moraes",
-          "entradilla": "No programa Última Análise desta terça-feira (24), os convidados analisam as omissões de relatório do caso Master envolvendo Moraes.",
-          "enlace": "https://www.gazetadopovo.com.br/ultima-analise/blindagem-ou-omissao-relatorio-de-pf-ignora-moraes/"
+          "titulo": "Bispo desafia católicos a levarem uma pessoa para a missa no domingo",
+          "entradilla": "O bispo William Byrne convocou os católicos da Diocese de Springfield a convidarem uma pessoa para a missa no Primeiro Domingo do Advento como parte da iniciativa \"Bem-vindo de Volta\".",
+          "enlace": "https://www.gazetadopovo.com.br/mundo/bispo-desafia-catolicos-a-levarem-uma-pessoa-para-a-missa-no-domingo/"
         },
         {
-          "titulo": "Alcolumbre autoriza Advocacia do Senado a atuar em defesa de Van Hattem",
-          "entradilla": "Alcolumbre anuncia atuação do Senado no processo contra Van Hattem e garante que atuará para “proteger” prerrogativas parlamentares",
-          "enlace": "https://www.gazetadopovo.com.br/vida-e-cidadania/alcolumbre-autoriza-advocacia-do-senado-a-atuar-em-defesa-de-marcel-van-hattem/"
-        },
-        {
-          "titulo": "Empresas globais adotam princípios do cooperativismo para encantar clientes",
-          "entradilla": "Conheça as lições de gestão da Disney e Apple que focam na experiência do cliente e no relacionamento humano como chaves para o sucesso empresarial.",
-          "enlace": "https://www.gazetadopovo.com.br/economia-cooperativa/empresas-globais-adotam-principios-do-cooperativismo-para-encantar-clientes/"
+          "titulo": "Cristã processada por rezar em silêncio perto de clínica de aborto será julgada no Reino Unido",
+          "entradilla": "Cristã responde a cinco acusações criminais por orações silenciosas perto de uma clínica de aborto na Inglaterra.",
+          "enlace": "https://www.gazetadopovo.com.br/mundo/crista-julgada-oracao-silenciosa-clinica-aborto-reino-unido/"
         },
         {
           "titulo": "O AI-5 particular de Dino e Moraes contra Marcel van Hattem",
@@ -283,46 +278,51 @@
           "enlace": "https://www.gazetadopovo.com.br/opiniao/editoriais/flavio-dino-alexandre-de-moraes-marcel-van-hattem-stf-ai-5/"
         },
         {
-          "titulo": "Trump prepara novo tarifaço que vai atingir China, União Europeia e outros países; Brasil deve ficar de fora",
-          "entradilla": "Governo Trump prepara novas tarifas contra 16 economias, incluindo China e União Europeia. Brasil não está entre os alvos da medida.",
-          "enlace": "https://www.gazetadopovo.com.br/mundo/trump-prepara-novo-tarifaco-que-vai-atingir-china-uniao-europeia-e-outros-paises-brasil-deve-ficar-de-fora/"
+          "titulo": "Diário do papa Francisco expõe crise espiritual e “tentação da onipotência”",
+          "entradilla": "Reflexões do papa em diário acabam de ser lançadas em livro.",
+          "enlace": "https://www.gazetadopovo.com.br/ideias/diario-papa-francisco-crise-espiritual-tentacao-da-onipotencia/"
         },
         {
-          "titulo": "Oposição cobra atuação de Motta e Alcolumbre em defesa de Marcel Van Hattem no STF",
-          "entradilla": "Oposição cobra que presidentes da Câmara e do Senado defendam as prerrogativas do mandato legislativo no processo contra Marcel van Hattem.",
-          "enlace": "https://www.gazetadopovo.com.br/vida-e-cidadania/oposicao-cobra-atuacao-de-motta-e-alcolumbre-em-defesa-de-marcel-van-hattem-stf/"
+          "titulo": "Quem tem medo de Jair Bolsonaro?",
+          "entradilla": "O Brasil passou anos temendo a volta da censura pelas mãos de um “capitão”, mas acabou assistindo a ela ser escrita no papel timbrado de um tribunal.",
+          "enlace": "https://www.gazetadopovo.com.br/vozes/anne-dias/quem-tem-medo-de-jair-bolsonaro/"
         },
         {
-          "titulo": "Famílias aceleram doações antes de mudanças no “imposto sobre herança”",
-          "entradilla": "Reforma tributária: com mudanças no ITCMD, cartórios registram recordes de doações de imóveis e de testamentos. Leia na Gazeta do Povo!",
-          "enlace": "https://www.gazetadopovo.com.br/economia/itcmd-imposto-heranca-familias-antecipam-doacoes/"
+          "titulo": "Moraes rejeita pedido da PGR para liberar R$ 324 milhões em penduricalho",
+          "entradilla": "Moares afirmou que pedidos de suplementação orçamentária devem ser resolvidos pelo Executivo e pelo Legislativo, e não pelo Supremo.",
+          "enlace": "https://www.gazetadopovo.com.br/republica/moraes-rejeita-pedido-da-pgr-para-liberar-r-324-milhoes-em-penduricalho/"
         },
         {
-          "titulo": "Indústria alerta que ajuste fiscal de Lula pode frear investimentos no Brasil",
-          "entradilla": "CNI afirma que 70% do impacto virá do aumento de impostos e alerta para prejuízos às empresas, exportações e geração de empregos. Leia na Gazeta do Povo.",
-          "enlace": "https://www.gazetadopovo.com.br/economia/industria-alerta-ajuste-fiscal-lula-pode-frear-investimentos-brasil/"
+          "titulo": "Cardeal Fernández publica memórias inéditas sobre a vida espiritual do Papa",
+          "entradilla": "Conheça os detalhes de O Diário Privado do Papa Francisco, livro que revela combates espirituais e a vida mística inédita do pontífice argentino.",
+          "enlace": "https://www.gazetadopovo.com.br/mundo/cardeal-fernandez-publica-memorias-ineditas-sobre-a-vida-espiritual-do-papa/"
         },
         {
-          "titulo": "18 estados americanos apoiam grupo católico em disputa judicial sobre santuário",
-          "entradilla": "Procuradores-gerais de 18 estados manifestam apoio a grupo religioso que luta na Suprema Corte dos EUA pelo direito de construir santuário mariano em Kentucky.",
-          "enlace": "https://www.gazetadopovo.com.br/mundo/18-estados-americanos-apoiam-grupo-catolico-em-disputa-judicial-sobre-santuario/"
+          "titulo": "Amorim sinaliza que Milei não será convidado para posse de Lula em janeiro",
+          "entradilla": "Assessor especial da Presidência afirma que governo estuda convidar outro representante da Argentina. Leia na Gazeta do Povo.",
+          "enlace": "https://www.gazetadopovo.com.br/republica/amorim-sinaliza-milei-nao-sera-convidado-posse-lula-janeiro/"
         },
         {
-          "titulo": "Como é a arma nuclear que Putin quer colocar em órbita",
-          "entradilla": "Projeto de Putin reacende o alerta sobre arma nuclear no espaço e ameaça redes de satélites usadas em comunicações e ações militares.",
-          "enlace": "https://www.gazetadopovo.com.br/mundo/como-e-a-arma-nuclear-que-putin-quer-colocar-em-orbita/"
+          "titulo": "Papa Leão XIV extingue comissão de 75 anos e cria nova estrutura para pastoral carcerária",
+          "entradilla": "Papa Leão XIV reorganiza ministério prisional católico mundial, dissolvendo comissão internacional de 1950 e criando novo serviço sob Dicastério do Vaticano.",
+          "enlace": "https://www.gazetadopovo.com.br/mundo/papa-leao-xiv-extingue-comissao-de-75-anos-e-cria-nova-estrutura-para-pastoral-carceraria/"
         },
         {
-          "titulo": "Polícia Federal remove registros de conversas com Moraes de documentos oficiais",
-          "entradilla": "A Polícia Federal enviou ao STF relatórios que ocultam mensagens de Daniel Vorcaro com Alexandre de Moraes e contratos com o escritório da esposa do ministro.",
-          "enlace": "https://www.gazetadopovo.com.br/republica/policia-federal-remove-registros-de-conversas-com-moraes-de-documentos-oficiais/"
+          "titulo": "Polônia quer criar zona de exclusão aérea para conter ameaças russas",
+          "entradilla": "A Polônia também pede que a Otan autorize a interceptação de mísseis e drones russos sobre a Ucrânia, diante do risco de novas violações.",
+          "enlace": "https://www.gazetadopovo.com.br/mundo/polonia-quer-criar-zona-de-exclusao-aerea-para-conter-ameacas-russas/"
+        },
+        {
+          "titulo": "Casada, mãe e com dois mestrados: quem é Jennifer Barreto, Miss Universo 2026",
+          "entradilla": "A porto-riquenha Jennifer Barreto, de 27 anos, é a primeira mulher casada e mãe a vencer o concurso Miss Universo. Leia na Gazeta do Povo.",
+          "enlace": "https://www.gazetadopovo.com.br/vida-e-cidadania/casada-mae-dois-mestrados-jennifer-barreto-miss-universo-2026/"
         }
       ],
       "analisis": {
-        "resumen": "- Se cuestionan las omisiones en informes de la Policía Federal sobre mensajes relacionados con Moraes.\n- La oposición y el Senado reclaman la defensa de las prerrogativas parlamentarias de Van Hattem ante el STF.\n- Se informa sobre los posibles efectos del ajuste fiscal y los cambios en el impuesto sobre herencias.\n- Trump prepara nuevos aranceles y se alerta sobre un proyecto ruso de arma nuclear en órbita.\n- Otros temas incluyen noticias religiosas y prácticas empresariales de atención al cliente.",
-        "populismo": 48,
-        "motivo_populismo": "La comparación con el «AI-5 dictatorial» y expresiones como «blindaje u omisión» y «ocultan mensajes» emplean un lenguaje confrontativo y acusatorio, aunque otros titulares son más informativos.",
-        "sesgo": "La portada destaca asuntos que cuestionan a Moraes y al gobierno de Lula, y da espacio a la oposición y a la defensa de Van Hattem. También incluye noticias de interés religioso y empresarial."
+        "resumen": "- Israel mató al jefe de seguridad interna de Hamás en el norte de Gaza, tras otra operación contra un comandante del grupo.\n- Dos artículos cuestionan decisiones judiciales relacionadas con Marcel van Hattem y Jair Bolsonaro; otro informa de un rechazo de Moraes a una petición presupuestaria.\n- Varias noticias abordan la Iglesia católica, la vida espiritual del papa Francisco y una iniciativa para invitar personas a misa.\n- Una cristiana será juzgada en Inglaterra por rezar en silencio cerca de una clínica de aborto.\n- La portada también recoge noticias sobre Argentina, la defensa aérea de Polonia y la ganadora de Miss Universo.",
+        "populismo": 45,
+        "motivo_populismo": "La comparación del Supremo con el AI-5, la pregunta «¿Quién teme a Jair Bolsonaro?» y la expresión «penduricalho» introducen confrontación y carga emocional, aunque muchos titulares son informativos.",
+        "sesgo": "La selección presta especial atención a temas católicos y presenta una mirada crítica hacia decisiones del Supremo, asociándolas con la censura y la dictadura. El resto de la portada incluye asuntos internacionales y de sociedad con una redacción generalmente más descriptiva."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://www.cartacapital.com.br",
       "noticias": [
         {
-          "titulo": "Com polêmicas de arbitragem, Botafogo empata com São Paulo e continua próximo da zona de rebaixamento",
-          "entradilla": "Resultado mantém clube carioca na luta contra o rebaixamento; São Paulo deixa aproximação por luta pela Libertadores escapar, mas chega aos 45 pontos",
-          "enlace": "https://www.cartacapital.com.br/esporte/com-polemicas-de-arbitragem-botafogo-empata-com-sao-paulo-e-continua-proximo-da-zona-de-rebaixamento/"
+          "titulo": "Emendas parlamentares estaduais entram na mira do STF",
+          "entradilla": "A Corte discute quanto do orçamento os deputados estaduais podem destinar por meio de emendas",
+          "enlace": "https://www.cartacapital.com.br/justica/emendas-parlamentares-estaduais-entram-na-mira-do-stf/"
         },
         {
-          "titulo": "Fux vota para proibir a destruição de provas da Vaza Jato",
-          "entradilla": "O julgamento ocorre no plenário virtual. Os demais ministros podem votar até a noite desta segunda",
-          "enlace": "https://www.cartacapital.com.br/justica/fux-vota-para-proibir-a-destruicao-de-provas-da-vaza-jato/"
+          "titulo": "Copa do Mundo Feminina de 2027 no Brasil deve movimentar R$ 8,8 bilhões, diz estudo",
+          "entradilla": "Metade do valor corresponde a investimentos da Fifa; torneio, de 24 de junho a 25 de julho, deve atrair cerca de 2 milhões de turistas e gerar 73 mil empregos",
+          "enlace": "https://www.cartacapital.com.br/economia/copa-do-mundo-feminina-de-2027-no-brasil-deve-movimentar-r-88-bilhoes-diz-estudo/"
         },
         {
-          "titulo": "Moraes se declara suspeito em ação sobre interferência estrangeira nas eleições",
-          "entradilla": "O ministro alegou 'motivo de foro íntimo' no despacho publicado nesta segunda-feira",
-          "enlace": "https://www.cartacapital.com.br/justica/moraes-se-declara-suspeito-em-acao-sobre-interferencia-estrangeira-nas-eleicoes/"
+          "titulo": "Vereadora do PL diz que a fala sobre atirar em Moraes foi uma ‘brincadeira’",
+          "entradilla": "Meclet Maria Kayser negou ter qualquer intenção de ameaçar ou incentivar violência contra o ministro",
+          "enlace": "https://www.cartacapital.com.br/politica/vereadora-do-pl-diz-que-a-fala-sobre-atirar-em-moraes-foi-uma-brincadeira/"
         },
         {
-          "titulo": "Clube garante permanência de técnico para disputa do Brasileirão de 2027",
-          "entradilla": "Após o inédito acesso à elite nacional, treinador e diretoria acertaram a extensão do vínculo por mais um ano, com assinatura prevista para esta semana",
-          "enlace": "https://www.cartacapital.com.br/esporte/clube-garante-permanencia-de-tecnico-para-disputa-do-brasileirao-de-2027/"
+          "titulo": "Moraes arquiva investigação sobre publicações que associavam Bolsonaro a canibalismo",
+          "entradilla": "O ministro concordou com a PGR, que apontou falta de indícios para prosseguir com a apuração",
+          "enlace": "https://www.cartacapital.com.br/justica/moraes-arquiva-investigacao-sobre-publicacoes-que-associavam-bolsonaro-a-canibalismo/"
         },
         {
-          "titulo": "Petrobras prevê US$ 122 bilhões em investimentos em 5 anos",
-          "entradilla": "A estatal também anunciou o pagamento de 15,6 bilhões de reais em dividendos extraordinários aos acionistas",
-          "enlace": "https://www.cartacapital.com.br/economia/petrobras-preve-us-122-bilhoes-em-investimentos-em-5-anos/"
+          "titulo": "STF volta a julgar o porte de arma de fogo por guardas municipais",
+          "entradilla": "Uma associação pede que a categoria tenha a mesma prerrogativa de porte de arma dos demais integrantes dos órgãos de segurança pública",
+          "enlace": "https://www.cartacapital.com.br/justica/stf-volta-a-julgar-o-porte-de-arma-de-fogo-por-guardas-municipais/"
         },
         {
-          "titulo": "Câmara aprova urgência para votação do ajuste fiscal",
-          "entradilla": "O texto será votado diretamente em plenário, sem necessidade de tramitar nas comissões da Casa",
-          "enlace": "https://www.cartacapital.com.br/politica/camara-aprova-urgencia-para-votacao-do-ajuste-fiscal/"
+          "titulo": "Mandioca na air fryer: aprenda a deixá-la crocante por fora e macia por dentro",
+          "entradilla": "Quem resiste a uma mandioca douradinha, com casquinha crocante por fora e macia por dentro? Preparada na air fryer, essa a mandioca é uma ótima opção para acompanhar as refeições ou servir como petisco. E o melhor: dispensa a fritura por imersão para ganhar essa […]",
+          "enlace": "https://www.cartacapital.com.br/receitas/mandioca-na-air-fryer-aprenda-a-deixa-la-crocante-por-fora-e-macia-por-dentro/"
         },
         {
-          "titulo": "Nvidia dispara na bolsa após restituição de Jensen Huang como CEO",
-          "entradilla": "Empresa ganhou mais de 900 bilhões de dólares em valor de mercado em um único dia",
-          "enlace": "https://www.cartacapital.com.br/mundo/nvidia-dispara-na-bolsa-apos-restituicao-de-jensen-huang-como-ceo/"
+          "titulo": "Da vegetariana à de peixe: 5 receitas de moqueca para o almoço",
+          "entradilla": "Poucos pratos traduzem tão bem a cozinha brasileira quanto a moqueca. Cremosa, perfumada e cheia de cor, ela combina leite de coco, dendê, pimentões e aquele toque marcante de coentro — e aceita muitas variações. Pensando nisso, reunimos cinco receitas de moqueca para você variar […]",
+          "enlace": "https://www.cartacapital.com.br/receitas/da-vegetariana-a-de-peixe-5-receitas-de-moqueca-para-o-almoco/"
         },
         {
-          "titulo": "Paulinho completa um mês sem jogar e está fora da final da Libertadores; torcedores criticam situação",
-          "entradilla": "A situação do camisa 10 também tem provocado insatisfação entre torcedores alviverdes nas redes sociais",
-          "enlace": "https://www.cartacapital.com.br/esporte/paulinho-completa-um-mes-sem-jogar-e-esta-fora-da-final-da-libertadores-torcedores-criticam-situacao/"
+          "titulo": "Horóscopo Chinês de dezembro: veja como a energia do Rato influenciará os 12 signos",
+          "entradilla": "Na astrologia chinesa, 2026 é regido pelo Cavalo, mas cada mês também recebe a influência de um animal do zodíaco. Em dezembro, o destaque é o Rato, associado à extroversão e à sociabilidade, mas também à imprevisibilidade. Segundo Tery Kanakura, consultora de Feng Shui e […]",
+          "enlace": "https://www.cartacapital.com.br/astrologia/horoscopo-chines-de-dezembro-veja-como-a-energia-do-rato-influenciara-os-12-signos/"
         },
         {
-          "titulo": "Eduardo Bolsonaro recorre para tentar reverter condenação por difamar Tabata Amaral",
-          "entradilla": "O documento foi encaminhado ao ministro Alexandre de Moraes, relator do processo",
-          "enlace": "https://www.cartacapital.com.br/politica/eduardo-bolsonaro-recorre-para-tentar-reverter-condenacao-por-difamar-tabata-amaral/"
+          "titulo": "Exército detona explosivos tóxicos nos EUA apesar do medo de contaminação",
+          "entradilla": "A operação ocorreu em Middletown, no estado de Iowa, nesta quarta-feira 25",
+          "enlace": "https://www.cartacapital.com.br/mundo/exercito-detona-explosivos-toxicos-nos-eua-apesar-do-medo-de-contaminacao/"
         },
         {
-          "titulo": "Torcedor do Flamengo chama atenção para idade do elenco e gera debate nas redes sociais",
-          "entradilla": "Mesmo após uma temporada de conquistas importantes, um rubro-negro levantou um questionamento sobre a necessidade de rejuvenescimento do grupo para 2027",
-          "enlace": "https://www.cartacapital.com.br/esporte/torcedor-do-flamengo-chama-atencao-para-idade-do-elenco-e-gera-debate-nas-redes-sociais/"
+          "titulo": "PM arrasta e dá tapas em aluno autista de 8 anos em escola do Mato Grosso",
+          "entradilla": "Episódio ocorreu em 17 de novembro e foi denunciado pela mãe do menino; o PM foi afastado e a Polícia Civil investiga o caso como lesão corporal",
+          "enlace": "https://www.cartacapital.com.br/sociedade/pm-arrasta-e-da-tapas-em-aluno-autista-de-8-anos-em-escola-do-mato-grosso/"
         },
         {
-          "titulo": "Coletivos feministas enviam carta a Lula cobrando por ministra negra no STF",
-          "entradilla": "A carta assinada por 35 organizações também cobra paridade de gênero e equidade racial no primeiro escalão do governo",
-          "enlace": "https://www.cartacapital.com.br/politica/coletivos-feministas-enviam-carta-a-lula-cobrando-por-ministra-negra-no-stf/"
+          "titulo": "A indefinição no STF sobre pesquisas científicas com seres humanos",
+          "entradilla": "Após Cármen Lúcia pedir vista, não há data definida para julgar o Marco Legal da Pesquisa com Seres Humanos",
+          "enlace": "https://www.cartacapital.com.br/justica/a-indefinicao-no-stf-sobre-pesquisas-cientificas-com-seres-humanos/"
         },
         {
-          "titulo": "Meia do Brasileirão chama atenção de jornal inglês por paixão inusitada fora dos gramados",
-          "entradilla": "Além da carreira no futebol, Scarpa utiliza seu canal pessoal no YouTube para compartilhar resenhas e comentários sobre livros",
-          "enlace": "https://www.cartacapital.com.br/esporte/meia-do-brasileirao-chama-atencao-de-jornal-ingles-por-paixao-inusitada-fora-dos-gramados/"
+          "titulo": "Antes de trocar o comando do BB, Lula precisa olhar o mapa do crédito",
+          "entradilla": "O governo busca um nome próximo do agro. Os empréstimos a uma fazenda com área embargada na terra de Raoni mostram que o banco tem outras contas a prestar",
+          "enlace": "https://www.cartacapital.com.br/blogs/daniel-camargos/antes-de-trocar-o-comando-do-bb-lula-precisa-olhar-o-mapa-do-credito/"
         }
       ],
       "analisis": {
-        "resumen": "- Botafogo empató con São Paulo y sigue cerca de la zona de descenso; otro club aseguró la continuidad de su técnico para 2027.\n- Paulinho se perderá la final de la Libertadores; también destacan debates sobre la edad del Flamengo y la afición de Scarpa por los libros.\n- Fux votó contra la destrucción de pruebas de Vaza Jato, Moraes se apartó de una causa electoral y Eduardo Bolsonaro recurrió una condena.\n- Petrobras anunció inversiones y dividendos; la Cámara aprobó la urgencia del ajuste fiscal y Nvidia subió en bolsa.\n- Organizaciones feministas pidieron a Lula una ministra negra en el Supremo y mayor paridad y equidad racial.",
-        "populismo": 12,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «polémicas de arbitraje» y «Nvidia se dispara» aportan dramatismo; no se aprecia una apelación al pueblo contra las élites.",
-        "sesgo": "La selección da mucho espacio al fútbol, junto con asuntos judiciales, económicos y de representación. No se aprecia una orientación política definida en los titulares."
+        "resumen": "- El STF examina las enmiendas presupuestarias, el porte de armas de guardias municipales y la investigación con seres humanos; Moraes archivó otra investigación sobre publicaciones que vinculaban a Bolsonaro con el canibalismo.\n- Una concejala afirma que su comentario sobre disparar a Moraes fue una broma; en Mato Grosso se investiga la agresión de un policía a un niño autista.\n- Un estudio prevé un impacto económico de 8.800 millones de reales por el Mundial Femenino; otra noticia cuestiona créditos del Banco de Brasil antes de un cambio en su dirección.\n- El Ejército detonó explosivos tóxicos en Iowa pese al temor de contaminación.\n- La portada también ofrece recetas de mandioca y moqueca y un horóscopo chino para diciembre.",
+        "populismo": 18,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «en el punto de mira», «pese al temor» y «tiene otras cuentas que rendir» añaden dramatismo o juicio crítico.",
+        "sesgo": "La selección da protagonismo al STF y a asuntos de seguridad y gestión pública. La noticia sobre el Banco de Brasil adopta un enfoque crítico respecto a sus préstamos y a la elección de su próxima dirección."
       }
     }
   ]
