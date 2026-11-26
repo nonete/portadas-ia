@@ -1,39 +1,39 @@
 {
   "pais": "Italia",
-  "fecha": "2026-11-25",
+  "fecha": "2026-11-26",
   "turno": 14,
-  "generado": "25/11/2026 22:02",
+  "generado": "26/11/2026 21:54",
   "modelo": "gpt-6.1-terra",
   "general": {
-    "temas": "El tema más repetido es la retirada de la esquiadora Federica Brignone. También aparecen en varios diarios los aranceles de Trump y la incertidumbre en los mercados, la guerra de Ucrania, las ausencias de parlamentarios de la mayoría y la elección directa de los presidentes provinciales. Solo Il Fatto Quotidiano destaca una investigación sobre posibles alteraciones relacionadas con el alzhéimer en la Estación Espacial Internacional.",
-    "crispacion": 62,
-    "motivo_crispacion": "La tensión es considerable por las discrepancias dentro de la mayoría italiana y entre las fuerzas progresistas, así como por el enfrentamiento entre el Gobierno y la oposición sobre la violencia contra las mujeres. También aparecen acusaciones y controversias en torno a dirigentes de Liguria y a la justicia. En el ámbito internacional, la guerra de Ucrania y los nuevos aranceles alimentan la incertidumbre. La retirada de Brignone y las noticias deportivas aportan un contrapunto más tranquilo."
+    "temas": "Los asuntos más repetidos son la muerte de dos técnicos italianos en un ataque con drones en Kuwait y el caso de Gianni De Gennaro, incluida la petición familiar de publicar su carta. También destacan las tensiones internacionales relacionadas con Rusia y Ucrania, y, en dos periódicos, las noticias deportivas sobre Ferrari y Bagnaia. Solo Corriere della Sera destaca el caso de Giovanni Toti y sus vínculos con el empresario Spinelli.",
+    "crispacion": 76,
+    "motivo_crispacion": "La tensión es elevada por el ataque en Kuwait, las discrepancias sobre la implicación iraní y las noticias sobre la guerra entre Rusia y Ucrania. En Italia, el caso De Gennaro suscita interrogantes y titulares enfrentados sobre la actuación de la justicia, mientras el decreto escolar provoca protestas de la oposición y críticas sindicales. También aparecen choques entre aliados de gobierno y acusaciones sobre el caso Toti. Las noticias deportivas, culturales y de consumo ofrecen un contrapunto menos conflictivo."
   },
   "opiniones": [
     {
       "id": "comunista",
       "nombre": "Un comunista",
-      "texto": "Veo en la retirada de los 120 despidos en San Benedetto una buena noticia para quienes conservan su empleo. Pero las 79 salidas voluntarias previstas recuerdan que las decisiones empresariales siguen determinando el futuro de las familias trabajadoras. No basta con evitar despidos forzosos: necesitamos que quienes producen la riqueza tengan poder real sobre la organización del trabajo.\n\nMientras tanto, el debate sobre un impuesto a los superricos sigue sin acuerdo y se denuncian carencias de vivienda. Para mí, la prioridad es clara: gravar las grandes fortunas para financiar vivienda y servicios públicos universales. Pero también debemos disputar la propiedad: una economía con sectores estratégicos bajo control colectivo y democrático puede poner las necesidades sociales por delante de la rentabilidad del gran capital. La igualdad no puede depender de la buena voluntad de los propietarios."
+      "texto": "Hoy veo dos caras de una misma injusticia. Dos trabajadores italianos han muerto en un ataque con drones en Kuwait, mientras realizaban tareas de mantenimiento. Me sumo a la petición de la Fiom de que regresen quienes trabajan en zonas de guerra: ninguna estrategia militar ni beneficio empresarial vale una vida.\n\nTambién me indigna que, según un estudio de la UIL, la tarifa plana para autónomos reste al Estado 4.000 millones de euros y favorezca a los más acomodados frente a asalariados con iguales ingresos. Esa es una decisión de clase: recursos que podrían sostener la escuela y la sanidad públicas dejan de estar disponibles. Frente al poder del gran capital, defiendo una fiscalidad progresiva y la propiedad colectiva de los sectores estratégicos, bajo control democrático de trabajadores y ciudadanía. Los bienes comunes deben servir a la mayoría, no al beneficio privado."
     },
     {
       "id": "anarquista",
       "nombre": "Un anarquista",
-      "texto": "La propuesta de crear un observatorio sobre libros escolares «no conformes» me parece una advertencia: quien concentra poder también aspira a decidir qué puede pensarse. Una educación libre necesita docentes, estudiantes y comunidades capaces de debatir, no guardianes de una verdad oficial.\n\nTampoco veo en la elección directa de presidentes provinciales una respuesta suficiente al problema de la representación. Cambiar quién ocupa un cargo no elimina la distancia entre quienes deciden y quienes viven las consecuencias. Prefiero asambleas abiertas y decisiones tomadas desde abajo, con responsabilidades revocables y sin privilegios permanentes.\n\nLa retirada de los despidos en San Benedetto recuerda, además, que el trabajo no debería depender únicamente de decisiones empresariales. Defiendo que quienes trabajan puedan organizarse y gestionar colectivamente su actividad. La libertad individual se sostiene mejor cuando existe apoyo mutuo, no obediencia."
+      "texto": "La muerte de dos trabajadores italianos en un ataque con drones en Kuwait me recuerda que las decisiones militares se toman lejos de quienes pagan sus consecuencias. Apoyo la petición sindical de que regresen quienes trabajan en zonas de guerra. Ningún empleo debería exigir que una persona arriesgue la vida para sostener una maquinaria bélica.\n\nTambién me inquieta el decreto escolar italiano: limitar la presencia de alumnado extranjero y vigilar los libros no construye una comunidad libre, sino que entrega más poder a quienes clasifican y controlan. No espero que otro partido resuelva desde arriba lo que nace de esa lógica de autoridad. Prefiero escuelas gestionadas por quienes las habitan, con docentes, estudiantes y familias decidiendo juntos, y redes de apoyo mutuo que permitan a cada cual aprender sin renunciar a su libertad ni a la de los demás."
     },
     {
       "id": "liberal",
       "nombre": "Un liberal",
-      "texto": "Los nuevos aranceles de Estados Unidos me parecen una mala respuesta a la competencia: encarecen el comercio y castigan a consumidores y empresas. La incertidumbre que reflejan las bolsas recuerda que la prosperidad necesita reglas estables, no barreras levantadas al vaivén político. Por la misma razón, rechazo nuevos impuestos como el previsto sobre las bebidas azucaradas: prefiero que las personas decidan qué consumir y asuman la responsabilidad de sus elecciones.\n\nEn Italia, el regreso a la elección directa de los presidentes provinciales debería acompañarse de una pregunta: ¿qué competencias son realmente necesarias y cuánto costarán? No basta con cambiar quién ocupa los cargos; hay que limitar el aparato público y rendir cuentas. También desconfío de un observatorio de libros de texto «no conformes»: la educación necesita pluralismo y debate, no vigilancia ideológica desde el poder."
+      "texto": "La discusión sobre la flat tax plantea una pregunta legítima: ¿por qué dos personas con ingresos iguales deben soportar cargas tan distintas? Yo defiendo impuestos bajos, también para los asalariados, no una carrera por gravar más al autónomo. La respuesta es reducir privilegios y gasto, y establecer reglas sencillas y equitativas. El dinero que gana una persona no pertenece primero al Estado.\n\nTambién me preocupa la propuesta de vigilar la conformidad de los libros escolares. La enseñanza necesita debate y pluralismo, no guardianes políticos de la ortodoxia. Un Estado limitado debe proteger la libertad de aprender y enseñar, no decidir qué ideas merecen circular.\n\nLa libertad exige responsabilidad: de los ciudadanos, al hacerse cargo de sus decisiones, y de los gobernantes, al justificar cada euro que les confían."
     },
     {
       "id": "extrema_derecha",
       "nombre": "Uno de extrema derecha",
-      "texto": "Veo en las noticias de hoy una lección que las élites prefieren ignorar: sin fronteras controladas no hay soberanía efectiva. El despliegue del ejército en Canarias para gestionar los desembarcos debería servir de advertencia también a Italia. Yo quiero un control estricto de la inmigración, decisiones nacionales sobre quién puede entrar y una integración que exija respeto a nuestras leyes y tradiciones.\n\nTambién desconfío de una política que pide sacrificios mientras la Corte de Cuentas europea denuncia fallos de control en el gasto asociado a los bonos verdes. La transición no puede ser una excusa para entregar recursos sin vigilancia ni para subordinar nuestra industria a objetivos dictados desde arriba. Celebro, en cambio, que los presidentes provinciales vuelvan a elegirse directamente: prefiero gobernantes responsables ante los ciudadanos a cargos repartidos mediante acuerdos entre partidos."
+      "texto": "La muerte de dos trabajadores italianos en Kuwait me recuerda que la seguridad nacional no es una consigna: empieza por proteger a nuestros compatriotas y exigir claridad sobre lo ocurrido. Italia debe defender sus intereses sin aceptar que la guerra se extienda al Mediterráneo ni quedar reducida a espectadora en Libia.\n\nTambién creo que una nación tiene derecho a preservar su identidad. El límite de alumnos extranjeros por aula puede servir para facilitar la integración y asegurar una enseñanza compartida, siempre que vaya acompañado de recursos y de una política migratoria estricta. No es hostilidad hacia nadie: es responsabilidad hacia quienes ya viven aquí y hacia quienes llegan.\n\nFinalmente, ante el caso De Gennaro, desconfío tanto de los secretos del poder como de los juicios mediáticos. Quiero verdad, respeto a las investigaciones y responsabilidad institucional, no una competición de consignas."
     },
     {
       "id": "centro",
       "nombre": "Una demócrata de centro",
-      "texto": "Me preocupa la propuesta de crear un observatorio sobre libros de texto «no conformes». La escuela debe enseñar a contrastar argumentos, no recibir una interpretación política autorizada. Es legítimo discutir el contenido de un manual; otra cosa es convertir esa discusión en vigilancia institucional.\n\nTambién creo que la transición ecológica necesita tanto ambición como credibilidad. Si, como advierte el Tribunal de Cuentas europeo, faltan controles sobre los bonos verdes y se sobrestima el gasto comunicado, hay que corregirlo. No para abandonar la transición, sino para proteger el dinero público y atraer inversión privada con reglas fiables.\n\nY celebro el acuerdo en San Benedetto: evitar despidos forzosos mediante salidas voluntarias muestra que negociar puede conciliar las necesidades de una empresa con la protección de sus trabajadores. Ese pragmatismo merece más espacio en la política."
+      "texto": "Me preocupa que el decreto escolar apueste por un techo de alumnos extranjeros en lugar de reforzar la integración. Una escuela pública exigente e inclusiva necesita recursos, apoyo lingüístico y docentes capaces de atender aulas diversas. También me inquieta la propuesta de vigilar los libros «no conformes»: la libertad de enseñanza merece protección, no una supervisión ideológica.\n\nEn materia fiscal, el estudio sindical sobre la flat tax plantea una pregunta legítima: ¿por qué personas con ingresos similares deben contribuir de forma tan distinta? Quiero impuestos simples que favorezcan la iniciativa, pero también progresivos y suficientes para sostener servicios públicos. Reformar gradualmente ese régimen sería más responsable que defender privilegios o castigar el trabajo autónomo.\n\nLa muerte de dos técnicos italianos en Kuwait exige, además, esclarecer lo ocurrido y proteger mejor a los trabajadores en zonas de conflicto."
     }
   ],
   "periodicos": [
@@ -103,10 +103,10 @@
         }
       ],
       "analisis": {
-        "resumen": "- La portada destaca los encuentros de Toti con el empresario Spinelli, las reuniones en un yate y la respuesta del alcalde de Génova, Marco Bucci.\n- Según los fiscales, en Liguria se manipularon datos de contagios durante la pandemia.\n- El nuevo código de circulación, la deuda y las discrepancias en la mayoría sobre el Superbonus y el impuesto a las bebidas centran otras noticias.\n- Las tropas rusas avanzan hacia Járkov; Zelenski describe la situación como extremadamente difícil.\n- También aparecen el caso Iovino y Fedez, la situación fiscal de Camila Giorgi y consejos de inversión.",
-        "populismo": 25,
-        "motivo_populismo": "Predomina el tono informativo, aunque expresiones como «estalla el caso» y «ataques» intensifican el conflicto, y algunos titulares anticipan conclusiones críticas.",
-        "sesgo": "La selección concede especial atención a las controversias que involucran a dirigentes de Liguria y a las discrepancias en el Gobierno. También presenta un enfoque crítico sobre el código de circulación y la acumulación de deuda."
+        "resumen": "- Cambios en el código de circulación y dudas sobre su eficacia para reducir las víctimas.\n- Investigación en Liguria: encuentros en un yate, declaraciones de Bucci y presunta manipulación de datos de la pandemia.\n- Fedez ha sido denunciado por el caso Iovino; Camila Giorgi afronta una investigación fiscal sobre sus ingresos.\n- El superbonus y la tasa a las bebidas provocan desacuerdos en la mayoría de Gobierno; también se aborda la deuda y cómo invertir los ahorros.\n- Las fuerzas rusas avanzan hacia Járkov y Zelenski describe la situación como extremadamente difícil.",
+        "populismo": 30,
+        "motivo_populismo": "Predomina la información, pero expresiones como «juego al masacre», «estalla el caso» y «perseguida por el fisco» aportan dramatismo y énfasis en el conflicto.",
+        "sesgo": "La portada da especial relevancia a las investigaciones sobre dirigentes de Liguria y a los desacuerdos dentro del Gobierno, con un enfoque crítico y centrado en el conflicto. No se aprecia una orientación partidista inequívoca a partir de estos titulares."
       }
     },
     {
@@ -114,71 +114,71 @@
       "web": "https://www.repubblica.it",
       "noticias": [
         {
-          "titulo": "Brignone si ritira, Goggia: “Se sono l'atleta di oggi molto lo devo anche a lei”",
-          "entradilla": "La storica rivale e compagna di squadra saluta Federica: “È stato un onore condividere questi anni”. Da Malagò a Buonfiglio, passando per Shiffrin e Vonn, il mondo dello sport rende omaggio alla Tigre: “Una leggenda, il suo ritorno a Cortina resterà nella storia”",
-          "enlace": "https://www.repubblica.it/sport/sci/2026/11/25/news/brignone_ritiro_reazioni_goggia-425750223/"
+          "titulo": "Con Repubblica in edicola la collana di libri di Corrado Augias",
+          "entradilla": "Dal 27 novembre con “Repubblica” le opere del giornalista appena scomparso. Un viaggio in dodici titoli che attraversa impegno civile e passioni. La prima uscita è il saggio autobiografico “La vita s’impara”",
+          "enlace": "https://www.repubblica.it/cultura/2026/11/26/news/collana_libri_corrado_augias_edicola-425753172/"
         },
         {
-          "titulo": "Mattarella all’Anci: “Non esistono due Italie, una moderna e una no. Sconfiggeremo attacchi hacker”",
-          "entradilla": "Il presidente della Repubblica da Verona all’assemblea dell'Associazione dei Comuni italiani. Parla di sicurezza: “I cittadini non vanno lasciati soli” e denuncia le carenze abitative",
-          "enlace": "https://www.repubblica.it/politica/2026/11/25/news/mattarella_anci_comuni_sicurezza_attacchi_hacker_sindaci-425750114/"
+          "titulo": "Polemica su Naza, the real story: il contro-documentario su Gaza in Regione con Arianna Meloni",
+          "entradilla": "Il film, autoprodotto, è stato realizzato come risposta al documentario “Naza”. Il Pirellone è sponsor della serata. Paladini (Patto civico): “Fuori luogo il logo istituzionale”",
+          "enlace": "https://milano.repubblica.it/cronaca/2026/11/26/news/naza_contro_documentario_su_gaza_polemica_regione_lombardia_arianna_meloni-425753044/"
         },
         {
-          "titulo": "Le ultime dodici ore di De Gennaro. La lettera al procuratore De Luca scritta nella notte",
-          "entradilla": "I biglietti alla famiglia sarebbero invece stati scritti tre giorni prima. Gli ultimi sei minuti trascorsi con la sua scorta",
-          "enlace": "https://www.repubblica.it/cronaca/2026/11/25/news/le_ultime_dodici_ore_di_de_gennaro_la_lettera_al_procuratore_de_luca_scritta_nella_notte-425750080/"
+          "titulo": "Leclerc: “Con Hamilton ci stiamo parlando, ma l’atmosfera in Ferrari non è buona”",
+          "entradilla": "Il monegasco ha risposto alle domande sui reiterati problemi con il compagno di squadra apparsi evidenti a Las Vegas",
+          "enlace": "https://www.repubblica.it/sport/formulauno/2026/11/26/news/leclerc_dichiarazione_hamilton_tensione-425752853/"
         },
         {
-          "titulo": "Il richiamo del governo in Cdm: “Basta senatori assenti, non possiamo cercarli per Roma”",
-          "entradilla": "Al Senato manca per due volte il numero legale. Il ministro Ciriani (FdI) chiede “responsabilità” e la premier Meloni: “Presidiare meglio il Parlamento”",
-          "enlace": "https://www.repubblica.it/politica/2026/11/25/news/numero_legale_senato_cdm_richiamo_governo_senatori_fdi-425750057/"
+          "titulo": "Bagnaia: “Ho una commozione cerebrale, non posso fare neanche i test”. Addio senza pista alla Ducati",
+          "entradilla": "Il pilota italiano, che ha vinto due mondiali con la Rossa di Borgo Panigale, non potrà gareggiare nell’ultima gara a Valencia. Ma non ci sarà due giorni dopo per i primi giri con l’Aprilia, suo nuovo team",
+          "enlace": "https://www.repubblica.it/sport/moto-gp/2026/11/26/news/bagnaia_ematoma_testa_ducati_addio-425752784/"
         },
         {
-          "titulo": "Dall’infortunio al ginocchio al doppio oro olimpico: l’anno da fenice della tigre Brignone",
-          "entradilla": "Dalla caduta agli assoluti ad aprile 2025 ai successi delle Olimpiadi di Milano Cortina",
-          "enlace": "https://www.repubblica.it/sport/sci/2026/11/25/news/brignone_infortunio_doppio_oro_olimpiadi_ritiro-425750001/"
+          "titulo": "Attacco con droni in Kuwait, chi sono i due tecnici italiani rimasti uccisi",
+          "entradilla": "Antonio Saccoccio e Emanuele Lo Russo erano due tecnici esperti della fabbrica Rheinmetall. Abituati alle trasferte, erano in missione per un’operazione di manutenzione. La Fiom chiede il rientro di tutti i lavoratori impiegati in zone di guerra",
+          "enlace": "https://www.repubblica.it/cronaca/2026/11/26/news/attacco_con_droni_kuwait_chi_sono_tecnici_italiani_uccisi-425752764/"
         },
         {
-          "titulo": "Brignone: “La mia carriera è stata come una lavatrice, smettere una liberazione”",
-          "entradilla": "La campionessa lascia gli sci dopo i due ori olimpici di Milano Cortina: “Non volevo tenermi questo peso”",
-          "enlace": "https://www.repubblica.it/sport/sci/2026/11/25/news/brignone_intervista_ritiro_liberazione-425749889/"
+          "titulo": "Caso De Gennaro, i familiari: “Pubblicare tutta la lettera testamento e riserbo su quella per noi”",
+          "entradilla": "Il vertice tra procure voluto dalla Dna. Intanto la famiglia di De Gennaro chiede intanto di rendere pubblica la lettera che l’ex capo della polizia ha lasciato per consegnare la sua verità all’opinione pubblica",
+          "enlace": "https://firenze.repubblica.it/cronaca/2026/11/26/news/de_gennaro_hard_disk_dda_dna_firenze_accertamento-425752505/"
         },
         {
-          "titulo": "Salta la diretta di BellaMa’: Pierluigi Diaco indisposto, ma sarà in onda domani",
-          "entradilla": "Nel frattempo proseguono le verifiche interne. Gli autori della trasmissione inviano al conduttore una lettera per rinnovare la loro fiducia",
-          "enlace": "https://www.repubblica.it/spettacoli/tv-radio/2026/11/25/news/bellama__pierluigi_diaco_salta_diretta_domani_in_onda-425749848/"
+          "titulo": "Missili, mitragliere e basi radar: l’antiaerea dell’Emirato affidata alle aziende italiane",
+          "entradilla": "Le due vittime erano addette alla manutenzione dei sistemi d’arma stanziati dopo la fine della prima Guerra del Golfo",
+          "enlace": "https://www.repubblica.it/esteri/2026/11/26/news/armi_la_barriera_italiana_che_difende_il_kuwait-425752436/"
         },
         {
-          "titulo": "Dl scuola, proposta shock di FdI: creare un osservatorio sui libri di testo non conformi",
-          "entradilla": "Nelle scorse settimane c’è stata un'aspra polemica a seguito di una interrogazione del partito della premier in merito a un volume edito da Laterza, contestato dalla maggioranza a causa di alcune pagine in cui il governo Meloni viene delineato in continuità con l'eredità del fascismo",
-          "enlace": "https://www.repubblica.it/politica/2026/11/25/news/decreto_scuola_fdi_osservatorio_libri_non_conformi-425749784/"
+          "titulo": "Siamo andati sul set della nuova serie di Harry Potter",
+          "entradilla": "Negli studi, blindatissimi, dove si girano i nuovi episodi. Dopo il boom è impossibile utilizzare le strade di Londra",
+          "enlace": "https://www.repubblica.it/venerdi/2026/11/26/news/studios_londra_harry_potter_londra_serie_tv_lavoratori_set-425752308/"
         },
         {
-          "titulo": "Addio a Veruschka, prima supermodella e volto di “Blow-Up” di Antonioni",
-          "entradilla": "Si è spenta a 87 anni Veruschka, all’anagrafe Vera Gottliebe Anna von Lehndorff-Steinort. Contessa di nascita, fu tra le prime top model della storia e musa indimenticabile degli anni 60",
-          "enlace": "https://d.repubblica.it/fashion/moda/2026/11/25/news/veruschka_morta_prima_supermodella_icona_blow_up_antonioni-425749761/"
+          "titulo": "Harry Potter è tornato a Hogwarts dove la vera magia è l’amore",
+          "entradilla": "Il 25 dicembre arriva su Hbo Max la serie su Harry Potter. Una scrittrice che ha divorato tutti i romanzi della saga spiega perché vale ancora la pena prendere il treno dal Binario 9 ¾",
+          "enlace": "https://www.repubblica.it/venerdi/2026/11/26/news/harry_potter_nuova_serie_tv_uscita_25_dicembre-425752287/"
         },
         {
-          "titulo": "FdI precetta i parlamentari a caccia di preferenze: “Niente cene elettorali, tutti ad Atreju”",
-          "entradilla": "La circolare di Donzelli agli eletti: “Sospendete qualsiasi iniziativa sul territorio durante la kermesse”",
-          "enlace": "https://www.repubblica.it/politica/2026/11/25/news/fdi_parlamentari_atreju_cene_elettorali-425749643/"
+          "titulo": "Game over: l’Italia fuori dalla partita libica",
+          "entradilla": "L’attacco ucraino a Bengasi ha fatto riaprire gli occhi sulle insidie del Paese. Dove cresce il peso di Ankara e si dissolve quello di Roma",
+          "enlace": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/11/26/news/guerra_libia_rischi_italia-425751930/"
         },
         {
-          "titulo": "Diretta Davis, Italia-Corea del Sud 1-1. Berrettini-Vavassori sfidano Chung-Kwon nel doppio decisivo",
-          "entradilla": "A Bologna il quarto di finale degli azzurri campioni uscenti",
-          "enlace": "https://www.repubblica.it/sport/tennis/2026/11/25/diretta/coppa_davis_italia_corea_del_sud_oggi-425749635/"
+          "titulo": "Attacco in Kuwait: morti due tecnici italiani della Rheinmetall. Telefonata Tajani- Araghchi: “Drone costruito in Iran ma negano ruolo”",
+          "entradilla": "Le vittime Antonio Saccoccio e Emanuele Lo Russo, di 65 e 36 anni, erano impegnate nella manutenzione dei sistemi antidrone Skyguard. Il ministro degli Esteri: “Forse coinvolti i proxy iraniani”. Teheran: “Disponibili a partecipare a commissione d’inchiesta congiunta”. E lanciano l’ipotesi della reg",
+          "enlace": "https://www.repubblica.it/esteri/2026/11/26/news/attacco_iraniano_in_kuwait_due_italiani_feriti_gravi_condizioni-425752146/"
         },
         {
-          "titulo": "Violenza contro le donne, insulti sessisti alla sindaca Salis “a pochi metri da casa”",
-          "entradilla": "Lo denuncia la prima cittadina in un post: “Reagisco e denuncio”, immediata la solidarietà del presidente della Regione Marco Bucci",
-          "enlace": "https://genova.repubblica.it/cronaca/2026/11/25/news/violenza_contro_le_donne_scritte_sessiste_contro_la_sindaca_salis_a_pochi_metri_da_casa-425749575/"
+          "titulo": "L’Argentina entra ufficialmente in recessione: si inceppa la motosega del presidente Milei",
+          "entradilla": "A tre anni dall’elezione dell’ultraliberista, i dati ufficiali sul Pil del terzo trimestre dell’anno hanno confermato due trimestri consecutivi di contrazione",
+          "enlace": "https://www.repubblica.it/esteri/2026/11/26/news/argentina_recessione_pil_economia_javier_milei-425752134/"
         }
       ],
       "analisis": {
-        "resumen": "- Federica Brignone anuncia su retirada del esquí y recibe homenajes del mundo deportivo.\n- Mattarella aborda las desigualdades territoriales, la seguridad y la vivienda ante los municipios italianos.\n- El Gobierno reclama más presencia de sus senadores tras dos faltas de quorum; FdI pide a sus parlamentarios asistir a Atreju.\n- Una propuesta de FdI sobre los libros de texto reaviva la polémica escolar; se detallan las últimas horas de De Gennaro.\n- Completan la portada el tenis de Copa Davis, los insultos a la alcaldesa Salis, la interrupción de BellaMa’ y la muerte de Veruschka.",
-        "populismo": 25,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «propuesta shock» y «año de fénix» aportan dramatización, sin que destaque una apelación al pueblo contra las élites.",
-        "sesgo": "La portada dedica especial atención a Brignone y presenta algunas noticias sobre el Gobierno y FdI con un enfoque crítico o de conflicto, visible en expresiones como «propuesta shock»."
+        "resumen": "- Dos técnicos italianos mueren en un ataque con drones en Kuwait; se investigan las posibles responsabilidades.\n- La familia de De Gennaro pide publicar una de sus cartas y preservar la privacidad de otra.\n- Un contradocumental sobre Gaza genera polémica por el patrocinio institucional de una proyección.\n- La portada aborda la pérdida de influencia italiana en Libia y la entrada de Argentina en recesión.\n- En deportes, destacan los problemas en Ferrari y la ausencia de Bagnaia; en cultura, una colección de Augias y la nueva serie de Harry Potter.",
+        "populismo": 20,
+        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «Game over» y «se atasca la motosierra» aportan dramatización y simplifican asuntos complejos.",
+        "sesgo": "La selección prioriza el impacto italiano de los conflictos internacionales y presenta la situación de Italia en Libia en términos de pérdida de influencia. El titular sobre Argentina adopta un enfoque crítico hacia la gestión de Milei."
       }
     },
     {
@@ -186,71 +186,71 @@
       "web": "https://www.lastampa.it",
       "noticias": [
         {
-          "titulo": "Coppa Davis, tocca al doppio a decidere Italia-Corea: Musetti ok, Cobolli ko",
-          "entradilla": "Il romano fa suo il primo set (6-3) ma poi cede al tie-break gli altri due. Il carrarino ha vinto in due set, complicandosi la vita nel secondo dopo un netto 6-0",
-          "enlace": "https://www.lastampa.it/sport/2026/11/25/news/coppa_davis_italia_corea_sud-15809196/"
+          "titulo": "Gran ripresa rossonera, il Milan vince in rimonta con l'Olympiakos e rivede i playoff",
+          "entradilla": "Finisce 2-4. La squadra di Amorim, sotto 1-0 all'intervallo per un'autorete di Mike Maignan al 31', ha incassato il raddoppio di Jota Silva al 49'. La reazione milanista è stata però immediata",
+          "enlace": "https://www.lastampa.it/sport/2026/11/26/news/gran_ripresa_rossonera_il_milan_vince_in_rimonta_con_l_olympiakos_2-4-15810741/"
         },
         {
-          "titulo": "Trump rilancia i dazi contro Europa e Asia. “Troppi danni agli Usa”",
-          "entradilla": "L’obiettivo del presidente Usa è scoraggiare un’eccessiva produzione in quelle economie. Il ritorno dell’incertezza fa volare il Vix, l’indice del timore",
-          "enlace": "https://www.lastampa.it/esteri/2026/11/25/news/dazi_trump_nuove_tariffe_per_cina_ue_e_altri_12_paesi-15808908/"
+          "titulo": "Tregua Ferrari, Leclerc: “L’atmosfera con Hamilton non è buona, bisogna trovare una soluzione”",
+          "entradilla": "Confronto tra i due piloti e Vasseur prima del Gp del Qatar. Charles: “Nel contratto non ho nessuna clausola da prima guida”. Lewis: “Siamo ancora liberi di correre, vogliamo evitare episodi come quello di Las Vegas”",
+          "enlace": "https://www.lastampa.it/sport/2026/11/26/news/f1_ferrari_leclerc_hamilton_vasseur_gp_qatar-15810502/"
         },
         {
-          "titulo": "Borse, Europa in rosso tra dazi e timori sui tassi. Milano perde l’1,8%, Nasdaq in forte calo",
-          "entradilla": "I nuovi annunci tariffari di Washington, l’inflazione americana e le vendite sui titoli tecnologici alimentano l’incertezza sui mercati. Trump attribuisce la flessione di Wall Street alla vittoria democratica alle elezioni di midterm. Nvidia in calo dell'8,4%",
-          "enlace": "https://www.lastampa.it/economia/2026/11/25/news/borse_crollo_europa_dazi_paura_milano_nasdaq_trump-15809279/"
+          "titulo": "Bagnaia dà l’addio alla Ducati, ma niente ultima gara: ha una lieve emorragia cerebrale",
+          "entradilla": "Dopo l’ok dei medici potrà salire sulla nuova moto: l’Aprilia",
+          "enlace": "https://www.lastampa.it/sport/2026/11/26/news/bagnaia_addio_ducati_emorragia_cerebrale-15810654/"
         },
         {
-          "titulo": "Se i green bond Ue non finanziano la transizione: l’allarme della Corte dei conti europea",
-          "entradilla": "I giudici contabili bacchettano la Commissione: «Mancano i controlli e la spesa rendicontata dagli Stati è sovrastimata»",
-          "enlace": "https://www.lastampa.it/economia/2026/11/25/news/green_bond_corte_conti_europea_rischio_transizione_greenwashing-15809145/"
+          "titulo": "Due italiani morti in Kuwait durante un attacco iraniano di droni. Il cordoglio di Meloni",
+          "entradilla": "Sono tecnici della Rheinmetall. Feriti un kuwaitiano e un pakistano. Tajani: “Il governo vicino alle famiglie delle vittime”. Von der Leyen: “Intensificare la pressione sull’Iran”",
+          "enlace": "https://www.lastampa.it/esteri/2026/11/26/news/kuwait_italiani_feriti-15810123/"
         },
         {
-          "titulo": "Federica Brignone dà l’addio allo sci: “Ci ho provato ma la gamba fa troppo male”",
-          "entradilla": "La campionessa annuncia lo stop ma anche l’idea di una ultima gara per salutare tutti: “Una decisione difficile. Il mio incidente è stato molto grave, è qualcosa che mi condizionerà tutta la vita”",
-          "enlace": "https://www.lastampa.it/sport/2026/11/25/news/federica_brignone_si_ritira_sci-15808962/"
+          "titulo": "Attacco con droni in Kuwait, chi sono i due tecnici italiani rimasti uccisi",
+          "entradilla": "Antonio Saccoccio, di Formia, aveva 65 anni ed era prossimo alla pensione, Emanuele  Lo Russo, romano, di anni ne aveva 36",
+          "enlace": "https://www.lastampa.it/esteri/2026/11/26/news/attacco_con_droni_in_kuwait_chi_sono_i_due_tecnici_rimasti_uccisi-15810490/"
         },
         {
-          "titulo": "L'annuncio in un video: \"Basta gare, vorrei fare solo un'ultima discesa\"",
-          "entradilla": "Federica Brignone ha annunciato il ritiro dalle competizioni. La campionessa azzurra ha comunicato la sua decisione attraverso un video di 30 secondi, dopo essere tornata sulla neve per verificare le condizioni della gamba sinistra, ancora dolorante a causa del grave infortunio subito nell'aprile 20",
-          "enlace": "https://www.lastampa.it/sport/2026/11/25/video/federica_brignone_ritiro_sci_annuncio-15809022/"
+          "titulo": "Kuwait, perché Teheran colpisce le monarchie del Golfo e perché ora nega l’attacco",
+          "entradilla": "La strategia iraniana per provocare Washington e Gerusalemme. L’analista israeliano Raz Zimmt: “Non intendevano colpire gli italiani. È per questo che negano”",
+          "enlace": "https://www.lastampa.it/esteri/2026/11/26/news/kuwait-attacco-iran-strategia-golfo-smentita-italiani-15810600/"
         },
         {
-          "titulo": "Federica Brignone, dalle prime sciate con la mamma ai trionfi: una carriera da regina delle nevi",
-          "entradilla": "Ha vinto tutto, in gigante, supergigante, discesa libera e combinata. Titoli in Coppa del Mondo, Olimpiadi e Mondiali",
-          "enlace": "https://www.lastampa.it/sport/2026/11/25/news/federica_brignone_ritiro_fuoriclasse_sci-15809082/"
+          "titulo": "De Gennaro, Mattarella ai funerali. Meloni, in forse. La famiglia: “Pubblicare tutta la lettera”",
+          "entradilla": "La premier: «La cosa più seria da fare è aiutare le procure a fare chiarezza, il gioco delle tifoserie non aiuta». Salvini: «Alle esequie non ci sarò perché impegnato a Bruxelles»",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/26/news/meloni_de_gennaro_funerale_procura_inchiesta_suicidio-15809989/"
         },
         {
-          "titulo": "Province, si torna al passato: il governo approva l’elezione diretta dei presidenti. Cosa cambia",
-          "entradilla": "Previsto un turno unico: sarà eletto il candidato con il maggior numero di voti",
-          "enlace": "https://www.lastampa.it/politica/2026/11/25/news/province_elezione_diretta_presidenti_cosa_cambia_novita-15808782/"
+          "titulo": "La lettera-testamento di De Gennaro: \"Un condannato a morte non può mentire, ho obbedito agli ordini\"",
+          "entradilla": "Otto pagine scritte a mano con la data del 20 novembre, inserite in una busta insieme all’hard disk che la procura di Caltanissetta stava cercando: «Ho evitato che fosse acquisito da chi non ritenevo in grado di valutarne il contenuto»",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/26/news/de_gennaro_lettera_testamento_obbedito_ordini-15809808/"
         },
         {
-          "titulo": "Mattarella a Verona per l’Anci: “I Comuni sono essenziali per l’identità della Repubblica”",
-          "entradilla": "Dopo le polemiche sulla scaletta al maschile, apre i lavori la sindaca di Perugia Ferdinandi: «Chiediamo alla Repubblica di assumersi la responsabilità di educare le nuove generazioni in ogni scuola»",
-          "enlace": "https://www.lastampa.it/cronaca/2026/11/25/news/mattarella_verona_anci_salis_ferdinandi_25_novembre-15809204/"
+          "titulo": "Dalle chiamate cifrate al blitz in ritardo. Contorno e i misteri dentro la polizia",
+          "entradilla": "Le carte della procura di Caltanissetta e le parole di Genchi su una delle vicende più controverse dell’antimafia",
+          "enlace": "https://www.lastampa.it/cronaca/2026/11/26/news/loggia_contorno_misteri_polizia-15809517/"
         },
         {
-          "titulo": "“Gli assenti non saranno ricandidati”, Meloni striglia i parlamentari",
-          "entradilla": "Poi la premier aumenta il tesoretto di 30 milioni",
-          "enlace": "https://www.lastampa.it/politica/2026/11/25/news/gli_assenti_non_saranno_ricandidati_meloni_striglia_i_parlamentari-15809268/"
+          "titulo": "Perché il Nord Europa sta costruendo muri, barriere e fossati verso la Russia",
+          "entradilla": "Dalla Finlandia alla Polonia tutte le contromisure alla possibile invasione di Putin sul confine orientale",
+          "enlace": "https://www.lastampa.it/esteri/2026/11/26/news/finlandia_norvegia_svezia_polonia_baltici_muri_difesa_russia_ucraina-15810314/"
         },
         {
-          "titulo": "Zelensky: “Aerei e navi della Russia obiettivi legittimi sempre”. L’esercito di Haftar: risponderemo al raid",
-          "entradilla": "Polonia: no-fly zone al confine con Ucraina. Trump spazientito alle domande dei giornalisti sula pace: “Servono due persone per ballare il tango”",
-          "enlace": "https://www.lastampa.it/esteri/2026/11/25/diretta/guerra_russia_ucraina_news_oggi-15808402/"
+          "titulo": "Londra allerta 100 mila riservisti: “Tenetevi pronti in caso di guerra”",
+          "entradilla": "Il sostegno della Gran Bretagna a Kiev alimenta lo scontro con Mosca, ecco tutti i fronti della tensione",
+          "enlace": "https://www.lastampa.it/esteri/2026/11/26/news/inghilterra_riservisti_guerra-15810128/"
         },
         {
-          "titulo": "Droni Shahed e missili cruise: ecco tutti i chip Nvidia trovati sulle armi di Putin in Ucraina",
-          "entradilla": "Abbiamo avuto accesso agli archivi del GUR: i chip di Jensen Huang, processori al centro di diverse inchieste (a Singapore, Taiwan e negli Usa) perché finiti illegalmente in Cina, sono stati trovati sopra droni Shahed 136. Droni Klyn. Missili cruise S-71M. Droni Zala T20. “Barrage munitions”. Droni ",
-          "enlace": "https://www.lastampa.it/esteri/2026/11/25/news/droni_shahed_e_missili_cruise_ecco_tutti_i_chip_nvidia_trovati_sulle_armi_di_putin_in_ucraina-15808588/"
+          "titulo": "Meloni a Zelensky: no alla guerra nel Mediterraneo. Trump a Putin: stop aggressioni all’Europa",
+          "entradilla": "Il Cremlino a von der Leyen: «Non puoi dettare condizioni per i negoziati». Salvini: “Zelensky non si permetta di portare la guerra qui”. Arrestato a Mosca per corruzione il vice comandante delle forze aerospaziali",
+          "enlace": "https://www.lastampa.it/esteri/2026/11/26/diretta/guerra_russia_ucraina_news_oggi-15809568/"
         }
       ],
       "analisis": {
-        "resumen": "- Italia y Corea decidirán su eliminatoria de Copa Davis en el partido de dobles.\n- Trump impulsa nuevos aranceles; las bolsas europeas y estadounidenses caen ante la incertidumbre.\n- La esquiadora Federica Brignone anuncia su retirada por las secuelas de una lesión.\n- El Gobierno italiano aprueba la elección directa de los presidentes provinciales; Meloni advierte a los parlamentarios ausentes.\n- La portada aborda la guerra en Ucrania, incluidos ataques y el hallazgo de chips Nvidia en armas rusas.",
-        "populismo": 20,
-        "motivo_populismo": "Predomina un tono informativo, aunque expresiones como «l’alarme», «bacchettano» y «Meloni striglia» aportan dramatización y personalización.",
-        "sesgo": "La selección destaca las consecuencias negativas de los aranceles y las deficiencias señaladas en la financiación europea de la transición. También concede amplio espacio a la retirada de Brignone y sus logros."
+        "resumen": "- El Milan remonta ante el Olympiakos; Ferrari aborda la tensión entre Leclerc y Hamilton.\n- Bagnaia se despide de Ducati sin correr la última carrera por una leve hemorragia cerebral.\n- Dos técnicos italianos mueren en Kuwait en un ataque con drones atribuido a Irán, que niega la autoría.\n- La portada recoge el funeral y la carta de De Gennaro, además de una investigación sobre la policía y la antimafia.\n- En Europa aumentan las medidas de seguridad ante Rusia, mientras continúan las tensiones y los contactos diplomáticos.",
+        "populismo": 22,
+        "motivo_populismo": "El tono es mayormente informativo, aunque expresiones como «misterios» y «tened lista en caso de guerra» aportan dramatismo; no se aprecia una apelación al pueblo contra las élites.",
+        "sesgo": "La selección combina una amplia cobertura deportiva con atención a los conflictos internacionales desde la seguridad europea y el impacto sobre Italia. En el ataque de Kuwait se destaca una interpretación de la estrategia iraní atribuida a un analista israelí."
       }
     },
     {
@@ -258,29 +258,24 @@
       "web": "https://www.ilgiornale.it",
       "noticias": [
         {
-          "titulo": "Il lungo interrogatorio di Ranucci, verbale secretato. L’ex Mr Report non prende le distanze da Lavitola Il conduttore: \"Chiarito tutto, mi costituirò parte civile\" | Video",
+          "titulo": "Mattarella parteciperà ai funerali di De Gennaro. Meloni: “In questa vicenda il gioco delle tifoserie non aiuta”",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/cronache/ranucci-in-procura-a-roma-sotto-esame-il-rapporto-fraterno-con-lavitola/"
+          "enlace": "https://www.ilgiornale.it/news/politica/mattarella-partecipera-ai-funerali-di-de-gennaro-meloni-in-questa-vicenda-il-gioco-delle-tifoserie-non-aiuta/"
         },
         {
-          "titulo": "“Sei arrivato dove neanche la mafia era riuscita ad arrivare”. L’ultima lettera di De Gennaro al pm di Caltanissetta De Luca scritta poco prima di morire",
+          "titulo": "Esclusivo - Il grido disperato di De Gennaro al pm De Luca: “Io perseguitato ingiustamente. Se hai coscienza mi avrai sulla coscienza”.  Poi l’altra lettera: “Mai venuto meno al giuramento”",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/cronaca-giudiziaria/laccusa-di-de-gennaro-al-procuratore-nellultima-lettera-sei-arrivato-dove-neanche-la-mafia-era-riuscita-ad-arrivare/"
+          "enlace": "https://www.ilgiornale.it/news/magistratura/se-hai-coscienza-mi-avrai-sulla-coscienza/"
         },
         {
-          "titulo": "Golpe anti Cav, ecco le prove: la verità sul complotto del 1994",
+          "titulo": "De Gennaro stritolato dagli anti Cav",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/interni/golpe-anti-cav-ecco-le-prove/"
+          "enlace": "https://www.ilgiornale.it/news/magistratura/stritolato-dagli-anti-cav/"
         },
         {
-          "titulo": "L’antimafia come arma e la battaglia tra toghe. Così rivivo il golpe ’94",
+          "titulo": "Claudio Scajola: “Dopo il G8 volevo spostarlo. Poi scoppiò il caso Biagi e tutto saltò...”",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/magistratura/lantimafia-come-arma-e-la-battaglia-tra-toghe-cosi-rivivo-il-golpe-94/"
-        },
-        {
-          "titulo": "Gianfranco Miccichè: “Fu il governo Ciampi a colpire Berlusconi”",
-          "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/interni/gianfranco-micciche-fu-il-governo-ciampi-a-colpire-berlusconi/"
+          "enlace": "https://www.ilgiornale.it/news/interni/claudio-scajola-volevo-spostarlo-poi-scoppio-il-caso-biagi-e-tutto-salto/"
         },
         {
           "titulo": "Caltanissetta, una procura contro tutti",
@@ -288,41 +283,46 @@
           "enlace": "https://www.ilgiornale.it/news/magistratura/caltanissetta-una-procura-contro-tutti/"
         },
         {
-          "titulo": "“Contorno trasferito per motivi di sicurezza”, poi la smentita del legale. Il giallo sull’ex pentito",
+          "titulo": "Droni iraniani sul Kuwait, uccisi due civili italiani. Tajani sente Araghchi: “Iran nega, pronto a commissione d’inchiesta congiunta”. Il cordoglio di Meloni Antonio Saccoccio ed Emanuele Lo Russo, 65 e 36 anni: chi sono le vittime",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/cronaca-giudiziaria/lex-pentito-contorno-trasferito-per-motivi-di-sicurezza-il-suo-indirizzo-nelle-carte-di-caltanissetta-e-spunta-lincontro-con-de-gennaro/"
+          "enlace": "https://www.ilgiornale.it/diretta/guerra/droni-iraniani-sul-kuwait-feriti-due-italiani-cosa-e-successo-durante-lattacco/"
         },
         {
-          "titulo": "Salviamo il Natale. Abbonati a il Giornale per difendere le nostre tradizioni",
+          "titulo": "Skyguard, cos’è e come funziona il sistema antiaereo su cui lavoravano i due italiani uccisi in Kuwait",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/video/editoria-e-media/salviamo-il-natale-abbonati-a-il-giornale-per-difendere-le-nostre-tradizioni/"
+          "enlace": "https://www.ilgiornale.it/news/cronaca-internazionale/skyguard-cose-e-come-funziona-il-sistema-antiaereo-su-cui-lavoravano-i-due-italiani-uccisi-in-kuwait/"
         },
         {
-          "titulo": "Ucraina, rischio guerra alle porte dell’Italia. Ira di Bengasi: risponderemo. Zelensky: “Aerei e navi russe sono obiettivi legittimi” Dentro il caos Libia dove i militari ucraini lavorano con gli italiani",
+          "titulo": "Cosa è Rheinmetall e perché i tecnici italiani si trovavano in Kuwait",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/diretta/guerra/ucraina-rischio-guerra-alle-porte-dellitalia-ira-di-bengasi-risponderemo-varsavia-pronta-a-creare-una-no-fly-zone-al-confine/"
+          "enlace": "https://www.ilgiornale.it/news/cronaca-internazionale/cosa-e-rheinmetall-e-perche-i-tecnici-italiani-si-trovavano-in-kuwait/"
         },
         {
-          "titulo": "Trump torna alla carica sui dazi: nuove tariffe per Cina, Ue e altri 12 partner. Pechino: “Non conviene a nessuno” Da Nvidia alle nuove tariffe: cosa c'è dietro il piano del tycoon",
+          "titulo": "Il Giro (d’Italia) alle poltrone del Corriere",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/politica-estera/trump-torna-alla-carica-sui-dazi-nuove-tariffe-per-cina-ue-e-altri-12-partner-pechino-non-conviene-a-nessuno/"
+          "enlace": "https://www.ilgiornale.it/news/editoria-e-media/il-giro-ditalia-alle-poltrone-del-corriere/"
         },
         {
-          "titulo": "Sanchez si accorge solo ora della crisi dei migranti: esercito alle Canarie per gestire il boom di sbarchi",
+          "titulo": "Meloni frena sul bilancio Ue: “Siamo a anni luce da una soluzione. La manovra? Faremo ciò che serve per migliorarla” La premier: “La guerra non si deve allargare al Mediterraneo”",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/cronaca-internazionale/sanchez-si-accorge-solo-ora-della-crisi-dei-migranti-esercito-alle-canarie-per-gestire-il-boom-di-sbarchi/"
+          "enlace": "https://www.ilgiornale.it/news/interni/meloni-frena-su-bilancio-ue-siamo-a-anni-luce-da-una-soluzione-la-manovra-faremo-cio-che-serve-per-migliorarla/"
         },
         {
-          "titulo": "Dalle 37 vittorie in Coppa del mondo ai due ori olimpici: tutti i numeri da leggenda di Federica Brignone",
+          "titulo": "“Dialoghi impropri tra Scarpinato e Natoli”, “La Russa prenda provvedimenti”. È scontro tra Gasparri e i 5s sulla Commissione antimafia",
           "entradilla": "",
-          "enlace": "https://www.ilgiornale.it/news/sci/dalle-37-vittorie-in-coppa-del-mondo-ai-due-ori-olimpici-tutti-i-numeri-da-leggenda-di-federica-brignone/"
+          "enlace": "https://www.ilgiornale.it/news/interni/dialoghi-impropri-tra-scarpinato-e-natoli-la-russa-prenda-provvedimenti-e-scontro-tra-gasparri-e-i-5s-sulla-commissione-antimafia/"
+        },
+        {
+          "titulo": "Lavitola stupito dalla decisione di Ranucci di costituirsi parte civile. Il suo legale: “È pronto a chiarire” Il lungo interrogatorio del conduttore, verbale secretato",
+          "entradilla": "",
+          "enlace": "https://www.ilgiornale.it/news/cronaca-giudiziaria/lavitola-stupito-dalla-decisione-di-ranucci-di-costituirsi-parte-civile-il-suo-legale-e-pronto-a-chiarire/"
         }
       ],
       "analisis": {
-        "resumen": "- Varios titulares abordan un supuesto complot de 1994 contra Berlusconi y los enfrentamientos en la justicia.\n- Se destacan el interrogatorio de Ranucci, una carta de De Gennaro y las versiones contradictorias sobre el traslado de Contorno.\n- La portada alerta sobre la guerra en Ucrania y sus posibles repercusiones en Libia e Italia.\n- Trump anuncia nuevos aranceles; Sánchez despliega al ejército en Canarias ante el aumento de llegadas de migrantes.\n- Se repasan los logros de Federica Brignone y se promociona una suscripción para defender las tradiciones navideñas.",
-        "populismo": 68,
-        "motivo_populismo": "Expresiones como «golpe», «complot», «riesgo de guerra a las puertas de Italia» y «salvemos la Navidad» recurren al dramatismo, la confrontación y la apelación emocional.",
-        "sesgo": "La selección y la redacción dan protagonismo a la tesis de un complot contra Berlusconi y presentan de forma crítica a sectores de la justicia y a Sánchez. También destacan un enfoque alarmista sobre la guerra y una apelación a la defensa de las tradiciones."
+        "resumen": "- Mattarella asistirá al funeral de De Gennaro; la portada destaca cartas en las que él denunciaba una persecución injusta.\n- Dos civiles italianos murieron en Kuwait por drones iraníes; Irán lo niega y propone una investigación conjunta.\n- La portada aborda el sistema antiaéreo y la empresa vinculados al trabajo de las víctimas.\n- Meloni ve lejana una solución sobre el presupuesto de la UE y advierte contra la extensión de la guerra al Mediterráneo.\n- También se recogen el enfrentamiento en la Comisión Antimafia y noticias sobre medios de comunicación y procesos judiciales.",
+        "populismo": 55,
+        "motivo_populismo": "Expresiones como «el grito desesperado», «triturado por los anti-Cav» y «una fiscalía contra todos» emplean dramatización y presentan los conflictos en términos de bandos enfrentados.",
+        "sesgo": "La selección y redacción muestran un enfoque favorable a De Gennaro y crítico con sus adversarios y con una fiscalía. También se concede espacio a las declaraciones del Gobierno italiano."
       }
     },
     {
@@ -330,71 +330,71 @@
       "web": "https://www.ilfattoquotidiano.it",
       "noticias": [
         {
-          "titulo": "Parlamento Ue, il Ppe vota con la destra sul pacchetto green: ira di Pse e Renew, a rischio il bis di Metsola alla presidenza",
-          "entradilla": "Il Ppe vota con la destra sul pacchetto di norme green “Omnibus VIII” e mette a rischio la riconferma di Roberta Metsola alla presidenza del Parlamento europeo. Nella plenaria di mercoledì a Strasburgo, sono stati approvati con i voti decisivi dei popolari alcuni emendamenti e ordini del giorno prop",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/25/parlamento-europeo-ppe-destra-green-metsola-notizie/8583911/"
+          "titulo": "Attacco in Kuwait, chi erano i due italiani uccisi dai droni: il “veterano” della Rheinmetall e il tifoso della Roma",
+          "entradilla": "Avevano 65 e 36 anni Antonio Saccoccio ed Emanuele Lo Russo, i due lavoratori italiani morti nell’esplosione avvenuta in Kuwait in seguito a un attacco con droni. Entrambi erano dipendenti della società Rheinmetall Italia ed erano impegnati in attività di manutenzione presso una base militare del Pa",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/26/attacco-droni-kuwait-italiani-morti-notizie-2/8585050/"
         },
         {
-          "titulo": "Dalla promessa di abolizione alla restaurazione, Giorgia Meloni “resuscita” le Province: tornano le poltrone e l’elezione diretta",
-          "entradilla": "Nel 2014, da esponente dell’opposizione, Giorgia Meloni firmò una proposta di riforma costituzionale per abolire completamente le Province. Adesso, da presidente del Consiglio, dà il via alla resurrezione delle poltrone dei consigli provinciali e delle giunte. Il Consiglio dei ministri ha, infatti, ",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/25/province-elezione-diretta-meloni-riforma-notizie/8583850/"
+          "titulo": "Il buco flat tax, regalo da 4 miliardi agli autonomi più benestanti",
+          "entradilla": "La flat tax al 15% sul lavoro autonomo costa allo Stato, già oggi, 4 miliardi di minori incassi fiscali e provoca disparità di tassazione a favore delle partite Iva che, rispetto a un subordinato con lo stesso reddito, pagano fino a 18mila euro in meno all’anno. Lo studio è della Uil, che contesta l",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/26/il-buco-flat-tax-regalo-da-4-miliardi-agli-autonomi-piu-benestanti/8584993/"
         },
         {
-          "titulo": "Wall Street affonda di nuovo: il tech crolla con Nvidia. Pesano AI, dazi e paura dell’inflazione",
-          "entradilla": "Giornata di forti vendite sui mercati globali, con Wall Street in caduta e il comparto tecnologico a guidare il nuovo ribasso. E l’Europa a sua volta in rosso. A pesare è il mix di timori sulla sostenibilità della corsa all’intelligenza artificiale, nuove tensioni commerciali innescate dai nuovi daz",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/25/wall-street-crollo-tech-dazi-inflazione-notizie/8583787/"
+          "titulo": "Caso Emanuela Orlandi, ‘Chi l’ha visto?’ svela il nome dietro la voce del telefonista “Mario”: “È l’ex agente del Sisde Claudio Martufi”. Nessuna conferma ufficiale",
+          "entradilla": "È stato un post diffuso sui canali social della trasmissione Chi l’ha visto? a mettere nero su bianco un nome atteso da quarantatré anni: dietro la voce del telefonista anonimo noto come “Mario” (che il Fatto Quotidiano pubblicò qui in esclusiva nel 2024) ci sarebbe Claudio Martufi, ex agente del Si",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/26/caso-emanuela-orlandi-chi-lha-visto-svela-il-nome-dietro-la-voce-del-telefonista-mario-e-lex-agente-del-sisde-claudio-martufi/8584785/"
         },
         {
-          "titulo": "Lo spazio “svela” i segreti dell’Alzheimer? Nuove alterazioni genetiche scoperte a bordo della Stazione spaziale",
-          "entradilla": "Lo spazio potrebbe offrire nuove chiavi per comprendere l’Alzheimer e, soprattutto, per sviluppare in futuro trattamenti più mirati. È quanto emerge da uno studio condotto su organoidi cerebrali a bordo della Stazione Spaziale Internazionale (Iss), dove sono state osservate alterazioni legate alla m",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/25/alzheimer-spazio-iss-alterazioni-genetiche-notizie/8583388/"
+          "titulo": "Il decreto scuola è legge: tetto agli alunni stranieri, multe ai genitori e divieto di burqa. Cgil: “Propaganda xenofoba”. Ecco tutte le novità",
+          "entradilla": "Tra le proteste delle opposizioni, che mostravano cartelli con scritto “Qui nessuno è straniero”, la Camera ha dato il via libera definitivo al discusso Decreto Scuola. Dopo il primo sì del Senato, venerdì scorso, non senza polemiche, una volta che il provvedimento sarà firmato dal presidente della ",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/26/decreto-scuola-tetto-stranieri-burqa-notizie-2/8584975/"
         },
         {
-          "titulo": "Il campo progressista non trova ancora la sintesi sulla tassa per i super ricchi: se ne ridiscuterà giovedì",
-          "entradilla": "Inizialmente si è respirata aria di ottimismo, ma alla fine il tavolo sul fisco del campo progressista si è ancora arenato sull’argomento della tassa per i super ricchi. Il leader del Movimento 5 stelle, parlando degli alleati, ha puntato il dito contro “un ritorno indietro incomprensibile” mentre, ",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/25/tassa-super-ricchi-campo-progressista-diviso-notizie/8583814/"
+          "titulo": "Tutto passa, anzi ritorna. Da Pasolini a via D’Amelio, l’Italia immobile incollata alla sua storia e ai suoi veleni",
+          "entradilla": "Tutto passa, anzi ritorna. Due settimane fa la procura di Roma ha deciso di riaprire le indagini sull’omicidio di Pier Paolo Pasolini avvenuto 51 anni fa. E così sembrano pochini persino i 34 anni della strage di mafia di via D’Amelio dentro cui siamo precipitati, i processi che sono stati celebrati",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/26/tutto-passa-anzi-ritorna-da-pasolini-a-via-damelio-litalia-immobile-incollata-alla-sua-storia-e-ai-suoi-veleni/8584773/"
         },
         {
-          "titulo": "“La tua grinta a Milano-Cortina ci ha travolti tutti”, “Quell’impresa sarà sempre dentro noi”: da Fontana a Vonn, i commenti sotto il post di Brignone",
-          "entradilla": "Mikaela Shiffrin, Lindsey Vonn, Tina Maze, Giovanni Franzoni. E ancora, da altri sport: Flavio Cobolli pochi minuti prima di scendere in campo in Coppa Davis, Jasmine Paolini, Dorothea Wierer, Arianna Fontana, Larissa Iapichino. Sotto il post del video di addio allo sci di Federica Brignone c’è un e",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/25/federica-brignone-ritiro-sci-omaggi-campioni-post-social-messaggi/8583699/"
+          "titulo": "Autogol della destra in Ue: niente sostegno a Milano per una sede Onu sull’Ai (e gli alleati litigano)",
+          "entradilla": "Le intenzioni erano buone, ma una banale risoluzione al Parlamento europeo diventa un autogol per il centrodestra italiano, che finisce per scambiarsi accuse reciproche. Tutto parte dal voto in plenaria sulla città che dovrà ospitare un nuovo pilastro delle Nazioni Unite per la “valutazione indipend",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/26/milano-sede-onu-intelligenza-artificiale-centrodestra-notizie/8584857/"
         },
         {
-          "titulo": "San Benedetto ritira i 120 licenziamenti: le uscite saranno 79 e su base volontaria",
-          "entradilla": "Accordo raggiunto a Scorzè: nessun lavoratore di San Benedetto sarà costretto a lasciare il posto di lavoro. L’azienda ha revocato i 120 licenziamenti, ma ci sarà comunque una riduzione della forza lavoro. Sono previste infatti le uscite volontarie incentivate per 79 persone e altre settanta dovrann",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/25/san-benedetto-licenziamenti-esuberi-volontari-notizie/8583795/"
+          "titulo": "De Gennaro, quali ordini contro la sua volontà? Rivedi la diretta con Peter Gomez e Giuseppe Pipitone",
+          "entradilla": "In una lettera datata 20 novembre, il giorno prima di togliersi la vita, Gianni De Gennaro ha scritto di aver sempre “obbedito agli ordini che mi sono stati impartiti” e di aver “assolto ai compiti che mi sono stati affidati, anche contro la mia volontà, con impegno”. Di questo e di tutti gli altri ",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/26/de-gennaro-riunione-redazione-gomez-diretta/8584977/"
         },
         {
-          "titulo": "Violenza sulle donne, ok del governo alla mozione di Vannacci. Le opposizioni: “Schiaffo alle vittime di femminicidio”",
-          "entradilla": "“Affermare il principio dell’uguaglianza del valore della vita umana, garantendo a ogni persona la medesima tutela penale indipendentemente dal sesso“. Nella giornata contro la violenza sulle donne, la Camera approva una mozione di Futuro nazionale che minimizza l’emergenza, chiedendo tra le righe (",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/25/femminicidio-mozione-vannacci-governo-notizie/8583705/"
+          "titulo": "FdI vuole un osservatorio per segnalare i libri scolastici “non conformi”. Sindacati e studenti: “È censura. A rischio la libertà di insegnamento”",
+          "entradilla": "Con 142 sì e 112 no, l’Aula della Camera ha approvato il Decreto Scuola. Molte le misure contenute nel testo. Dal tetto del 30% degli stranieri per le classi prime, alle novità sui libri digitali, passando per il divieto del burqa in classe, il cambio del nome degli istituti tecnologici e profession",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/26/decreto-scuola-osservatorio-libri-testo-notizie/8584949/"
         },
         {
-          "titulo": "Tremila militari e un’esercitazione senza precedenti insieme alla Cambogia: la Cina mostra di nuovo i muscoli fuori dai suoi confini",
-          "entradilla": "La Cambogia come alleato strategico per monitorare il traffico dello Stretto di Malacca (Malesia) e considerare il porto di Ream come base navale più importante all’estero da avere nella propria disponibilità, assieme a quella di Gibuti (Africa). La Cina non ha nascosto negli anni di aver puntato su",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/25/esercitazione-golden-dragon-cina-cambogia-notizie/8583666/"
+          "titulo": "Tajani: “Non sapevamo dell’attacco di Kiev in Libia”. Renzi lo sfotte in Aula: “Lei è come pillola del giorno dopo”",
+          "entradilla": "“Dopo l’attacco ucraino a Bengasi lei ha detto ’sono stato colto di sorpresa’. Le domando: ma davvero? Quando lei rilascia dichiarazioni alle agenzie noi siamo sempre in dubbio se siano dichiarazioni vere o se siano ‘tajanate’”. Inizia così Matteo Renzi il suo question time a Palazzo Madama rivolto ",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/26/tajani-renzi-attacco-ucraina-libia-pillola-del-giorno-dopo-video/8584916/"
         },
         {
-          "titulo": "Striscia di Gaza contaminata: la bonifica deve diventare una priorità internazionale",
-          "entradilla": "Da Gaza continuano ad arrivare immagini terribili: corpi mutilati, bambini consumati dalla malnutrizione, madri disperate, file interminabili di persone in cerca di cibo. E soprattutto, quel terrore negli occhi di chi non sa se riuscirà a sopravvivere. Intanto emerge un’altra tragedia. Le bombe non ",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/25/gaza-disastro-ambientale-oxfam-contaminazione-commento/8583287/"
+          "titulo": "Il governo del Regno Unito invia lettera a 100mila riservisti: “Preparatevi in caso di guerra”",
+          "entradilla": "Echi di guerra nella vecchia Europa. Il ministro della Difesa del Regno Unito, Wes Streeting, ha fatto inviare una lettera circolare a ben 100mila riservisti, ex militari soggetti a richiamo in caso di emergenze, sollecitati a tenersi pronti a fronteggiare un orizzonte di “minacce rafforzate”, fra c",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/26/regno-unito-riservisti-lettera-guerra-notizie/8584944/"
         },
         {
-          "titulo": "“Washington non deve decidere chi può avere un conto e usare la carta di credito in Ue”: 56 eurodeputati chiedono uno scudo contro le sanzioni Usa",
-          "entradilla": "Il Parlamento europeo assegna il Premio Sakharov alla Corte penale internazionale per l’impegno a difesa dei diritti e dello Stato di diritto, ma non riesce a proteggere i suoi giudici dalle conseguenze delle sanzioni americane. Trenta giudici e funzionari si sono visti bloccare carte di pagamento e",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/25/sanzioni-usa-cpi-scudo-europeo-notizie/8583698/"
+          "titulo": "L’appello della famiglia di Gianni De Gennaro: “Rendere pubblica integralmente la sua lettera aperta”",
+          "entradilla": "“La famiglia De Gennaro auspica che la lettera aperta sia resa pubblica nella sua interezza, nel rigoroso rispetto della legge e delle prerogative delle Procure che hanno avviato le indagini sulla drammatica scomparsa di Gianni De Gennaro“. È l’appello della famiglia dell’ex capo della polizia, mort",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/26/morte-de-gennaro-lettera-appello-famiglia-notizie/8584922/"
         },
         {
-          "titulo": "Federica Brignone, la sciatrice italiana più vincente di sempre: dalle Sfere di Cristallo alle medaglie olimpiche, il palmarès di una carriera leggendaria",
-          "entradilla": "L’Italia dello sci alpino ha perso la sua sciatrice più vincente di sempre. Il ritiro di Federica Brignone, annunciato oggi sui propri profili social, lascia un vuoto enorme nello sport italiano. La Tigre valdostana ha riscritto la storia dello sci alpino azzurro, scalando le classifiche un passo al",
-          "enlace": "https://www.ilfattoquotidiano.it/2026/11/25/federica-brignone-palmares-numeri-record-ritiro/8583633/"
+          "titulo": "Gli apparati, il potere e i segreti dello Stato: 40 anni di intrecci nella storia di De Gennaro: “Ho obbedito anche contro la mia volontà”. Ma a chi?",
+          "entradilla": "“Ho obbedito sempre agli ordini che mi sono stati impartiti ed ho assolto ai compiti che mi sono stati affidati, anche contro la mia volontà”. Tra le parole lasciate da Gianni De Gennaro nella sua ultima lettera, quella del 20 novembre, sono forse queste le più importanti. Perché aprono un interroga",
+          "enlace": "https://www.ilfattoquotidiano.it/2026/11/26/de-gennaro-apparati-segreti-stato-notizie/8584365/"
         }
       ],
       "analisis": {
-        "resumen": "- El PPE vota con la derecha sobre normas ambientales europeas y queda en riesgo la reelección de Metsola.\n- El Gobierno italiano recupera las provincias y avala una moción sobre violencia contra las mujeres criticada por la oposición.\n- El campo progresista sigue dividido sobre un impuesto a los superricos; San Benedetto retira 120 despidos y acuerda 79 salidas voluntarias.\n- Caen Wall Street y las tecnológicas; se destacan también unas maniobras de China con Camboya y la contaminación en Gaza.\n- Un estudio espacial apunta a nuevas pistas sobre el alzhéimer; el deporte se centra en la retirada de Federica Brignone.",
-        "populismo": 38,
-        "motivo_populismo": "Expresiones como «resucita los sillones», «Wall Street se hunde» y «China muestra los músculos» aportan dramatización y crítica, aunque no se aprecia una apelación explícita del pueblo contra las élites.",
-        "sesgo": "La portada presenta un enfoque crítico hacia decisiones del Gobierno italiano y del PPE, con formulaciones como «resucita los sillones» y la afirmación de que una moción minimiza la emergencia de la violencia contra las mujeres. También destaca un enfoque humanitario sobre Gaza."
+        "resumen": "- Dos trabajadores italianos murieron en Kuwait tras un ataque con drones.\n- Un estudio sindical critica el coste y las desigualdades de la tributación fija para autónomos.\n- La ley escolar incluye límites a alumnos extranjeros y otras medidas que suscitan críticas; también se cuestiona una propuesta sobre libros escolares.\n- Varias noticias abordan la carta de Gianni De Gennaro y la petición de su familia de publicarla íntegramente.\n- La portada trata además el caso Orlandi, las tensiones políticas sobre asuntos internacionales y la alerta a reservistas británicos.",
+        "populismo": 45,
+        "motivo_populismo": "Expresiones como «regalo», «autogol» y «venenos», junto con preguntas como «¿pero a quién?», aportan dramatización y confrontación, aunque no aparece una apelación explícita al pueblo contra las élites.",
+        "sesgo": "La selección y la redacción muestran un enfoque crítico hacia la derecha y algunas medidas gubernamentales, con protagonismo de las objeciones sindicales y de la oposición. También se destaca la dimensión conflictiva y controvertida de la política."
       }
     }
   ]
